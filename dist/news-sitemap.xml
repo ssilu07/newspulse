@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/federal-judge-calls-flock-indiscriminate-mass-surveillance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T19:33:15+00:00</news:publication_date>
+      <news:title>Federal judge calls Flock ‘indiscriminate mass surveillance’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Federal judge calls Flock ‘indiscriminate mass surveillance’</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-nd/</loc>
     <news:news>
       <news:publication>
@@ -30,21 +45,6 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
       <image:title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-go/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T15:02:01+00:00</news:publication_date>
-      <news:title>Jack Dorsey’s Bitchat disappears from app stores in India after government order</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Jack Dorsey’s Bitchat disappears from app stores in India after government order</image:title>
     </image:image>
   </url>
   <url>
@@ -183,48 +183,48 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/who-was-the-best-player-on-the-pitch-england-player-ratings/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/bellingham-unlocks-new-level-and-potential-to-be-one-of-the-great/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T17:58:13+00:00</news:publication_date>
-      <news:title>Who was the best player on the pitch?</news:title>
+      <news:publication_date>2026-10-03T21:07:59+00:00</news:publication_date>
+      <news:title>Bellingham unlocks new level and potential to be &#x27;one of the greatest</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/36cf3a10-bf52-11f1-a84d-81c67bc2828e.jpg</image:loc>
-      <image:title>Who was the best player on the pitch?</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec9a/live/385a09b0-bf5b-11f1-bf94-5355097afbf2.jpg</image:loc>
+      <image:title>Bellingham unlocks new level and potential to be &#x27;one of the greatest</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/incredible-red-bull-upgrade-enlivens-f1-in-malaysia/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/two-going-on-four-five-or-six-on-good-night-for-new-scotland-era/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T12:25:57+00:00</news:publication_date>
-      <news:title>Incredible&#x27; Red Bull upgrade enlivens F1 in Malaysia</news:title>
+      <news:publication_date>2026-10-03T22:22:18+00:00</news:publication_date>
+      <news:title>Two going on four, five or six on good night for new Scotland era</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a27/live/05ca5f80-bf25-11f1-b10d-f956452c9061.jpg</image:loc>
-      <image:title>Incredible&#x27; Red Bull upgrade enlivens F1 in Malaysia</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8291/live/df976de0-bf78-11f1-940c-1914ec9d5f66.jpg</image:loc>
+      <image:title>Two going on four, five or six on good night for new Scotland era</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/gloucester-thrash-sorry-quins-to-go-top-of-the-prem/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/wakefield-beat-warrington-to-win-super-league/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T18:44:00+00:00</news:publication_date>
-      <news:title>Gloucester thrash sorry Quins to go top of the Prem</news:title>
+      <news:publication_date>2026-10-03T19:02:55+00:00</news:publication_date>
+      <news:title>Wakefield beat Warrington to win Super League</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4e/live/e73dbdd0-bf53-11f1-a84d-81c67bc2828e.jpg</image:loc>
-      <image:title>Gloucester thrash sorry Quins to go top of the Prem</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afce/live/896ca180-bf76-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>Wakefield beat Warrington to win Super League</image:title>
     </image:image>
   </url>
   <url>

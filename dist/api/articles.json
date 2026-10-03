@@ -1,6 +1,74 @@
 [
   {
     "id": "art_1",
+    "slug": "federal-judge-calls-flock-indiscriminate-mass-surveillance",
+    "category": "tech",
+    "category_name": "Tech",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "TechCrunch",
+    "raw_title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "raw_summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop",
+    "original_url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "published_at": "2026-10-03T19:33:15+00:00",
+    "time_ago": "3h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Factual reporting confirmed by TechCrunch.",
+      "Global industry stakeholders are monitoring downstream implications.",
+      "Full regulatory and community updates scheduled for upcoming briefing."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "badge": "Tech",
+        "text": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop",
+        "alt": "Federal judge calls Flock ‘indiscriminate mass surveillance’ cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Development",
+        "badge": "What Happened",
+        "text": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Context & Facts",
+        "badge": "Key Background",
+        "text": "Market analysts highlight how this aligns with recent sector shifts and regulatory milestones.",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Market & Industry Impact",
+        "badge": "Why It Matters",
+        "text": "Consumers and enterprise partners are assessing the immediate functional implications.",
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1080&h=1920&fit=crop",
+        "alt": "Impact visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Looking Forward",
+        "badge": "Key Takeaway",
+        "text": "Further updates expected as TechCrunch tracks developments and industry reception.",
+        "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop",
+        "alt": "Future outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 26
+  },
+  {
+    "id": "art_2",
     "slug": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-nd",
     "category": "tech",
     "category_name": "Tech",
@@ -15,7 +83,7 @@
     "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop",
     "original_url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
     "published_at": "2026-10-03T18:43:57+00:00",
-    "time_ago": "15m ago",
+    "time_ago": "3h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by TechCrunch.",
@@ -68,7 +136,7 @@
     "word_count": 16
   },
   {
-    "id": "art_2",
+    "id": "art_3",
     "slug": "openai-safety-employee-resigns-claiming-the-companys-culture-is-b",
     "category": "tech",
     "category_name": "Tech",
@@ -83,7 +151,7 @@
     "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop",
     "original_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
     "published_at": "2026-10-03T16:30:01+00:00",
-    "time_ago": "2h ago",
+    "time_ago": "6h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by TechCrunch.",
@@ -136,74 +204,6 @@
     "word_count": 28
   },
   {
-    "id": "art_3",
-    "slug": "jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-go",
-    "category": "tech",
-    "category_name": "Tech",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "TechCrunch",
-    "raw_title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-    "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-    "raw_summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-    "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop",
-    "original_url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-    "published_at": "2026-10-03T15:02:01+00:00",
-    "time_ago": "3h ago",
-    "reading_time": "1 min read",
-    "bullet_points": [
-      "Factual reporting confirmed by TechCrunch.",
-      "Global industry stakeholders are monitoring downstream implications.",
-      "Full regulatory and community updates scheduled for upcoming briefing."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-        "badge": "Tech",
-        "text": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop",
-        "alt": "Jack Dorsey’s Bitchat disappears from app stores in India after government order cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Development",
-        "badge": "What Happened",
-        "text": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Context & Facts",
-        "badge": "Key Background",
-        "text": "Market analysts highlight how this aligns with recent sector shifts and regulatory milestones.",
-        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Market & Industry Impact",
-        "badge": "Why It Matters",
-        "text": "Consumers and enterprise partners are assessing the immediate functional implications.",
-        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1080&h=1920&fit=crop",
-        "alt": "Impact visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Looking Forward",
-        "badge": "Key Takeaway",
-        "text": "Further updates expected as TechCrunch tracks developments and industry reception.",
-        "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop",
-        "alt": "Future outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 13
-  },
-  {
     "id": "art_4",
     "slug": "guest-column-a-caution-about-artificial-intelligence-the-suffolk-",
     "category": "ai-future",
@@ -219,7 +219,7 @@
     "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=800&fit=crop",
     "original_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSE51cHNfdVoxb3JINnJtU0hNOVNIbVMyVWo1Wm43cEY4Y1N2WFFTRzZwN2dtWl9TVXZHOF92Y3E1QVJydHgzY1M1b2x1LUdZQTR0OGtkSEk1QU5tYmloOTUzZWtTcWNMbGFIREZrcWhZd01GdDFjeTNSaGVLYXJoZ0V4N1V1cjBGNWNBQ25OTm1xLUNNN1JoX1BEbUZzQWM?oc=5",
     "published_at": "2026-10-03T17:10:32+00:00",
-    "time_ago": "1h ago",
+    "time_ago": "5h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by The Suffolk Times.",
@@ -287,7 +287,7 @@
     "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=800&fit=crop",
     "original_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
     "published_at": "2026-10-03T14:51:00+00:00",
-    "time_ago": "4h ago",
+    "time_ago": "7h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by nytimes.com.",
@@ -355,7 +355,7 @@
     "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=800&fit=crop",
     "original_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelhfM0ZFZnhaTkZHOUJZd2ZUeUF4WW5ZRUNQNmpwX1NodE4yMGlYVVNuU1dhb2ZMTGppcXpIdXhiNW04UG1hZEs4ZHdXTmI3WkpBRzVZRk5IU3NvVjRRTFExS2p3R2prSThpWlNzLWpydHdEUWt4M1ZySjdIamU5ZG8xZUpIeXZNMkxmb3dKdzF2VEthMVdTdFVsYnQtSDZ3QktJX1dRZnc3ZVNWVFdVeXNqTzlJbzRRSjJaU2cwMnRvNVNFTFFlcjI0MzZpR1NHSjNCVTg0N3pjc3p6UG10NGgyWTdfZktHR2Z4Q2k2SnFjRDVxSjl4Uy12N284S3QyeHhXMEdteVJubGc?oc=5",
     "published_at": "2026-10-03T11:36:40+00:00",
-    "time_ago": "7h ago",
+    "time_ago": "11h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by Cureus.",
@@ -423,7 +423,7 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg",
     "original_url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
     "published_at": "2026-10-03T04:38:31+00:00",
-    "time_ago": "14h ago",
+    "time_ago": "18h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
@@ -491,7 +491,7 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/767f/live/4c61a230-be64-11f1-b36c-81ad410b221e.jpg",
     "original_url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
     "published_at": "2026-10-03T08:58:44+00:00",
-    "time_ago": "10h ago",
+    "time_ago": "13h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
@@ -627,7 +627,7 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
     "original_url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
     "published_at": "2026-10-03T17:48:42+00:00",
-    "time_ago": "1h ago",
+    "time_ago": "4h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
@@ -695,7 +695,7 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
     "original_url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
     "published_at": "2026-10-03T14:27:33+00:00",
-    "time_ago": "4h ago",
+    "time_ago": "8h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
@@ -763,7 +763,7 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg",
     "original_url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
     "published_at": "2026-10-03T16:16:49+00:00",
-    "time_ago": "2h ago",
+    "time_ago": "6h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
@@ -817,20 +817,20 @@
   },
   {
     "id": "art_13",
-    "slug": "who-was-the-best-player-on-the-pitch-england-player-ratings",
+    "slug": "bellingham-unlocks-new-level-and-potential-to-be-one-of-the-great",
     "category": "sports",
     "category_name": "Sports",
     "category_color": "#ef4444",
     "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
     "category_icon": "🏆",
     "source": "BBC News",
-    "raw_title": "Who was the best player on the pitch? - England player ratings",
-    "title": "Who was the best player on the pitch?",
-    "raw_summary": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
-    "summary": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/36cf3a10-bf52-11f1-a84d-81c67bc2828e.jpg",
-    "original_url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-10-03T17:58:13+00:00",
+    "raw_title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+    "title": "Bellingham unlocks new level and potential to be 'one of the greatest",
+    "raw_summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+    "summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec9a/live/385a09b0-bf5b-11f1-bf94-5355097afbf2.jpg",
+    "original_url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-03T21:07:59+00:00",
     "time_ago": "1h ago",
     "reading_time": "1 min read",
     "bullet_points": [
@@ -841,17 +841,17 @@
     "slides": [
       {
         "slide_number": 1,
-        "heading": "Who was the best player on the pitch?",
+        "heading": "Bellingham unlocks new level and potential to be 'one of the greatest",
         "badge": "Sports",
-        "text": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/36cf3a10-bf52-11f1-a84d-81c67bc2828e.jpg",
-        "alt": "Who was the best player on the pitch? cover image"
+        "text": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec9a/live/385a09b0-bf5b-11f1-bf94-5355097afbf2.jpg",
+        "alt": "Bellingham unlocks new level and potential to be 'one of the greatest cover image"
       },
       {
         "slide_number": 2,
         "heading": "The Core Development",
         "badge": "What Happened",
-        "text": "How did our report rate the players' performances?",
+        "text": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
         "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1080&h=1920&fit=crop",
         "alt": "Core development visual"
       },
@@ -881,25 +881,25 @@
       }
     ],
     "ai_generated": false,
-    "word_count": 25
+    "word_count": 26
   },
   {
     "id": "art_14",
-    "slug": "incredible-red-bull-upgrade-enlivens-f1-in-malaysia",
+    "slug": "two-going-on-four-five-or-six-on-good-night-for-new-scotland-era",
     "category": "sports",
     "category_name": "Sports",
     "category_color": "#ef4444",
     "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
     "category_icon": "🏆",
     "source": "BBC News",
-    "raw_title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
-    "title": "Incredible' Red Bull upgrade enlivens F1 in Malaysia",
-    "raw_summary": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
-    "summary": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a27/live/05ca5f80-bf25-11f1-b10d-f956452c9061.jpg",
-    "original_url": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-10-03T12:25:57+00:00",
-    "time_ago": "6h ago",
+    "raw_title": "Two going on four, five or six on good night for new Scotland era",
+    "title": "Two going on four, five or six on good night for new Scotland era",
+    "raw_summary": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
+    "summary": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8291/live/df976de0-bf78-11f1-940c-1914ec9d5f66.jpg",
+    "original_url": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-03T22:22:18+00:00",
+    "time_ago": "16m ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
@@ -909,17 +909,17 @@
     "slides": [
       {
         "slide_number": 1,
-        "heading": "Incredible' Red Bull upgrade enlivens F1 in Malaysia",
+        "heading": "Two going on four, five or six on good night for new Scotland era",
         "badge": "Sports",
-        "text": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a27/live/05ca5f80-bf25-11f1-b10d-f956452c9061.jpg",
-        "alt": "Incredible' Red Bull upgrade enlivens F1 in Malaysia cover image"
+        "text": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8291/live/df976de0-bf78-11f1-940c-1914ec9d5f66.jpg",
+        "alt": "Two going on four, five or six on good night for new Scotland era cover image"
       },
       {
         "slide_number": 2,
         "heading": "The Core Development",
         "badge": "What Happened",
-        "text": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
+        "text": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
         "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1080&h=1920&fit=crop",
         "alt": "Core development visual"
       },
@@ -949,25 +949,25 @@
       }
     ],
     "ai_generated": false,
-    "word_count": 18
+    "word_count": 19
   },
   {
     "id": "art_15",
-    "slug": "gloucester-thrash-sorry-quins-to-go-top-of-the-prem",
+    "slug": "wakefield-beat-warrington-to-win-super-league",
     "category": "sports",
     "category_name": "Sports",
     "category_color": "#ef4444",
     "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
     "category_icon": "🏆",
     "source": "BBC News",
-    "raw_title": "Gloucester thrash sorry Quins to go top of the Prem",
-    "title": "Gloucester thrash sorry Quins to go top of the Prem",
-    "raw_summary": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
-    "summary": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4e/live/e73dbdd0-bf53-11f1-a84d-81c67bc2828e.jpg",
-    "original_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-10-03T18:44:00+00:00",
-    "time_ago": "15m ago",
+    "raw_title": "Wakefield beat Warrington to win Super League",
+    "title": "Wakefield beat Warrington to win Super League",
+    "raw_summary": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
+    "summary": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afce/live/896ca180-bf76-11f1-babe-4199b0e7ccea.jpg",
+    "original_url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-03T19:02:55+00:00",
+    "time_ago": "3h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
@@ -977,17 +977,17 @@
     "slides": [
       {
         "slide_number": 1,
-        "heading": "Gloucester thrash sorry Quins to go top of the Prem",
+        "heading": "Wakefield beat Warrington to win Super League",
         "badge": "Sports",
-        "text": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4e/live/e73dbdd0-bf53-11f1-a84d-81c67bc2828e.jpg",
-        "alt": "Gloucester thrash sorry Quins to go top of the Prem cover image"
+        "text": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afce/live/896ca180-bf76-11f1-babe-4199b0e7ccea.jpg",
+        "alt": "Wakefield beat Warrington to win Super League cover image"
       },
       {
         "slide_number": 2,
         "heading": "The Core Development",
         "badge": "What Happened",
-        "text": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+        "text": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
         "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1080&h=1920&fit=crop",
         "alt": "Core development visual"
       },
@@ -1017,7 +1017,7 @@
       }
     ],
     "ai_generated": false,
-    "word_count": 17
+    "word_count": 23
   },
   {
     "id": "art_16",
@@ -1035,7 +1035,7 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da4/live/555d3890-bea5-11f1-babe-4199b0e7ccea.jpg",
     "original_url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
     "published_at": "2026-10-03T11:07:52+00:00",
-    "time_ago": "7h ago",
+    "time_ago": "11h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
@@ -1103,7 +1103,7 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d175/live/03971280-bf2a-11f1-b10d-f956452c9061.jpg",
     "original_url": "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o?at_medium=RSS&at_campaign=rss",
     "published_at": "2026-10-03T13:21:40+00:00",
-    "time_ago": "5h ago",
+    "time_ago": "9h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
@@ -1171,7 +1171,7 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda6/live/92a85390-bf06-11f1-bc2e-018d645d8d21.jpg",
     "original_url": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
     "published_at": "2026-10-03T02:26:42+00:00",
-    "time_ago": "16h ago",
+    "time_ago": "20h ago",
     "reading_time": "1 min read",
     "bullet_points": [
       "Factual reporting confirmed by BBC News.",
