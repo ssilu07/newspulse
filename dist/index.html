@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NewsPulse - Bite-Sized Breaking News & Visual Stories</title>
+  <meta name="description" content="Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI.">
+  <link rel="canonical" href="https://newspulse-portal.vercel.app/">
+
+  <!-- OpenGraph / Twitter Meta -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://newspulse-portal.vercel.app/">
+  <meta property="og:title" content="NewsPulse - Bite-Sized Breaking News & Visual Stories">
+  <meta property="og:description" content="Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI.">
+  <meta property="og:image" content="https://newspulse-portal.vercel.app/static/assets/logo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="NewsPulse - Bite-Sized Breaking News & Visual Stories">
+  <meta name="twitter:description" content="Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI.">
+  <meta name="twitter:image" content="https://newspulse-portal.vercel.app/static/assets/logo.png">
+
+  <!-- Favicon & PWA -->
+  <link rel="icon" type="image/svg+xml" href="/static/assets/icon.svg">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#07090e">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/static/css/style.css">
+
+  <script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "NewsMediaOrganization", "name": "NewsPulse", "url": "https://newspulse-portal.vercel.app", "logo": "https://newspulse-portal.vercel.app/static/assets/logo.png", "description": "Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI.", "sameAs": ["https://twitter.com/NewsPulse", "https://facebook.com/NewsPulse"]}
+  </script>
+</head>
+<body>
+
+  <!-- Breaking Live Marquee Ticker -->
+  <div class="breaking-marquee" role="marquee" aria-label="Breaking Headlines">
+    <div class="marquee-badge">
+      <span class="live-dot"></span>
+      <span>Live Breaking</span>
+    </div>
+    <div class="marquee-track">
+      <a href="/stories/meta-wants-your-next-gadget-to-be-muse-infused/" class="marquee-item"><strong style="color: #06b6d4;">[Tech]</strong> Meta wants your next gadget to be Muse-infused</a><a href="/stories/sanders-introduces-bill-to-ban-the-federal-government-from-using-/" class="marquee-item"><strong style="color: #06b6d4;">[Tech]</strong> Sanders introduces bill to ban the federal government from using Flock</a><a href="/stories/artificial-intelligence-ai-triggered-rapid-response-notifications/" class="marquee-item"><strong style="color: #8b5cf6;">[AI & Future]</strong> Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients</a><a href="/stories/better-artificial-intelligence-stock-nvidia-vs-sk-hynix-the-motle/" class="marquee-item"><strong style="color: #8b5cf6;">[AI & Future]</strong> Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix</a><a href="/stories/g7-to-release-millions-of-barrels-of-oil-and-diesel-after-trump-t/" class="marquee-item"><strong style="color: #10b981;">[Business]</strong> G7 to release millions of barrels of oil and diesel after Trump threat</a><a href="/stories/uk-diesel-prices-top-2-a-litre-for-first-time-rac-says/" class="marquee-item"><strong style="color: #10b981;">[Business]</strong> UK diesel prices top £2 a litre for first time, RAC says</a><a href="/stories/flydubai-co-pilot-attacked-captain-with-axe-uae-official-says/" class="marquee-item"><strong style="color: #f59e0b;">[World]</strong> Flydubai co-pilot attacked captain with axe, UAE official says</a><a href="/stories/russia-strikes-second-major-bridge-in-kyiv-mayor-says/" class="marquee-item"><strong style="color: #f59e0b;">[World]</strong> Russia strikes second major bridge in Kyiv, mayor says</a><a href="/stories/which-clubs-did-man-citys-inflated-money-flow-to-in-transfer-mark/" class="marquee-item"><strong style="color: #ef4444;">[Sports]</strong> Which clubs did Man City&#x27;s &#x27;inflated&#x27; money flow to in transfer market?</a><a href="/stories/pretorius-breaks-gayles-t20-record-score/" class="marquee-item"><strong style="color: #ef4444;">[Sports]</strong> Pretorius breaks Gayle&#x27;s T20 record score</a><a href="/stories/meta-wants-your-next-gadget-to-be-muse-infused/" class="marquee-item"><strong style="color: #06b6d4;">[Tech]</strong> Meta wants your next gadget to be Muse-infused</a><a href="/stories/sanders-introduces-bill-to-ban-the-federal-government-from-using-/" class="marquee-item"><strong style="color: #06b6d4;">[Tech]</strong> Sanders introduces bill to ban the federal government from using Flock</a><a href="/stories/artificial-intelligence-ai-triggered-rapid-response-notifications/" class="marquee-item"><strong style="color: #8b5cf6;">[AI & Future]</strong> Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients</a><a href="/stories/better-artificial-intelligence-stock-nvidia-vs-sk-hynix-the-motle/" class="marquee-item"><strong style="color: #8b5cf6;">[AI & Future]</strong> Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix</a><a href="/stories/g7-to-release-millions-of-barrels-of-oil-and-diesel-after-trump-t/" class="marquee-item"><strong style="color: #10b981;">[Business]</strong> G7 to release millions of barrels of oil and diesel after Trump threat</a><a href="/stories/uk-diesel-prices-top-2-a-litre-for-first-time-rac-says/" class="marquee-item"><strong style="color: #10b981;">[Business]</strong> UK diesel prices top £2 a litre for first time, RAC says</a><a href="/stories/flydubai-co-pilot-attacked-captain-with-axe-uae-official-says/" class="marquee-item"><strong style="color: #f59e0b;">[World]</strong> Flydubai co-pilot attacked captain with axe, UAE official says</a><a href="/stories/russia-strikes-second-major-bridge-in-kyiv-mayor-says/" class="marquee-item"><strong style="color: #f59e0b;">[World]</strong> Russia strikes second major bridge in Kyiv, mayor says</a><a href="/stories/which-clubs-did-man-citys-inflated-money-flow-to-in-transfer-mark/" class="marquee-item"><strong style="color: #ef4444;">[Sports]</strong> Which clubs did Man City&#x27;s &#x27;inflated&#x27; money flow to in transfer market?</a><a href="/stories/pretorius-breaks-gayles-t20-record-score/" class="marquee-item"><strong style="color: #ef4444;">[Sports]</strong> Pretorius breaks Gayle&#x27;s T20 record score</a>
+    </div>
+  </div>
+
+  <!-- Header -->
+  
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="/" class="brand-link" aria-label="NewsPulse Home">
+        <img src="/static/assets/logo.svg" alt="NewsPulse" class="brand-logo-img">
+      </a>
+      
+      <div class="header-center">
+        <div class="search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="newsSearchInput" class="search-input" placeholder="Search news, topics, keywords..." aria-label="Search news">
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <span id="liveTimeDisplay" class="time-widget">UTC</span>
+        <button id="themeToggleBtn" class="theme-toggle-btn" aria-label="Toggle dark/light theme">🌙</button>
+      </div>
+    </div>
+  </header>
+
+
+  <main class="container">
+    <!-- Visual Web Stories Carousel -->
+    <section class="stories-section" aria-label="Visual Web Stories">
+      <div class="section-label-row">
+        <h2 class="section-heading">
+          <span class="dot"></span>
+          <span>Trending Web Stories</span>
+        </h2>
+        <span style="font-size: 11px; color: var(--text-muted); font-weight: 600;">TAP TO VIEW 5-SLIDE VISUALS</span>
+      </div>
+      <div class="stories-carousel">
+        
+        <a href="/stories/meta-wants-your-next-gadget-to-be-muse-infused/" class="story-bubble-card" title="Meta wants your next gadget to be Muse-infused">
+          <div class="bubble-ring">
+            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop" alt="Meta wants your next gadget to be Muse-infused" class="bubble-img" loading="lazy">
+            <span class="bubble-badge">STORY</span>
+          </div>
+          <span class="bubble-title">Meta wants your next gadget to be Muse-infused</span>
+        </a>
+        <a href="/stories/sanders-introduces-bill-to-ban-the-federal-government-from-using-/" class="story-bubble-card" title="Sanders introduces bill to ban the federal government from using Flock">
+          <div class="bubble-ring">
+            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop" alt="Sanders introduces bill to ban the federal government from using Flock" class="bubble-img" loading="lazy">
+            <span class="bubble-badge">STORY</span>
+          </div>
+          <span class="bubble-title">Sanders introduces bill to ban the federal government from using Flock</span>
+        </a>
+        <a href="/stories/artificial-intelligence-ai-triggered-rapid-response-notifications/" class="story-bubble-card" title="Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients">
+          <div class="bubble-ring">
+            <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop" alt="Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients" class="bubble-img" loading="lazy">
+            <span class="bubble-badge">STORY</span>
+          </div>
+          <span class="bubble-title">Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients</span>
+        </a>
+        <a href="/stories/better-artificial-intelligence-stock-nvidia-vs-sk-hynix-the-motle/" class="story-bubble-card" title="Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix">
+          <div class="bubble-ring">
+            <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop" alt="Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix" class="bubble-img" loading="lazy">
+            <span class="bubble-badge">STORY</span>
+          </div>
+          <span class="bubble-title">Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix</span>
+        </a>
+        <a href="/stories/g7-to-release-millions-of-barrels-of-oil-and-diesel-after-trump-t/" class="story-bubble-card" title="G7 to release millions of barrels of oil and diesel after Trump threat">
+          <div class="bubble-ring">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg" alt="G7 to release millions of barrels of oil and diesel after Trump threat" class="bubble-img" loading="lazy">
+            <span class="bubble-badge">STORY</span>
+          </div>
+          <span class="bubble-title">G7 to release millions of barrels of oil and diesel after Trump threat</span>
+        </a>
+        <a href="/stories/uk-diesel-prices-top-2-a-litre-for-first-time-rac-says/" class="story-bubble-card" title="UK diesel prices top £2 a litre for first time, RAC says">
+          <div class="bubble-ring">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0f/live/8e1b93c0-beeb-11f1-ba3c-a5b1d911ee67.jpg" alt="UK diesel prices top £2 a litre for first time, RAC says" class="bubble-img" loading="lazy">
+            <span class="bubble-badge">STORY</span>
+          </div>
+          <span class="bubble-title">UK diesel prices top £2 a litre for first time, RAC says</span>
+        </a>
+        <a href="/stories/flydubai-co-pilot-attacked-captain-with-axe-uae-official-says/" class="story-bubble-card" title="Flydubai co-pilot attacked captain with axe, UAE official says">
+          <div class="bubble-ring">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg" alt="Flydubai co-pilot attacked captain with axe, UAE official says" class="bubble-img" loading="lazy">
+            <span class="bubble-badge">STORY</span>
+          </div>
+          <span class="bubble-title">Flydubai co-pilot attacked captain with axe, UAE official says</span>
+        </a>
+        <a href="/stories/russia-strikes-second-major-bridge-in-kyiv-mayor-says/" class="story-bubble-card" title="Russia strikes second major bridge in Kyiv, mayor says">
+          <div class="bubble-ring">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg" alt="Russia strikes second major bridge in Kyiv, mayor says" class="bubble-img" loading="lazy">
+            <span class="bubble-badge">STORY</span>
+          </div>
+          <span class="bubble-title">Russia strikes second major bridge in Kyiv, mayor says</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- Category Filter Bar -->
+    <section class="filter-bar" aria-label="Category Selection">
+      <div class="category-pills">
+        <button class="cat-pill active" data-cat="all">⚡ All Stories</button>
+<button class="cat-pill" data-cat="tech">⚡ Tech</button>
+<button class="cat-pill" data-cat="ai-future">🧠 AI & Future</button>
+<button class="cat-pill" data-cat="business">📈 Business</button>
+<button class="cat-pill" data-cat="world">🌐 World</button>
+<button class="cat-pill" data-cat="sports">🏆 Sports</button>
+<button class="cat-pill" data-cat="entertainment">🎬 Entertainment</button>
+      </div>
+      <button id="bookmarksToggleBtn" class="bookmarks-toggle-btn" aria-label="View Saved Stories">
+        <span>★ Saved</span>
+        <span id="bookmarkCountBadge" style="background: rgba(0,0,0,0.2); padding: 1px 6px; border-radius: 9999px; font-size: 11px;">0</span>
+      </button>
+    </section>
+
+    <!-- News Cards Grid -->
+    <section class="articles-grid" id="articlesGrid" aria-label="Top News Headlines">
+      
+        <article class="news-card"
+          data-id="art_1"
+          data-slug="meta-wants-your-next-gadget-to-be-muse-infused"
+          data-category="tech"
+          data-category-name="Tech"
+          data-category-color="#06b6d4"
+          data-title="Meta wants your next gadget to be Muse-infused"
+          data-summary="Meta wants Muse in your TV and your toaster, so it&#x27;s giving the code away for free."
+          data-bullets="[&quot;Factual reporting confirmed by TechCrunch.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="TechCrunch"
+          data-time-ago="13h ago"
+          data-image="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop"
+          data-original-url="https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/">
+          
+          <div class="card-media">
+            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop" alt="Meta wants your next gadget to be Muse-infused" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #06b6d4;">Tech</span>
+            <span class="card-meta-badge">13h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">TechCrunch</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Meta wants your next gadget to be Muse-infused</h3>
+            <p class="card-summary">Meta wants Muse in your TV and your toaster, so it&#x27;s giving the code away for free.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/meta-wants-your-next-gadget-to-be-muse-infused/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_1" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_1" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_2"
+          data-slug="sanders-introduces-bill-to-ban-the-federal-government-from-using-"
+          data-category="tech"
+          data-category-name="Tech"
+          data-category-color="#06b6d4"
+          data-title="Sanders introduces bill to ban the federal government from using Flock"
+          data-summary="The proposed legislation would extend to all automotica license plate readers."
+          data-bullets="[&quot;Factual reporting confirmed by TechCrunch.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="TechCrunch"
+          data-time-ago="13h ago"
+          data-image="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop"
+          data-original-url="https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/">
+          
+          <div class="card-media">
+            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop" alt="Sanders introduces bill to ban the federal government from using Flock" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #06b6d4;">Tech</span>
+            <span class="card-meta-badge">13h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">TechCrunch</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Sanders introduces bill to ban the federal government from using Flock</h3>
+            <p class="card-summary">The proposed legislation would extend to all automotica license plate readers.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/sanders-introduces-bill-to-ban-the-federal-government-from-using-/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_2" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_2" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_3"
+          data-slug="artificial-intelligence-ai-triggered-rapid-response-notifications"
+          data-category="ai-future"
+          data-category-name="AI &amp; Future"
+          data-category-color="#8b5cf6"
+          data-title="Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients"
+          data-summary="Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients 2 Minute Medicine"
+          data-bullets="[&quot;Factual reporting confirmed by 2 Minute Medicine.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="2 Minute Medicine"
+          data-time-ago="12h ago"
+          data-image="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop"
+          data-original-url="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMUc0NWhSWE1JMWVBRk5SNk5UWDNrNzRpSVZVaXRlb0hYUFNncnFkdm92OGhOX3JGY3RXUGtJdGQxT0Y4d2N3NUV3U0h2WjdfZGV0RGdZYUxEeXVtSnF5RGlMay1EQmtrM2ZENEJSaUhmTVp0T3NFbndtZVBnallGeTRKZEliVjV3WTItdWRKc3VsR0Mxa3JOR2tWSW1LdlF6dm8yWkxVdnpvZWg0WlN4YS1yWUJJeWlZZnhHM1lIY2hLcW1hY21OUlRBSWl0aWthY1JfNkRpazRTZDBjUEhLaU9GU0FyLWM?oc=5">
+          
+          <div class="card-media">
+            <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop" alt="Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #8b5cf6;">AI &amp; Future</span>
+            <span class="card-meta-badge">12h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">2 Minute Medicine</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients</h3>
+            <p class="card-summary">Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients 2 Minute Medicine</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/artificial-intelligence-ai-triggered-rapid-response-notifications/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_3" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_3" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_4"
+          data-slug="better-artificial-intelligence-stock-nvidia-vs-sk-hynix-the-motle"
+          data-category="ai-future"
+          data-category-name="AI &amp; Future"
+          data-category-color="#8b5cf6"
+          data-title="Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix"
+          data-summary="Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix The Motley Fool"
+          data-bullets="[&quot;Factual reporting confirmed by The Motley Fool.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="The Motley Fool"
+          data-time-ago="10h ago"
+          data-image="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop"
+          data-original-url="https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFNBNnF5aXl2SkY3cThubkkxcDNzLWRqeWJkM183eFI2Z2hRX1NlUTlVTFh6YkNUQ2E4RmJVcGNJR2o3V2JISFFBUzh4SVo4RjVjbHBwU1c2UVkzUUVuaDZQY0ZRbXZsSUhtaW5lLVdXUEYzcDI1MXFaWXc1QnE2bFdOb25iU1p6Z0NOM0FMQ2drSFdIVzVuc3J2MTliQzBXVUxKcF92RjZCOHA1?oc=5">
+          
+          <div class="card-media">
+            <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop" alt="Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #8b5cf6;">AI &amp; Future</span>
+            <span class="card-meta-badge">10h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">The Motley Fool</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix</h3>
+            <p class="card-summary">Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix The Motley Fool</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/better-artificial-intelligence-stock-nvidia-vs-sk-hynix-the-motle/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_4" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_4" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_5"
+          data-slug="g7-to-release-millions-of-barrels-of-oil-and-diesel-after-trump-t"
+          data-category="business"
+          data-category-name="Business"
+          data-category-color="#10b981"
+          data-title="G7 to release millions of barrels of oil and diesel after Trump threat"
+          data-summary="The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
+          data-bullets="[&quot;Factual reporting confirmed by BBC News.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="BBC News"
+          data-time-ago="9h ago"
+          data-image="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg"
+          data-original-url="https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss">
+          
+          <div class="card-media">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg" alt="G7 to release millions of barrels of oil and diesel after Trump threat" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #10b981;">Business</span>
+            <span class="card-meta-badge">9h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">BBC News</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">G7 to release millions of barrels of oil and diesel after Trump threat</h3>
+            <p class="card-summary">The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/g7-to-release-millions-of-barrels-of-oil-and-diesel-after-trump-t/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_5" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_5" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_6"
+          data-slug="uk-diesel-prices-top-2-a-litre-for-first-time-rac-says"
+          data-category="business"
+          data-category-name="Business"
+          data-category-color="#10b981"
+          data-title="UK diesel prices top £2 a litre for first time, RAC says"
+          data-summary="The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK."
+          data-bullets="[&quot;Factual reporting confirmed by BBC News.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="BBC News"
+          data-time-ago="22h ago"
+          data-image="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0f/live/8e1b93c0-beeb-11f1-ba3c-a5b1d911ee67.jpg"
+          data-original-url="https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&amp;at_campaign=rss">
+          
+          <div class="card-media">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0f/live/8e1b93c0-beeb-11f1-ba3c-a5b1d911ee67.jpg" alt="UK diesel prices top £2 a litre for first time, RAC says" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #10b981;">Business</span>
+            <span class="card-meta-badge">22h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">BBC News</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">UK diesel prices top £2 a litre for first time, RAC says</h3>
+            <p class="card-summary">The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/uk-diesel-prices-top-2-a-litre-for-first-time-rac-says/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_6" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_6" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_7"
+          data-slug="flydubai-co-pilot-attacked-captain-with-axe-uae-official-says"
+          data-category="world"
+          data-category-name="World"
+          data-category-color="#f59e0b"
+          data-title="Flydubai co-pilot attacked captain with axe, UAE official says"
+          data-summary="The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker."
+          data-bullets="[&quot;Factual reporting confirmed by BBC News.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="BBC News"
+          data-time-ago="5h ago"
+          data-image="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg"
+          data-original-url="https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss">
+          
+          <div class="card-media">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg" alt="Flydubai co-pilot attacked captain with axe, UAE official says" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #f59e0b;">World</span>
+            <span class="card-meta-badge">5h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">BBC News</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Flydubai co-pilot attacked captain with axe, UAE official says</h3>
+            <p class="card-summary">The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/flydubai-co-pilot-attacked-captain-with-axe-uae-official-says/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_7" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_7" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_8"
+          data-slug="russia-strikes-second-major-bridge-in-kyiv-mayor-says"
+          data-category="world"
+          data-category-name="World"
+          data-category-color="#f59e0b"
+          data-title="Russia strikes second major bridge in Kyiv, mayor says"
+          data-summary="The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days."
+          data-bullets="[&quot;Factual reporting confirmed by BBC News.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="BBC News"
+          data-time-ago="6h ago"
+          data-image="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg"
+          data-original-url="https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss">
+          
+          <div class="card-media">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg" alt="Russia strikes second major bridge in Kyiv, mayor says" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #f59e0b;">World</span>
+            <span class="card-meta-badge">6h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">BBC News</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Russia strikes second major bridge in Kyiv, mayor says</h3>
+            <p class="card-summary">The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/russia-strikes-second-major-bridge-in-kyiv-mayor-says/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_8" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_8" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_9"
+          data-slug="which-clubs-did-man-citys-inflated-money-flow-to-in-transfer-mark"
+          data-category="sports"
+          data-category-name="Sports"
+          data-category-color="#ef4444"
+          data-title="Which clubs did Man City&#x27;s &#x27;inflated&#x27; money flow to in transfer market?"
+          data-summary="BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City&#x27;s period of financial rule-breaking."
+          data-bullets="[&quot;Factual reporting confirmed by BBC News.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="BBC News"
+          data-time-ago="15h ago"
+          data-image="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b049/live/fcba9170-bdbd-11f1-b7d8-31573a2bd831.jpg"
+          data-original-url="https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&amp;at_campaign=rss">
+          
+          <div class="card-media">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b049/live/fcba9170-bdbd-11f1-b7d8-31573a2bd831.jpg" alt="Which clubs did Man City&#x27;s &#x27;inflated&#x27; money flow to in transfer market?" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #ef4444;">Sports</span>
+            <span class="card-meta-badge">15h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">BBC News</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Which clubs did Man City&#x27;s &#x27;inflated&#x27; money flow to in transfer market?</h3>
+            <p class="card-summary">BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City&#x27;s period of financial rule-breaking.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/which-clubs-did-man-citys-inflated-money-flow-to-in-transfer-mark/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_9" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_9" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_10"
+          data-slug="pretorius-breaks-gayles-t20-record-score"
+          data-category="sports"
+          data-category-name="Sports"
+          data-category-color="#ef4444"
+          data-title="Pretorius breaks Gayle&#x27;s T20 record score"
+          data-summary="Lhuan-dre Pretorius breaks Chris Gayle&#x27;s record for the highest score in a men&#x27;s T20 match with an unbeaten 188 in a domestic fixture in South Africa."
+          data-bullets="[&quot;Factual reporting confirmed by BBC News.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="BBC News"
+          data-time-ago="15h ago"
+          data-image="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1443/live/99a34d50-beaa-11f1-a22a-011993fe1af2.jpg"
+          data-original-url="https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&amp;at_campaign=rss">
+          
+          <div class="card-media">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1443/live/99a34d50-beaa-11f1-a22a-011993fe1af2.jpg" alt="Pretorius breaks Gayle&#x27;s T20 record score" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #ef4444;">Sports</span>
+            <span class="card-meta-badge">15h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">BBC News</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Pretorius breaks Gayle&#x27;s T20 record score</h3>
+            <p class="card-summary">Lhuan-dre Pretorius breaks Chris Gayle&#x27;s record for the highest score in a men&#x27;s T20 match with an unbeaten 188 in a domestic fixture in South Africa.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/pretorius-breaks-gayles-t20-record-score/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_10" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_10" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_11"
+          data-slug="traitors-claim-their-first-victim-as-richard-e-grant-tries-to-sav"
+          data-category="entertainment"
+          data-category-name="Entertainment"
+          data-category-color="#ec4899"
+          data-title="Traitors claim their first victim as Richard E Grant tries to save his skin"
+          data-summary="There was a murder and a recruitment in the latest episode, and that was just in the opening minutes."
+          data-bullets="[&quot;Factual reporting confirmed by BBC News.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="BBC News"
+          data-time-ago="14h ago"
+          data-image="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da4/live/555d3890-bea5-11f1-babe-4199b0e7ccea.jpg"
+          data-original-url="https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&amp;at_campaign=rss">
+          
+          <div class="card-media">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da4/live/555d3890-bea5-11f1-babe-4199b0e7ccea.jpg" alt="Traitors claim their first victim as Richard E Grant tries to save his skin" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #ec4899;">Entertainment</span>
+            <span class="card-meta-badge">14h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">BBC News</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Traitors claim their first victim as Richard E Grant tries to save his skin</h3>
+            <p class="card-summary">There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/traitors-claim-their-first-victim-as-richard-e-grant-tries-to-sav/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_11" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_11" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="news-card"
+          data-id="art_12"
+          data-slug="spoiler-alert-is-social-media-ruining-big-gig-surprises"
+          data-category="entertainment"
+          data-category-name="Entertainment"
+          data-category-color="#ec4899"
+          data-title="Spoiler alert! Is social media ruining big gig surprises?"
+          data-summary="Big moments from headline acts are shared online long before many fans see their favourite artists."
+          data-bullets="[&quot;Factual reporting confirmed by BBC News.&quot;, &quot;Global industry stakeholders are monitoring downstream implications.&quot;, &quot;Full regulatory and community updates scheduled for upcoming briefing.&quot;]"
+          data-source="BBC News"
+          data-time-ago="11h ago"
+          data-image="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda6/live/92a85390-bf06-11f1-bc2e-018d645d8d21.jpg"
+          data-original-url="https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&amp;at_campaign=rss">
+          
+          <div class="card-media">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda6/live/92a85390-bf06-11f1-bc2e-018d645d8d21.jpg" alt="Spoiler alert! Is social media ruining big gig surprises?" class="card-img" loading="lazy">
+            <span class="card-tag" style="background-color: #ec4899;">Entertainment</span>
+            <span class="card-meta-badge">11h ago</span>
+          </div>
+
+          <div class="card-body">
+            <div class="card-source-row">
+              <span class="card-source">BBC News</span>
+              <span>1 min read</span>
+            </div>
+            <h3 class="card-title">Spoiler alert! Is social media ruining big gig surprises?</h3>
+            <p class="card-summary">Big moments from headline acts are shared online long before many fans see their favourite artists.</p>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/stories/spoiler-alert-is-social-media-ruining-big-gig-surprises/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="art_12" title="Listen to summary" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="art_12" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
+            </div>
+          </div>
+        </article>
+
+      <div class="empty-state" id="emptyState" style="display: none;">
+        <h3>No matching stories found</h3>
+        <p>Try searching with another keyword or explore different categories.</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Quick Read Drawer / Modal -->
+  <div class="modal-overlay" id="quickReadModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-container">
+      <button class="modal-close-btn" id="modalCloseBtn" aria-label="Close Modal">&#10005;</button>
+      <img src="" alt="" class="modal-media" id="modalImg">
+      <div class="modal-content">
+        <div class="modal-meta-row">
+          <span class="card-tag" id="modalTag">Category</span>
+          <span style="font-size: 12px; font-weight: 700; color: var(--accent);" id="modalSource">Source</span>
+          <span style="font-size: 12px; color: var(--text-muted);" id="modalTime">Time</span>
+        </div>
+        <h2 class="modal-title" id="modalTitle">Headline</h2>
+        <div class="modal-summary-box" id="modalSummary">Summary text</div>
+        
+        <div id="modalTakeawaysWrapper">
+          <h4 class="modal-takeaways-title">Key Takeaways</h4>
+          <ul class="modal-bullets" id="modalBullets"></ul>
+        </div>
+
+        <div class="modal-footer">
+          <a href="#" class="web-story-link" id="modalStoryBtn">⚡ Experience Full AMP Story</a>
+          <div style="display: flex; gap: 8px;">
+            <button class="btn-quick-read" id="modalTtsBtn">🔊 Listen</button>
+            <a href="#" target="_blank" rel="noopener noreferrer" class="btn-quick-read" id="modalOriginalBtn">Original Article ↗</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating Toast Notification -->
+  <div class="toast-msg" id="toastMsg" role="alert">Notification</div>
+
+  <!-- Footer -->
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <img src="/static/assets/logo.svg" alt="NewsPulse" style="height: 32px; width: auto;">
+          <p>Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI.</p>
+          <p style="margin-top: 8px; font-size: 11px; color: var(--text-muted);">
+            Powered by Google Gemini 3.8 Flash & high-reliability multi-source news syndication.
+          </p>
+        </div>
+
+        <div class="footer-col">
+          <h4>Coverage</h4>
+          <ul class="footer-links">
+            <li><a href="/#tech">Tech & Startups</a></li>
+            <li><a href="/#ai-future">AI & Robotics</a></li>
+            <li><a href="/#business">Global Markets</a></li>
+            <li><a href="/#world">World Affairs</a></li>
+            <li><a href="/#sports">Sports Wire</a></li>
+            <li><a href="/#entertainment">Entertainment</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>Editorial & Trust</h4>
+          <ul class="footer-links">
+            <li><a href="/about/">About & Mission</a></li>
+            <li><a href="/editorial-policy/">Editorial & Fact-Check Policy</a></li>
+            <li><a href="/contact/">Contact Editorial Desk</a></li>
+            <li><a href="/sitemap.xml">Google News Sitemap</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>Legal & Privacy</h4>
+          <ul class="footer-links">
+            <li><a href="/privacy/">Privacy Policy (GDPR/CCPA)</a></li>
+            <li><a href="/terms/">Terms & Fair Use (17 U.S.C. § 107)</a></li>
+            <li><a href="/contact/">DMCA Agent Desk</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span>&copy; 2026 NewsPulse Media Network. All rights reserved.</span>
+        <span>Curated for mobile readers worldwide. 100% AMP Compliant.</span>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- Main JavaScript Engine -->
+  <script src="/static/js/main.js"></script>
+</body>
+</html>

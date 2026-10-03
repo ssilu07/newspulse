@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About NewsPulse &amp; Editorial Mission - NewsPulse</title>
+  <meta name="description" content="Learn about NewsPulse&#x27;s mission, our transparent AI editorial pipeline, and commitment to fast factual news reporting.">
+  <link rel="canonical" href="https://newspulse-portal.vercel.app/about/">
+
+  <!-- OpenGraph -->
+  <meta property="og:title" content="About NewsPulse &amp; Editorial Mission - NewsPulse">
+  <meta property="og:description" content="Learn about NewsPulse&#x27;s mission, our transparent AI editorial pipeline, and commitment to fast factual news reporting.">
+  <meta property="og:url" content="https://newspulse-portal.vercel.app/about/">
+  <meta property="og:image" content="https://newspulse-portal.vercel.app/static/assets/logo.png">
+
+  <link rel="icon" type="image/svg+xml" href="/static/assets/icon.svg">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="/" class="brand-link" aria-label="NewsPulse Home">
+        <img src="/static/assets/logo.svg" alt="NewsPulse" class="brand-logo-img">
+      </a>
+      
+      <div class="header-center">
+        <div class="search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="newsSearchInput" class="search-input" placeholder="Search news, topics, keywords..." aria-label="Search news">
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <span id="liveTimeDisplay" class="time-widget">UTC</span>
+        <button id="themeToggleBtn" class="theme-toggle-btn" aria-label="Toggle dark/light theme">🌙</button>
+      </div>
+    </div>
+  </header>
+
+
+  <main class="container">
+    <article class="compliance-layout">
+      <div class="compliance-header">
+        <span class="compliance-badge">Transparency & Standards</span>
+        <h1 class="compliance-title">About NewsPulse & Editorial Mission</h1>
+        <span class="compliance-updated">Last Modified: October 03, 2026 • NewsPulse Media Network</span>
+      </div>
+
+      <div class="compliance-body">
+        
+              <p>Welcome to <strong>NewsPulse</strong>, a next-generation news and visual storytelling portal created to deliver factual, fast, 60-word summaries and immersive Google AMP Web Stories for modern mobile readers.</p>
+              
+              <h2>Our Core Mission</h2>
+              <p>In an era overwhelmed by clickbait, sensationalism, and information overload, our mission is simple: <strong>clarity, speed, and uncompromising accuracy</strong>. We believe readers deserve direct, verified news without navigating through manipulative headlines or bloated 2,000-word articles.</p>
+
+              <h2>Transparent AI Disclosure</h2>
+              <p>At NewsPulse, transparency is our guiding principle. We employ <strong>Google Gemini 3.8 Flash</strong> as an editorial assistive tool. Here is how our pipeline works:</p>
+              <ul>
+                <li><strong>Verified Sourcing:</strong> All incoming wire stories originate exclusively from reputable, accredited news syndicates (including Reuters, BBC, TechCrunch, CNBC, and official press desks).</li>
+                <li><strong>AI Distillation:</strong> Gemini models analyze multi-source accounts to synthesize factual 60-word summaries and extract 3 essential bullet points.</li>
+                <li><strong>Clickbait Removal:</strong> Headlines are stripped of hype, sensationalist prefixes, and deceptive framing.</li>
+                <li><strong>Visual Storyboarding:</strong> We convert textual reports into interactive, 5-slide visual Google AMP Web Stories complete with licensed photographic context.</li>
+                <li><strong>Editorial Oversight:</strong> Automated sentiment checks and strict fact-consistency checks ensure no speculative hallucination occurs.</li>
+              </ul>
+
+              <h2>Leadership & Publisher Masthead</h2>
+              <div class="info-card">
+                <p><strong>Publisher:</strong> NewsPulse Media Network</p>
+                <p><strong>Editorial Desk:</strong> <a href="mailto:editorial@newspulse.media">editorial@newspulse.media</a></p>
+                <p><strong>Headquarters:</strong> 548 Market St, Suite 72401, San Francisco, CA 94104</p>
+                <p><strong>Syndication Network:</strong> Global Tech, Business, Geopolitics, Sports, and Artificial Intelligence.</p>
+              </div>
+            
+      </div>
+    </article>
+  </main>
+
+  <div class="toast-msg" id="toastMsg" role="alert">Notification</div>
+
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <img src="/static/assets/logo.svg" alt="NewsPulse" style="height: 32px; width: auto;">
+          <p>Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI.</p>
+          <p style="margin-top: 8px; font-size: 11px; color: var(--text-muted);">
+            Powered by Google Gemini 3.8 Flash & high-reliability multi-source news syndication.
+          </p>
+        </div>
+
+        <div class="footer-col">
+          <h4>Coverage</h4>
+          <ul class="footer-links">
+            <li><a href="/#tech">Tech & Startups</a></li>
+            <li><a href="/#ai-future">AI & Robotics</a></li>
+            <li><a href="/#business">Global Markets</a></li>
+            <li><a href="/#world">World Affairs</a></li>
+            <li><a href="/#sports">Sports Wire</a></li>
+            <li><a href="/#entertainment">Entertainment</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>Editorial & Trust</h4>
+          <ul class="footer-links">
+            <li><a href="/about/">About & Mission</a></li>
+            <li><a href="/editorial-policy/">Editorial & Fact-Check Policy</a></li>
+            <li><a href="/contact/">Contact Editorial Desk</a></li>
+            <li><a href="/sitemap.xml">Google News Sitemap</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>Legal & Privacy</h4>
+          <ul class="footer-links">
+            <li><a href="/privacy/">Privacy Policy (GDPR/CCPA)</a></li>
+            <li><a href="/terms/">Terms & Fair Use (17 U.S.C. § 107)</a></li>
+            <li><a href="/contact/">DMCA Agent Desk</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span>&copy; 2026 NewsPulse Media Network. All rights reserved.</span>
+        <span>Curated for mobile readers worldwide. 100% AMP Compliant.</span>
+      </div>
+    </div>
+  </footer>
+
+
+  <script src="/static/js/main.js"></script>
+</body>
+</html>

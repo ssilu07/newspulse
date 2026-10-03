@@ -1,0 +1,16 @@
+{
+  "name": "NewsPulse - Bite-Sized Breaking News & Visual Stories",
+  "short_name": "NewsPulse",
+  "description": "Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090e",
+  "theme_color": "#07090e",
+  "icons": [
+    {
+      "src": "/static/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
