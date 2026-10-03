@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/all-the-ai-agents-that-can-live-in-your-text-messages/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T14:00:00+00:00</news:publication_date>
+      <news:title>All the AI agents that can live in your text messages</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>All the AI agents that can live in your text messages</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/spotify-billionaires-body-scan-startup-has-come-to-america/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T14:00:00+00:00</news:publication_date>
+      <news:title>Spotify billionaire’s body scan startup has come to America</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Spotify billionaire’s body scan startup has come to America</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/meta-wants-your-next-gadget-to-be-muse-infused/</loc>
     <news:news>
       <news:publication>
@@ -18,78 +48,48 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/sanders-introduces-bill-to-ban-the-federal-government-from-using-/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-for-automated-analysis-and-interpretation/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T00:21:57+00:00</news:publication_date>
-      <news:title>Sanders introduces bill to ban the federal government from using Flock</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Sanders introduces bill to ban the federal government from using Flock</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/sean-parker-is-rebuilding-stability-ai-around-music/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T21:09:14+00:00</news:publication_date>
-      <news:title>Sean Parker is rebuilding Stability AI around music</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Sean Parker is rebuilding Stability AI around music</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/affected-by-layoffs-dont-miss-this-75-deal-for-your-techcrunch-di/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T19:15:51+00:00</news:publication_date>
-      <news:title>Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass</news:title>
+      <news:publication_date>2026-10-03T11:36:40+00:00</news:publication_date>
+      <news:title>Artificial Intelligence for Automated Analysis and Interpretation of Intravascular Ultrasound in Coronary Artery Disease: A Systematic Review</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass</image:title>
+      <image:title>Artificial Intelligence for Automated Analysis and Interpretation of Intravascular Ultrasound in Coronary Artery Disease: A Systematic Review</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/apple-says-its-tightening-macos-full-disk-access-controls-due-to-/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-ai-triggered-rapid-response-notifications/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-02T18:11:27+00:00</news:publication_date>
-      <news:title>Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</news:title>
+      <news:publication_date>2026-10-03T01:44:10+00:00</news:publication_date>
+      <news:title>Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</image:title>
+      <image:title>Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buy/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/how-the-smithsonian-is-using-ai-to-connect-artifacts-from-the-ame/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-02T17:56:00+00:00</news:publication_date>
-      <news:title>Call it AI, call it Super Intelligence, only 2% of consumers are buying it</news:title>
+      <news:publication_date>2026-10-03T09:11:15+00:00</news:publication_date>
+      <news:title>How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News - Breaking News, Latest News and Videos</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Call it AI, call it Super Intelligence, only 2% of consumers are buying it</image:title>
+      <image:title>How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News - Breaking News, Latest News and Videos</image:title>
     </image:image>
   </url>
   <url>
@@ -144,7 +144,7 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T10:00:04+00:00</news:publication_date>
+      <news:publication_date>2026-10-03T14:27:33+00:00</news:publication_date>
       <news:title>Flydubai co-pilot attacked captain with axe, UAE official says</news:title>
     </news:news>
     <image:image>
@@ -153,63 +153,63 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/russia-strikes-second-major-bridge-in-kyiv-mayor-says/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/russia-hits-second-major-bridge-in-ukraines-capital-kyiv/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T09:53:16+00:00</news:publication_date>
-      <news:title>Russia strikes second major bridge in Kyiv, mayor says</news:title>
+      <news:publication_date>2026-10-03T12:59:10+00:00</news:publication_date>
+      <news:title>Russia hits second major bridge in Ukraine&#x27;s capital Kyiv</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg</image:loc>
-      <image:title>Russia strikes second major bridge in Kyiv, mayor says</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg</image:loc>
+      <image:title>Russia hits second major bridge in Ukraine&#x27;s capital Kyiv</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-murderer-christa-pike-unconscious-and-on-ventilator-after-fail/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/protesters-across-spain-demand-action-over-housing-crisis/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-02T20:32:07+00:00</news:publication_date>
-      <news:title>US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say</news:title>
+      <news:publication_date>2026-10-03T13:34:11+00:00</news:publication_date>
+      <news:title>Protesters across Spain demand action over housing crisis</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b22/live/55676b60-be9d-11f1-ad04-23a70b53c1a5.jpg</image:loc>
-      <image:title>US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Protesters across Spain demand action over housing crisis</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/verstappen-takes-first-2026-pole-ahead-of-hamilton/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/incredible-red-bull-upgrade-enlivens-f1-in-malaysia/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T09:13:45+00:00</news:publication_date>
-      <news:title>Verstappen takes first 2026 pole ahead of Hamilton</news:title>
+      <news:publication_date>2026-10-03T12:25:57+00:00</news:publication_date>
+      <news:title>Incredible&#x27; Red Bull upgrade enlivens F1 in Malaysia</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/83dbbbf0-bf0a-11f1-8a3a-81429ed63d84.jpg</image:loc>
-      <image:title>Verstappen takes first 2026 pole ahead of Hamilton</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a27/live/05ca5f80-bf25-11f1-b10d-f956452c9061.jpg</image:loc>
+      <image:title>Incredible&#x27; Red Bull upgrade enlivens F1 in Malaysia</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/which-clubs-did-man-citys-inflated-money-flow-to-in-transfer-mark/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/republic-of-ireland-news-conference-ends-abruptly-amid-accusation/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-02T22:30:24+00:00</news:publication_date>
-      <news:title>Which clubs did Man City&#x27;s &#x27;inflated&#x27; money flow to in transfer market?</news:title>
+      <news:publication_date>2026-10-03T13:02:11+00:00</news:publication_date>
+      <news:title>Republic of Ireland news conference ends abruptly amid accusations</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b049/live/fcba9170-bdbd-11f1-b7d8-31573a2bd831.jpg</image:loc>
-      <image:title>Which clubs did Man City&#x27;s &#x27;inflated&#x27; money flow to in transfer market?</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eee/live/4c3aab70-bf23-11f1-bacc-0989b00347ed.jpg</image:loc>
+      <image:title>Republic of Ireland news conference ends abruptly amid accusations</image:title>
     </image:image>
   </url>
   <url>
@@ -234,12 +234,27 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-02T23:31:37+00:00</news:publication_date>
+      <news:publication_date>2026-10-03T11:07:52+00:00</news:publication_date>
       <news:title>Traitors claim their first victim as Richard E Grant tries to save his skin</news:title>
     </news:news>
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da4/live/555d3890-bea5-11f1-babe-4199b0e7ccea.jpg</image:loc>
       <image:title>Traitors claim their first victim as Richard E Grant tries to save his skin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/alison-hammond-returns-home-from-hospital-after-rushing-off-this-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T13:21:40+00:00</news:publication_date>
+      <news:title>Alison Hammond returns home from hospital after rushing off This Morning</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d175/live/03971280-bf2a-11f1-b10d-f956452c9061.jpg</image:loc>
+      <image:title>Alison Hammond returns home from hospital after rushing off This Morning</image:title>
     </image:image>
   </url>
   <url>
@@ -255,21 +270,6 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda6/live/92a85390-bf06-11f1-bc2e-018d645d8d21.jpg</image:loc>
       <image:title>Spoiler alert! Is social media ruining big gig surprises?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/alison-hammond-has-heart-check-up-in-hospital-after-rushing-off-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T18:41:43+00:00</news:publication_date>
-      <news:title>Alison Hammond has heart check-up in hospital after rushing off This Morning while on air</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92f/live/140bc0a0-be7d-11f1-8a45-cd59664d243b.jpg</image:loc>
-      <image:title>Alison Hammond has heart check-up in hospital after rushing off This Morning while on air</image:title>
     </image:image>
   </url>
 </urlset>
