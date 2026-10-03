@@ -23,7 +23,7 @@ SITE_DESCRIPTION = os.getenv(
     "SITE_DESCRIPTION",
     "Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI."
 )
-SITE_URL = os.getenv("SITE_URL", "https://newspulse-portal.vercel.app").rstrip("/")
+SITE_URL = os.getenv("SITE_URL", "https://newspulse-beta.vercel.app").rstrip("/")
 SITE_LOCALE = "en_US"
 SITE_LANGUAGE = "en"
 
