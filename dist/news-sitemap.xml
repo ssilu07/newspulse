@@ -3,48 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/all-the-ai-agents-that-can-live-in-your-text-messages/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-nd/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T14:00:00+00:00</news:publication_date>
-      <news:title>All the AI agents that can live in your text messages</news:title>
+      <news:publication_date>2026-10-03T18:43:57+00:00</news:publication_date>
+      <news:title>Amazon responds to data center backlash, says it no longer uses NDAs</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>All the AI agents that can live in your text messages</image:title>
+      <image:title>Amazon responds to data center backlash, says it no longer uses NDAs</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/spotify-billionaires-body-scan-startup-has-come-to-america/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/openai-safety-employee-resigns-claiming-the-companys-culture-is-b/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T14:00:00+00:00</news:publication_date>
-      <news:title>Spotify billionaire’s body scan startup has come to America</news:title>
+      <news:publication_date>2026-10-03T16:30:01+00:00</news:publication_date>
+      <news:title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Spotify billionaire’s body scan startup has come to America</image:title>
+      <image:title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/meta-wants-your-next-gadget-to-be-muse-infused/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-go/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T00:45:39+00:00</news:publication_date>
-      <news:title>Meta wants your next gadget to be Muse-infused</news:title>
+      <news:publication_date>2026-10-03T15:02:01+00:00</news:publication_date>
+      <news:title>Jack Dorsey’s Bitchat disappears from app stores in India after government order</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Meta wants your next gadget to be Muse-infused</image:title>
+      <image:title>Jack Dorsey’s Bitchat disappears from app stores in India after government order</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/guest-column-a-caution-about-artificial-intelligence-the-suffolk-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T17:10:32+00:00</news:publication_date>
+      <news:title>Guest column: A caution about artificial intelligence</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Guest column: A caution about artificial intelligence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ai-is-going-rogue-who-should-be-held-responsible-nytimescom/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T14:51:00+00:00</news:publication_date>
+      <news:title>A.I. Is Going Rogue. Who Should Be Held Responsible?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>A.I. Is Going Rogue. Who Should Be Held Responsible?</image:title>
     </image:image>
   </url>
   <url>
@@ -60,36 +90,6 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
       <image:title>Artificial Intelligence for Automated Analysis and Interpretation of Intravascular Ultrasound in Coronary Artery Disease: A Systematic Review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-ai-triggered-rapid-response-notifications/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T01:44:10+00:00</news:publication_date>
-      <news:title>Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/how-the-smithsonian-is-using-ai-to-connect-artifacts-from-the-ame/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T09:11:15+00:00</news:publication_date>
-      <news:title>How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News - Breaking News, Latest News and Videos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News - Breaking News, Latest News and Videos</image:title>
     </image:image>
   </url>
   <url>
@@ -138,6 +138,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tennessee-prison-chief-to-resign-after-christa-pikes-failed-execu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T17:48:42+00:00</news:publication_date>
+      <news:title>Tennessee prison chief to resign after Christa Pike&#x27;s failed execution</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>Tennessee prison chief to resign after Christa Pike&#x27;s failed execution</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/flydubai-co-pilot-attacked-captain-with-axe-uae-official-says/</loc>
     <news:news>
       <news:publication>
@@ -159,7 +174,7 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T12:59:10+00:00</news:publication_date>
+      <news:publication_date>2026-10-03T16:16:49+00:00</news:publication_date>
       <news:title>Russia hits second major bridge in Ukraine&#x27;s capital Kyiv</news:title>
     </news:news>
     <image:image>
@@ -168,18 +183,18 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/protesters-across-spain-demand-action-over-housing-crisis/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/who-was-the-best-player-on-the-pitch-england-player-ratings/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T13:34:11+00:00</news:publication_date>
-      <news:title>Protesters across Spain demand action over housing crisis</news:title>
+      <news:publication_date>2026-10-03T17:58:13+00:00</news:publication_date>
+      <news:title>Who was the best player on the pitch?</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>Protesters across Spain demand action over housing crisis</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/36cf3a10-bf52-11f1-a84d-81c67bc2828e.jpg</image:loc>
+      <image:title>Who was the best player on the pitch?</image:title>
     </image:image>
   </url>
   <url>
@@ -198,33 +213,18 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/republic-of-ireland-news-conference-ends-abruptly-amid-accusation/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/gloucester-thrash-sorry-quins-to-go-top-of-the-prem/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T13:02:11+00:00</news:publication_date>
-      <news:title>Republic of Ireland news conference ends abruptly amid accusations</news:title>
+      <news:publication_date>2026-10-03T18:44:00+00:00</news:publication_date>
+      <news:title>Gloucester thrash sorry Quins to go top of the Prem</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eee/live/4c3aab70-bf23-11f1-bacc-0989b00347ed.jpg</image:loc>
-      <image:title>Republic of Ireland news conference ends abruptly amid accusations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/pretorius-breaks-gayles-t20-record-score/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T22:22:36+00:00</news:publication_date>
-      <news:title>Pretorius breaks Gayle&#x27;s T20 record score</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1443/live/99a34d50-beaa-11f1-a22a-011993fe1af2.jpg</image:loc>
-      <image:title>Pretorius breaks Gayle&#x27;s T20 record score</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4e/live/e73dbdd0-bf53-11f1-a84d-81c67bc2828e.jpg</image:loc>
+      <image:title>Gloucester thrash sorry Quins to go top of the Prem</image:title>
     </image:image>
   </url>
   <url>
