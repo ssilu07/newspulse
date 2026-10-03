@@ -245,6 +245,9 @@ def render_homepage_html(articles: list) -> str:
   <!-- Stylesheet -->
   <link rel="stylesheet" href="/static/css/style.css">
 
+  <!-- Google Search Console Verification -->
+  {f'<meta name="google-site-verification" content="{config.GOOGLE_SITE_VERIFICATION}">' if getattr(config, 'GOOGLE_SITE_VERIFICATION', '') else ''}
+
   <script type="application/ld+json">
 {json.dumps(homepage_schema, ensure_ascii=False)}
   </script>

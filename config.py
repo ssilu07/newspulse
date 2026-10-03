@@ -42,6 +42,9 @@ GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 MAX_ARTICLES_PER_CATEGORY = int(os.getenv("MAX_ARTICLES_PER_CATEGORY", "5"))
 SUMMARY_WORD_TARGET = 60
 
+# Google Search Console Verification
+GOOGLE_SITE_VERIFICATION = os.getenv("GOOGLE_SITE_VERIFICATION", "")
+
 # Categories and High-Reliability RSS Feeds
 CATEGORIES = {
     "tech": {
