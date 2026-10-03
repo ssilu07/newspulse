@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://newspulse-portal.vercel.app/sitemap.xml
+Sitemap: https://newspulse-beta.vercel.app/sitemap.xml
+Sitemap: https://newspulse-beta.vercel.app/news-sitemap.xml

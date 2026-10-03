@@ -39,7 +39,7 @@ def read_file_or_404(path: Path, media_type: str = "text/html") -> Response:
     return Response(content=path.read_text(encoding="utf-8"), media_type=media_type)
 
 
-@app.get("/", response_class=HTMLResponse)
+@app.api_route("/", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def get_home():
     """Serves the main NewsPulse homepage."""
     index_file = config.DIST_DIR / "index.html"
@@ -50,57 +50,65 @@ def get_home():
     return read_file_or_404(index_file)
 
 
-@app.get("/stories/{slug}/", response_class=HTMLResponse)
-@app.get("/stories/{slug}", response_class=HTMLResponse)
+@app.api_route("/stories/{slug}/", methods=["GET", "HEAD"], response_class=HTMLResponse)
+@app.api_route("/stories/{slug}", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def get_story(slug: str):
     """Serves an individual 100% compliant AMP Web Story."""
     story_file = config.DIST_DIR / "stories" / slug / "index.html"
     return read_file_or_404(story_file)
 
 
-@app.get("/about/", response_class=HTMLResponse)
-@app.get("/about", response_class=HTMLResponse)
+@app.api_route("/about/", methods=["GET", "HEAD"], response_class=HTMLResponse)
+@app.api_route("/about", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def get_about():
     return read_file_or_404(config.DIST_DIR / "about" / "index.html")
 
 
-@app.get("/privacy/", response_class=HTMLResponse)
-@app.get("/privacy", response_class=HTMLResponse)
+@app.api_route("/privacy/", methods=["GET", "HEAD"], response_class=HTMLResponse)
+@app.api_route("/privacy", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def get_privacy():
     return read_file_or_404(config.DIST_DIR / "privacy" / "index.html")
 
 
-@app.get("/terms/", response_class=HTMLResponse)
-@app.get("/terms", response_class=HTMLResponse)
+@app.api_route("/terms/", methods=["GET", "HEAD"], response_class=HTMLResponse)
+@app.api_route("/terms", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def get_terms():
     return read_file_or_404(config.DIST_DIR / "terms" / "index.html")
 
 
-@app.get("/editorial-policy/", response_class=HTMLResponse)
-@app.get("/editorial-policy", response_class=HTMLResponse)
+@app.api_route("/editorial-policy/", methods=["GET", "HEAD"], response_class=HTMLResponse)
+@app.api_route("/editorial-policy", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def get_editorial_policy():
     return read_file_or_404(config.DIST_DIR / "editorial-policy" / "index.html")
 
 
-@app.get("/contact/", response_class=HTMLResponse)
-@app.get("/contact", response_class=HTMLResponse)
+@app.api_route("/contact/", methods=["GET", "HEAD"], response_class=HTMLResponse)
+@app.api_route("/contact", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def get_contact():
     return read_file_or_404(config.DIST_DIR / "contact" / "index.html")
 
 
-@app.get("/sitemap.xml")
+@app.api_route("/sitemap.xml", methods=["GET", "HEAD"])
 def get_sitemap():
-    return read_file_or_404(config.DIST_DIR / "sitemap.xml", media_type="application/xml")
+    return read_file_or_404(config.DIST_DIR / "sitemap.xml", media_type="application/xml; charset=utf-8")
 
 
-@app.get("/robots.txt")
+@app.api_route("/news-sitemap.xml", methods=["GET", "HEAD"])
+def get_news_sitemap():
+    news_file = config.DIST_DIR / "news-sitemap.xml"
+    if not news_file.exists():
+        news_file = config.DIST_DIR / "sitemap.xml"
+    return read_file_or_404(news_file, media_type="application/xml; charset=utf-8")
+
+
+@app.api_route("/robots.txt", methods=["GET", "HEAD"])
 def get_robots():
-    return read_file_or_404(config.DIST_DIR / "robots.txt", media_type="text/plain")
+    return read_file_or_404(config.DIST_DIR / "robots.txt", media_type="text/plain; charset=utf-8")
 
 
-@app.get("/manifest.json")
+@app.api_route("/manifest.json", methods=["GET", "HEAD"])
 def get_manifest():
-    return read_file_or_404(config.DIST_DIR / "manifest.json", media_type="application/json")
+    return read_file_or_404(config.DIST_DIR / "manifest.json", media_type="application/json; charset=utf-8")
 
 
 @app.get("/api/articles")

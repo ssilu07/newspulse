@@ -568,14 +568,15 @@ def generate_compliance_pages(dist_dir: Path):
 
 def generate_sitemap_xml(articles: list, dist_dir: Path):
     """
-    Generates a Google News compliant XML Sitemap with <news:news> and <image:image> tags.
+    Generates standard sitemap.xml for Google Search Console,
+    plus dedicated news-sitemap.xml for Google News.
     """
     today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    
-    xml_lines = [
+
+    # 1. Standard Sitemap (Universal XML standard)
+    std_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
-        '        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"',
         '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">',
         '  <url>',
         f'    <loc>{config.SITE_URL}/</loc>',
@@ -585,9 +586,8 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
         '  </url>'
     ]
 
-    # Compliance pages
     for page in ["about", "editorial-policy", "privacy", "terms", "contact"]:
-        xml_lines.extend([
+        std_lines.extend([
             '  <url>',
             f'    <loc>{config.SITE_URL}/{page}/</loc>',
             f'    <lastmod>{today_iso}</lastmod>',
@@ -596,19 +596,43 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
             '  </url>'
         ])
 
-    # Article & Story URLs with Google News tags
     for art in articles:
         slug = art.get("slug")
         title = escape(art.get("title", ""))
         img = escape(art.get("image_url", ""))
         pub_date = art.get("published_at", today_iso)
-
-        xml_lines.extend([
+        std_lines.extend([
             '  <url>',
             f'    <loc>{config.SITE_URL}/stories/{slug}/</loc>',
             f'    <lastmod>{pub_date}</lastmod>',
             '    <changefreq>daily</changefreq>',
             '    <priority>0.9</priority>',
+            '    <image:image>',
+            f'      <image:loc>{img}</image:loc>',
+            f'      <image:title>{title}</image:title>',
+            '    </image:image>',
+            '  </url>'
+        ])
+    std_lines.append('</urlset>')
+
+    with open(dist_dir / "sitemap.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(std_lines))
+
+    # 2. Google News Specific Sitemap
+    news_lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
+        '        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"',
+        '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">',
+    ]
+    for art in articles:
+        slug = art.get("slug")
+        title = escape(art.get("title", ""))
+        img = escape(art.get("image_url", ""))
+        pub_date = art.get("published_at", today_iso)
+        news_lines.extend([
+            '  <url>',
+            f'    <loc>{config.SITE_URL}/stories/{slug}/</loc>',
             '    <news:news>',
             '      <news:publication>',
             f'        <news:name>{escape(config.SITE_NAME)}</news:name>',
@@ -623,21 +647,21 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
             '    </image:image>',
             '  </url>'
         ])
+    news_lines.append('</urlset>')
 
-    xml_lines.append('</urlset>')
-    sitemap_content = "\n".join(xml_lines)
+    with open(dist_dir / "news-sitemap.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(news_lines))
 
-    with open(dist_dir / "sitemap.xml", "w", encoding="utf-8") as f:
-        f.write(sitemap_content)
-    print(f"[OK] Generated sitemap.xml with Google News tags ({len(articles)} stories).")
+    print(f"[OK] Generated sitemap.xml ({len(articles)} stories) and news-sitemap.xml.")
 
 
 def generate_robots_txt(dist_dir: Path):
-    """Generates standard robots.txt directing search engines to sitemap."""
+    """Generates standard robots.txt directing search engines to sitemaps."""
     content = f"""User-agent: *
 Allow: /
 
 Sitemap: {config.SITE_URL}/sitemap.xml
+Sitemap: {config.SITE_URL}/news-sitemap.xml
 """
     with open(dist_dir / "robots.txt", "w", encoding="utf-8") as f:
         f.write(content)
