@@ -11,14 +11,14 @@
       "dest": "/static/$1"
     },
     {
-      "src": "/sitemap.xml",
+      "src": "^/+sitemap\\.xml$",
       "headers": {
         "content-type": "application/xml; charset=utf-8"
       },
       "dest": "/sitemap.xml"
     },
     {
-      "src": "/news-sitemap.xml",
+      "src": "^/+news-sitemap\\.xml$",
       "headers": {
         "content-type": "application/xml; charset=utf-8"
       },

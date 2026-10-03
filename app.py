@@ -89,11 +89,13 @@ def get_contact():
 
 
 @app.api_route("/sitemap.xml", methods=["GET", "HEAD"])
+@app.api_route("//sitemap.xml", methods=["GET", "HEAD"])
 def get_sitemap():
     return read_file_or_404(config.DIST_DIR / "sitemap.xml", media_type="application/xml; charset=utf-8")
 
 
 @app.api_route("/news-sitemap.xml", methods=["GET", "HEAD"])
+@app.api_route("//news-sitemap.xml", methods=["GET", "HEAD"])
 def get_news_sitemap():
     news_file = config.DIST_DIR / "news-sitemap.xml"
     if not news_file.exists():
