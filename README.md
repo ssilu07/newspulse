@@ -160,7 +160,7 @@ Output:
 - **Build output directory**: `dist`
 
 ### Automated Scheduled Publishing
-A ready-to-use GitHub Actions workflow is included in `.github/workflows/scheduled_publish.yml`. It runs automatically every 2 hours to pull breaking news and push fresh stories to your live site!
+A ready-to-use GitHub Actions workflow is included in `.github/workflows/scheduled_publish.yml`. It runs automatically every 4 hours to pull breaking news and push fresh stories to your live site!
 
 ---
 
