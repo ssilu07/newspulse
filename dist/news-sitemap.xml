@@ -54,7 +54,7 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T17:10:32+00:00</news:publication_date>
+      <news:publication_date>2026-10-03T23:03:45+00:00</news:publication_date>
       <news:title>Guest column: A caution about artificial intelligence</news:title>
     </news:news>
     <image:image>
@@ -63,33 +63,33 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/ai-is-going-rogue-who-should-be-held-responsible-nytimescom/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-taps-director-of-national-intelligence-jay-clayton-as-ai-cz/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T14:51:00+00:00</news:publication_date>
-      <news:title>A.I. Is Going Rogue. Who Should Be Held Responsible?</news:title>
+      <news:publication_date>2026-10-03T23:37:23+00:00</news:publication_date>
+      <news:title>Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>A.I. Is Going Rogue. Who Should Be Held Responsible?</image:title>
+      <image:title>Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-for-automated-analysis-and-interpretation/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/better-artificial-intelligence-stock-alphabet-vs-meta-platforms-t/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T11:36:40+00:00</news:publication_date>
-      <news:title>Artificial Intelligence for Automated Analysis and Interpretation of Intravascular Ultrasound in Coronary Artery Disease: A Systematic Review</news:title>
+      <news:publication_date>2026-10-04T01:05:06+00:00</news:publication_date>
+      <news:title>Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Artificial Intelligence for Automated Analysis and Interpretation of Intravascular Ultrasound in Coronary Artery Disease: A Systematic Review</image:title>
+      <image:title>Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms</image:title>
     </image:image>
   </url>
   <url>
@@ -153,6 +153,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/cornell-president-says-university-must-do-better-after-frat-house/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T00:11:25+00:00</news:publication_date>
+      <news:title>Cornell president says university &#x27;must do better&#x27; after frat house rape allegations</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg</image:loc>
+      <image:title>Cornell president says university &#x27;must do better&#x27; after frat house rape allegations</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/flydubai-co-pilot-attacked-captain-with-axe-uae-official-says/</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg</image:loc>
       <image:title>Flydubai co-pilot attacked captain with axe, UAE official says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/russia-hits-second-major-bridge-in-ukraines-capital-kyiv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T16:16:49+00:00</news:publication_date>
-      <news:title>Russia hits second major bridge in Ukraine&#x27;s capital Kyiv</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg</image:loc>
-      <image:title>Russia hits second major bridge in Ukraine&#x27;s capital Kyiv</image:title>
     </image:image>
   </url>
   <url>
@@ -228,6 +228,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/the-celebrity-traitors-connections-that-might-surprise-you/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T01:31:32+00:00</news:publication_date>
+      <news:title>The Celebrity Traitors connections that might surprise you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55c6/live/bcd74b30-bf24-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>The Celebrity Traitors connections that might surprise you</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/traitors-claim-their-first-victim-as-richard-e-grant-tries-to-sav/</loc>
     <news:news>
       <news:publication>
@@ -255,21 +270,6 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d175/live/03971280-bf2a-11f1-b10d-f956452c9061.jpg</image:loc>
       <image:title>Alison Hammond returns home from hospital after rushing off This Morning</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/spoiler-alert-is-social-media-ruining-big-gig-surprises/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T02:26:42+00:00</news:publication_date>
-      <news:title>Spoiler alert! Is social media ruining big gig surprises?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda6/live/92a85390-bf06-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>Spoiler alert! Is social media ruining big gig surprises?</image:title>
     </image:image>
   </url>
 </urlset>
