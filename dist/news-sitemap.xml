@@ -3,18 +3,48 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/category-3-hurricane-nolo-heads-west-toward-international-date-li/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/semi-truck-driver-in-deadly-colorado-crash-on-i-70-seeks-parole/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-04T03:50:00+00:00</news:publication_date>
-      <news:title>Category 3 Hurricane Nolo heads west toward International Date Line</news:title>
+      <news:publication_date>2026-10-04T11:30:00+00:00</news:publication_date>
+      <news:title>Semi-truck driver in deadly Colorado crash on I-70 seeks parole</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhx6GQJhEwHmb-WUvKufYom9unluuq6w5omQJQ03H9HQGTwFugJMLjImOwYCI</image:loc>
-      <image:title>Category 3 Hurricane Nolo heads west toward International Date Line</image:title>
+      <image:loc>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvYXPo_qKdRwM1BfNxVVls3exiqKWD2VhY8CkEnerOwlVSIV_rHHTuMhFpsko</image:loc>
+      <image:title>Semi-truck driver in deadly Colorado crash on I-70 seeks parole</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/chicago-fires-brandon-larracuente-hints-how-season-15-will-addres/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T11:30:00+00:00</news:publication_date>
+      <news:title>Chicago Fire’s Brandon Larracuente Hints How Season 15 Will Address Multiple Surprise Cast Exits</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgftY7B1b_Ca-Ss9EeT9wasM1KW_FGbwjrNGB4rjnNAiuicGMY84_SoA_BR2E</image:loc>
+      <image:title>Chicago Fire’s Brandon Larracuente Hints How Season 15 Will Address Multiple Surprise Cast Exits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/gbs-kartal-wins-on-wta-return-after-six-months-out/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T11:20:00+00:00</news:publication_date>
+      <news:title>GB&#x27;s Kartal wins on WTA return after six months out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcpbdGtnepTqBLopqBJjLdvSru4IeNPIRMfEtoQpVpDzJ0Vr6_Id-0ZWdL9VY</image:loc>
+      <image:title>GB&#x27;s Kartal wins on WTA return after six months out</image:title>
     </image:image>
   </url>
   <url>
@@ -24,12 +54,42 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T11:19:10+00:00</news:publication_date>
+      <news:publication_date>2026-10-03T16:49:10+00:00</news:publication_date>
       <news:title>Capcom is preparing for a ‘future where we create games together with AI’</news:title>
     </news:news>
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>Capcom is preparing for a ‘future where we create games together with AI’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/the-best-early-october-prime-day-deals-happening-now/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T16:22:40+00:00</news:publication_date>
+      <news:title>The best early October Prime Day deals happening now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>The best early October Prime Day deals happening now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/splice-ceo-kakul-srivastava-thinks-ai-emails-are-killing-conversa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T15:00:00+00:00</news:publication_date>
+      <news:title>Splice CEO Kakul Srivastava thinks AI emails are killing conversations</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Splice CEO Kakul Srivastava thinks AI emails are killing conversations</image:title>
     </image:image>
   </url>
   <url>
@@ -39,7 +99,7 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T23:33:45+00:00</news:publication_date>
+      <news:publication_date>2026-10-04T05:03:45+00:00</news:publication_date>
       <news:title>Guest column: A caution about artificial intelligence</news:title>
     </news:news>
     <image:image>
@@ -48,18 +108,78 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/teslas-cybercab-had-a-rocky-first-month-in-austin-now-comes-the-h/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-in-the-classroom-news-from-the-states/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T14:59:07+00:00</news:publication_date>
-      <news:title>Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding</news:title>
+      <news:publication_date>2026-10-04T11:00:34+00:00</news:publication_date>
+      <news:title>Artificial intelligence in the classroom</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Artificial intelligence in the classroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ai-is-going-rogue-who-should-be-held-responsible-the-new-york-tim/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T10:42:08+00:00</news:publication_date>
+      <news:title>A.I. Is Going Rogue. Who Should Be Held Responsible?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>A.I. Is Going Rogue. Who Should Be Held Responsible?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-taps-director-of-national-intelligence-jay-clayton-as-ai-cz/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T09:25:01+00:00</news:publication_date>
+      <news:title>Trump taps Director of National Intelligence Jay Clayton as AI czar</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding</image:title>
+      <image:title>Trump taps Director of National Intelligence Jay Clayton as AI czar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ukraines-surprise-robot-offensive-exposes-a-vulnerability-in-puti/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T05:00:01+00:00</news:publication_date>
+      <news:title>Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/in-crude-ohio-rally-speech-trump-says-he-may-not-help-if-democrat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T09:44:25+00:00</news:publication_date>
+      <news:title>In crude Ohio rally speech, Trump says he may not help if Democrats win</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>In crude Ohio rally speech, Trump says he may not help if Democrats win</image:title>
     </image:image>
   </url>
   <url>
@@ -69,12 +189,42 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-04T03:01:52+00:00</news:publication_date>
+      <news:publication_date>2026-10-04T08:31:52+00:00</news:publication_date>
       <news:title>Flydubai captain says copilot asked to pray, then struck him from behind; describes exactly how he opened cockpit door</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&amp;h=800&amp;fit=crop</image:loc>
       <image:title>Flydubai captain says copilot asked to pray, then struck him from behind; describes exactly how he opened cockpit door</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote-bloombergc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T01:08:00+00:00</news:publication_date>
+      <news:title>Lula, Bolsonaro in Dead Heat as Brazil Prepares to Vote</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Lula, Bolsonaro in Dead Heat as Brazil Prepares to Vote</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/government-forces-seize-capital-of-ethiopias-tigray-region-from-r/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T08:19:43+00:00</news:publication_date>
+      <news:title>Government forces seize capital of Ethiopia&#x27;s Tigray region from rebels</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Government forces seize capital of Ethiopia&#x27;s Tigray region from rebels</image:title>
     </image:image>
   </url>
   <url>
@@ -84,12 +234,42 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-04T04:00:08+00:00</news:publication_date>
+      <news:publication_date>2026-10-04T10:39:06+00:00</news:publication_date>
       <news:title>Avishka Fernando recalled to Sri Lanka&#x27;s ODI side for tri-series in Pakistan</news:title>
     </news:news>
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/394200/394253.jpg</image:loc>
       <image:title>Avishka Fernando recalled to Sri Lanka&#x27;s ODI side for tri-series in Pakistan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/kainat-imtiaz-retires-from-internationals-to-become-match-referee/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T09:43:53+00:00</news:publication_date>
+      <news:title>Kainat Imtiaz retires from internationals to become match referee</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/265800/265860.jpg</image:loc>
+      <image:title>Kainat Imtiaz retires from internationals to become match referee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/mukesh-kumar-smaran-hand-rest-of-india-the-irani-cup/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T09:02:24+00:00</news:publication_date>
+      <news:title>Mukesh Kumar, Smaran hand Rest of India the Irani Cup</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422300/422303.jpg</image:loc>
+      <image:title>Mukesh Kumar, Smaran hand Rest of India the Irani Cup</image:title>
     </image:image>
   </url>
   <url>
@@ -99,12 +279,42 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T16:33:45+00:00</news:publication_date>
+      <news:publication_date>2026-10-03T22:03:45+00:00</news:publication_date>
       <news:title>Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches</news:title>
     </news:news>
     <image:image>
       <image:loc>https://assets-prd.ignimgs.com/2026/10/03/avengers-doomsday-poster-witches-1791064594819.png</image:loc>
       <image:title>Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/inde-navarrette-teases-x-men-role-says-shes-doing-everything-huma/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T21:03:46+00:00</news:publication_date>
+      <news:title>Inde Navarrette Teases X-Men Role, Says She&#x27;s &#x27;Doing Everything Humanly Possible&#x27; to Do Rogue Justice</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/03/inde-navarrette-x-men-1791061338104.png</image:loc>
+      <image:title>Inde Navarrette Teases X-Men Role, Says She&#x27;s &#x27;Doing Everything Humanly Possible&#x27; to Do Rogue Justice</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/everything-we-saw-at-runefest-2026-including-runescape-4-and-rune/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T20:00:41+00:00</news:publication_date>
+      <news:title>Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/03/rs3-adventure-guide-artwork-nologo-1791052091628.png</image:loc>
+      <image:title>Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited</image:title>
     </image:image>
   </url>
 </urlset>
