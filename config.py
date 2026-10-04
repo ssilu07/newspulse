@@ -47,17 +47,32 @@ GOOGLE_SITE_VERIFICATION = os.getenv("GOOGLE_SITE_VERIFICATION", "XMDt3lDT2kpdjL
 
 # Categories and High-Reliability RSS Feeds
 CATEGORIES = {
+    "trending": {
+        "name": "Trending",
+        "slug": "trending",
+        "color": "#f43f5e",
+        "gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+        "icon": "🔥",
+        "description": "Real-time viral searches, top Google Trends, and breaking global alerts.",
+        "feeds": [
+            "https://trends.google.com/trending/rss?geo=US",
+            "https://trends.google.com/trending/rss?geo=IN",
+            "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=800&fit=crop"
+    },
     "tech": {
         "name": "Tech",
         "slug": "tech",
         "color": "#06b6d4",
         "gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
         "icon": "⚡",
-        "description": "Silicon, startups, breakthrough tech and digital transformation.",
+        "description": "Silicon, gadgets, mobile leaks, breakthrough tech, and digital culture.",
         "feeds": [
-            "https://techcrunch.com/feed/",
-            "http://feeds.bbci.co.uk/news/technology/rss.xml",
             "https://www.theverge.com/rss/index.xml",
+            "https://9to5mac.com/feed/",
+            "https://techcrunch.com/feed/",
+            "https://www.wired.com/feed/rss",
             "https://feeds.arstechnica.com/arstechnica/index"
         ],
         "default_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop"
@@ -82,10 +97,12 @@ CATEGORIES = {
         "color": "#10b981",
         "gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
         "icon": "📈",
-        "description": "Global markets, finance, economy, and corporate developments.",
+        "description": "Global markets, Wall Street, crypto, economy, and corporate shakeups.",
         "feeds": [
-            "http://feeds.bbci.co.uk/news/business/rss.xml",
-            "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en"
+            "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+            "https://finance.yahoo.com/news/rssindex",
+            "https://www.coindesk.com/arc/outboundfeeds/rss/",
+            "http://feeds.bbci.co.uk/news/business/rss.xml"
         ],
         "default_image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=800&fit=crop"
     },
@@ -95,10 +112,10 @@ CATEGORIES = {
         "color": "#f59e0b",
         "gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
         "icon": "🌐",
-        "description": "Geopolitics, international diplomacy, global events, and treaties.",
+        "description": "Geopolitics, international diplomacy, global events, and major headlines.",
         "feeds": [
-            "http://feeds.bbci.co.uk/news/world/rss.xml",
             "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
+            "http://feeds.bbci.co.uk/news/world/rss.xml",
             "https://www.aljazeera.com/xml/rss/all.xml"
         ],
         "default_image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=800&fit=crop"
@@ -109,11 +126,12 @@ CATEGORIES = {
         "color": "#ef4444",
         "gradient": "linear-gradient(135deg, #ef4444, #f97316)",
         "icon": "🏆",
-        "description": "Championships, leagues, athletes, records, and thrilling match highlights.",
+        "description": "Cricket, football, championships, leagues, athletes, and match scores.",
         "feeds": [
+            "https://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+            "https://www.espn.com/espn/rss/news",
             "http://feeds.bbci.co.uk/sport/rss.xml",
-            "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en",
-            "https://www.espn.com/espn/rss/news"
+            "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en"
         ],
         "default_image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200&h=800&fit=crop"
     },
@@ -123,10 +141,12 @@ CATEGORIES = {
         "color": "#ec4899",
         "gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
         "icon": "🎬",
-        "description": "Cinema, streaming, pop culture, music, and celebrity spotlights.",
+        "description": "Cinema, gaming, Marvel/DC, streaming, music, and pop culture.",
         "feeds": [
-            "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-            "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-US&gl=US&ceid=US:en"
+            "https://feeds.feedburner.com/ign/all",
+            "https://variety.com/feed/",
+            "https://www.hollywoodreporter.com/feed/",
+            "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
         ],
         "default_image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200&h=800&fit=crop"
     }
@@ -134,6 +154,13 @@ CATEGORIES = {
 
 # Curated High-Definition Story Background Images per category for AMP slide sequencing
 SLIDE_IMAGE_COLLECTIONS = {
+    "trending": [
+        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop"
+    ],
     "tech": [
         "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",

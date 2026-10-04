@@ -61,6 +61,12 @@ def clean_html(raw_html: str) -> str:
 
 def extract_image_url(entry, category_slug: str) -> str:
     """Extracts the best possible image URL from feed item or uses high-res fallback."""
+    # 0. Google Trends picture
+    if getattr(entry, "ht_picture", None):
+        return entry.ht_picture
+    if getattr(entry, "ht_news_item_picture", None):
+        return entry.ht_news_item_picture
+
     # 1. media_content
     if "media_content" in entry and entry.media_content:
         for media in entry.media_content:
@@ -143,6 +149,8 @@ def parse_entry_time(entry) -> datetime:
 
 def extract_source_name(entry, feed_url: str) -> str:
     """Determines clean publisher/source name."""
+    if getattr(entry, "ht_news_item_source", None):
+        return entry.ht_news_item_source.strip()
     if hasattr(entry, "source") and entry.source and hasattr(entry.source, "title"):
         return entry.source.title.strip()
     parsed = urlparse(feed_url)
@@ -161,8 +169,26 @@ def extract_source_name(entry, feed_url: str) -> str:
         return "Al Jazeera"
     if "espn.com" in domain:
         return "ESPN"
+    if "espncricinfo.com" in domain:
+        return "ESPN Cricinfo"
     if "cnbc.com" in domain:
         return "CNBC"
+    if "9to5mac.com" in domain:
+        return "9to5Mac"
+    if "wired.com" in domain:
+        return "Wired"
+    if "yahoo.com" in domain:
+        return "Yahoo Finance"
+    if "coindesk.com" in domain:
+        return "CoinDesk"
+    if "ign.com" in domain or "feedburner.com" in domain:
+        return "IGN"
+    if "variety.com" in domain:
+        return "Variety"
+    if "hollywoodreporter.com" in domain:
+        return "Hollywood Reporter"
+    if "trends.google.com" in domain:
+        return "Google Trends"
     if "news.google.com" in domain:
         # Google News RSS often puts source at the end: 'Headline - SourceName'
         return "Google News"
@@ -198,17 +224,24 @@ def fetch_all_categories(max_per_category: int = None) -> list:
                     if cat_count >= max_per_category:
                         break
 
-                    raw_title = entry.get("title", "").strip()
+                    # Check Google Trends item attributes
+                    trend_headline = getattr(entry, "ht_news_item_title", None)
+                    if trend_headline:
+                        raw_title = clean_html(trend_headline)
+                    else:
+                        raw_title = entry.get("title", "").strip()
+
                     if not raw_title:
                         continue
 
                     # If title ends with "- SourceName", separate it
                     source_name = extract_source_name(entry, feed_url)
-                    if " - " in raw_title and source_name == "Google News":
+                    if " - " in raw_title and ("Google" in source_name or source_name == "NewsPulse"):
                         parts = raw_title.rsplit(" - ", 1)
                         if len(parts) == 2 and len(parts[1]) < 30:
                             raw_title = parts[0].strip()
-                            source_name = parts[1].strip()
+                            if source_name == "Google News":
+                                source_name = parts[1].strip()
 
                     # Deduplication key based on title normalized
                     title_norm = re.sub(r"\W+", "", raw_title.lower())
@@ -226,7 +259,9 @@ def fetch_all_categories(max_per_category: int = None) -> list:
 
                     # Extract raw summary / description
                     raw_summary = ""
-                    if "content" in entry and entry.content:
+                    if getattr(entry, "ht_news_item_snippet", None):
+                        raw_summary = clean_html(entry.ht_news_item_snippet)
+                    if not raw_summary and "content" in entry and entry.content:
                         raw_summary = clean_html(entry.content[0].value)
                     if not raw_summary and "summary" in entry:
                         raw_summary = clean_html(entry.summary)
@@ -244,7 +279,7 @@ def fetch_all_categories(max_per_category: int = None) -> list:
                     image_url = extract_image_url(entry, cat_slug)
 
                     # Original URL
-                    link = entry.get("link", "#")
+                    link = getattr(entry, "ht_news_item_url", None) or entry.get("link", "#")
 
                     article = {
                         "id": f"art_{len(articles) + 1}",

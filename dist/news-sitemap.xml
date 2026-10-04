@@ -3,48 +3,33 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/federal-judge-calls-flock-indiscriminate-mass-surveillance/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/knights-2001-premiership-has-an-asterisk/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T19:33:15+00:00</news:publication_date>
-      <news:title>Federal judge calls Flock ‘indiscriminate mass surveillance’</news:title>
+      <news:publication_date>2026-10-04T03:30:00+00:00</news:publication_date>
+      <news:title>Knights’ 2001 premiership has an asterisk</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Federal judge calls Flock ‘indiscriminate mass surveillance’</image:title>
+      <image:loc>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ__g6ut3irXI4dJaA166ghyUtsd-otNx5-s-3MOW-j48GSKW0SuUNKyBlZhg</image:loc>
+      <image:title>Knights’ 2001 premiership has an asterisk</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-nd/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/capcom-is-preparing-for-a-future-where-we-create-games-together-w/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T18:43:57+00:00</news:publication_date>
-      <news:title>Amazon responds to data center backlash, says it no longer uses NDAs</news:title>
+      <news:publication_date>2026-10-03T11:19:10+00:00</news:publication_date>
+      <news:title>Capcom is preparing for a ‘future where we create games together with AI’</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Amazon responds to data center backlash, says it no longer uses NDAs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/openai-safety-employee-resigns-claiming-the-companys-culture-is-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T16:30:01+00:00</news:publication_date>
-      <news:title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</image:title>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Capcom is preparing for a ‘future where we create games together with AI’</image:title>
     </image:image>
   </url>
   <url>
@@ -54,7 +39,7 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T23:03:45+00:00</news:publication_date>
+      <news:publication_date>2026-10-03T23:33:45+00:00</news:publication_date>
       <news:title>Guest column: A caution about artificial intelligence</news:title>
     </news:news>
     <image:image>
@@ -63,213 +48,63 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/trump-taps-director-of-national-intelligence-jay-clayton-as-ai-cz/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/teslas-cybercab-had-a-rocky-first-month-in-austin-now-comes-the-h/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T23:37:23+00:00</news:publication_date>
-      <news:title>Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports</news:title>
+      <news:publication_date>2026-10-03T14:59:07+00:00</news:publication_date>
+      <news:title>Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports</image:title>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/better-artificial-intelligence-stock-alphabet-vs-meta-platforms-t/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/flydubai-captain-says-copilot-asked-to-pray-then-struck-him-from-/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-04T01:05:06+00:00</news:publication_date>
-      <news:title>Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms</news:title>
+      <news:publication_date>2026-10-04T03:01:52+00:00</news:publication_date>
+      <news:title>Flydubai captain says copilot asked to pray, then struck him from behind; describes exactly how he opened cockpit door</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms</image:title>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Flydubai captain says copilot asked to pray, then struck him from behind; describes exactly how he opened cockpit door</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/g7-to-release-millions-of-barrels-of-oil-and-diesel-after-trump-t/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/mukesh-kumar-smaran-hand-rest-of-india-the-irani-cup/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T04:38:31+00:00</news:publication_date>
-      <news:title>G7 to release millions of barrels of oil and diesel after Trump threat</news:title>
+      <news:publication_date>2026-10-04T03:32:24+00:00</news:publication_date>
+      <news:title>Mukesh Kumar, Smaran hand Rest of India the Irani Cup</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg</image:loc>
-      <image:title>G7 to release millions of barrels of oil and diesel after Trump threat</image:title>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422300/422303.jpg</image:loc>
+      <image:title>Mukesh Kumar, Smaran hand Rest of India the Irani Cup</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/suppliers-pile-pressure-on-government-over-energy-bills/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-w/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-03T08:58:44+00:00</news:publication_date>
-      <news:title>Suppliers pile pressure on government over energy bills</news:title>
+      <news:publication_date>2026-10-03T16:33:45+00:00</news:publication_date>
+      <news:title>Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/767f/live/4c61a230-be64-11f1-b36c-81ad410b221e.jpg</image:loc>
-      <image:title>Suppliers pile pressure on government over energy bills</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/uk-diesel-prices-top-2-a-litre-for-first-time-rac-says/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T15:50:05+00:00</news:publication_date>
-      <news:title>UK diesel prices top £2 a litre for first time, RAC says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0f/live/8e1b93c0-beeb-11f1-ba3c-a5b1d911ee67.jpg</image:loc>
-      <image:title>UK diesel prices top £2 a litre for first time, RAC says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/tennessee-prison-chief-to-resign-after-christa-pikes-failed-execu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T17:48:42+00:00</news:publication_date>
-      <news:title>Tennessee prison chief to resign after Christa Pike&#x27;s failed execution</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg</image:loc>
-      <image:title>Tennessee prison chief to resign after Christa Pike&#x27;s failed execution</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/cornell-president-says-university-must-do-better-after-frat-house/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T00:11:25+00:00</news:publication_date>
-      <news:title>Cornell president says university &#x27;must do better&#x27; after frat house rape allegations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg</image:loc>
-      <image:title>Cornell president says university &#x27;must do better&#x27; after frat house rape allegations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/flydubai-co-pilot-attacked-captain-with-axe-uae-official-says/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T14:27:33+00:00</news:publication_date>
-      <news:title>Flydubai co-pilot attacked captain with axe, UAE official says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>Flydubai co-pilot attacked captain with axe, UAE official says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/bellingham-unlocks-new-level-and-potential-to-be-one-of-the-great/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T21:07:59+00:00</news:publication_date>
-      <news:title>Bellingham unlocks new level and potential to be &#x27;one of the greatest</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec9a/live/385a09b0-bf5b-11f1-bf94-5355097afbf2.jpg</image:loc>
-      <image:title>Bellingham unlocks new level and potential to be &#x27;one of the greatest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/two-going-on-four-five-or-six-on-good-night-for-new-scotland-era/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T22:22:18+00:00</news:publication_date>
-      <news:title>Two going on four, five or six on good night for new Scotland era</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8291/live/df976de0-bf78-11f1-940c-1914ec9d5f66.jpg</image:loc>
-      <image:title>Two going on four, five or six on good night for new Scotland era</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/wakefield-beat-warrington-to-win-super-league/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T19:02:55+00:00</news:publication_date>
-      <news:title>Wakefield beat Warrington to win Super League</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afce/live/896ca180-bf76-11f1-babe-4199b0e7ccea.jpg</image:loc>
-      <image:title>Wakefield beat Warrington to win Super League</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/the-celebrity-traitors-connections-that-might-surprise-you/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T01:31:32+00:00</news:publication_date>
-      <news:title>The Celebrity Traitors connections that might surprise you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55c6/live/bcd74b30-bf24-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>The Celebrity Traitors connections that might surprise you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/traitors-claim-their-first-victim-as-richard-e-grant-tries-to-sav/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T11:07:52+00:00</news:publication_date>
-      <news:title>Traitors claim their first victim as Richard E Grant tries to save his skin</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da4/live/555d3890-bea5-11f1-babe-4199b0e7ccea.jpg</image:loc>
-      <image:title>Traitors claim their first victim as Richard E Grant tries to save his skin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/alison-hammond-returns-home-from-hospital-after-rushing-off-this-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T13:21:40+00:00</news:publication_date>
-      <news:title>Alison Hammond returns home from hospital after rushing off This Morning</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d175/live/03971280-bf2a-11f1-b10d-f956452c9061.jpg</image:loc>
-      <image:title>Alison Hammond returns home from hospital after rushing off This Morning</image:title>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/03/avengers-doomsday-poster-witches-1791064594819.png</image:loc>
+      <image:title>Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches</image:title>
     </image:image>
   </url>
 </urlset>
