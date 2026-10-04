@@ -46,11 +46,19 @@ def run_pipeline(max_per_category: int = None, skip_validation: bool = False):
 
     # Step 4: Validate AMP compliance
     if not skip_validation:
-        print("\n[Step 4/4] Running Google AMP Validator compliance checks...")
+        print("\n[Step 4/5] Running Google AMP Validator compliance checks...")
         amp_passed = validate_all_stories()
     else:
-        print("\n[Step 4/4] AMP validation skipped by user flag.")
+        print("\n[Step 4/5] AMP validation skipped by user flag.")
         amp_passed = True
+
+    # Step 5: Auto-broadcast top stories to Twitter, Reddit & Telegram
+    print("\n[Step 5/5] Checking social syndication channels (Twitter, Reddit, Telegram)...")
+    try:
+        from social_poster import auto_share_top_articles
+        auto_share_top_articles(enriched_articles, max_posts=2)
+    except Exception as e:
+        print(f"  [!] Note on social broadcast: {e}")
 
     duration = time.time() - start_time
     print("\n" + "=" * 72)
