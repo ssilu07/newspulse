@@ -146,9 +146,92 @@ def render_homepage_html(articles: list) -> str:
         pills_html_list.append(f'<button class="cat-pill" data-cat="{cat_slug}">{icon} {name}</button>')
     pills_html = "\n".join(pills_html_list)
 
+    # Hero Spotlight Card (Top Breaking Story)
+    hero_html = ""
+    grid_articles = articles
+    if articles:
+        hero_art = articles[0]
+        h_id = hero_art.get("id")
+        h_slug = hero_art.get("slug")
+        h_cat_slug = hero_art.get("category")
+        h_cat_name = escape(hero_art.get("category_name", "Breaking"))
+        h_cat_color = hero_art.get("category_color", "#ef4444")
+        h_title = escape(hero_art.get("title", ""))
+        h_summary = escape(hero_art.get("summary", ""))
+        h_source = escape(hero_art.get("source", "NewsPulse"))
+        h_time_ago = escape(hero_art.get("time_ago", "Just now"))
+        h_image = escape(hero_art.get("image_url", ""))
+        h_orig_url = escape(hero_art.get("original_url", "#"))
+        h_bullets = hero_art.get("bullet_points", [])
+        h_bullets_json = escape(json.dumps(h_bullets))
+
+        h_bullets_list_html = "".join([f"<li>{escape(b)}</li>" for b in h_bullets[:3]])
+
+        hero_html = f"""
+    <!-- Editor's Spotlight Hero -->
+    <section class="featured-hero-section" id="heroSection" aria-label="Editor's Spotlight">
+      <div class="section-label-row">
+        <h2 class="section-heading">
+          <span class="live-dot"></span>
+          <span>Editor's Spotlight</span>
+        </h2>
+        <span class="spotlight-tag">⚡ TOP BREAKING</span>
+      </div>
+      <article class="news-card featured-news-card"
+        data-id="{h_id}"
+        data-slug="{h_slug}"
+        data-category="{h_cat_slug}"
+        data-category-name="{h_cat_name}"
+        data-category-color="{h_cat_color}"
+        data-title="{h_title}"
+        data-summary="{h_summary}"
+        data-bullets="{h_bullets_json}"
+        data-source="{h_source}"
+        data-time-ago="{h_time_ago}"
+        data-image="{h_image}"
+        data-original-url="{h_orig_url}">
+        
+        <div class="card-media featured-media">
+          <img src="{h_image}" alt="{h_title}" class="card-img" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=800&fit=crop';">
+          <span class="card-tag" style="background-color: {h_cat_color};">{h_cat_name}</span>
+          <span class="card-meta-badge">🕒 {h_time_ago}</span>
+        </div>
+
+        <div class="card-body featured-body">
+          <div class="card-source-row">
+            <span class="card-source"><span class="source-dot"></span>{h_source}</span>
+            <span class="read-badge">⚡ 1 min read</span>
+          </div>
+          <h2 class="card-title featured-title">{h_title}</h2>
+          <p class="card-summary featured-summary">{h_summary}</p>
+
+          <div class="featured-takeaways-box">
+            <div class="featured-takeaways-title">Key Takeaways</div>
+            <ul class="featured-takeaways-list">
+              {h_bullets_list_html}
+            </ul>
+          </div>
+
+          <div class="card-actions">
+            <div class="action-btn-group">
+              <a href="/stories/{h_slug}/" class="web-story-link" title="Open 5-Slide Visual Web Story">⚡ Web Story</a>
+              <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+            </div>
+            <div class="action-btn-group">
+              <button class="icon-action-btn tts-btn" data-id="{h_id}" title="Listen to audio" aria-label="Listen">🔊</button>
+              <button class="icon-action-btn bookmark-btn" data-id="{h_id}" title="Save story" aria-label="Bookmark">☆</button>
+              <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+            </div>
+          </div>
+        </div>
+      </article>
+    </section>
+"""
+        grid_articles = articles[1:] if len(articles) > 1 else articles
+
     # Article Cards
     cards_html_list = []
-    for art in articles:
+    for art in grid_articles:
         art_id = art.get("id")
         slug = art.get("slug")
         cat_slug = art.get("category")
@@ -178,15 +261,15 @@ def render_homepage_html(articles: list) -> str:
           data-original-url="{orig_url}">
           
           <div class="card-media">
-            <img src="{image}" alt="{title}" class="card-img" loading="lazy">
+            <img src="{image}" alt="{title}" class="card-img" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&fit=crop';">
             <span class="card-tag" style="background-color: {cat_color};">{cat_name}</span>
-            <span class="card-meta-badge">{time_ago}</span>
+            <span class="card-meta-badge">🕒 {time_ago}</span>
           </div>
 
           <div class="card-body">
             <div class="card-source-row">
-              <span class="card-source">{source}</span>
-              <span>1 min read</span>
+              <span class="card-source"><span class="source-dot"></span>{source}</span>
+              <span class="read-badge">1 min read</span>
             </div>
             <h3 class="card-title">{title}</h3>
             <p class="card-summary">{summary}</p>
@@ -297,6 +380,8 @@ def render_homepage_html(articles: list) -> str:
         <span id="bookmarkCountBadge" style="background: rgba(0,0,0,0.2); padding: 1px 6px; border-radius: 9999px; font-size: 11px;">0</span>
       </button>
     </section>
+
+    {hero_html}
 
     <!-- News Cards Grid -->
     <section class="articles-grid" id="articlesGrid" aria-label="Top News Headlines">

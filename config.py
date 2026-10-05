@@ -53,11 +53,12 @@ CATEGORIES = {
         "color": "#f43f5e",
         "gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
         "icon": "🔥",
-        "description": "Real-time viral searches, top Google Trends, and breaking global alerts.",
+        "description": "Real-time viral stories, breaking news alerts, and global headlines.",
         "feeds": [
-            "https://trends.google.com/trending/rss?geo=US",
-            "https://trends.google.com/trending/rss?geo=IN",
-            "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+            "http://feeds.bbci.co.uk/news/rss.xml",
+            "https://feeds.npr.org/1001/rss.xml",
+            "https://www.theguardian.com/world/rss",
+            "https://feeds.skynews.com/feeds/rss/home.xml"
         ],
         "default_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=800&fit=crop"
     },
@@ -70,10 +71,10 @@ CATEGORIES = {
         "description": "Silicon, gadgets, mobile leaks, breakthrough tech, and digital culture.",
         "feeds": [
             "https://www.theverge.com/rss/index.xml",
-            "https://9to5mac.com/feed/",
             "https://techcrunch.com/feed/",
             "https://www.wired.com/feed/rss",
-            "https://feeds.arstechnica.com/arstechnica/index"
+            "https://feeds.arstechnica.com/arstechnica/index",
+            "https://www.engadget.com/rss.xml"
         ],
         "default_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop"
     },
@@ -85,9 +86,10 @@ CATEGORIES = {
         "icon": "🧠",
         "description": "Artificial intelligence, frontier models, robotics, and deep science.",
         "feeds": [
-            "https://news.google.com/rss/search?q=Artificial+Intelligence+when:2d&hl=en-US&gl=US&ceid=US:en",
             "https://techcrunch.com/category/artificial-intelligence/feed/",
-            "https://www.technologyreview.com/feed/"
+            "https://www.technologyreview.com/feed/",
+            "https://venturebeat.com/category/ai/feed/",
+            "https://feeds.arstechnica.com/arstechnica/technology-lab/"
         ],
         "default_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=800&fit=crop"
     },
@@ -114,9 +116,10 @@ CATEGORIES = {
         "icon": "🌐",
         "description": "Geopolitics, international diplomacy, global events, and major headlines.",
         "feeds": [
-            "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
             "http://feeds.bbci.co.uk/news/world/rss.xml",
-            "https://www.aljazeera.com/xml/rss/all.xml"
+            "https://www.aljazeera.com/xml/rss/all.xml",
+            "https://feeds.npr.org/1004/rss.xml",
+            "https://www.france24.com/en/rss"
         ],
         "default_image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=800&fit=crop"
     },
@@ -131,7 +134,7 @@ CATEGORIES = {
             "https://www.espncricinfo.com/rss/content/story/feeds/0.xml",
             "https://www.espn.com/espn/rss/news",
             "http://feeds.bbci.co.uk/sport/rss.xml",
-            "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en"
+            "https://www.skysports.com/rss/12040"
         ],
         "default_image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200&h=800&fit=crop"
     },
@@ -143,10 +146,10 @@ CATEGORIES = {
         "icon": "🎬",
         "description": "Cinema, gaming, Marvel/DC, streaming, music, and pop culture.",
         "feeds": [
-            "https://feeds.feedburner.com/ign/all",
             "https://variety.com/feed/",
             "https://www.hollywoodreporter.com/feed/",
-            "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+            "https://feeds.feedburner.com/ign/all",
+            "https://deadline.com/feed/"
         ],
         "default_image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200&h=800&fit=crop"
     }

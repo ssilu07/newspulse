@@ -3,48 +3,88 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-05T09:30:12Z</lastmod>
+    <lastmod>2026-10-05T11:17:20Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-05T09:30:12Z</lastmod>
+    <lastmod>2026-10-05T11:17:20Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-05T09:30:12Z</lastmod>
+    <lastmod>2026-10-05T11:17:20Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-05T09:30:12Z</lastmod>
+    <lastmod>2026-10-05T11:17:20Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-05T09:30:12Z</lastmod>
+    <lastmod>2026-10-05T11:17:20Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-05T09:30:12Z</lastmod>
+    <lastmod>2026-10-05T11:17:20Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/gameday-spikes-at-thunder-probable-pitchers-lineups-and-more/</loc>
-    <lastmod>2026-10-05T03:40:00+00:00</lastmod>
+    <loc>https://newspulse-daily.vercel.app/stories/us-removes-all-bombers-from-raf-fairford-base/</loc>
+    <lastmod>2026-10-05T05:09:09+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuHksOqjOtYCHves_Uikwh8vMbV29Yy5iRs5AKhUJyO2u3kUNAJTyCgE5sZA</image:loc>
-      <image:title>Gameday: Spikes at Thunder, Probable Pitchers, Lineups, and more</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>US removes all bombers from RAF Fairford base</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/andrew-takes-legal-action-over-search-warrants-before-his-arrest/</loc>
+    <lastmod>2026-10-05T05:04:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/90f2/live/ed82e1b0-c08f-11f1-a4af-19dbf5352a59.jpg</image:loc>
+      <image:title>Andrew takes legal action over search warrants before his arrest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/spanish-pm-sánchez-calls-early-election-after-housing-protests/</loc>
+    <lastmod>2026-10-05T04:48:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1479/live/0ea9d1f0-c090-11f1-a4af-19dbf5352a59.jpg</image:loc>
+      <image:title>Spanish PM Sánchez calls early election after housing protests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/google-admits-not-every-android-app-runs-great-on-intel-googleboo/</loc>
+    <lastmod>2026-10-05T05:28:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Asus_Googlebook_14_ADiBenedetto_0006_0b94ab.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Google admits not every Android app runs great on Intel Googlebooks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/our-minds-arent-equipped-to-handle-ai/</loc>
+    <lastmod>2026-10-05T04:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Our minds aren’t equipped to handle AI</image:title>
     </image:image>
   </url>
   <url>
@@ -58,13 +98,53 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/president-donald-trump-announces-creation-of-super-intelligence-f/</loc>
-    <lastmod>2026-10-05T02:56:15+00:00</lastmod>
+    <loc>https://newspulse-daily.vercel.app/stories/google-froze-its-open-source-bug-bounty-program-due-to-a-signific/</loc>
+    <lastmod>2026-10-04T15:01:07+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>President Donald Trump announces creation of &#x27;Super Intelligence Force&#x27; AI task force - ABC News - Breaking News, Latest News and Videos</image:title>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863</image:loc>
+      <image:title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-im/</loc>
+    <lastmod>2026-10-04T14:38:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800</image:loc>
+      <image:title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-unveils-his-new-super-intelligence-force/</loc>
+    <lastmod>2026-10-04T09:45:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024</image:loc>
+      <image:title>Trump unveils his new Super Intelligence Force</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/stock-futures-fall-as-investors-grapple-with-higher-yields-live-u/</loc>
+    <lastmod>2026-10-05T05:36:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108369491-17906967662026-09-29t153734z_497028916_rc21tnamiqla_rtrmadp_0_usa-stocks.jpeg?v=1790696808&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Stock futures fall as investors grapple with higher yields: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/china-shuts-hundreds-of-banks-as-beijing-moves-to-shore-up-its-fi/</loc>
+    <lastmod>2026-10-05T04:50:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/107315141-1697028387928-gettyimages-1415687424-yuanybandera1.jpeg?v=1699958546&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>China shuts hundreds of banks as Beijing moves to shore up its financial system</image:title>
     </image:image>
   </url>
   <url>
@@ -73,18 +153,48 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108372306-1791159129782-gettyimages-2297947516-090a3383_0fhdk7dm.jpeg?v=1791159153&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Trump tells South Korea to sign on to Alaska LNG deal or &#x27;I&#x27;ll just charge them more</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/france-closes-up-to-500-schools-monday-over-student-protests-bbc/</loc>
-    <lastmod>2026-10-04T23:19:14+00:00</lastmod>
+    <loc>https://newspulse-daily.vercel.app/stories/right-wing-flávio-bolsonaro-wins-first-round-of-brazil-election/</loc>
+    <lastmod>2026-10-04T21:46:16+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>France closes up to 500 schools Monday over student protests</image:title>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e4ea/live/56a0e6c0-c053-11f1-babe-4199b0e7ccea.png</image:loc>
+      <image:title>Right-wing Flávio Bolsonaro wins first round of Brazil election</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/nobel-prize-awarded-for-showing-how-nerve-cells-shape-feelings/</loc>
+    <lastmod>2026-10-05T05:34:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/275f/live/05109730-c0ab-11f1-b72b-c3e328aa18ed.jpg</image:loc>
+      <image:title>Nobel Prize awarded for showing how nerve cells shape feelings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-air-force-removes-all-bombers-from-british-military-base-raf-f/</loc>
+    <lastmod>2026-10-05T05:09:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>US air force removes all bombers from British military base RAF Fairford</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/cook-leaves-kent-after-promotion-season-for-coaching-return/</loc>
+    <lastmod>2026-10-05T05:41:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423406.jpg</image:loc>
+      <image:title>Cook leaves Kent after promotion season for coaching return</image:title>
     </image:image>
   </url>
   <url>
@@ -98,13 +208,43 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/rockstar-traveled-across-florida-with-gang-members-and-cops-for-g/</loc>
-    <lastmod>2026-10-05T02:59:00+00:00</lastmod>
+    <loc>https://newspulse-daily.vercel.app/stories/west-indies-add-amir-jangoo-as-cover-for-the-injured-jewel-andrew/</loc>
+    <lastmod>2026-10-05T01:07:33+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg</image:loc>
-      <image:title>Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research</image:title>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423100/423129.jpg</image:loc>
+      <image:title>West Indies add Amir Jangoo as cover for the injured Jewel Andrew for India T20Is</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/naza-rebuttal-doc-surfaces-online-made-by-idf-reserve-members/</loc>
+    <lastmod>2026-10-05T05:31:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/NAZA-Fake.jpg</image:loc>
+      <image:title>‘NAZA’ Rebuttal Doc Surfaces Online, Made by IDF Reserve Members</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/frances-canal-threatens-to-pull-11-billion-cinema-deal-over-frenc/</loc>
+    <lastmod>2026-10-05T05:13:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/07/200936.webp</image:loc>
+      <image:title>France’s Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/andrew-mountbatten-windsor-taking-legal-action-against-police-ove/</loc>
+    <lastmod>2026-10-05T04:01:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/andrew.jpg</image:loc>
+      <image:title>Andrew Mountbatten-Windsor Taking Legal Action Against Police Over Search Warrants in Arrest</image:title>
     </image:image>
   </url>
 </urlset>

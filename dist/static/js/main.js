@@ -106,12 +106,22 @@
       const matchesSearch = !query || title.includes(query) || summary.includes(query) || source.includes(query) || cat.includes(query);
 
       if (matchesCategory && matchesBookmark && matchesSearch) {
-        card.style.display = 'flex';
+        card.style.display = '';
         visibleCount++;
       } else {
         card.style.display = 'none';
       }
     });
+
+    const heroSection = document.getElementById('heroSection');
+    if (heroSection) {
+      const heroCard = heroSection.querySelector('.news-card');
+      if (heroCard && heroCard.style.display === 'none') {
+        heroSection.style.display = 'none';
+      } else if (heroSection) {
+        heroSection.style.display = '';
+      }
+    }
 
     if (emptyState) {
       emptyState.style.display = visibleCount === 0 ? 'block' : 'none';
