@@ -212,13 +212,92 @@ def post_to_telegram(article: dict) -> bool:
         return False
 
 
+# ==============================================
+# 4. LinkedIn Auto-Poster (Professional & High Organic Reach)
+# ==============================================
+def post_to_linkedin(article: dict) -> bool:
+    """Publishes an article share with commentary to a LinkedIn profile or company page."""
+    access_token = os.getenv("LINKEDIN_ACCESS_TOKEN")
+    person_urn = os.getenv("LINKEDIN_PERSON_URN") or os.getenv("LINKEDIN_ORG_URN")
+
+    if not access_token or not person_urn:
+        print("    [LinkedIn] Access Token or Person/Org URN not configured in environment. Skipping.")
+        return False
+
+    try:
+        import requests
+        title = article.get("title", "").strip()
+        summary = article.get("summary", "").strip()
+        slug = article.get("slug", "")
+        cat_slug = article.get("category", "tech")
+        source = article.get("source", "NewsPulse")
+        story_url = f"{config.SITE_URL}/stories/{slug}/"
+        hashtags = get_category_hashtags(cat_slug)
+
+        author_urn = person_urn if person_urn.startswith("urn:li:") else f"urn:li:person:{person_urn}"
+
+        commentary = (
+            f"⚡ {title}\n\n"
+            f"{summary}\n\n"
+            f"Read the full 5-slide visual story: {story_url}\n\n"
+            f"{hashtags}"
+        )
+
+        api_url = "https://api.linkedin.com/v2/ugcPosts"
+        headers = {
+            "Authorization": f"Bearer {access_token}",
+            "Content-Type": "application/json",
+            "X-Restli-Protocol-Version": "2.0.0"
+        }
+
+        payload = {
+            "author": author_urn,
+            "lifecycleState": "PUBLISHED",
+            "specificContent": {
+                "com.linkedin.ugc.ShareContent": {
+                    "shareCommentary": {
+                        "text": commentary
+                    },
+                    "shareMediaCategory": "ARTICLE",
+                    "media": [
+                        {
+                            "status": "READY",
+                            "description": {
+                                "text": summary[:200]
+                            },
+                            "originalUrl": story_url,
+                            "title": {
+                                "text": title[:200]
+                            }
+                        }
+                    ]
+                }
+            },
+            "visibility": {
+                "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+            }
+        }
+
+        res = requests.post(api_url, headers=headers, json=payload, timeout=12)
+        if res.status_code in (200, 201):
+            print("    [LinkedIn] Posted successfully to LinkedIn!")
+            return True
+        else:
+            print(f"    [!] LinkedIn error response ({res.status_code}): {res.text}")
+            return False
+
+    except Exception as e:
+        print(f"    [!] LinkedIn posting error: {e}")
+        return False
+
+
 # ==============================================================================
 # Main Dispatcher
 # ==============================================================================
 def auto_share_top_articles(articles: list = None, max_posts: int = 2) -> dict:
     """
     Selects top breaking articles that have not yet been posted to social media
-    and broadcasts them across Twitter, Reddit, and Telegram.
+    and broadcasts them across Twitter, Reddit, Telegram, and LinkedIn.
     """
     if not articles:
         articles_file = config.DATA_DIR / "articles.json"
@@ -250,8 +329,9 @@ def auto_share_top_articles(articles: list = None, max_posts: int = 2) -> dict:
         need_twitter = not art_history.get("twitter", False)
         need_reddit = not art_history.get("reddit", False)
         need_telegram = not art_history.get("telegram", False)
+        need_linkedin = not art_history.get("linkedin", False)
 
-        if not (need_twitter or need_reddit or need_telegram):
+        if not (need_twitter or need_reddit or need_telegram or need_linkedin):
             continue
 
         print(f"\n[*] Broadcasting: '{art.get('title', '')[:55]}...'")
@@ -270,6 +350,11 @@ def auto_share_top_articles(articles: list = None, max_posts: int = 2) -> dict:
             tg_ok = post_to_telegram(art)
             if tg_ok:
                 art_history["telegram"] = True
+
+        if need_linkedin:
+            li_ok = post_to_linkedin(art)
+            if li_ok:
+                art_history["linkedin"] = True
 
         art_history["last_posted_at"] = datetime.now(timezone.utc).isoformat()
         history[slug] = art_history
