@@ -3,48 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/rybakina-i-sabalenka-za-burtą-tak-teraz-wygląda-drabinka-świątek/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/gameday-spikes-at-thunder-probable-pitchers-lineups-and-more/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-05T04:10:00+00:00</news:publication_date>
-      <news:title>Rybakina i Sabalenka za burtą. Tak teraz wygląda drabinka Świątek</news:title>
+      <news:publication_date>2026-10-05T03:40:00+00:00</news:publication_date>
+      <news:title>Gameday: Spikes at Thunder, Probable Pitchers, Lineups, and more</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReBImRFIXVle3blSAJXxK7BMFC3_r7qVrjmYT5mOsOHPWwSUOUV7Ar89oTRM</image:loc>
-      <image:title>Rybakina i Sabalenka za burtą. Tak teraz wygląda drabinka Świątek</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/saints-vs-falcons-our-staff-predictions-for-mondays-game-in-the-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:10:00+00:00</news:publication_date>
-      <news:title>Saints vs. Falcons: Our staff predictions for Monday’s game in the Dome</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrwSooRGe_8zfopDV06YvxWew-Sn2pf4pdcFFYBfBq1kjEY6gxndjzzNYiv5U</image:loc>
-      <image:title>Saints vs. Falcons: Our staff predictions for Monday’s game in the Dome</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/trying-to-provide-a-spark-wells-instead-runs-yanks-out-of-lone-sc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:10:00+00:00</news:publication_date>
-      <news:title>Trying to provide a spark, Wells instead runs Yanks out of lone scoring chance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyl6ydNzjaLWsoPTiwg9MPPOP_yZWlVyZycCINufJCvIAAFmAmcEL_rNKbMbk</image:loc>
-      <image:title>Trying to provide a spark, Wells instead runs Yanks out of lone scoring chance</image:title>
+      <image:loc>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuHksOqjOtYCHves_Uikwh8vMbV29Yy5iRs5AKhUJyO2u3kUNAJTyCgE5sZA</image:loc>
+      <image:title>Gameday: Spikes at Thunder, Probable Pitchers, Lineups, and more</image:title>
     </image:image>
   </url>
   <url>
@@ -54,42 +24,12 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-04T21:02:09+00:00</news:publication_date>
+      <news:publication_date>2026-10-04T15:32:09+00:00</news:publication_date>
       <news:title>The new Fitbit Edge leaks</news:title>
     </news:news>
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>The new Fitbit Edge leaks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/pricks-theatrical-industrial-punk-is-perfect-for-spooky-season/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T20:00:00+00:00</news:publication_date>
-      <news:title>Prick’s theatrical industrial punk is perfect for spooky season</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Prick.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Prick’s theatrical industrial punk is perfect for spooky season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/the-best-early-october-prime-day-deals-happening-now/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T17:18:00+00:00</news:publication_date>
-      <news:title>The best early October Prime Day deals happening now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>The best early October Prime Day deals happening now</image:title>
     </image:image>
   </url>
   <url>
@@ -99,42 +39,12 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-05T03:00:00+00:00</news:publication_date>
-      <news:title>Exclusive | New AI Czar Unveils Goals, Members of White House Task Force</news:title>
+      <news:publication_date>2026-10-05T02:56:15+00:00</news:publication_date>
+      <news:title>President Donald Trump announces creation of &#x27;Super Intelligence Force&#x27; AI task force - ABC News - Breaking News, Latest News and Videos</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Exclusive | New AI Czar Unveils Goals, Members of White House Task Force</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-abc-news-breaking-news-latest-news-and-vi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T19:11:04+00:00</news:publication_date>
-      <news:title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/guest-column-a-caution-about-artificial-intelligence-riverheadnew/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T23:26:10+00:00</news:publication_date>
-      <news:title>Guest column: A caution about artificial intelligence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Guest column: A caution about artificial intelligence</image:title>
+      <image:title>President Donald Trump announces creation of &#x27;Super Intelligence Force&#x27; AI task force - ABC News - Breaking News, Latest News and Videos</image:title>
     </image:image>
   </url>
   <url>
@@ -144,7 +54,7 @@
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-05T00:47:47+00:00</news:publication_date>
+      <news:publication_date>2026-10-04T19:17:47+00:00</news:publication_date>
       <news:title>Trump tells South Korea to sign on to Alaska LNG deal or &#x27;I&#x27;ll just charge them more</news:title>
     </news:news>
     <image:image>
@@ -153,168 +63,48 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/surging-treasury-yields-dont-signal-a-us-fiscal-apocalypse-yet/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/france-closes-up-to-500-schools-monday-over-student-protests-bbc/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-05T02:24:07+00:00</news:publication_date>
-      <news:title>Surging Treasury yields don’t signal a U.S. &#x27;fiscal apocalypse&#x27; — yet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Surging Treasury yields don’t signal a U.S. &#x27;fiscal apocalypse&#x27; — yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/the-2029-tipping-point-western-populations-are-about-to-start-shr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T05:00:01+00:00</news:publication_date>
-      <news:title>The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/multiple-security-failures-allowed-flydubai-pilot-into-cockpit-ws/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:07:30+00:00</news:publication_date>
-      <news:title>Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit</news:title>
+      <news:publication_date>2026-10-04T23:19:14+00:00</news:publication_date>
+      <news:title>France closes up to 500 schools Monday over student protests</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit</image:title>
+      <image:title>France closes up to 500 schools Monday over student protests</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-marines-arrest-in-a-killing-on-okinawa-triggers-outrage-in-jap/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/india-and-west-indies-fined-for-slow-over-rates-in-third-odi/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-04T23:24:00+00:00</news:publication_date>
-      <news:title>US Marine’s arrest in a killing on Okinawa triggers outrage in Japan</news:title>
+      <news:publication_date>2026-10-05T02:21:18+00:00</news:publication_date>
+      <news:title>India and West Indies fined for slow over-rates in third ODI</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>US Marine’s arrest in a killing on Okinawa triggers outrage in Japan</image:title>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423300/423354.jpg</image:loc>
+      <image:title>India and West Indies fined for slow over-rates in third ODI</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran/</loc>
+    <loc>https://newspulse-daily.vercel.app/stories/rockstar-traveled-across-florida-with-gang-members-and-cops-for-g/</loc>
     <news:news>
       <news:publication>
         <news:name>NewsPulse</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-05T04:29:14+00:00</news:publication_date>
-      <news:title>US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears</news:title>
+      <news:publication_date>2026-10-05T02:59:00+00:00</news:publication_date>
+      <news:title>Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&amp;h=800&amp;fit=crop</image:loc>
-      <image:title>US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/west-indies-add-amir-jangoo-as-cover-for-the-injured-jewel-andrew/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:24:28+00:00</news:publication_date>
-      <news:title>West Indies add Amir Jangoo as cover for the injured Jewel Andrew for India T20Is</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423100/423129.jpg</image:loc>
-      <image:title>West Indies add Amir Jangoo as cover for the injured Jewel Andrew for India T20Is</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/my-happy-place-is-there-in-the-middle-raghuvanshi-is-back-after-l/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T03:47:12+00:00</news:publication_date>
-      <news:title>My happy place is there in the middle</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/416900/416954.jpg</image:loc>
-      <image:title>My happy place is there in the middle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/michael-bracewell-shifts-to-casual-contract-with-eye-on-bbl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T03:28:19+00:00</news:publication_date>
-      <news:title>Michael Bracewell shifts to casual contract with eye on BBL</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/398200/398263.jpg</image:loc>
-      <image:title>Michael Bracewell shifts to casual contract with eye on BBL</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/lanterns-season-1-finale-review-recap/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T02:00:00+00:00</news:publication_date>
-      <news:title>Lanterns Season 1 Finale Review &amp; Recap</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://assets-prd.ignimgs.com/2026/10/01/lanterns-episode-8-preview-hbo-max-0-18-screenshot-1790875719176.png</image:loc>
-      <image:title>Lanterns Season 1 Finale Review &amp; Recap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-ref/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T23:48:07+00:00</news:publication_date>
-      <news:title>Mighty Mike Plays Dad Says He Owns &#x27;Like 12 Companies,&#x27; Promises Refunds for AI Shirts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://assets-prd.ignimgs.com/2026/10/04/mighty-mike-plays-dad-1791154371431.png</image:loc>
-      <image:title>Mighty Mike Plays Dad Says He Owns &#x27;Like 12 Companies,&#x27; Promises Refunds for AI Shirts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T23:04:35+00:00</news:publication_date>
-      <news:title>Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://assets-prd.ignimgs.com/2026/10/04/tekken-8-pro-gets-god-of-destruction-alisa-blindfolded-1791154556788.jpg</image:loc>
-      <image:title>Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner</image:title>
+      <image:loc>https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg</image:loc>
+      <image:title>Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research</image:title>
     </image:image>
   </url>
 </urlset>

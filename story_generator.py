@@ -85,8 +85,8 @@ def generate_amp_story_html(article: dict) -> str:
             cta_markup = f"""
       <amp-story-cta-layer>
         <div class="cta-box">
-          <a href="{home_url}" class="cta-btn primary-cta">Explore More Stories</a>
-          <a href="{escape(original_url)}" class="cta-btn secondary-cta">Source: {source_escaped} ↗</a>
+          <a href="https://t.me/minutenewshub" class="cta-btn primary-cta" style="background: linear-gradient(135deg, #0088cc, #00b4d8);">✈️ Join Daily News on Telegram</a>
+          <a href="{home_url}" class="cta-btn secondary-cta">Explore More Stories</a>
         </div>
       </amp-story-cta-layer>"""
         else:

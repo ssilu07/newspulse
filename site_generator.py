@@ -41,6 +41,9 @@ def get_base_header(active_nav: str = "home") -> str:
       </div>
 
       <div class="header-actions">
+        <a href="https://t.me/minutenewshub" target="_blank" rel="noopener" class="telegram-header-badge" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 136, 204, 0.18); border: 1px solid rgba(0, 136, 204, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 600; transition: all 0.2s;" title="Join Minute News on Telegram">
+          <span>✈️</span> <span>Telegram</span>
+        </a>
         <span id="liveTimeDisplay" class="time-widget">UTC</span>
         <button id="themeToggleBtn" class="theme-toggle-btn" aria-label="Toggle dark/light theme">🌙</button>
       </div>
