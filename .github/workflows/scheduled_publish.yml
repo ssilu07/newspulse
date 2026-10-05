@@ -2,16 +2,21 @@ name: Automated News Ingestion & Rebuild
 
 on:
   schedule:
-    # Run every 4 hours
+    # Run every 4 hours (Optimal breaking news cadence without spamming)
     - cron: '0 */4 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI anytime
 
 permissions:
   contents: write
 
+concurrency:
+  group: news-publishing-sync
+  cancel-in-progress: false
+
 jobs:
   build-and-publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -42,12 +47,13 @@ jobs:
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
           REDDIT_SUBREDDIT: ${{ secrets.REDDIT_SUBREDDIT }}
+          ENABLE_TELEGRAM_POSTING: 'false'
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
           LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
         run: |
-          python fetch_and_generate.py --count 3 --skip-val
+          python fetch_and_generate.py --count 2 --max-fresh 14 --skip-val
 
       - name: Commit and Push Fresh News to GitHub
         run: |
@@ -55,8 +61,9 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ dist/
           if git diff --staged --quiet; then
-            echo "No new breaking stories to commit."
+            echo "Everything up to date. No new breaking stories to commit."
           else
             git commit -m "Auto-refresh: latest breaking news & visual stories [skip ci]"
+            git pull --rebase origin main || true
             git push origin main
           fi

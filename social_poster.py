@@ -10,6 +10,7 @@ Tracks posted stories in data/posted_social.json to prevent duplicate posts.
 
 import os
 import sys
+import time
 import json
 import re
 from pathlib import Path
@@ -169,6 +170,10 @@ def post_to_reddit(article: dict) -> bool:
 # ==============================================================================
 def post_to_telegram(article: dict) -> bool:
     """Sends a rich instant news card to a Telegram channel or group."""
+    if not getattr(config, "ENABLE_TELEGRAM_POSTING", False):
+        print("    [Telegram] Auto-posting is paused/disabled. Skipping.")
+        return False
+
     bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
@@ -294,11 +299,15 @@ def post_to_linkedin(article: dict) -> bool:
 # ==============================================================================
 # Main Dispatcher
 # ==============================================================================
-def auto_share_top_articles(articles: list = None, max_posts: int = 2) -> dict:
+def auto_share_top_articles(articles: list = None, max_posts: int = None) -> dict:
     """
     Selects top breaking articles that have not yet been posted to social media
     and broadcasts them across Twitter, Reddit, Telegram, and LinkedIn.
+    Enforces safe anti-spam rate limits and delays between posts.
     """
+    if max_posts is None:
+        max_posts = getattr(config, "SOCIAL_MAX_POSTS_PER_RUN", 2)
+
     if not articles:
         articles_file = config.DATA_DIR / "articles.json"
         if not articles_file.exists():
@@ -312,8 +321,9 @@ def auto_share_top_articles(articles: list = None, max_posts: int = 2) -> dict:
 
     history = load_posted_history()
     shared_count = 0
+    post_delay = getattr(config, "SOCIAL_POST_DELAY_SECONDS", 6.0)
 
-    print(f"\n[Social Auto-Poster] Reviewing top {len(articles)} articles for broadcast...")
+    print(f"\n[Social Auto-Poster] Reviewing top {len(articles)} articles for safe broadcast (Cap: {max_posts})...")
 
     for art in articles:
         if shared_count >= max_posts:
@@ -325,11 +335,11 @@ def auto_share_top_articles(articles: list = None, max_posts: int = 2) -> dict:
 
         art_history = history.get(slug, {})
 
-        # We post if not previously shared to all enabled platforms
-        need_twitter = not art_history.get("twitter", False)
-        need_reddit = not art_history.get("reddit", False)
-        need_telegram = not art_history.get("telegram", False)
-        need_linkedin = not art_history.get("linkedin", False)
+        # Check enabled platforms based on config toggles
+        need_twitter = getattr(config, "ENABLE_TWITTER_POSTING", True) and not art_history.get("twitter", False)
+        need_reddit = getattr(config, "ENABLE_REDDIT_POSTING", True) and not art_history.get("reddit", False)
+        need_telegram = getattr(config, "ENABLE_TELEGRAM_POSTING", False) and not art_history.get("telegram", False)
+        need_linkedin = getattr(config, "ENABLE_LINKEDIN_POSTING", True) and not art_history.get("linkedin", False)
 
         if not (need_twitter or need_reddit or need_telegram or need_linkedin):
             continue
@@ -337,28 +347,44 @@ def auto_share_top_articles(articles: list = None, max_posts: int = 2) -> dict:
         print(f"\n[*] Broadcasting: '{art.get('title', '')[:55]}...'")
 
         if need_twitter:
-            tw_ok = post_to_twitter(art)
-            if tw_ok:
-                art_history["twitter"] = True
+            try:
+                tw_ok = post_to_twitter(art)
+                if tw_ok:
+                    art_history["twitter"] = True
+            except Exception as e:
+                print(f"    [!] Twitter broadcast error (non-fatal): {e}")
 
         if need_reddit:
-            rd_ok = post_to_reddit(art)
-            if rd_ok:
-                art_history["reddit"] = True
+            try:
+                rd_ok = post_to_reddit(art)
+                if rd_ok:
+                    art_history["reddit"] = True
+            except Exception as e:
+                print(f"    [!] Reddit broadcast error (non-fatal): {e}")
 
         if need_telegram:
-            tg_ok = post_to_telegram(art)
-            if tg_ok:
-                art_history["telegram"] = True
+            try:
+                tg_ok = post_to_telegram(art)
+                if tg_ok:
+                    art_history["telegram"] = True
+            except Exception as e:
+                print(f"    [!] Telegram broadcast error (non-fatal): {e}")
 
         if need_linkedin:
-            li_ok = post_to_linkedin(art)
-            if li_ok:
-                art_history["linkedin"] = True
+            try:
+                li_ok = post_to_linkedin(art)
+                if li_ok:
+                    art_history["linkedin"] = True
+            except Exception as e:
+                print(f"    [!] LinkedIn broadcast error (non-fatal): {e}")
 
         art_history["last_posted_at"] = datetime.now(timezone.utc).isoformat()
         history[slug] = art_history
         shared_count += 1
+
+        # Anti-spam delay between social shares to prevent bot detection
+        if shared_count < max_posts and post_delay > 0:
+            time.sleep(post_delay)
 
     save_posted_history(history)
     print(f"[Social Auto-Poster] Finished broadcast cycle. Total stories processed: {shared_count}")

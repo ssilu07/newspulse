@@ -8,6 +8,7 @@ import os
 import re
 import sys
 import json
+import time
 from bs4 import BeautifulSoup
 import config
 
@@ -206,6 +207,12 @@ Source: {article.get('source')}
 Original Title: {article.get('raw_title')}
 Raw Content: {article.get('raw_summary')}
 
+CRITICAL EDITORIAL & GOOGLE COMPLIANCE RULES:
+- Stick 100% strictly to the factual information provided in the raw content.
+- Do NOT hallucinate, guess, or invent quotes, names, statistics, or speculation.
+- Keep the tone neutral, factual, and objective.
+- Avoid clickbait, exaggeration, or sensationalism.
+
 Generate a JSON response with:
 1. "headline": A punchy, factual headline under 12 words (clickbait-free).
 2. "summary": A concise, factual, neutral summary in exactly 50-65 words (Inshorts style, answering who, what, why, and impact).
@@ -220,23 +227,31 @@ Generate a JSON response with:
 Output ONLY valid JSON without markdown fences. Do NOT invent generic filler.
 """
         models_to_try = [
-            getattr(config, "GEMINI_MODEL", "gemini-2.5-flash"),
+            getattr(config, "GEMINI_MODEL", "gemini-3.8-flash"),
             "gemini-2.5-flash",
             "gemini-1.5-flash"
         ]
 
         raw_output = ""
+        retries = getattr(config, "GEMINI_RETRY_ATTEMPTS", 2)
+
         for model_name in models_to_try:
-            try:
-                res = client.models.generate_content(
-                    model=model_name,
-                    contents=prompt
-                )
-                raw_output = res.text or ""
-                if raw_output:
+            for attempt in range(retries + 1):
+                try:
+                    res = client.models.generate_content(
+                        model=model_name,
+                        contents=prompt
+                    )
+                    raw_output = res.text or ""
+                    if raw_output:
+                        break
+                except Exception as err:
+                    if attempt < retries:
+                        time.sleep(1.0 * (attempt + 1))
+                        continue
                     break
-            except Exception:
-                continue
+            if raw_output:
+                break
 
         if not raw_output:
             return None
@@ -318,15 +333,23 @@ def enrich_article(article: dict) -> dict:
 
 
 def enrich_all_articles(articles: list) -> list:
-    """Processes and enriches a list of articles."""
-    print(f"[*] Processing {len(articles)} articles through summarization pipeline...")
+    """Processes and enriches a list of articles with pacing and fail-safe handling."""
+    if not articles:
+        print("[*] No fresh articles to enrich.")
+        return []
+
+    print(f"[*] Processing {len(articles)} fresh articles through summarization pipeline...")
     enriched = []
+    pacing_delay = getattr(config, "GEMINI_PACING_DELAY_SECONDS", 0.6)
+
     for idx, art in enumerate(articles, 1):
         try:
             enhanced = enrich_article(art)
             enriched.append(enhanced)
             mode = "Gemini AI" if enhanced.get("ai_generated") else "Smart NLP"
             print(f"    [{idx}/{len(articles)}] [{mode}] {enhanced['title'][:45]}... ({enhanced['word_count']} words)")
+            if enhanced.get("ai_generated") and pacing_delay > 0:
+                time.sleep(pacing_delay)
         except Exception as e:
             print(f"    [!] Error enriching article {art.get('slug')}: {e}")
             enriched.append(art)

@@ -37,10 +37,29 @@ CONTACT_ADDRESS = os.getenv("CONTACT_ADDRESS", "548 Market St, Suite 72401, San 
 # Gemini AI Settings
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
+GEMINI_RETRY_ATTEMPTS = int(os.getenv("GEMINI_RETRY_ATTEMPTS", "2"))
+GEMINI_PACING_DELAY_SECONDS = float(os.getenv("GEMINI_PACING_DELAY_SECONDS", "0.6"))
 
-# Ingestion Settings
-MAX_ARTICLES_PER_CATEGORY = int(os.getenv("MAX_ARTICLES_PER_CATEGORY", "5"))
+# Google-Compliant Ingestion & Anti-Spam Rate Limits (Scaled Content Prevention)
+MAX_ARTICLES_PER_CATEGORY = int(os.getenv("MAX_ARTICLES_PER_CATEGORY", "2"))
+MAX_TOTAL_FRESH_ARTICLES = int(os.getenv("MAX_TOTAL_FRESH_ARTICLES", "14"))
+MAX_ARCHIVE_ARTICLES = int(os.getenv("MAX_ARCHIVE_ARTICLES", "150"))
+MAX_ARTICLE_AGE_HOURS = int(os.getenv("MAX_ARTICLE_AGE_HOURS", "48"))
 SUMMARY_WORD_TARGET = 60
+
+# Network Resilience & Timeouts
+FEED_TIMEOUT_SECONDS = float(os.getenv("FEED_TIMEOUT_SECONDS", "7.0"))
+
+# Social Syndication Anti-Spam Limits & Toggles
+SOCIAL_MAX_POSTS_PER_RUN = int(os.getenv("SOCIAL_MAX_POSTS_PER_RUN", "2"))
+SOCIAL_POST_DELAY_SECONDS = float(os.getenv("SOCIAL_POST_DELAY_SECONDS", "6.0"))
+ENABLE_TELEGRAM_POSTING = os.getenv("ENABLE_TELEGRAM_POSTING", "false").lower() in ("true", "1", "yes")
+ENABLE_TWITTER_POSTING = os.getenv("ENABLE_TWITTER_POSTING", "true").lower() in ("true", "1", "yes")
+ENABLE_REDDIT_POSTING = os.getenv("ENABLE_REDDIT_POSTING", "true").lower() in ("true", "1", "yes")
+ENABLE_LINKEDIN_POSTING = os.getenv("ENABLE_LINKEDIN_POSTING", "true").lower() in ("true", "1", "yes")
+
+# Google News Sitemap Age (Google News Guidelines strictly require <= 48 hours for news-sitemap.xml)
+GOOGLE_NEWS_MAX_AGE_HOURS = 48
 
 # Google Search Console Verification
 GOOGLE_SITE_VERIFICATION = os.getenv("GOOGLE_SITE_VERIFICATION", "XMDt3lDT2kpdjLlHlxQCSn5EcJcH2yw8f6nLjhLgN7g")

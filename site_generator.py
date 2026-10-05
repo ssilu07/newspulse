@@ -707,18 +707,32 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
     with open(dist_dir / "sitemap.xml", "w", encoding="utf-8") as f:
         f.write("\n".join(std_lines))
 
-    # 2. Google News Specific Sitemap
+    # 2. Google News Specific Sitemap (Articles published within last 48 hours only per Google News guidelines)
     news_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
         '        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"',
         '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">',
     ]
+    max_news_age_hours = getattr(config, "GOOGLE_NEWS_MAX_AGE_HOURS", 48)
+    now_utc = datetime.now(timezone.utc)
+    news_stories_count = 0
+
     for art in articles:
+        pub_date = art.get("published_at", today_iso)
+        # Google News Guideline: Only include stories published within the last 48 hours
+        try:
+            pub_dt = datetime.fromisoformat(pub_date.replace("Z", "+00:00"))
+            age_hours = (now_utc - pub_dt).total_seconds() / 3600.0
+            if age_hours > max_news_age_hours:
+                continue
+        except Exception:
+            pass
+
+        news_stories_count += 1
         slug = art.get("slug")
         title = escape(art.get("title", ""))
         img = escape(art.get("image_url", ""))
-        pub_date = art.get("published_at", today_iso)
         news_lines.extend([
             '  <url>',
             f'    <loc>{config.SITE_URL}/stories/{slug}/</loc>',
@@ -741,7 +755,7 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
     with open(dist_dir / "news-sitemap.xml", "w", encoding="utf-8") as f:
         f.write("\n".join(news_lines))
 
-    print(f"[OK] Generated sitemap.xml ({len(articles)} stories) and news-sitemap.xml.")
+    print(f"[OK] Generated sitemap.xml ({len(articles)} total stories) and news-sitemap.xml ({news_stories_count} fresh stories <= {max_news_age_hours}h).")
 
 
 def generate_robots_txt(dist_dir: Path):
@@ -780,9 +794,54 @@ def generate_manifest_json(dist_dir: Path):
     print("[OK] Generated manifest.json")
 
 
+def merge_with_archive(new_articles: list) -> list:
+    """
+    Merges newly enriched articles with existing historical articles.
+    - Prevents 404 dead links on previously indexed AMP stories.
+    - Prioritizes newest breaking stories at the top.
+    - Caps archive to MAX_ARCHIVE_ARTICLES to prevent storage inflation.
+    """
+    articles_file = config.DATA_DIR / "articles.json"
+    archive = []
+    if articles_file.exists():
+        try:
+            with open(articles_file, "r", encoding="utf-8") as f:
+                archive = json.load(f)
+        except Exception as e:
+            print(f"    [!] Note on reading existing archive for merge: {e}")
+            archive = []
+
+    merged_map = {}
+
+    # Insert fresh articles first
+    for art in (new_articles or []):
+        slug = art.get("slug")
+        if slug:
+            merged_map[slug] = art
+
+    # Insert existing archive articles if not replaced
+    for art in archive:
+        slug = art.get("slug")
+        if slug and slug not in merged_map:
+            merged_map[slug] = art
+
+    merged_list = list(merged_map.values())
+
+    def sort_key(a):
+        pub = a.get("published_at", "")
+        return pub or "1970-01-01T00:00:00Z"
+
+    merged_list.sort(key=sort_key, reverse=True)
+
+    max_archive = getattr(config, "MAX_ARCHIVE_ARTICLES", 150)
+    return merged_list[:max_archive]
+
+
 def build_static_site(articles: list, dist_dir: Path = None):
     """
     Builds the complete static site distribution into dist_dir.
+    Seamlessly merges fresh articles with the persistent archive so that
+    previously indexed URLs NEVER return 404.
     """
     if dist_dir is None:
         dist_dir = config.DIST_DIR
@@ -790,45 +849,54 @@ def build_static_site(articles: list, dist_dir: Path = None):
     print(f"[*] Building static distribution in {dist_dir}...")
     dist_dir.mkdir(parents=True, exist_ok=True)
 
-    # 1. Copy static assets
+    # 1. Merge incoming fresh articles with existing archive
+    all_articles = merge_with_archive(articles)
+    if not all_articles:
+        print("[!] No articles available to build site.")
+        return
+
+    # 2. Copy static assets
     dist_static = dist_dir / "static"
     if dist_static.exists():
         shutil.rmtree(dist_static)
     shutil.copytree(config.STATIC_DIR, dist_static)
     print(f"[OK] Copied static assets to {dist_static}")
 
-    # 2. Build Homepage (index.html)
-    home_html = render_homepage_html(articles)
+    # 3. Build Homepage (index.html) with top active articles
+    home_html = render_homepage_html(all_articles)
     with open(dist_dir / "index.html", "w", encoding="utf-8") as f:
         f.write(home_html)
-    print(f"[OK] Built homepage index.html with {len(articles)} articles.")
+    print(f"[OK] Built homepage index.html with {len(all_articles)} active & archived stories.")
 
-    # 3. Build AMP Stories for each article
-    print(f"[*] Generating {len(articles)} AMP Web Stories...")
-    for art in articles:
-        save_story_to_dist(art, dist_dir / "stories" / art["slug"])
-    print(f"[OK] Successfully built {len(articles)} AMP Web Stories in dist/stories/")
+    # 4. Build AMP Stories for each article in the archive
+    stories_dir = dist_dir / "stories"
+    stories_dir.mkdir(parents=True, exist_ok=True)
+    print(f"[*] Ensuring AMP Web Stories are generated for {len(all_articles)} stories...")
+    for art in all_articles:
+        save_story_to_dist(art, stories_dir / art["slug"])
+    print(f"[OK] Successfully verified/built {len(all_articles)} AMP Web Stories in dist/stories/")
 
-    # 4. Build Compliance Pages
+    # 5. Build Compliance Pages
     generate_compliance_pages(dist_dir)
 
-    # 5. Build SEO files (sitemap, robots, manifest)
-    generate_sitemap_xml(articles, dist_dir)
+    # 6. Build SEO files (sitemap, robots, manifest)
+    generate_sitemap_xml(all_articles, dist_dir)
     generate_robots_txt(dist_dir)
     generate_manifest_json(dist_dir)
 
-    # 6. Save articles JSON cache
+    # 7. Persist updated archive JSON cache
     data_dir = config.DATA_DIR
     data_dir.mkdir(parents=True, exist_ok=True)
     with open(data_dir / "articles.json", "w", encoding="utf-8") as f:
-        json.dump(articles, f, indent=2, ensure_ascii=False)
-    # Also copy to dist/api/articles.json for static serverless fetching
+        json.dump(all_articles, f, indent=2, ensure_ascii=False)
+
+    # Copy to dist/api/articles.json for static serverless fetching
     api_dir = dist_dir / "api"
     api_dir.mkdir(parents=True, exist_ok=True)
     with open(api_dir / "articles.json", "w", encoding="utf-8") as f:
-        json.dump(articles, f, indent=2, ensure_ascii=False)
+        json.dump(all_articles, f, indent=2, ensure_ascii=False)
 
-    print(f"[OK] Production build completed successfully in {dist_dir}!")
+    print(f"[OK] Production build completed successfully in {dist_dir} ({len(all_articles)} total stories retained)!")
 
 
 if __name__ == "__main__":
