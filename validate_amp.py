@@ -98,6 +98,36 @@ def validate_single_story_rules(file_path: Path) -> tuple[bool, list[str]]:
             if not img.get("layout") and (not img.get("width") or not img.get("height")):
                 issues.append(f"<amp-img src='{img.get('src', '')}'> requires layout or width/height")
 
+    # 3. Google Web Story & Structured Data Image Compliance
+    if story:
+        pub_logo = story.get("publisher-logo-src", "")
+        if pub_logo.lower().endswith(".svg"):
+            issues.append(f"Google Web Stories prohibit SVG for publisher-logo-src: '{pub_logo}' (must be raster PNG or JPG)")
+
+        # Verify structured data schema
+        ld_script = soup.find("script", type="application/ld+json")
+        if not ld_script:
+            issues.append("Missing JSON-LD structured data (<script type='application/ld+json'>)")
+        else:
+            try:
+                import json
+                schema = json.loads(ld_script.string or "{}")
+                if "image" not in schema or not schema["image"]:
+                    issues.append("Structured data missing required 'image' property")
+                else:
+                    images = schema["image"] if isinstance(schema["image"], list) else [schema["image"]]
+                    for img_url in images:
+                        if "/1024/" in str(img_url) or "/240/" in str(img_url) or "/320/" in str(img_url):
+                            issues.append(f"Structured data image '{img_url}' is downscaled (< 1200px); Google requires >= 1200px")
+                if "publisher" in schema:
+                    pub = schema["publisher"]
+                    if isinstance(pub, dict) and "logo" in pub:
+                        logo_obj = pub["logo"]
+                        if isinstance(logo_obj, dict) and (not logo_obj.get("width") or not logo_obj.get("height")):
+                            issues.append("Publisher logo in structured data should include 'width' and 'height'")
+            except Exception as e:
+                issues.append(f"Malformed JSON-LD structured data: {e}")
+
     # Check for !important in style amp-custom
     custom_style = soup.find("style", {"amp-custom": True})
     if custom_style and "!important" in custom_style.text:
@@ -115,7 +145,7 @@ def run_official_amp_validator(file_path: Path) -> tuple[bool, str]:
             shell=True,
             capture_output=True,
             text=True,
-            timeout=8
+            timeout=15
         )
         output = (proc.stdout or "") + (proc.stderr or "")
         passed = (proc.returncode == 0) and ("PASS" in output)

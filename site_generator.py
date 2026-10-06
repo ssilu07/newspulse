@@ -296,7 +296,12 @@ def render_homepage_html(articles: list) -> str:
         "@type": "NewsMediaOrganization",
         "name": config.SITE_NAME,
         "url": config.SITE_URL,
-        "logo": config.PUBLISHER_LOGO,
+        "logo": {
+            "@type": "ImageObject",
+            "url": config.PUBLISHER_LOGO,
+            "width": 512,
+            "height": 512
+        },
         "description": config.SITE_DESCRIPTION,
         "sameAs": [
             "https://twitter.com/NewsPulse",
@@ -900,7 +905,7 @@ def build_static_site(articles: list, dist_dir: Path = None):
 
 
 if __name__ == "__main__":
-    from fetcher import fetch_all_categories
+    from fetcher import upgrade_image_resolution, fetch_all_categories
     from summarizer import enrich_all_articles
 
     arts = fetch_all_categories(max_per_category=1)

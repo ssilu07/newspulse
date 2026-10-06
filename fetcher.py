@@ -31,46 +31,46 @@ HEADERS = {
 # Curated high-resolution editorial backup images (per category) if an article has no photo
 CATEGORY_CURATED_POOLS = {
     "trending": [
-        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=800&fit=crop"
+        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=900&fit=crop"
     ],
     "tech": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&h=800&fit=crop"
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1600&h=900&fit=crop"
     ],
     "ai-future": [
-        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=1200&h=800&fit=crop"
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=1600&h=900&fit=crop"
     ],
     "business": [
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=800&fit=crop"
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1600&h=900&fit=crop"
     ],
     "world": [
-        "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?w=1200&h=800&fit=crop"
+        "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?w=1600&h=900&fit=crop"
     ],
     "sports": [
-        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1200&h=800&fit=crop"
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1600&h=900&fit=crop"
     ],
     "entertainment": [
-        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1200&h=800&fit=crop",
-        "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1200&h=800&fit=crop"
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1600&h=900&fit=crop"
     ]
 }
 
@@ -144,6 +144,51 @@ def extract_web_meta(url: str, timeout: float = 3.5) -> tuple:
         return "", ""
 
 
+def upgrade_image_resolution(url: str, category_slug: str = "trending") -> str:
+    """
+    Transforms news media image URLs to Google-compliant high-resolution (>= 1200px width):
+    - BBC: upgrades /240/, /320/, /480/, /640/, /800/, /1024/ to /1600/ HD.
+    - TechCrunch: upgrades ?w=1024, ?w=800, resize=... to w=1600.
+    - CNBC: ensures w=1920&h=1080.
+    - Unsplash: ensures w=1600&h=900&fit=crop.
+    - WordPress/CMS: strips downscaled thumbnail suffixes (-1024x..., -800x...).
+    """
+    if not url or not url.startswith("http"):
+        return url
+
+    # 1. BBC News ace/cpsprodpb images
+    if "bbci.co.uk" in url:
+        url = re.sub(r"/(?:240|320|480|640|800|1024)/", "/1600/", url)
+        return url
+
+    # 2. TechCrunch
+    if "techcrunch.com" in url:
+        url = re.sub(r"[?&]w=\d+", "?w=1600", url)
+        url = re.sub(r"resize=\d+,\d+", "resize=1600,1067", url)
+        return url
+
+    # 3. CNBC
+    if "cnbcfm.com" in url:
+        if "&w=" in url:
+            url = re.sub(r"&w=\d+", "&w=1920", url)
+        if "&h=" in url:
+            url = re.sub(r"&h=\d+", "&h=1080", url)
+        return url
+
+    # 4. Unsplash
+    if "images.unsplash.com" in url:
+        url = re.sub(r"[?&]w=\d+", "?w=1600", url)
+        url = re.sub(r"[?&]h=\d+", "&h=900", url)
+        if "fit=" not in url:
+            url += "&fit=crop"
+        return url
+
+    # 5. Generic WordPress downscaled thumbnails (-1024x576.jpg, etc.)
+    url = re.sub(r"-\d{3,4}x\d{3,4}(\.[a-zA-Z]+)$", r"", url)
+
+    return url
+
+
 def extract_image_url(entry, feed_url: str, category_slug: str, entry_link: str = "", title: str = "") -> str:
     """
     Extracts the best possible high-resolution image URL:
@@ -158,12 +203,7 @@ def extract_image_url(entry, feed_url: str, category_slug: str, entry_link: str 
         for thumb in entry.media_thumbnail:
             url = thumb.get("url")
             if url:
-                # Upgrade BBC standard thumbnails to crystal clear 1024px HD
-                if "bbci.co.uk" in url and "/240/" in url:
-                    url = url.replace("/240/", "/1024/")
-                elif "bbci.co.uk" in url and "/320/" in url:
-                    url = url.replace("/320/", "/1024/")
-                return url
+                return upgrade_image_resolution(url, category_slug)
 
     # 2. media_content
     if "media_content" in entry and entry.media_content:
@@ -171,7 +211,7 @@ def extract_image_url(entry, feed_url: str, category_slug: str, entry_link: str 
             url = media.get("url")
             if url and any(ext in url.lower() for ext in [".jpg", ".jpeg", ".png", ".webp", "images", "photo", "upload"]):
                 if not any(bad in url.lower() for bad in ["pixel", "avatar", "icon", "logo", "1x1"]):
-                    return url
+                    return upgrade_image_resolution(url, category_slug)
 
     # 3. enclosures
     if "enclosures" in entry and entry.enclosures:
@@ -179,7 +219,7 @@ def extract_image_url(entry, feed_url: str, category_slug: str, entry_link: str 
             url = enc.get("href") or enc.get("url")
             mime = enc.get("type", "")
             if url and ("image" in mime or any(ext in url.lower() for ext in [".jpg", ".png", ".webp"])):
-                return url
+                return upgrade_image_resolution(url, category_slug)
 
     # 4. Search in html description, summary, or content:encoded
     html_content = ""
@@ -196,13 +236,13 @@ def extract_image_url(entry, feed_url: str, category_slug: str, entry_link: str 
         if img and img.get("src"):
             src = img["src"]
             if src.startswith("http") and not any(bad in src.lower() for bad in ["pixel", "stat", "tracking", "feedsportal", "doubleclick", "spacer", "1x1"]):
-                return src
+                return upgrade_image_resolution(src, category_slug)
 
     # 5. OpenGraph Web Scrape fallback (fetches real editorial image from article page)
     if entry_link and entry_link.startswith("http") and "google.com" not in entry_link:
         og_img, _ = extract_web_meta(entry_link, timeout=3.5)
         if og_img and og_img.startswith("http") and not any(bad in og_img.lower() for bad in ["pixel", "spacer", "blank"]):
-            return og_img
+            return upgrade_image_resolution(og_img, category_slug)
 
     # 6. High-Res Diverse Curated Pool Fallback
     pool = CATEGORY_CURATED_POOLS.get(category_slug, CATEGORY_CURATED_POOLS["trending"])

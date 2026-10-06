@@ -79,7 +79,7 @@ CATEGORIES = {
             "https://www.theguardian.com/world/rss",
             "https://feeds.skynews.com/feeds/rss/home.xml"
         ],
-        "default_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=800&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&h=900&fit=crop"
     },
     "tech": {
         "name": "Tech",
@@ -95,7 +95,7 @@ CATEGORIES = {
             "https://feeds.arstechnica.com/arstechnica/index",
             "https://www.engadget.com/rss.xml"
         ],
-        "default_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=800&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&h=900&fit=crop"
     },
     "ai-future": {
         "name": "AI & Future",
@@ -110,7 +110,7 @@ CATEGORIES = {
             "https://venturebeat.com/category/ai/feed/",
             "https://feeds.arstechnica.com/arstechnica/technology-lab/"
         ],
-        "default_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=800&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=900&fit=crop"
     },
     "business": {
         "name": "Business",
@@ -125,7 +125,7 @@ CATEGORIES = {
             "https://www.coindesk.com/arc/outboundfeeds/rss/",
             "http://feeds.bbci.co.uk/news/business/rss.xml"
         ],
-        "default_image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=800&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&h=900&fit=crop"
     },
     "world": {
         "name": "World",
@@ -140,7 +140,7 @@ CATEGORIES = {
             "https://feeds.npr.org/1004/rss.xml",
             "https://www.france24.com/en/rss"
         ],
-        "default_image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=800&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&h=900&fit=crop"
     },
     "sports": {
         "name": "Sports",
@@ -155,7 +155,7 @@ CATEGORIES = {
             "http://feeds.bbci.co.uk/sport/rss.xml",
             "https://www.skysports.com/rss/12040"
         ],
-        "default_image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200&h=800&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&h=900&fit=crop"
     },
     "entertainment": {
         "name": "Entertainment",
@@ -170,7 +170,7 @@ CATEGORIES = {
             "https://feeds.feedburner.com/ign/all",
             "https://deadline.com/feed/"
         ],
-        "default_image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200&h=800&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&h=900&fit=crop"
     }
 }
 
