@@ -3,39 +3,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-06T13:15:52Z</lastmod>
+    <lastmod>2026-10-06T13:24:21Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-06T13:15:52Z</lastmod>
+    <lastmod>2026-10-06T13:24:21Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-06T13:15:52Z</lastmod>
+    <lastmod>2026-10-06T13:24:21Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-06T13:15:52Z</lastmod>
+    <lastmod>2026-10-06T13:24:21Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-06T13:15:52Z</lastmod>
+    <lastmod>2026-10-06T13:24:21Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-06T13:15:52Z</lastmod>
+    <lastmod>2026-10-06T13:24:21Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-en/</loc>
+    <lastmod>2026-10-06T10:53:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tories-pledge-10bn-for-british-anti-missile-defence-system/</loc>
+    <lastmod>2026-10-06T10:52:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Tories pledge £10bn for British anti-missile defence system</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-at-the-scene-of-protests-on-the-streets-of-lille/</loc>
+    <lastmod>2026-10-06T10:22:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>At the scene of protests on the streets of Lille</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/australia-womens-cricketers-want-more-games-in-peak-summer/</loc>
+    <lastmod>2026-10-06T10:02:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Australia women&#x27;s cricketers want more games in peak summer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/why-deep-red-kansas-has-become-an-unexpected-senate-battleground/</loc>
+    <lastmod>2026-10-06T10:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Why deep-red Kansas has become an unexpected Senate battleground</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ganguly-takes-charge-as-delhi-capitals-head-coach/</loc>
+    <lastmod>2026-10-06T09:40:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Ganguly takes charge as Delhi Capitals&#x27; head coach</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/this-remote-controlled-wagon-is-silly-but-so-very-useful/</loc>
+    <lastmod>2026-10-06T08:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>This remote-controlled wagon is silly but so very useful</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/stories/rebounding-oil-exports-through-strait-of-hormuz-are-vulnerable-to/</loc>
@@ -78,6 +148,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-allows-cheaper-dyed-diesel-on-highways-to-blunt-historic-fu/</loc>
+    <lastmod>2026-10-06T07:05:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/darius-jabloński-kadri-kousaar-and-rodrigo-susarte-make-the-cut-a/</loc>
+    <lastmod>2026-10-06T07:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Darius Jabloński, Kadri Kousaar and Rodrigo Susarte Make the Cut at Tallinn TV Beats Co-Financing Market (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/watch-at-the-scene-of-student-protests-on-the-streets-of-lille/</loc>
     <lastmod>2026-10-06T04:52:42+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -98,6 +188,226 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/jon-stewarts-daily-show-skips-david-ellison-skydance-news-to-take/</loc>
+    <lastmod>2026-10-06T03:59:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Jon Stewart’s ‘Daily Show’ Skips David Ellison-Skydance News to Take on AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/fort-hood-shooter-to-be-executed-by-firing-squad-a-first-for-us-m/</loc>
+    <lastmod>2026-10-06T02:22:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Fort Hood shooter to be executed by firing squad</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/artificial-first-reactions-luca-guadagninos-openai-drama-is-provo/</loc>
+    <lastmod>2026-10-06T00:49:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>‘Artificial’ First Reactions: Luca Guadagnino’s OpenAI Drama is ‘Provocative,’ ‘Downright Horrifying’ and His ‘Best Film in a Decade’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/stock-futures-are-little-changed-after-nasdaq-hits-new-record-liv/</loc>
+    <lastmod>2026-10-06T00:18:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Stock futures are little changed after Nasdaq hits new record: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/pakistan-withdraw-from-world-championship-of-legends-after-pcb-re/</loc>
+    <lastmod>2026-10-06T00:11:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Pakistan withdraw from World Championship of Legends after PCB refuse NOCs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-says-hell-pay-for-patriotic-ads-himself-following-controver/</loc>
+    <lastmod>2026-10-06T00:04:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Trump Says He’ll Pay for ‘Patriotic Ads’ Himself Following Controversy Around Taxpayer-Funded TV Spots</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-says-hell-pay-for-tv-ads-that-praised-him-and-which-governm/</loc>
+    <lastmod>2026-10-05T23:25:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Trump says he&#x27;ll pay for TV ads that praised him and which government funded</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/gemini-call-for-me-might-tell-your-mom-you8217re-running-late/</loc>
+    <lastmod>2026-10-05T23:09:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Gemini Call for Me might tell your mom you&amp;#8217;re running late</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/what-prompted-the-us-bombers-to-leave-raf-fairford/</loc>
+    <lastmod>2026-10-05T21:57:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>What prompted the US bombers to leave RAF Fairford?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-says-threat-led-us-to-pull-bombers-from-raf-fairford/</loc>
+    <lastmod>2026-10-05T21:46:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Trump says &#x27;threat&#x27; led US to pull bombers from RAF Fairford</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/france-braces-for-national-day-of-school-protests-after-injuries-/</loc>
+    <lastmod>2026-10-05T21:18:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>France braces for national day of school protests after injuries and mass arrests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/reverse-engineered-games-all-the-news-on-video-game-decomps-recom/</loc>
+    <lastmod>2026-10-05T21:17:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-m/</loc>
+    <lastmod>2026-10-05T19:33:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/spain-pm-pins-hopes-on-housing-crisis-to-help-win-snap-election/</loc>
+    <lastmod>2026-10-05T19:30:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Spain PM pins hopes on housing crisis to help win snap election</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-with/</loc>
+    <lastmod>2026-10-05T18:54:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Instinct brings its AI agent to group chats, even for friends without an account</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/sai-sudharsan-not-worried-about-competition-for-spots/</loc>
+    <lastmod>2026-10-05T18:25:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Sai Sudharsan not worried about competition for spots</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/marisa-tomei-and-rosanna-arquette-to-star-in-this-is-crazy-nami-b/</loc>
+    <lastmod>2026-10-05T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Marisa Tomei and Rosanna Arquette to Star in ‘This Is Crazy’ NAMI Benefit in Memory of Chris Huvane</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/mgm-to-premiere-docuseries-on-the-history-of-new-wave-music-in-no/</loc>
+    <lastmod>2026-10-05T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>MGM+ to Premiere Docuseries on the History of New Wave Music in November (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/morkel-mayank-prince-still-learning-the-trade-in-small-windows/</loc>
+    <lastmod>2026-10-05T16:52:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Morkel: Mayank, Prince &#x27;still learning the trade&#x27; in small windows</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/banijay-america-confirms-ben-samek-as-ceo-post-merger-with-all3me/</loc>
+    <lastmod>2026-10-05T16:40:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Banijay America Confirms Ben Samek as CEO, Post-Merger With All3Media</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/no-guarantees-for-sooryavanshi-as-india-look-to-build-on-asian-ga/</loc>
+    <lastmod>2026-10-05T16:36:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>No guarantees for Sooryavanshi as India look to build on Asian Games success</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/no10-insists-uk-military-base-raf-fairford-is-safe-after-us-withd/</loc>
+    <lastmod>2026-10-05T16:13:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>No10 insists UK military base RAF Fairford is safe after US withdraws bombers</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/watch-what-caused-the-us-to-remove-its-bombers-in-such-a-hurry/</loc>
     <lastmod>2026-10-05T15:47:35+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -108,6 +418,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/sahibzada-farhan-replaces-salman-ali-agha-as-pakistans-t20i-capta/</loc>
+    <lastmod>2026-10-05T15:29:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Sahibzada Farhan replaces Salman Ali Agha as Pakistan&#x27;s T20I captain</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/openai-will-start-watermarking-chatgpts-text-in-the-eu/</loc>
     <lastmod>2026-10-05T15:06:48+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -115,6 +435,16 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1600,1067</image:loc>
       <image:title>OpenAI will start watermarking ChatGPT’s text in the EU</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-t/</loc>
+    <lastmod>2026-10-05T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026</image:title>
     </image:image>
   </url>
   <url>
@@ -368,6 +698,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-removes-all-bombers-from-raf-fairford-base/</loc>
+    <lastmod>2026-10-05T05:09:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>US removes all bombers from RAF Fairford base</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/andrew-takes-legal-action-over-search-warrants-before-his-arrest/</loc>
+    <lastmod>2026-10-05T05:04:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Andrew takes legal action over search warrants before his arrest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/the-2029-tipping-point-western-populations-are-about-to-start-shr/</loc>
+    <lastmod>2026-10-05T05:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/china-shuts-hundreds-of-banks-as-beijing-moves-to-shore-up-its-fi/</loc>
     <lastmod>2026-10-05T04:50:38+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -375,6 +735,16 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/107315141-1697028387928-gettyimages-1415687424-yuanybandera1.jpeg?v=1699958546&amp;w=1920&amp;h=1080</image:loc>
       <image:title>China shuts hundreds of banks as Beijing moves to shore up its financial system</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/spanish-pm-sánchez-calls-early-election-after-housing-protests/</loc>
+    <lastmod>2026-10-05T04:48:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Spanish PM Sánchez calls early election after housing protests</image:title>
     </image:image>
   </url>
   <url>
@@ -388,6 +758,56 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran/</loc>
+    <lastmod>2026-10-05T04:29:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/rybakina-i-sabalenka-za-burtą-tak-teraz-wygląda-drabinka-świątek/</loc>
+    <lastmod>2026-10-05T04:10:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Rybakina i Sabalenka za burtą. Tak teraz wygląda drabinka Świątek</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/saints-vs-falcons-our-staff-predictions-for-mondays-game-in-the-d/</loc>
+    <lastmod>2026-10-05T04:10:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Saints vs. Falcons: Our staff predictions for Monday’s game in the Dome</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trying-to-provide-a-spark-wells-instead-runs-yanks-out-of-lone-sc/</loc>
+    <lastmod>2026-10-05T04:10:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Trying to provide a spark, Wells instead runs Yanks out of lone scoring chance</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/multiple-security-failures-allowed-flydubai-pilot-into-cockpit-ws/</loc>
+    <lastmod>2026-10-05T04:07:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/andrew-mountbatten-windsor-taking-legal-action-against-police-ove/</loc>
     <lastmod>2026-10-05T04:01:09+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -395,6 +815,76 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/andrew.jpg</image:loc>
       <image:title>Andrew Mountbatten-Windsor Taking Legal Action Against Police Over Search Warrants in Arrest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/my-happy-place-is-there-in-the-middle-raghuvanshi-is-back-after-l/</loc>
+    <lastmod>2026-10-05T03:47:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>My happy place is there in the middle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/gameday-spikes-at-thunder-probable-pitchers-lineups-and-more/</loc>
+    <lastmod>2026-10-05T03:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Gameday: Spikes at Thunder, Probable Pitchers, Lineups, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/michael-bracewell-shifts-to-casual-contract-with-eye-on-bbl/</loc>
+    <lastmod>2026-10-05T03:28:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Michael Bracewell shifts to casual contract with eye on BBL</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/exclusive-new-ai-czar-unveils-goals-members-of-white-house-task-f/</loc>
+    <lastmod>2026-10-05T03:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Exclusive | New AI Czar Unveils Goals, Members of White House Task Force</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/rockstar-traveled-across-florida-with-gang-members-and-cops-for-g/</loc>
+    <lastmod>2026-10-05T02:59:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/president-donald-trump-announces-creation-of-super-intelligence-f/</loc>
+    <lastmod>2026-10-05T02:56:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>President Donald Trump announces creation of &#x27;Super Intelligence Force&#x27; AI task force - ABC News - Breaking News, Latest News and Videos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/surging-treasury-yields-dont-signal-a-us-fiscal-apocalypse-yet/</loc>
+    <lastmod>2026-10-05T02:24:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Surging Treasury yields don’t signal a U.S. &#x27;fiscal apocalypse&#x27; — yet</image:title>
     </image:image>
   </url>
   <url>
@@ -408,6 +898,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/lanterns-season-1-finale-review-recap/</loc>
+    <lastmod>2026-10-05T02:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Lanterns Season 1 Finale Review &amp; Recap</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/west-indies-add-amir-jangoo-as-cover-for-the-injured-jewel-andrew/</loc>
     <lastmod>2026-10-05T01:07:33+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -415,6 +915,126 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/423100/423129.jpg</image:loc>
       <image:title>West Indies add Amir Jangoo as cover for the injured Jewel Andrew for India T20Is</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-ref/</loc>
+    <lastmod>2026-10-04T23:48:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Mighty Mike Plays Dad Says He Owns &#x27;Like 12 Companies,&#x27; Promises Refunds for AI Shirts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/guest-column-a-caution-about-artificial-intelligence-riverheadnew/</loc>
+    <lastmod>2026-10-04T23:26:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Guest column: A caution about artificial intelligence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-marines-arrest-in-a-killing-on-okinawa-triggers-outrage-in-jap/</loc>
+    <lastmod>2026-10-04T23:24:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>US Marine’s arrest in a killing on Okinawa triggers outrage in Japan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/france-closes-up-to-500-schools-monday-over-student-protests-bbc/</loc>
+    <lastmod>2026-10-04T23:19:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>France closes up to 500 schools Monday over student protests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-f/</loc>
+    <lastmod>2026-10-04T23:04:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/marshals-season-2-release-guide-heres-when-episode-1-drops-on-cbs/</loc>
+    <lastmod>2026-10-04T22:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>‘Marshals’ Season 2 Release Guide: Here’s When Episode 1 Drops On CBS And Paramount+</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tailback-needy-seahawks-will-give-joe-mixon-a-look-see/</loc>
+    <lastmod>2026-10-04T22:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Tailback-needy Seahawks will give Joe Mixon a look-see</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/warriors-reveal-new-starting-five-ahead-of-preseason-opener/</loc>
+    <lastmod>2026-10-04T22:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Warriors Reveal New Starting Five Ahead of Preseason Opener</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-rushes-to-withdraw-bombers-from-uk-air-base-after-new-threats-/</loc>
+    <lastmod>2026-10-04T22:34:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/supreme-court-justice-alito-said-hes-thought-about-retirement-as-/</loc>
+    <lastmod>2026-10-04T22:08:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Supreme Court Justice Alito said he&#x27;s &#x27;thought about&#x27; retirement as Senate control hangs in balance</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/stock-futures-are-flat-as-investors-grapple-with-higher-yields-aw/</loc>
+    <lastmod>2026-10-04T22:04:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder-al-/</loc>
+    <lastmod>2026-10-04T21:46:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Japan summons US envoy as marine arrested over Okinawa murder</image:title>
     </image:image>
   </url>
   <url>
@@ -428,6 +1048,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-reiterates-pledge-to-send-5000-checks-and-hands-out-smaller/</loc>
+    <lastmod>2026-10-04T20:28:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/the-evolution-of-artificial-intelligence-in-oncology-impact-on-tr/</loc>
+    <lastmod>2026-10-04T20:03:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/pricks-theatrical-industrial-punk-is-perfect-for-spooky-season/</loc>
+    <lastmod>2026-10-04T20:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Prick’s theatrical industrial punk is perfect for spooky season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/james-gunn-shuts-down-jensen-ackles-batman-casting-rumors/</loc>
+    <lastmod>2026-10-04T19:50:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>James Gunn Shuts Down Jensen Ackles Batman Casting Rumors</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/trump-tells-south-korea-to-sign-on-to-alaska-lng-deal-or-ill-just/</loc>
     <lastmod>2026-10-04T19:17:47+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -435,6 +1095,126 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108372306-1791159129782-gettyimages-2297947516-090a3383_0fhdk7dm.jpeg?v=1791159153&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Trump tells South Korea to sign on to Alaska LNG deal or &#x27;I&#x27;ll just charge them more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-abc-news-breaking-news-latest-news-and-vi/</loc>
+    <lastmod>2026-10-04T19:11:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tom-cruises-digger-bombs-hard-with-20-million-global-opening-in-t/</loc>
+    <lastmod>2026-10-04T18:46:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Tom Cruise&#x27;s Digger Bombs Hard With $20 Million Global Opening in Theaters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/uae-had-shared-details-about-flydubai-flight-with-israel-includin/</loc>
+    <lastmod>2026-10-04T18:31:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>UAE had shared details about FlyDubai flight with Israel, including pilots&#x27; names and nationalities, officials tell AP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/avengers-endgame-beats-avatar-to-become-the-highest-grossing-movi/</loc>
+    <lastmod>2026-10-04T17:34:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Avengers: Endgame Beats Avatar to Become the Highest-Grossing Movie of All Time (Again)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/the-best-early-october-prime-day-deals-happening-now/</loc>
+    <lastmod>2026-10-04T17:18:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>The best early October Prime Day deals happening now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/opinion-think-of-artificial-intelligence-like-a-weapon-wsj/</loc>
+    <lastmod>2026-10-04T16:35:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Opinion | Think of Artificial Intelligence Like a Weapon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/well-if-ai-said-it-it-must-be-true/</loc>
+    <lastmod>2026-10-04T16:16:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Well, if AI said it, it must be true</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/comunicado-del-fc-barcelona/</loc>
+    <lastmod>2026-10-04T16:10:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Comunicado del FC Barcelona</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/despite-scrutiny-medicare-advantage-enrollment-poised-to-rise-as-/</loc>
+    <lastmod>2026-10-04T16:10:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Despite Scrutiny, Medicare Advantage Enrollment Poised To Rise As Premiums Fall 16%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/commentary-artificial-intelligence-in-the-classroom-washington-st/</loc>
+    <lastmod>2026-10-04T16:07:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Commentary: Artificial intelligence in the classroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ravens-discussion-score-prediction-x-factors-for-week-4-vs-titans/</loc>
+    <lastmod>2026-10-04T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Ravens discussion: score prediction, X-factors for Week 4 vs. Titans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/flydubai-captain-reveals-new-details-of-attack-in-netanyahu-phone/</loc>
+    <lastmod>2026-10-04T15:33:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>FlyDubai captain reveals new details of attack in Netanyahu phone call</image:title>
     </image:image>
   </url>
   <url>
@@ -448,6 +1228,176 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-marine-accused-of-killing-woman-in-japan-drawing-official-prot/</loc>
+    <lastmod>2026-10-04T15:22:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>U.S. Marine accused of killing woman in Japan, drawing official protest from Tokyo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/an-ai-couldnt-beat-humans-at-starcraft-so-it-decided-to-cheat/</loc>
+    <lastmod>2026-10-04T15:21:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>An AI couldn’t beat humans at StarCraft, so it decided to cheat</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/labuschagne-scores-century-in-low-intensity-potchefstroom-warm-up/</loc>
+    <lastmod>2026-10-04T15:10:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Labuschagne scores century in low-intensity Potchefstroom warm-up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/google-froze-its-open-source-bug-bounty-program-due-to-a-signific/</loc>
+    <lastmod>2026-10-04T15:01:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuc/</loc>
+    <lastmod>2026-10-04T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>This toolless modular lever-action wallet is the coolest I’ve stuck to my phone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-im/</loc>
+    <lastmod>2026-10-04T14:38:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/avishka-fernando-recalled-to-sri-lankas-odi-side-for-tri-series-i/</loc>
+    <lastmod>2026-10-04T14:30:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Avishka Fernando recalled to Sri Lanka&#x27;s ODI side for tri-series in Pakistan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/brazil-presidential-vote-pits-trump-ally-against-lula-who-is-seek/</loc>
+    <lastmod>2026-10-04T13:49:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Brazil presidential vote pits Trump ally against Lula, who is seeking a 4th nonconsecutive term</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/nortje-ill-be-very-excited-if-i-can-put-my-test-cap-on-again/</loc>
+    <lastmod>2026-10-04T13:44:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Nortje: &#x27;I&#x27;ll be very excited if I can put my Test cap on again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/a-weird-ipo-pull-a-tainted-reputation-and-the-stalled-breakout-mo/</loc>
+    <lastmod>2026-10-04T13:22:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>A &#x27;weird&#x27; IPO pull, a tainted reputation and the stalled breakout moment for AI wearables</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trumps-gives-spy-chief-new-title-ai-czar-politico/</loc>
+    <lastmod>2026-10-04T12:54:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Trump’s gives spy chief new title: AI czar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-taps-director-of-national-intelligence-jay-clayton-as-ai-cz/</loc>
+    <lastmod>2026-10-04T12:53:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Trump taps Director of National Intelligence Jay Clayton as AI czar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/chicago-fires-brandon-larracuente-hints-how-season-15-will-addres/</loc>
+    <lastmod>2026-10-04T11:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Chicago Fire’s Brandon Larracuente Hints How Season 15 Will Address Multiple Surprise Cast Exits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/semi-truck-driver-in-deadly-colorado-crash-on-i-70-seeks-parole/</loc>
+    <lastmod>2026-10-04T11:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Semi-truck driver in deadly Colorado crash on I-70 seeks parole</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/gbs-kartal-wins-on-wta-return-after-six-months-out/</loc>
+    <lastmod>2026-10-04T11:20:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>GB&#x27;s Kartal wins on WTA return after six months out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-in-the-classroom-news-from-the-states/</loc>
+    <lastmod>2026-10-04T11:00:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Artificial intelligence in the classroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ai-is-going-rogue-who-should-be-held-responsible-the-new-york-tim/</loc>
+    <lastmod>2026-10-04T10:42:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>A.I. Is Going Rogue. Who Should Be Held Responsible?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/trump-unveils-his-new-super-intelligence-force/</loc>
     <lastmod>2026-10-04T09:45:10+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -455,6 +1405,606 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1600</image:loc>
       <image:title>Trump unveils his new Super Intelligence Force</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/in-crude-ohio-rally-speech-trump-says-he-may-not-help-if-democrat/</loc>
+    <lastmod>2026-10-04T09:44:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>In crude Ohio rally speech, Trump says he may not help if Democrats win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/kainat-imtiaz-retires-from-internationals-to-become-match-referee/</loc>
+    <lastmod>2026-10-04T09:43:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Kainat Imtiaz retires from internationals to become match referee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/mukesh-kumar-smaran-hand-rest-of-india-the-irani-cup/</loc>
+    <lastmod>2026-10-04T09:02:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Mukesh Kumar, Smaran hand Rest of India the Irani Cup</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/flydubai-captain-says-copilot-asked-to-pray-then-struck-him-from-/</loc>
+    <lastmod>2026-10-04T08:31:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Flydubai captain says copilot asked to pray, then struck him from behind; describes exactly how he opened cockpit door</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/government-forces-seize-capital-of-ethiopias-tigray-region-from-r/</loc>
+    <lastmod>2026-10-04T08:19:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Government forces seize capital of Ethiopia&#x27;s Tigray region from rebels</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/guest-column-a-caution-about-artificial-intelligence-the-suffolk-/</loc>
+    <lastmod>2026-10-04T05:03:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Guest column: A caution about artificial intelligence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ukraines-surprise-robot-offensive-exposes-a-vulnerability-in-puti/</loc>
+    <lastmod>2026-10-04T05:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/category-3-hurricane-nolo-heads-west-toward-international-date-li/</loc>
+    <lastmod>2026-10-04T03:50:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Category 3 Hurricane Nolo heads west toward International Date Line</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/knights-2001-premiership-has-an-asterisk/</loc>
+    <lastmod>2026-10-04T03:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Knights’ 2001 premiership has an asterisk</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/the-celebrity-traitors-connections-that-might-surprise-you/</loc>
+    <lastmod>2026-10-04T01:31:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>The Celebrity Traitors connections that might surprise you</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote-bloombergc/</loc>
+    <lastmod>2026-10-04T01:08:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Lula, Bolsonaro in Dead Heat as Brazil Prepares to Vote</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/better-artificial-intelligence-stock-alphabet-vs-meta-platforms-t/</loc>
+    <lastmod>2026-10-04T01:05:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/cornell-president-says-university-must-do-better-after-frat-house/</loc>
+    <lastmod>2026-10-04T00:11:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Cornell president says university &#x27;must do better&#x27; after frat house rape allegations</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/two-going-on-four-five-or-six-on-good-night-for-new-scotland-era/</loc>
+    <lastmod>2026-10-03T22:22:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Two going on four, five or six on good night for new Scotland era</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-w/</loc>
+    <lastmod>2026-10-03T22:03:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/bellingham-unlocks-new-level-and-potential-to-be-one-of-the-great/</loc>
+    <lastmod>2026-10-03T21:07:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Bellingham unlocks new level and potential to be &#x27;one of the greatest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/inde-navarrette-teases-x-men-role-says-shes-doing-everything-huma/</loc>
+    <lastmod>2026-10-03T21:03:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Inde Navarrette Teases X-Men Role, Says She&#x27;s &#x27;Doing Everything Humanly Possible&#x27; to Do Rogue Justice</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/everything-we-saw-at-runefest-2026-including-runescape-4-and-rune/</loc>
+    <lastmod>2026-10-03T20:00:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/federal-judge-calls-flock-indiscriminate-mass-surveillance/</loc>
+    <lastmod>2026-10-03T19:33:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Federal judge calls Flock ‘indiscriminate mass surveillance’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/wakefield-beat-warrington-to-win-super-league/</loc>
+    <lastmod>2026-10-03T19:02:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Wakefield beat Warrington to win Super League</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/gloucester-thrash-sorry-quins-to-go-top-of-the-prem/</loc>
+    <lastmod>2026-10-03T18:44:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Gloucester thrash sorry Quins to go top of the Prem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-nd/</loc>
+    <lastmod>2026-10-03T18:43:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Amazon responds to data center backlash, says it no longer uses NDAs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/who-was-the-best-player-on-the-pitch-england-player-ratings/</loc>
+    <lastmod>2026-10-03T17:58:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Who was the best player on the pitch?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tennessee-prison-chief-to-resign-after-christa-pikes-failed-execu/</loc>
+    <lastmod>2026-10-03T17:48:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Tennessee prison chief to resign after Christa Pike&#x27;s failed execution</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/capcom-is-preparing-for-a-future-where-we-create-games-together-w/</loc>
+    <lastmod>2026-10-03T16:49:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Capcom is preparing for a ‘future where we create games together with AI’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/openai-safety-employee-resigns-claiming-the-companys-culture-is-b/</loc>
+    <lastmod>2026-10-03T16:30:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/russia-hits-second-major-bridge-in-ukraines-capital-kyiv/</loc>
+    <lastmod>2026-10-03T16:16:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Russia hits second major bridge in Ukraine&#x27;s capital Kyiv</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-go/</loc>
+    <lastmod>2026-10-03T15:02:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Jack Dorsey’s Bitchat disappears from app stores in India after government order</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/splice-ceo-kakul-srivastava-thinks-ai-emails-are-killing-conversa/</loc>
+    <lastmod>2026-10-03T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Splice CEO Kakul Srivastava thinks AI emails are killing conversations</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/teslas-cybercab-had-a-rocky-first-month-in-austin-now-comes-the-h/</loc>
+    <lastmod>2026-10-03T14:59:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ai-is-going-rogue-who-should-be-held-responsible-nytimescom/</loc>
+    <lastmod>2026-10-03T14:51:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>A.I. Is Going Rogue. Who Should Be Held Responsible?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/flydubai-co-pilot-attacked-captain-with-axe-uae-official-says/</loc>
+    <lastmod>2026-10-03T14:27:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Flydubai co-pilot attacked captain with axe, UAE official says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/all-the-ai-agents-that-can-live-in-your-text-messages/</loc>
+    <lastmod>2026-10-03T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>All the AI agents that can live in your text messages</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/spotify-billionaires-body-scan-startup-has-come-to-america/</loc>
+    <lastmod>2026-10-03T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Spotify billionaire’s body scan startup has come to America</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/protesters-across-spain-demand-action-over-housing-crisis/</loc>
+    <lastmod>2026-10-03T13:34:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Protesters across Spain demand action over housing crisis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/alison-hammond-returns-home-from-hospital-after-rushing-off-this-/</loc>
+    <lastmod>2026-10-03T13:21:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Alison Hammond returns home from hospital after rushing off This Morning</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/republic-of-ireland-news-conference-ends-abruptly-amid-accusation/</loc>
+    <lastmod>2026-10-03T13:02:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Republic of Ireland news conference ends abruptly amid accusations</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/incredible-red-bull-upgrade-enlivens-f1-in-malaysia/</loc>
+    <lastmod>2026-10-03T12:25:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Incredible&#x27; Red Bull upgrade enlivens F1 in Malaysia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/sample-ai-breakthrough/</loc>
+    <lastmod>2026-10-03T12:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Frontier AI Models Achieve Human-Level Spatial Reasoning</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-for-automated-analysis-and-interpretation/</loc>
+    <lastmod>2026-10-03T11:36:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Artificial Intelligence for Automated Analysis and Interpretation of Intravascular Ultrasound in Coronary Artery Disease: A Systematic Review</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/traitors-claim-their-first-victim-as-richard-e-grant-tries-to-sav/</loc>
+    <lastmod>2026-10-03T11:07:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Traitors claim their first victim as Richard E Grant tries to save his skin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/russia-strikes-second-major-bridge-in-kyiv-mayor-says/</loc>
+    <lastmod>2026-10-03T09:53:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Russia strikes second major bridge in Kyiv, mayor says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/verstappen-takes-first-2026-pole-ahead-of-hamilton/</loc>
+    <lastmod>2026-10-03T09:13:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Verstappen takes first 2026 pole ahead of Hamilton</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/how-the-smithsonian-is-using-ai-to-connect-artifacts-from-the-ame/</loc>
+    <lastmod>2026-10-03T09:11:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News - Breaking News, Latest News and Videos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/suppliers-pile-pressure-on-government-over-energy-bills/</loc>
+    <lastmod>2026-10-03T08:58:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Suppliers pile pressure on government over energy bills</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/g7-to-release-millions-of-barrels-of-oil-and-diesel-after-trump-t/</loc>
+    <lastmod>2026-10-03T04:38:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>G7 to release millions of barrels of oil and diesel after Trump threat</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/spoiler-alert-is-social-media-ruining-big-gig-surprises/</loc>
+    <lastmod>2026-10-03T02:26:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Spoiler alert! Is social media ruining big gig surprises?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-ai-triggered-rapid-response-notifications/</loc>
+    <lastmod>2026-10-03T01:44:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/meta-wants-your-next-gadget-to-be-muse-infused/</loc>
+    <lastmod>2026-10-03T00:45:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Meta wants your next gadget to be Muse-infused</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/sanders-introduces-bill-to-ban-the-federal-government-from-using-/</loc>
+    <lastmod>2026-10-03T00:21:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Sanders introduces bill to ban the federal government from using Flock</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/which-clubs-did-man-citys-inflated-money-flow-to-in-transfer-mark/</loc>
+    <lastmod>2026-10-02T22:30:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Which clubs did Man City&#x27;s &#x27;inflated&#x27; money flow to in transfer market?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/better-artificial-intelligence-stock-nvidia-vs-sk-hynix-the-motle/</loc>
+    <lastmod>2026-10-02T22:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/pretorius-breaks-gayles-t20-record-score/</loc>
+    <lastmod>2026-10-02T22:22:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Pretorius breaks Gayle&#x27;s T20 record score</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/sean-parker-is-rebuilding-stability-ai-around-music/</loc>
+    <lastmod>2026-10-02T21:09:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Sean Parker is rebuilding Stability AI around music</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-murderer-christa-pike-unconscious-and-on-ventilator-after-fail/</loc>
+    <lastmod>2026-10-02T20:32:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/affected-by-layoffs-dont-miss-this-75-deal-for-your-techcrunch-di/</loc>
+    <lastmod>2026-10-02T19:15:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/alison-hammond-has-heart-check-up-in-hospital-after-rushing-off-t/</loc>
+    <lastmod>2026-10-02T18:41:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Alison Hammond has heart check-up in hospital after rushing off This Morning while on air</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/apple-says-its-tightening-macos-full-disk-access-controls-due-to-/</loc>
+    <lastmod>2026-10-02T18:11:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buy/</loc>
+    <lastmod>2026-10-02T17:56:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>Call it AI, call it Super Intelligence, only 2% of consumers are buying it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/uk-diesel-prices-top-2-a-litre-for-first-time-rac-says/</loc>
+    <lastmod>2026-10-02T15:50:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
+      <image:title>UK diesel prices top £2 a litre for first time, RAC says</image:title>
     </image:image>
   </url>
 </urlset>
