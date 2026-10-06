@@ -3,39 +3,189 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-05T17:45:32Z</lastmod>
+    <lastmod>2026-10-06T01:15:17Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-05T17:45:32Z</lastmod>
+    <lastmod>2026-10-06T01:15:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-05T17:45:32Z</lastmod>
+    <lastmod>2026-10-06T01:15:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-05T17:45:32Z</lastmod>
+    <lastmod>2026-10-06T01:15:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-05T17:45:32Z</lastmod>
+    <lastmod>2026-10-06T01:15:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-05T17:45:32Z</lastmod>
+    <lastmod>2026-10-06T01:15:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/artificial-first-reactions-luca-guadagninos-openai-drama-is-provo/</loc>
+    <lastmod>2026-10-06T00:49:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/MCDARTI_EC022.jpg</image:loc>
+      <image:title>‘Artificial’ First Reactions: Luca Guadagnino’s OpenAI Drama is ‘Provocative,’ ‘Downright Horrifying’ and His ‘Best Film in a Decade’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/stock-futures-are-little-changed-after-nasdaq-hits-new-record-liv/</loc>
+    <lastmod>2026-10-06T00:18:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108363714-1791231710449-108363714-1789572211685-108363714-17895721022026-09-16t151959z_4801821_rc2dknacke3t_rtrmadp_0_usa-stocks.jpeg?v=1791231728&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Stock futures are little changed after Nasdaq hits new record: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/pakistan-withdraw-from-world-championship-of-legends-after-pcb-re/</loc>
+    <lastmod>2026-10-06T00:11:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/397400/397480.jpg</image:loc>
+      <image:title>Pakistan withdraw from World Championship of Legends after PCB refuse NOCs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-says-hell-pay-for-patriotic-ads-himself-following-controver/</loc>
+    <lastmod>2026-10-06T00:04:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2280583841.jpg</image:loc>
+      <image:title>Trump Says He’ll Pay for ‘Patriotic Ads’ Himself Following Controversy Around Taxpayer-Funded TV Spots</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-says-hell-pay-for-tv-ads-that-praised-him-and-which-governm/</loc>
+    <lastmod>2026-10-05T23:25:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump says he&#x27;ll pay for TV ads that praised him and which government funded</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/gemini-call-for-me-might-tell-your-mom-you8217re-running-late/</loc>
+    <lastmod>2026-10-05T23:09:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&amp;h=800&amp;fit=crop</image:loc>
+      <image:title>Gemini Call for Me might tell your mom you&amp;#8217;re running late</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/what-prompted-the-us-bombers-to-leave-raf-fairford/</loc>
+    <lastmod>2026-10-05T21:57:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5e75/live/47a70f40-c0f4-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>What prompted the US bombers to leave RAF Fairford?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-says-threat-led-us-to-pull-bombers-from-raf-fairford/</loc>
+    <lastmod>2026-10-05T21:46:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7744/live/83f27ce0-c0fa-11f1-812d-715b1c9a79e7.jpg</image:loc>
+      <image:title>Trump says &#x27;threat&#x27; led US to pull bombers from RAF Fairford</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/france-braces-for-national-day-of-school-protests-after-injuries-/</loc>
+    <lastmod>2026-10-05T21:18:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1ca1/live/fe658ed0-c0dd-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>France braces for national day of school protests after injuries and mass arrests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/reverse-engineered-games-all-the-news-on-video-game-decomps-recom/</loc>
+    <lastmod>2026-10-05T21:17:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/openai-will-start-watermarking-chatgpts-text-in-the-eu/</loc>
+    <lastmod>2026-10-05T20:36:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800</image:loc>
+      <image:title>OpenAI will start watermarking ChatGPT’s text in the EU</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-m/</loc>
+    <lastmod>2026-10-05T19:33:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669</image:loc>
+      <image:title>Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/spain-pm-pins-hopes-on-housing-crisis-to-help-win-snap-election/</loc>
+    <lastmod>2026-10-05T19:30:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/da25/live/2b424680-c0ea-11f1-ac9b-4d871a6ff8ee.jpg</image:loc>
+      <image:title>Spain PM pins hopes on housing crisis to help win snap election</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/sai-sudharsan-not-worried-about-competition-for-spots/</loc>
+    <lastmod>2026-10-05T18:25:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423427.jpg</image:loc>
+      <image:title>Sai Sudharsan not worried about competition for spots</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-what-caused-the-us-to-remove-its-bombers-in-such-a-hurry/</loc>
+    <lastmod>2026-10-05T15:47:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9ca1/live/02545530-c0de-11f1-babe-4199b0e7ccea.png</image:loc>
+      <image:title>What caused the US to remove its bombers in such a hurry?</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/stories/ai-researcher-warns-we-are-racing-to-build-and-grow-our-own-adver/</loc>
@@ -258,13 +408,13 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/openai-pr-tells-journalist-to-move-on-while-asking-sam-altman-abo/</loc>
-    <lastmod>2026-10-05T16:55:42+00:00</lastmod>
+    <loc>https://newspulse-daily.vercel.app/stories/google-admits-not-every-android-app-runs-great-on-intel-googleboo/</loc>
+    <lastmod>2026-10-05T05:28:22+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&amp;#8217;s suicide</image:title>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Asus_Googlebook_14_ADiBenedetto_0006_0b94ab.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Google admits not every Android app runs great on Intel Googlebooks</image:title>
     </image:image>
   </url>
   <url>
@@ -278,16 +428,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-removes-all-bombers-from-raf-fairford-base/</loc>
-    <lastmod>2026-10-05T05:09:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg</image:loc>
-      <image:title>US removes all bombers from RAF Fairford base</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://newspulse-daily.vercel.app/stories/us-air-force-removes-all-bombers-from-british-military-base-raf-f/</loc>
     <lastmod>2026-10-05T05:09:09+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -295,16 +435,6 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg</image:loc>
       <image:title>US air force removes all bombers from British military base RAF Fairford</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/andrew-takes-legal-action-over-search-warrants-before-his-arrest/</loc>
-    <lastmod>2026-10-05T05:04:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/90f2/live/ed82e1b0-c08f-11f1-a4af-19dbf5352a59.jpg</image:loc>
-      <image:title>Andrew takes legal action over search warrants before his arrest</image:title>
     </image:image>
   </url>
   <url>
@@ -318,23 +448,13 @@
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/spanish-pm-sánchez-calls-early-election-after-housing-protests/</loc>
-    <lastmod>2026-10-05T04:48:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1479/live/0ea9d1f0-c090-11f1-a4af-19dbf5352a59.jpg</image:loc>
-      <image:title>Spanish PM Sánchez calls early election after housing protests</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://newspulse-daily.vercel.app/stories/our-minds-arent-equipped-to-handle-ai/</loc>
     <lastmod>2026-10-05T04:30:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Sam Altman says ‘some bad things&amp;#8217; will happen but AI is totally worth it</image:title>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Our minds aren’t equipped to handle AI</image:title>
     </image:image>
   </url>
   <url>
@@ -393,38 +513,18 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shield.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Nvidia’s Shield TV Pro just got a $100 price hike</image:title>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>The new Fitbit Edge leaks</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://newspulse-daily.vercel.app/stories/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-intervi/</loc>
-    <lastmod>2026-10-05T16:43:35+00:00</lastmod>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-unveils-his-new-super-intelligence-force/</loc>
+    <lastmod>2026-10-04T09:45:10+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826</image:loc>
-      <image:title>HackerRank’s AI interviewer offers a glimpse into what job interviews could become</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/openai-launches-visual-ads-that-appear-alongside-image-generation/</loc>
-    <lastmod>2026-10-05T15:14:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200</image:loc>
-      <image:title>OpenAI launches visual ads that appear alongside image generation results</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-t/</loc>
-    <lastmod>2026-10-05T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800</image:loc>
-      <image:title>Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026</image:title>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024</image:loc>
+      <image:title>Trump unveils his new Super Intelligence Force</image:title>
     </image:image>
   </url>
 </urlset>
