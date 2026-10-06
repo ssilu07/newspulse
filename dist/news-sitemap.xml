@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/jack-white-slams-trump-as-worst-american-of-all-time-following-co/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T23:41:54+00:00</news:publication_date>
+      <news:title>Jack White Slams Trump as ‘Worst American of All Time’ Following Comment That Iran Can ‘Take Out’ L.A. and San Diego</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/us-politics-trump-jack-white-these-thoughts-may-disappear-ph-1000x667-1.jpg</image:loc>
+      <image:title>Jack White Slams Trump as ‘Worst American of All Time’ Following Comment That Iran Can ‘Take Out’ L.A. and San Diego</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/openai-drops-another-batch-of-mathematical-breakthroughs/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T23:26:38+00:00</news:publication_date>
+      <news:title>OpenAI drops another batch of mathematical breakthroughs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI drops another batch of mathematical breakthroughs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/josh-goldstine-to-oversee-marketing-and-distribution-at-warner-br/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T23:24:30+00:00</news:publication_date>
+      <news:title>Josh Goldstine to Oversee Marketing and Distribution at Warner Bros., Paramount and All Skydance Film Labels (EXCLUSIVE)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/10/JoshGoldstine.jpg</image:loc>
+      <image:title>Josh Goldstine to Oversee Marketing and Distribution at Warner Bros., Paramount and All Skydance Film Labels (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T22:34:03+00:00</news:publication_date>
+      <news:title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1600,1067</image:loc>
+      <image:title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-to-a-new-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T22:23:01+00:00</news:publication_date>
+      <news:title>Chart: A look at the S&amp;P 500&#x27;s remarkable and defiant trip to a new record</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108370319-1791325984516-108370319-1790781020673-Traders-Photo-20260929-KK-PRESS-004.jpg?v=1791326037&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Chart: A look at the S&amp;P 500&#x27;s remarkable and defiant trip to a new record</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-death-row-inmate-christa-pike-awake-and-speaking-after-failed-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T22:00:43+00:00</news:publication_date>
+      <news:title>US death row inmate Christa Pike awake and speaking after failed execution, lawyers say</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg</image:loc>
+      <image:title>US death row inmate Christa Pike awake and speaking after failed execution, lawyers say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/apple-and-lg-team-up-on-new-smart-home-gear-starting-with-a-lock-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T21:39:53+00:00</news:publication_date>
+      <news:title>Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-hedges-on-paying-back-government-for-ads-that-already-aired/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T21:32:32+00:00</news:publication_date>
+      <news:title>Trump hedges on paying back government for ads that already aired</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump hedges on paying back government for ads that already aired</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/how-ai-decision-models-could-change-content-moderation/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T20:35:20+00:00</news:publication_date>
+      <news:title>How AI decision models could change content moderation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1600,1067</image:loc>
+      <image:title>How AI decision models could change content moderation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/three-arrested-after-raid-on-gang-accused-of-helping-migrants-pre/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T19:25:08+00:00</news:publication_date>
+      <news:title>Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b3e2/live/b7bad510-c1a7-11f1-8fa2-19a1e9b6288f.jpg</image:loc>
+      <image:title>Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-police-raid-on-gang-behind-fake-gay-asylum-claims/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T19:01:17+00:00</news:publication_date>
+      <news:title>Police raid on gang behind fake gay asylum claims</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6537/live/72c8e360-c1b7-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Police raid on gang behind fake gay asylum claims</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/anthropic-expands-claude-startups-program-in-bid-to-snag-founders/</loc>
     <news:news>
       <news:publication>
@@ -15,6 +180,21 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108349279-1786641474597-gettyimages-2283915428-TFSPI_03072026-6044.jpeg?v=1789409239&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tear-gas-in-paris-and-marseille-as-school-protests-grow-across-fr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T18:03:19+00:00</news:publication_date>
+      <news:title>Tear gas in Paris and Marseille as school protests grow across France</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg</image:loc>
+      <image:title>Tear gas in Paris and Marseille as school protests grow across France</image:title>
     </image:image>
   </url>
   <url>
@@ -105,6 +285,36 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/394700/394778.jpg</image:loc>
       <image:title>Prasad, Kalita and Nandani the new faces in Mandhana-led white-ball sides</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/rahul-and-jaiswal-in-india-a-squad-for-red-ball-matches-in-new-ze/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T16:49:52+00:00</news:publication_date>
+      <news:title>Rahul and Jaiswal in India A squad for red-ball matches in New Zealand</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/409600/409678.jpg</image:loc>
+      <image:title>Rahul and Jaiswal in India A squad for red-ball matches in New Zealand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/india-recall-bhuvneshwar-kumar-for-new-zealand-t20is/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T16:49:33+00:00</news:publication_date>
+      <news:title>India recall Bhuvneshwar Kumar for New Zealand T20Is</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/416800/416840.jpg</image:loc>
+      <image:title>India recall Bhuvneshwar Kumar for New Zealand T20Is</image:title>
     </image:image>
   </url>
   <url>
@@ -1545,306 +1755,6 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
       <image:title>Mighty Mike Plays Dad Says He Owns &#x27;Like 12 Companies,&#x27; Promises Refunds for AI Shirts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/guest-column-a-caution-about-artificial-intelligence-riverheadnew/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T23:26:10+00:00</news:publication_date>
-      <news:title>Guest column: A caution about artificial intelligence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Guest column: A caution about artificial intelligence</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-marines-arrest-in-a-killing-on-okinawa-triggers-outrage-in-jap/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T23:24:00+00:00</news:publication_date>
-      <news:title>US Marine’s arrest in a killing on Okinawa triggers outrage in Japan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>US Marine’s arrest in a killing on Okinawa triggers outrage in Japan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/france-closes-up-to-500-schools-monday-over-student-protests-bbc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T23:19:14+00:00</news:publication_date>
-      <news:title>France closes up to 500 schools Monday over student protests</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>France closes up to 500 schools Monday over student protests</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T23:04:35+00:00</news:publication_date>
-      <news:title>Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/marshals-season-2-release-guide-heres-when-episode-1-drops-on-cbs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:40:00+00:00</news:publication_date>
-      <news:title>‘Marshals’ Season 2 Release Guide: Here’s When Episode 1 Drops On CBS And Paramount+</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>‘Marshals’ Season 2 Release Guide: Here’s When Episode 1 Drops On CBS And Paramount+</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/tailback-needy-seahawks-will-give-joe-mixon-a-look-see/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:40:00+00:00</news:publication_date>
-      <news:title>Tailback-needy Seahawks will give Joe Mixon a look-see</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Tailback-needy Seahawks will give Joe Mixon a look-see</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/warriors-reveal-new-starting-five-ahead-of-preseason-opener/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:40:00+00:00</news:publication_date>
-      <news:title>Warriors Reveal New Starting Five Ahead of Preseason Opener</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Warriors Reveal New Starting Five Ahead of Preseason Opener</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-rushes-to-withdraw-bombers-from-uk-air-base-after-new-threats-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:34:49+00:00</news:publication_date>
-      <news:title>U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/supreme-court-justice-alito-said-hes-thought-about-retirement-as-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:08:34+00:00</news:publication_date>
-      <news:title>Supreme Court Justice Alito said he&#x27;s &#x27;thought about&#x27; retirement as Senate control hangs in balance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Supreme Court Justice Alito said he&#x27;s &#x27;thought about&#x27; retirement as Senate control hangs in balance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/stock-futures-are-flat-as-investors-grapple-with-higher-yields-aw/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:04:05+00:00</news:publication_date>
-      <news:title>Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder-al-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T21:46:27+00:00</news:publication_date>
-      <news:title>Japan summons US envoy as marine arrested over Okinawa murder</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Japan summons US envoy as marine arrested over Okinawa murder</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/right-wing-flávio-bolsonaro-wins-first-round-of-brazil-election/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T21:46:16+00:00</news:publication_date>
-      <news:title>Right-wing Flávio Bolsonaro wins first round of Brazil election</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/e4ea/live/56a0e6c0-c053-11f1-babe-4199b0e7ccea.png</image:loc>
-      <image:title>Right-wing Flávio Bolsonaro wins first round of Brazil election</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/trump-reiterates-pledge-to-send-5000-checks-and-hands-out-smaller/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T20:28:47+00:00</news:publication_date>
-      <news:title>Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/the-evolution-of-artificial-intelligence-in-oncology-impact-on-tr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T20:03:32+00:00</news:publication_date>
-      <news:title>The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/pricks-theatrical-industrial-punk-is-perfect-for-spooky-season/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T20:00:00+00:00</news:publication_date>
-      <news:title>Prick’s theatrical industrial punk is perfect for spooky season</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Prick’s theatrical industrial punk is perfect for spooky season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/james-gunn-shuts-down-jensen-ackles-batman-casting-rumors/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T19:50:26+00:00</news:publication_date>
-      <news:title>James Gunn Shuts Down Jensen Ackles Batman Casting Rumors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>James Gunn Shuts Down Jensen Ackles Batman Casting Rumors</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/trump-tells-south-korea-to-sign-on-to-alaska-lng-deal-or-ill-just/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T19:17:47+00:00</news:publication_date>
-      <news:title>Trump tells South Korea to sign on to Alaska LNG deal or &#x27;I&#x27;ll just charge them more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108372306-1791159129782-gettyimages-2297947516-090a3383_0fhdk7dm.jpeg?v=1791159153&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Trump tells South Korea to sign on to Alaska LNG deal or &#x27;I&#x27;ll just charge them more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/artificial-intelligence-abc-news-breaking-news-latest-news-and-vi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T19:11:04+00:00</news:publication_date>
-      <news:title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/tom-cruises-digger-bombs-hard-with-20-million-global-opening-in-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T18:46:57+00:00</news:publication_date>
-      <news:title>Tom Cruise&#x27;s Digger Bombs Hard With $20 Million Global Opening in Theaters</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Tom Cruise&#x27;s Digger Bombs Hard With $20 Million Global Opening in Theaters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/uae-had-shared-details-about-flydubai-flight-with-israel-includin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T18:31:00+00:00</news:publication_date>
-      <news:title>UAE had shared details about FlyDubai flight with Israel, including pilots&#x27; names and nationalities, officials tell AP</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>UAE had shared details about FlyDubai flight with Israel, including pilots&#x27; names and nationalities, officials tell AP</image:title>
     </image:image>
   </url>
 </urlset>

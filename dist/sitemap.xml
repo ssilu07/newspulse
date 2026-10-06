@@ -3,39 +3,149 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-06T18:13:47Z</lastmod>
+    <lastmod>2026-10-06T23:43:06Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-06T18:13:47Z</lastmod>
+    <lastmod>2026-10-06T23:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-06T18:13:47Z</lastmod>
+    <lastmod>2026-10-06T23:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-06T18:13:47Z</lastmod>
+    <lastmod>2026-10-06T23:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-06T18:13:47Z</lastmod>
+    <lastmod>2026-10-06T23:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-06T18:13:47Z</lastmod>
+    <lastmod>2026-10-06T23:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/jack-white-slams-trump-as-worst-american-of-all-time-following-co/</loc>
+    <lastmod>2026-10-06T23:41:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/us-politics-trump-jack-white-these-thoughts-may-disappear-ph-1000x667-1.jpg</image:loc>
+      <image:title>Jack White Slams Trump as ‘Worst American of All Time’ Following Comment That Iran Can ‘Take Out’ L.A. and San Diego</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/openai-drops-another-batch-of-mathematical-breakthroughs/</loc>
+    <lastmod>2026-10-06T23:26:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI drops another batch of mathematical breakthroughs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/josh-goldstine-to-oversee-marketing-and-distribution-at-warner-br/</loc>
+    <lastmod>2026-10-06T23:24:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/10/JoshGoldstine.jpg</image:loc>
+      <image:title>Josh Goldstine to Oversee Marketing and Distribution at Warner Bros., Paramount and All Skydance Film Labels (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-t/</loc>
+    <lastmod>2026-10-06T22:34:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1600,1067</image:loc>
+      <image:title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-to-a-new-/</loc>
+    <lastmod>2026-10-06T22:23:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108370319-1791325984516-108370319-1790781020673-Traders-Photo-20260929-KK-PRESS-004.jpg?v=1791326037&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Chart: A look at the S&amp;P 500&#x27;s remarkable and defiant trip to a new record</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-death-row-inmate-christa-pike-awake-and-speaking-after-failed-/</loc>
+    <lastmod>2026-10-06T22:00:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg</image:loc>
+      <image:title>US death row inmate Christa Pike awake and speaking after failed execution, lawyers say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/apple-and-lg-team-up-on-new-smart-home-gear-starting-with-a-lock-/</loc>
+    <lastmod>2026-10-06T21:39:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-hedges-on-paying-back-government-for-ads-that-already-aired/</loc>
+    <lastmod>2026-10-06T21:32:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump hedges on paying back government for ads that already aired</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/how-ai-decision-models-could-change-content-moderation/</loc>
+    <lastmod>2026-10-06T20:35:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1600,1067</image:loc>
+      <image:title>How AI decision models could change content moderation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/three-arrested-after-raid-on-gang-accused-of-helping-migrants-pre/</loc>
+    <lastmod>2026-10-06T19:25:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b3e2/live/b7bad510-c1a7-11f1-8fa2-19a1e9b6288f.jpg</image:loc>
+      <image:title>Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-police-raid-on-gang-behind-fake-gay-asylum-claims/</loc>
+    <lastmod>2026-10-06T19:01:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6537/live/72c8e360-c1b7-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Police raid on gang behind fake gay asylum claims</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/stories/anthropic-expands-claude-startups-program-in-bid-to-snag-founders/</loc>
@@ -45,6 +155,16 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108349279-1786641474597-gettyimages-2283915428-TFSPI_03072026-6044.jpeg?v=1789409239&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tear-gas-in-paris-and-marseille-as-school-protests-grow-across-fr/</loc>
+    <lastmod>2026-10-06T18:03:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg</image:loc>
+      <image:title>Tear gas in Paris and Marseille as school protests grow across France</image:title>
     </image:image>
   </url>
   <url>
@@ -105,6 +225,26 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/394700/394778.jpg</image:loc>
       <image:title>Prasad, Kalita and Nandani the new faces in Mandhana-led white-ball sides</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/rahul-and-jaiswal-in-india-a-squad-for-red-ball-matches-in-new-ze/</loc>
+    <lastmod>2026-10-06T16:49:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/409600/409678.jpg</image:loc>
+      <image:title>Rahul and Jaiswal in India A squad for red-ball matches in New Zealand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/india-recall-bhuvneshwar-kumar-for-new-zealand-t20is/</loc>
+    <lastmod>2026-10-06T16:49:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/416800/416840.jpg</image:loc>
+      <image:title>India recall Bhuvneshwar Kumar for New Zealand T20Is</image:title>
     </image:image>
   </url>
   <url>
