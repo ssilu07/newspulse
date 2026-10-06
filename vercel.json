@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "installCommand": "pip install -r requirements.txt",
-  "buildCommand": "python fetch_and_generate.py --count 1 --skip-val || true",
   "outputDirectory": "dist",
   "routes": [
     {

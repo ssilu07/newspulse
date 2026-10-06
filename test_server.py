@@ -5,7 +5,7 @@ sitemap, and APIs respond with status 200 and expected markup.
 """
 
 from fastapi.testclient import TestClient
-from app import app
+from dev_server import app
 import json
 
 client = TestClient(app)
@@ -46,7 +46,12 @@ def test_story_page():
 def test_seo_files():
     res_sitemap = client.get("/sitemap.xml")
     assert res_sitemap.status_code == 200
-    assert "news:news" in res_sitemap.text
+    assert "urlset" in res_sitemap.text
+    print("[PASS] Standard Sitemap XML (200 OK)")
+
+    res_news_sitemap = client.get("/news-sitemap.xml")
+    assert res_news_sitemap.status_code == 200
+    assert "news:news" in res_news_sitemap.text
     print("[PASS] Google News Sitemap XML (200 OK)")
 
     res_robots = client.get("/robots.txt")

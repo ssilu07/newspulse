@@ -74,7 +74,7 @@ minutesNews/
 ├── site_generator.py         # Static site compiler (Homepage, Compliance, Sitemap, Manifest)
 ├── fetch_and_generate.py     # Single-command CLI publishing pipeline
 ├── validate_amp.py           # Automated AMP compliance validator (Python + npx CLI)
-├── app.py                    # FastAPI server for local preview & REST APIs
+├── dev_server.py             # FastAPI server for local preview & REST APIs
 ├── static/
 │   ├── css/style.css         # Glassmorphic responsive dark/light cinema design system
 │   ├── js/main.js            # Instant search, category filters, TTS reader, bookmarks
@@ -119,7 +119,7 @@ python fetch_and_generate.py
 
 ### 4. Start Local Development Server
 ```bash
-python app.py
+python dev_server.py
 ```
 Open **[http://127.0.0.1:8000](http://127.0.0.1:8000)** in your browser!
 
