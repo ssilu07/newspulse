@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-06T13:24:21Z</lastmod>
+    <lastmod>2026-10-06T18:13:47Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-06T13:24:21Z</lastmod>
+    <lastmod>2026-10-06T18:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-06T13:24:21Z</lastmod>
+    <lastmod>2026-10-06T18:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-06T13:24:21Z</lastmod>
+    <lastmod>2026-10-06T18:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-06T13:24:21Z</lastmod>
+    <lastmod>2026-10-06T18:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-06T13:24:21Z</lastmod>
+    <lastmod>2026-10-06T18:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/anthropic-expands-claude-startups-program-in-bid-to-snag-founders/</loc>
+    <lastmod>2026-10-06T18:06:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108349279-1786641474597-gettyimages-2283915428-TFSPI_03072026-6044.jpeg?v=1789409239&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/busta-rhymes-breaks-down-dillagence-ii-album-and-writing-to-j-dil/</loc>
+    <lastmod>2026-10-06T17:53:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2283657018.jpg</image:loc>
+      <image:title>Busta Rhymes Breaks Down ‘Dillagence II’ Album and Writing to J Dilla Beats in Grammy Museum Q&amp;A With Anderson .Paak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/netflix-expands-tv-game-lineup-with-conjuring-spinoff/</loc>
+    <lastmod>2026-10-06T17:43:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_11597.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Netflix expands TV game lineup with Conjuring spinoff</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/crunchyrolls-inaugural-anime-future-forum-hopes-to-connect-fans-a/</loc>
+    <lastmod>2026-10-06T17:36:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/08/Crunchyroll-Logo.png</image:loc>
+      <image:title>Crunchyroll’s Inaugural Anime Future Forum Hopes to Connect Fans and Creators</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/shreyas-iyers-maiden-ton-hands-india-crushing-win/</loc>
+    <lastmod>2026-10-06T17:36:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423471.jpg</image:loc>
+      <image:title>Shreyas Iyer&#x27;s maiden ton hands India crushing win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/apple-tvs-great-year-continues-with-small-prophets/</loc>
+    <lastmod>2026-10-06T17:15:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Small_Prophets_Photo_010203.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple TV’s great year continues with Small Prophets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/prasad-kalita-and-nandani-the-new-faces-in-mandhana-led-white-bal/</loc>
+    <lastmod>2026-10-06T17:03:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/394700/394778.jpg</image:loc>
+      <image:title>Prasad, Kalita and Nandani the new faces in Mandhana-led white-ball sides</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/mirror-particle-is-building-a-world-model-of-human-behavior/</loc>
+    <lastmod>2026-10-06T16:35:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1600,1067</image:loc>
+      <image:title>Mirror Particle is building a ‘world model’ of human behavior</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/white-house-defends-trump-comment-to-let-iran-take-out-la-and-san/</loc>
+    <lastmod>2026-10-06T16:22:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg</image:loc>
+      <image:title>White House defends Trump comment to let Iran &#x27;take out&#x27; LA and San Diego</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/anthropic-is-giving-startups-a-free-year-of-claude-team-and-1000-/</loc>
+    <lastmod>2026-10-06T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1600</image:loc>
+      <image:title>Anthropic is giving startups a free year of Claude Team and $1,000 in credits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trade-deficit-hits-1056-billion-widest-since-just-before-trump-ta/</loc>
+    <lastmod>2026-10-06T15:52:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108354862-1787782636413-gettyimages-2291629463-1568136-port-of-long-beach-ajs-07.jpeg?v=1787782727&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/british-national-arrested-in-connection-with-raf-fairford-inciden/</loc>
+    <lastmod>2026-10-06T15:03:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2b53/live/fc7bdb70-bf15-11f1-9947-0584c244b963.jpg</image:loc>
+      <image:title>British national arrested in connection with RAF Fairford incident</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-at-the-scene-of-student-protests-in-lille/</loc>
+    <lastmod>2026-10-06T15:02:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/fc0c/live/7e8d42e0-c199-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>At the scene of student protests in Lille</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ship-sinks-and-crew-missing-after-black-sea-drone-attack/</loc>
+    <lastmod>2026-10-06T11:53:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4ac4/live/33a7d8a0-c192-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>Ship sinks and crew missing after Black Sea drone attack</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/stories/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-en/</loc>

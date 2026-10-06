@@ -3,6 +3,216 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/anthropic-expands-claude-startups-program-in-bid-to-snag-founders/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T18:06:40+00:00</news:publication_date>
+      <news:title>Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108349279-1786641474597-gettyimages-2283915428-TFSPI_03072026-6044.jpeg?v=1789409239&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/busta-rhymes-breaks-down-dillagence-ii-album-and-writing-to-j-dil/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T17:53:04+00:00</news:publication_date>
+      <news:title>Busta Rhymes Breaks Down ‘Dillagence II’ Album and Writing to J Dilla Beats in Grammy Museum Q&amp;A With Anderson .Paak</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2283657018.jpg</image:loc>
+      <image:title>Busta Rhymes Breaks Down ‘Dillagence II’ Album and Writing to J Dilla Beats in Grammy Museum Q&amp;A With Anderson .Paak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/netflix-expands-tv-game-lineup-with-conjuring-spinoff/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T17:43:59+00:00</news:publication_date>
+      <news:title>Netflix expands TV game lineup with Conjuring spinoff</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_11597.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Netflix expands TV game lineup with Conjuring spinoff</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/crunchyrolls-inaugural-anime-future-forum-hopes-to-connect-fans-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T17:36:47+00:00</news:publication_date>
+      <news:title>Crunchyroll’s Inaugural Anime Future Forum Hopes to Connect Fans and Creators</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/08/Crunchyroll-Logo.png</image:loc>
+      <image:title>Crunchyroll’s Inaugural Anime Future Forum Hopes to Connect Fans and Creators</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/shreyas-iyers-maiden-ton-hands-india-crushing-win/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T17:36:23+00:00</news:publication_date>
+      <news:title>Shreyas Iyer&#x27;s maiden ton hands India crushing win</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423471.jpg</image:loc>
+      <image:title>Shreyas Iyer&#x27;s maiden ton hands India crushing win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/apple-tvs-great-year-continues-with-small-prophets/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T17:15:16+00:00</news:publication_date>
+      <news:title>Apple TV’s great year continues with Small Prophets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Small_Prophets_Photo_010203.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple TV’s great year continues with Small Prophets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/prasad-kalita-and-nandani-the-new-faces-in-mandhana-led-white-bal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T17:03:28+00:00</news:publication_date>
+      <news:title>Prasad, Kalita and Nandani the new faces in Mandhana-led white-ball sides</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/394700/394778.jpg</image:loc>
+      <image:title>Prasad, Kalita and Nandani the new faces in Mandhana-led white-ball sides</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/mirror-particle-is-building-a-world-model-of-human-behavior/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T16:35:00+00:00</news:publication_date>
+      <news:title>Mirror Particle is building a ‘world model’ of human behavior</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1600,1067</image:loc>
+      <image:title>Mirror Particle is building a ‘world model’ of human behavior</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/white-house-defends-trump-comment-to-let-iran-take-out-la-and-san/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T16:22:37+00:00</news:publication_date>
+      <news:title>White House defends Trump comment to let Iran &#x27;take out&#x27; LA and San Diego</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg</image:loc>
+      <image:title>White House defends Trump comment to let Iran &#x27;take out&#x27; LA and San Diego</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/anthropic-is-giving-startups-a-free-year-of-claude-team-and-1000-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T16:00:00+00:00</news:publication_date>
+      <news:title>Anthropic is giving startups a free year of Claude Team and $1,000 in credits</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1600</image:loc>
+      <image:title>Anthropic is giving startups a free year of Claude Team and $1,000 in credits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trade-deficit-hits-1056-billion-widest-since-just-before-trump-ta/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T15:52:22+00:00</news:publication_date>
+      <news:title>Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108354862-1787782636413-gettyimages-2291629463-1568136-port-of-long-beach-ajs-07.jpeg?v=1787782727&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/british-national-arrested-in-connection-with-raf-fairford-inciden/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T15:03:58+00:00</news:publication_date>
+      <news:title>British national arrested in connection with RAF Fairford incident</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2b53/live/fc7bdb70-bf15-11f1-9947-0584c244b963.jpg</image:loc>
+      <image:title>British national arrested in connection with RAF Fairford incident</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-at-the-scene-of-student-protests-in-lille/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T15:02:56+00:00</news:publication_date>
+      <news:title>At the scene of student protests in Lille</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/fc0c/live/7e8d42e0-c199-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>At the scene of student protests in Lille</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ship-sinks-and-crew-missing-after-black-sea-drone-attack/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T11:53:21+00:00</news:publication_date>
+      <news:title>Ship sinks and crew missing after Black Sea drone attack</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4ac4/live/33a7d8a0-c192-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>Ship sinks and crew missing after Black Sea drone attack</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-en/</loc>
     <news:news>
       <news:publication>
@@ -1635,291 +1845,6 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
       <image:title>UAE had shared details about FlyDubai flight with Israel, including pilots&#x27; names and nationalities, officials tell AP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/avengers-endgame-beats-avatar-to-become-the-highest-grossing-movi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T17:34:34+00:00</news:publication_date>
-      <news:title>Avengers: Endgame Beats Avatar to Become the Highest-Grossing Movie of All Time (Again)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Avengers: Endgame Beats Avatar to Become the Highest-Grossing Movie of All Time (Again)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/the-best-early-october-prime-day-deals-happening-now/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T17:18:00+00:00</news:publication_date>
-      <news:title>The best early October Prime Day deals happening now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>The best early October Prime Day deals happening now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/opinion-think-of-artificial-intelligence-like-a-weapon-wsj/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T16:35:00+00:00</news:publication_date>
-      <news:title>Opinion | Think of Artificial Intelligence Like a Weapon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Opinion | Think of Artificial Intelligence Like a Weapon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/well-if-ai-said-it-it-must-be-true/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T16:16:04+00:00</news:publication_date>
-      <news:title>Well, if AI said it, it must be true</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Well, if AI said it, it must be true</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/comunicado-del-fc-barcelona/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T16:10:00+00:00</news:publication_date>
-      <news:title>Comunicado del FC Barcelona</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Comunicado del FC Barcelona</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/despite-scrutiny-medicare-advantage-enrollment-poised-to-rise-as-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T16:10:00+00:00</news:publication_date>
-      <news:title>Despite Scrutiny, Medicare Advantage Enrollment Poised To Rise As Premiums Fall 16%</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Despite Scrutiny, Medicare Advantage Enrollment Poised To Rise As Premiums Fall 16%</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/commentary-artificial-intelligence-in-the-classroom-washington-st/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T16:07:53+00:00</news:publication_date>
-      <news:title>Commentary: Artificial intelligence in the classroom</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Commentary: Artificial intelligence in the classroom</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/ravens-discussion-score-prediction-x-factors-for-week-4-vs-titans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T16:00:00+00:00</news:publication_date>
-      <news:title>Ravens discussion: score prediction, X-factors for Week 4 vs. Titans</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Ravens discussion: score prediction, X-factors for Week 4 vs. Titans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/flydubai-captain-reveals-new-details-of-attack-in-netanyahu-phone/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T15:33:52+00:00</news:publication_date>
-      <news:title>FlyDubai captain reveals new details of attack in Netanyahu phone call</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>FlyDubai captain reveals new details of attack in Netanyahu phone call</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/the-new-fitbit-edge-leaks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T15:32:09+00:00</news:publication_date>
-      <news:title>The new Fitbit Edge leaks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>The new Fitbit Edge leaks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-marine-accused-of-killing-woman-in-japan-drawing-official-prot/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T15:22:06+00:00</news:publication_date>
-      <news:title>U.S. Marine accused of killing woman in Japan, drawing official protest from Tokyo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>U.S. Marine accused of killing woman in Japan, drawing official protest from Tokyo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/an-ai-couldnt-beat-humans-at-starcraft-so-it-decided-to-cheat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T15:21:59+00:00</news:publication_date>
-      <news:title>An AI couldn’t beat humans at StarCraft, so it decided to cheat</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>An AI couldn’t beat humans at StarCraft, so it decided to cheat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/labuschagne-scores-century-in-low-intensity-potchefstroom-warm-up/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T15:10:10+00:00</news:publication_date>
-      <news:title>Labuschagne scores century in low-intensity Potchefstroom warm-up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Labuschagne scores century in low-intensity Potchefstroom warm-up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/google-froze-its-open-source-bug-bounty-program-due-to-a-signific/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T15:01:07+00:00</news:publication_date>
-      <news:title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T15:00:00+00:00</news:publication_date>
-      <news:title>This toolless modular lever-action wallet is the coolest I’ve stuck to my phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>This toolless modular lever-action wallet is the coolest I’ve stuck to my phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-im/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T14:38:34+00:00</news:publication_date>
-      <news:title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/avishka-fernando-recalled-to-sri-lankas-odi-side-for-tri-series-i/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T14:30:01+00:00</news:publication_date>
-      <news:title>Avishka Fernando recalled to Sri Lanka&#x27;s ODI side for tri-series in Pakistan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Avishka Fernando recalled to Sri Lanka&#x27;s ODI side for tri-series in Pakistan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/brazil-presidential-vote-pits-trump-ally-against-lula-who-is-seek/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T13:49:00+00:00</news:publication_date>
-      <news:title>Brazil presidential vote pits Trump ally against Lula, who is seeking a 4th nonconsecutive term</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Brazil presidential vote pits Trump ally against Lula, who is seeking a 4th nonconsecutive term</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/nortje-ill-be-very-excited-if-i-can-put-my-test-cap-on-again/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T13:44:52+00:00</news:publication_date>
-      <news:title>Nortje: &#x27;I&#x27;ll be very excited if I can put my Test cap on again</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Nortje: &#x27;I&#x27;ll be very excited if I can put my Test cap on again</image:title>
     </image:image>
   </url>
 </urlset>
