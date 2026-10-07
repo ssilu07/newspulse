@@ -316,6 +316,7 @@ def render_homepage_html(articles: list) -> str:
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{config.SITE_NAME} - {config.SITE_TAGLINE}</title>
   <meta name="description" content="{config.SITE_DESCRIPTION}">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <link rel="canonical" href="{config.SITE_URL}/">
 
   <!-- OpenGraph / Twitter Meta -->
@@ -618,6 +619,7 @@ def generate_compliance_pages(dist_dir: Path):
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{escape(pdata['title'])} - {config.SITE_NAME}</title>
   <meta name="description" content="{escape(pdata['description'])}">
+  <meta name="robots" content="index, follow">
   <link rel="canonical" href="{canonical}">
 
   <!-- OpenGraph -->

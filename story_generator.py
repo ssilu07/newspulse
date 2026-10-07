@@ -171,9 +171,24 @@ def generate_amp_story_html(article: dict) -> str:
         },
         "headline": article.get("title", ""),
         "image": [
-            cover_16x9_url,
-            poster_landscape_url,
-            poster_square_url
+            {
+                "@type": "ImageObject",
+                "url": cover_16x9_url,
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "@type": "ImageObject",
+                "url": poster_landscape_url,
+                "width": 2880,
+                "height": 2160
+            },
+            {
+                "@type": "ImageObject",
+                "url": poster_square_url,
+                "width": 2160,
+                "height": 2160
+            }
         ],
         "datePublished": pub_iso,
         "dateModified": pub_iso,
@@ -205,11 +220,11 @@ def generate_amp_story_html(article: dict) -> str:
         s_badge = escape(slide.get("badge", cat_name))
         s_text = escape(slide.get("text", ""))
         
-        # Slide 1 uses the high-res 3:4 portrait poster, other slides use slide image or portrait poster
+        # Slide 1 uses the guaranteed high-res 3:4 portrait poster with absolute URL
         if i == 0:
-            s_image = "poster-portrait.jpg"
+            s_image = poster_portrait_url
         else:
-            s_image = slide.get("image") or "poster-portrait.jpg"
+            s_image = slide.get("image") or poster_portrait_url
             if s_image.startswith("http"):
                 s_image = upgrade_image_resolution(s_image, article.get("category", "trending"))
 
@@ -237,7 +252,7 @@ def generate_amp_story_html(article: dict) -> str:
     <amp-story-page id="{page_id}">
       <amp-story-grid-layer template="fill">
         <amp-img src="{escape(s_image)}"
-          width="720" height="1280" layout="responsive"
+          width="1080" height="1920" layout="responsive"
           alt="{s_alt}">
         </amp-img>
       </amp-story-grid-layer>
@@ -275,6 +290,7 @@ def generate_amp_story_html(article: dict) -> str:
   <title>{title_escaped} - {config.SITE_NAME} Web Story</title>
   <link rel="canonical" href="{canonical_url}">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="description" content="{summary_escaped}">
   <meta property="og:title" content="{title_escaped}">
   <meta property="og:description" content="{summary_escaped}">
