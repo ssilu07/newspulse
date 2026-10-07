@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-07T08:57:47Z</lastmod>
+    <lastmod>2026-10-07T15:26:31Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-07T08:57:47Z</lastmod>
+    <lastmod>2026-10-07T15:26:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-07T08:57:47Z</lastmod>
+    <lastmod>2026-10-07T15:26:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-07T08:57:47Z</lastmod>
+    <lastmod>2026-10-07T15:26:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-07T08:57:47Z</lastmod>
+    <lastmod>2026-10-07T15:26:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-07T08:57:47Z</lastmod>
+    <lastmod>2026-10-07T15:26:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who/</loc>
+    <lastmod>2026-10-07T15:07:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1600,1067</image:loc>
+      <image:title>Healthleap raises $38M for its AI that flags hospital patients who may need a closer look</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hit/</loc>
+    <lastmod>2026-10-07T15:03:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108372106-1790971409880-gettyimages-2297720606-AA_02102026_2977439.jpeg?v=1790971479&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ben-affleck-explains-it-all-artists-equity-the-death-of-movie-sta/</loc>
+    <lastmod>2026-10-07T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Ben-Affleck-Variety-Cover-Story-2.jpg</image:loc>
+      <image:title>Ben Affleck Explains It All: Artists Equity, the Death of Movie Stars and the Dilemma With Comic Book Movies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/michael-sequel-to-get-31-million-in-california-tax-credits/</loc>
+    <lastmod>2026-10-07T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/04/001-mkt-001-cin-v0037-cnpt-1002.jpg</image:loc>
+      <image:title>‘Michael’ Sequel to Get $31 Million in California Tax Credits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-to-speak-to-putin-about-plague-lab-workers-death-in-russia/</loc>
+    <lastmod>2026-10-07T14:50:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png</image:loc>
+      <image:title>Trump to speak to Putin about plague lab worker&#x27;s death in Russia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-c/</loc>
+    <lastmod>2026-10-07T14:41:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/10/tony-fadell-disrupt.jpg?resize=1600,1067</image:loc>
+      <image:title>Tony Fadell on why the first wave of AI gadgets failed — and what comes next</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/google-invests-millions-in-mark-zuckerbergs-efforts-to-create-a-v/</loc>
+    <lastmod>2026-10-07T14:40:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2243532165.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ecb-hints-at-noc-u-turn-even-as-apl-doubts-emerge/</loc>
+    <lastmod>2026-10-07T14:34:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/397200/397287.jpg</image:loc>
+      <image:title>ECB hints at NOC u-turn even as APL doubts emerge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/new-leaks-provide-our-first-look-at-apple-and-lgs-smart-home-devi/</loc>
+    <lastmod>2026-10-07T14:34:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>New leaks provide our first look at Apple and LG’s smart home devices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/all-round-taylor-powers-west-indies-clean-sweep-over-zimbabwe/</loc>
+    <lastmod>2026-10-07T14:06:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423499.jpg</image:loc>
+      <image:title>All-round Taylor powers West Indies&#x27; clean sweep over Zimbabwe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-the-big-test-facing-badenoch-after-her-conference-speech/</loc>
+    <lastmod>2026-10-07T13:41:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b626/live/2e2fc400-c25f-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>The big test facing Badenoch after her conference speech</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ice-came-to-town-and-left-behind-weakened-economies/</loc>
+    <lastmod>2026-10-07T12:24:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108259877-1769815783573-gettyimages-2258528609-_sm14983.jpeg?v=1769815824&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>ICE came to town and left behind weakened economies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/france-halts-use-of-stun-grenades-after-boys-hand-blown-off-in-st/</loc>
+    <lastmod>2026-10-07T12:16:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b147/live/114ad2c0-c229-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>France halts use of stun grenades after boy&#x27;s hand blown off in student protests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/how-did-christa-pike-survive-two-lethal-injections/</loc>
+    <lastmod>2026-10-07T10:01:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/925e/live/9f0dd630-c237-11f1-be2f-0fbd447d6e43.jpg</image:loc>
+      <image:title>How did Christa Pike survive two lethal injections</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/stories/oil-rises-as-concerns-over-houthi-attacks-on-saudi-arabia-eclipse/</loc>

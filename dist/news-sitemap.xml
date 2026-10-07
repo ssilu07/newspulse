@@ -3,6 +3,216 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T15:07:08+00:00</news:publication_date>
+      <news:title>Healthleap raises $38M for its AI that flags hospital patients who may need a closer look</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1600,1067</image:loc>
+      <image:title>Healthleap raises $38M for its AI that flags hospital patients who may need a closer look</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T15:03:53+00:00</news:publication_date>
+      <news:title>Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108372106-1790971409880-gettyimages-2297720606-AA_02102026_2977439.jpeg?v=1790971479&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ben-affleck-explains-it-all-artists-equity-the-death-of-movie-sta/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T15:00:00+00:00</news:publication_date>
+      <news:title>Ben Affleck Explains It All: Artists Equity, the Death of Movie Stars and the Dilemma With Comic Book Movies</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Ben-Affleck-Variety-Cover-Story-2.jpg</image:loc>
+      <image:title>Ben Affleck Explains It All: Artists Equity, the Death of Movie Stars and the Dilemma With Comic Book Movies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/michael-sequel-to-get-31-million-in-california-tax-credits/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T15:00:00+00:00</news:publication_date>
+      <news:title>‘Michael’ Sequel to Get $31 Million in California Tax Credits</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/04/001-mkt-001-cin-v0037-cnpt-1002.jpg</image:loc>
+      <image:title>‘Michael’ Sequel to Get $31 Million in California Tax Credits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-to-speak-to-putin-about-plague-lab-workers-death-in-russia/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T14:50:28+00:00</news:publication_date>
+      <news:title>Trump to speak to Putin about plague lab worker&#x27;s death in Russia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png</image:loc>
+      <image:title>Trump to speak to Putin about plague lab worker&#x27;s death in Russia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T14:41:38+00:00</news:publication_date>
+      <news:title>Tony Fadell on why the first wave of AI gadgets failed — and what comes next</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/10/tony-fadell-disrupt.jpg?resize=1600,1067</image:loc>
+      <image:title>Tony Fadell on why the first wave of AI gadgets failed — and what comes next</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/google-invests-millions-in-mark-zuckerbergs-efforts-to-create-a-v/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T14:40:52+00:00</news:publication_date>
+      <news:title>Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2243532165.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ecb-hints-at-noc-u-turn-even-as-apl-doubts-emerge/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T14:34:59+00:00</news:publication_date>
+      <news:title>ECB hints at NOC u-turn even as APL doubts emerge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/397200/397287.jpg</image:loc>
+      <image:title>ECB hints at NOC u-turn even as APL doubts emerge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/new-leaks-provide-our-first-look-at-apple-and-lgs-smart-home-devi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T14:34:37+00:00</news:publication_date>
+      <news:title>New leaks provide our first look at Apple and LG’s smart home devices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>New leaks provide our first look at Apple and LG’s smart home devices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/all-round-taylor-powers-west-indies-clean-sweep-over-zimbabwe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T14:06:33+00:00</news:publication_date>
+      <news:title>All-round Taylor powers West Indies&#x27; clean sweep over Zimbabwe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423499.jpg</image:loc>
+      <image:title>All-round Taylor powers West Indies&#x27; clean sweep over Zimbabwe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-the-big-test-facing-badenoch-after-her-conference-speech/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T13:41:31+00:00</news:publication_date>
+      <news:title>The big test facing Badenoch after her conference speech</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b626/live/2e2fc400-c25f-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>The big test facing Badenoch after her conference speech</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ice-came-to-town-and-left-behind-weakened-economies/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T12:24:32+00:00</news:publication_date>
+      <news:title>ICE came to town and left behind weakened economies</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108259877-1769815783573-gettyimages-2258528609-_sm14983.jpeg?v=1769815824&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>ICE came to town and left behind weakened economies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/france-halts-use-of-stun-grenades-after-boys-hand-blown-off-in-st/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T12:16:58+00:00</news:publication_date>
+      <news:title>France halts use of stun grenades after boy&#x27;s hand blown off in student protests</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b147/live/114ad2c0-c229-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>France halts use of stun grenades after boy&#x27;s hand blown off in student protests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/how-did-christa-pike-survive-two-lethal-injections/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T10:01:47+00:00</news:publication_date>
+      <news:title>How did Christa Pike survive two lethal injections</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/925e/live/9f0dd630-c237-11f1-be2f-0fbd447d6e43.jpg</image:loc>
+      <image:title>How did Christa Pike survive two lethal injections</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/oil-rises-as-concerns-over-houthi-attacks-on-saudi-arabia-eclipse/</loc>
     <news:news>
       <news:publication>
@@ -1215,246 +1425,6 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
       <image:title>Sahibzada Farhan replaces Salman Ali Agha as Pakistan&#x27;s T20I captain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/openai-will-start-watermarking-chatgpts-text-in-the-eu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T15:06:48+00:00</news:publication_date>
-      <news:title>OpenAI will start watermarking ChatGPT’s text in the EU</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1600,1067</image:loc>
-      <image:title>OpenAI will start watermarking ChatGPT’s text in the EU</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T15:00:00+00:00</news:publication_date>
-      <news:title>Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/ai-researcher-warns-we-are-racing-to-build-and-grow-our-own-adver/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T12:13:34+00:00</news:publication_date>
-      <news:title>AI researcher warns &#x27;we are racing to build and grow our own adversary&#x27; in NYC hearing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108372701-1791219189174-gettyimages-2298139326-ag_ai_nyc_22.jpeg?v=1791219333&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>AI researcher warns &#x27;we are racing to build and grow our own adversary&#x27; in NYC hearing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/satya-nadella-reinvented-microsoft-once-can-he-do-it-again-in-the/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T12:10:13+00:00</news:publication_date>
-      <news:title>Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108059228-1730928564453-gettyimages-2150291492-INDONESIA_MICROSOFT.jpeg?v=1741704639&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:59:22+00:00</news:publication_date>
-      <news:title>Hot Girl Hotline is like ‘Dear Abby’ for the AI era</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/hgh_web-1.png?resize=1600,1067</image:loc>
-      <image:title>Hot Girl Hotline is like ‘Dear Abby’ for the AI era</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/kings-funding-for-andrew-not-to-be-used-for-legal-action-against-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:48:21+00:00</news:publication_date>
-      <news:title>King&#x27;s funding for Andrew not to be used for legal action against police</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/eff9/live/03f28040-b5ce-11f0-9cad-cdb4b3aa1217.jpg</image:loc>
-      <image:title>King&#x27;s funding for Andrew not to be used for legal action against police</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/openai-pr-tells-journalist-to-move-on-while-asking-sam-altman-abo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:25:42+00:00</news:publication_date>
-      <news:title>OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&amp;#8217;s suicide</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&amp;#8217;s suicide</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/sam-altman-says-some-bad-things8217-will-happen-but-ai-is-totally/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:14:21+00:00</news:publication_date>
-      <news:title>Sam Altman says ‘some bad things&amp;#8217; will happen but AI is totally worth it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Sam Altman says ‘some bad things&amp;#8217; will happen but AI is totally worth it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-intervi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:13:35+00:00</news:publication_date>
-      <news:title>HackerRank’s AI interviewer offers a glimpse into what job interviews could become</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1600,1067</image:loc>
-      <image:title>HackerRank’s AI interviewer offers a glimpse into what job interviews could become</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/teenagers-hand-blown-off-during-confrontation-between-france-scho/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:02:18+00:00</news:publication_date>
-      <news:title>Teenager&#x27;s hand blown off during confrontation between France school protesters and police</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ca95/live/91853390-c0b7-11f1-9475-67b7bb314be1.jpg</image:loc>
-      <image:title>Teenager&#x27;s hand blown off during confrontation between France school protesters and police</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/no-10-insists-raf-fairford-is-safe-after-us-withdraws-bombers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T10:43:35+00:00</news:publication_date>
-      <news:title>No 10 insists RAF Fairford is safe after US withdraws bombers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2dfe/live/0e123b20-c0b7-11f1-babe-4199b0e7ccea.jpg</image:loc>
-      <image:title>No 10 insists RAF Fairford is safe after US withdraws bombers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/pentagon-stops-using-anthropic-ai-tools-after-blacklisting-compan/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T10:43:21+00:00</news:publication_date>
-      <news:title>Pentagon stops using Anthropic AI tools after blacklisting company, BBC told</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>Pentagon stops using Anthropic AI tools after blacklisting company, BBC told</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/nvidias-shield-tv-pro-just-got-a-100-price-hike/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T10:13:13+00:00</news:publication_date>
-      <news:title>Nvidia’s Shield TV Pro just got a $100 price hike</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shield.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Nvidia’s Shield TV Pro just got a $100 price hike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/zelensky-condemns-horrific-russian-strike-on-boat-carrying-corn-i/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T09:47:23+00:00</news:publication_date>
-      <news:title>Zelensky condemns &#x27;horrific&#x27; Russian strike on boat carrying corn in Black Sea</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/545c/live/9d4a7fd0-c0cd-11f1-a64c-550be9e3c66b.jpg</image:loc>
-      <image:title>Zelensky condemns &#x27;horrific&#x27; Russian strike on boat carrying corn in Black Sea</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/openai-launches-visual-ads-that-appear-alongside-image-generation/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T09:44:24+00:00</news:publication_date>
-      <news:title>OpenAI launches visual ads that appear alongside image generation results</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1600</image:loc>
-      <image:title>OpenAI launches visual ads that appear alongside image generation results</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydanc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T09:12:34+00:00</news:publication_date>
-      <news:title>CNN&amp;#8217;s boss will remain as Paramount and WBD merge into Skydance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2153092202.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>CNN&amp;#8217;s boss will remain as Paramount and WBD merge into Skydance</image:title>
     </image:image>
   </url>
 </urlset>
