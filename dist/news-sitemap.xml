@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/oil-rises-as-concerns-over-houthi-attacks-on-saudi-arabia-eclipse/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T05:29:30+00:00</news:publication_date>
+      <news:title>Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108359880-1788886357349-gettyimages-2293680927-AA_08092026_2943632.jpeg?v=1788886580&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/zhang-yimou-says-the-three-body-problem-script-is-still-being-pol/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T05:18:47+00:00</news:publication_date>
+      <news:title>Zhang Yimou Says ‘The Three-Body Problem’ Script Is Still Being Polished After Several Years: ‘It Is Very Difficult to Adapt’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2023/10/ZYM-at-TIFF-opening-GettyImages-1751748258-cr.jpg</image:loc>
+      <image:title>Zhang Yimou Says ‘The Three-Body Problem’ Script Is Still Being Polished After Several Years: ‘It Is Very Difficult to Adapt’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/michelle-yeoh-calls-blade-runner-2099-an-amazing-journey-rules-ou/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T05:03:06+00:00</news:publication_date>
+      <news:title>Michelle Yeoh Calls ‘Blade Runner 2099’ an ‘Amazing Journey,’ Rules Out Directing at Busan</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Michelle-Yeoh-Busan.jpg</image:loc>
+      <image:title>Michelle Yeoh Calls ‘Blade Runner 2099’ an ‘Amazing Journey,’ Rules Out Directing at Busan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/residents-of-kibbutz-destroyed-in-7-october-hamas-led-attacks-gra/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T05:02:18+00:00</news:publication_date>
+      <news:title>Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/e00e/live/bb88aa50-c1c5-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-set-to-talk-to-russias-putin-very-soon-about-plague-related/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T04:12:27+00:00</news:publication_date>
+      <news:title>Trump set to talk to Russia&#x27;s Putin &#x27;very soon&#x27; about plague-related death in Siberia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108373727-1791338314336-gettyimages-2298357193-TRUMP_ARRIVE_WH.jpeg?v=1791338327&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump set to talk to Russia&#x27;s Putin &#x27;very soon&#x27; about plague-related death in Siberia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/bartlett-to-push-his-test-case-vidler-close-to-white-ball-return/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T03:44:38+00:00</news:publication_date>
+      <news:title>Bartlett to push his Test case, Vidler close to white-ball return</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/409700/409720.png</image:loc>
+      <image:title>Bartlett to push his Test case, Vidler close to white-ball return</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/what-we-know-about-christa-pikes-unprecedented-recovery-after-fai/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T23:42:35+00:00</news:publication_date>
+      <news:title>What we know about Christa Pike’s ‘unprecedented&#x27; recovery after failed execution</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/33e9/live/999fc040-c1de-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>What we know about Christa Pike’s ‘unprecedented&#x27; recovery after failed execution</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/jack-white-slams-trump-as-worst-american-of-all-time-following-co/</loc>
     <news:news>
       <news:publication>
@@ -45,6 +150,21 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2025/10/JoshGoldstine.jpg</image:loc>
       <image:title>Josh Goldstine to Oversee Marketing and Distribution at Warner Bros., Paramount and All Skydance Film Labels (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/a-beautiful-himalayan-bird-is-changing-its-voice-due-to-human-act/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T23:07:44+00:00</news:publication_date>
+      <news:title>A beautiful Himalayan bird is changing its voice due to human activity, research shows</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/641f/live/0b408380-c075-11f1-aa5a-7b59b59b45bf.jpg</image:loc>
+      <image:title>A beautiful Himalayan bird is changing its voice due to human activity, research shows</image:title>
     </image:image>
   </url>
   <url>
@@ -123,6 +243,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/sebastian-maniscalcos-siriusxm-channel-is-hurting-up-and-coming-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T21:10:13+00:00</news:publication_date>
+      <news:title>Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2258553481.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T20:37:54+00:00</news:publication_date>
+      <news:title>Tesla&amp;#8217;s Model 3 and Model Y can be a backup battery for your house</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Powershare-Hero-Desktop-US-PR.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Tesla&amp;#8217;s Model 3 and Model Y can be a backup battery for your house</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/how-ai-decision-models-could-change-content-moderation/</loc>
     <news:news>
       <news:publication>
@@ -135,6 +285,51 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1600,1067</image:loc>
       <image:title>How AI decision models could change content moderation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T20:00:30+00:00</news:publication_date>
+      <news:title>AI computing startup Lambda to raise $4B ahead of planned IPO</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1600,1067</image:loc>
+      <image:title>AI computing startup Lambda to raise $4B ahead of planned IPO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T19:56:50+00:00</news:publication_date>
+      <news:title>The next hurdle for AI agents: getting websites to let them in</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1600,1067</image:loc>
+      <image:title>The next hurdle for AI agents: getting websites to let them in</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ex-us-spy-who-stashed-gold-bars-in-his-home-admits-to-200m-scam/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T19:53:45+00:00</news:publication_date>
+      <news:title>Ex-US spy who stashed gold bars in his home admits to $200m scam</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6d4e/live/b62d3360-c1ab-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Ex-US spy who stashed gold bars in his home admits to $200m scam</image:title>
     </image:image>
   </url>
   <url>
@@ -330,6 +525,21 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1600,1067</image:loc>
       <image:title>Mirror Particle is building a ‘world model’ of human behavior</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/mcsweeney-123-beardman-four-for-down-india-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T16:31:51+00:00</news:publication_date>
+      <news:title>McSweeney 123, Beardman four-for down India A</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423449.jpg</image:loc>
+      <image:title>McSweeney 123, Beardman four-for down India A</image:title>
     </image:image>
   </url>
   <url>
@@ -1365,396 +1575,6 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/NAZA-Fake.jpg</image:loc>
       <image:title>‘NAZA’ Rebuttal Doc Surfaces Online, Made by IDF Reserve Members</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/google-admits-not-every-android-app-runs-great-on-intel-googleboo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T05:28:22+00:00</news:publication_date>
-      <news:title>Google admits not every Android app runs great on Intel Googlebooks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Asus_Googlebook_14_ADiBenedetto_0006_0b94ab.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Google admits not every Android app runs great on Intel Googlebooks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/frances-canal-threatens-to-pull-11-billion-cinema-deal-over-frenc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T05:13:08+00:00</news:publication_date>
-      <news:title>France’s Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/07/200936.webp</image:loc>
-      <image:title>France’s Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-air-force-removes-all-bombers-from-british-military-base-raf-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T05:09:09+00:00</news:publication_date>
-      <news:title>US air force removes all bombers from British military base RAF Fairford</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg</image:loc>
-      <image:title>US air force removes all bombers from British military base RAF Fairford</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-removes-all-bombers-from-raf-fairford-base/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T05:09:09+00:00</news:publication_date>
-      <news:title>US removes all bombers from RAF Fairford base</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>US removes all bombers from RAF Fairford base</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/andrew-takes-legal-action-over-search-warrants-before-his-arrest/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T05:04:13+00:00</news:publication_date>
-      <news:title>Andrew takes legal action over search warrants before his arrest</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Andrew takes legal action over search warrants before his arrest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/the-2029-tipping-point-western-populations-are-about-to-start-shr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T05:00:01+00:00</news:publication_date>
-      <news:title>The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/china-shuts-hundreds-of-banks-as-beijing-moves-to-shore-up-its-fi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:50:38+00:00</news:publication_date>
-      <news:title>China shuts hundreds of banks as Beijing moves to shore up its financial system</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/107315141-1697028387928-gettyimages-1415687424-yuanybandera1.jpeg?v=1699958546&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>China shuts hundreds of banks as Beijing moves to shore up its financial system</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/spanish-pm-sánchez-calls-early-election-after-housing-protests/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:48:47+00:00</news:publication_date>
-      <news:title>Spanish PM Sánchez calls early election after housing protests</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Spanish PM Sánchez calls early election after housing protests</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/our-minds-arent-equipped-to-handle-ai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:30:00+00:00</news:publication_date>
-      <news:title>Our minds aren’t equipped to handle AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Our minds aren’t equipped to handle AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:29:14+00:00</news:publication_date>
-      <news:title>US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/rybakina-i-sabalenka-za-burtą-tak-teraz-wygląda-drabinka-świątek/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:10:00+00:00</news:publication_date>
-      <news:title>Rybakina i Sabalenka za burtą. Tak teraz wygląda drabinka Świątek</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Rybakina i Sabalenka za burtą. Tak teraz wygląda drabinka Świątek</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/saints-vs-falcons-our-staff-predictions-for-mondays-game-in-the-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:10:00+00:00</news:publication_date>
-      <news:title>Saints vs. Falcons: Our staff predictions for Monday’s game in the Dome</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Saints vs. Falcons: Our staff predictions for Monday’s game in the Dome</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/trying-to-provide-a-spark-wells-instead-runs-yanks-out-of-lone-sc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:10:00+00:00</news:publication_date>
-      <news:title>Trying to provide a spark, Wells instead runs Yanks out of lone scoring chance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Trying to provide a spark, Wells instead runs Yanks out of lone scoring chance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/multiple-security-failures-allowed-flydubai-pilot-into-cockpit-ws/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:07:30+00:00</news:publication_date>
-      <news:title>Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/andrew-mountbatten-windsor-taking-legal-action-against-police-ove/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T04:01:09+00:00</news:publication_date>
-      <news:title>Andrew Mountbatten-Windsor Taking Legal Action Against Police Over Search Warrants in Arrest</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/andrew.jpg</image:loc>
-      <image:title>Andrew Mountbatten-Windsor Taking Legal Action Against Police Over Search Warrants in Arrest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/my-happy-place-is-there-in-the-middle-raghuvanshi-is-back-after-l/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T03:47:12+00:00</news:publication_date>
-      <news:title>My happy place is there in the middle</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>My happy place is there in the middle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/gameday-spikes-at-thunder-probable-pitchers-lineups-and-more/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T03:40:00+00:00</news:publication_date>
-      <news:title>Gameday: Spikes at Thunder, Probable Pitchers, Lineups, and more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Gameday: Spikes at Thunder, Probable Pitchers, Lineups, and more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/michael-bracewell-shifts-to-casual-contract-with-eye-on-bbl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T03:28:19+00:00</news:publication_date>
-      <news:title>Michael Bracewell shifts to casual contract with eye on BBL</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Michael Bracewell shifts to casual contract with eye on BBL</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/exclusive-new-ai-czar-unveils-goals-members-of-white-house-task-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T03:00:00+00:00</news:publication_date>
-      <news:title>Exclusive | New AI Czar Unveils Goals, Members of White House Task Force</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Exclusive | New AI Czar Unveils Goals, Members of White House Task Force</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/rockstar-traveled-across-florida-with-gang-members-and-cops-for-g/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T02:59:00+00:00</news:publication_date>
-      <news:title>Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/president-donald-trump-announces-creation-of-super-intelligence-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T02:56:15+00:00</news:publication_date>
-      <news:title>President Donald Trump announces creation of &#x27;Super Intelligence Force&#x27; AI task force - ABC News - Breaking News, Latest News and Videos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>President Donald Trump announces creation of &#x27;Super Intelligence Force&#x27; AI task force - ABC News - Breaking News, Latest News and Videos</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/surging-treasury-yields-dont-signal-a-us-fiscal-apocalypse-yet/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T02:24:07+00:00</news:publication_date>
-      <news:title>Surging Treasury yields don’t signal a U.S. &#x27;fiscal apocalypse&#x27; — yet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Surging Treasury yields don’t signal a U.S. &#x27;fiscal apocalypse&#x27; — yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/india-and-west-indies-fined-for-slow-over-rates-in-third-odi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T02:21:18+00:00</news:publication_date>
-      <news:title>India and West Indies fined for slow over-rates in third ODI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423300/423354.jpg</image:loc>
-      <image:title>India and West Indies fined for slow over-rates in third ODI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/lanterns-season-1-finale-review-recap/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T02:00:00+00:00</news:publication_date>
-      <news:title>Lanterns Season 1 Finale Review &amp; Recap</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Lanterns Season 1 Finale Review &amp; Recap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/west-indies-add-amir-jangoo-as-cover-for-the-injured-jewel-andrew/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T01:07:33+00:00</news:publication_date>
-      <news:title>West Indies add Amir Jangoo as cover for the injured Jewel Andrew for India T20Is</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423100/423129.jpg</image:loc>
-      <image:title>West Indies add Amir Jangoo as cover for the injured Jewel Andrew for India T20Is</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-ref/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T23:48:07+00:00</news:publication_date>
-      <news:title>Mighty Mike Plays Dad Says He Owns &#x27;Like 12 Companies,&#x27; Promises Refunds for AI Shirts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&amp;h=900&amp;fit=crop</image:loc>
-      <image:title>Mighty Mike Plays Dad Says He Owns &#x27;Like 12 Companies,&#x27; Promises Refunds for AI Shirts</image:title>
     </image:image>
   </url>
 </urlset>

@@ -3,39 +3,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-06T23:43:06Z</lastmod>
+    <lastmod>2026-10-07T05:31:34Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-06T23:43:06Z</lastmod>
+    <lastmod>2026-10-07T05:31:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-06T23:43:06Z</lastmod>
+    <lastmod>2026-10-07T05:31:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-06T23:43:06Z</lastmod>
+    <lastmod>2026-10-07T05:31:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-06T23:43:06Z</lastmod>
+    <lastmod>2026-10-07T05:31:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-06T23:43:06Z</lastmod>
+    <lastmod>2026-10-07T05:31:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/oil-rises-as-concerns-over-houthi-attacks-on-saudi-arabia-eclipse/</loc>
+    <lastmod>2026-10-07T05:29:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108359880-1788886357349-gettyimages-2293680927-AA_08092026_2943632.jpeg?v=1788886580&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/zhang-yimou-says-the-three-body-problem-script-is-still-being-pol/</loc>
+    <lastmod>2026-10-07T05:18:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2023/10/ZYM-at-TIFF-opening-GettyImages-1751748258-cr.jpg</image:loc>
+      <image:title>Zhang Yimou Says ‘The Three-Body Problem’ Script Is Still Being Polished After Several Years: ‘It Is Very Difficult to Adapt’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/michelle-yeoh-calls-blade-runner-2099-an-amazing-journey-rules-ou/</loc>
+    <lastmod>2026-10-07T05:03:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Michelle-Yeoh-Busan.jpg</image:loc>
+      <image:title>Michelle Yeoh Calls ‘Blade Runner 2099’ an ‘Amazing Journey,’ Rules Out Directing at Busan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/residents-of-kibbutz-destroyed-in-7-october-hamas-led-attacks-gra/</loc>
+    <lastmod>2026-10-07T05:02:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/e00e/live/bb88aa50-c1c5-11f1-babe-4199b0e7ccea.jpg</image:loc>
+      <image:title>Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-set-to-talk-to-russias-putin-very-soon-about-plague-related/</loc>
+    <lastmod>2026-10-07T04:12:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108373727-1791338314336-gettyimages-2298357193-TRUMP_ARRIVE_WH.jpeg?v=1791338327&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump set to talk to Russia&#x27;s Putin &#x27;very soon&#x27; about plague-related death in Siberia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/bartlett-to-push-his-test-case-vidler-close-to-white-ball-return/</loc>
+    <lastmod>2026-10-07T03:44:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/409700/409720.png</image:loc>
+      <image:title>Bartlett to push his Test case, Vidler close to white-ball return</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/what-we-know-about-christa-pikes-unprecedented-recovery-after-fai/</loc>
+    <lastmod>2026-10-06T23:42:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/33e9/live/999fc040-c1de-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>What we know about Christa Pike’s ‘unprecedented&#x27; recovery after failed execution</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/stories/jack-white-slams-trump-as-worst-american-of-all-time-following-co/</loc>
@@ -65,6 +135,16 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2025/10/JoshGoldstine.jpg</image:loc>
       <image:title>Josh Goldstine to Oversee Marketing and Distribution at Warner Bros., Paramount and All Skydance Film Labels (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/a-beautiful-himalayan-bird-is-changing-its-voice-due-to-human-act/</loc>
+    <lastmod>2026-10-06T23:07:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/641f/live/0b408380-c075-11f1-aa5a-7b59b59b45bf.jpg</image:loc>
+      <image:title>A beautiful Himalayan bird is changing its voice due to human activity, research shows</image:title>
     </image:image>
   </url>
   <url>
@@ -118,6 +198,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/sebastian-maniscalcos-siriusxm-channel-is-hurting-up-and-coming-t/</loc>
+    <lastmod>2026-10-06T21:10:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2258553481.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-h/</loc>
+    <lastmod>2026-10-06T20:37:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Powershare-Hero-Desktop-US-PR.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Tesla&amp;#8217;s Model 3 and Model Y can be a backup battery for your house</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/how-ai-decision-models-could-change-content-moderation/</loc>
     <lastmod>2026-10-06T20:35:20+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -125,6 +225,36 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1600,1067</image:loc>
       <image:title>How AI decision models could change content moderation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</loc>
+    <lastmod>2026-10-06T20:00:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1600,1067</image:loc>
+      <image:title>AI computing startup Lambda to raise $4B ahead of planned IPO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</loc>
+    <lastmod>2026-10-06T19:56:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1600,1067</image:loc>
+      <image:title>The next hurdle for AI agents: getting websites to let them in</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/ex-us-spy-who-stashed-gold-bars-in-his-home-admits-to-200m-scam/</loc>
+    <lastmod>2026-10-06T19:53:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6d4e/live/b62d3360-c1ab-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Ex-US spy who stashed gold bars in his home admits to $200m scam</image:title>
     </image:image>
   </url>
   <url>
@@ -255,6 +385,16 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1600,1067</image:loc>
       <image:title>Mirror Particle is building a ‘world model’ of human behavior</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/mcsweeney-123-beardman-four-for-down-india-a/</loc>
+    <lastmod>2026-10-06T16:31:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423449.jpg</image:loc>
+      <image:title>McSweeney 123, Beardman four-for down India A</image:title>
     </image:image>
   </url>
   <url>
