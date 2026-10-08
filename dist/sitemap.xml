@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-08T05:39:53Z</lastmod>
+    <lastmod>2026-10-08T15:28:38Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-08T05:39:53Z</lastmod>
+    <lastmod>2026-10-08T15:28:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-08T05:39:53Z</lastmod>
+    <lastmod>2026-10-08T15:28:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-08T05:39:53Z</lastmod>
+    <lastmod>2026-10-08T15:28:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-08T05:39:53Z</lastmod>
+    <lastmod>2026-10-08T15:28:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-08T05:39:53Z</lastmod>
+    <lastmod>2026-10-08T15:28:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/googles-ai-note-taking-app-transcribes-your-meetings-completely-o/</loc>
+    <lastmod>2026-10-08T15:27:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Google’s AI note-taking app transcribes your meetings completely offline</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/la-bola-negra-to-receive-gotham-vanguard-tribute-at-gotham-film-a/</loc>
+    <lastmod>2026-10-08T15:27:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/LA-BOLA-NEGRA-BTL-Still-82-1000.jpg</image:loc>
+      <image:title>‘La Bola Negra’ to Receive Gotham Vanguard Tribute at Gotham Film Awards (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/two-latvian-men-arrested-on-suspicion-of-trespass-at-raf-base-in-/</loc>
+    <lastmod>2026-10-08T15:25:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png</image:loc>
+      <image:title>Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/kotak-bhuvneshwar-probably-recalled-to-add-experience-in-bumrahs-/</loc>
+    <lastmod>2026-10-08T15:25:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/342200/342226.jpg</image:loc>
+      <image:title>Kotak: Bhuvneshwar probably recalled to add experience in Bumrah&#x27;s absence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/us-suspends-microsoft-adobe-from-green-card-labor-program-in-fore/</loc>
+    <lastmod>2026-10-08T15:24:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108377025-17914705752026-10-08t143311z_959347769_rc22znalidnp_rtrmadp_0_usa-vance.jpeg?v=1791473275&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>U.S. suspends Microsoft, Adobe from green-card labor program in foreign worker crackdown</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/why-you-can-see-everything-everything-could-make-oscars-history-a/</loc>
+    <lastmod>2026-10-08T15:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/You-Can-See-Everything-1.jpg</image:loc>
+      <image:title>Why ‘You Can See Everything Everything’ Could Make Oscars History as First Doc Nominated for Best Picture</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/उसमन-खवज-क-आतमकथ-सबर-पर-कमस-सड-पपरगट-स-टम-आग-बढ-चक-ह/</loc>
+    <lastmod>2026-10-08T15:14:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/373000/373033.jpg</image:loc>
+      <image:title>उस्मान ख़्वाजा की आत्मकथा &#x27;सब्र&#x27; पर कमिंस: सैंड पेपरगेट से टीम आगे बढ़ चुकी है</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/christa-pike-now-walking-after-failed-us-execution-lawyer-tells-b/</loc>
+    <lastmod>2026-10-08T15:02:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/afaf/live/3e4f37a0-c2ee-11f1-89a3-9b445bfcfe23.jpg</image:loc>
+      <image:title>Christa Pike now walking after failed US execution, lawyer tells BBC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-/</loc>
+    <lastmod>2026-10-08T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1600,1067</image:loc>
+      <image:title>Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/gta-vi-will-have-in-game-podcasts-and-at-least-six-radio-stations/</loc>
+    <lastmod>2026-10-08T14:52:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-3.29.45-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>GTA VI will have in-game podcasts and at least six radio stations</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/police-accept-andrew-mountbatten-windsor-search-warrants-were-unl/</loc>
+    <lastmod>2026-10-08T14:47:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6fbb/live/79288160-c325-11f1-9981-cf94ea240e40.jpg</image:loc>
+      <image:title>Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door-for-y/</loc>
+    <lastmod>2026-10-08T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/02/TCD26_5Days-16X9-Dark.png?resize=1600,1067</image:loc>
+      <image:title>5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/inflation-on-many-everyday-items-was-entirely-due-to-tariffs-ny-f/</loc>
+    <lastmod>2026-10-08T13:28:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108138159-1745946378116-gettyimages-2207589702-AFP_38VT4KD.jpeg?v=1783025629&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Inflation on many everyday items was entirely due to tariffs, NY Fed says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/russian-strike-on-buses-kills-at-least-30-say-officials-as-deadly/</loc>
+    <lastmod>2026-10-08T12:43:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg</image:loc>
+      <image:title>Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/stories/america-shut-out-chinese-evs-britain-welcomed-them-and-now-faces-/</loc>
