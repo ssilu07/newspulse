@@ -3,6 +3,216 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newspulse-daily.vercel.app/stories/nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-revenu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T21:07:04+00:00</news:publication_date>
+      <news:title>Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/david-zaslav-gets-606-million-payout-from-paramount-warner-bros-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T21:04:53+00:00</news:publication_date>
+      <news:title>David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/08/David-Zaslav.jpg</image:loc>
+      <image:title>David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T21:01:18+00:00</news:publication_date>
+      <news:title>AMD will bring FSR 4 to handhelds by the end of 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>AMD will bring FSR 4 to handhelds by the end of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/burnham-calls-on-polanski-to-reverse-green-partys-zionism-motion/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T21:00:16+00:00</news:publication_date>
+      <news:title>Burnham calls on Polanski to reverse Green Party&#x27;s Zionism motion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2a3b/live/5d8fb500-c338-11f1-9981-cf94ea240e40.jpg</image:loc>
+      <image:title>Burnham calls on Polanski to reverse Green Party&#x27;s Zionism motion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-de/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T21:00:00+00:00</news:publication_date>
+      <news:title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1600,1067</image:loc>
+      <image:title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/crazy-rich-asians-hbo-series-sets-cast-constance-wu-henry-golding/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T21:00:00+00:00</news:publication_date>
+      <news:title>‘Crazy Rich Asians’ HBO Series Sets Cast: Constance Wu, Henry Golding, Michelle Yeoh, Ronny Chieng Returning</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2019/10/crazy-rich-asians.jpg</image:loc>
+      <image:title>‘Crazy Rich Asians’ HBO Series Sets Cast: Constance Wu, Henry Golding, Michelle Yeoh, Ronny Chieng Returning</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/apple-will-reportedly-debut-its-first-touchscreen-macbook-in-thre/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T20:32:21+00:00</news:publication_date>
+      <news:title>Apple will reportedly debut its first touchscreen MacBook in three weeks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268395_Apple_MacBook_Pro_16_M5_Max_ADiBenedetto_0005.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple will reportedly debut its first touchscreen MacBook in three weeks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/treasury-yields-are-really-really-high-but-can-come-down-soon-bes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T20:06:31+00:00</news:publication_date>
+      <news:title>Treasury yields are &#x27;really, really high&#x27; but can come down soon, Bessent&#x27;s new advisor says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Treasury yields are &#x27;really, really high&#x27; but can come down soon, Bessent&#x27;s new advisor says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T20:04:26+00:00</news:publication_date>
+      <news:title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1600,1067</image:loc>
+      <image:title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/protesters-blame-vulture-funds-for-spains-housing-crisis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T19:10:06+00:00</news:publication_date>
+      <news:title>Protesters blame &#x27;vulture funds&#x27; for Spain&#x27;s housing crisis</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6230/live/587d61f0-c353-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Protesters blame &#x27;vulture funds&#x27; for Spain&#x27;s housing crisis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/experimental-pakistan-host-transitional-sri-lanka-in-rare-home-t2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T18:21:21+00:00</news:publication_date>
+      <news:title>Experimental Pakistan host transitional Sri Lanka in rare home T20Is this season</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423300/423341.jpg</image:loc>
+      <image:title>Experimental Pakistan host transitional Sri Lanka in rare home T20Is this season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/venezuelas-ex-leader-nicolás-maduro-charged-with-conspiracy-to-co/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T17:38:59+00:00</news:publication_date>
+      <news:title>Venezuela&#x27;s ex-leader Nicolás Maduro charged with conspiracy to commit torture</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg</image:loc>
+      <image:title>Venezuela&#x27;s ex-leader Nicolás Maduro charged with conspiracy to commit torture</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/connolly-or-maddinson-australia-keep-their-cards-close-to-the-che/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T17:29:51+00:00</news:publication_date>
+      <news:title>Connolly or Maddinson? Australia keep their cards close to the chest</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422500/422596.jpg</image:loc>
+      <image:title>Connolly or Maddinson? Australia keep their cards close to the chest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-what-does-the-ruling-mean-for-the-investigation-into-the-fo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsPulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T17:26:49+00:00</news:publication_date>
+      <news:title>What does the ruling mean for the investigation into the former prince?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/660d/live/017d4a60-c334-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>What does the ruling mean for the investigation into the former prince?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newspulse-daily.vercel.app/stories/googles-ai-note-taking-app-transcribes-your-meetings-completely-o/</loc>
     <news:news>
       <news:publication>
@@ -1080,351 +1290,6 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Trump hedges on paying back government for ads that already aired</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/sebastian-maniscalcos-siriusxm-channel-is-hurting-up-and-coming-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T21:10:13+00:00</news:publication_date>
-      <news:title>Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2258553481.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-h/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T20:37:54+00:00</news:publication_date>
-      <news:title>Tesla&amp;#8217;s Model 3 and Model Y can be a backup battery for your house</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Powershare-Hero-Desktop-US-PR.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Tesla&amp;#8217;s Model 3 and Model Y can be a backup battery for your house</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/how-ai-decision-models-could-change-content-moderation/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T20:35:20+00:00</news:publication_date>
-      <news:title>How AI decision models could change content moderation</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1600,1067</image:loc>
-      <image:title>How AI decision models could change content moderation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T20:00:30+00:00</news:publication_date>
-      <news:title>AI computing startup Lambda to raise $4B ahead of planned IPO</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1600,1067</image:loc>
-      <image:title>AI computing startup Lambda to raise $4B ahead of planned IPO</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T19:56:50+00:00</news:publication_date>
-      <news:title>The next hurdle for AI agents: getting websites to let them in</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1600,1067</image:loc>
-      <image:title>The next hurdle for AI agents: getting websites to let them in</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/ex-us-spy-who-stashed-gold-bars-in-his-home-admits-to-200m-scam/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T19:53:45+00:00</news:publication_date>
-      <news:title>Ex-US spy who stashed gold bars in his home admits to $200m scam</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6d4e/live/b62d3360-c1ab-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>Ex-US spy who stashed gold bars in his home admits to $200m scam</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/three-arrested-after-raid-on-gang-accused-of-helping-migrants-pre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T19:25:08+00:00</news:publication_date>
-      <news:title>Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b3e2/live/b7bad510-c1a7-11f1-8fa2-19a1e9b6288f.jpg</image:loc>
-      <image:title>Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/watch-police-raid-on-gang-behind-fake-gay-asylum-claims/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T19:01:17+00:00</news:publication_date>
-      <news:title>Police raid on gang behind fake gay asylum claims</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6537/live/72c8e360-c1b7-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>Police raid on gang behind fake gay asylum claims</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/anthropic-expands-claude-startups-program-in-bid-to-snag-founders/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T18:06:40+00:00</news:publication_date>
-      <news:title>Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108349279-1786641474597-gettyimages-2283915428-TFSPI_03072026-6044.jpeg?v=1789409239&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/tear-gas-in-paris-and-marseille-as-school-protests-grow-across-fr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T18:03:19+00:00</news:publication_date>
-      <news:title>Tear gas in Paris and Marseille as school protests grow across France</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg</image:loc>
-      <image:title>Tear gas in Paris and Marseille as school protests grow across France</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/busta-rhymes-breaks-down-dillagence-ii-album-and-writing-to-j-dil/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T17:53:04+00:00</news:publication_date>
-      <news:title>Busta Rhymes Breaks Down ‘Dillagence II’ Album and Writing to J Dilla Beats in Grammy Museum Q&amp;A With Anderson .Paak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2283657018.jpg</image:loc>
-      <image:title>Busta Rhymes Breaks Down ‘Dillagence II’ Album and Writing to J Dilla Beats in Grammy Museum Q&amp;A With Anderson .Paak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/netflix-expands-tv-game-lineup-with-conjuring-spinoff/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T17:43:59+00:00</news:publication_date>
-      <news:title>Netflix expands TV game lineup with Conjuring spinoff</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_11597.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Netflix expands TV game lineup with Conjuring spinoff</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/crunchyrolls-inaugural-anime-future-forum-hopes-to-connect-fans-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T17:36:47+00:00</news:publication_date>
-      <news:title>Crunchyroll’s Inaugural Anime Future Forum Hopes to Connect Fans and Creators</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2025/08/Crunchyroll-Logo.png</image:loc>
-      <image:title>Crunchyroll’s Inaugural Anime Future Forum Hopes to Connect Fans and Creators</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/shreyas-iyers-maiden-ton-hands-india-crushing-win/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T17:36:23+00:00</news:publication_date>
-      <news:title>Shreyas Iyer&#x27;s maiden ton hands India crushing win</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423471.jpg</image:loc>
-      <image:title>Shreyas Iyer&#x27;s maiden ton hands India crushing win</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/apple-tvs-great-year-continues-with-small-prophets/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T17:15:16+00:00</news:publication_date>
-      <news:title>Apple TV’s great year continues with Small Prophets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Small_Prophets_Photo_010203.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Apple TV’s great year continues with Small Prophets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/prasad-kalita-and-nandani-the-new-faces-in-mandhana-led-white-bal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T17:03:28+00:00</news:publication_date>
-      <news:title>Prasad, Kalita and Nandani the new faces in Mandhana-led white-ball sides</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/394700/394778.jpg</image:loc>
-      <image:title>Prasad, Kalita and Nandani the new faces in Mandhana-led white-ball sides</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/rahul-and-jaiswal-in-india-a-squad-for-red-ball-matches-in-new-ze/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T16:49:52+00:00</news:publication_date>
-      <news:title>Rahul and Jaiswal in India A squad for red-ball matches in New Zealand</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/409600/409678.jpg</image:loc>
-      <image:title>Rahul and Jaiswal in India A squad for red-ball matches in New Zealand</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/india-recall-bhuvneshwar-kumar-for-new-zealand-t20is/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T16:49:33+00:00</news:publication_date>
-      <news:title>India recall Bhuvneshwar Kumar for New Zealand T20Is</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/416800/416840.jpg</image:loc>
-      <image:title>India recall Bhuvneshwar Kumar for New Zealand T20Is</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/mirror-particle-is-building-a-world-model-of-human-behavior/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T16:35:00+00:00</news:publication_date>
-      <news:title>Mirror Particle is building a ‘world model’ of human behavior</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1600,1067</image:loc>
-      <image:title>Mirror Particle is building a ‘world model’ of human behavior</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/mcsweeney-123-beardman-four-for-down-india-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T16:31:51+00:00</news:publication_date>
-      <news:title>McSweeney 123, Beardman four-for down India A</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423400/423449.jpg</image:loc>
-      <image:title>McSweeney 123, Beardman four-for down India A</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/white-house-defends-trump-comment-to-let-iran-take-out-la-and-san/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T16:22:37+00:00</news:publication_date>
-      <news:title>White House defends Trump comment to let Iran &#x27;take out&#x27; LA and San Diego</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg</image:loc>
-      <image:title>White House defends Trump comment to let Iran &#x27;take out&#x27; LA and San Diego</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/anthropic-is-giving-startups-a-free-year-of-claude-team-and-1000-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T16:00:00+00:00</news:publication_date>
-      <news:title>Anthropic is giving startups a free year of Claude Team and $1,000 in credits</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1600</image:loc>
-      <image:title>Anthropic is giving startups a free year of Claude Team and $1,000 in credits</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newspulse-daily.vercel.app/stories/trade-deficit-hits-1056-billion-widest-since-just-before-trump-ta/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsPulse</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T15:52:22+00:00</news:publication_date>
-      <news:title>Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108354862-1787782636413-gettyimages-2291629463-1568136-port-of-long-beach-ajs-07.jpeg?v=1787782727&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year</image:title>
     </image:image>
   </url>
 </urlset>

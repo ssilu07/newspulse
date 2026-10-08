@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-08T15:28:38Z</lastmod>
+    <lastmod>2026-10-08T21:13:50Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-08T15:28:38Z</lastmod>
+    <lastmod>2026-10-08T21:13:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-08T15:28:38Z</lastmod>
+    <lastmod>2026-10-08T21:13:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-08T15:28:38Z</lastmod>
+    <lastmod>2026-10-08T21:13:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-08T15:28:38Z</lastmod>
+    <lastmod>2026-10-08T21:13:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-08T15:28:38Z</lastmod>
+    <lastmod>2026-10-08T21:13:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-revenu/</loc>
+    <lastmod>2026-10-08T21:07:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/david-zaslav-gets-606-million-payout-from-paramount-warner-bros-m/</loc>
+    <lastmod>2026-10-08T21:04:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/08/David-Zaslav.jpg</image:loc>
+      <image:title>David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026/</loc>
+    <lastmod>2026-10-08T21:01:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>AMD will bring FSR 4 to handhelds by the end of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/burnham-calls-on-polanski-to-reverse-green-partys-zionism-motion/</loc>
+    <lastmod>2026-10-08T21:00:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2a3b/live/5d8fb500-c338-11f1-9981-cf94ea240e40.jpg</image:loc>
+      <image:title>Burnham calls on Polanski to reverse Green Party&#x27;s Zionism motion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-de/</loc>
+    <lastmod>2026-10-08T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1600,1067</image:loc>
+      <image:title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/crazy-rich-asians-hbo-series-sets-cast-constance-wu-henry-golding/</loc>
+    <lastmod>2026-10-08T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2019/10/crazy-rich-asians.jpg</image:loc>
+      <image:title>‘Crazy Rich Asians’ HBO Series Sets Cast: Constance Wu, Henry Golding, Michelle Yeoh, Ronny Chieng Returning</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/apple-will-reportedly-debut-its-first-touchscreen-macbook-in-thre/</loc>
+    <lastmod>2026-10-08T20:32:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268395_Apple_MacBook_Pro_16_M5_Max_ADiBenedetto_0005.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple will reportedly debut its first touchscreen MacBook in three weeks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/treasury-yields-are-really-really-high-but-can-come-down-soon-bes/</loc>
+    <lastmod>2026-10-08T20:06:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Treasury yields are &#x27;really, really high&#x27; but can come down soon, Bessent&#x27;s new advisor says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of/</loc>
+    <lastmod>2026-10-08T20:04:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1600,1067</image:loc>
+      <image:title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/protesters-blame-vulture-funds-for-spains-housing-crisis/</loc>
+    <lastmod>2026-10-08T19:10:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6230/live/587d61f0-c353-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Protesters blame &#x27;vulture funds&#x27; for Spain&#x27;s housing crisis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/experimental-pakistan-host-transitional-sri-lanka-in-rare-home-t2/</loc>
+    <lastmod>2026-10-08T18:21:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423300/423341.jpg</image:loc>
+      <image:title>Experimental Pakistan host transitional Sri Lanka in rare home T20Is this season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/venezuelas-ex-leader-nicolás-maduro-charged-with-conspiracy-to-co/</loc>
+    <lastmod>2026-10-08T17:38:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg</image:loc>
+      <image:title>Venezuela&#x27;s ex-leader Nicolás Maduro charged with conspiracy to commit torture</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/connolly-or-maddinson-australia-keep-their-cards-close-to-the-che/</loc>
+    <lastmod>2026-10-08T17:29:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422500/422596.jpg</image:loc>
+      <image:title>Connolly or Maddinson? Australia keep their cards close to the chest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/watch-what-does-the-ruling-mean-for-the-investigation-into-the-fo/</loc>
+    <lastmod>2026-10-08T17:26:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/660d/live/017d4a60-c334-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>What does the ruling mean for the investigation into the former prince?</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/stories/googles-ai-note-taking-app-transcribes-your-meetings-completely-o/</loc>
