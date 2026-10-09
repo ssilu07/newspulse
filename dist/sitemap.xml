@@ -3,39 +3,169 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newspulse-daily.vercel.app/</loc>
-    <lastmod>2026-10-09T05:44:26Z</lastmod>
+    <lastmod>2026-10-09T15:11:16Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/about/</loc>
-    <lastmod>2026-10-09T05:44:26Z</lastmod>
+    <lastmod>2026-10-09T15:11:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/editorial-policy/</loc>
-    <lastmod>2026-10-09T05:44:26Z</lastmod>
+    <lastmod>2026-10-09T15:11:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/privacy/</loc>
-    <lastmod>2026-10-09T05:44:26Z</lastmod>
+    <lastmod>2026-10-09T15:11:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/terms/</loc>
-    <lastmod>2026-10-09T05:44:26Z</lastmod>
+    <lastmod>2026-10-09T15:11:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/contact/</loc>
-    <lastmod>2026-10-09T05:44:26Z</lastmod>
+    <lastmod>2026-10-09T15:11:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/the-ai-is-in-the-computer/</loc>
+    <lastmod>2026-10-09T15:10:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_100926_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>The AI is in the computer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/bill-owens-and-wendy-mcmahon-on-why-they-left-cbs-news-the-match-/</loc>
+    <lastmod>2026-10-09T15:10:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/split-2-split-1000x667-10.jpg</image:loc>
+      <image:title>Bill Owens and Wendy McMahon on Why They Left CBS News: ‘The Match Was Fixed’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/classic-moments-with-dolly-parton-remembered-by-the-actors-portra/</loc>
+    <lastmod>2026-10-09T15:05:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/08/Dolly-Parton.jpg</image:loc>
+      <image:title>Classic Moments With Dolly Parton, Remembered by the Actors Portraying Her in the Broadway Musical, ‘A True Original’: ‘I’m Jezebel, and God Loves Me Anyway!’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/australia-struggle-as-nortje-and-jansen-make-their-mark/</loc>
+    <lastmod>2026-10-09T14:50:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423547.jpg</image:loc>
+      <image:title>Australia struggle as Nortje and Jansen make their mark</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/americans-debt-problems-are-flashing-a-warning-not-seen-since-the/</loc>
+    <lastmod>2026-10-09T14:30:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108334692-1784035346683-gettyimages-2280676197-US-VIRGINIA-ARLINGTON-CPI-MAY-RISE.jpeg?v=1784046329&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Americans&#x27; debt problems are flashing a warning not seen since the Great Recession</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trump-appoints-committee-to-investigate-statements-by-the-feds-li/</loc>
+    <lastmod>2026-10-09T14:29:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108280427-1786124614115-108280427-1773939285477-gettyimages-2267401098-kd1_7891_8uve28ro.jpeg?v=1786124639&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump appoints committee to investigate statements by the Fed&#x27;s Lisa Cook</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/trumps-attempt-to-rename-ai-is-looking-awfully-artificial/</loc>
+    <lastmod>2026-10-09T14:25:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Trump’s attempt to rename AI is looking awfully artificial</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/afghanistan-fast-bowlers-hit-back-after-bangladeshs-strong-start/</loc>
+    <lastmod>2026-10-09T14:20:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423548.jpg</image:loc>
+      <image:title>Afghanistan fast bowlers hit back after Bangladesh&#x27;s strong start</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/navi-pillay-former-un-human-rights-chief-wins-nobel-peace-prize/</loc>
+    <lastmod>2026-10-09T14:00:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg</image:loc>
+      <image:title>Navi Pillay, former UN human rights chief, wins Nobel Peace Prize</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-saving/</loc>
+    <lastmod>2026-10-09T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/02/TCD26_4Days-16X9-Dark.png?resize=1600,1067</image:loc>
+      <image:title>TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/polanski-vows-to-stay-on-as-green-leader-as-he-faces-criticism-af/</loc>
+    <lastmod>2026-10-09T13:59:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/f10d/live/a324f3e0-c3de-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Polanski vows to stay on as Green leader as he faces criticism after by-election defeat</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/king-pays-andrews-15m-repair-bill-on-royal-lodge/</loc>
+    <lastmod>2026-10-09T12:29:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg</image:loc>
+      <image:title>King pays Andrew&#x27;s £1.5m repair bill on Royal Lodge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/fort-hood-survivor-supports-gunmans-execution-by-firing-squad-but/</loc>
+    <lastmod>2026-10-09T09:43:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b6ac/live/ea298500-c3e6-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Fort Hood survivor supports gunman&#x27;s execution by firing squad but questions livestream</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newspulse-daily.vercel.app/stories/factionalism-leaves-arunachal-in-danger-of-forfeiting-ranji-seaso/</loc>
@@ -285,6 +415,16 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1600,1067</image:loc>
       <image:title>Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newspulse-daily.vercel.app/stories/openais-revenue-is-reportedly-20-billion-less-than-previously-pro/</loc>
+    <lastmod>2026-10-08T18:19:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1600,1067</image:loc>
+      <image:title>OpenAI’s revenue is reportedly $20 billion less than previously projected</image:title>
     </image:image>
   </url>
   <url>
