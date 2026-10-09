@@ -17,21 +17,21 @@ STATIC_DIR = BASE_DIR / "static"
 TEMPLATES_DIR = BASE_DIR / "templates"
 
 # Site Identity & Branding
-SITE_NAME = os.getenv("SITE_NAME", "NewsPulse")
-SITE_TAGLINE = os.getenv("SITE_TAGLINE", "Bite-Sized Breaking News & Visual Stories")
+SITE_NAME = os.getenv("SITE_NAME", "News Seconds")
+SITE_TAGLINE = os.getenv("SITE_TAGLINE", "Bite-Sized Breaking News & Visual Stories in Seconds")
 SITE_DESCRIPTION = os.getenv(
     "SITE_DESCRIPTION",
     "Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI."
 )
-SITE_URL = os.getenv("SITE_URL", "https://newspulse-daily.vercel.app").rstrip("/")
+SITE_URL = os.getenv("SITE_URL", "https://newsseconds.com").rstrip("/")
 SITE_LOCALE = "en_US"
 SITE_LANGUAGE = "en"
 
 # Publisher Details for Schema & Compliance
-PUBLISHER_NAME = os.getenv("PUBLISHER_NAME", "NewsPulse Media Network")
+PUBLISHER_NAME = os.getenv("PUBLISHER_NAME", "News Seconds Media Network")
 PUBLISHER_LOGO = f"{SITE_URL}/static/assets/logo.png"
-EDITORIAL_EMAIL = os.getenv("EDITORIAL_EMAIL", "editorial@newspulse.media")
-DMCA_EMAIL = os.getenv("DMCA_EMAIL", "dmca@newspulse.media")
+EDITORIAL_EMAIL = os.getenv("EDITORIAL_EMAIL", "editorial@newsseconds.com")
+DMCA_EMAIL = os.getenv("DMCA_EMAIL", "dmca@newsseconds.com")
 CONTACT_ADDRESS = os.getenv("CONTACT_ADDRESS", "548 Market St, Suite 72401, San Francisco, CA 94104")
 
 # Gemini AI Settings

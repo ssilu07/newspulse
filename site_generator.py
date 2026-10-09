@@ -158,7 +158,7 @@ def render_homepage_html(articles: list) -> str:
         h_cat_color = hero_art.get("category_color", "#ef4444")
         h_title = escape(hero_art.get("title", ""))
         h_summary = escape(hero_art.get("summary", ""))
-        h_source = escape(hero_art.get("source", "NewsPulse"))
+        h_source = escape(hero_art.get("source", config.SITE_NAME))
         h_time_ago = escape(hero_art.get("time_ago", "Just now"))
         h_image = escape(hero_art.get("image_url", ""))
         h_orig_url = escape(hero_art.get("original_url", "#"))
@@ -239,7 +239,7 @@ def render_homepage_html(articles: list) -> str:
         cat_color = art.get("category_color", "#3b82f6")
         title = escape(art.get("title", ""))
         summary = escape(art.get("summary", ""))
-        source = escape(art.get("source", "NewsPulse"))
+        source = escape(art.get("source", config.SITE_NAME))
         time_ago = escape(art.get("time_ago", "Recently"))
         image = escape(art.get("image_url", ""))
         orig_url = escape(art.get("original_url", "#"))
@@ -304,8 +304,8 @@ def render_homepage_html(articles: list) -> str:
         },
         "description": config.SITE_DESCRIPTION,
         "sameAs": [
-            "https://twitter.com/NewsPulse",
-            "https://facebook.com/NewsPulse"
+            "https://twitter.com/NewsSeconds",
+            "https://facebook.com/NewsSeconds"
         ]
     }
 
@@ -454,9 +454,9 @@ def generate_compliance_pages(dist_dir: Path):
     """
     pages = {
         "about": {
-            "title": "About NewsPulse & Editorial Mission",
+            "title": f"About {config.SITE_NAME} & Editorial Mission",
             "badge": "Transparency & Standards",
-            "description": "Learn about NewsPulse's mission, our transparent AI editorial pipeline, and commitment to fast factual news reporting.",
+            "description": f"Learn about {config.SITE_NAME}'s mission, our transparent AI editorial pipeline, and commitment to fast factual news reporting.",
             "content": f"""
               <p>Welcome to <strong>{config.SITE_NAME}</strong>, a next-generation news and visual storytelling portal created to deliver factual, fast, 60-word summaries and immersive Google AMP Web Stories for modern mobile readers.</p>
               
@@ -566,7 +566,7 @@ def generate_compliance_pages(dist_dir: Path):
         "contact": {
             "title": "Contact Editorial Desk & DMCA",
             "badge": "Direct Inquiries",
-            "description": "Reach out to the NewsPulse editorial team, report breaking news tips, or contact our legal and DMCA desk.",
+            "description": f"Reach out to the {config.SITE_NAME} editorial team, report breaking news tips, or contact our legal and DMCA desk.",
             "content": f"""
               <p>We welcome tips, feedback, partnership inquiries, and correction notifications. Please use the appropriate channels below to reach our team.</p>
 

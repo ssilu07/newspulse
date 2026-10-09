@@ -244,7 +244,7 @@ def generate_amp_story_html(article: dict) -> str:
             cta_markup = f"""
       <amp-story-cta-layer>
         <div class="cta-mini-box">
-          <a href="{home_url}" class="cta-exit-pill" aria-label="Exit to NewsPulse Home">&#10005; Home</a>
+          <a href="{home_url}" class="cta-exit-pill" aria-label="Exit to {config.SITE_NAME} Home">&#10005; Home</a>
         </div>
       </amp-story-cta-layer>"""
 
