@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-09T16:40:13Z</lastmod>
+    <lastmod>2026-10-09T20:44:24Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-09T16:40:13Z</lastmod>
+    <lastmod>2026-10-09T20:44:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-09T16:40:13Z</lastmod>
+    <lastmod>2026-10-09T20:44:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-09T16:40:13Z</lastmod>
+    <lastmod>2026-10-09T20:44:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-09T16:40:13Z</lastmod>
+    <lastmod>2026-10-09T20:44:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-09T16:40:13Z</lastmod>
+    <lastmod>2026-10-09T20:44:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/newlyweds-showrunner-gail-lerner-fired-from-nbc-sitcom-ahead-of-p/</loc>
+    <lastmod>2026-10-09T20:43:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/05/Newlyweds.jpg</image:loc>
+      <image:title>‘Newlyweds’ Showrunner Gail Lerner Fired From NBC Sitcom Ahead of Premiere: ‘I’m So Sad’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jd-vance-casts-doubt-on-firing-squad-execution-and-says-he-will-n/</loc>
+    <lastmod>2026-10-09T20:42:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg</image:loc>
+      <image:title>JD Vance casts doubt on firing squad execution and says he will not watch it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/shari-redstone-backed-sipur-studios-opens-london-office-sets-out-/</loc>
+    <lastmod>2026-10-09T20:41:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Ludovic-Attal-Emilio-Schenker-Sipur.jpg</image:loc>
+      <image:title>Shari Redstone-Backed Sipur Studios Opens London Office, Sets Out International Strategy Including Boarding Olivier Dahan’s ‘Nana’ (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ni-secretary-to-ban-the-drumcree-parade/</loc>
+    <lastmod>2026-10-09T20:38:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d3ba/live/45145760-c41e-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>NI secretary to ban the Drumcree parade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/dow-rises-400-points-on-friday-as-wall-street-scores-winning-week/</loc>
+    <lastmod>2026-10-09T20:14:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108377698-1791481689116-108377698-1791481637714-gettyimages-2298602315-SKYDANCE_NYSE.jpg?v=1791481698&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Dow rises 400 points on Friday as Wall Street scores winning week: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ohio-blogger-found-guilty-of-harassment-for-sending-shrek-nude-to/</loc>
+    <lastmod>2026-10-09T19:41:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Ohio blogger found guilty of harassment for sending Shrek nude to senator</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/powerful-magnitude-77-earthquake-hits-panama-damaging-buildings/</loc>
+    <lastmod>2026-10-09T19:39:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Powerful magnitude 7.7 earthquake hits Panama, damaging buildings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-p/</loc>
+    <lastmod>2026-10-09T19:36:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1600,1067</image:loc>
+      <image:title>An Anthropic AI model sent a false homicide tip to Philadelphia police</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-media-advisor-katie-zacharia-offered-white-house-press-secr/</loc>
+    <lastmod>2026-10-09T19:25:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108382628-1791569953365-108382628-1791569847353-gettyimages-2251917913-tw3_5941_oxkxsxfe.jpg?v=1791569965&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump Media advisor Katie Zacharia offered White House press secretary role</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/8216pure-insanity8217-mathematicians-will-need-years-to-make-sens/</loc>
+    <lastmod>2026-10-09T19:09:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>&amp;#8216;Pure insanity&amp;#8217;: Mathematicians will need years to make sense of OpenAI&amp;#8217;s latest drop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hope-102-rutherford-84-help-west-indies-pull-off-their-highest-t2/</loc>
+    <lastmod>2026-10-09T18:56:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423573.jpg</image:loc>
+      <image:title>Hope 102*, Rutherford 84 help West Indies pull off their highest T20I chase</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/raza-leads-zimbabwe-in-ngaravas-absence-at-uae-tri-series/</loc>
+    <lastmod>2026-10-09T18:54:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422800/422800.jpg</image:loc>
+      <image:title>Raza leads Zimbabwe in Ngarava&#x27;s absence at UAE tri-series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/us-unveils-sanctions-on-icc-in-move-court-condemns-as-assault-on-/</loc>
+    <lastmod>2026-10-09T18:40:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>US unveils sanctions on ICC in move court condemns as &#x27;assault on rule of law</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/danu-robotics-fight-to-build-a-better-recycling-robot/</loc>
+    <lastmod>2026-10-09T16:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1600,1067</image:loc>
+      <image:title>Danu Robotics’ fight to build a better recycling robot</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/stories/the-ai-is-in-the-computer/</loc>
