@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/stories/memories-of-a-dead-end-director-choi-hyunyoung-confronts-the-lies/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T23:23:06+00:00</news:publication_date>
+      <news:title>‘Memories of a Dead End’ Director Choi Hyunyoung Confronts the Lies That Follow Tragedy in Subway Disaster Drama ‘All’s Well That Ends Well’ at Busan Asian Project Market</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Alls-Well-That-Ends-Well-poster.jpg</image:loc>
+      <image:title>‘Memories of a Dead End’ Director Choi Hyunyoung Confronts the Lies That Follow Tragedy in Subway Disaster Drama ‘All’s Well That Ends Well’ at Busan Asian Project Market</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/attack-on-riyadh-airport-killed-12-people-and-wounded-more-than-3/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T23:13:02+00:00</news:publication_date>
+      <news:title>Attack on Riyadh airport killed 12 people and wounded more than 300, Saudi authorities say</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108386022-1791643371283-gettyimages-2295446276-AFP_C8RQ663.jpeg?v=1791643430&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Attack on Riyadh airport killed 12 people and wounded more than 300, Saudi authorities say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bid-to-overturn-ruling-which-stops-police-being-sued-for-failings/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T23:04:37+00:00</news:publication_date>
+      <news:title>Bid to overturn ruling which stops police being sued for failings</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5b00/live/778a9be0-c401-11f1-838e-6d1d6d701264.jpg</image:loc>
+      <image:title>Bid to overturn ruling which stops police being sued for failings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/other-mommy-star-arabella-olivia-clark-on-working-with-jessica-ch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T22:32:28+00:00</news:publication_date>
+      <news:title>‘Other Mommy’ Star Arabella Olivia Clark on Working With Jessica Chastain and Being Mentored by Mckenna Grace</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/MCDOTMO_UV016_f2a990.jpg</image:loc>
+      <image:title>‘Other Mommy’ Star Arabella Olivia Clark on Working With Jessica Chastain and Being Mentored by Mckenna Grace</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/satya-nadella-says-we-should-assume-all-ai-models-are-compromised/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T22:10:17+00:00</news:publication_date>
+      <news:title>Satya Nadella says we should assume all AI models are ‘compromised’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Satya Nadella says we should assume all AI models are ‘compromised’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T21:47:51+00:00</news:publication_date>
+      <news:title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1600</image:loc>
+      <image:title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/microsofts-nadella-says-ai-needs-an-emergency-brake-that-humans-c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T20:59:28+00:00</news:publication_date>
+      <news:title>Microsoft&#x27;s Nadella says AI needs an ‘emergency brake’ that humans control</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Microsoft&#x27;s Nadella says AI needs an ‘emergency brake’ that humans control</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/joseph-gordon-levitt-says-ai-is-being-trained-to-hijack-your-inti/</loc>
     <news:news>
       <news:publication>
@@ -93,6 +198,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/expedition-hopes-to-find-aviator-amelia-earharts-plane-on-remote-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T18:22:29+00:00</news:publication_date>
+      <news:title>Expedition hopes to find aviator Amelia Earhart&#x27;s plane on remote island</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c416/live/81c8f6c0-c4d7-11f1-9a39-31b474234113.png</image:loc>
+      <image:title>Expedition hopes to find aviator Amelia Earhart&#x27;s plane on remote island</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/us-murderer-christa-pike-discharged-from-hospital-10-days-after-f/</loc>
     <news:news>
       <news:publication>
@@ -153,6 +273,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/king-warns-malicious-online-actors-are-evolving-tactics/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T15:56:32+00:00</news:publication_date>
+      <news:title>King warns malicious online actors are evolving tactics</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d98d/live/0d6d7c40-c4c0-11f1-9ce9-55293bd7f0d9.jpg</image:loc>
+      <image:title>King warns malicious online actors are evolving tactics</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/k-pop-star-sunmi-loves-notion-and-ear-cleaning-videos/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T15:00:00+00:00</news:publication_date>
+      <news:title>K-pop star Sunmi loves Notion and ear cleaning videos</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Photo-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>K-pop star Sunmi loves Notion and ear cleaning videos</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-they-h/</loc>
     <news:news>
       <news:publication>
@@ -165,6 +315,21 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1600,1067</image:loc>
       <image:title>3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/woman-injures-three-people-in-third-poland-school-knife-attack-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T14:58:55+00:00</news:publication_date>
+      <news:title>Woman injures three people in third Poland school knife attack in a week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/82b6/live/15d89210-c4b7-11f1-9ce9-55293bd7f0d9.jpg</image:loc>
+      <image:title>Woman injures three people in third Poland school knife attack in a week</image:title>
     </image:image>
   </url>
   <url>
@@ -333,6 +498,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/forgotten-test-quick-richardson-sparks-stunning-wa-fightback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T12:10:57+00:00</news:publication_date>
+      <news:title>Forgotten Test quick Richardson sparks stunning WA fightback</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423582.jpg</image:loc>
+      <image:title>Forgotten Test quick Richardson sparks stunning WA fightback</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/stocks-were-up-this-week-here-are-the-names-that-are-now-overboug/</loc>
     <news:news>
       <news:publication>
@@ -345,6 +525,21 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108276378-1773181600640-gettyimages-2265328878-US-.jpeg?v=1773181725&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Stocks were up this week. Here are the names that are now overbought</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/aliss-al-islam-in-litton-led-bangladesh-squad-for-odi-tri-series/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T11:06:29+00:00</news:publication_date>
+      <news:title>Aliss Al Islam in Litton-led Bangladesh squad for ODI tri-series</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/284300/284349.jpg</image:loc>
+      <image:title>Aliss Al Islam in Litton-led Bangladesh squad for ODI tri-series</image:title>
     </image:image>
   </url>
   <url>
@@ -1038,6 +1233,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/job-titles-of-the-future-delivery-drone-air-traffic-controller/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T09:00:00+00:00</news:publication_date>
+      <news:title>Job titles of the future: Delivery drone air traffic controller</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://wp.technologyreview.com/wp-content/uploads/2026/10/job-thumb.jpg?resize=1200,600</image:loc>
+      <image:title>Job titles of the future: Delivery drone air traffic controller</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/factionalism-leaves-arunachal-in-danger-of-forfeiting-ranji-seaso/</loc>
     <news:news>
       <news:publication>
@@ -1170,186 +1380,6 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/Fan-Bingbing-Busan.jpg</image:loc>
       <image:title>Fan Bingbing Says Young Chinese Audiences ‘Aren’t Being Fed Very Well’ as AI Microdramas Boom</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/suspect-linked-to-monaco-bomb-attack-on-millionaire-speaks-to-bbc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T23:11:10+00:00</news:publication_date>
-      <news:title>Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg</image:loc>
-      <image:title>Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/us-plans-livestream-of-execution-by-firing-squad/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T22:32:04+00:00</news:publication_date>
-      <news:title>US plans livestream of execution by firing squad</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298331635.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>US plans livestream of execution by firing squad</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/anthropic-launches-free-ai-security-scans-for-open-source-project/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T21:53:51+00:00</news:publication_date>
-      <news:title>Anthropic launches free AI security scans for open-source projects</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Anthropic launches free AI security scans for open-source projects</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-revenu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T21:07:04+00:00</news:publication_date>
-      <news:title>Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/david-zaslav-gets-606-million-payout-from-paramount-warner-bros-m/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T21:04:53+00:00</news:publication_date>
-      <news:title>David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/08/David-Zaslav.jpg</image:loc>
-      <image:title>David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T21:01:18+00:00</news:publication_date>
-      <news:title>AMD will bring FSR 4 to handhelds by the end of 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>AMD will bring FSR 4 to handhelds by the end of 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/burnham-calls-on-polanski-to-reverse-green-partys-zionism-motion/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T21:00:16+00:00</news:publication_date>
-      <news:title>Burnham calls on Polanski to reverse Green Party&#x27;s Zionism motion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2a3b/live/5d8fb500-c338-11f1-9981-cf94ea240e40.jpg</image:loc>
-      <image:title>Burnham calls on Polanski to reverse Green Party&#x27;s Zionism motion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-de/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T21:00:00+00:00</news:publication_date>
-      <news:title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1600,1067</image:loc>
-      <image:title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/crazy-rich-asians-hbo-series-sets-cast-constance-wu-henry-golding/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T21:00:00+00:00</news:publication_date>
-      <news:title>‘Crazy Rich Asians’ HBO Series Sets Cast: Constance Wu, Henry Golding, Michelle Yeoh, Ronny Chieng Returning</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2019/10/crazy-rich-asians.jpg</image:loc>
-      <image:title>‘Crazy Rich Asians’ HBO Series Sets Cast: Constance Wu, Henry Golding, Michelle Yeoh, Ronny Chieng Returning</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/apple-will-reportedly-debut-its-first-touchscreen-macbook-in-thre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T20:32:21+00:00</news:publication_date>
-      <news:title>Apple will reportedly debut its first touchscreen MacBook in three weeks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268395_Apple_MacBook_Pro_16_M5_Max_ADiBenedetto_0005.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Apple will reportedly debut its first touchscreen MacBook in three weeks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/treasury-yields-are-really-really-high-but-can-come-down-soon-bes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T20:06:31+00:00</news:publication_date>
-      <news:title>Treasury yields are &#x27;really, really high&#x27; but can come down soon, Bessent&#x27;s new advisor says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Treasury yields are &#x27;really, really high&#x27; but can come down soon, Bessent&#x27;s new advisor says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T20:04:26+00:00</news:publication_date>
-      <news:title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1600,1067</image:loc>
-      <image:title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</image:title>
     </image:image>
   </url>
 </urlset>
