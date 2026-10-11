@@ -304,6 +304,7 @@ def generate_amp_story_html(article: dict) -> str:
 
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <script async custom-element="amp-story" src="https://cdn.ampproject.org/v0/amp-story-1.0.js"></script>
+  {f'<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>' if getattr(config, 'GA_MEASUREMENT_ID', '') else ''}
 
   <style amp-boilerplate>body{{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}}@-webkit-keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}@-moz-keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}@-ms-keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}@-o-keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}@keyframes -amp-start{{from{{visibility:hidden}}to{{visibility:visible}}}}</style><noscript><style amp-boilerplate>body{{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}}</style></noscript>
 
@@ -505,6 +506,14 @@ def generate_amp_story_html(article: dict) -> str:
     poster-portrait-src="{poster_portrait_url}"
     poster-square-src="{poster_square_url}"
     poster-landscape-src="{poster_landscape_url}">
+  {f'''  <amp-analytics type="googleanalytics">
+    <script type="application/json">
+    {{
+      "vars": {{ "account": "{config.GA_MEASUREMENT_ID}" }},
+      "triggers": {{ "trackPageview": {{ "on": "visible", "request": "pageview" }} }}
+    }}
+    </script>
+  </amp-analytics>''' if getattr(config, 'GA_MEASUREMENT_ID', '') else ''}
 {all_slides_html}
   </amp-story>
 </body>

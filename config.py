@@ -61,8 +61,10 @@ ENABLE_LINKEDIN_POSTING = os.getenv("ENABLE_LINKEDIN_POSTING", "true").lower() i
 # Google News Sitemap Age (Google News Guidelines strictly require <= 48 hours for news-sitemap.xml)
 GOOGLE_NEWS_MAX_AGE_HOURS = 48
 
-# Google Search Console Verification
+# Analytics & Tracking
 GOOGLE_SITE_VERIFICATION = os.getenv("GOOGLE_SITE_VERIFICATION", "XMDt3lDT2kpdjLlHlxQCSn5EcJcH2yw8f6nLjhLgN7g")
+CLARITY_PROJECT_ID = os.getenv("CLARITY_PROJECT_ID", "yw5kuxh5pg")
+GA_MEASUREMENT_ID = os.getenv("GA_MEASUREMENT_ID", "")
 
 # Categories and High-Reliability RSS Feeds
 CATEGORIES = {

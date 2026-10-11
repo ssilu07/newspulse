@@ -24,6 +24,34 @@ if hasattr(sys.stdout, "reconfigure"):
         pass
 
 
+def get_tracking_head_tags() -> str:
+    """Renders analytics and tracking tags (Microsoft Clarity, Google Analytics)."""
+    tags = []
+    clarity_id = getattr(config, "CLARITY_PROJECT_ID", "").strip()
+    if clarity_id:
+        tags.append(f"""  <!-- Microsoft Clarity -->
+  <script>
+    (function(c,l,a,r,i,t,y){{
+        c[a]=c[a]||function(){{(c[a].q=c[a].q||[]).push(arguments)}};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    }})(window, document, "clarity", "script", "{clarity_id}");
+  </script>""")
+
+    ga_id = getattr(config, "GA_MEASUREMENT_ID", "").strip()
+    if ga_id:
+        tags.append(f"""  <!-- Google Analytics (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={ga_id}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{ga_id}');
+  </script>""")
+
+    return "\n".join(tags)
+
+
 def get_base_header(active_nav: str = "home") -> str:
     """Renders the top navigation header with logo, search, clock, and theme toggle."""
     return f"""
@@ -341,6 +369,8 @@ def render_homepage_html(articles: list) -> str:
   <!-- Google Search Console Verification -->
   {f'<meta name="google-site-verification" content="{config.GOOGLE_SITE_VERIFICATION}">' if getattr(config, 'GOOGLE_SITE_VERIFICATION', '') else ''}
 
+{get_tracking_head_tags()}
+
   <script type="application/ld+json">
 {json.dumps(homepage_schema, ensure_ascii=False)}
   </script>
@@ -630,6 +660,7 @@ def generate_compliance_pages(dist_dir: Path):
 
   <link rel="icon" type="image/svg+xml" href="/static/assets/icon.svg">
   <link rel="stylesheet" href="/static/css/style.css">
+{get_tracking_head_tags()}
 </head>
 <body>
   {get_base_header(slug)}
