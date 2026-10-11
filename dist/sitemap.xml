@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-11T17:25:27Z</lastmod>
+    <lastmod>2026-10-11T20:08:25Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-11T17:25:27Z</lastmod>
+    <lastmod>2026-10-11T20:08:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-11T17:25:27Z</lastmod>
+    <lastmod>2026-10-11T20:08:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-11T17:25:27Z</lastmod>
+    <lastmod>2026-10-11T20:08:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-11T17:25:27Z</lastmod>
+    <lastmod>2026-10-11T20:08:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-11T17:25:27Z</lastmod>
+    <lastmod>2026-10-11T20:08:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/a-college-in-illinois-tried-to-cancel-its-flock-contact-and-it-re/</loc>
+    <lastmod>2026-10-11T20:06:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>A college in Illinois tried to cancel its Flock contact and it refused</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-disneys-kids-family-division-is-working-with-creators-like-dh/</loc>
+    <lastmod>2026-10-11T19:50:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Disney-Jnr.jpg</image:loc>
+      <image:title>Why Disney’s Kids &amp; Family Division Is Working With Creators Like Dhar Mann and Nastya: We Need to ‘Meet Kids Where They Are’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-declares-energy-ceasefire-between-russia-and-ukraine-zelens/</loc>
+    <lastmod>2026-10-11T19:33:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108373667-1791324173258-gettyimages-2298357073-TRUMP_ARRIVE_WH.jpeg?v=1791324219&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump declares &#x27;energy ceasefire&#x27; between Russia and Ukraine; Zelenskyy is waiting for details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/globo-bets-on-to-love-is-to-care-at-mipcom-as-it-ushers-super-dra/</loc>
+    <lastmod>2026-10-11T19:33:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-76.png</image:loc>
+      <image:title>Globo Bets on ‘To Love Is to Care’ at Mipcom as It Ushers ‘Super Drama’ Concept: ‘Titles That Represent the Best of the Brazilian Telenovela Tradition’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-a/</loc>
+    <lastmod>2026-10-11T18:33:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Silicon Valley is falling in line with Trump’s attempt to rename AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-bad-light-could-shape-the-south-africa-vs-australia-test/</loc>
+    <lastmod>2026-10-11T18:04:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423600/423634.jpg</image:loc>
+      <image:title>How bad light could shape the South Africa vs Australia Test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/arshdeep-and-abhishek-power-india-to-2-1-lead/</loc>
+    <lastmod>2026-10-11T18:03:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423600/423688.jpg</image:loc>
+      <image:title>Arshdeep and Abhishek power India to 2-1 lead</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/pm-says-it-is-clear-russia-interfered-with-brexit-vote/</loc>
+    <lastmod>2026-10-11T18:00:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg</image:loc>
+      <image:title>PM says it is &#x27;clear&#x27; Russia interfered with Brexit vote</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/poland-detains-man-suspected-of-planning-assassination-of-pm-tusk/</loc>
+    <lastmod>2026-10-11T17:27:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/187d/live/a4be0650-c592-11f1-9d5a-23156cc094cf.jpg</image:loc>
+      <image:title>Poland detains man suspected of planning assassination of PM Tusk</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/from-bjs-to-lululemon-retailers-are-trimming-assortments-to-boost/</loc>
+    <lastmod>2026-10-11T17:08:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108230084-1763749055769-gettyimages-2247816077-jr_12991_69qwhxj8.jpeg?v=1791579138&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>From BJ’s to Lululemon, retailers are trimming assortments to boost business</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid/</loc>
+    <lastmod>2026-10-11T16:52:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=1600,1067</image:loc>
+      <image:title>Can the AI industry persuade data center opponents by getting rid of NDAs?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/saudi-capital-airport-hit-by-second-houthi-strike-in-two-days/</loc>
+    <lastmod>2026-10-11T16:41:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Saudi capital airport hit by second Houthi strike in two days</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/stories/mushfiqur-shanto-give-bangladesh-big-lead-after-mahmud-ebadot-dis/</loc>
@@ -145,6 +265,16 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/appleevent.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>What to expect from Apple’s ‘Welcome Home’ event</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/homes-and-bridges-swept-away-as-fresh-floods-hit-nepal/</loc>
+    <lastmod>2026-10-11T12:03:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9cf2/live/9cbf47b0-c56b-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Homes and bridges swept away as fresh floods hit Nepal</image:title>
     </image:image>
   </url>
   <url>
