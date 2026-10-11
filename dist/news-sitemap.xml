@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/stories/us-justice-department-investigates-tv-networks-over-trump-pool-co/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T05:05:43+00:00</news:publication_date>
+      <news:title>US justice department investigates TV networks over Trump pool coverage</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/83c9/live/2af322e0-c50d-11f1-8473-7b5057186a7a.jpg</image:loc>
+      <image:title>US justice department investigates TV networks over Trump pool coverage</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/allen-ferguson-seifert-picked-for-india-odis-ravindra-returns-fro/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T04:58:55+00:00</news:publication_date>
+      <news:title>Allen, Ferguson, Seifert picked for India ODIs; Ravindra returns from injury</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/413200/413240.jpg</image:loc>
+      <image:title>Allen, Ferguson, Seifert picked for India ODIs; Ravindra returns from injury</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/midday-meal-review-touching-iranian-drama-charts-a-teachers-despe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T04:49:44+00:00</news:publication_date>
+      <news:title>‘Midday Meal’ Review: Touching Iranian Drama Charts a Teacher’s Desperate Acts to Provide for His School</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/1788153786.jpg</image:loc>
+      <image:title>‘Midday Meal’ Review: Touching Iranian Drama Charts a Teacher’s Desperate Acts to Provide for His School</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/snl-weekend-update-brutally-mocks-trump-for-losing-nobel-peace-pr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T04:49:37+00:00</news:publication_date>
+      <news:title>‘SNL’ Weekend Update Brutally Mocks Trump for Losing Nobel Peace Prize</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-12.38.45-AM.png</image:loc>
+      <image:title>‘SNL’ Weekend Update Brutally Mocks Trump for Losing Nobel Peace Prize</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/unchanged-australia-bowl-in-brisbane-no-changes-for-bangladesh-to/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T03:57:11+00:00</news:publication_date>
+      <news:title>Unchanged Australia bowl in Brisbane; no changes for Bangladesh too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423537.jpg</image:loc>
+      <image:title>Unchanged Australia bowl in Brisbane; no changes for Bangladesh too</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/uk-launch-flood-taskforce-to-prepare-for-extreme-winter-weather/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T00:44:37+00:00</news:publication_date>
+      <news:title>UK launch flood taskforce to prepare for extreme winter weather</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/e208/live/f438e200-c4fb-11f1-9197-fd425384da91.jpg</image:loc>
+      <image:title>UK launch flood taskforce to prepare for extreme winter weather</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/memories-of-a-dead-end-director-choi-hyunyoung-confronts-the-lies/</loc>
     <news:news>
       <news:publication>
@@ -63,6 +153,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/young-men-live-in-fear-of-being-snatched-off-the-streets-and-sold/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T22:13:08+00:00</news:publication_date>
+      <news:title>Young men live in fear of being snatched off the streets and sold to Myanmar&#x27;s army</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg</image:loc>
+      <image:title>Young men live in fear of being snatched off the streets and sold to Myanmar&#x27;s army</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/satya-nadella-says-we-should-assume-all-ai-models-are-compromised/</loc>
     <news:news>
       <news:publication>
@@ -90,6 +195,21 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1600</image:loc>
       <image:title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/isaias-kills-four-and-leaves-about-670000-without-power-after-lan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T21:08:50+00:00</news:publication_date>
+      <news:title>Isaias kills four and leaves about 670,000 without power after landfall</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108384826-1791613068042-gettyimages-2299449090-jr_15595_rytojxgw.jpeg?v=1791613088&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Isaias kills four and leaves about 670,000 without power after landfall</image:title>
     </image:image>
   </url>
   <url>
@@ -288,6 +408,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/nobel-peace-laureate-says-us-sanctions-on-icc-unacceptable/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T15:23:47+00:00</news:publication_date>
+      <news:title>Nobel peace laureate says US sanctions on ICC &#x27;unacceptable</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8690/live/4429a2a0-c4b5-11f1-9ce9-55293bd7f0d9.jpg</image:loc>
+      <image:title>Nobel peace laureate says US sanctions on ICC &#x27;unacceptable</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/k-pop-star-sunmi-loves-notion-and-ear-cleaning-videos/</loc>
     <news:news>
       <news:publication>
@@ -330,6 +465,21 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/82b6/live/15d89210-c4b7-11f1-9ce9-55293bd7f0d9.jpg</image:loc>
       <image:title>Woman injures three people in third Poland school knife attack in a week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/anthropic-is-cutting-off-its-internal-evaluations-from-the-intern/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T14:41:16+00:00</news:publication_date>
+      <news:title>Anthropic is cutting off its internal evaluations from the internet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Anthropic is cutting off its internal evaluations from the internet</image:title>
     </image:image>
   </url>
   <url>
@@ -510,6 +660,21 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423582.jpg</image:loc>
       <image:title>Forgotten Test quick Richardson sparks stunning WA fightback</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-techlash-has-gone-hollywood/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T12:00:00+00:00</news:publication_date>
+      <news:title>The techlash has gone Hollywood</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-147.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>The techlash has gone Hollywood</image:title>
     </image:image>
   </url>
   <url>
@@ -933,6 +1098,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/trump-created-a-committee-to-dig-into-the-feds-lisa-cook-what-is-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T19:19:00+00:00</news:publication_date>
+      <news:title>Trump created a committee to dig into the Fed&#x27;s Lisa Cook. What is it and what comes next?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108220768-17621989382025-11-03t194123z_673089177_rc27phaed40k_rtrmadp_0_usa-fed-cook.jpeg?v=1762198958&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump created a committee to dig into the Fed&#x27;s Lisa Cook. What is it and what comes next?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/8216pure-insanity8217-mathematicians-will-need-years-to-make-sens/</loc>
     <news:news>
       <news:publication>
@@ -960,6 +1140,21 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423573.jpg</image:loc>
       <image:title>Hope 102*, Rutherford 84 help West Indies pull off their highest T20I chase</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/pc-shipments-fall-201-percent-in-sharpest-decline-since-q1-2023/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T18:54:52+00:00</news:publication_date>
+      <news:title>PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400</image:loc>
+      <image:title>PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023</image:title>
     </image:image>
   </url>
   <url>
@@ -1233,6 +1428,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-dru/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T09:00:00+00:00</news:publication_date>
+      <news:title>We’re still figuring out the side effects of GLP-1 weight-loss drugs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2292410673.jpg?resize=1200,600</image:loc>
+      <image:title>We’re still figuring out the side effects of GLP-1 weight-loss drugs</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/job-titles-of-the-future-delivery-drone-air-traffic-controller/</loc>
     <news:news>
       <news:publication>
@@ -1245,141 +1455,6 @@
     <image:image>
       <image:loc>https://wp.technologyreview.com/wp-content/uploads/2026/10/job-thumb.jpg?resize=1200,600</image:loc>
       <image:title>Job titles of the future: Delivery drone air traffic controller</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/factionalism-leaves-arunachal-in-danger-of-forfeiting-ranji-seaso/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T05:02:39+00:00</news:publication_date>
-      <news:title>Factionalism leaves Arunachal in danger of forfeiting Ranji season opener</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/407900/407958.jpg</image:loc>
-      <image:title>Factionalism leaves Arunachal in danger of forfeiting Ranji season opener</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/chris-mason-polanski-faces-greatest-crisis-of-his-leadership-so-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T04:54:25+00:00</news:publication_date>
-      <news:title>Chris Mason: Polanski faces greatest crisis of his leadership so far</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/21c6/live/44347f20-c3a4-11f1-9a39-31b474234113.jpg</image:loc>
-      <image:title>Chris Mason: Polanski faces greatest crisis of his leadership so far</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/chapman-and-foulkes-to-miss-india-t20i-series-with-injuries/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T04:51:05+00:00</news:publication_date>
-      <news:title>Chapman and Foulkes to miss India T20I series with injuries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/413500/413516.jpg</image:loc>
-      <image:title>Chapman and Foulkes to miss India T20I series with injuries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/real-boss-of-india-elon-musk-takes-aim-at-indian-billionaire-amba/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T04:11:59+00:00</news:publication_date>
-      <news:title>Real boss of India?&#x27;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108379398-1791512718423-gettyimages-2198822267-AA_14022025_2081398.jpeg?v=1791512757&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Real boss of India?&#x27;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/cole-sprouse-starrer-vintage-violence-to-close-singapore-film-fes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T04:00:00+00:00</news:publication_date>
-      <news:title>Cole Sprouse Starrer ‘Vintage Violence’ to Close Singapore Film Festival as Closing Night Returns</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/Vintage-Violence.jpg</image:loc>
-      <image:title>Cole Sprouse Starrer ‘Vintage Violence’ to Close Singapore Film Festival as Closing Night Returns</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/nvidia-backed-aussie-ai-firm-firmus-withdraws-historic-ipo-citing/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T03:51:15+00:00</news:publication_date>
-      <news:title>Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108378997-1791505127429-gettyimages-2269840286-TFSPI_08042026-5142.jpeg?v=1791505141&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/adidas-sues-australian-label-white-fox-over-four-stripes-design/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T03:36:41+00:00</news:publication_date>
-      <news:title>Adidas sues Australian label White Fox over four stripes design</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/690e/live/fcec4c60-c33a-11f1-a64c-550be9e3c66b.jpg</image:loc>
-      <image:title>Adidas sues Australian label White Fox over four stripes design</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/firing-squad-execution-to-be-livestreamed-pentagon-says/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T03:36:12+00:00</news:publication_date>
-      <news:title>Firing squad execution to be livestreamed, Pentagon says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg</image:loc>
-      <image:title>Firing squad execution to be livestreamed, Pentagon says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fan-bingbing-says-young-chinese-audiences-arent-being-fed-very-we/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T03:24:57+00:00</news:publication_date>
-      <news:title>Fan Bingbing Says Young Chinese Audiences ‘Aren’t Being Fed Very Well’ as AI Microdramas Boom</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/Fan-Bingbing-Busan.jpg</image:loc>
-      <image:title>Fan Bingbing Says Young Chinese Audiences ‘Aren’t Being Fed Very Well’ as AI Microdramas Boom</image:title>
     </image:image>
   </url>
 </urlset>
