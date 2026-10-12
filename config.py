@@ -64,7 +64,7 @@ GOOGLE_NEWS_MAX_AGE_HOURS = 48
 # Analytics & Tracking
 GOOGLE_SITE_VERIFICATION = os.getenv("GOOGLE_SITE_VERIFICATION", "XMDt3lDT2kpdjLlHlxQCSn5EcJcH2yw8f6nLjhLgN7g")
 CLARITY_PROJECT_ID = os.getenv("CLARITY_PROJECT_ID", "yw5kuxh5pg")
-GA_MEASUREMENT_ID = os.getenv("GA_MEASUREMENT_ID", "")
+GA_MEASUREMENT_ID = os.getenv("GA_MEASUREMENT_ID", "G-VX6D7B7WD6")
 
 # Categories and High-Reliability RSS Feeds
 CATEGORIES = {
