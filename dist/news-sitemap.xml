@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/stories/sp-500-futures-are-flat-ahead-of-bank-earnings-south-koreas-kospi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T01:55:08+00:00</news:publication_date>
+      <news:title>S&amp;P 500 futures are flat ahead of bank earnings; South Korea&#x27;s Kospi falls below 6,000: Live updates</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108327435-1782483970823-Traders-Photo-20260626-KK-PRESS-007.jpg?v=1782484337&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>S&amp;P 500 futures are flat ahead of bank earnings; South Korea&#x27;s Kospi falls below 6,000: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/breaking-bad-star-rj-mittes-cause-of-death-confirmed-as-suicide/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T01:28:19+00:00</news:publication_date>
+      <news:title>‘Breaking Bad’ Star RJ Mitte’s Cause of Death Confirmed as Suicide</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/RJ-Mitte.png</image:loc>
+      <image:title>‘Breaking Bad’ Star RJ Mitte’s Cause of Death Confirmed as Suicide</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-the-prime-minister-wants-to-talk-about-brexit-again/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T01:27:59+00:00</news:publication_date>
+      <news:title>Why the prime minister wants to talk about Brexit again</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5068/live/eea09e50-c690-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Why the prime minister wants to talk about Brexit again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/selma-blair-charged-with-second-degree-assault-following-plane-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T01:20:32+00:00</news:publication_date>
+      <news:title>Selma Blair Charged with Second-Degree Assault Following Plane Incident, Released on $20,000 Bail</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/2247216170-e1791835325992.jpg</image:loc>
+      <image:title>Selma Blair Charged with Second-Degree Assault Following Plane Incident, Released on $20,000 Bail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hundreds-more-prisoners-to-be-freed-in-second-phase-of-early-rele/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T01:13:33+00:00</news:publication_date>
+      <news:title>Hundreds more prisoners to be freed in second phase of early release scheme</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7029/live/55aab9b0-c663-11f1-8600-efb62b613ab5.jpg</image:loc>
+      <image:title>Hundreds more prisoners to be freed in second phase of early release scheme</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/breaking-bad-actor-rj-mitte-dies-aged-34/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T00:12:25+00:00</news:publication_date>
+      <news:title>Breaking Bad actor RJ Mitte dies aged 34</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d701/live/f34aa090-c69f-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Breaking Bad actor RJ Mitte dies aged 34</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-social-reckoning-is-flopping-at-the-box-office/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T21:20:57+00:00</news:publication_date>
+      <news:title>The Social Reckoning is flopping at the box office</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DF-04750_r.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>The Social Reckoning is flopping at the box office</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-moscow-is-staying-tight-lipped-on-trumps-energy-ceasefire/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T20:17:37+00:00</news:publication_date>
+      <news:title>Why Moscow is staying tight-lipped on Trump&#x27;s energy ceasefire</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6601/live/5861b070-c670-11f1-8c1b-356b863d8549.jpg</image:loc>
+      <image:title>Why Moscow is staying tight-lipped on Trump&#x27;s energy ceasefire</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/saracens-sack-player-whose-punch-sparked-stokes-crisis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T19:42:31+00:00</news:publication_date>
+      <news:title>Saracens sack player whose punch sparked Stokes crisis</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/418000/418072.jpg</image:loc>
+      <image:title>Saracens sack player whose punch sparked Stokes crisis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rep-ilhan-omar-blasts-federal-criminal-raid-on-home-i-will-not-be/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T18:29:28+00:00</news:publication_date>
+      <news:title>Rep. Ilhan Omar blasts federal criminal raid on home: &#x27;I will not be silenced</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108398004-1791807612262-gettyimages-2262837378-MINNESOTA_DEMS_SOTU.jpeg?v=1791807641&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Rep. Ilhan Omar blasts federal criminal raid on home: &#x27;I will not be silenced</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/meta-releases-its-first-frontier-model-muse-wonder/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T17:56:56+00:00</news:publication_date>
+      <news:title>Meta releases its first frontier model, Muse Wonder</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1600,1067</image:loc>
+      <image:title>Meta releases its first frontier model, Muse Wonder</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/meta-debuts-muse-wonder-ai-model-in-latest-test-of-users-willingn/</loc>
     <news:news>
       <news:publication>
@@ -138,6 +303,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/fleming-turns-to-csk-as-england-name-coaching-set-ups/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T17:14:51+00:00</news:publication_date>
+      <news:title>Fleming turns to CSK as England name coaching set-ups</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/360700/360711.jpg</image:loc>
+      <image:title>Fleming turns to CSK as England name coaching set-ups</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/meta-has-some-wonder-full-new-ai-models/</loc>
     <news:news>
       <news:publication>
@@ -180,6 +360,36 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42c8/live/68991b20-c64a-11f1-b47f-e3f9cf703bc3.jpg</image:loc>
       <image:title>South Africa&#x27;s deputy police chief resigns after being charged with sexual offences</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T15:45:00+00:00</news:publication_date>
+      <news:title>Honeyjar offers AI tools to improve PR and comms at every company</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=1600,1067</image:loc>
+      <image:title>Honeyjar offers AI tools to improve PR and comms at every company</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-yandex-outage-probably-didnt-blitz-russian-bots/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T15:43:07+00:00</news:publication_date>
+      <news:title>The Yandex outage probably didn’t blitz Russian bots</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_C.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>The Yandex outage probably didn’t blitz Russian bots</image:title>
     </image:image>
   </url>
   <url>
@@ -870,291 +1080,6 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423537.jpg</image:loc>
       <image:title>Unchanged Australia bowl in Brisbane; no changes for Bangladesh too</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/uk-launch-flood-taskforce-to-prepare-for-extreme-winter-weather/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T00:44:37+00:00</news:publication_date>
-      <news:title>UK launch flood taskforce to prepare for extreme winter weather</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/e208/live/f438e200-c4fb-11f1-9197-fd425384da91.jpg</image:loc>
-      <image:title>UK launch flood taskforce to prepare for extreme winter weather</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/memories-of-a-dead-end-director-choi-hyunyoung-confronts-the-lies/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T23:23:06+00:00</news:publication_date>
-      <news:title>‘Memories of a Dead End’ Director Choi Hyunyoung Confronts the Lies That Follow Tragedy in Subway Disaster Drama ‘All’s Well That Ends Well’ at Busan Asian Project Market</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/Alls-Well-That-Ends-Well-poster.jpg</image:loc>
-      <image:title>‘Memories of a Dead End’ Director Choi Hyunyoung Confronts the Lies That Follow Tragedy in Subway Disaster Drama ‘All’s Well That Ends Well’ at Busan Asian Project Market</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/attack-on-riyadh-airport-killed-12-people-and-wounded-more-than-3/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T23:13:02+00:00</news:publication_date>
-      <news:title>Attack on Riyadh airport killed 12 people and wounded more than 300, Saudi authorities say</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108386022-1791643371283-gettyimages-2295446276-AFP_C8RQ663.jpeg?v=1791643430&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Attack on Riyadh airport killed 12 people and wounded more than 300, Saudi authorities say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bid-to-overturn-ruling-which-stops-police-being-sued-for-failings/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T23:04:37+00:00</news:publication_date>
-      <news:title>Bid to overturn ruling which stops police being sued for failings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5b00/live/778a9be0-c401-11f1-838e-6d1d6d701264.jpg</image:loc>
-      <image:title>Bid to overturn ruling which stops police being sued for failings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/other-mommy-star-arabella-olivia-clark-on-working-with-jessica-ch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T22:32:28+00:00</news:publication_date>
-      <news:title>‘Other Mommy’ Star Arabella Olivia Clark on Working With Jessica Chastain and Being Mentored by Mckenna Grace</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/MCDOTMO_UV016_f2a990.jpg</image:loc>
-      <image:title>‘Other Mommy’ Star Arabella Olivia Clark on Working With Jessica Chastain and Being Mentored by Mckenna Grace</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/young-men-live-in-fear-of-being-snatched-off-the-streets-and-sold/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T22:13:08+00:00</news:publication_date>
-      <news:title>Young men live in fear of being snatched off the streets and sold to Myanmar&#x27;s army</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg</image:loc>
-      <image:title>Young men live in fear of being snatched off the streets and sold to Myanmar&#x27;s army</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/satya-nadella-says-we-should-assume-all-ai-models-are-compromised/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T22:10:17+00:00</news:publication_date>
-      <news:title>Satya Nadella says we should assume all AI models are ‘compromised’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Satya Nadella says we should assume all AI models are ‘compromised’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T21:47:51+00:00</news:publication_date>
-      <news:title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1600</image:loc>
-      <image:title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/isaias-kills-four-and-leaves-about-670000-without-power-after-lan/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T21:08:50+00:00</news:publication_date>
-      <news:title>Isaias kills four and leaves about 670,000 without power after landfall</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108384826-1791613068042-gettyimages-2299449090-jr_15595_rytojxgw.jpeg?v=1791613088&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Isaias kills four and leaves about 670,000 without power after landfall</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/microsofts-nadella-says-ai-needs-an-emergency-brake-that-humans-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T20:59:28+00:00</news:publication_date>
-      <news:title>Microsoft&#x27;s Nadella says AI needs an ‘emergency brake’ that humans control</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Microsoft&#x27;s Nadella says AI needs an ‘emergency brake’ that humans control</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/joseph-gordon-levitt-says-ai-is-being-trained-to-hijack-your-inti/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T19:53:07+00:00</news:publication_date>
-      <news:title>Joseph Gordon-Levitt Says A.I. Is Being Trained to ‘Hijack Your Intimacy’: ‘We Should Be Concerned’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2259365140.jpg</image:loc>
-      <image:title>Joseph Gordon-Levitt Says A.I. Is Being Trained to ‘Hijack Your Intimacy’: ‘We Should Be Concerned’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tenzing-review-a-remarkable-adventure-that-puts-the-audience-righ/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T19:52:45+00:00</news:publication_date>
-      <news:title>‘Tenzing’ Review: A Remarkable Adventure That Puts the Audience Right Up on Mount Everest, Along with the First Two Men — One a Sherpa, Overlooked by History — to Scale It</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/08/Tenzing.jpg</image:loc>
-      <image:title>‘Tenzing’ Review: A Remarkable Adventure That Puts the Audience Right Up on Mount Everest, Along with the First Two Men — One a Sherpa, Overlooked by History — to Scale It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/man-dies-after-tiger-attack-at-wildlife-park/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T19:09:59+00:00</news:publication_date>
-      <news:title>Man dies after tiger attack at wildlife park</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a351/live/9ceda390-c4cf-11f1-92df-35160a6c9392.png</image:loc>
-      <image:title>Man dies after tiger attack at wildlife park</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/four-dead-and-thousands-without-power-after-hurricane-isaias-lash/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T19:08:17+00:00</news:publication_date>
-      <news:title>Four dead and thousands without power after Hurricane Isaias lashes US</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/dfd2/live/7e8f55f0-c4df-11f1-9a39-31b474234113.jpg</image:loc>
-      <image:title>Four dead and thousands without power after Hurricane Isaias lashes US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/distrokid-has-been-quietly-taking-down-songs-in-response-to-umg-l/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T18:52:07+00:00</news:publication_date>
-      <news:title>DistroKid has been quietly taking down songs in response to UMG lawsuit</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>DistroKid has been quietly taking down songs in response to UMG lawsuit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/several-injured-in-attack-on-airport-in-saudi-capital-riyadh/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T18:37:10+00:00</news:publication_date>
-      <news:title>Several injured in attack on airport in Saudi capital Riyadh</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/882f/live/23bf5530-c4c1-11f1-9ce9-55293bd7f0d9.jpg</image:loc>
-      <image:title>Several injured in attack on airport in Saudi capital Riyadh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/expedition-hopes-to-find-aviator-amelia-earharts-plane-on-remote-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T18:22:29+00:00</news:publication_date>
-      <news:title>Expedition hopes to find aviator Amelia Earhart&#x27;s plane on remote island</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c416/live/81c8f6c0-c4d7-11f1-9a39-31b474234113.png</image:loc>
-      <image:title>Expedition hopes to find aviator Amelia Earhart&#x27;s plane on remote island</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/us-murderer-christa-pike-discharged-from-hospital-10-days-after-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T17:44:26+00:00</news:publication_date>
-      <news:title>US murderer Christa Pike discharged from hospital 10 days after failed execution</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/05ed/live/df926130-c4d0-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>US murderer Christa Pike discharged from hospital 10 days after failed execution</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/sri-lanka-hope-to-get-out-of-t20i-rut-and-keep-series-alive/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T17:42:50+00:00</news:publication_date>
-      <news:title>Sri Lanka hope to get out of T20I rut and keep series alive</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423562.jpg</image:loc>
-      <image:title>Sri Lanka hope to get out of T20I rut and keep series alive</image:title>
     </image:image>
   </url>
 </urlset>
