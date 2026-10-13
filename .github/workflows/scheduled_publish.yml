@@ -2,8 +2,13 @@ name: Automated News Ingestion & Rebuild
 
 on:
   schedule:
-    # Run every 4 hours (Optimal breaking news cadence without spamming)
-    - cron: '0 */4 * * *'
+    # Staggered organic publishing schedule (6 times daily at non-round IST minutes)
+    - cron: '43 22 * * *' # 04:13 AM IST
+    - cron: '23 2 * * *'  # 07:53 AM IST
+    - cron: '3 6 * * *'   # 11:33 AM IST
+    - cron: '27 9 * * *'  # 02:57 PM IST
+    - cron: '47 13 * * *' # 07:17 PM IST
+    - cron: '19 18 * * *' # 11:49 PM IST
   workflow_dispatch: # Allows manual trigger from GitHub UI anytime
 
 permissions:
