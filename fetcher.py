@@ -184,7 +184,8 @@ def upgrade_image_resolution(url: str, category_slug: str = "trending") -> str:
         return url
 
     # 5. Generic WordPress downscaled thumbnails (-1024x576.jpg, etc.)
-    url = re.sub(r"-\d{3,4}x\d{3,4}(\.[a-zA-Z]+)$", r"", url)
+    url = re.sub(r"-\d{3,4}x\d{3,4}(\.[a-zA-Z]+)$", r"\1", url)
+    url = re.sub(r"[\x00-\x1f\x7f]+", "", url)
 
     return url
 

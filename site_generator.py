@@ -698,6 +698,13 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
     Generates standard sitemap.xml for Google Search Console,
     plus dedicated news-sitemap.xml for Google News.
     """
+    import re
+    def xml_escape(val: str) -> str:
+        if not val:
+            return ""
+        cleaned = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]+", "", str(val)).strip()
+        return escape(cleaned)
+
     today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     # 1. Standard Sitemap (Universal XML standard)
@@ -724,10 +731,10 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
         ])
 
     for art in articles:
-        slug = art.get("slug")
-        title = escape(art.get("title", ""))
-        img = escape(art.get("image_url", ""))
-        pub_date = art.get("published_at", today_iso)
+        slug = xml_escape(art.get("slug", ""))
+        title = xml_escape(art.get("title", ""))
+        img = xml_escape(art.get("image_url", ""))
+        pub_date = xml_escape(art.get("published_at", today_iso))
         std_lines.extend([
             '  <url>',
             f'    <loc>{config.SITE_URL}/stories/{slug}/</loc>',
@@ -757,7 +764,7 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
     news_stories_count = 0
 
     for art in articles:
-        pub_date = art.get("published_at", today_iso)
+        pub_date = xml_escape(art.get("published_at", today_iso))
         # Google News Guideline: Only include stories published within the last 48 hours
         try:
             pub_dt = datetime.fromisoformat(pub_date.replace("Z", "+00:00"))
@@ -768,15 +775,15 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
             pass
 
         news_stories_count += 1
-        slug = art.get("slug")
-        title = escape(art.get("title", ""))
-        img = escape(art.get("image_url", ""))
+        slug = xml_escape(art.get("slug", ""))
+        title = xml_escape(art.get("title", ""))
+        img = xml_escape(art.get("image_url", ""))
         news_lines.extend([
             '  <url>',
             f'    <loc>{config.SITE_URL}/stories/{slug}/</loc>',
             '    <news:news>',
             '      <news:publication>',
-            f'        <news:name>{escape(config.SITE_NAME)}</news:name>',
+            f'        <news:name>{xml_escape(config.SITE_NAME)}</news:name>',
             f'        <news:language>{config.SITE_LANGUAGE}</news:language>',
             '      </news:publication>',
             f'      <news:publication_date>{pub_date}</news:publication_date>',
