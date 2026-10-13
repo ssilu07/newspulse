@@ -133,6 +133,28 @@ def validate_single_story_rules(file_path: Path) -> tuple[bool, list[str]]:
     if custom_style and "!important" in custom_style.text:
         issues.append("Custom CSS contains prohibited '!important' declaration")
 
+    # 4. Verify local poster images are intact and meet AMP/Discover minimum dimensions
+    story_dir = file_path.parent
+    required_posters = {
+        "poster-portrait.jpg": (640, 853),
+        "poster-square.jpg": (1200, 1200),
+        "poster-landscape.jpg": (1200, 900),
+        "cover-16x9.jpg": (1200, 675),
+    }
+    for img_name, (min_w, min_h) in required_posters.items():
+        img_path = story_dir / img_name
+        if not img_path.exists() or img_path.stat().st_size == 0:
+            issues.append(f"Missing or empty poster image: {img_name}")
+        else:
+            try:
+                from PIL import Image
+                with Image.open(img_path) as im:
+                    w, h = im.size
+                    if w < min_w or h < min_h:
+                        issues.append(f"Poster {img_name} dimensions ({w}x{h}) below minimum ({min_w}x{min_h})")
+            except Exception as e:
+                issues.append(f"Corrupted poster image {img_name}: {e}")
+
     return len(issues) == 0, issues
 
 

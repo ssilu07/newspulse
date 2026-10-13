@@ -23,8 +23,8 @@ if hasattr(sys.stdout, "reconfigure"):
         pass
 
 
-def crop_to_aspect(img: Image.Image, target_ratio: float, min_w: int, min_h: int) -> Image.Image:
-    """Center-crops and scales an image to an exact aspect ratio with minimum pixel dimensions."""
+def crop_to_aspect(img: Image.Image, target_ratio: float, target_w: int, target_h: int) -> Image.Image:
+    """Center-crops and scales an image to an exact aspect ratio and target HD pixel dimensions."""
     current_ratio = img.width / img.height
     if current_ratio > target_ratio:
         # Wider than target -> crop sides
@@ -38,10 +38,8 @@ def crop_to_aspect(img: Image.Image, target_ratio: float, min_w: int, min_h: int
         box = (0, top, img.width, top + new_height)
     
     cropped = img.crop(box)
-    final_w = max(min_w, cropped.width)
-    final_h = int(final_w / target_ratio)
-    if (final_w, final_h) != cropped.size:
-        cropped = cropped.resize((final_w, final_h), Image.Resampling.LANCZOS)
+    if (target_w, target_h) != cropped.size:
+        cropped = cropped.resize((target_w, target_h), Image.Resampling.LANCZOS)
     return cropped
 
 
@@ -120,10 +118,10 @@ def ensure_story_posters(article: dict, output_dir: Path) -> dict:
     landscape_4_3 = crop_to_aspect(im, 4 / 3, 1600, 1200)
     landscape_16_9 = crop_to_aspect(im, 16 / 9, 1600, 900)
 
-    portrait.save(p_portrait, "JPEG", quality=82, optimize=True)
-    square.save(p_square, "JPEG", quality=82, optimize=True)
-    landscape_4_3.save(p_landscape, "JPEG", quality=82, optimize=True)
-    landscape_16_9.save(p_cover16x9, "JPEG", quality=82, optimize=True)
+    portrait.save(p_portrait, "JPEG", quality=80, optimize=True, progressive=True)
+    square.save(p_square, "JPEG", quality=80, optimize=True, progressive=True)
+    landscape_4_3.save(p_landscape, "JPEG", quality=80, optimize=True, progressive=True)
+    landscape_16_9.save(p_cover16x9, "JPEG", quality=80, optimize=True, progressive=True)
 
     return {
         "portrait": f"{config.SITE_URL}/stories/{slug}/poster-portrait.jpg",
@@ -174,20 +172,20 @@ def generate_amp_story_html(article: dict) -> str:
             {
                 "@type": "ImageObject",
                 "url": cover_16x9_url,
-                "width": 3840,
-                "height": 2160
+                "width": 1600,
+                "height": 900
             },
             {
                 "@type": "ImageObject",
                 "url": poster_landscape_url,
-                "width": 2880,
-                "height": 2160
+                "width": 1600,
+                "height": 1200
             },
             {
                 "@type": "ImageObject",
                 "url": poster_square_url,
-                "width": 2160,
-                "height": 2160
+                "width": 1200,
+                "height": 1200
             }
         ],
         "datePublished": pub_iso,

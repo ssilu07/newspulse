@@ -916,6 +916,11 @@ def build_static_site(articles: list, dist_dir: Path = None):
     # 4. Build AMP Stories for each article in the archive
     stories_dir = dist_dir / "stories"
     stories_dir.mkdir(parents=True, exist_ok=True)
+    active_slugs = {art["slug"] for art in all_articles if art.get("slug")}
+    for existing_dir in stories_dir.iterdir():
+        if existing_dir.is_dir() and existing_dir.name not in active_slugs:
+            shutil.rmtree(existing_dir, ignore_errors=True)
+
     print(f"[*] Ensuring AMP Web Stories are generated for {len(all_articles)} stories...")
     for art in all_articles:
         save_story_to_dist(art, stories_dir / art["slug"])
