@@ -135,6 +135,14 @@ def validate_single_story_rules(file_path: Path) -> tuple[bool, list[str]]:
 
     # 4. Verify local poster images are intact and meet AMP/Discover minimum dimensions
     story_dir = file_path.parent
+    dist_root = story_dir.parent.parent
+    poster_src = story.get("poster-portrait-src", "") if story else ""
+    if "/static/assets/posters/" in poster_src:
+        rel_part = poster_src.split("/static/assets/posters/", 1)[1].rsplit("/", 1)[0]
+        poster_dir = dist_root / "static" / "assets" / "posters" / rel_part
+    else:
+        poster_dir = story_dir
+
     required_posters = {
         "poster-portrait.jpg": (640, 853),
         "poster-square.jpg": (1200, 1200),
@@ -142,9 +150,9 @@ def validate_single_story_rules(file_path: Path) -> tuple[bool, list[str]]:
         "cover-16x9.jpg": (1200, 675),
     }
     for img_name, (min_w, min_h) in required_posters.items():
-        img_path = story_dir / img_name
+        img_path = poster_dir / img_name
         if not img_path.exists() or img_path.stat().st_size == 0:
-            issues.append(f"Missing or empty poster image: {img_name}")
+            issues.append(f"Missing or empty poster image: {img_path}")
         else:
             try:
                 from PIL import Image

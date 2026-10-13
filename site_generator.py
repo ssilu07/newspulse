@@ -15,7 +15,7 @@ from pathlib import Path
 from html import escape
 from datetime import datetime, timezone
 import config
-from story_generator import save_story_to_dist
+from story_generator import save_story_to_dist, ensure_category_posters
 
 if hasattr(sys.stdout, "reconfigure"):
     try:
@@ -900,7 +900,8 @@ def build_static_site(articles: list, dist_dir: Path = None):
         print("[!] No articles available to build site.")
         return
 
-    # 2. Copy static assets
+    # 2. Ensure shared category HD posters and copy static assets
+    ensure_category_posters(config.STATIC_DIR)
     dist_static = dist_dir / "static"
     if dist_static.exists():
         shutil.rmtree(dist_static)
@@ -921,9 +922,10 @@ def build_static_site(articles: list, dist_dir: Path = None):
         if existing_dir.is_dir() and existing_dir.name not in active_slugs:
             shutil.rmtree(existing_dir, ignore_errors=True)
 
-    print(f"[*] Ensuring AMP Web Stories are generated for {len(all_articles)} stories...")
-    for art in all_articles:
-        save_story_to_dist(art, stories_dir / art["slug"])
+    max_local_posters = getattr(config, "MAX_LOCAL_POSTER_STORIES", 150)
+    print(f"[*] Ensuring AMP Web Stories are generated for {len(all_articles)} stories (top {max_local_posters} with dedicated posters)...")
+    for idx, art in enumerate(all_articles):
+        save_story_to_dist(art, stories_dir / art["slug"], keep_local_posters=(idx < max_local_posters))
     print(f"[OK] Successfully verified/built {len(all_articles)} AMP Web Stories in dist/stories/")
 
     # 5. Build Compliance Pages

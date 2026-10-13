@@ -55,21 +55,78 @@ def create_gradient_fallback(category_slug: str = "trending", width: int = 1600,
     return img
 
 
-def ensure_story_posters(article: dict, output_dir: Path) -> dict:
+def ensure_category_posters(base_static_dir: Path = None) -> None:
+    """Ensures shared category HD posters exist in static/assets/posters/<category>/ for archived stories."""
+    if base_static_dir is None:
+        base_static_dir = config.STATIC_DIR
+    posters_root = base_static_dir / "assets" / "posters"
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (NewsPulse/2.0)"}
+
+    for cat_slug, cat_info in config.CATEGORIES.items():
+        cat_dir = posters_root / cat_slug
+        cat_dir.mkdir(parents=True, exist_ok=True)
+        p_portrait = cat_dir / "poster-portrait.jpg"
+        p_square = cat_dir / "poster-square.jpg"
+        p_landscape = cat_dir / "poster-landscape.jpg"
+        p_cover16x9 = cat_dir / "cover-16x9.jpg"
+
+        if p_portrait.exists() and p_square.exists() and p_landscape.exists() and p_cover16x9.exists():
+            if p_portrait.stat().st_size > 0 and p_cover16x9.stat().st_size > 0:
+                continue
+
+        im = None
+        fallback_url = upgrade_image_resolution(cat_info.get("default_image", ""), cat_slug)
+        if fallback_url and fallback_url.startswith("http"):
+            try:
+                req = urllib.request.Request(fallback_url, headers=headers)
+                with urllib.request.urlopen(req, timeout=4.0) as resp:
+                    im = Image.open(io.BytesIO(resp.read())).convert("RGB")
+            except Exception:
+                im = None
+        if im is None:
+            im = create_gradient_fallback(cat_slug, 1600, 1200)
+
+        crop_to_aspect(im, 3 / 4, 960, 1280).save(p_portrait, "JPEG", quality=78, optimize=True, progressive=True)
+        crop_to_aspect(im, 1 / 1, 1200, 1200).save(p_square, "JPEG", quality=78, optimize=True, progressive=True)
+        crop_to_aspect(im, 4 / 3, 1600, 1200).save(p_landscape, "JPEG", quality=78, optimize=True, progressive=True)
+        crop_to_aspect(im, 16 / 9, 1600, 900).save(p_cover16x9, "JPEG", quality=78, optimize=True, progressive=True)
+
+
+def ensure_story_posters(article: dict, output_dir: Path, keep_local_posters: bool = True) -> dict:
     """
-    Ensures that Google Search Console & Web Stories compliant high-res posters exist locally:
+    Ensures that Google Search Console & Web Stories compliant high-res posters exist:
     - poster-portrait.jpg (960x1280, 3:4 aspect ratio, >= 640x853)
     - poster-square.jpg (1200x1200, 1:1 aspect ratio, >= 640x640)
     - poster-landscape.jpg (1600x1200, 4:3 aspect ratio, >= 853x640)
     - cover-16x9.jpg (1600x900, 16:9 aspect ratio, >= 1200px width, > 800,000 pixels)
+    For archived stories beyond MAX_LOCAL_POSTER_STORIES (keep_local_posters=False),
+    removes duplicate per-story JPEGs and returns shared category HD poster URLs.
     """
     output_dir.mkdir(parents=True, exist_ok=True)
     slug = article["slug"]
+    cat_slug = article.get("category", "trending")
+    if cat_slug not in config.CATEGORIES:
+        cat_slug = "trending"
     
     p_portrait = output_dir / "poster-portrait.jpg"
     p_square = output_dir / "poster-square.jpg"
     p_landscape = output_dir / "poster-landscape.jpg"
     p_cover16x9 = output_dir / "cover-16x9.jpg"
+
+    if not keep_local_posters:
+        for p_file in (p_portrait, p_square, p_landscape, p_cover16x9):
+            if p_file.exists():
+                try:
+                    p_file.unlink()
+                except Exception:
+                    pass
+        base_cat_url = f"{config.SITE_URL}/static/assets/posters/{cat_slug}"
+        return {
+            "portrait": f"{base_cat_url}/poster-portrait.jpg",
+            "square": f"{base_cat_url}/poster-square.jpg",
+            "landscape": f"{base_cat_url}/poster-landscape.jpg",
+            "cover16x9": f"{base_cat_url}/cover-16x9.jpg"
+        }
 
     # Fast caching check
     if p_portrait.exists() and p_square.exists() and p_landscape.exists() and p_cover16x9.exists():
@@ -82,7 +139,6 @@ def ensure_story_posters(article: dict, output_dir: Path) -> dict:
             }
 
     # Fetch source image
-    cat_slug = article.get("category", "trending")
     source_url = article.get("image_url") or config.CATEGORIES.get(cat_slug, {}).get("default_image", "")
     source_url = upgrade_image_resolution(source_url, cat_slug)
 
@@ -118,10 +174,10 @@ def ensure_story_posters(article: dict, output_dir: Path) -> dict:
     landscape_4_3 = crop_to_aspect(im, 4 / 3, 1600, 1200)
     landscape_16_9 = crop_to_aspect(im, 16 / 9, 1600, 900)
 
-    portrait.save(p_portrait, "JPEG", quality=80, optimize=True, progressive=True)
-    square.save(p_square, "JPEG", quality=80, optimize=True, progressive=True)
-    landscape_4_3.save(p_landscape, "JPEG", quality=80, optimize=True, progressive=True)
-    landscape_16_9.save(p_cover16x9, "JPEG", quality=80, optimize=True, progressive=True)
+    portrait.save(p_portrait, "JPEG", quality=78, optimize=True, progressive=True)
+    square.save(p_square, "JPEG", quality=78, optimize=True, progressive=True)
+    landscape_4_3.save(p_landscape, "JPEG", quality=78, optimize=True, progressive=True)
+    landscape_16_9.save(p_cover16x9, "JPEG", quality=78, optimize=True, progressive=True)
 
     return {
         "portrait": f"{config.SITE_URL}/stories/{slug}/poster-portrait.jpg",
@@ -131,7 +187,7 @@ def ensure_story_posters(article: dict, output_dir: Path) -> dict:
     }
 
 
-def generate_amp_story_html(article: dict) -> str:
+def generate_amp_story_html(article: dict, poster_urls: dict = None) -> str:
     """
     Renders 100% compliant AMP Story 1.0 HTML with 5 visual slides,
     metadata, JSON-LD NewsArticle schema, and cross-exit navigation.
@@ -150,10 +206,16 @@ def generate_amp_story_html(article: dict) -> str:
     pub_iso = article.get("published_at", "2026-10-03T12:00:00Z")
 
     # High-resolution poster and schema URLs
-    poster_portrait_url = f"{canonical_url}poster-portrait.jpg"
-    poster_square_url = f"{canonical_url}poster-square.jpg"
-    poster_landscape_url = f"{canonical_url}poster-landscape.jpg"
-    cover_16x9_url = f"{canonical_url}cover-16x9.jpg"
+    if poster_urls:
+        poster_portrait_url = poster_urls["portrait"]
+        poster_square_url = poster_urls["square"]
+        poster_landscape_url = poster_urls["landscape"]
+        cover_16x9_url = poster_urls["cover16x9"]
+    else:
+        poster_portrait_url = f"{canonical_url}poster-portrait.jpg"
+        poster_square_url = f"{canonical_url}poster-square.jpg"
+        poster_landscape_url = f"{canonical_url}poster-landscape.jpg"
+        cover_16x9_url = f"{canonical_url}cover-16x9.jpg"
 
     slides = article.get("slides") or []
 
@@ -211,6 +273,7 @@ def generate_amp_story_html(article: dict) -> str:
     # Render slides HTML
     slides_html_list = []
     total_slides = len(slides)
+    cat_slug = article.get("category", "trending")
 
     for i, slide in enumerate(slides):
         page_id = f"slide-{i + 1}"
@@ -218,13 +281,17 @@ def generate_amp_story_html(article: dict) -> str:
         s_badge = escape(slide.get("badge", cat_name))
         s_text = escape(slide.get("text", ""))
         
-        # Slide 1 uses the guaranteed high-res 3:4 portrait poster with absolute URL
+        # Slide 1 uses local story portrait poster if dedicated, or the article's own real high-res image
         if i == 0:
-            s_image = poster_portrait_url
+            if f"/stories/{slug}/" in poster_portrait_url:
+                s_image = poster_portrait_url
+            else:
+                raw_art_img = article.get("image_url") or slide.get("image") or poster_portrait_url
+                s_image = upgrade_image_resolution(raw_art_img, cat_slug) if raw_art_img.startswith("http") else poster_portrait_url
         else:
             s_image = slide.get("image") or poster_portrait_url
             if s_image.startswith("http"):
-                s_image = upgrade_image_resolution(s_image, article.get("category", "trending"))
+                s_image = upgrade_image_resolution(s_image, cat_slug)
 
         s_alt = escape(slide.get("alt", title_escaped))
 
@@ -519,7 +586,7 @@ def generate_amp_story_html(article: dict) -> str:
     return html_content
 
 
-def save_story_to_dist(article: dict, output_dir: Path = None) -> Path:
+def save_story_to_dist(article: dict, output_dir: Path = None, keep_local_posters: bool = True) -> Path:
     """
     Renders and writes the AMP Story HTML file into dist/stories/<slug>/index.html
     alongside Google-compliant high-resolution posters (3:4, 1:1, 4:3, 16:9).
@@ -528,11 +595,11 @@ def save_story_to_dist(article: dict, output_dir: Path = None) -> Path:
         output_dir = config.DIST_DIR / "stories" / article["slug"]
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # 1. Generate guaranteed high-resolution poster images
-    ensure_story_posters(article, output_dir)
+    # 1. Generate or resolve guaranteed high-resolution poster images
+    poster_urls = ensure_story_posters(article, output_dir, keep_local_posters=keep_local_posters)
 
     # 2. Render AMP story HTML referencing the verified high-res assets
-    html_code = generate_amp_story_html(article)
+    html_code = generate_amp_story_html(article, poster_urls=poster_urls)
     file_path = output_dir / "index.html"
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(html_code)
