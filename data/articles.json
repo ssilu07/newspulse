@@ -1,5 +1,821 @@
 [
   {
+    "id": "art_1791910999_3",
+    "slug": "facebook-will-let-you-customize-your-feed-algorithm-using-ai",
+    "category": "tech",
+    "category_name": "Tech",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "The Verge",
+    "raw_title": "Facebook will let you customize your feed algorithm using AI",
+    "title": "Facebook will let you customize your feed algorithm using AI",
+    "raw_summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this year, and Meta also launched a similar \"Dear Algo\" feature on Threads. Facebook users will be able to access Your Algorithm or select \"interested\" or \"not interested\" from the three dots menu on individual posts. The \"interested\" and \"not interested\" buttons may also appear under posts, an … Read the full story at The Verge.",
+    "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/meta-your-algorithm-facebook.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "original_url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+    "published_at": "2026-10-13T17:01:31+00:00",
+    "time_ago": "1m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels.",
+      "Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
+      "Official reporting verified via The Verge news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Facebook will let you customize your feed algorithm using AI",
+        "badge": "Breaking",
+        "text": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/meta-your-algorithm-facebook.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "alt": "Facebook will let you customize your feed algorithm using AI cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels.",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Tech",
+        "text": "Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from The Verge.",
+        "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 47
+  },
+  {
+    "id": "art_1791910999_4",
+    "slug": "google-makes-it-easier-to-launch-your-vibe-coded-apps",
+    "category": "tech",
+    "category_name": "Tech",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "The Verge",
+    "raw_title": "Google makes it easier to launch your vibe-coded apps",
+    "title": "Google makes it easier to launch your vibe-coded apps",
+    "raw_summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code personal Android apps in May. Even though you can now launch your custom apps in Google Play, the company notes it will continue to keep them \"secure, private, and separate from the public store catalog.\" You can also launch them using a standard Google account, and the company will soon add the ability to share your app with a select gr … Read the full story at The Verge.",
+    "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "original_url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+    "published_at": "2026-10-13T17:00:00+00:00",
+    "time_ago": "3m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it.",
+      "On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
+      "Official reporting verified via The Verge news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Google makes it easier to launch your vibe-coded apps",
+        "badge": "Breaking",
+        "text": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "alt": "Google makes it easier to launch your vibe-coded apps cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it.",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Tech",
+        "text": "On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from The Verge.",
+        "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 48
+  },
+  {
+    "id": "art_1791910999_5",
+    "slug": "google-play-now-supports-private-vibe-coded-apps-built-just-for-y",
+    "category": "ai-future",
+    "category_name": "AI & Future",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
+    "category_icon": "🧠",
+    "source": "TechCrunch",
+    "raw_title": "Google Play now supports private, vibe-coded apps built just for you",
+    "title": "Google Play now supports private, vibe-coded apps built just for you",
+    "raw_summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1600,1067",
+    "original_url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "published_at": "2026-10-13T17:00:00+00:00",
+    "time_ago": "3m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from TechCrunch."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Google Play now supports private, vibe-coded apps built just for you",
+        "badge": "Breaking",
+        "text": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1600,1067",
+        "alt": "Google Play now supports private, vibe-coded apps built just for you cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+        "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "AI & Future",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from TechCrunch.",
+        "image": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 27
+  },
+  {
+    "id": "art_1791910999_13",
+    "slug": "ncis-origins-to-reunite-mark-harmon-and-michael-weatherly-on-scre",
+    "category": "entertainment",
+    "category_name": "Entertainment",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Variety",
+    "raw_title": "‘NCIS: Origins’ to Reunite Mark Harmon and Michael Weatherly on Screen For the First Time in 10 Years",
+    "title": "‘NCIS: Origins’ to Reunite Mark Harmon and Michael Weatherly on Screen For the First Time in 10 Years",
+    "raw_summary": "Gibbs and Tony are reuniting after 10 years. On next Tuesday’s episode of “NCIS: Origins,” Mark Harmon and Michael Weatherly will share the screen as their “NCIS” characters for the first time in a decade. Harmon (as Leroy Jethro Gibbs) and Weatherly (as Tony DiNozzo) spent 13 seasons appearing together on “NCIS”; they were last […]",
+    "summary": "Gibbs and Tony are reuniting after 10 years. On next Tuesday’s episode of “NCIS: Origins,” Mark Harmon and Michael Weatherly will share the screen as their “NCIS” characters for the first time in a decade. Harmon (as Leroy Jethro Gibbs) and Weatherly (as Tony DiNozzo) spent 13 seasons appearing together on “NCIS”; they were last […]",
+    "image_url": "https://variety.com/wp-content/uploads/2026/10/MHMW3245384_NCOR_S3_0855b2.jpg",
+    "original_url": "https://variety.com/2026/tv/news/ncis-origins-mark-harmon-michael-weatherly-reunite-1236910172/",
+    "published_at": "2026-10-13T17:00:00+00:00",
+    "time_ago": "3m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Gibbs and Tony are reuniting after 10 years.",
+      "On next Tuesday’s episode of “NCIS: Origins,” Mark Harmon and Michael Weatherly will share the screen as their “NCIS” characters for the first time in a decade.",
+      "Harmon (as Leroy Jethro Gibbs) and Weatherly (as Tony DiNozzo) spent 13 seasons appearing together on “NCIS”; they were last […]"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "‘NCIS: Origins’ to Reunite Mark Harmon and Michael Weatherly on Screen For the First Time in 10 Years",
+        "badge": "Breaking",
+        "text": "Gibbs and Tony are reuniting after 10 years.",
+        "image": "https://variety.com/wp-content/uploads/2026/10/MHMW3245384_NCOR_S3_0855b2.jpg",
+        "alt": "‘NCIS: Origins’ to Reunite Mark Harmon and Michael Weatherly on Screen For the First Time in 10 Years cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "On next Tuesday’s episode of “NCIS: Origins,” Mark Harmon and Michael Weatherly will share the screen as their “NCIS” characters for the first time in a decade.",
+        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Harmon (as Leroy Jethro Gibbs) and Weatherly (as Tony DiNozzo) spent 13 seasons appearing together on “NCIS”; they were last […]",
+        "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Entertainment",
+        "text": "On next Tuesday’s episode of “NCIS: Origins,” Mark Harmon and Michael Weatherly will share the screen as their “NCIS” characters for the first time in a decade.",
+        "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Variety.",
+        "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 56
+  },
+  {
+    "id": "art_1791910999_14",
+    "slug": "michael-jackson-at-the-super-bowl-documentary-coming-to-hulu-and-",
+    "category": "entertainment",
+    "category_name": "Entertainment",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Variety",
+    "raw_title": "‘Michael Jackson at the Super Bowl’ Documentary Coming to Hulu and ESPN",
+    "title": "‘Michael Jackson at the Super Bowl’ Documentary Coming to Hulu and ESPN",
+    "raw_summary": "Michael Jackson’s iconic performance during the the 1993 Super Bowl halftime show will be chronicled in a new documentary coming to Hulu and ESPN. Debuting in February 2027, “Spectacle: Michael Jackson at the Super Bowl” will follow the King of Pop as he prepares for his landmark performance at the Rose Bowl. It will feature […]",
+    "summary": "Michael Jackson’s iconic performance during the the 1993 Super Bowl halftime show will be chronicled in a new documentary coming to Hulu and ESPN. Debuting in February 2027, “Spectacle: Michael Jackson at the Super Bowl” will follow the King of Pop as he prepares for his landmark performance at the Rose Bowl.",
+    "image_url": "https://variety.com/wp-content/uploads/2026/10/71761009-e1791907797703.jpg",
+    "original_url": "https://variety.com/2026/tv/news/michael-jackson-super-bowl-documentary-hulu-espn-1236910198/",
+    "published_at": "2026-10-13T17:00:00+00:00",
+    "time_ago": "3m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Michael Jackson’s iconic performance during the the 1993 Super Bowl halftime show will be chronicled in a new documentary coming to Hulu and ESPN.",
+      "Debuting in February 2027, “Spectacle: Michael Jackson at the Super Bowl” will follow the King of Pop as he prepares for his landmark performance at the Rose Bowl.",
+      "Official reporting verified via Variety news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "‘Michael Jackson at the Super Bowl’ Documentary Coming to Hulu and ESPN",
+        "badge": "Breaking",
+        "text": "Michael Jackson’s iconic performance during the the 1993 Super Bowl halftime show will be chronicled in a new documentary coming to Hulu and ESPN.",
+        "image": "https://variety.com/wp-content/uploads/2026/10/71761009-e1791907797703.jpg",
+        "alt": "‘Michael Jackson at the Super Bowl’ Documentary Coming to Hulu and ESPN cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Debuting in February 2027, “Spectacle: Michael Jackson at the Super Bowl” will follow the King of Pop as he prepares for his landmark performance at the Rose Bowl.",
+        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Michael Jackson’s iconic performance during the the 1993 Super Bowl halftime show will be chronicled in a new documentary coming to Hulu and ESPN.",
+        "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Entertainment",
+        "text": "Debuting in February 2027, “Spectacle: Michael Jackson at the Super Bowl” will follow the King of Pop as he prepares for his landmark performance at the Rose Bowl.",
+        "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Variety.",
+        "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 52
+  },
+  {
+    "id": "art_1791910999_11",
+    "slug": "pybus-praises-atals-century-shanto-feels-chances-werent-grabbed",
+    "category": "sports",
+    "category_name": "Sports",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏆",
+    "source": "ESPN Cricinfo",
+    "raw_title": "Pybus praises Atal's century, Shanto feels chances weren't grabbed",
+    "title": "Pybus praises Atal's century, Shanto feels chances weren't grabbed",
+    "raw_summary": "\"I think we ended up drawing the game due to the small mistakes,\" Bangladesh captain Shanto says after Abu Dhabi draw",
+    "summary": "\"I think we ended up drawing the game due to the small mistakes,\" Bangladesh captain Shanto says after Abu Dhabi draw",
+    "image_url": "http://p.imgci.com/db/PICTURES/CMS/423700/423742.jpg",
+    "original_url": "https://www.cricinfo.com/ci/content/story/1558342.html?ex_cid=OTC-RSS",
+    "published_at": "2026-10-13T16:59:49+00:00",
+    "time_ago": "3m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "\"I think we ended up drawing the game due to the small mistakes,\" Bangladesh captain Shanto says after Abu Dhabi draw",
+      "Details monitored as developments unfold.",
+      "Verified coverage from ESPN Cricinfo."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Pybus praises Atal's century, Shanto feels chances weren't grabbed",
+        "badge": "Breaking",
+        "text": "\"I think we ended up drawing the game due to the small mistakes,\" Bangladesh captain Shanto says after Abu Dhabi draw",
+        "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423742.jpg",
+        "alt": "Pybus praises Atal's century, Shanto feels chances weren't grabbed cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "\"I think we ended up drawing the game due to the small mistakes,\" Bangladesh captain Shanto says after Abu Dhabi draw",
+        "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "\"I think we ended up drawing the game due to the small mistakes,\" Bangladesh captain Shanto says after Abu Dhabi draw",
+        "image": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Sports",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from ESPN Cricinfo.",
+        "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 21
+  },
+  {
+    "id": "art_1791910999_6",
+    "slug": "satlyt-founded-by-a-former-google-and-spacex-product-manager-rais",
+    "category": "ai-future",
+    "category_name": "AI & Future",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
+    "category_icon": "🧠",
+    "source": "TechCrunch",
+    "raw_title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "raw_summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1600,1067",
+    "original_url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "published_at": "2026-10-13T16:30:00+00:00",
+    "time_ago": "33m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from TechCrunch."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "badge": "Breaking",
+        "text": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1600,1067",
+        "alt": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+        "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "AI & Future",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from TechCrunch.",
+        "image": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 24
+  },
+  {
+    "id": "art_1791910999_12",
+    "slug": "sa20-donald-replaces-simons-as-jsks-bowling-coach",
+    "category": "sports",
+    "category_name": "Sports",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏆",
+    "source": "ESPN Cricinfo",
+    "raw_title": "SA20: Donald replaces Simons as JSK's bowling coach",
+    "title": "SA20: Donald replaces Simons as JSK's bowling coach",
+    "raw_summary": "Eric Simons and Tommy Simsek exit JSK",
+    "summary": "Eric Simons and Tommy Simsek exit JSK",
+    "image_url": "http://p.imgci.com/db/PICTURES/CMS/300700/300732.jpg",
+    "original_url": "https://www.cricinfo.com/ci/content/story/1558340.html?ex_cid=OTC-RSS",
+    "published_at": "2026-10-13T16:12:16+00:00",
+    "time_ago": "51m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Eric Simons and Tommy Simsek exit JSK",
+      "Details monitored as developments unfold.",
+      "Verified coverage from ESPN Cricinfo."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "SA20: Donald replaces Simons as JSK's bowling coach",
+        "badge": "Breaking",
+        "text": "Eric Simons and Tommy Simsek exit JSK",
+        "image": "http://p.imgci.com/db/PICTURES/CMS/300700/300732.jpg",
+        "alt": "SA20: Donald replaces Simons as JSK's bowling coach cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Eric Simons and Tommy Simsek exit JSK",
+        "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Eric Simons and Tommy Simsek exit JSK",
+        "image": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Sports",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from ESPN Cricinfo.",
+        "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 7
+  },
+  {
+    "id": "art_1791910999_1",
+    "slug": "majority-of-english-football-clubs-on-the-edge-of-financial-disas",
+    "category": "trending",
+    "category_name": "Trending",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "BBC News",
+    "raw_title": "Majority of English football clubs on the edge of financial disaster, report says",
+    "title": "Majority of English football clubs on the edge of financial disaster, report says",
+    "raw_summary": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
+    "summary": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/37b4/live/971360b0-c71b-11f1-bc2e-018d645d8d21.jpg",
+    "original_url": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-13T16:00:11+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from BBC News."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Majority of English football clubs on the edge of financial disaster, report says",
+        "badge": "Breaking",
+        "text": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/37b4/live/971360b0-c71b-11f1-bc2e-018d645d8d21.jpg",
+        "alt": "Majority of English football clubs on the edge of financial disaster, report says cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Trending",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from BBC News.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 22
+  },
+  {
+    "id": "art_1791910999_7",
+    "slug": "anthropic-to-disclose-new-revenue-numbers-as-ai-lab-financials-be",
+    "category": "business",
+    "category_name": "Business",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "📈",
+    "source": "CNBC",
+    "raw_title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+    "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+    "raw_summary": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
+    "summary": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&w=1920&h=1080",
+    "original_url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+    "published_at": "2026-10-13T14:55:51+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from CNBC."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+        "badge": "Breaking",
+        "text": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&w=1920&h=1080",
+        "alt": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Business",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CNBC.",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 23
+  },
+  {
+    "id": "art_1791910999_10",
+    "slug": "bulgaria-summons-russian-ambassador-after-ship-sinks-in-black-sea",
+    "category": "world",
+    "category_name": "World",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🌐",
+    "source": "BBC News",
+    "raw_title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+    "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+    "raw_summary": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
+    "summary": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/3983/live/6a522470-c708-11f1-a64c-550be9e3c66b.jpg",
+    "original_url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-13T14:51:59+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from BBC News."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+        "badge": "Breaking",
+        "text": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/3983/live/6a522470-c708-11f1-a64c-550be9e3c66b.jpg",
+        "alt": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
+        "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "World",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from BBC News.",
+        "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 18
+  },
+  {
+    "id": "art_1791910999_8",
+    "slug": "micron-seagate-western-digital-sink-as-chip-sell-off-deepens",
+    "category": "business",
+    "category_name": "Business",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "📈",
+    "source": "CNBC",
+    "raw_title": "Micron, Seagate, Western Digital sink as chip sell-off deepens",
+    "title": "Micron, Seagate, Western Digital sink as chip sell-off deepens",
+    "raw_summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
+    "summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108326697-1782389225408-gettyimages-2277830126-boivin-notitle260527_npNF9.jpeg?v=1782389330&w=1920&h=1080",
+    "original_url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "published_at": "2026-10-13T13:51:11+00:00",
+    "time_ago": "3h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Technology stocks tumbled Tuesday as a sell-off in U.S.",
+      "semiconductor shares spilled into Asian and European markets.",
+      "Official reporting verified via CNBC news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Micron, Seagate, Western Digital sink as chip sell-off deepens",
+        "badge": "Breaking",
+        "text": "Technology stocks tumbled Tuesday as a sell-off in U.S.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108326697-1782389225408-gettyimages-2277830126-boivin-notitle260527_npNF9.jpeg?v=1782389330&w=1920&h=1080",
+        "alt": "Micron, Seagate, Western Digital sink as chip sell-off deepens cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "semiconductor shares spilled into Asian and European markets.",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Technology stocks tumbled Tuesday as a sell-off in U.S.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Business",
+        "text": "semiconductor shares spilled into Asian and European markets.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CNBC.",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 17
+  },
+  {
     "id": "art_1791898605_7",
     "slug": "paul-tudor-jones-says-2027-could-be-a-really-challenging-year-for",
     "category": "business",
@@ -809,6 +1625,142 @@
         "badge": "Takeaway",
         "text": "Stay updated with continuous reporting from ESPN Cricinfo.",
         "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 16
+  },
+  {
+    "id": "art_1791910999_9",
+    "slug": "watch-emergency-calls-from-botched-christa-pike-execution-release",
+    "category": "world",
+    "category_name": "World",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🌐",
+    "source": "BBC News",
+    "raw_title": "Watch: Emergency calls from botched Christa Pike execution released",
+    "title": "Emergency calls from botched Christa Pike execution released",
+    "raw_summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
+    "summary": "Emergency calls from botched Christa Pike execution released. Full coverage and updates provided by official editorial wire services.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ec29/live/389f0120-c6de-11f1-a64c-550be9e3c66b.jpg",
+    "original_url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-13T12:03:51+00:00",
+    "time_ago": "4h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Emergency calls from botched Christa Pike execution released.",
+      "Full coverage and updates provided by official editorial wire services.",
+      "Official reporting verified via BBC News news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Emergency calls from botched Christa Pike execution released",
+        "badge": "Breaking",
+        "text": "Emergency calls from botched Christa Pike execution released.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ec29/live/389f0120-c6de-11f1-a64c-550be9e3c66b.jpg",
+        "alt": "Emergency calls from botched Christa Pike execution released cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Full coverage and updates provided by official editorial wire services.",
+        "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Emergency calls from botched Christa Pike execution released.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "World",
+        "text": "Full coverage and updates provided by official editorial wire services.",
+        "image": "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from BBC News.",
+        "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 18
+  },
+  {
+    "id": "art_1791910999_2",
+    "slug": "three-things-weve-learnt-about-the-uk-economy-from-the-imf",
+    "category": "trending",
+    "category_name": "Trending",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "BBC News",
+    "raw_title": "Three things we've learnt about the UK economy from the IMF",
+    "title": "Three things we've learnt about the UK economy from the IMF",
+    "raw_summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+    "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg",
+    "original_url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-13T11:58:43+00:00",
+    "time_ago": "5h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from BBC News."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Three things we've learnt about the UK economy from the IMF",
+        "badge": "Breaking",
+        "text": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg",
+        "alt": "Three things we've learnt about the UK economy from the IMF cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Trending",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from BBC News.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
         "alt": "Outlook visual"
       }
     ],
