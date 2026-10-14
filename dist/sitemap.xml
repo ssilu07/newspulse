@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-14T18:11:48Z</lastmod>
+    <lastmod>2026-10-14T21:49:03Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-14T18:11:48Z</lastmod>
+    <lastmod>2026-10-14T21:49:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-14T18:11:48Z</lastmod>
+    <lastmod>2026-10-14T21:49:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-14T18:11:48Z</lastmod>
+    <lastmod>2026-10-14T21:49:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-14T18:11:48Z</lastmod>
+    <lastmod>2026-10-14T21:49:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-14T18:11:48Z</lastmod>
+    <lastmod>2026-10-14T21:49:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-s/</loc>
+    <lastmod>2026-10-14T21:30:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1600,1067</image:loc>
+      <image:title>Flock CEO says its microphones detect ‘just gunshots’ — its website says different</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/zach-bryan-announces-2027-stadium-tour-dates-john-fogerty-ryan-bi/</loc>
+    <lastmod>2026-10-14T21:27:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2024/06/ACMD5855.jpg</image:loc>
+      <image:title>Zach Bryan Announces 2027 Stadium Tour Dates, John Fogerty, Ryan Bingham, More to Support</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/openai-bugging-suspect-booked-one-way-ticket-to-saudi-arabia-with/</loc>
+    <lastmod>2026-10-14T21:18:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792009377&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/eight-states-sue-openai-saying-chatgpt-isn8217t-safe-for-kids/</loc>
+    <lastmod>2026-10-14T21:11:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Eight states sue OpenAI, saying ChatGPT isn&amp;#8217;t safe for kids</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/60-minutes-sees-audience-dip-without-nfl-lead-in/</loc>
+    <lastmod>2026-10-14T21:05:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2021/02/60-Minutes.jpg</image:loc>
+      <image:title>’60 Minutes’ Sees Audience Dip Without NFL Lead-In</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/musk-says-any-limits-on-ukraines-starlink-access-down-to-us-not-h/</loc>
+    <lastmod>2026-10-14T20:55:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg</image:loc>
+      <image:title>Musk says any limits on Ukraine&#x27;s Starlink access down to US, not his firm</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/student-protesters-attack-government-buildings-in-tirana/</loc>
+    <lastmod>2026-10-14T20:29:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Student protesters attack government buildings in Tirana</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/microsoft-and-japan-took-down-a-cybercrime-network-behind-over-a-/</loc>
+    <lastmod>2026-10-14T20:03:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318439/akrales_220309_4977_0324.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Microsoft and Japan took down a cybercrime network behind over a billion scam messages</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/we-are-behind-you-and-that-will-not-change-pm-tells-zelensky/</loc>
+    <lastmod>2026-10-14T19:22:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a2be/live/2e4043e0-c7f3-11f1-9909-8f8db2b4c4ac.png</image:loc>
+      <image:title>We are behind you and that will not change, PM tells Zelensky</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/container-ship-sinks-in-strait-of-hormuz-as-iran-steps-up-attacks/</loc>
+    <lastmod>2026-10-14T19:22:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108368069-1790799195771-108368069-1790345254907-gettyimages-2293522281-AFP_C7JU7ZQ.jpeg?v=1790799253&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Container ship sinks in Strait of Hormuz as Iran steps up attacks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/youtube-music-launches-new-labels-as-ai-generated-music-floods-st/</loc>
+    <lastmod>2026-10-14T18:23:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1600</image:loc>
+      <image:title>YouTube Music launches new labels as AI-generated music floods streaming platforms</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hope-ton-paul-five-for-help-west-indies-level-series-2-2/</loc>
+    <lastmod>2026-10-14T18:12:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423807.jpg</image:loc>
+      <image:title>Hope ton, Paul five-for help West Indies level series 2-2</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/stories/green-progressing-well-but-still-uncertain-for-second-test/</loc>
@@ -98,6 +218,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/kenya-confirms-second-ebola-case-a-relative-of-the-first-victim/</loc>
+    <lastmod>2026-10-14T17:23:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/aa15/live/cb6ea3e0-c7e5-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Kenya confirms second Ebola case</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/how-high-inflation-became-a-fact-of-life-in-the-us/</loc>
     <lastmod>2026-10-14T17:20:23+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -145,6 +275,16 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5ade/live/73ec5110-c7d3-11f1-9e10-4dcbd31d4273.jpg</image:loc>
       <image:title>Sally Rooney books withdrawn in UK over Palestine Action support</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mcc-dig-up-unsatisfactory-test-pitch-after-icc-demerit-point/</loc>
+    <lastmod>2026-10-14T15:48:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/417900/417912.jpg</image:loc>
+      <image:title>MCC dig up &#x27;unsatisfactory&#x27; Test pitch after ICC demerit point</image:title>
     </image:image>
   </url>
   <url>
