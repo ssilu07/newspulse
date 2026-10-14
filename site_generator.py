@@ -752,6 +752,10 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
     with open(dist_dir / "sitemap.xml", "w", encoding="utf-8") as f:
         f.write("\n".join(std_lines))
 
+    # Also save as sitemap-main.xml as a clean alternative endpoint
+    with open(dist_dir / "sitemap-main.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(std_lines))
+
     # 2. Google News Specific Sitemap (Articles published within last 48 hours only per Google News guidelines)
     news_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -800,7 +804,24 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
     with open(dist_dir / "news-sitemap.xml", "w", encoding="utf-8") as f:
         f.write("\n".join(news_lines))
 
-    print(f"[OK] Generated sitemap.xml ({len(articles)} total stories) and news-sitemap.xml ({news_stories_count} fresh stories <= {max_news_age_hours}h).")
+    # 3. Master Sitemap Index (Universal standard bundling news-sitemap + sitemap)
+    index_lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+        '  <sitemap>',
+        f'    <loc>{config.SITE_URL}/news-sitemap.xml</loc>',
+        f'    <lastmod>{today_iso}</lastmod>',
+        '  </sitemap>',
+        '  <sitemap>',
+        f'    <loc>{config.SITE_URL}/sitemap-main.xml</loc>',
+        f'    <lastmod>{today_iso}</lastmod>',
+        '  </sitemap>',
+        '</sitemapindex>'
+    ]
+    with open(dist_dir / "sitemap_index.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(index_lines))
+
+    print(f"[OK] Generated sitemap.xml ({len(articles)} total stories), news-sitemap.xml ({news_stories_count} fresh stories <= {max_news_age_hours}h), and sitemap_index.xml.")
 
 
 def generate_robots_txt(dist_dir: Path):
@@ -808,7 +829,9 @@ def generate_robots_txt(dist_dir: Path):
     content = f"""User-agent: *
 Allow: /
 
+Sitemap: {config.SITE_URL}/sitemap_index.xml
 Sitemap: {config.SITE_URL}/sitemap.xml
+Sitemap: {config.SITE_URL}/sitemap-main.xml
 Sitemap: {config.SITE_URL}/news-sitemap.xml
 """
     with open(dist_dir / "robots.txt", "w", encoding="utf-8") as f:

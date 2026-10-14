@@ -10,6 +10,20 @@
       "dest": "/static/$1"
     },
     {
+      "src": "^/+sitemap_index\\.xml$",
+      "headers": {
+        "content-type": "application/xml; charset=utf-8"
+      },
+      "dest": "/sitemap_index.xml"
+    },
+    {
+      "src": "^/+sitemap-main\\.xml$",
+      "headers": {
+        "content-type": "application/xml; charset=utf-8"
+      },
+      "dest": "/sitemap-main.xml"
+    },
+    {
       "src": "^/+sitemap\\.xml$",
       "headers": {
         "content-type": "application/xml; charset=utf-8"
