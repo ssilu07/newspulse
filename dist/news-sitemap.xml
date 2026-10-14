@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/stories/chinas-exports-likely-grew-by-double-digits-in-september/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T01:16:02+00:00</news:publication_date>
+      <news:title>China&#x27;s exports likely grew by double-digits in September</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108405958-1791937428704-gettyimages-2299263032-AFP_D2XV29Y.jpeg?v=1791937445&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>China&#x27;s exports likely grew by double-digits in September</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/stock-futures-are-little-changed-as-traders-await-consumer-inflat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T00:58:42+00:00</news:publication_date>
+      <news:title>Stock futures are little changed as traders await consumer inflation report: Live updates</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108369465-1790695901856-gettyimages-2297721539-anotherday276803168_qetmyu8g.jpeg?v=1790696070&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Stock futures are little changed as traders await consumer inflation report: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/weibgen-century-helps-queensland-to-one-day-cup-win-over-wa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T00:34:02+00:00</news:publication_date>
+      <news:title>Weibgen century helps Queensland to One-Day Cup win over WA</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423700/423768.jpg</image:loc>
+      <image:title>Weibgen century helps Queensland to One-Day Cup win over WA</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/germany-puts-ukrainian-on-trial-accused-of-blowing-up-nord-stream/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T23:42:22+00:00</news:publication_date>
+      <news:title>Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8583/live/42414480-c72f-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/zimbabwean-author-denies-using-ai-to-write-award-winning-story/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T23:31:10+00:00</news:publication_date>
+      <news:title>Zimbabwean author denies using AI to write award-winning story</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2e42/live/dc1ac240-c723-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Zimbabwean author denies using AI to write award-winning story</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/clean-hands-review-zach-braff-is-a-cop-on-a-crusade-to-save-his-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T23:14:27+00:00</news:publication_date>
+      <news:title>‘Clean Hands’ Review: Zach Braff Is a Cop on a Crusade to Save His Addict Daughter in an Uneasy Fact-Based Crime Drama</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Clean-Hands.webp</image:loc>
+      <image:title>‘Clean Hands’ Review: Zach Braff Is a Cop on a Crusade to Save His Addict Daughter in an Uneasy Fact-Based Crime Drama</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/science-corporation-implants-its-vision-restoring-chip-in-its-fir/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T23:13:31+00:00</news:publication_date>
+      <news:title>Science Corporation implants its vision-restoring chip in its first Stargardt disease patient</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1600,1067</image:loc>
+      <image:title>Science Corporation implants its vision-restoring chip in its first Stargardt disease patient</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-pers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T23:05:34+00:00</news:publication_date>
+      <news:title>Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1600,1067</image:loc>
+      <image:title>Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/royal-mail-losing-400-postal-workers-a-week-says-union/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T23:03:59+00:00</news:publication_date>
+      <news:title>Royal Mail losing 400 postal workers a week, says union</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6236/live/4d710eb0-c71d-11f1-a82f-35874a3aae81.jpg</image:loc>
+      <image:title>Royal Mail losing 400 postal workers a week, says union</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/why-the-girls-revival-is-such-an-exciting-idea/</loc>
     <news:news>
       <news:publication>
@@ -45,6 +180,21 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/Benjamin_Costume_Archives_Wide.jpeg</image:loc>
       <image:title>‘Just Dance: Decades of Hits’ Costume Designer Breaks Down the New Game’s Look and Not Using AI: ‘It’s Our Art’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/once-upon-in-the-middle-east-review-chinas-oscar-entry-is-a-break/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T22:21:27+00:00</news:publication_date>
+      <news:title>‘Once Upon in the Middle East’ Review: China’s Oscar Entry Is a Breakneck Blockbuster That Mixes Food Porn With Wartime Devastation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/08/Once-Upon-a-Time-in-the-Middle-East.jpg</image:loc>
+      <image:title>‘Once Upon in the Middle East’ Review: China’s Oscar Entry Is a Breakneck Blockbuster That Mixes Food Porn With Wartime Devastation</image:title>
     </image:image>
   </url>
   <url>
@@ -108,6 +258,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/zelensky-and-burnham-to-meet-in-downing-street/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T21:31:30+00:00</news:publication_date>
+      <news:title>Zelensky and Burnham to meet in Downing Street</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1cfb/live/4dfc3380-c724-11f1-b881-4391ac746e04.png</image:loc>
+      <image:title>Zelensky and Burnham to meet in Downing Street</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/pope-diagnosed-with-lung-cancer-but-had-successful-surgery-vatica/</loc>
     <news:news>
       <news:publication>
@@ -165,6 +330,21 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1600</image:loc>
       <image:title>Judge orders OpenAI to turn over hiring records in Apple trade secrets case</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/it-looks-like-apple-music-is-getting-a-new-icon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T20:05:02+00:00</news:publication_date>
+      <news:title>It looks like Apple Music is getting a new icon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-music-new-old-icon-avstorm-twitter.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>It looks like Apple Music is getting a new icon</image:title>
     </image:image>
   </url>
   <url>
@@ -285,6 +465,21 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108403281-1791898216071-Untitled-4.jpg?v=1791898343&amp;w=1920&amp;h=1080</image:loc>
       <image:title>JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/russian-bot-farms-are-still-trolling-even-after-ukraine8217s-dron/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T18:31:31+00:00</news:publication_date>
+      <news:title>Russian bot farms are still trolling, even after Ukraine&amp;#8217;s drone strikes on Yandex</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24733136/1498885624.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Russian bot farms are still trolling, even after Ukraine&amp;#8217;s drone strikes on Yandex</image:title>
     </image:image>
   </url>
   <url>
@@ -555,6 +750,21 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/423700/423761.jpg</image:loc>
       <image:title>Sadikur 149 crushes Barishal; Chattogram move to No. 1 on NCL table</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tilak-varma-enjoying-middle-order-role-despite-preference-for-no-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T15:31:16+00:00</news:publication_date>
+      <news:title>Tilak Varma &#x27;enjoying&#x27; middle-order role despite preference for No. 3</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423568.jpg</image:loc>
+      <image:title>Tilak Varma &#x27;enjoying&#x27; middle-order role despite preference for No. 3</image:title>
     </image:image>
   </url>
   <url>
@@ -1365,21 +1575,6 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108382203-1791562089230-gettyimages-2298769155-AFP_D2RU8AT.jpeg?v=1791562104&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Judge orders Trump administration to immediately stop taxpayer-funded TV ads</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/watch-endangered-orangutans-released-back-into-the-wild-after-bor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T23:48:25+00:00</news:publication_date>
-      <news:title>Endangered orangutans released back into the wild after Borneo fires</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/911a/live/4f78adc0-c5d9-11f1-8047-553502192765.jpg</image:loc>
-      <image:title>Endangered orangutans released back into the wild after Borneo fires</image:title>
     </image:image>
   </url>
 </urlset>
