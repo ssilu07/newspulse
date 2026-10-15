@@ -8,3 +8,8 @@ venv/
 Thumbs.db
 
 .vercel
+
+# Google Cloud & Analytics Service Account Keys
+*credentials*.json
+ga_credentials.json
+service_account.json

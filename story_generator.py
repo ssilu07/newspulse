@@ -571,11 +571,15 @@ def generate_amp_story_html(article: dict, poster_urls: dict = None) -> str:
     poster-portrait-src="{poster_portrait_url}"
     poster-square-src="{poster_square_url}"
     poster-landscape-src="{poster_landscape_url}">
-  {f'''  <amp-analytics type="googleanalytics">
+  {f'''  <amp-analytics type="gtag" data-credentials="include">
     <script type="application/json">
     {{
-      "vars": {{ "account": "{config.GA_MEASUREMENT_ID}" }},
-      "triggers": {{ "trackPageview": {{ "on": "visible", "request": "pageview" }} }}
+      "vars": {{
+        "gtag_id": "{config.GA_MEASUREMENT_ID}",
+        "config": {{
+          "{config.GA_MEASUREMENT_ID}": {{ "groups": "default" }}
+        }}
+      }}
     }}
     </script>
   </amp-analytics>''' if getattr(config, 'GA_MEASUREMENT_ID', '') else ''}

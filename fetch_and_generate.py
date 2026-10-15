@@ -85,13 +85,23 @@ def run_pipeline(
         print("\n[Step 4/5] AMP validation skipped by configuration.")
 
     # Step 5: Safe social broadcast with rate limiting and anti-spam delays
-    print("\n[Step 5/5] Checking social syndication channels (Twitter, Telegram, Reddit)...")
+    print("\n[Step 5/6] Checking social syndication channels (Twitter, Telegram, Reddit)...")
     try:
         from social_poster import auto_share_top_articles
         # Only broadcast if there are fresh articles or pending unshared stories
         auto_share_top_articles(enriched_articles if enriched_articles else None)
     except Exception as e:
         print(f"  [!] Note on social broadcast (non-fatal): {e}")
+
+    # Step 6: Instant Search Engine Broadcasting (IndexNow + Google WebSub + Ping-O-Matic)
+    print("\n[Step 6/6] Instantly pinging Google WebSub, Bing IndexNow, and search aggregators...")
+    try:
+        from indexnow_submitter import submit_to_indexnow
+        from rss_pinger import ping_all_search_engines
+        submit_to_indexnow()
+        ping_all_search_engines()
+    except Exception as e:
+        print(f"  [!] Note on search engine pinging (non-fatal): {e}")
 
     duration = time.time() - start_time
     print("\n" + "=" * 72)

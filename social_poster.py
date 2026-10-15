@@ -297,12 +297,117 @@ def post_to_linkedin(article: dict) -> bool:
 
 
 # ==============================================================================
+# 5. Tumblr Auto-Poster (100% Free - Organic Traffic & SEO Backlinks)
+# ==============================================================================
+def get_tumblr_tags(category: str) -> str:
+    """Returns comma-separated tags tailored for Tumblr discovery."""
+    tags_map = {
+        "trending": "News, Breaking News, Trending, NewsSeconds, Headlines, Daily News",
+        "tech": "Tech, Technology, Gadgets, Tech News, Innovation, Silicon Valley",
+        "ai-future": "Artificial Intelligence, AI, Machine Learning, Tech Trends, Future Tech",
+        "business": "Business, Finance, Stock Market, Economy, Crypto, Money",
+        "world": "World News, Global News, Politics, Breaking News, Current Affairs",
+        "sports": "Sports, Cricket, Football, Match Day, Sports News, Highlights",
+        "entertainment": "Entertainment, Movies, Cinema, Gaming, Pop Culture, TV Shows"
+    }
+    return tags_map.get(category, "News, Breaking News, Daily News, NewsSeconds")
+
+
+def post_to_tumblr(article: dict) -> bool:
+    """
+    Publishes a rich news summary with hero image and Web Story backlink to Tumblr blog.
+    Uses Tumblr API v2 with OAuth 1.0a.
+    """
+    if not getattr(config, "ENABLE_TUMBLR_POSTING", True):
+        print("    [Tumblr] Auto-posting is disabled in config. Skipping.")
+        return False
+
+    consumer_key = os.getenv("TUMBLR_CONSUMER_KEY")
+    consumer_secret = os.getenv("TUMBLR_CONSUMER_SECRET")
+    oauth_token = os.getenv("TUMBLR_OAUTH_TOKEN")
+    oauth_secret = os.getenv("TUMBLR_OAUTH_SECRET")
+    blog_name = os.getenv("TUMBLR_BLOG_NAME")
+
+    if not all([consumer_key, consumer_secret, oauth_token, oauth_secret, blog_name]):
+        print("    [Tumblr] Credentials or blog name not fully configured in environment. Skipping.")
+        return False
+
+    # Clean blog name (remove http:// or https:// or trailing slashes)
+    blog_identifier = blog_name.strip()
+    blog_identifier = re.sub(r"^https?://", "", blog_identifier).rstrip("/")
+
+    try:
+        from requests_oauthlib import OAuth1
+        import requests
+
+        auth = OAuth1(
+            client_key=consumer_key,
+            client_secret=consumer_secret,
+            resource_owner_key=oauth_token,
+            resource_owner_secret=oauth_secret
+        )
+
+        title = article.get("title", "").strip()
+        summary = article.get("summary", "").strip()
+        bullets = article.get("bullet_points", [])
+        slug = article.get("slug", "")
+        category = article.get("category", "trending")
+        source = article.get("source", "NewsPulse")
+        orig_url = article.get("original_url", "#")
+        image_url = article.get("image_url", "")
+        story_url = f"{config.SITE_URL}/stories/{slug}/"
+
+        bullet_markdown = "\n".join([f"- {b}" for b in bullets]) if bullets else f"- {summary}"
+
+        # Build attractive Markdown post for Tumblr audience
+        body_parts = []
+        if image_url and image_url.startswith("http"):
+            body_parts.append(f"![{title}]({image_url})\n")
+
+        body_parts.append(f"### ⚡ **{title}**\n")
+        body_parts.append(f"{summary}\n")
+        body_parts.append(f"**📌 Key Takeaways:**\n{bullet_markdown}\n")
+        body_parts.append("---\n")
+        body_parts.append(f"👉 **[Read the Full 5-Slide Visual Web Story Here]({story_url})**  ")
+        body_parts.append(f"📰 *Original Source:* [{source}]({orig_url})  ")
+        body_parts.append(f"*Curated automatically by [{config.SITE_NAME}]({config.SITE_URL})*")
+
+        post_body = "\n".join(body_parts)
+        tags_str = get_tumblr_tags(category)
+
+        api_url = f"https://api.tumblr.com/v2/blog/{blog_identifier}/post"
+        payload = {
+            "type": "text",
+            "state": "published",
+            "title": title,
+            "body": post_body,
+            "format": "markdown",
+            "tags": tags_str,
+            "slug": slug
+        }
+
+        response = requests.post(api_url, data=payload, auth=auth, timeout=15)
+        if response.status_code in (200, 201):
+            res_data = response.json()
+            post_id = res_data.get("response", {}).get("id_string") or res_data.get("response", {}).get("id")
+            print(f"    [Tumblr] Posted successfully to {blog_identifier}! Post ID: {post_id}")
+            return True
+        else:
+            print(f"    [!] Tumblr error response ({response.status_code}): {response.text}")
+            return False
+
+    except Exception as e:
+        print(f"    [!] Tumblr posting error: {e}")
+        return False
+
+
+# ==============================================================================
 # Main Dispatcher
 # ==============================================================================
 def auto_share_top_articles(articles: list = None, max_posts: int = None) -> dict:
     """
     Selects top breaking articles that have not yet been posted to social media
-    and broadcasts them across Twitter, Reddit, Telegram, and LinkedIn.
+    and broadcasts them across Twitter, Reddit, Telegram, LinkedIn, and Tumblr.
     Enforces safe anti-spam rate limits and delays between posts.
     """
     if max_posts is None:
@@ -340,8 +445,9 @@ def auto_share_top_articles(articles: list = None, max_posts: int = None) -> dic
         need_reddit = getattr(config, "ENABLE_REDDIT_POSTING", True) and not art_history.get("reddit", False)
         need_telegram = getattr(config, "ENABLE_TELEGRAM_POSTING", False) and not art_history.get("telegram", False)
         need_linkedin = getattr(config, "ENABLE_LINKEDIN_POSTING", True) and not art_history.get("linkedin", False)
+        need_tumblr = getattr(config, "ENABLE_TUMBLR_POSTING", True) and not art_history.get("tumblr", False)
 
-        if not (need_twitter or need_reddit or need_telegram or need_linkedin):
+        if not (need_twitter or need_reddit or need_telegram or need_linkedin or need_tumblr):
             continue
 
         print(f"\n[*] Broadcasting: '{art.get('title', '')[:55]}...'")
@@ -377,6 +483,14 @@ def auto_share_top_articles(articles: list = None, max_posts: int = None) -> dic
                     art_history["linkedin"] = True
             except Exception as e:
                 print(f"    [!] LinkedIn broadcast error (non-fatal): {e}")
+
+        if need_tumblr:
+            try:
+                tb_ok = post_to_tumblr(art)
+                if tb_ok:
+                    art_history["tumblr"] = True
+            except Exception as e:
+                print(f"    [!] Tumblr broadcast error (non-fatal): {e}")
 
         art_history["last_posted_at"] = datetime.now(timezone.utc).isoformat()
         history[slug] = art_history

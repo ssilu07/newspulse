@@ -58,6 +58,8 @@ ENABLE_TELEGRAM_POSTING = os.getenv("ENABLE_TELEGRAM_POSTING", "false").lower() 
 ENABLE_TWITTER_POSTING = os.getenv("ENABLE_TWITTER_POSTING", "true").lower() in ("true", "1", "yes")
 ENABLE_REDDIT_POSTING = os.getenv("ENABLE_REDDIT_POSTING", "true").lower() in ("true", "1", "yes")
 ENABLE_LINKEDIN_POSTING = os.getenv("ENABLE_LINKEDIN_POSTING", "true").lower() in ("true", "1", "yes")
+ENABLE_TUMBLR_POSTING = os.getenv("ENABLE_TUMBLR_POSTING", "true").lower() in ("true", "1", "yes")
+TUMBLR_BLOG_NAME = os.getenv("TUMBLR_BLOG_NAME", "")
 
 # Google News Sitemap Age (Google News Guidelines strictly require <= 48 hours for news-sitemap.xml)
 GOOGLE_NEWS_MAX_AGE_HOURS = 48
@@ -66,6 +68,9 @@ GOOGLE_NEWS_MAX_AGE_HOURS = 48
 GOOGLE_SITE_VERIFICATION = os.getenv("GOOGLE_SITE_VERIFICATION", "XMDt3lDT2kpdjLlHlxQCSn5EcJcH2yw8f6nLjhLgN7g")
 CLARITY_PROJECT_ID = os.getenv("CLARITY_PROJECT_ID", "yw5kuxh5pg")
 GA_MEASUREMENT_ID = os.getenv("GA_MEASUREMENT_ID", "G-VX6D7B7WD6")
+GA_PROPERTY_ID = os.getenv("GA_PROPERTY_ID", "558495815")
+GA_CREDENTIALS_FILE = os.getenv("GA_CREDENTIALS_FILE", "ga_credentials.json")
+INDEXNOW_KEY = os.getenv("INDEXNOW_KEY", "b4f910a2d3e54c7b89f0123456789abc")
 
 # Categories and High-Reliability RSS Feeds
 CATEGORIES = {
