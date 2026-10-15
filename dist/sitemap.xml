@@ -3,39 +3,239 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-15T19:26:20Z</lastmod>
+    <lastmod>2026-10-15T21:32:42Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-15T19:26:20Z</lastmod>
+    <lastmod>2026-10-15T21:32:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-15T19:26:20Z</lastmod>
+    <lastmod>2026-10-15T21:32:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-15T19:26:20Z</lastmod>
+    <lastmod>2026-10-15T21:32:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-15T19:26:20Z</lastmod>
+    <lastmod>2026-10-15T21:32:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-15T19:26:20Z</lastmod>
+    <lastmod>2026-10-15T21:32:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/taylor-sheridans-frisco-king-starring-samuel-l-jackson-sets-relea/</loc>
+    <lastmod>2026-10-15T21:31:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/FriscoKing_101_EM_0420_00139_RT.jpg</image:loc>
+      <image:title>Taylor Sheridan’s ‘Frisco King’ Starring Samuel L. Jackson Sets Release Date (TV News Roundup)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/taylor-sheridans-frisco-king-starring-samuel-l-jackson-sets-relea/</loc>
+    <lastmod>2026-10-15T21:31:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/FriscoKing_101_EM_0420_00139_RT.jpg</image:loc>
+      <image:title>Taylor Sheridan’s ‘Frisco King’ Starring Samuel L. Jackson Sets Release Date (TV News Roundup)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trump-says-if-ken-paxton-loses-texas-senate-race-blame-cornyn-and/</loc>
+    <lastmod>2026-10-15T21:28:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108415213-1792084539459-gettyimages-2299789422-AFP_D3EV86B.jpeg?v=1792084636&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump says &#x27;if Ken Paxton loses&#x27; Texas Senate race, blame Cornyn and Karl Rove</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-says-if-ken-paxton-loses-texas-senate-race-blame-cornyn-and/</loc>
+    <lastmod>2026-10-15T21:28:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108415213-1792084539459-gettyimages-2299789422-AFP_D3EV86B.jpeg?v=1792084636&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump says &#x27;if Ken Paxton loses&#x27; Texas Senate race, blame Cornyn and Karl Rove</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bus-hits-train-stopped-on-french-side-of-channel-tunnel-with-19-i/</loc>
+    <lastmod>2026-10-15T21:12:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a8bd/live/94f13bb0-c8d6-11f1-874f-2bba45330ab3.jpg</image:loc>
+      <image:title>Bus hits train stopped on French side of  Channel Tunnel, with 19 injured</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bus-hits-train-stopped-on-french-side-of-channel-tunnel-with-19-i/</loc>
+    <lastmod>2026-10-15T21:12:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a8bd/live/94f13bb0-c8d6-11f1-874f-2bba45330ab3.jpg</image:loc>
+      <image:title>Bus hits train stopped on French side of  Channel Tunnel, with 19 injured</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration/</loc>
+    <lastmod>2026-10-15T21:09:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Trump posts AI-edited photo to brag about White House restoration work</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration/</loc>
+    <lastmod>2026-10-15T21:09:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Trump posts AI-edited photo to brag about White House restoration work</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fourth-wing-tv-series-casts-emilio-sakraya-as-xaden-riorson/</loc>
+    <lastmod>2026-10-15T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2248275728-e1792091399675.jpg</image:loc>
+      <image:title>‘Fourth Wing’ TV Series Casts Emilio Sakraya as Xaden Riorson</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/fourth-wing-tv-series-casts-emilio-sakraya-as-xaden-riorson/</loc>
+    <lastmod>2026-10-15T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2248275728-e1792091399675.jpg</image:loc>
+      <image:title>‘Fourth Wing’ TV Series Casts Emilio Sakraya as Xaden Riorson</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-harry-and-meghans-uk-relaunch-felt-so-much-like-a-royal-engag/</loc>
+    <lastmod>2026-10-15T20:24:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c435/live/7729bf90-c8d5-11f1-874f-2bba45330ab3.jpg</image:loc>
+      <image:title>Why Harry and Meghan&#x27;s UK relaunch felt so much like a royal engagement</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-harry-and-meghans-uk-relaunch-felt-so-much-like-a-royal-engag/</loc>
+    <lastmod>2026-10-15T20:24:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c435/live/7729bf90-c8d5-11f1-874f-2bba45330ab3.jpg</image:loc>
+      <image:title>Why Harry and Meghan&#x27;s UK relaunch felt so much like a royal engagement</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/coreweave-credit-default-swaps-hit-distress-levels-as-investors-s/</loc>
+    <lastmod>2026-10-15T20:18:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108414312-1792071462734-gettyimages-2245498612-raa-coreweav251110_npSDI.jpeg?v=1792071500&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>CoreWeave credit default swaps hit distress levels as investors sour on AI debt</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/coreweave-credit-default-swaps-hit-distress-levels-as-investors-s/</loc>
+    <lastmod>2026-10-15T20:18:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108414312-1792071462734-gettyimages-2245498612-raa-coreweav251110_npSDI.jpeg?v=1792071500&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>CoreWeave credit default swaps hit distress levels as investors sour on AI debt</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/meta-launches-an-open-weight-ai-model-that-runs-on-macs/</loc>
+    <lastmod>2026-10-15T20:04:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1600,1067</image:loc>
+      <image:title>Meta launches an open-weight AI model that runs on Macs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/meta-launches-an-open-weight-ai-model-that-runs-on-macs/</loc>
+    <lastmod>2026-10-15T20:04:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1600,1067</image:loc>
+      <image:title>Meta launches an open-weight AI model that runs on Macs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bluesky8217s-ai-tool-now-lets-you-make-games-and-apps-to-share-on/</loc>
+    <lastmod>2026-10-15T19:57:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Bluesky&amp;#8217;s AI tool now lets you make games and apps to share on social</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bluesky8217s-ai-tool-now-lets-you-make-games-and-apps-to-share-on/</loc>
+    <lastmod>2026-10-15T19:57:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Bluesky&amp;#8217;s AI tool now lets you make games and apps to share on social</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-r/</loc>
+    <lastmod>2026-10-15T19:55:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1600</image:loc>
+      <image:title>Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-r/</loc>
+    <lastmod>2026-10-15T19:55:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1600</image:loc>
+      <image:title>Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/sony-made-a-5900-gold-plated-walkman-mp3-player/</loc>
@@ -155,6 +355,46 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/Trump-White-House-Ballroom-Construction-1.jpg</image:loc>
       <image:title>Comcast Donated $7.5 Million for Donald Trump’s Lavish New White House Ballroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/maduro-pleads-not-guilty-to-new-torture-related-charges-in-new-yo/</loc>
+    <lastmod>2026-10-15T16:52:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d1ed/live/681f85b0-c8b8-11f1-bdfb-e3788aeae9ec.jpg</image:loc>
+      <image:title>Maduro pleads not guilty to new torture-related charges in New York</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/maduro-pleads-not-guilty-to-new-torture-related-charges-in-new-yo/</loc>
+    <lastmod>2026-10-15T16:52:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d1ed/live/681f85b0-c8b8-11f1-bdfb-e3788aeae9ec.jpg</image:loc>
+      <image:title>Maduro pleads not guilty to new torture-related charges in New York</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/russell-brand-accuser-says-he-turned-monster-like-before-alleged-/</loc>
+    <lastmod>2026-10-15T16:35:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ba88/live/d39f1a40-c8a3-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Russell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rape</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/russell-brand-accuser-says-he-turned-monster-like-before-alleged-/</loc>
+    <lastmod>2026-10-15T16:35:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ba88/live/d39f1a40-c8a3-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Russell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rape</image:title>
     </image:image>
   </url>
   <url>
@@ -495,6 +735,46 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423835.jpg</image:loc>
       <image:title>James Coles targets England debut after &#x27;spotlight&#x27; of Hundred price-tag</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nissanka-ruled-out-of-odi-tri-series-in-pakistan-due-to-hamstring/</loc>
+    <lastmod>2026-10-15T12:44:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422500/422591.jpg</image:loc>
+      <image:title>Nissanka ruled out of ODI tri-series in Pakistan due to hamstring injury</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nissanka-ruled-out-of-odi-tri-series-in-pakistan-due-to-hamstring/</loc>
+    <lastmod>2026-10-15T12:44:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422500/422591.jpg</image:loc>
+      <image:title>Nissanka ruled out of ODI tri-series in Pakistan due to hamstring injury</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/sydney-thunder-sign-boult-for-entire-bbl-2026-27-season/</loc>
+    <lastmod>2026-10-15T12:38:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422000/422003.jpg</image:loc>
+      <image:title>Sydney Thunder sign Boult for entire BBL 2026-27 season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/sydney-thunder-sign-boult-for-entire-bbl-2026-27-season/</loc>
+    <lastmod>2026-10-15T12:38:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422000/422003.jpg</image:loc>
+      <image:title>Sydney Thunder sign Boult for entire BBL 2026-27 season</image:title>
     </image:image>
   </url>
   <url>
