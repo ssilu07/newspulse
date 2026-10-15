@@ -38,6 +38,14 @@
       "dest": "/news-sitemap.xml"
     },
     {
+      "src": "/favicon.ico",
+      "headers": {
+        "content-type": "image/x-icon",
+        "cache-control": "public, max-age=86400"
+      },
+      "dest": "/favicon.ico"
+    },
+    {
       "src": "/robots.txt",
       "headers": {
         "content-type": "text/plain; charset=utf-8"

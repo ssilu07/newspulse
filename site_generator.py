@@ -358,8 +358,12 @@ def render_homepage_html(articles: list) -> str:
   <meta name="twitter:description" content="{config.SITE_DESCRIPTION}">
   <meta name="twitter:image" content="{config.PUBLISHER_LOGO}">
 
-  <!-- Favicon & PWA -->
-  <link rel="icon" type="image/svg+xml" href="/static/assets/icon.svg">
+  <!-- Favicon & PWA Icons (Google, Apple, Android) -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#07090e">
 
@@ -658,7 +662,11 @@ def generate_compliance_pages(dist_dir: Path):
   <meta property="og:url" content="{canonical}">
   <meta property="og:image" content="{config.PUBLISHER_LOGO}">
 
-  <link rel="icon" type="image/svg+xml" href="/static/assets/icon.svg">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="stylesheet" href="/static/css/style.css">
 {get_tracking_head_tags()}
 </head>
@@ -851,6 +859,21 @@ def generate_manifest_json(dist_dir: Path):
         "theme_color": "#07090e",
         "icons": [
             {
+                "src": "/favicon-48x48.png",
+                "sizes": "48x48",
+                "type": "image/png"
+            },
+            {
+                "src": "/android-chrome-192x192.png",
+                "sizes": "192x192",
+                "type": "image/png"
+            },
+            {
+                "src": "/android-chrome-512x512.png",
+                "sizes": "512x512",
+                "type": "image/png"
+            },
+            {
                 "src": "/static/assets/icon.svg",
                 "sizes": "any",
                 "type": "image/svg+xml"
@@ -930,6 +953,17 @@ def build_static_site(articles: list, dist_dir: Path = None):
         shutil.rmtree(dist_static)
     shutil.copytree(config.STATIC_DIR, dist_static)
     print(f"[OK] Copied static assets to {dist_static}")
+
+    # Copy root favicons for Googlebot & browsers directly to dist root
+    root_favicons = [
+        "favicon.ico", "favicon-16x16.png", "favicon-32x32.png", "favicon-48x48.png",
+        "apple-touch-icon.png", "android-chrome-192x192.png", "android-chrome-512x512.png"
+    ]
+    for fav_name in root_favicons:
+        src_f = config.STATIC_DIR / fav_name
+        if src_f.exists():
+            shutil.copy2(src_f, dist_dir / fav_name)
+    print(f"[OK] Copied {len(root_favicons)} root favicon files to {dist_dir}")
 
     # 3. Build Homepage (index.html) with top active articles
     home_html = render_homepage_html(all_articles)
