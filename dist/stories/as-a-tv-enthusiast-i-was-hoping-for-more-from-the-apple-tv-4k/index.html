@@ -221,11 +221,15 @@
     poster-portrait-src="https://newsseconds.com/stories/as-a-tv-enthusiast-i-was-hoping-for-more-from-the-apple-tv-4k/poster-portrait.jpg"
     poster-square-src="https://newsseconds.com/stories/as-a-tv-enthusiast-i-was-hoping-for-more-from-the-apple-tv-4k/poster-square.jpg"
     poster-landscape-src="https://newsseconds.com/stories/as-a-tv-enthusiast-i-was-hoping-for-more-from-the-apple-tv-4k/poster-landscape.jpg">
-    <amp-analytics type="googleanalytics">
+    <amp-analytics type="gtag" data-credentials="include">
     <script type="application/json">
     {
-      "vars": { "account": "G-VX6D7B7WD6" },
-      "triggers": { "trackPageview": { "on": "visible", "request": "pageview" } }
+      "vars": {
+        "gtag_id": "G-VX6D7B7WD6",
+        "config": {
+          "G-VX6D7B7WD6": { "groups": "default" }
+        }
+      }
     }
     </script>
   </amp-analytics>

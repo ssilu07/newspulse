@@ -221,11 +221,15 @@
     poster-portrait-src="https://newsseconds.com/stories/kenya-confirms-second-ebola-case-a-relative-of-the-first-victim/poster-portrait.jpg"
     poster-square-src="https://newsseconds.com/stories/kenya-confirms-second-ebola-case-a-relative-of-the-first-victim/poster-square.jpg"
     poster-landscape-src="https://newsseconds.com/stories/kenya-confirms-second-ebola-case-a-relative-of-the-first-victim/poster-landscape.jpg">
-    <amp-analytics type="googleanalytics">
+    <amp-analytics type="gtag" data-credentials="include">
     <script type="application/json">
     {
-      "vars": { "account": "G-VX6D7B7WD6" },
-      "triggers": { "trackPageview": { "on": "visible", "request": "pageview" } }
+      "vars": {
+        "gtag_id": "G-VX6D7B7WD6",
+        "config": {
+          "G-VX6D7B7WD6": { "groups": "default" }
+        }
+      }
     }
     </script>
   </amp-analytics>

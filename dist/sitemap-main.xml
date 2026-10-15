@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-15T10:53:59Z</lastmod>
+    <lastmod>2026-10-15T14:17:56Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-15T10:53:59Z</lastmod>
+    <lastmod>2026-10-15T14:17:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-15T10:53:59Z</lastmod>
+    <lastmod>2026-10-15T14:17:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-15T10:53:59Z</lastmod>
+    <lastmod>2026-10-15T14:17:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-15T10:53:59Z</lastmod>
+    <lastmod>2026-10-15T14:17:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-15T10:53:59Z</lastmod>
+    <lastmod>2026-10-15T14:17:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/iranian-auteur-majid-majidi-wins-top-prize-at-busan-film-festival/</loc>
+    <lastmod>2026-10-15T14:11:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/1788153786_0f6756.jpg</image:loc>
+      <image:title>Iranian Auteur Majid Majidi Wins Top Prize at Busan Film Festival With ‘Midday Meal’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/an-israeli-firm-is-sending-spyware-through-online-ads-researchers/</loc>
+    <lastmod>2026-10-15T14:10:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318436/akrales_220309_4977_0258.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>An Israeli firm is sending spyware through online ads, researchers say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/prep-your-cart-before-iphone-duo-preorders-open-tomorrow/</loc>
+    <lastmod>2026-10-15T14:07:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0003.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Prep your cart before iPhone Duo preorders open tomorrow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/techcrunch-disrupt-2026-last-day/</loc>
+    <lastmod>2026-10-15T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55588153544_30b536e5e6_o.jpg?resize=1600,1067</image:loc>
+      <image:title>TechCrunch Disrupt 2026: Last day</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/pov-shorts-moves-from-pbs-to-time-studios-youtube-channel-exclusi/</loc>
+    <lastmod>2026-10-15T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/birds-and-the-bees.webp</image:loc>
+      <image:title>‘POV Shorts’ Moves From PBS to Time Studios’ YouTube Channel (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/severe-drought-declared-in-parts-of-southern-england/</loc>
+    <lastmod>2026-10-15T13:53:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/fb8c/live/25934700-c894-11f1-b0a4-81e564f1cfaa.jpg</image:loc>
+      <image:title>Severe drought declared in parts of southern England</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/wholesale-prices-jumped-63-annually-in-september-biggest-gain-sin/</loc>
+    <lastmod>2026-10-15T13:46:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/107089766-1792067872595-107089766-1657925387054-gettyimages-1241044672-05312022_PHH_COSTCO_01.jpg?v=1792067884&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Wholesale prices jumped 6.3% annually in September, biggest gain since 2022</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cameron-green-in-doubt-for-gqeberha-test/</loc>
+    <lastmod>2026-10-15T13:44:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/421500/421582.jpg</image:loc>
+      <image:title>Cameron Green in doubt for Gqeberha Test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/former-dup-leader-donaldson-sentenced-to-15-years-in-prison-for-c/</loc>
+    <lastmod>2026-10-15T13:13:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a5a5/live/e6dbe1a0-81f0-11f1-b6ff-e9b8db4416d1.jpg</image:loc>
+      <image:title>Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/james-coles-targets-england-debut-after-spotlight-of-hundred-pric/</loc>
+    <lastmod>2026-10-15T12:54:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423835.jpg</image:loc>
+      <image:title>James Coles targets England debut after &#x27;spotlight&#x27; of Hundred price-tag</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-least-33-pupils-and-teacher-killed-after-school-roof-collapses/</loc>
+    <lastmod>2026-10-15T12:28:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg</image:loc>
+      <image:title>At least 33 pupils and teacher killed after school roof collapses in Pakistan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/memory-stocks-are-getting-hammered-china-and-a-2029-oversupply-ar/</loc>
+    <lastmod>2026-10-15T12:15:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108413630-1792061524731-gettyimages-2287713475-Korea_KOSPI_Index.jpeg?v=1792061563&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Memory stocks are getting hammered. China and a 2029 oversupply are the big worries</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/stories/analysis-why-a-2-trillion-deficit-and-5-treasury-yields-are-becom/</loc>
@@ -98,6 +218,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/two-dead-in-istanbul-after-heaviest-rainfall-in-84-years-governor/</loc>
+    <lastmod>2026-10-15T10:05:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/51e0/live/9c970420-c869-11f1-971b-634f423608e9.jpg</image:loc>
+      <image:title>Two dead in Istanbul after heaviest rainfall in 84 years, governor says</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/big-walk-skipped-xbox-to-boycott-microsofts-involvement-with-isra/</loc>
     <lastmod>2026-10-15T10:05:07+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -115,6 +245,16 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2297491841.jpg</image:loc>
       <image:title>FlyDubai Hijacking Incident Set for Development as an Inspirational Movie by Dori Media Group and India’s Sphereorigin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/six-wild-ideas-for-perpetuating-your-mind/</loc>
+    <lastmod>2026-10-15T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://wp.technologyreview.com/wp-content/uploads/2026/10/Unknown-1.jpg?w=840</image:loc>
+      <image:title>Six wild ideas for perpetuating your mind</image:title>
     </image:image>
   </url>
   <url>
