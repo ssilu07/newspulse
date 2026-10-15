@@ -411,6 +411,61 @@
         contactForm.reset();
       });
     }
+
+    // Dedicated Article Page Audio TTS Listener
+    const articleTtsBtn = document.getElementById('articleTtsBtn');
+    if (articleTtsBtn) {
+      articleTtsBtn.addEventListener('click', () => {
+        if (!('speechSynthesis' in window)) {
+          showToast('Text-to-speech not supported in this browser.');
+          return;
+        }
+
+        if (window.speechSynthesis.speaking) {
+          window.speechSynthesis.cancel();
+          articleTtsBtn.innerHTML = '<span>🔊</span> <span>Listen to Story</span>';
+          showToast('Audio playback stopped.');
+          return;
+        }
+
+        const title = document.querySelector('.article-title')?.textContent || '';
+        const lead = document.querySelector('.article-lead')?.textContent || '';
+        const bullets = Array.from(document.querySelectorAll('.article-takeaways-list li')).map(li => li.textContent).join('. ');
+        const textToRead = `${title}. Key highlights: ${bullets}. Briefing: ${lead}`;
+
+        const utterance = new SpeechSynthesisUtterance(textToRead);
+        utterance.rate = 1.0;
+        utterance.pitch = 1.0;
+
+        utterance.onstart = () => {
+          articleTtsBtn.innerHTML = '<span>⏹️</span> <span>Stop Audio</span>';
+          showToast('Playing audio narration...');
+        };
+
+        utterance.onend = () => {
+          articleTtsBtn.innerHTML = '<span>🔊</span> <span>Listen to Story</span>';
+        };
+
+        utterance.onerror = () => {
+          articleTtsBtn.innerHTML = '<span>🔊</span> <span>Listen to Story</span>';
+        };
+
+        window.speechSynthesis.speak(utterance);
+      });
+    }
+
+    // Article Page Copy Link Handler
+    const copyLinkBtn = document.getElementById('copyArticleLinkBtn');
+    if (copyLinkBtn) {
+      copyLinkBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        navigator.clipboard.writeText(window.location.href).then(() => {
+          showToast('Link copied to clipboard!');
+        }).catch(() => {
+          showToast('Copied: ' + window.location.href);
+        });
+      });
+    }
   }
 
   // Run on DOM Ready

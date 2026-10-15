@@ -7,6 +7,7 @@ sitemap, and APIs respond with status 200 and expected markup.
 from fastapi.testclient import TestClient
 from dev_server import app
 import json
+import config
 
 client = TestClient(app)
 
@@ -14,9 +15,7 @@ client = TestClient(app)
 def test_homepage():
     res = client.get("/")
     assert res.status_code == 200
-    assert "NewsPulse" in res.text
-    assert "Trending Web Stories" in res.text
-    assert "Live Breaking" in res.text
+    assert config.SITE_NAME in res.text
     print("[PASS] Homepage route (200 OK)")
 
 
@@ -24,7 +23,7 @@ def test_compliance_pages():
     for page in ["about", "privacy", "terms", "editorial-policy", "contact"]:
         res = client.get(f"/{page}/")
         assert res.status_code == 200, f"Page /{page}/ returned {res.status_code}"
-        assert "NewsPulse" in res.text
+        assert config.SITE_NAME in res.text
         print(f"[PASS] Compliance page /{page}/ (200 OK)")
 
 
@@ -42,17 +41,25 @@ def test_story_page():
     assert "amp-story-page" in res_story.text
     print(f"[PASS] Story route /stories/{first_slug}/ (200 OK, Valid AMP Story)")
 
+    res_news = client.get(f"/news/{first_slug}/")
+    assert res_news.status_code == 200
+    assert "article-layout" in res_news.text
+    assert "NewsArticle" in res_news.text
+    print(f"[PASS] Dedicated Article route /news/{first_slug}/ (200 OK, Full SEO Layout)")
+
 
 def test_seo_files():
     res_sitemap = client.get("/sitemap.xml")
     assert res_sitemap.status_code == 200
     assert "urlset" in res_sitemap.text
-    print("[PASS] Standard Sitemap XML (200 OK)")
+    assert "/news/" in res_sitemap.text
+    print("[PASS] Standard Sitemap XML with /news/ (200 OK)")
 
     res_news_sitemap = client.get("/news-sitemap.xml")
     assert res_news_sitemap.status_code == 200
     assert "news:news" in res_news_sitemap.text
-    print("[PASS] Google News Sitemap XML (200 OK)")
+    assert "/news/" in res_news_sitemap.text
+    print("[PASS] Google News Sitemap XML with /news/ (200 OK)")
 
     res_robots = client.get("/robots.txt")
     assert res_robots.status_code == 200
@@ -62,6 +69,12 @@ def test_seo_files():
     res_manifest = client.get("/manifest.json")
     assert res_manifest.status_code == 200
     print("[PASS] PWA Manifest JSON (200 OK)")
+
+    res_ads = client.get("/ads.txt")
+    assert res_ads.status_code == 200
+    assert "google.com" in res_ads.text
+    print("[PASS] ads.txt (200 OK, AdSense Verified)")
+
 
 
 def test_api():

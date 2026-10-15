@@ -50,12 +50,26 @@ def get_home():
     return read_file_or_404(index_file)
 
 
+@app.api_route("/news/{slug}/", methods=["GET", "HEAD"], response_class=HTMLResponse)
+@app.api_route("/news/{slug}", methods=["GET", "HEAD"], response_class=HTMLResponse)
+def get_news_article(slug: str):
+    """Serves an individual dedicated in-depth news article page."""
+    article_file = config.DIST_DIR / "news" / slug / "index.html"
+    return read_file_or_404(article_file)
+
+
 @app.api_route("/stories/{slug}/", methods=["GET", "HEAD"], response_class=HTMLResponse)
 @app.api_route("/stories/{slug}", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def get_story(slug: str):
     """Serves an individual 100% compliant AMP Web Story."""
     story_file = config.DIST_DIR / "stories" / slug / "index.html"
     return read_file_or_404(story_file)
+
+
+@app.api_route("/ads.txt", methods=["GET", "HEAD"])
+def get_ads_txt():
+    """Serves official Google AdSense ads.txt."""
+    return read_file_or_404(config.DIST_DIR / "ads.txt", media_type="text/plain; charset=utf-8")
 
 
 @app.api_route("/about/", methods=["GET", "HEAD"], response_class=HTMLResponse)

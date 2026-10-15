@@ -72,6 +72,11 @@ GA_PROPERTY_ID = os.getenv("GA_PROPERTY_ID", "558495815")
 GA_CREDENTIALS_FILE = os.getenv("GA_CREDENTIALS_FILE", "ga_credentials.json")
 INDEXNOW_KEY = os.getenv("INDEXNOW_KEY", "b4f910a2d3e54c7b89f0123456789abc")
 
+# Google AdSense Publisher Settings
+# Set ADSENSE_PUB_ID (e.g. 'pub-1234567890123456' or 'ca-pub-1234567890123456') in .env
+ADSENSE_PUB_ID = os.getenv("ADSENSE_PUB_ID", "")
+
+
 # Categories and High-Reliability RSS Feeds
 CATEGORIES = {
     "trending": {
