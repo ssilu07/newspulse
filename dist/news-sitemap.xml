@@ -3,6 +3,201 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/stories/sony-made-a-5900-gold-plated-walkman-mp3-player/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T17:48:57+00:00</news:publication_date>
+      <news:title>Sony made a $5,900 gold-plated Walkman MP3 player</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sony_walkman_WM1ZM3.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Sony made a $5,900 gold-plated Walkman MP3 player</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-calls-off-livestream-of-fort-hood-attackers-execution-by-fi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T17:47:22+00:00</news:publication_date>
+      <news:title>Trump calls off livestream of Fort Hood attacker&#x27;s execution by firing squad</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg</image:loc>
+      <image:title>Trump calls off livestream of Fort Hood attacker&#x27;s execution by firing squad</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cleveland-cavaliers-on-dazn-heres-how-to-watch-2026-2027-regular-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T17:42:42+00:00</news:publication_date>
+      <news:title>Cleveland Cavaliers on DAZN: Here’s How to Watch 2026-2027 Regular Season Games Live Online</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Cleveland-Cavaliers-on-DAZN-Getty-VR-Featured.jpg</image:loc>
+      <image:title>Cleveland Cavaliers on DAZN: Here’s How to Watch 2026-2027 Regular Season Games Live Online</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/punam-raut-retires-from-international-cricket/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T17:32:34+00:00</news:publication_date>
+      <news:title>Punam Raut retires from international cricket</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/265700/265710.jpg</image:loc>
+      <image:title>Punam Raut retires from international cricket</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volvo-will-use-nvidias-tech-for-hands-free-point-to-point-driving/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T17:30:00+00:00</news:publication_date>
+      <news:title>Volvo will use Nvidia’s tech for hands-free, point-to-point driving</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Volvo will use Nvidia’s tech for hands-free, point-to-point driving</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/comcast-donated-75-million-for-donald-trumps-lavish-new-white-hou/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T17:21:01+00:00</news:publication_date>
+      <news:title>Comcast Donated $7.5 Million for Donald Trump’s Lavish New White House Ballroom</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Trump-White-House-Ballroom-Construction-1.jpg</image:loc>
+      <image:title>Comcast Donated $7.5 Million for Donald Trump’s Lavish New White House Ballroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/school-headscarf-ban-sparks-rare-protests-in-azerbaijan-and-row-w/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T16:15:06+00:00</news:publication_date>
+      <news:title>School headscarf ban sparks rare protests in Azerbaijan and row with Turkey</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7927/live/925e7820-c8b0-11f1-9c75-6ff1271de385.png</image:loc>
+      <image:title>School headscarf ban sparks rare protests in Azerbaijan and row with Turkey</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trans-people-should-use-hospital-spaces-according-to-biological-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T16:07:26+00:00</news:publication_date>
+      <news:title>Trans people should use hospital spaces according to biological sex, NHS England says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/93db/live/ff45ce50-c880-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Trans people should use hospital spaces according to biological sex, NHS England says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kzncu-to-launch-thorough-internal-review-into-poor-attendance-in-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T15:46:03+00:00</news:publication_date>
+      <news:title>KZNCU to launch &#x27;thorough internal review&#x27; into poor attendance in Durban Test</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423700/423746.jpg</image:loc>
+      <image:title>KZNCU to launch &#x27;thorough internal review&#x27; into poor attendance in Durban Test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/economists-hot-ppi-shows-feds-work-is-not-done/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T15:37:59+00:00</news:publication_date>
+      <news:title>Economists: Hot PPI shows Fed&#x27;s work is not done</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108230160-17637550592025-11-21t195201z_1937334742_rc241iadto5c_rtrmadp_0_holidayshopping-retail-walmart.jpeg?v=1763755340&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Economists: Hot PPI shows Fed&#x27;s work is not done</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ai-agents-are-coming-to-rivians-cars/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T15:02:36+00:00</news:publication_date>
+      <news:title>AI agents are coming to Rivian’s cars</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1600,1067</image:loc>
+      <image:title>AI agents are coming to Rivian’s cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/seven-crew-missing-after-drone-attack-leaves-tanker-ablaze-off-ro/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T14:51:30+00:00</news:publication_date>
+      <news:title>Seven crew missing after drone attack leaves tanker ablaze off Romania&#x27;s coast</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/bd7f/live/80f03ac0-c88c-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Seven crew missing after drone attack leaves tanker ablaze off Romania&#x27;s coast</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/southwest-is-overhauling-its-frequent-flyer-program-heres-whats-c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T14:25:01+00:00</news:publication_date>
+      <news:title>Southwest is overhauling its frequent flyer program. Here&#x27;s what&#x27;s changing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108313063-1779968970407-gettyimages-2277877363-260527_san_137.jpeg?v=1792016572&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Southwest is overhauling its frequent flyer program. Here&#x27;s what&#x27;s changing</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/iranian-auteur-majid-majidi-wins-top-prize-at-busan-film-festival/</loc>
     <news:news>
       <news:publication>
@@ -1593,6 +1788,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/stories/the-us-militarys-race-to-make-fake-blood/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T09:00:00+00:00</news:publication_date>
+      <news:title>The US military’s race to make fake blood</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://wp.technologyreview.com/wp-content/uploads/2026/10/240611-KaloCyte-synthetic-blood-181.jpg</image:loc>
+      <image:title>The US military’s race to make fake blood</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/stories/russia-arrests-japanese-journalist-on-spying-charges/</loc>
     <news:news>
       <news:publication>
@@ -2385,276 +2595,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>I don’t miss the camera on the Ray-Ban Meta Audio glasses</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/laplace-intelligence-red-teams-robots-and-self-driving-cars-befor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T17:30:00+00:00</news:publication_date>
-      <news:title>Laplace Intelligence red-teams robots and self-driving cars before they hit the real world</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1600,1067</image:loc>
-      <image:title>Laplace Intelligence red-teams robots and self-driving cars before they hit the real world</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/kusal-mendis-87-hands-sri-lanka-consolation-win/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T17:21:42+00:00</news:publication_date>
-      <news:title>Kusal Mendis 87* hands Sri Lanka consolation win</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423700/423766.jpg</image:loc>
-      <image:title>Kusal Mendis 87* hands Sri Lanka consolation win</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T17:18:25+00:00</news:publication_date>
-      <news:title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1600,1067</image:loc>
-      <image:title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bavuma-focused-on-south-africa-response-after-first-taste-of-defe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T17:17:01+00:00</news:publication_date>
-      <news:title>Bavuma focused on South Africa response after first taste of defeat</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423700/423741.jpg</image:loc>
-      <image:title>Bavuma focused on South Africa response after first taste of defeat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/facebook-will-let-you-customize-your-feed-algorithm-using-ai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T17:01:31+00:00</news:publication_date>
-      <news:title>Facebook will let you customize your feed algorithm using AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/meta-your-algorithm-facebook.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Facebook will let you customize your feed algorithm using AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/google-makes-it-easier-to-launch-your-vibe-coded-apps/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T17:00:00+00:00</news:publication_date>
-      <news:title>Google makes it easier to launch your vibe-coded apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Google makes it easier to launch your vibe-coded apps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/google-play-now-supports-private-vibe-coded-apps-built-just-for-y/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T17:00:00+00:00</news:publication_date>
-      <news:title>Google Play now supports private, vibe-coded apps built just for you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1600,1067</image:loc>
-      <image:title>Google Play now supports private, vibe-coded apps built just for you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ncis-origins-to-reunite-mark-harmon-and-michael-weatherly-on-scre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T17:00:00+00:00</news:publication_date>
-      <news:title>‘NCIS: Origins’ to Reunite Mark Harmon and Michael Weatherly on Screen For the First Time in 10 Years</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/MHMW3245384_NCOR_S3_0855b2.jpg</image:loc>
-      <image:title>‘NCIS: Origins’ to Reunite Mark Harmon and Michael Weatherly on Screen For the First Time in 10 Years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/michael-jackson-at-the-super-bowl-documentary-coming-to-hulu-and-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T17:00:00+00:00</news:publication_date>
-      <news:title>‘Michael Jackson at the Super Bowl’ Documentary Coming to Hulu and ESPN</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/71761009-e1791907797703.jpg</image:loc>
-      <image:title>‘Michael Jackson at the Super Bowl’ Documentary Coming to Hulu and ESPN</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/pybus-praises-atals-century-shanto-feels-chances-werent-grabbed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T16:59:49+00:00</news:publication_date>
-      <news:title>Pybus praises Atal&#x27;s century, Shanto feels chances weren&#x27;t grabbed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423700/423742.jpg</image:loc>
-      <image:title>Pybus praises Atal&#x27;s century, Shanto feels chances weren&#x27;t grabbed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/satlyt-founded-by-a-former-google-and-spacex-product-manager-rais/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T16:30:00+00:00</news:publication_date>
-      <news:title>Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1600,1067</image:loc>
-      <image:title>Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/sa20-donald-replaces-simons-as-jsks-bowling-coach/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T16:12:16+00:00</news:publication_date>
-      <news:title>SA20: Donald replaces Simons as JSK&#x27;s bowling coach</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/300700/300732.jpg</image:loc>
-      <image:title>SA20: Donald replaces Simons as JSK&#x27;s bowling coach</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/football-regulator-says-he-would-quit-over-any-political-interfer/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T16:00:18+00:00</news:publication_date>
-      <news:title>Football regulator says he would quit over any political interference in Man City case</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4f78/live/8882f240-c720-11f1-a64c-550be9e3c66b.png</image:loc>
-      <image:title>Football regulator says he would quit over any political interference in Man City case</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/majority-of-english-football-clubs-on-the-edge-of-financial-disas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T16:00:11+00:00</news:publication_date>
-      <news:title>Majority of English football clubs on the edge of financial disaster, report says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/37b4/live/971360b0-c71b-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>Majority of English football clubs on the edge of financial disaster, report says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/sadikur-149-crushes-barishal-chattogram-move-to-no-1-on-ncl-table/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T15:32:53+00:00</news:publication_date>
-      <news:title>Sadikur 149 crushes Barishal; Chattogram move to No. 1 on NCL table</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423700/423761.jpg</image:loc>
-      <image:title>Sadikur 149 crushes Barishal; Chattogram move to No. 1 on NCL table</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tilak-varma-enjoying-middle-order-role-despite-preference-for-no-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T15:31:16+00:00</news:publication_date>
-      <news:title>Tilak Varma &#x27;enjoying&#x27; middle-order role despite preference for No. 3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423500/423568.jpg</image:loc>
-      <image:title>Tilak Varma &#x27;enjoying&#x27; middle-order role despite preference for No. 3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/anthropic-to-disclose-new-revenue-numbers-as-ai-lab-financials-be/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T14:55:51+00:00</news:publication_date>
-      <news:title>Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bulgaria-summons-russian-ambassador-after-ship-sinks-in-black-sea/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T14:51:59+00:00</news:publication_date>
-      <news:title>Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/3983/live/6a522470-c708-11f1-a64c-550be9e3c66b.jpg</image:loc>
-      <image:title>Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack</image:title>
     </image:image>
   </url>
 </urlset>
