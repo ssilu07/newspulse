@@ -144,6 +144,19 @@ def get_base_footer() -> str:
       </div>
     </div>
   </footer>
+
+  <!-- Cookie & GDPR Consent Banner (Google EU User Consent Policy) -->
+  <div class="cookie-consent-bar" id="cookieConsentBar" role="region" aria-label="Cookie Consent" style="display: none;">
+    <div class="container cookie-consent-inner">
+      <div class="cookie-text">
+        <span>🍪 <strong>Cookie &amp; Privacy Notice:</strong> We and our verified partners use cookies and local storage to deliver tailored news, analyze readership trends, and support our independent digital newsroom under our <a href="/privacy/">Privacy Policy</a>.</span>
+      </div>
+      <div class="cookie-actions">
+        <button id="cookieAcceptBtn" class="cookie-btn cookie-btn-accept">Accept All</button>
+        <button id="cookieManageBtn" class="cookie-btn cookie-btn-manage">Manage</button>
+      </div>
+    </div>
+  </div>
 """
 
 
@@ -662,23 +675,31 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
     lead_text = summary if summary else (raw_summary[:250] if raw_summary else title)
 
     # 2. Section 1: The Core Development
-    sec1_text = s_texts[0] if len(s_texts) > 0 else ""
-    if not sec1_text or sec1_text == summary:
+    raw_sec1 = s_texts[0] if len(s_texts) > 0 and s_texts[0] != summary else ""
+    if raw_sec1 and len(raw_sec1) > 20:
+        sec1_text = f"{raw_sec1} According to verified dispatches reported by {source}, key developments accelerated rapidly around this timeline. Field correspondents and sector analysts are tracking the sequence of events as official statements and operational data emerge."
+    else:
         sec1_text = f"According to verified wire dispatches reported by {source}, key developments accelerated rapidly around this story. Field correspondents and sector analysts are tracking the sequence of events as official statements and operational data emerge."
 
     # 3. Section 2: Background & Context
-    sec2_text = s_texts[1] if len(s_texts) > 1 else ""
-    if not sec2_text or sec2_text == summary:
+    raw_sec2 = s_texts[1] if len(s_texts) > 1 and s_texts[1] != summary else ""
+    if raw_sec2 and len(raw_sec2) > 20:
+        sec2_text = f"{raw_sec2} This latest development follows growing attention across the {cat_name.lower()} landscape over recent weeks. Stakeholders note that evolving standards, technological shifts, and public reception have created heightened focus around these disclosures. Historical precedents suggest that these indicators will remain critical in shaping immediate industry responses."
+    else:
         sec2_text = f"This latest development follows growing attention across the {cat_name.lower()} landscape over recent weeks. Stakeholders note that recent market shifts, technological advancements, and policy adjustments have created heightened focus around these events. Historical precedents suggest that these indicators will remain critical in shaping immediate industry responses."
 
     # 4. Section 3: Industry & Real-World Impact
-    sec3_text = s_texts[2] if len(s_texts) > 2 else ""
-    if not sec3_text or sec3_text == summary:
+    raw_sec3 = s_texts[2] if len(s_texts) > 2 and s_texts[2] != summary else ""
+    if raw_sec3 and len(raw_sec3) > 20:
+        sec3_text = f"{raw_sec3} Beyond the initial disclosures, ecosystem participants have signaled that structural adjustments and strategic adaptations will be necessary. Industry specialists emphasize that understanding these underlying dynamics provides essential clarity for consumers, analysts, and decision-makers alike."
+    else:
         sec3_text = f"The broader implications of this development are expected to influence operational frameworks, regulatory considerations, and consumer engagement. Multiple ecosystem participants have signaled that proactive adjustments will be necessary to adapt to the changing environment established by these dispatches."
 
     # 5. Section 4: Strategic Outlook & What Lies Ahead
-    sec4_text = s_texts[3] if len(s_texts) > 3 else ""
-    if not sec4_text or sec4_text == summary:
+    raw_sec4 = s_texts[3] if len(s_texts) > 3 and s_texts[3] != summary else ""
+    if raw_sec4 and len(raw_sec4) > 20:
+        sec4_text = f"{raw_sec4} As subsequent updates continue to unfold, analysts emphasize that key follow-up benchmarks over the coming days will clarify long-term impacts. Observers and readers are advised to track verified dispatches from {source} and official communications for further confirmations."
+    else:
         sec4_text = f"As updates continue to unfold, analysts emphasize that key milestones in the coming days will clarify long-term impacts. Observers and market participants are advised to monitor official announcements and verified briefings from {source} and regulatory bodies for subsequent policy or market adjustments."
 
     # AdSense Non-Intrusive Placement Slot
@@ -1149,7 +1170,7 @@ def generate_compliance_pages(dist_dir: Path):
             "content": f"""
               <p>Last updated: October 2026. This Privacy Policy details how <strong>{config.SITE_NAME}</strong> ("we", "us", or "our") collects, uses, and safeguards information when you visit {config.SITE_URL}.</p>
 
-              <h2>1. Google AdSense & DART Cookies</h2>
+              <h2 id="cookies">1. Google AdSense & DART Cookies</h2>
               <p>We may display advertisements served by Google AdSense and third-party advertising partners. Google, as a third-party vendor, uses cookies to serve ads on our site:</p>
               <ul>
                 <li>Google's use of the <strong>DART cookie</strong> enables it to serve ads to our users based on their visit to our site and other sites on the Internet.</li>
@@ -1448,7 +1469,13 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
 
 def generate_robots_txt(dist_dir: Path):
     """Generates standard robots.txt directing search engines to sitemaps."""
-    content = f"""User-agent: *
+    content = f"""User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: *
 Allow: /
 
 Sitemap: {config.SITE_URL}/sitemap_index.xml

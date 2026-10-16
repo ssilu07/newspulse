@@ -35,6 +35,8 @@
   function init() {
     initTheme();
     initClock();
+    initCookieConsent();
+    handleUrlParamsAndHash();
     updateBookmarkBadges();
     setupEventListeners();
   }
@@ -292,15 +294,84 @@
     stopTTS();
   }
 
+  // Cookie & GDPR Consent Initialization (AdSense EU User Consent Policy)
+  function initCookieConsent() {
+    const consentBar = document.getElementById('cookieConsentBar');
+    const acceptBtn = document.getElementById('cookieAcceptBtn');
+    const manageBtn = document.getElementById('cookieManageBtn');
+    if (!consentBar) return;
+
+    const consent = localStorage.getItem('newspulse_cookie_consent');
+    if (!consent) {
+      consentBar.style.display = 'block';
+    }
+
+    if (acceptBtn) {
+      acceptBtn.addEventListener('click', () => {
+        localStorage.setItem('newspulse_cookie_consent', 'accepted');
+        consentBar.style.display = 'none';
+        showToast('Cookie preferences saved.');
+      });
+    }
+
+    if (manageBtn) {
+      manageBtn.addEventListener('click', () => {
+        window.location.href = '/privacy/#cookies';
+      });
+    }
+  }
+
+  // Handle URL Query (?q=...) and Hash (#tech, #world, etc.)
+  function handleUrlParamsAndHash() {
+    // 1. Search Query param (?q=keyword)
+    const urlParams = new URLSearchParams(window.location.search);
+    const qParam = urlParams.get('q');
+    if (qParam && searchInput) {
+      searchInput.value = qParam;
+      state.searchQuery = qParam;
+    }
+
+    // 2. Hash category filter (#tech, #ai-future, #business, etc.)
+    const hash = window.location.hash.replace('#', '').trim();
+    if (hash && hash !== 'team' && hash !== 'cookies') {
+      const targetPill = document.querySelector(`.cat-pill[data-cat="${hash}"]`);
+      if (targetPill) {
+        categoryPills.forEach(p => p.classList.remove('active'));
+        targetPill.classList.add('active');
+        state.activeCategory = hash;
+      }
+    }
+
+    if (cards.length > 0) {
+      applyFilters();
+    }
+  }
+
   // Event Listeners Setup
   function setupEventListeners() {
-    // Search input
+    // Search input (supports instant search on home, Enter key on article/compliance pages)
     if (searchInput) {
       searchInput.addEventListener('input', (e) => {
         state.searchQuery = e.target.value;
-        applyFilters();
+        if (cards.length > 0) {
+          applyFilters();
+        }
+      });
+
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          const val = searchInput.value.trim();
+          if (cards.length === 0 && val) {
+            window.location.href = `/?q=${encodeURIComponent(val)}`;
+          } else if (cards.length > 0) {
+            applyFilters();
+          }
+        }
       });
     }
+
+    // Hash change routing
+    window.addEventListener('hashchange', handleUrlParamsAndHash);
 
     // Category pills
     categoryPills.forEach(pill => {

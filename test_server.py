@@ -16,7 +16,8 @@ def test_homepage():
     res = client.get("/")
     assert res.status_code == 200
     assert config.SITE_NAME in res.text
-    print("[PASS] Homepage route (200 OK)")
+    assert "cookieConsentBar" in res.text
+    print("[PASS] Homepage route (200 OK, Cookie Consent Bar Verified)")
 
 
 def test_compliance_pages():
@@ -24,9 +25,12 @@ def test_compliance_pages():
         res = client.get(f"/{page}/")
         assert res.status_code == 200, f"Page /{page}/ returned {res.status_code}"
         assert config.SITE_NAME in res.text
+        assert "cookieConsentBar" in res.text
         if page == "about":
             assert "team-card" in res.text
             assert "Editorial Masthead" in res.text
+        if page == "privacy":
+            assert 'id="cookies"' in res.text
         print(f"[PASS] Compliance page /{page}/ (200 OK)")
 
 
@@ -50,6 +54,7 @@ def test_story_page():
     assert "NewsArticle" in res_news.text
     assert "editorial-take-box" in res_news.text
     assert "author-bio-card" in res_news.text
+    assert "cookieConsentBar" in res_news.text
     print(f"[PASS] Dedicated Article route /news/{first_slug}/ (200 OK, Full SEO Layout & E-E-A-T Shield)")
 
 
@@ -69,7 +74,8 @@ def test_seo_files():
     res_robots = client.get("/robots.txt")
     assert res_robots.status_code == 200
     assert "Sitemap:" in res_robots.text
-    print("[PASS] Robots.txt (200 OK)")
+    assert "Mediapartners-Google" in res_robots.text
+    print("[PASS] Robots.txt (200 OK, Mediapartners-Google Whitelisted)")
 
     res_manifest = client.get("/manifest.json")
     assert res_manifest.status_code == 200
