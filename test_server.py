@@ -24,6 +24,9 @@ def test_compliance_pages():
         res = client.get(f"/{page}/")
         assert res.status_code == 200, f"Page /{page}/ returned {res.status_code}"
         assert config.SITE_NAME in res.text
+        if page == "about":
+            assert "team-card" in res.text
+            assert "Editorial Masthead" in res.text
         print(f"[PASS] Compliance page /{page}/ (200 OK)")
 
 
@@ -45,7 +48,9 @@ def test_story_page():
     assert res_news.status_code == 200
     assert "article-layout" in res_news.text
     assert "NewsArticle" in res_news.text
-    print(f"[PASS] Dedicated Article route /news/{first_slug}/ (200 OK, Full SEO Layout)")
+    assert "editorial-take-box" in res_news.text
+    assert "author-bio-card" in res_news.text
+    print(f"[PASS] Dedicated Article route /news/{first_slug}/ (200 OK, Full SEO Layout & E-E-A-T Shield)")
 
 
 def test_seo_files():
