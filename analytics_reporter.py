@@ -133,9 +133,10 @@ def fetch_overview_report(days: int = 7, property_id: str = None) -> Dict[str, A
     prop_id = property_id or getattr(config, "GA_PROPERTY_ID", "558495815")
     client = get_client()
 
+    start_date = "today" if days == 0 else f"{days}daysAgo"
     request = RunReportRequest(
         property=f"properties/{prop_id}",
-        date_ranges=[DateRange(start_date=f"{days}daysAgo", end_date="today")],
+        date_ranges=[DateRange(start_date=start_date, end_date="today")],
         metrics=[
             Metric(name="activeUsers"),
             Metric(name="sessions"),
@@ -191,9 +192,10 @@ def fetch_top_stories_report(days: int = 7, limit: int = 10, property_id: str = 
     prop_id = property_id or getattr(config, "GA_PROPERTY_ID", "558495815")
     client = get_client()
 
+    start_date = "today" if days == 0 else f"{days}daysAgo"
     request = RunReportRequest(
         property=f"properties/{prop_id}",
-        date_ranges=[DateRange(start_date=f"{days}daysAgo", end_date="today")],
+        date_ranges=[DateRange(start_date=start_date, end_date="today")],
         dimensions=[
             Dimension(name="pagePath"),
             Dimension(name="pageTitle"),
@@ -243,9 +245,10 @@ def fetch_traffic_sources_report(days: int = 7, property_id: str = None) -> List
     prop_id = property_id or getattr(config, "GA_PROPERTY_ID", "558495815")
     client = get_client()
 
+    start_date = "today" if days == 0 else f"{days}daysAgo"
     request = RunReportRequest(
         property=f"properties/{prop_id}",
-        date_ranges=[DateRange(start_date=f"{days}daysAgo", end_date="today")],
+        date_ranges=[DateRange(start_date=start_date, end_date="today")],
         dimensions=[
             Dimension(name="sessionSource"),
             Dimension(name="sessionMedium"),
@@ -281,9 +284,10 @@ def fetch_traffic_sources_report(days: int = 7, property_id: str = None) -> List
 def print_full_report(days: int = 7):
     """Prints a beautiful, comprehensive terminal report."""
     prop_id = getattr(config, "GA_PROPERTY_ID", "558495815")
+    range_label = "Today" if days == 0 else f"Past {days} Days"
     print("\n" + "=" * 65)
     print(f"📊 {config.SITE_NAME} - Google Analytics 4 Report (Property: {prop_id})")
-    print(f"🕒 Generated: {datetime.now().strftime('%Y-%m-%d %I:%M %p')} | Range: Past {days} Days")
+    print(f"🕒 Generated: {datetime.now().strftime('%Y-%m-%d %I:%M %p')} | Range: {range_label}")
     print("=" * 65)
 
     try:
@@ -360,10 +364,11 @@ def export_markdown_report(days: int = 7, output_path: Optional[Path] = None) ->
     stories = fetch_top_stories_report(days=days, limit=10, property_id=prop_id)
     sources = fetch_traffic_sources_report(days=days, property_id=prop_id)
 
+    range_label = "Today" if days == 0 else f"Past {days} Days"
     lines = [
         f"# 📊 {config.SITE_NAME} - Google Analytics 4 Report",
         f"**Property ID:** `{prop_id}` | **Date Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
-        f"**Time Window:** Past {days} Days\n",
+        f"**Time Window:** {range_label}\n",
         "## ⚡ Realtime Visitors (Last 30 Minutes)",
         f"- **Active Users:** {rt['total_active_users_30m']}",
     ]
@@ -374,7 +379,7 @@ def export_markdown_report(days: int = 7, output_path: Optional[Path] = None) ->
         lines.append("  - *No active users in the last 30 minutes.*")
 
     lines.extend([
-        f"\n## 📈 Performance Overview ({days} Days)",
+        f"\n## 📈 Performance Overview ({range_label})",
         f"| Metric | Value |",
         f"|---|---|",
         f"| 👥 Active Users | **{ov['active_users']:,}** |",
@@ -409,6 +414,7 @@ def export_markdown_report(days: int = 7, output_path: Optional[Path] = None) ->
 
 def main():
     parser = argparse.ArgumentParser(description="Google Analytics 4 Automated Reporter for NewsPulse")
+    parser.add_argument("--today", action="store_true", help="Show today's traffic report")
     parser.add_argument("--days", type=int, default=7, help="Number of days for traffic report (default: 7)")
     parser.add_argument("--realtime", action="store_true", help="Show real-time active users only")
     parser.add_argument("--overview", action="store_true", help="Show overview metrics only")
@@ -434,8 +440,10 @@ def main():
         print("=" * 65 + "\n")
         sys.exit(1)
 
+    effective_days = 0 if args.today else args.days
+
     if args.export:
-        out_file = export_markdown_report(days=args.days)
+        out_file = export_markdown_report(days=effective_days)
         print(f"✅ Analytics report successfully exported to: {out_file}")
     elif args.realtime:
         rt = fetch_realtime_report()
@@ -443,21 +451,22 @@ def main():
         for p in rt["active_pages"]:
             print(f"  • {p['users']} user(s) on {p['page']} ({p['country']})")
     elif args.overview:
-        ov = fetch_overview_report(days=args.days)
-        print(f"\n📈 Overview (Past {args.days} Days):")
+        ov = fetch_overview_report(days=effective_days)
+        print(f"\n📈 Overview ({'Today' if effective_days == 0 else f'Past {effective_days} Days'}):")
         print(f"  Users: {ov['active_users']} | Sessions: {ov['sessions']} | Views: {ov['pageviews']} | Avg Time: {ov['avg_duration']}")
     elif args.top_stories:
-        stories = fetch_top_stories_report(days=args.days)
-        print(f"\n🔥 Top Stories (Past {args.days} Days):")
+        stories = fetch_top_stories_report(days=effective_days)
+        print(f"\n🔥 Top Stories ({'Today' if effective_days == 0 else f'Past {effective_days} Days'}):")
         for s in stories:
             print(f"  • {s['views']} views - {s['title']} ({s['path']})")
     elif args.sources:
-        sources = fetch_traffic_sources_report(days=args.days)
-        print(f"\n🌐 Traffic Sources (Past {args.days} Days):")
+        sources = fetch_traffic_sources_report(days=effective_days)
+        print(f"\n🌐 Traffic Sources ({'Today' if effective_days == 0 else f'Past {effective_days} Days'}):")
         for src in sources:
             print(f"  • {src['source']}/{src['medium']}: {src['sessions']} sessions")
     else:
-        print_full_report(days=args.days)
+        print_full_report(days=effective_days)
+
 
 
 if __name__ == "__main__":

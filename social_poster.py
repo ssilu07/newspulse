@@ -315,8 +315,9 @@ def get_tumblr_tags(category: str) -> str:
 
 def post_to_tumblr(article: dict) -> bool:
     """
-    Publishes a rich news summary with hero image and Web Story backlink to Tumblr blog.
+    Publishes a high-CTR visual Photo Post with hero image, caption, and Web Story link to Tumblr.
     Uses Tumblr API v2 with OAuth 1.0a.
+    Prioritizes Native Photo Posts so the image renders large, full-width, and clickable in user feeds.
     """
     if not getattr(config, "ENABLE_TUMBLR_POSTING", True):
         print("    [Tumblr] Auto-posting is disabled in config. Skipping.")
@@ -339,6 +340,7 @@ def post_to_tumblr(article: dict) -> bool:
     try:
         from requests_oauthlib import OAuth1
         import requests
+        from html import escape
 
         auth = OAuth1(
             client_key=consumer_key,
@@ -354,46 +356,98 @@ def post_to_tumblr(article: dict) -> bool:
         category = article.get("category", "trending")
         source = article.get("source", "NewsPulse")
         orig_url = article.get("original_url", "#")
-        image_url = article.get("image_url", "")
         story_url = f"{config.SITE_URL}/stories/{slug}/"
-
-        bullet_markdown = "\n".join([f"- {b}" for b in bullets]) if bullets else f"- {summary}"
-
-        # Build attractive Markdown post for Tumblr audience
-        body_parts = []
-        if image_url and image_url.startswith("http"):
-            body_parts.append(f"![{title}]({image_url})\n")
-
-        body_parts.append(f"### ⚡ **{title}**\n")
-        body_parts.append(f"{summary}\n")
-        body_parts.append(f"**📌 Key Takeaways:**\n{bullet_markdown}\n")
-        body_parts.append("---\n")
-        body_parts.append(f"👉 **[Read the Full 5-Slide Visual Web Story Here]({story_url})**  ")
-        body_parts.append(f"📰 *Original Source:* [{source}]({orig_url})  ")
-        body_parts.append(f"*Curated automatically by [{config.SITE_NAME}]({config.SITE_URL})*")
-
-        post_body = "\n".join(body_parts)
         tags_str = get_tumblr_tags(category)
 
+        # Bullet points formatted for HTML caption
+        if bullets:
+            bullet_html = "".join([f"• {escape(b)}<br>" for b in bullets])
+        else:
+            bullet_html = f"• {escape(summary)}<br>"
+
+        # Rich, eye-catching HTML caption underneath the image
+        caption_html = (
+            f"<h3>⚡ {escape(title)}</h3>"
+            f"<p>{escape(summary)}</p>"
+            f"<p><b>📌 Key Takeaways:</b><br>{bullet_html}</p>"
+            f"<hr>"
+            f"<p>👉 <a href=\"{story_url}\"><b>Open 5-Slide Visual Web Story</b></a></p>"
+            f"<p>📰 <i>Source: {escape(source)}</i> • Curated by <a href=\"{config.SITE_URL}\">{escape(config.SITE_NAME)}</a></p>"
+        )
+
+        # 1. Resolve Best Image (Remote URL or Category Fallback)
+        image_url = article.get("image_url", "").strip()
+        if not image_url or not image_url.startswith("http"):
+            cat_info = config.CATEGORIES.get(category, {})
+            image_url = cat_info.get("default_image", "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&h=900&fit=crop")
+
         api_url = f"https://api.tumblr.com/v2/blog/{blog_identifier}/post"
-        payload = {
-            "type": "text",
+
+        # Attempt 1: Native Photo Post via URL (Tumblr auto-caches & optimizes on their CDN)
+        photo_payload = {
+            "type": "photo",
             "state": "published",
-            "title": title,
-            "body": post_body,
-            "format": "markdown",
+            "source": image_url,
+            "caption": caption_html,
+            "link": story_url,  # Clicking image opens the web story directly
             "tags": tags_str,
             "slug": slug
         }
 
-        response = requests.post(api_url, data=payload, auth=auth, timeout=15)
+        response = requests.post(api_url, data=photo_payload, auth=auth, timeout=20)
         if response.status_code in (200, 201):
             res_data = response.json()
             post_id = res_data.get("response", {}).get("id_string") or res_data.get("response", {}).get("id")
-            print(f"    [Tumblr] Posted successfully to {blog_identifier}! Post ID: {post_id}")
+            print(f"    [Tumblr] Visual Photo Post published to {blog_identifier}! Post ID: {post_id}")
+            return True
+
+        # Attempt 2: If remote source URL fails (e.g. anti-hotlink block), upload local image file
+        print(f"    [Tumblr] Source URL photo attempt returned {response.status_code}. Trying local image file upload...")
+        local_cover = config.DIST_DIR / "stories" / slug / "cover-16x9.jpg"
+        if not local_cover.exists():
+            local_cover = config.STATIC_DIR / "assets" / "posters" / category / "cover-16x9.jpg"
+
+        if local_cover.exists():
+            with open(local_cover, "rb") as img_f:
+                upload_payload = {
+                    "type": "photo",
+                    "state": "published",
+                    "caption": caption_html,
+                    "link": story_url,
+                    "tags": tags_str,
+                    "slug": slug
+                }
+                files = {"data": img_f}
+                file_response = requests.post(api_url, data=upload_payload, files=files, auth=auth, timeout=30)
+                if file_response.status_code in (200, 201):
+                    res_data = file_response.json()
+                    post_id = res_data.get("response", {}).get("id_string") or res_data.get("response", {}).get("id")
+                    print(f"    [Tumblr] Local image Photo Post published to {blog_identifier}! Post ID: {post_id}")
+                    return True
+
+        # Attempt 3: Fallback to HTML Text Post with embedded image if photo endpoints reject
+        print(f"    [Tumblr] Falling back to structured text post...")
+        text_body = (
+            f"<p><img src=\"{image_url}\" style=\"max-width:100%; border-radius:8px;\"></p>\n"
+            f"{caption_html}"
+        )
+        text_payload = {
+            "type": "text",
+            "state": "published",
+            "title": title,
+            "body": text_body,
+            "format": "html",
+            "tags": tags_str,
+            "slug": slug
+        }
+        res_text = requests.post(api_url, data=text_payload, auth=auth, timeout=15)
+        if res_text.status_code in (200, 201):
+            res_data = res_text.json()
+            post_id = res_data.get("response", {}).get("id_string") or res_data.get("response", {}).get("id")
+            print(f"    [Tumblr] Fallback post published to {blog_identifier}! Post ID: {post_id}")
             return True
         else:
-            print(f"    [!] Tumblr error response ({response.status_code}): {response.text}")
+            print(f"    [!] Tumblr error response ({res_text.status_code}): {res_text.text}")
             return False
 
     except Exception as e:
