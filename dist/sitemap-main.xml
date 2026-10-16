@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-16T15:48:30Z</lastmod>
+    <lastmod>2026-10-16T17:42:44Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-16T15:48:30Z</lastmod>
+    <lastmod>2026-10-16T17:42:44Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-16T15:48:30Z</lastmod>
+    <lastmod>2026-10-16T17:42:44Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-16T15:48:30Z</lastmod>
+    <lastmod>2026-10-16T17:42:44Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-16T15:48:30Z</lastmod>
+    <lastmod>2026-10-16T17:42:44Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-16T15:48:30Z</lastmod>
+    <lastmod>2026-10-16T17:42:44Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/who-is-emilio-sakraya-meet-fourth-wing-actor-playing-xaden-riorso/</loc>
+    <lastmod>2026-10-16T17:42:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2248275728-e1792091399675.jpg</image:loc>
+      <image:title>Who Is Emilio Sakraya? Meet ‘Fourth Wing’ Actor Playing Xaden Riorson</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/who-is-emilio-sakraya-meet-fourth-wing-actor-playing-xaden-riorso/</loc>
+    <lastmod>2026-10-16T17:42:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2248275728-e1792091399675.jpg</image:loc>
+      <image:title>Who Is Emilio Sakraya? Meet ‘Fourth Wing’ Actor Playing Xaden Riorson</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/deepti-sharma-and-niki-prasad-seal-nervy-chase-of-115-for-india/</loc>
+    <lastmod>2026-10-16T17:34:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423868.jpg</image:loc>
+      <image:title>Deepti Sharma and Niki Prasad seal nervy chase of 115 for India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/deepti-sharma-and-niki-prasad-seal-nervy-chase-of-115-for-india/</loc>
+    <lastmod>2026-10-16T17:34:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423868.jpg</image:loc>
+      <image:title>Deepti Sharma and Niki Prasad seal nervy chase of 115 for India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bumrah-pant-in-india-squad-for-new-zealand-test-series/</loc>
+    <lastmod>2026-10-16T17:30:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/403400/403450.jpg</image:loc>
+      <image:title>Bumrah, Pant in India squad for New Zealand Test series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bumrah-pant-in-india-squad-for-new-zealand-test-series/</loc>
+    <lastmod>2026-10-16T17:30:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/403400/403450.jpg</image:loc>
+      <image:title>Bumrah, Pant in India squad for New Zealand Test series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-call-of-duty-found-its-modern-warfare-4-cast-from-mads-mikkel/</loc>
+    <lastmod>2026-10-16T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/CoD-Modern-Warfare-4-Mads-Mikkelsen-as-The-Archer.png</image:loc>
+      <image:title>How ‘Call of Duty’ Found Its ‘Modern Warfare 4’ Cast, From Mads Mikkelsen’s Villain to Prisca Kim’s Ri Ju-Young</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-call-of-duty-found-its-modern-warfare-4-cast-from-mads-mikkel/</loc>
+    <lastmod>2026-10-16T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/CoD-Modern-Warfare-4-Mads-Mikkelsen-as-The-Archer.png</image:loc>
+      <image:title>How ‘Call of Duty’ Found Its ‘Modern Warfare 4’ Cast, From Mads Mikkelsen’s Villain to Prisca Kim’s Ri Ju-Young</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-trump-and-the-gops-billion-dollar-midterm-blitz-isnt-working/</loc>
+    <lastmod>2026-10-16T16:53:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108406326-1791942322841-gettyimages-2300085207-aw1a4353_ezwcntja.jpeg?v=1792169878&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Why Trump and the GOP&#x27;s billion-dollar midterm blitz isn’t working</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-trump-and-the-gops-billion-dollar-midterm-blitz-isnt-working/</loc>
+    <lastmod>2026-10-16T16:53:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108406326-1791942322841-gettyimages-2300085207-aw1a4353_ezwcntja.jpeg?v=1792169878&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Why Trump and the GOP&#x27;s billion-dollar midterm blitz isn’t working</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/man-killed-by-tiger-may-have-had-medical-records-breached-by-nhs-/</loc>
+    <lastmod>2026-10-16T16:53:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/05d0/live/f5971c60-c7c2-11f1-993a-152cbb068da1.jpg</image:loc>
+      <image:title>Man killed by tiger may have had medical records breached by NHS staff</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/man-killed-by-tiger-may-have-had-medical-records-breached-by-nhs-/</loc>
+    <lastmod>2026-10-16T16:53:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/05d0/live/f5971c60-c7c2-11f1-993a-152cbb068da1.jpg</image:loc>
+      <image:title>Man killed by tiger may have had medical records breached by NHS staff</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/us-presses-china-on-mastercard-citigroup-market-access-in-bilater/</loc>
+    <lastmod>2026-10-16T16:46:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108418808-1792143417316-gettyimages-2299307716-CITI_EARNS.jpeg?v=1792165332&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/us-presses-china-on-mastercard-citigroup-market-access-in-bilater/</loc>
+    <lastmod>2026-10-16T16:46:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108418808-1792143417316-gettyimages-2299307716-CITI_EARNS.jpeg?v=1792165332&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-inves/</loc>
+    <lastmod>2026-10-16T16:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=1600,1067</image:loc>
+      <image:title>Physical AI is more than robots, says the Nvidia veteran now investing in it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-inves/</loc>
+    <lastmod>2026-10-16T16:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=1600,1067</image:loc>
+      <image:title>Physical AI is more than robots, says the Nvidia veteran now investing in it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/an-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt/</loc>
+    <lastmod>2026-10-16T16:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1600,1067</image:loc>
+      <image:title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/an-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt/</loc>
+    <lastmod>2026-10-16T16:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1600,1067</image:loc>
+      <image:title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/inside-ukrainian-offensive-pushing-russia-back-with-starlink-play/</loc>
+    <lastmod>2026-10-16T16:00:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg</image:loc>
+      <image:title>Inside Ukrainian offensive pushing Russia back</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/inside-ukrainian-offensive-pushing-russia-back-with-starlink-play/</loc>
+    <lastmod>2026-10-16T16:00:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg</image:loc>
+      <image:title>Inside Ukrainian offensive pushing Russia back</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/apple8217s-homeview-has-an-app-problem/</loc>
+    <lastmod>2026-10-16T15:38:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple&amp;#8217;s HomeView has an app problem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/apple8217s-homeview-has-an-app-problem/</loc>
+    <lastmod>2026-10-16T15:38:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple&amp;#8217;s HomeView has an app problem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/analogue-is-re-releasing-its-snes-and-genesis-consoles-with-some-/</loc>
+    <lastmod>2026-10-16T15:08:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/analogue-is-re-releasing-its-snes-and-genesis-consoles-with-some-/</loc>
+    <lastmod>2026-10-16T15:08:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/pope-pictured-for-first-time-since-surgery-and-cancer-diagnosis/</loc>
+    <lastmod>2026-10-16T14:36:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Pope pictured for first time since surgery and cancer diagnosis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/pope-pictured-for-first-time-since-surgery-and-cancer-diagnosis/</loc>
+    <lastmod>2026-10-16T14:36:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Pope pictured for first time since surgery and cancer diagnosis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/palestinians-and-us-journalist-injured-by-israeli-settlers-in-wes/</loc>
+    <lastmod>2026-10-16T14:31:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/palestinians-and-us-journalist-injured-by-israeli-settlers-in-wes/</loc>
+    <lastmod>2026-10-16T14:31:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/david-surkamp-pavlovs-dog-singer-dies-at-73/</loc>
