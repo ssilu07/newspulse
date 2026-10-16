@@ -3,39 +3,239 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-16T17:42:44Z</lastmod>
+    <lastmod>2026-10-16T21:23:03Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-16T17:42:44Z</lastmod>
+    <lastmod>2026-10-16T21:23:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-16T17:42:44Z</lastmod>
+    <lastmod>2026-10-16T21:23:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-16T17:42:44Z</lastmod>
+    <lastmod>2026-10-16T21:23:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-16T17:42:44Z</lastmod>
+    <lastmod>2026-10-16T21:23:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-16T17:42:44Z</lastmod>
+    <lastmod>2026-10-16T21:23:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/replit-is-no-longer-working-with-anthropic-ceo-says/</loc>
+    <lastmod>2026-10-16T21:22:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1600,1067</image:loc>
+      <image:title>Replit is no longer working with Anthropic, CEO says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/replit-is-no-longer-working-with-anthropic-ceo-says/</loc>
+    <lastmod>2026-10-16T21:22:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1600,1067</image:loc>
+      <image:title>Replit is no longer working with Anthropic, CEO says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/timothy-busfield-indictment-on-child-sex-abuse-charges-thrown-out/</loc>
+    <lastmod>2026-10-16T21:16:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/02/GettyImages-2256757374.jpg</image:loc>
+      <image:title>Timothy Busfield Indictment on Child Sex Abuse Charges Thrown Out by Judge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/timothy-busfield-indictment-on-child-sex-abuse-charges-thrown-out/</loc>
+    <lastmod>2026-10-16T21:16:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/02/GettyImages-2256757374.jpg</image:loc>
+      <image:title>Timothy Busfield Indictment on Child Sex Abuse Charges Thrown Out by Judge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-int/</loc>
+    <lastmod>2026-10-16T20:49:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-int/</loc>
+    <lastmod>2026-10-16T20:49:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/katie-zacharia-out-as-trumps-white-house-press-secretary/</loc>
+    <lastmod>2026-10-16T20:40:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108403373-1791899390220-gettyimages-2299988078-_s017926_y4gtds8j.jpeg?v=1791899415&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Katie Zacharia out as Trump&#x27;s White House press secretary</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/katie-zacharia-out-as-trumps-white-house-press-secretary/</loc>
+    <lastmod>2026-10-16T20:40:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108403373-1791899390220-gettyimages-2299988078-_s017926_y4gtds8j.jpeg?v=1791899415&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Katie Zacharia out as Trump&#x27;s White House press secretary</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/i-play-rocky-surprise-screens-at-london-film-festival/</loc>
+    <lastmod>2026-10-16T20:32:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/09/I-Play-Rocky_HERO.jpg</image:loc>
+      <image:title>‘I Play Rocky’ Surprise Screens at London Film Festival</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/i-play-rocky-surprise-screens-at-london-film-festival/</loc>
+    <lastmod>2026-10-16T20:32:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/09/I-Play-Rocky_HERO.jpg</image:loc>
+      <image:title>‘I Play Rocky’ Surprise Screens at London Film Festival</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/brent-oil-touches-110-as-iran-escalates-hormuz-attacks-ukraine-vo/</loc>
+    <lastmod>2026-10-16T20:02:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108409918-1792001666276-2026-10-13T175311Z_748127171_RC2F2OACIXEA_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG?v=1792001733&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/brent-oil-touches-110-as-iran-escalates-hormuz-attacks-ukraine-vo/</loc>
+    <lastmod>2026-10-16T20:02:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108409918-1792001666276-2026-10-13T175311Z_748127171_RC2F2OACIXEA_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG?v=1792001733&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trump-denies-limiting-ukraine-access-to-starlink-network/</loc>
+    <lastmod>2026-10-16T19:33:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg</image:loc>
+      <image:title>Trump denies limiting Ukraine access to Starlink network</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-denies-limiting-ukraine-access-to-starlink-network/</loc>
+    <lastmod>2026-10-16T19:33:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg</image:loc>
+      <image:title>Trump denies limiting Ukraine access to Starlink network</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-apple-is-finally-making-its-own-smart-home-devices/</loc>
+    <lastmod>2026-10-16T18:30:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Why Apple is finally making its own smart home devices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-apple-is-finally-making-its-own-smart-home-devices/</loc>
+    <lastmod>2026-10-16T18:30:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Why Apple is finally making its own smart home devices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jaffer-applies-for-india-mens-national-selector-post/</loc>
+    <lastmod>2026-10-16T18:17:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/295800/295887.jpg</image:loc>
+      <image:title>Jaffer applies for India men&#x27;s national selector post</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jaffer-applies-for-india-mens-national-selector-post/</loc>
+    <lastmod>2026-10-16T18:17:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/295800/295887.jpg</image:loc>
+      <image:title>Jaffer applies for India men&#x27;s national selector post</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/india-becomes-the-latest-country-to-report-rogue-ai-agent-activit/</loc>
+    <lastmod>2026-10-16T17:52:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=1600</image:loc>
+      <image:title>India becomes the latest country to report rogue AI agent activity</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/india-becomes-the-latest-country-to-report-rogue-ai-agent-activit/</loc>
+    <lastmod>2026-10-16T17:52:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=1600</image:loc>
+      <image:title>India becomes the latest country to report rogue AI agent activity</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/who-is-emilio-sakraya-meet-fourth-wing-actor-playing-xaden-riorso/</loc>
@@ -218,6 +418,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/nurse-stole-750k-from-99-year-old-woman-for-cosmetic-surgery-and-/</loc>
+    <lastmod>2026-10-16T16:07:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/12b7/live/45d84a90-c977-11f1-8791-fbfa2cae660f.jpg</image:loc>
+      <image:title>Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nurse-stole-750k-from-99-year-old-woman-for-cosmetic-surgery-and-/</loc>
+    <lastmod>2026-10-16T16:07:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/12b7/live/45d84a90-c977-11f1-8791-fbfa2cae660f.jpg</image:loc>
+      <image:title>Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/inside-ukrainian-offensive-pushing-russia-back-with-starlink-play/</loc>
     <lastmod>2026-10-16T16:00:30+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -238,6 +458,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/watch-will-ukraine-get-the-support-needed-as-tensions-with-us-ris/</loc>
+    <lastmod>2026-10-16T15:45:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Will Ukraine get the support needed as tensions with US rise?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/watch-will-ukraine-get-the-support-needed-as-tensions-with-us-ris/</loc>
+    <lastmod>2026-10-16T15:45:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Will Ukraine get the support needed as tensions with US rise?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/apple8217s-homeview-has-an-app-problem/</loc>
     <lastmod>2026-10-16T15:38:17+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -255,6 +495,26 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>Apple&amp;#8217;s HomeView has an app problem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/success-is-progress-for-sammy-as-west-indies-impress-in-spite-of-/</loc>
+    <lastmod>2026-10-16T15:33:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423805.jpg</image:loc>
+      <image:title>Success is progress&#x27; for Sammy as West Indies impress &#x27;in spite of the challenges</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/success-is-progress-for-sammy-as-west-indies-impress-in-spite-of-/</loc>
+    <lastmod>2026-10-16T15:33:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423805.jpg</image:loc>
+      <image:title>Success is progress&#x27; for Sammy as West Indies impress &#x27;in spite of the challenges</image:title>
     </image:image>
   </url>
   <url>
@@ -595,6 +855,26 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/36aa/live/cac07320-c951-11f1-8879-9d9deeb686e1.jpg</image:loc>
       <image:title>US senators call for investigation into Ukraine&#x27;s Starlink restrictions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/indias-cockroach-party-founder-detained-ahead-of-protest/</loc>
+    <lastmod>2026-10-16T11:44:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg</image:loc>
+      <image:title>India&#x27;s &#x27;cockroach&#x27; party founder detained ahead of protest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/indias-cockroach-party-founder-detained-ahead-of-protest/</loc>
+    <lastmod>2026-10-16T11:44:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg</image:loc>
+      <image:title>India&#x27;s &#x27;cockroach&#x27; party founder detained ahead of protest</image:title>
     </image:image>
   </url>
   <url>

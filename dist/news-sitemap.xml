@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/replit-is-no-longer-working-with-anthropic-ceo-says/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T21:22:28+00:00</news:publication_date>
+      <news:title>Replit is no longer working with Anthropic, CEO says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1600,1067</image:loc>
+      <image:title>Replit is no longer working with Anthropic, CEO says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/timothy-busfield-indictment-on-child-sex-abuse-charges-thrown-out/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T21:16:22+00:00</news:publication_date>
+      <news:title>Timothy Busfield Indictment on Child Sex Abuse Charges Thrown Out by Judge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/02/GettyImages-2256757374.jpg</image:loc>
+      <image:title>Timothy Busfield Indictment on Child Sex Abuse Charges Thrown Out by Judge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-int/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T20:49:04+00:00</news:publication_date>
+      <news:title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/katie-zacharia-out-as-trumps-white-house-press-secretary/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T20:40:58+00:00</news:publication_date>
+      <news:title>Katie Zacharia out as Trump&#x27;s White House press secretary</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108403373-1791899390220-gettyimages-2299988078-_s017926_y4gtds8j.jpeg?v=1791899415&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Katie Zacharia out as Trump&#x27;s White House press secretary</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/i-play-rocky-surprise-screens-at-london-film-festival/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T20:32:24+00:00</news:publication_date>
+      <news:title>‘I Play Rocky’ Surprise Screens at London Film Festival</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/09/I-Play-Rocky_HERO.jpg</image:loc>
+      <image:title>‘I Play Rocky’ Surprise Screens at London Film Festival</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/brent-oil-touches-110-as-iran-escalates-hormuz-attacks-ukraine-vo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T20:02:21+00:00</news:publication_date>
+      <news:title>Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108409918-1792001666276-2026-10-13T175311Z_748127171_RC2F2OACIXEA_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG?v=1792001733&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trump-denies-limiting-ukraine-access-to-starlink-network/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T19:33:48+00:00</news:publication_date>
+      <news:title>Trump denies limiting Ukraine access to Starlink network</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg</image:loc>
+      <image:title>Trump denies limiting Ukraine access to Starlink network</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-apple-is-finally-making-its-own-smart-home-devices/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T18:30:27+00:00</news:publication_date>
+      <news:title>Why Apple is finally making its own smart home devices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Why Apple is finally making its own smart home devices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jaffer-applies-for-india-mens-national-selector-post/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T18:17:59+00:00</news:publication_date>
+      <news:title>Jaffer applies for India men&#x27;s national selector post</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/295800/295887.jpg</image:loc>
+      <image:title>Jaffer applies for India men&#x27;s national selector post</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/india-becomes-the-latest-country-to-report-rogue-ai-agent-activit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T17:52:24+00:00</news:publication_date>
+      <news:title>India becomes the latest country to report rogue AI agent activity</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=1600</image:loc>
+      <image:title>India becomes the latest country to report rogue AI agent activity</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/who-is-emilio-sakraya-meet-fourth-wing-actor-playing-xaden-riorso/</loc>
     <news:news>
       <news:publication>
@@ -138,6 +288,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/nurse-stole-750k-from-99-year-old-woman-for-cosmetic-surgery-and-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T16:07:37+00:00</news:publication_date>
+      <news:title>Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/12b7/live/45d84a90-c977-11f1-8791-fbfa2cae660f.jpg</image:loc>
+      <image:title>Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/inside-ukrainian-offensive-pushing-russia-back-with-starlink-play/</loc>
     <news:news>
       <news:publication>
@@ -153,6 +318,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/watch-will-ukraine-get-the-support-needed-as-tensions-with-us-ris/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T15:45:10+00:00</news:publication_date>
+      <news:title>Will Ukraine get the support needed as tensions with US rise?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Will Ukraine get the support needed as tensions with US rise?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/apple8217s-homeview-has-an-app-problem/</loc>
     <news:news>
       <news:publication>
@@ -165,6 +345,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>Apple&amp;#8217;s HomeView has an app problem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/success-is-progress-for-sammy-as-west-indies-impress-in-spite-of-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T15:33:42+00:00</news:publication_date>
+      <news:title>Success is progress&#x27; for Sammy as West Indies impress &#x27;in spite of the challenges</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423805.jpg</image:loc>
+      <image:title>Success is progress&#x27; for Sammy as West Indies impress &#x27;in spite of the challenges</image:title>
     </image:image>
   </url>
   <url>
@@ -420,6 +615,21 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/36aa/live/cac07320-c951-11f1-8879-9d9deeb686e1.jpg</image:loc>
       <image:title>US senators call for investigation into Ukraine&#x27;s Starlink restrictions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/indias-cockroach-party-founder-detained-ahead-of-protest/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T11:44:31+00:00</news:publication_date>
+      <news:title>India&#x27;s &#x27;cockroach&#x27; party founder detained ahead of protest</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg</image:loc>
+      <image:title>India&#x27;s &#x27;cockroach&#x27; party founder detained ahead of protest</image:title>
     </image:image>
   </url>
   <url>
@@ -2130,291 +2340,6 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2024/06/ACMD5855.jpg</image:loc>
       <image:title>Zach Bryan Announces 2027 Stadium Tour Dates, John Fogerty, Ryan Bingham, More to Support</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/openai-bugging-suspect-booked-one-way-ticket-to-saudi-arabia-with/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T21:18:13+00:00</news:publication_date>
-      <news:title>OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792009377&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/eight-states-sue-openai-saying-chatgpt-isn8217t-safe-for-kids/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T21:11:28+00:00</news:publication_date>
-      <news:title>Eight states sue OpenAI, saying ChatGPT isn&amp;#8217;t safe for kids</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Eight states sue OpenAI, saying ChatGPT isn&amp;#8217;t safe for kids</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/60-minutes-sees-audience-dip-without-nfl-lead-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T21:05:58+00:00</news:publication_date>
-      <news:title>’60 Minutes’ Sees Audience Dip Without NFL Lead-In</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2021/02/60-Minutes.jpg</image:loc>
-      <image:title>’60 Minutes’ Sees Audience Dip Without NFL Lead-In</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/musk-says-any-limits-on-ukraines-starlink-access-down-to-us-not-h/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T20:55:24+00:00</news:publication_date>
-      <news:title>Musk says any limits on Ukraine&#x27;s Starlink access down to US, not his firm</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg</image:loc>
-      <image:title>Musk says any limits on Ukraine&#x27;s Starlink access down to US, not his firm</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/student-protesters-attack-government-buildings-in-tirana/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T20:29:05+00:00</news:publication_date>
-      <news:title>Student protesters attack government buildings in Tirana</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg</image:loc>
-      <image:title>Student protesters attack government buildings in Tirana</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/microsoft-and-japan-took-down-a-cybercrime-network-behind-over-a-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T20:03:43+00:00</news:publication_date>
-      <news:title>Microsoft and Japan took down a cybercrime network behind over a billion scam messages</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318439/akrales_220309_4977_0324.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Microsoft and Japan took down a cybercrime network behind over a billion scam messages</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/we-are-behind-you-and-that-will-not-change-pm-tells-zelensky/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T19:22:28+00:00</news:publication_date>
-      <news:title>We are behind you and that will not change, PM tells Zelensky</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a2be/live/2e4043e0-c7f3-11f1-9909-8f8db2b4c4ac.png</image:loc>
-      <image:title>We are behind you and that will not change, PM tells Zelensky</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/container-ship-sinks-in-strait-of-hormuz-as-iran-steps-up-attacks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T19:22:00+00:00</news:publication_date>
-      <news:title>Container ship sinks in Strait of Hormuz as Iran steps up attacks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108368069-1790799195771-108368069-1790345254907-gettyimages-2293522281-AFP_C7JU7ZQ.jpeg?v=1790799253&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Container ship sinks in Strait of Hormuz as Iran steps up attacks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-ai-race-is-back-on/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T19:06:03+00:00</news:publication_date>
-      <news:title>The AI race is back on</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>The AI race is back on</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/as-a-tv-enthusiast-i-was-hoping-for-more-from-the-apple-tv-4k/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T18:38:59+00:00</news:publication_date>
-      <news:title>As a TV enthusiast, I was hoping for more from the Apple TV 4K</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-tv-4k-2026-event.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>As a TV enthusiast, I was hoping for more from the Apple TV 4K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/youtube-music-launches-new-labels-as-ai-generated-music-floods-st/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T18:23:46+00:00</news:publication_date>
-      <news:title>YouTube Music launches new labels as AI-generated music floods streaming platforms</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1600</image:loc>
-      <image:title>YouTube Music launches new labels as AI-generated music floods streaming platforms</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/youtube-sticks-new-labels-on-ai-generated-songs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T18:22:56+00:00</news:publication_date>
-      <news:title>YouTube sticks new labels on AI-generated songs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>YouTube sticks new labels on AI-generated songs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hope-ton-paul-five-for-help-west-indies-level-series-2-2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T18:12:44+00:00</news:publication_date>
-      <news:title>Hope ton, Paul five-for help West Indies level series 2-2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423807.jpg</image:loc>
-      <image:title>Hope ton, Paul five-for help West Indies level series 2-2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/green-progressing-well-but-still-uncertain-for-second-test/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T18:08:29+00:00</news:publication_date>
-      <news:title>Green &#x27;progressing well&#x27; but still uncertain for second Test</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/421400/421432.jpg</image:loc>
-      <image:title>Green &#x27;progressing well&#x27; but still uncertain for second Test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/maddinson-admits-huge-relief-after-second-outing-in-durban/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T18:05:20+00:00</news:publication_date>
-      <news:title>Maddinson admits &#x27;huge relief&#x27; after second outing in Durban</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423600/423671.jpg</image:loc>
-      <image:title>Maddinson admits &#x27;huge relief&#x27; after second outing in Durban</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gathe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T18:00:00+00:00</news:publication_date>
-      <news:title>Apate sends AI agents undercover to get scammed so they can gather fraud intelligence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1600,1067</image:loc>
-      <image:title>Apate sends AI agents undercover to get scammed so they can gather fraud intelligence</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mark-duplass-joins-cast-of-hulus-erotic-thriller-limited-series-v/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T18:00:00+00:00</news:publication_date>
-      <news:title>Mark Duplass Joins Cast of Hulu’s Erotic Thriller Limited Series ‘Victoria’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/Mark-Duplass-Hed-better-e1791934241761.png</image:loc>
-      <image:title>Mark Duplass Joins Cast of Hulu’s Erotic Thriller Limited Series ‘Victoria’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mubi-sets-theatrical-release-for-sundance-prize-winning-doc-nuisa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T18:00:00+00:00</news:publication_date>
-      <news:title>Mubi Sets Theatrical Release for Sundance Prize Winning Doc ‘Nuisance Bear’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/01/Nuisance_Bear-Still_1.jpg</image:loc>
-      <image:title>Mubi Sets Theatrical Release for Sundance Prize Winning Doc ‘Nuisance Bear’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/drop-off-charges-at-uk-airports-to-be-reviewed-after-sharp-increa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T17:46:30+00:00</news:publication_date>
-      <news:title>Drop-off charges at UK airports to be reviewed after sharp increase</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg</image:loc>
-      <image:title>Drop-off charges at UK airports to be reviewed after sharp increase</image:title>
     </image:image>
   </url>
 </urlset>
