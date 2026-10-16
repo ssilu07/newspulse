@@ -117,6 +117,16 @@ def get_news_sitemap():
     return read_file_or_404(news_file, media_type="application/xml; charset=utf-8")
 
 
+@app.api_route("/sitemap_index.xml", methods=["GET", "HEAD"])
+def get_sitemap_index():
+    return read_file_or_404(config.DIST_DIR / "sitemap_index.xml", media_type="application/xml; charset=utf-8")
+
+
+@app.api_route("/sitemap-main.xml", methods=["GET", "HEAD"])
+def get_sitemap_main():
+    return read_file_or_404(config.DIST_DIR / "sitemap-main.xml", media_type="application/xml; charset=utf-8")
+
+
 @app.api_route("/robots.txt", methods=["GET", "HEAD"])
 def get_robots():
     return read_file_or_404(config.DIST_DIR / "robots.txt", media_type="text/plain; charset=utf-8")
@@ -125,6 +135,23 @@ def get_robots():
 @app.api_route("/manifest.json", methods=["GET", "HEAD"])
 def get_manifest():
     return read_file_or_404(config.DIST_DIR / "manifest.json", media_type="application/json; charset=utf-8")
+
+
+@app.api_route("/{filename}.{ext}", methods=["GET", "HEAD"])
+def get_root_file(filename: str, ext: str):
+    target = config.DIST_DIR / f"{filename}.{ext}"
+    if not target.exists():
+        raise HTTPException(status_code=404, detail=f"File not found: {filename}.{ext}")
+    media_types = {
+        "xml": "application/xml; charset=utf-8",
+        "txt": "text/plain; charset=utf-8",
+        "json": "application/json; charset=utf-8",
+        "ico": "image/x-icon",
+        "png": "image/png",
+        "jpg": "image/jpeg",
+        "svg": "image/svg+xml"
+    }
+    return Response(content=target.read_bytes(), media_type=media_types.get(ext.lower(), "application/octet-stream"))
 
 
 @app.get("/api/articles")

@@ -81,6 +81,20 @@ def test_seo_files():
     assert res_manifest.status_code == 200
     print("[PASS] PWA Manifest JSON (200 OK)")
 
+    res_sitemap_index = client.get("/sitemap_index.xml")
+    assert res_sitemap_index.status_code == 200
+    assert "sitemapindex" in res_sitemap_index.text
+    print("[PASS] Master Sitemap Index XML (200 OK)")
+
+    res_sitemap_main = client.get("/sitemap-main.xml")
+    assert res_sitemap_main.status_code == 200
+    assert "urlset" in res_sitemap_main.text
+    print("[PASS] Clean Sitemap Main XML (200 OK)")
+
+    res_favicon = client.get("/favicon.ico")
+    assert res_favicon.status_code == 200
+    print("[PASS] Favicon ICO (200 OK)")
+
     res_ads = client.get("/ads.txt")
     assert res_ads.status_code == 200
     assert "google.com" in res_ads.text

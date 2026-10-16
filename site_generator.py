@@ -80,7 +80,7 @@ def get_base_header(active_nav: str = "home") -> str:
       </div>
 
       <div class="header-actions">
-        <a href="https://t.me/minutenewshub" target="_blank" rel="noopener" class="telegram-header-badge" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 136, 204, 0.18); border: 1px solid rgba(0, 136, 204, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 600; transition: all 0.2s;" title="Join Minute News on Telegram">
+        <a href="https://t.me/minutenewshub" target="_blank" rel="noopener" class="telegram-header-badge" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 136, 204, 0.18); border: 1px solid rgba(0, 136, 204, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 600; transition: all 0.2s;" title="Join {config.SITE_NAME} on Telegram">
           <span>✈️</span> <span>Telegram</span>
         </a>
         <span id="liveTimeDisplay" class="time-widget">UTC</span>
@@ -722,13 +722,7 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
           </script>
         </div>"""
     else:
-        ad_slot_html = f"""
-        <div class="ad-placement-slot">
-          <span class="ad-label">Editorial Wire & Sponsor Desk</span>
-          <div style="font-size: 12px; color: var(--text-muted); padding: 8px;">
-            {config.SITE_NAME} Verified Independent Reporting Network
-          </div>
-        </div>"""
+        ad_slot_html = ""
 
     # Related Articles in same category (up to 3)
     related = [a for a in all_articles if a.get("slug") != slug and a.get("category") == cat_slug]
@@ -1243,11 +1237,11 @@ def generate_compliance_pages(dist_dir: Path):
               <form class="contact-form" id="newsPulseContactForm">
                 <div class="form-group">
                   <label for="contactName">Your Name</label>
-                  <input type="text" id="contactName" class="form-input" required placeholder="Jane Doe">
+                  <input type="text" id="contactName" class="form-input" required placeholder="Enter your full name">
                 </div>
                 <div class="form-group">
                   <label for="contactEmail">Email Address</label>
-                  <input type="email" id="contactEmail" class="form-input" required placeholder="jane@example.com">
+                  <input type="email" id="contactEmail" class="form-input" required placeholder="your.name@domain.com">
                 </div>
                 <div class="form-group">
                   <label for="contactSubject">Subject / Department</label>

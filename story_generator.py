@@ -201,7 +201,7 @@ def generate_amp_story_html(article: dict, poster_urls: dict = None) -> str:
     summary_escaped = escape(article.get("summary", ""))
     cat_name = escape(article.get("category_name", "News"))
     cat_color = article.get("category_color", "#3b82f6")
-    source_escaped = escape(article.get("source", "NewsPulse"))
+    source_escaped = escape(article.get("source", config.SITE_NAME))
     original_url = article.get("original_url", home_url)
     pub_iso = article.get("published_at", "2026-10-03T12:00:00Z")
 
