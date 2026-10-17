@@ -3,39 +3,279 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-17T10:10:59Z</lastmod>
+    <lastmod>2026-10-17T13:05:28Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-17T10:10:59Z</lastmod>
+    <lastmod>2026-10-17T13:05:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-17T10:10:59Z</lastmod>
+    <lastmod>2026-10-17T13:05:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-17T10:10:59Z</lastmod>
+    <lastmod>2026-10-17T13:05:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-17T10:10:59Z</lastmod>
+    <lastmod>2026-10-17T13:05:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-17T10:10:59Z</lastmod>
+    <lastmod>2026-10-17T13:05:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/websites-are-closing-their-doors-to-ai-agents/</loc>
+    <lastmod>2026-10-17T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Websites are closing their doors to AI agents</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/websites-are-closing-their-doors-to-ai-agents/</loc>
+    <lastmod>2026-10-17T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Websites are closing their doors to AI agents</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bose-makes-a-strong-argument-to-tether-to-your-phone-again/</loc>
+    <lastmod>2026-10-17T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Bose makes a strong argument to tether to your phone again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bose-makes-a-strong-argument-to-tether-to-your-phone-again/</loc>
+    <lastmod>2026-10-17T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Bose makes a strong argument to tether to your phone again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/uk-must-protect-against-russian-hybrid-attacks-ex-national-securi/</loc>
+    <lastmod>2026-10-17T12:56:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>UK must protect against Russian &#x27;hybrid attacks&#x27;, ex-national security adviser says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/uk-must-protect-against-russian-hybrid-attacks-ex-national-securi/</loc>
+    <lastmod>2026-10-17T12:56:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>UK must protect against Russian &#x27;hybrid attacks&#x27;, ex-national security adviser says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/joel-coen-on-studio-consolidation-competition-is-what-produces-op/</loc>
+    <lastmod>2026-10-17T12:52:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/06/Coen-brothers.jpg</image:loc>
+      <image:title>Joel Coen on Studio Consolidation: ‘Competition Is What Produces Opportunities for Different Kinds of Movies,’ Teases Reunion Film With Brother Ethan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/joel-coen-on-studio-consolidation-competition-is-what-produces-op/</loc>
+    <lastmod>2026-10-17T12:52:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/06/Coen-brothers.jpg</image:loc>
+      <image:title>Joel Coen on Studio Consolidation: ‘Competition Is What Produces Opportunities for Different Kinds of Movies,’ Teases Reunion Film With Brother Ethan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rabadas-back-to-bolster-south-africa-as-australia-chase-series-wi/</loc>
+    <lastmod>2026-10-17T12:41:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/402000/402061.jpg</image:loc>
+      <image:title>Rabada&#x27;s back to bolster South Africa as Australia chase series win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rabadas-back-to-bolster-south-africa-as-australia-chase-series-wi/</loc>
+    <lastmod>2026-10-17T12:41:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/402000/402061.jpg</image:loc>
+      <image:title>Rabada&#x27;s back to bolster South Africa as Australia chase series win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hip-injury-rules-litton-das-out-of-uae-tri-series/</loc>
+    <lastmod>2026-10-17T12:15:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/403600/403664.jpg</image:loc>
+      <image:title>Hip injury rules Litton Das out of UAE tri-series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hip-injury-rules-litton-das-out-of-uae-tri-series/</loc>
+    <lastmod>2026-10-17T12:15:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/403600/403664.jpg</image:loc>
+      <image:title>Hip injury rules Litton Das out of UAE tri-series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/watch-mood-has-really-shifted-as-paris-protesters-clash-with-poli/</loc>
+    <lastmod>2026-10-17T12:14:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4971/live/07261b40-ca23-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Mood has really shifted&#x27; as Paris protesters clash with police</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/watch-mood-has-really-shifted-as-paris-protesters-clash-with-poli/</loc>
+    <lastmod>2026-10-17T12:14:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4971/live/07261b40-ca23-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Mood has really shifted&#x27; as Paris protesters clash with police</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nursery-owner-in-china-jailed-for-life-after-hundreds-of-children/</loc>
+    <lastmod>2026-10-17T12:11:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5bff/live/9df7c880-ca1d-11f1-a64c-550be9e3c66b.png</image:loc>
+      <image:title>Nursery owner in China jailed for life after hundreds of children poisoned</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nursery-owner-in-china-jailed-for-life-after-hundreds-of-children/</loc>
+    <lastmod>2026-10-17T12:11:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5bff/live/9df7c880-ca1d-11f1-a64c-550be9e3c66b.png</image:loc>
+      <image:title>Nursery owner in China jailed for life after hundreds of children poisoned</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/pathé-unveils-sofia-coppolas-marie-antoinette-4k-restoration-as-s/</loc>
+    <lastmod>2026-10-17T12:07:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/0604-MARSC-13.jpg</image:loc>
+      <image:title>Pathé Unveils Sofia Coppola’s ‘Marie Antoinette’ 4K Restoration as Sophie and Jérôme Seydoux Are Feted in Lyon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/pathé-unveils-sofia-coppolas-marie-antoinette-4k-restoration-as-s/</loc>
+    <lastmod>2026-10-17T12:07:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/0604-MARSC-13.jpg</image:loc>
+      <image:title>Pathé Unveils Sofia Coppola’s ‘Marie Antoinette’ 4K Restoration as Sophie and Jérôme Seydoux Are Feted in Lyon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bending-spoons-wants-to-revive-software-castoffs-berkshire-is-bac/</loc>
+    <lastmod>2026-10-17T12:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108329344-1782916454983-gettyimages-2283599947-BENDING_SPOONS_IPO.jpeg?v=1782916474&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Bending Spoons wants to revive software castoffs. Berkshire is backing the plan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bending-spoons-wants-to-revive-software-castoffs-berkshire-is-bac/</loc>
+    <lastmod>2026-10-17T12:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108329344-1782916454983-gettyimages-2283599947-BENDING_SPOONS_IPO.jpeg?v=1782916474&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Bending Spoons wants to revive software castoffs. Berkshire is backing the plan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rare-pink-diamond-goes-on-display-in-france-100-years-after-amate/</loc>
+    <lastmod>2026-10-17T10:46:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/37cc/live/14013ec0-ca01-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Rare pink diamond goes on display in France 100 years after amateur heist</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rare-pink-diamond-goes-on-display-in-france-100-years-after-amate/</loc>
+    <lastmod>2026-10-17T10:46:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/37cc/live/14013ec0-ca01-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Rare pink diamond goes on display in France 100 years after amateur heist</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trump-waives-broad-new-russia-sanctions-and-tariffs-under-graham-/</loc>
+    <lastmod>2026-10-17T10:20:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108360237-1788940112798-gettyimages-2230321913-ah709167_3ynogvia.jpeg?v=1788941209&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-waives-broad-new-russia-sanctions-and-tariffs-under-graham-/</loc>
+    <lastmod>2026-10-17T10:20:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108360237-1788940112798-gettyimages-2230321913-ah709167_3ynogvia.jpeg?v=1788941209&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/boy-16-and-80-year-old-man-die-in-light-aircraft-crash-near-loch-/</loc>

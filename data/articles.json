@@ -1,5 +1,821 @@
 [
   {
+    "id": "art_1792242317_3",
+    "slug": "websites-are-closing-their-doors-to-ai-agents",
+    "category": "tech",
+    "category_name": "Tech",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "The Verge",
+    "raw_title": "Websites are closing their doors to AI agents",
+    "title": "Websites are closing their doors to AI agents",
+    "raw_summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp told TechCrunch that it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket … Read the full story at The Verge.",
+    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice?",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "original_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "published_at": "2026-10-17T13:00:00+00:00",
+    "time_ago": "5m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Autonomous agents are the hottest thing in AI.",
+      "OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+      "But what happens when the rest of the internet won't play nice?"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Websites are closing their doors to AI agents",
+        "badge": "Breaking",
+        "text": "Autonomous agents are the hottest thing in AI.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "alt": "Websites are closing their doors to AI agents cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "But what happens when the rest of the internet won't play nice?",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Tech",
+        "text": "OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from The Verge.",
+        "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 52
+  },
+  {
+    "id": "art_1792242317_4",
+    "slug": "bose-makes-a-strong-argument-to-tether-to-your-phone-again",
+    "category": "tech",
+    "category_name": "Tech",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "The Verge",
+    "raw_title": "Bose makes a strong argument to tether to your phone again",
+    "title": "Bose makes a strong argument to tether to your phone again",
+    "raw_summary": "Bose has me thinking I’m in my 20s again with its wired earbuds. After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to the fact that they're cool now with younger generations - following the revival of tape decks and vinyl. Celebrities have been spotted wearing them , and there's even an Instagram account that follows the trend. Wired earbuds have real benefits. They don't need a battery, so they'll last longer than wireless ones that eventually die, and it's a lot ha … Read the full story at The Verge.",
+    "summary": "Bose has me thinking I’m in my 20s again with its wired earbuds. After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline.",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "original_url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+    "published_at": "2026-10-17T13:00:00+00:00",
+    "time_ago": "5m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Bose has me thinking I’m in my 20s again with its wired earbuds.",
+      "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back.",
+      "But their wired counterparts have stuck around, and their sales even went up this year after five years of decline."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Bose makes a strong argument to tether to your phone again",
+        "badge": "Breaking",
+        "text": "Bose has me thinking I’m in my 20s again with its wired earbuds.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "alt": "Bose makes a strong argument to tether to your phone again cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "But their wired counterparts have stuck around, and their sales even went up this year after five years of decline.",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Tech",
+        "text": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back.",
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from The Verge.",
+        "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 55
+  },
+  {
+    "id": "art_1792242317_2",
+    "slug": "uk-must-protect-against-russian-hybrid-attacks-ex-national-securi",
+    "category": "trending",
+    "category_name": "Trending",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "BBC News",
+    "raw_title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+    "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+    "raw_summary": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+    "summary": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg",
+    "original_url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-17T12:56:09+00:00",
+    "time_ago": "9m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from BBC News."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+        "badge": "Breaking",
+        "text": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg",
+        "alt": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Trending",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from BBC News.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 20
+  },
+  {
+    "id": "art_1792242317_11",
+    "slug": "joel-coen-on-studio-consolidation-competition-is-what-produces-op",
+    "category": "entertainment",
+    "category_name": "Entertainment",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Variety",
+    "raw_title": "Joel Coen on Studio Consolidation: ‘Competition Is What Produces Opportunities for Different Kinds of Movies,’ Teases Reunion Film With Brother Ethan",
+    "title": "Joel Coen on Studio Consolidation: ‘Competition Is What Produces Opportunities for Different Kinds of Movies,’ Teases Reunion Film With Brother Ethan",
+    "raw_summary": "The Coen brothers could be heading back to their hometown in Minneapolis for a reunion movie eight years after their last joint film, “The Ballad of Buster Scruggs.” While at Lyon’s Lumière Film Festival, where they received a career tribute, Joel and Ethan Coen revealed they have several projects in the pipeline set in Minneapolis, […]",
+    "summary": "The Coen brothers could be heading back to their hometown in Minneapolis for a reunion movie eight years after their last joint film, “The Ballad of Buster Scruggs.” While at Lyon’s Lumière Film Festival, where they received a career tribute, Joel and Ethan Coen revealed they have several projects in the pipeline set in Minneapolis, […]",
+    "image_url": "https://variety.com/wp-content/uploads/2026/06/Coen-brothers.jpg",
+    "original_url": "https://variety.com/2026/film/global/joel-coen-on-studio-consolidation-competition-1236914741/",
+    "published_at": "2026-10-17T12:52:17+00:00",
+    "time_ago": "13m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "The Coen brothers could be heading back to their hometown in Minneapolis for a reunion movie eight years after their last joint film, “The Ballad of Buster Scruggs.” While at Lyon’s Lumière Film Festival, where they received a career tribute, Joel and Ethan Coen revealed they have several projects in the pipeline set in Minneapolis, […]",
+      "Details monitored as developments unfold.",
+      "Verified coverage from Variety."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Joel Coen on Studio Consolidation: ‘Competition Is What Produces Opportunities for Different Kinds of Movies,’ Teases Reunion Film With Brother Ethan",
+        "badge": "Breaking",
+        "text": "The Coen brothers could be heading back to their hometown in Minneapolis for a reunion movie eight years after their last joint film, “The Ballad of Buster Scruggs.” While at Lyon’s Lumière Film Festival, where they received a career tribute, Joel and Ethan Coen revealed they have several projects in the pipeline set in Minneapolis, […]",
+        "image": "https://variety.com/wp-content/uploads/2026/06/Coen-brothers.jpg",
+        "alt": "Joel Coen on Studio Consolidation: ‘Competition Is What Produces Opportunities for Different Kinds of Movies,’ Teases Reunion Film With Brother Ethan cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The Coen brothers could be heading back to their hometown in Minneapolis for a reunion movie eight years after their last joint film, “The Ballad of Buster Scruggs.” While at Lyon’s Lumière Film Festival, where they received a career tribute, Joel and Ethan Coen revealed they have several projects in the pipeline set in Minneapolis, […]",
+        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The Coen brothers could be heading back to their hometown in Minneapolis for a reunion movie eight years after their last joint film, “The Ballad of Buster Scruggs.” While at Lyon’s Lumière Film Festival, where they received a career tribute, Joel and Ethan Coen revealed they have several projects in the pipeline set in Minneapolis, […]",
+        "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Entertainment",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Variety.",
+        "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 56
+  },
+  {
+    "id": "art_1792242317_9",
+    "slug": "rabadas-back-to-bolster-south-africa-as-australia-chase-series-wi",
+    "category": "sports",
+    "category_name": "Sports",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏆",
+    "source": "ESPN Cricinfo",
+    "raw_title": "Rabada's back to bolster South Africa as Australia chase series win",
+    "title": "Rabada's back to bolster South Africa as Australia chase series win",
+    "raw_summary": "South Africa given huge boost by fitness of their leading quick but both sides wait to name their XIs with uncertainty over conditions and the weather",
+    "summary": "South Africa given huge boost by fitness of their leading quick but both sides wait to name their XIs with uncertainty over conditions and the weather",
+    "image_url": "http://p.imgci.com/db/PICTURES/CMS/402000/402061.jpg",
+    "original_url": "https://www.cricinfo.com/ci/content/story/1558835.html?ex_cid=OTC-RSS",
+    "published_at": "2026-10-17T12:41:19+00:00",
+    "time_ago": "24m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "South Africa given huge boost by fitness of their leading quick but both sides wait to name their XIs with uncertainty over conditions and the weather",
+      "Details monitored as developments unfold.",
+      "Verified coverage from ESPN Cricinfo."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Rabada's back to bolster South Africa as Australia chase series win",
+        "badge": "Breaking",
+        "text": "South Africa given huge boost by fitness of their leading quick but both sides wait to name their XIs with uncertainty over conditions and the weather",
+        "image": "http://p.imgci.com/db/PICTURES/CMS/402000/402061.jpg",
+        "alt": "Rabada's back to bolster South Africa as Australia chase series win cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "South Africa given huge boost by fitness of their leading quick but both sides wait to name their XIs with uncertainty over conditions and the weather",
+        "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "South Africa given huge boost by fitness of their leading quick but both sides wait to name their XIs with uncertainty over conditions and the weather",
+        "image": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Sports",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from ESPN Cricinfo.",
+        "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 26
+  },
+  {
+    "id": "art_1792242317_10",
+    "slug": "hip-injury-rules-litton-das-out-of-uae-tri-series",
+    "category": "sports",
+    "category_name": "Sports",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏆",
+    "source": "ESPN Cricinfo",
+    "raw_title": "Hip injury rules Litton Das out of UAE tri-series",
+    "title": "Hip injury rules Litton Das out of UAE tri-series",
+    "raw_summary": "Mehidy Hasan Miraz also missed Bangladesh's first game of the tri-series, against Zimbabwe, because of a fever",
+    "summary": "Mehidy Hasan Miraz also missed Bangladesh's first game of the tri-series, against Zimbabwe, because of a fever",
+    "image_url": "http://p.imgci.com/db/PICTURES/CMS/403600/403664.jpg",
+    "original_url": "https://www.cricinfo.com/ci/content/story/1558858.html?ex_cid=OTC-RSS",
+    "published_at": "2026-10-17T12:15:36+00:00",
+    "time_ago": "49m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Mehidy Hasan Miraz also missed Bangladesh's first game of the tri-series, against Zimbabwe, because of a fever",
+      "Details monitored as developments unfold.",
+      "Verified coverage from ESPN Cricinfo."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Hip injury rules Litton Das out of UAE tri-series",
+        "badge": "Breaking",
+        "text": "Mehidy Hasan Miraz also missed Bangladesh's first game of the tri-series, against Zimbabwe, because of a fever",
+        "image": "http://p.imgci.com/db/PICTURES/CMS/403600/403664.jpg",
+        "alt": "Hip injury rules Litton Das out of UAE tri-series cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Mehidy Hasan Miraz also missed Bangladesh's first game of the tri-series, against Zimbabwe, because of a fever",
+        "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Mehidy Hasan Miraz also missed Bangladesh's first game of the tri-series, against Zimbabwe, because of a fever",
+        "image": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Sports",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from ESPN Cricinfo.",
+        "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 17
+  },
+  {
+    "id": "art_1792242317_1",
+    "slug": "watch-mood-has-really-shifted-as-paris-protesters-clash-with-poli",
+    "category": "trending",
+    "category_name": "Trending",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "BBC News",
+    "raw_title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+    "title": "Mood has really shifted' as Paris protesters clash with police",
+    "raw_summary": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+    "summary": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4971/live/07261b40-ca23-11f1-bc2e-018d645d8d21.jpg",
+    "original_url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-17T12:14:52+00:00",
+    "time_ago": "50m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from BBC News."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Mood has really shifted' as Paris protesters clash with police",
+        "badge": "Breaking",
+        "text": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4971/live/07261b40-ca23-11f1-bc2e-018d645d8d21.jpg",
+        "alt": "Mood has really shifted' as Paris protesters clash with police cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Trending",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from BBC News.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 22
+  },
+  {
+    "id": "art_1792242317_8",
+    "slug": "nursery-owner-in-china-jailed-for-life-after-hundreds-of-children",
+    "category": "world",
+    "category_name": "World",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🌐",
+    "source": "BBC News",
+    "raw_title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+    "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+    "raw_summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+    "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5bff/live/9df7c880-ca1d-11f1-a64c-550be9e3c66b.png",
+    "original_url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-17T12:11:58+00:00",
+    "time_ago": "53m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from BBC News."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Nursery owner in China jailed for life after hundreds of children poisoned",
+        "badge": "Breaking",
+        "text": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5bff/live/9df7c880-ca1d-11f1-a64c-550be9e3c66b.png",
+        "alt": "Nursery owner in China jailed for life after hundreds of children poisoned cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+        "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "World",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from BBC News.",
+        "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 21
+  },
+  {
+    "id": "art_1792242317_12",
+    "slug": "pathé-unveils-sofia-coppolas-marie-antoinette-4k-restoration-as-s",
+    "category": "entertainment",
+    "category_name": "Entertainment",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Variety",
+    "raw_title": "Pathé Unveils Sofia Coppola’s ‘Marie Antoinette’ 4K Restoration as Sophie and Jérôme Seydoux Are Feted in Lyon",
+    "title": "Pathé Unveils Sofia Coppola’s ‘Marie Antoinette’ 4K Restoration as Sophie and Jérôme Seydoux Are Feted in Lyon",
+    "raw_summary": "Sofia Coppola’s cult classic “Marie Antoinette” and three works by Louis Daquin, a champion of the Communist Resistance during the German occupation, are among the latest restored works from French studio Pathé. The company, whose owners Jérôme Seydoux and Sophie Seydoux are being honored at the Lumière Film Festival’s International Classic Film Market (MIFC) in […]",
+    "summary": "Sofia Coppola’s cult classic “Marie Antoinette” and three works by Louis Daquin, a champion of the Communist Resistance during the German occupation, are among the latest restored works from French studio Pathé. The company, whose owners Jérôme Seydoux and Sophie Seydoux are being honored at the Lumière Film Festival’s International Classic Film Market (MIFC) in […]",
+    "image_url": "https://variety.com/wp-content/uploads/2026/10/0604-MARSC-13.jpg",
+    "original_url": "https://variety.com/2026/film/global/pathe-sofia-coppola-marie-antoinette-jerome-seydoux-1236914657/",
+    "published_at": "2026-10-17T12:07:35+00:00",
+    "time_ago": "57m ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Sofia Coppola’s cult classic “Marie Antoinette” and three works by Louis Daquin, a champion of the Communist Resistance during the German occupation, are among the latest restored works from French studio Pathé.",
+      "The company, whose owners Jérôme Seydoux and Sophie Seydoux are being honored at the Lumière Film Festival’s International Classic Film Market (MIFC) in […]",
+      "Official reporting verified via Variety news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Pathé Unveils Sofia Coppola’s ‘Marie Antoinette’ 4K Restoration as Sophie and Jérôme Seydoux Are Feted in Lyon",
+        "badge": "Breaking",
+        "text": "Sofia Coppola’s cult classic “Marie Antoinette” and three works by Louis Daquin, a champion of the Communist Resistance during the German occupation, are among the latest restored works from French studio Pathé.",
+        "image": "https://variety.com/wp-content/uploads/2026/10/0604-MARSC-13.jpg",
+        "alt": "Pathé Unveils Sofia Coppola’s ‘Marie Antoinette’ 4K Restoration as Sophie and Jérôme Seydoux Are Feted in Lyon cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The company, whose owners Jérôme Seydoux and Sophie Seydoux are being honored at the Lumière Film Festival’s International Classic Film Market (MIFC) in […]",
+        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Sofia Coppola’s cult classic “Marie Antoinette” and three works by Louis Daquin, a champion of the Communist Resistance during the German occupation, are among the latest restored works from French studio Pathé.",
+        "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Entertainment",
+        "text": "The company, whose owners Jérôme Seydoux and Sophie Seydoux are being honored at the Lumière Film Festival’s International Classic Film Market (MIFC) in […]",
+        "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Variety.",
+        "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 56
+  },
+  {
+    "id": "art_1792242317_6",
+    "slug": "bending-spoons-wants-to-revive-software-castoffs-berkshire-is-bac",
+    "category": "business",
+    "category_name": "Business",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "📈",
+    "source": "CNBC",
+    "raw_title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+    "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+    "raw_summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+    "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108329344-1782916454983-gettyimages-2283599947-BENDING_SPOONS_IPO.jpeg?v=1782916474&w=1920&h=1080",
+    "original_url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+    "published_at": "2026-10-17T12:00:01+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from CNBC."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+        "badge": "Breaking",
+        "text": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108329344-1782916454983-gettyimages-2283599947-BENDING_SPOONS_IPO.jpeg?v=1782916474&w=1920&h=1080",
+        "alt": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Business",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CNBC.",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 23
+  },
+  {
+    "id": "art_1792242317_7",
+    "slug": "rare-pink-diamond-goes-on-display-in-france-100-years-after-amate",
+    "category": "world",
+    "category_name": "World",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🌐",
+    "source": "BBC News",
+    "raw_title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+    "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+    "raw_summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+    "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/37cc/live/14013ec0-ca01-11f1-bc2e-018d645d8d21.jpg",
+    "original_url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-17T10:46:41+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from BBC News."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Rare pink diamond goes on display in France 100 years after amateur heist",
+        "badge": "Breaking",
+        "text": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/37cc/live/14013ec0-ca01-11f1-bc2e-018d645d8d21.jpg",
+        "alt": "Rare pink diamond goes on display in France 100 years after amateur heist cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+        "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "World",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from BBC News.",
+        "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 25
+  },
+  {
+    "id": "art_1792242317_5",
+    "slug": "trump-waives-broad-new-russia-sanctions-and-tariffs-under-graham-",
+    "category": "business",
+    "category_name": "Business",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "📈",
+    "source": "CNBC",
+    "raw_title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+    "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+    "raw_summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+    "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108360237-1788940112798-gettyimages-2230321913-ah709167_3ynogvia.jpeg?v=1788941209&w=1920&h=1080",
+    "original_url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+    "published_at": "2026-10-17T10:20:44+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "1 min read",
+    "bullet_points": [
+      "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from CNBC."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+        "badge": "Breaking",
+        "text": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108360237-1788940112798-gettyimages-2230321913-ah709167_3ynogvia.jpeg?v=1788941209&w=1920&h=1080",
+        "alt": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Business",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CNBC.",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 17
+  },
+  {
     "id": "art_1792231849_1",
     "slug": "boy-16-and-80-year-old-man-die-in-light-aircraft-crash-near-loch-",
     "category": "trending",
