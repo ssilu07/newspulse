@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/more-nhs-staff-sacked-over-attacks-victims-records/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:34:39+00:00</news:publication_date>
+      <news:title>More NHS staff sacked over attacks victims&#x27; records</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/42a7/live/0ba95eb0-8762-11f1-b2ab-0dd01740f9f6.jpg</image:loc>
+      <image:title>More NHS staff sacked over attacks victims&#x27; records</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/taylor-and-ervine-lift-zimbabwe-to-271-after-top-order-collapse/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:04:29+00:00</news:publication_date>
+      <news:title>Taylor and Ervine lift Zimbabwe to 271 after top-order collapse</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422500/422558.jpg</image:loc>
+      <image:title>Taylor and Ervine lift Zimbabwe to 271 after top-order collapse</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/law-roach-wants-to-try-acting-if-im-terrible-at-it-at-least-i-tri/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:56:32+00:00</news:publication_date>
+      <news:title>Law Roach Wants to Try Acting: ‘If I’m Terrible at It, at Least I Tried’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2299883348-1000.jpg</image:loc>
+      <image:title>Law Roach Wants to Try Acting: ‘If I’m Terrible at It, at Least I Tried’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/wi-bowl-in-rain-reduced-game-india-bring-in-bhuvneshwar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:53:43+00:00</news:publication_date>
+      <news:title>WI bowl in rain-reduced game; India bring in Bhuvneshwar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423810.jpg</image:loc>
+      <image:title>WI bowl in rain-reduced game; India bring in Bhuvneshwar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/box-office-street-fighter-scores-13-million-debut-as-you-can-see-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:43:57+00:00</news:publication_date>
+      <news:title>Box Office: ‘Street Fighter’ Scores $13 Million Debut as ‘You Can See Everything’ Opens at No. 2 With $5.5 Million on Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/MCDSTFI_PA038.jpg</image:loc>
+      <image:title>Box Office: ‘Street Fighter’ Scores $13 Million Debut as ‘You Can See Everything’ Opens at No. 2 With $5.5 Million on Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/scotland-not-like-manchester-swinney-says-in-dig-at-pm-burnham/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:36:05+00:00</news:publication_date>
+      <news:title>Scotland &#x27;not like Manchester&#x27;, Swinney says in dig at PM Burnham</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7ea2/live/af19baa0-ca41-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Scotland &#x27;not like Manchester&#x27;, Swinney says in dig at PM Burnham</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:04:36+00:00</news:publication_date>
+      <news:title>Meta removes language that may have allowed it to scrape news sites</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Meta removes language that may have allowed it to scrape news sites</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/pikmin-4-is-20-off-ahead-of-its-10-nintendo-switch-2-update/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:00:00+00:00</news:publication_date>
+      <news:title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/pope-discharged-from-hospital-days-after-lung-cancer-surgery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T13:51:36+00:00</news:publication_date>
+      <news:title>Pope discharged from hospital days after lung cancer surgery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg</image:loc>
+      <image:title>Pope discharged from hospital days after lung cancer surgery</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/websites-are-closing-their-doors-to-ai-agents/</loc>
     <news:news>
       <news:publication>
@@ -60,6 +195,21 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/06/Coen-brothers.jpg</image:loc>
       <image:title>Joel Coen on Studio Consolidation: ‘Competition Is What Produces Opportunities for Different Kinds of Movies,’ Teases Reunion Film With Brother Ethan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/berkshire-shares-buck-market-sell-off-rally-to-highest-since-buff/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:46:21+00:00</news:publication_date>
+      <news:title>Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO</image:title>
     </image:image>
   </url>
   <url>
@@ -438,6 +588,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/actress-selma-blair-says-she-did-not-intend-to-harm-anyone-in-pla/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T01:55:45+00:00</news:publication_date>
+      <news:title>Actress Selma Blair says she &#x27;did not intend to harm anyone&#x27; in plane altercation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7e65/live/90ff56a0-ca0b-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Actress Selma Blair says she &#x27;did not intend to harm anyone&#x27; in plane altercation</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/the-impossible-whalefall-director-brian-duffield-wanted-a-challen/</loc>
     <news:news>
       <news:publication>
@@ -570,6 +735,21 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108361241-1789052723172-gettyimages-2293841199-AFP_C7UF8DY.jpeg?v=1792187091&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Apple’s $1,999 iPhone Duo puts the company&#x27;s status-symbol power to the test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-midterm-money-takeaways-democrats-have-candidate-cash-republica/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T21:49:13+00:00</news:publication_date>
+      <news:title>5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108408835-1791987962972-gettyimages-2297261280-TRUMP_AMERICAGOV.jpeg?v=1791987994&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk</image:title>
     </image:image>
   </url>
   <url>
@@ -2280,276 +2460,6 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d1ed/live/681f85b0-c8b8-11f1-bdfb-e3788aeae9ec.jpg</image:loc>
       <image:title>Maduro pleads not guilty to new torture-related charges in New York</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/russell-brand-accuser-says-he-turned-monster-like-before-alleged-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:35:05+00:00</news:publication_date>
-      <news:title>Russell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rape</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ba88/live/d39f1a40-c8a3-11f1-9a39-31b474234113.jpg</image:loc>
-      <image:title>Russell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rape</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/school-headscarf-ban-sparks-rare-protests-in-azerbaijan-and-row-w/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:15:06+00:00</news:publication_date>
-      <news:title>School headscarf ban sparks rare protests in Azerbaijan and row with Turkey</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7927/live/925e7820-c8b0-11f1-9c75-6ff1271de385.png</image:loc>
-      <image:title>School headscarf ban sparks rare protests in Azerbaijan and row with Turkey</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trans-people-should-use-hospital-spaces-according-to-biological-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:07:26+00:00</news:publication_date>
-      <news:title>Trans people should use hospital spaces according to biological sex, NHS England says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/93db/live/ff45ce50-c880-11f1-a64c-550be9e3c66b.jpg</image:loc>
-      <image:title>Trans people should use hospital spaces according to biological sex, NHS England says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kzncu-to-launch-thorough-internal-review-into-poor-attendance-in-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:46:03+00:00</news:publication_date>
-      <news:title>KZNCU to launch &#x27;thorough internal review&#x27; into poor attendance in Durban Test</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423700/423746.jpg</image:loc>
-      <image:title>KZNCU to launch &#x27;thorough internal review&#x27; into poor attendance in Durban Test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/economists-hot-ppi-shows-feds-work-is-not-done/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:37:59+00:00</news:publication_date>
-      <news:title>Economists: Hot PPI shows Fed&#x27;s work is not done</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108230160-17637550592025-11-21t195201z_1937334742_rc241iadto5c_rtrmadp_0_holidayshopping-retail-walmart.jpeg?v=1763755340&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Economists: Hot PPI shows Fed&#x27;s work is not done</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ai-agents-are-coming-to-rivians-cars/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:02:36+00:00</news:publication_date>
-      <news:title>AI agents are coming to Rivian’s cars</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1600,1067</image:loc>
-      <image:title>AI agents are coming to Rivian’s cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/was-neanderthal-life-violent-this-wound-suggests-lethal-fighting-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:00:05+00:00</news:publication_date>
-      <news:title>Was Neanderthal life violent? This wound suggests lethal fighting was more common</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/052f/live/ca6f9ca0-c8a4-11f1-929c-0b57deb4f9df.jpg</image:loc>
-      <image:title>Was Neanderthal life violent? This wound suggests lethal fighting was more common</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/seven-crew-missing-after-drone-attack-leaves-tanker-ablaze-off-ro/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:51:30+00:00</news:publication_date>
-      <news:title>Seven crew missing after drone attack leaves tanker ablaze off Romania&#x27;s coast</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/bd7f/live/80f03ac0-c88c-11f1-9a39-31b474234113.jpg</image:loc>
-      <image:title>Seven crew missing after drone attack leaves tanker ablaze off Romania&#x27;s coast</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/southwest-is-overhauling-its-frequent-flyer-program-heres-whats-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:25:01+00:00</news:publication_date>
-      <news:title>Southwest is overhauling its frequent flyer program. Here&#x27;s what&#x27;s changing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108313063-1779968970407-gettyimages-2277877363-260527_san_137.jpeg?v=1792016572&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Southwest is overhauling its frequent flyer program. Here&#x27;s what&#x27;s changing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/iranian-auteur-majid-majidi-wins-top-prize-at-busan-film-festival/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:11:02+00:00</news:publication_date>
-      <news:title>Iranian Auteur Majid Majidi Wins Top Prize at Busan Film Festival With ‘Midday Meal’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/1788153786_0f6756.jpg</image:loc>
-      <image:title>Iranian Auteur Majid Majidi Wins Top Prize at Busan Film Festival With ‘Midday Meal’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/an-israeli-firm-is-sending-spyware-through-online-ads-researchers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:10:50+00:00</news:publication_date>
-      <news:title>An Israeli firm is sending spyware through online ads, researchers say</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318436/akrales_220309_4977_0258.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>An Israeli firm is sending spyware through online ads, researchers say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/prep-your-cart-before-iphone-duo-preorders-open-tomorrow/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:07:33+00:00</news:publication_date>
-      <news:title>Prep your cart before iPhone Duo preorders open tomorrow</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0003.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Prep your cart before iPhone Duo preorders open tomorrow</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/techcrunch-disrupt-2026-last-day/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:00:00+00:00</news:publication_date>
-      <news:title>TechCrunch Disrupt 2026: Last day</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55588153544_30b536e5e6_o.jpg?resize=1600,1067</image:loc>
-      <image:title>TechCrunch Disrupt 2026: Last day</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/pov-shorts-moves-from-pbs-to-time-studios-youtube-channel-exclusi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:00:00+00:00</news:publication_date>
-      <news:title>‘POV Shorts’ Moves From PBS to Time Studios’ YouTube Channel (EXCLUSIVE)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/birds-and-the-bees.webp</image:loc>
-      <image:title>‘POV Shorts’ Moves From PBS to Time Studios’ YouTube Channel (EXCLUSIVE)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/severe-drought-declared-in-parts-of-southern-england/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:53:34+00:00</news:publication_date>
-      <news:title>Severe drought declared in parts of southern England</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/fb8c/live/25934700-c894-11f1-b0a4-81e564f1cfaa.jpg</image:loc>
-      <image:title>Severe drought declared in parts of southern England</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/wholesale-prices-jumped-63-annually-in-september-biggest-gain-sin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:46:36+00:00</news:publication_date>
-      <news:title>Wholesale prices jumped 6.3% annually in September, biggest gain since 2022</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/107089766-1792067872595-107089766-1657925387054-gettyimages-1241044672-05312022_PHH_COSTCO_01.jpg?v=1792067884&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Wholesale prices jumped 6.3% annually in September, biggest gain since 2022</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/cameron-green-in-doubt-for-gqeberha-test/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:44:08+00:00</news:publication_date>
-      <news:title>Cameron Green in doubt for Gqeberha Test</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/421500/421582.jpg</image:loc>
-      <image:title>Cameron Green in doubt for Gqeberha Test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/former-dup-leader-donaldson-sentenced-to-15-years-in-prison-for-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:13:26+00:00</news:publication_date>
-      <news:title>Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a5a5/live/e6dbe1a0-81f0-11f1-b6ff-e9b8db4416d1.jpg</image:loc>
-      <image:title>Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse</image:title>
     </image:image>
   </url>
 </urlset>
