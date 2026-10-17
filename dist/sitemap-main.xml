@@ -3,39 +3,219 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-17T16:40:28Z</lastmod>
+    <lastmod>2026-10-17T20:45:00Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-17T16:40:28Z</lastmod>
+    <lastmod>2026-10-17T20:45:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-17T16:40:28Z</lastmod>
+    <lastmod>2026-10-17T20:45:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-17T16:40:28Z</lastmod>
+    <lastmod>2026-10-17T20:45:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-17T16:40:28Z</lastmod>
+    <lastmod>2026-10-17T20:45:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-17T16:40:28Z</lastmod>
+    <lastmod>2026-10-17T20:45:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/anthropic-says-its-workforce-has-become-less-junior-and-is-spendi/</loc>
+    <lastmod>2026-10-17T20:21:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1600,1067</image:loc>
+      <image:title>Anthropic says its workforce has become less junior and is spending more time in meetings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/anthropic-says-its-workforce-has-become-less-junior-and-is-spendi/</loc>
+    <lastmod>2026-10-17T20:21:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1600,1067</image:loc>
+      <image:title>Anthropic says its workforce has become less junior and is spending more time in meetings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tiktok-bans-musk-documentary-account/</loc>
+    <lastmod>2026-10-17T19:32:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>TikTok bans Musk documentary account</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tiktok-bans-musk-documentary-account/</loc>
+    <lastmod>2026-10-17T19:32:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>TikTok bans Musk documentary account</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/dancing-with-the-stars-pulls-val-chmerkovskiy-after-inappropriate/</loc>
+    <lastmod>2026-10-17T19:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/183834_CW104412-e1792265097336.jpg</image:loc>
+      <image:title>‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/dancing-with-the-stars-pulls-val-chmerkovskiy-after-inappropriate/</loc>
+    <lastmod>2026-10-17T19:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/183834_CW104412-e1792265097336.jpg</image:loc>
+      <image:title>‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/harry-styles-together-together-tour-doc-coming-from-john-wilson-u/</loc>
+    <lastmod>2026-10-17T19:00:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/harry-styles-john-wilson.jpg</image:loc>
+      <image:title>Harry Styles ‘Together, Together’ Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/harry-styles-together-together-tour-doc-coming-from-john-wilson-u/</loc>
+    <lastmod>2026-10-17T19:00:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/harry-styles-john-wilson.jpg</image:loc>
+      <image:title>Harry Styles ‘Together, Together’ Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/european-diplomats-attacked-by-israeli-settlers-in-west-bank/</loc>
+    <lastmod>2026-10-17T18:38:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg</image:loc>
+      <image:title>European diplomats attacked by Israeli settlers in West Bank</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/european-diplomats-attacked-by-israeli-settlers-in-west-bank/</loc>
+    <lastmod>2026-10-17T18:38:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg</image:loc>
+      <image:title>European diplomats attacked by Israeli settlers in West Bank</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/shreyas-iyer-on-shai-hope-he-was-cruising-through-in-the-series/</loc>
+    <lastmod>2026-10-17T18:27:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423887.jpg</image:loc>
+      <image:title>Shreyas Iyer on Shai Hope: &#x27;He was cruising through in the series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/shreyas-iyer-on-shai-hope-he-was-cruising-through-in-the-series/</loc>
+    <lastmod>2026-10-17T18:27:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423887.jpg</image:loc>
+      <image:title>Shreyas Iyer on Shai Hope: &#x27;He was cruising through in the series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/swinneys-emotional-explanation-for-his-commitment-to-independence/</loc>
+    <lastmod>2026-10-17T18:11:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/0cd8/live/4bdea770-ca55-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Swinney&#x27;s emotional explanation for his commitment to independence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/swinneys-emotional-explanation-for-his-commitment-to-independence/</loc>
+    <lastmod>2026-10-17T18:11:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/0cd8/live/4bdea770-ca55-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Swinney&#x27;s emotional explanation for his commitment to independence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kishan-and-dhir-impress-but-rain-forces-series-to-end-2-2/</loc>
+    <lastmod>2026-10-17T17:25:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423886.jpg</image:loc>
+      <image:title>Kishan and Dhir impress but rain forces series to end 2-2</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kishan-and-dhir-impress-but-rain-forces-series-to-end-2-2/</loc>
+    <lastmod>2026-10-17T17:25:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423886.jpg</image:loc>
+      <image:title>Kishan and Dhir impress but rain forces series to end 2-2</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast/</loc>
+    <lastmod>2026-10-17T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast/</loc>
+    <lastmod>2026-10-17T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/more-nhs-staff-sacked-over-attacks-victims-records/</loc>
@@ -178,6 +358,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/dead-money-for-a-decade-why-this-hedge-fund-approach-may-deliver-/</loc>
+    <lastmod>2026-10-17T15:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108199776-1758101378069-gettyimages-2227303022-US_STOCKS_TARIFFS.jpeg?v=1759236869&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/dead-money-for-a-decade-why-this-hedge-fund-approach-may-deliver-/</loc>
+    <lastmod>2026-10-17T15:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108199776-1758101378069-gettyimages-2227303022-US_STOCKS_TARIFFS.jpeg?v=1759236869&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/pikmin-4-is-20-off-ahead-of-its-10-nintendo-switch-2-update/</loc>
     <lastmod>2026-10-17T15:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -295,6 +495,26 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/06/Coen-brothers.jpg</image:loc>
       <image:title>Joel Coen on Studio Consolidation: ‘Competition Is What Produces Opportunities for Different Kinds of Movies,’ Teases Reunion Film With Brother Ethan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-tech-stocks-are-a-buy-ahead-of-their-earnings-reports-bank-/</loc>
+    <lastmod>2026-10-17T12:49:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/106275088-1575358477734coupang10.jpg?v=1575358562&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>These tech stocks are a buy ahead of their earnings reports, Bank of America says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-tech-stocks-are-a-buy-ahead-of-their-earnings-reports-bank-/</loc>
+    <lastmod>2026-10-17T12:49:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/106275088-1575358477734coupang10.jpg?v=1575358562&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>These tech stocks are a buy ahead of their earnings reports, Bank of America says</image:title>
     </image:image>
   </url>
   <url>
@@ -835,6 +1055,46 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7e65/live/90ff56a0-ca0b-11f1-bc2e-018d645d8d21.jpg</image:loc>
       <image:title>Actress Selma Blair says she &#x27;did not intend to harm anyone&#x27; in plane altercation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-uncertain-future-of-canadas-30-rescued-belugas/</loc>
+    <lastmod>2026-10-17T01:18:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a7e9/live/0fd9b790-c971-11f1-80fc-ab418b149008.jpg</image:loc>
+      <image:title>The uncertain future of Canada&#x27;s 30 rescued belugas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-uncertain-future-of-canadas-30-rescued-belugas/</loc>
+    <lastmod>2026-10-17T01:18:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a7e9/live/0fd9b790-c971-11f1-80fc-ab418b149008.jpg</image:loc>
+      <image:title>The uncertain future of Canada&#x27;s 30 rescued belugas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/judge-throws-out-child-sex-abuse-charges-against-actor-timothy-bu/</loc>
+    <lastmod>2026-10-17T00:38:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d9d2/live/ddd16cc0-c9b1-11f1-a04a-83cd2533e4f9.jpg</image:loc>
+      <image:title>Judge throws out child sex abuse charges against actor Timothy Busfield</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/judge-throws-out-child-sex-abuse-charges-against-actor-timothy-bu/</loc>
+    <lastmod>2026-10-17T00:38:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d9d2/live/ddd16cc0-c9b1-11f1-a04a-83cd2533e4f9.jpg</image:loc>
+      <image:title>Judge throws out child sex abuse charges against actor Timothy Busfield</image:title>
     </image:image>
   </url>
   <url>
