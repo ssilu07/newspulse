@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/quentin-tarantino-confirms-hes-written-a-script-for-his-tenth-fil/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T23:59:24+00:00</news:publication_date>
+      <news:title>Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/08/GettyImages-2214901521.jpg</image:loc>
+      <image:title>Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/james-mcavoy-says-split-is-the-only-film-that-really-consistently/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T23:21:55+00:00</news:publication_date>
+      <news:title>James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/MCDSPLI_EC087.jpg</image:loc>
+      <image:title>James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ai-rapidly-improving-could-vastly-boost-us-gdp-anthropics-clark-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T23:04:00+00:00</news:publication_date>
+      <news:title>AI rapidly improving, could vastly boost U.S. GDP, Anthropic&#x27;s Clark tells policymakers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108291032-1776170422892-gettyimages-2270740029-IMF_WORLD_BANK.jpeg?v=1776170454&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>AI rapidly improving, could vastly boost U.S. GDP, Anthropic&#x27;s Clark tells policymakers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-day-of-protests-unfolded-as-disorder-breaks-out-across-france/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T21:33:17+00:00</news:publication_date>
+      <news:title>How day of protests unfolded as disorder breaks out across France</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>How day of protests unfolded as disorder breaks out across France</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/meta-removes-language-that-raised-scraping-and-ai-training-concer/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T21:31:32+00:00</news:publication_date>
+      <news:title>Meta removes language that raised scraping and AI training concerns</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1600</image:loc>
+      <image:title>Meta removes language that raised scraping and AI training concerns</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/anti-government-protesters-battle-with-police-in-albania/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T20:53:00+00:00</news:publication_date>
+      <news:title>Anti-government protesters battle with police in Albania</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg</image:loc>
+      <image:title>Anti-government protesters battle with police in Albania</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/violent-clashes-looting-and-buildings-ablaze-in-france-as-over-10/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T20:52:17+00:00</news:publication_date>
+      <news:title>Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg</image:loc>
+      <image:title>Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/anthropic-says-its-workforce-has-become-less-junior-and-is-spendi/</loc>
     <news:news>
       <news:publication>
@@ -48,6 +153,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/at-least-17-dead-in-crush-at-hindu-festival-event-in-india/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T19:19:16+00:00</news:publication_date>
+      <news:title>At least 17 dead in crush at Hindu festival event in India</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg</image:loc>
+      <image:title>At least 17 dead in crush at Hindu festival event in India</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/harry-styles-together-together-tour-doc-coming-from-john-wilson-u/</loc>
     <news:news>
       <news:publication>
@@ -60,6 +180,21 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/harry-styles-john-wilson.jpg</image:loc>
       <image:title>Harry Styles ‘Together, Together’ Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/replit-makes-openai-its-default-over-anthropic-ceo-says/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T18:48:08+00:00</news:publication_date>
+      <news:title>Replit makes OpenAI its default over Anthropic, CEO says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1600,1067</image:loc>
+      <image:title>Replit makes OpenAI its default over Anthropic, CEO says</image:title>
     </image:image>
   </url>
   <url>
@@ -135,6 +270,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/semiconductor-market-to-remain-solid-at-least-through-next-year-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:45:15+00:00</news:publication_date>
+      <news:title>Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108425005-17922519932026-09-15t041703z_540430742_rc2djnamnvdo_rtrmadp_0_southkorea-politics-finance.jpeg?v=1792252039&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says</image:title>
     </image:image>
   </url>
   <url>
@@ -270,6 +420,36 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chaminda-vaas-unveiled-as-delhi-capitals-fast-bowling-coach/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:10:20+00:00</news:publication_date>
+      <news:title>Chaminda Vaas unveiled as Delhi Capitals&#x27; fast-bowling coach</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/317100/317101.jpg</image:loc>
+      <image:title>Chaminda Vaas unveiled as Delhi Capitals&#x27; fast-bowling coach</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/रणज-टरफ-क-दसर-रउड-म-पजब-क-लए-खलग-शभमन-गल/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:07:58+00:00</news:publication_date>
+      <news:title>रणजी ट्रॉफ़ी के दूसरे राउंड में पंजाब के लिए खेलेंगे शुभमन गिल</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/421000/421075.jpg</image:loc>
+      <image:title>रणजी ट्रॉफ़ी के दूसरे राउंड में पंजाब के लिए खेलेंगे शुभमन गिल</image:title>
     </image:image>
   </url>
   <url>
@@ -465,6 +645,21 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108329344-1782916454983-gettyimages-2283599947-BENDING_SPOONS_IPO.jpeg?v=1782916474&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Bending Spoons wants to revive software castoffs. Berkshire is backing the plan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/apples-homeview-is-just-the-latest-threat-to-online-recipe-writer/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:00:00+00:00</news:publication_date>
+      <news:title>Apple’s HomeView is just the latest threat to online recipe writers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple’s HomeView is just the latest threat to online recipe writers</image:title>
     </image:image>
   </url>
   <url>
@@ -2175,231 +2370,6 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/Credit_PhoenixJohnson-e1792109845279.jpg</image:loc>
       <image:title>Olivia Rodrigo and Chappell Roan Compete on Game Shows Hosted by David Byrne in the Retro Video for ‘Expectations’ Remix</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gasping-for-clean-air-singapore-battles-relentless-haze-as-prime-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T00:06:48+00:00</news:publication_date>
-      <news:title>Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108412446-1792039223158-gettyimages-2299632897-kalong-notitle261014_npA7D.jpeg?v=1792039239&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-27-best-american-horror-story-characters-ranked/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T00:00:00+00:00</news:publication_date>
-      <news:title>The 27 Best ‘American Horror Story’ Characters, Ranked</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/AmericanHorrorStory-Ranking.jpg</image:loc>
-      <image:title>The 27 Best ‘American Horror Story’ Characters, Ranked</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:44:56+00:00</news:publication_date>
-      <news:title>When it came to Cal AI’s viral success, a small army of influencers paid off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1600,1067</image:loc>
-      <image:title>When it came to Cal AI’s viral success, a small army of influencers paid off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/houthi-missile-attack-on-yemeni-presidential-palace-kills-five-mi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:38:46+00:00</news:publication_date>
-      <news:title>Houthi missile attack on Yemeni presidential palace kills five, minister says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg</image:loc>
-      <image:title>Houthi missile attack on Yemeni presidential palace kills five, minister says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tip-off-foiled-us-teen-suspects-plot-to-attack-hindu-temple-polic/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:27:21+00:00</news:publication_date>
-      <news:title>Tip-off foiled US teen suspect&#x27;s plot to attack Hindu temple, police say</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/316e/live/9caab030-c88a-11f1-a2e8-f71844f8002e.jpg</image:loc>
-      <image:title>Tip-off foiled US teen suspect&#x27;s plot to attack Hindu temple, police say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/steam-can-now-show-game-achievements-in-separate-sets/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:18:28+00:00</news:publication_date>
-      <news:title>Steam can now show game achievements in separate ‘sets’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Steam can now show game achievements in separate ‘sets’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/netflix-chief-content-officer-bela-bajaria-is-leaving-will-be-rep/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:08:05+00:00</news:publication_date>
-      <news:title>Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108245941-1766777565238-gettyimages-2239632506-Netflixs__A_House_of_Dynamite_Premiere.jpeg?v=1789589587&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/sparks-fly-at-the-celebrity-traitors-round-table-and-a-terrifying/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:01:49+00:00</news:publication_date>
-      <news:title>Sparks fly at the Celebrity Traitors round table and a &#x27;terrifying&#x27; death march</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/718c/live/00b0e6b0-c8e7-11f1-8fce-870ed9afa8a0.jpg</image:loc>
-      <image:title>Sparks fly at the Celebrity Traitors round table and a &#x27;terrifying&#x27; death march</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/chatgpt-can-peek-at-your-chrome-tabs-now/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T22:43:23+00:00</news:publication_date>
-      <news:title>ChatGPT can peek at your Chrome tabs now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>ChatGPT can peek at your Chrome tabs now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-tech-backlash-is-now-in-theaters/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:39:52+00:00</news:publication_date>
-      <news:title>The tech backlash is now in theaters</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>The tech backlash is now in theaters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/taylor-sheridans-frisco-king-starring-samuel-l-jackson-sets-relea/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:31:29+00:00</news:publication_date>
-      <news:title>Taylor Sheridan’s ‘Frisco King’ Starring Samuel L. Jackson Sets Release Date (TV News Roundup)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/FriscoKing_101_EM_0420_00139_RT.jpg</image:loc>
-      <image:title>Taylor Sheridan’s ‘Frisco King’ Starring Samuel L. Jackson Sets Release Date (TV News Roundup)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trump-says-if-ken-paxton-loses-texas-senate-race-blame-cornyn-and/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:28:51+00:00</news:publication_date>
-      <news:title>Trump says &#x27;if Ken Paxton loses&#x27; Texas Senate race, blame Cornyn and Karl Rove</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108415213-1792084539459-gettyimages-2299789422-AFP_D3EV86B.jpeg?v=1792084636&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Trump says &#x27;if Ken Paxton loses&#x27; Texas Senate race, blame Cornyn and Karl Rove</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bus-hits-train-stopped-on-french-side-of-channel-tunnel-with-19-i/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:12:14+00:00</news:publication_date>
-      <news:title>Bus hits train stopped on French side of  Channel Tunnel, with 19 injured</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a8bd/live/94f13bb0-c8d6-11f1-874f-2bba45330ab3.jpg</image:loc>
-      <image:title>Bus hits train stopped on French side of  Channel Tunnel, with 19 injured</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:09:33+00:00</news:publication_date>
-      <news:title>Trump posts AI-edited photo to brag about White House restoration work</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Trump posts AI-edited photo to brag about White House restoration work</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fourth-wing-tv-series-casts-emilio-sakraya-as-xaden-riorson/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:00:00+00:00</news:publication_date>
-      <news:title>‘Fourth Wing’ TV Series Casts Emilio Sakraya as Xaden Riorson</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2248275728-e1792091399675.jpg</image:loc>
-      <image:title>‘Fourth Wing’ TV Series Casts Emilio Sakraya as Xaden Riorson</image:title>
     </image:image>
   </url>
 </urlset>

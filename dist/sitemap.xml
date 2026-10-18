@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-17T20:45:00Z</lastmod>
+    <lastmod>2026-10-18T00:20:30Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-17T20:45:00Z</lastmod>
+    <lastmod>2026-10-18T00:20:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-17T20:45:00Z</lastmod>
+    <lastmod>2026-10-18T00:20:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-17T20:45:00Z</lastmod>
+    <lastmod>2026-10-18T00:20:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-17T20:45:00Z</lastmod>
+    <lastmod>2026-10-18T00:20:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-17T20:45:00Z</lastmod>
+    <lastmod>2026-10-18T00:20:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/quentin-tarantino-confirms-hes-written-a-script-for-his-tenth-fil/</loc>
+    <lastmod>2026-10-17T23:59:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/08/GettyImages-2214901521.jpg</image:loc>
+      <image:title>Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/quentin-tarantino-confirms-hes-written-a-script-for-his-tenth-fil/</loc>
+    <lastmod>2026-10-17T23:59:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/08/GettyImages-2214901521.jpg</image:loc>
+      <image:title>Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/james-mcavoy-says-split-is-the-only-film-that-really-consistently/</loc>
+    <lastmod>2026-10-17T23:21:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/MCDSPLI_EC087.jpg</image:loc>
+      <image:title>James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/james-mcavoy-says-split-is-the-only-film-that-really-consistently/</loc>
+    <lastmod>2026-10-17T23:21:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/MCDSPLI_EC087.jpg</image:loc>
+      <image:title>James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ai-rapidly-improving-could-vastly-boost-us-gdp-anthropics-clark-t/</loc>
+    <lastmod>2026-10-17T23:04:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108291032-1776170422892-gettyimages-2270740029-IMF_WORLD_BANK.jpeg?v=1776170454&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>AI rapidly improving, could vastly boost U.S. GDP, Anthropic&#x27;s Clark tells policymakers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ai-rapidly-improving-could-vastly-boost-us-gdp-anthropics-clark-t/</loc>
+    <lastmod>2026-10-17T23:04:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108291032-1776170422892-gettyimages-2270740029-IMF_WORLD_BANK.jpeg?v=1776170454&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>AI rapidly improving, could vastly boost U.S. GDP, Anthropic&#x27;s Clark tells policymakers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-day-of-protests-unfolded-as-disorder-breaks-out-across-france/</loc>
+    <lastmod>2026-10-17T21:33:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>How day of protests unfolded as disorder breaks out across France</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-day-of-protests-unfolded-as-disorder-breaks-out-across-france/</loc>
+    <lastmod>2026-10-17T21:33:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>How day of protests unfolded as disorder breaks out across France</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/meta-removes-language-that-raised-scraping-and-ai-training-concer/</loc>
+    <lastmod>2026-10-17T21:31:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1600</image:loc>
+      <image:title>Meta removes language that raised scraping and AI training concerns</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/meta-removes-language-that-raised-scraping-and-ai-training-concer/</loc>
+    <lastmod>2026-10-17T21:31:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1600</image:loc>
+      <image:title>Meta removes language that raised scraping and AI training concerns</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/anti-government-protesters-battle-with-police-in-albania/</loc>
+    <lastmod>2026-10-17T20:53:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg</image:loc>
+      <image:title>Anti-government protesters battle with police in Albania</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/anti-government-protesters-battle-with-police-in-albania/</loc>
+    <lastmod>2026-10-17T20:53:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg</image:loc>
+      <image:title>Anti-government protesters battle with police in Albania</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/violent-clashes-looting-and-buildings-ablaze-in-france-as-over-10/</loc>
+    <lastmod>2026-10-17T20:52:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg</image:loc>
+      <image:title>Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/violent-clashes-looting-and-buildings-ablaze-in-france-as-over-10/</loc>
+    <lastmod>2026-10-17T20:52:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg</image:loc>
+      <image:title>Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/anthropic-says-its-workforce-has-become-less-junior-and-is-spendi/</loc>
@@ -98,6 +238,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/at-least-17-dead-in-crush-at-hindu-festival-event-in-india/</loc>
+    <lastmod>2026-10-17T19:19:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg</image:loc>
+      <image:title>At least 17 dead in crush at Hindu festival event in India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-least-17-dead-in-crush-at-hindu-festival-event-in-india/</loc>
+    <lastmod>2026-10-17T19:19:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg</image:loc>
+      <image:title>At least 17 dead in crush at Hindu festival event in India</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/harry-styles-together-together-tour-doc-coming-from-john-wilson-u/</loc>
     <lastmod>2026-10-17T19:00:20+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -115,6 +275,26 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/harry-styles-john-wilson.jpg</image:loc>
       <image:title>Harry Styles ‘Together, Together’ Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/replit-makes-openai-its-default-over-anthropic-ceo-says/</loc>
+    <lastmod>2026-10-17T18:48:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1600,1067</image:loc>
+      <image:title>Replit makes OpenAI its default over Anthropic, CEO says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/replit-makes-openai-its-default-over-anthropic-ceo-says/</loc>
+    <lastmod>2026-10-17T18:48:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1600,1067</image:loc>
+      <image:title>Replit makes OpenAI its default over Anthropic, CEO says</image:title>
     </image:image>
   </url>
   <url>
@@ -215,6 +395,26 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/semiconductor-market-to-remain-solid-at-least-through-next-year-s/</loc>
+    <lastmod>2026-10-17T16:45:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108425005-17922519932026-09-15t041703z_540430742_rc2djnamnvdo_rtrmadp_0_southkorea-politics-finance.jpeg?v=1792252039&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/semiconductor-market-to-remain-solid-at-least-through-next-year-s/</loc>
+    <lastmod>2026-10-17T16:45:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108425005-17922519932026-09-15t041703z_540430742_rc2djnamnvdo_rtrmadp_0_southkorea-politics-finance.jpeg?v=1792252039&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says</image:title>
     </image:image>
   </url>
   <url>
@@ -395,6 +595,46 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chaminda-vaas-unveiled-as-delhi-capitals-fast-bowling-coach/</loc>
+    <lastmod>2026-10-17T14:10:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/317100/317101.jpg</image:loc>
+      <image:title>Chaminda Vaas unveiled as Delhi Capitals&#x27; fast-bowling coach</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/chaminda-vaas-unveiled-as-delhi-capitals-fast-bowling-coach/</loc>
+    <lastmod>2026-10-17T14:10:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/317100/317101.jpg</image:loc>
+      <image:title>Chaminda Vaas unveiled as Delhi Capitals&#x27; fast-bowling coach</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/रणज-टरफ-क-दसर-रउड-म-पजब-क-लए-खलग-शभमन-गल/</loc>
+    <lastmod>2026-10-17T14:07:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/421000/421075.jpg</image:loc>
+      <image:title>रणजी ट्रॉफ़ी के दूसरे राउंड में पंजाब के लिए खेलेंगे शुभमन गिल</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/रणज-टरफ-क-दसर-रउड-म-पजब-क-लए-खलग-शभमन-गल/</loc>
+    <lastmod>2026-10-17T14:07:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/421000/421075.jpg</image:loc>
+      <image:title>रणजी ट्रॉफ़ी के दूसरे राउंड में पंजाब के लिए खेलेंगे शुभमन गिल</image:title>
     </image:image>
   </url>
   <url>
@@ -655,6 +895,26 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108329344-1782916454983-gettyimages-2283599947-BENDING_SPOONS_IPO.jpeg?v=1782916474&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Bending Spoons wants to revive software castoffs. Berkshire is backing the plan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/apples-homeview-is-just-the-latest-threat-to-online-recipe-writer/</loc>
+    <lastmod>2026-10-17T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple’s HomeView is just the latest threat to online recipe writers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/apples-homeview-is-just-the-latest-threat-to-online-recipe-writer/</loc>
+    <lastmod>2026-10-17T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple’s HomeView is just the latest threat to online recipe writers</image:title>
     </image:image>
   </url>
   <url>
