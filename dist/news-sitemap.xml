@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/julianne-moore-says-the-debut-is-one-of-the-best-scripts-ive-ever/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T20:40:12+00:00</news:publication_date>
+      <news:title>Julianne Moore Says ‘The Debut’ Is ‘One of the Best Scripts I’ve Ever Read’ as Jesse Eisenberg’s Musical Comedy Closes London Film Festival on a High Note</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/the-debut-1000.jpg</image:loc>
+      <image:title>Julianne Moore Says ‘The Debut’ Is ‘One of the Best Scripts I’ve Ever Read’ as Jesse Eisenberg’s Musical Comedy Closes London Film Festival on a High Note</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T20:37:40+00:00</news:publication_date>
+      <news:title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1600</image:loc>
+      <image:title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/macron-calls-for-calm-and-order-after-riots-across-france/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T20:33:21+00:00</news:publication_date>
+      <news:title>Macron calls for &#x27;calm and order&#x27; after riots across France</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg</image:loc>
+      <image:title>Macron calls for &#x27;calm and order&#x27; after riots across France</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fire-engulfs-albanias-supreme-court-as-protests-enter-fifth-day/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T20:26:03+00:00</news:publication_date>
+      <news:title>Fire engulfs Albania’s Supreme Court as protests enter fifth day</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792355094.jpg?resize=1920%2C1080&amp;quality=80</image:loc>
+      <image:title>Fire engulfs Albania’s Supreme Court as protests enter fifth day</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/joe-manganiello-says-ben-afflecks-scrapped-batman-film-would-have/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T20:12:37+00:00</news:publication_date>
+      <news:title>Joe Manganiello Says Ben Affleck’s Scrapped Batman Film Would Have Seen Deathstroke ‘Dismantle Batman’s Entire Life’ and Kill Commissioner Gordon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-1388071981.jpg</image:loc>
+      <image:title>Joe Manganiello Says Ben Affleck’s Scrapped Batman Film Would Have Seen Deathstroke ‘Dismantle Batman’s Entire Life’ and Kill Commissioner Gordon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-we-know-so-far-about-deadly-fire-at-canadian-military-base/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T19:42:37+00:00</news:publication_date>
+      <news:title>What we know so far about deadly fire at Canadian military base</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg</image:loc>
+      <image:title>What we know so far about deadly fire at Canadian military base</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mister-organ-is-one-of-the-most-unsettling-documentaries-ive-ever/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T19:30:00+00:00</news:publication_date>
+      <news:title>Mister Organ is one of the most unsettling documentaries I’ve ever seen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Mister-Organ-poster.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Mister Organ is one of the most unsettling documentaries I’ve ever seen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/frances-macron-vows-to-hold-accountable-those-who-sought-to-bring/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T19:16:12+00:00</news:publication_date>
+      <news:title>France&#x27;s Macron vows to hold accountable those who &#x27;sought to bring down the Republic</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108429365-17923506512026-10-18t183457z_1777343427_rc2u5oagnymw_rtrmadp_0_france-protest.jpeg?v=1792350688&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>France&#x27;s Macron vows to hold accountable those who &#x27;sought to bring down the Republic</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:28:10+00:00</news:publication_date>
+      <news:title>A woman was arrested in Philly for blocking a delivery robot</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>A woman was arrested in Philly for blocking a delivery robot</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bowlers-shafali-mandhana-power-india-to-series-win/</loc>
     <news:news>
       <news:publication>
@@ -138,6 +273,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/rizwan-to-captain-sngpl-in-final-round-of-presidents-trophy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:36:36+00:00</news:publication_date>
+      <news:title>Rizwan to captain SNGPL in final round of President&#x27;s Trophy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/417200/417233.jpg</image:loc>
+      <image:title>Rizwan to captain SNGPL in final round of President&#x27;s Trophy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rain-and-boland-hound-south-africa-in-gqeberha/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:22:31+00:00</news:publication_date>
+      <news:title>Rain and Boland hound South Africa in Gqeberha</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423922.jpg</image:loc>
+      <image:title>Rain and Boland hound South Africa in Gqeberha</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks/</loc>
     <news:news>
       <news:publication>
@@ -243,6 +408,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/meta-platforms-and-tesla-are-among-the-companies-set-to-report-ne/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T12:41:18+00:00</news:publication_date>
+      <news:title>Meta Platforms and Tesla are among the companies set to report next week. What to expect</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Meta Platforms and Tesla are among the companies set to report next week. What to expect</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/salman-agha-ton-eshan-malinga-four-for-as-pakistan-notch-305/</loc>
     <news:news>
       <news:publication>
@@ -315,6 +495,21 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108428047-1792321495068-gettyimages-2299835493-USA-VANCE.jpeg?v=1792321535&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Vance faces tough questions on Iran war, immigration and more in CBS town hall</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/pope-leo-xiv-thanks-wellwishers-in-first-event-after-cancer-surge/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T11:09:32+00:00</news:publication_date>
+      <news:title>Pope Leo XIV thanks wellwishers in first event after cancer surgery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/21f0/live/4a3b0720-cae5-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Pope Leo XIV thanks wellwishers in first event after cancer surgery</image:title>
     </image:image>
   </url>
   <url>
@@ -1875,291 +2070,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents.jpg</image:loc>
       <image:title>OpenAI models hacked a crypto wallet and breached more websites</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/major-earnings-reports-are-due-next-week-but-strong-results-may-n/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:50:39+00:00</news:publication_date>
-      <news:title>Major earnings reports are due next week, but strong results may not be enough to quell market fears</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108369490-17906967662026-09-29t153733z_1974734743_rc21tna90hb1_rtrmadp_0_usa-stocks.jpeg?v=1790696808&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Major earnings reports are due next week, but strong results may not be enough to quell market fears</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-int/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:49:04+00:00</news:publication_date>
-      <news:title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/katie-zacharia-out-as-trumps-white-house-press-secretary/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:40:58+00:00</news:publication_date>
-      <news:title>Katie Zacharia out as Trump&#x27;s White House press secretary</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108403373-1791899390220-gettyimages-2299988078-_s017926_y4gtds8j.jpeg?v=1791899415&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Katie Zacharia out as Trump&#x27;s White House press secretary</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/i-play-rocky-surprise-screens-at-london-film-festival/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:32:24+00:00</news:publication_date>
-      <news:title>‘I Play Rocky’ Surprise Screens at London Film Festival</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/09/I-Play-Rocky_HERO.jpg</image:loc>
-      <image:title>‘I Play Rocky’ Surprise Screens at London Film Festival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trump-says-white-house-didnt-order-starlink-restrictions-in-ukrai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:28:10+00:00</news:publication_date>
-      <news:title>Trump says White House didn&#x27;t order Starlink restrictions in Ukraine</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108420687-1792171613260-gettyimages-2300530575-ah702282_m8u7potl.jpeg?v=1792171643&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Trump says White House didn&#x27;t order Starlink restrictions in Ukraine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/brent-oil-touches-110-as-iran-escalates-hormuz-attacks-ukraine-vo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:02:21+00:00</news:publication_date>
-      <news:title>Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108409918-1792001666276-2026-10-13T175311Z_748127171_RC2F2OACIXEA_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG?v=1792001733&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T19:40:00+00:00</news:publication_date>
-      <news:title>Porsche’s electric Macan Turbo is an automotive existential crisis</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1600,1067</image:loc>
-      <image:title>Porsche’s electric Macan Turbo is an automotive existential crisis</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trump-denies-limiting-ukraine-access-to-starlink-network/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T19:33:48+00:00</news:publication_date>
-      <news:title>Trump denies limiting Ukraine access to Starlink network</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg</image:loc>
-      <image:title>Trump denies limiting Ukraine access to Starlink network</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-high/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T19:28:10+00:00</news:publication_date>
-      <news:title>Wall Street&#x27;s fear gauge is ripping. Traders see it going even higher</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108408957-1791988869652-gettyimages-2300173631-mms15477_dpxylhl3.jpeg?v=1791989017&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Wall Street&#x27;s fear gauge is ripping. Traders see it going even higher</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-we-learned-from-heated-us-midterm-senate-debates/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T19:09:37+00:00</news:publication_date>
-      <news:title>What we learned from heated US midterm Senate debates</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7468/live/37bdc2e0-c991-11f1-adc3-01d8629f0470.jpg</image:loc>
-      <image:title>What we learned from heated US midterm Senate debates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-apple-is-finally-making-its-own-smart-home-devices/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:30:27+00:00</news:publication_date>
-      <news:title>Why Apple is finally making its own smart home devices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Why Apple is finally making its own smart home devices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jaffer-applies-for-india-mens-national-selector-post/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:17:59+00:00</news:publication_date>
-      <news:title>Jaffer applies for India men&#x27;s national selector post</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/295800/295887.jpg</image:loc>
-      <image:title>Jaffer applies for India men&#x27;s national selector post</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toxic-algorithms-wouldnt-let-them-go-now-australia-wants-an-off-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:11:29+00:00</news:publication_date>
-      <news:title>Toxic algorithms wouldn&#x27;t let them go</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png</image:loc>
-      <image:title>Toxic algorithms wouldn&#x27;t let them go</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/roundtables-a-conversation-with-the-creator-of-ai-designed-viruse/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:00:00+00:00</news:publication_date>
-      <news:title>Roundtables: A Conversation With the Creator of AI-Designed Viruses</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600</image:loc>
-      <image:title>Roundtables: A Conversation With the Creator of AI-Designed Viruses</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/india-becomes-the-latest-country-to-report-rogue-ai-agent-activit/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:52:24+00:00</news:publication_date>
-      <news:title>India becomes the latest country to report rogue AI agent activity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=1600</image:loc>
-      <image:title>India becomes the latest country to report rogue AI agent activity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/who-is-emilio-sakraya-meet-fourth-wing-actor-playing-xaden-riorso/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:42:14+00:00</news:publication_date>
-      <news:title>Who Is Emilio Sakraya? Meet ‘Fourth Wing’ Actor Playing Xaden Riorson</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2248275728-e1792091399675.jpg</image:loc>
-      <image:title>Who Is Emilio Sakraya? Meet ‘Fourth Wing’ Actor Playing Xaden Riorson</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/deepti-sharma-and-niki-prasad-seal-nervy-chase-of-115-for-india/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:34:03+00:00</news:publication_date>
-      <news:title>Deepti Sharma and Niki Prasad seal nervy chase of 115 for India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423868.jpg</image:loc>
-      <image:title>Deepti Sharma and Niki Prasad seal nervy chase of 115 for India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bumrah-pant-in-india-squad-for-new-zealand-test-series/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:30:25+00:00</news:publication_date>
-      <news:title>Bumrah, Pant in India squad for New Zealand Test series</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/403400/403450.jpg</image:loc>
-      <image:title>Bumrah, Pant in India squad for New Zealand Test series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-call-of-duty-found-its-modern-warfare-4-cast-from-mads-mikkel/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:00:00+00:00</news:publication_date>
-      <news:title>How ‘Call of Duty’ Found Its ‘Modern Warfare 4’ Cast, From Mads Mikkelsen’s Villain to Prisca Kim’s Ri Ju-Young</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/CoD-Modern-Warfare-4-Mads-Mikkelsen-as-The-Archer.png</image:loc>
-      <image:title>How ‘Call of Duty’ Found Its ‘Modern Warfare 4’ Cast, From Mads Mikkelsen’s Villain to Prisca Kim’s Ri Ju-Young</image:title>
     </image:image>
   </url>
 </urlset>
