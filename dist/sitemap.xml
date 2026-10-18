@@ -3,39 +3,259 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-18T13:25:39Z</lastmod>
+    <lastmod>2026-10-18T16:57:28Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-18T13:25:39Z</lastmod>
+    <lastmod>2026-10-18T16:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-18T13:25:39Z</lastmod>
+    <lastmod>2026-10-18T16:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-18T13:25:39Z</lastmod>
+    <lastmod>2026-10-18T16:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-18T13:25:39Z</lastmod>
+    <lastmod>2026-10-18T16:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-18T13:25:39Z</lastmod>
+    <lastmod>2026-10-18T16:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bowlers-shafali-mandhana-power-india-to-series-win/</loc>
+    <lastmod>2026-10-18T16:47:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423937.jpg</image:loc>
+      <image:title>Bowlers, Shafali, Mandhana power India to series win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bowlers-shafali-mandhana-power-india-to-series-win/</loc>
+    <lastmod>2026-10-18T16:47:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423937.jpg</image:loc>
+      <image:title>Bowlers, Shafali, Mandhana power India to series win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bessent-warns-zelenskyy-to-be-very-careful-about-claims-us-is-thr/</loc>
+    <lastmod>2026-10-18T16:44:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108374303-1791396694329-gettyimages-2298464628-AFP_D2JK6CL.jpeg?v=1791396718&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Bessent warns Zelenskyy to &#x27;be very careful&#x27; about claims U.S. is throttling Starlink</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bessent-warns-zelenskyy-to-be-very-careful-about-claims-us-is-thr/</loc>
+    <lastmod>2026-10-18T16:44:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108374303-1791396694329-gettyimages-2298464628-AFP_D2JK6CL.jpeg?v=1791396718&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Bessent warns Zelenskyy to &#x27;be very careful&#x27; about claims U.S. is throttling Starlink</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nahida-akter-named-bangladesh-womens-t20i-captain/</loc>
+    <lastmod>2026-10-18T16:42:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422300/422376.jpg</image:loc>
+      <image:title>Nahida Akter named Bangladesh women&#x27;s T20I captain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nahida-akter-named-bangladesh-womens-t20i-captain/</loc>
+    <lastmod>2026-10-18T16:42:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/422300/422376.jpg</image:loc>
+      <image:title>Nahida Akter named Bangladesh women&#x27;s T20I captain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/disney-agrees-to-hire-the-majority-of-characterais-workforce/</loc>
+    <lastmod>2026-10-18T16:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1600,1067</image:loc>
+      <image:title>Disney agrees to hire the majority of Character.AI’s workforce</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/disney-agrees-to-hire-the-majority-of-characterais-workforce/</loc>
+    <lastmod>2026-10-18T16:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1600,1067</image:loc>
+      <image:title>Disney agrees to hire the majority of Character.AI’s workforce</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/video-game-ownership-bill-introduced-in-congress/</loc>
+    <lastmod>2026-10-18T16:27:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Video game ownership bill introduced in Congress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/video-game-ownership-bill-introduced-in-congress/</loc>
+    <lastmod>2026-10-18T16:27:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Video game ownership bill introduced in Congress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/man-80-who-died-in-light-aircraft-crash-near-loch-lomond-named/</loc>
+    <lastmod>2026-10-18T15:59:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/153b/live/e7c21f60-cae0-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Man, 80, who died in light aircraft crash near Loch Lomond named</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/man-80-who-died-in-light-aircraft-crash-near-loch-lomond-named/</loc>
+    <lastmod>2026-10-18T15:59:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/153b/live/e7c21f60-cae0-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Man, 80, who died in light aircraft crash near Loch Lomond named</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/box-office-you-can-see-everything-stuns-with-15-million-debut-str/</loc>
+    <lastmod>2026-10-18T15:05:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-7.57.52-PM.webp</image:loc>
+      <image:title>Box Office: ‘You Can See Everything’ Stuns With $15 Million Debut, ‘Street Fighter’ Leads With $31 Million</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/box-office-you-can-see-everything-stuns-with-15-million-debut-str/</loc>
+    <lastmod>2026-10-18T15:05:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-7.57.52-PM.webp</image:loc>
+      <image:title>Box Office: ‘You Can See Everything’ Stuns With $15 Million Debut, ‘Street Fighter’ Leads With $31 Million</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/inside-the-new-stanford-prison-experiment-netflixs-controversial-/</loc>
+    <lastmod>2026-10-18T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/The_New_Stanford_Prison_Experiment_n_S1_E2_00_22_07_09_R.jpg</image:loc>
+      <image:title>Inside ‘The New Stanford Prison Experiment,’ Netflix’s Controversial Reality Series: ‘People Are Going to Have Very Strong Feelings’ (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/inside-the-new-stanford-prison-experiment-netflixs-controversial-/</loc>
+    <lastmod>2026-10-18T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/The_New_Stanford_Prison_Experiment_n_S1_E2_00_22_07_09_R.jpg</image:loc>
+      <image:title>Inside ‘The New Stanford Prison Experiment,’ Netflix’s Controversial Reality Series: ‘People Are Going to Have Very Strong Feelings’ (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lenovos-fast-comfy-steamos-handheld-is-hundreds-off/</loc>
+    <lastmod>2026-10-18T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1224.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Lenovo’s fast, comfy SteamOS handheld is hundreds off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lenovos-fast-comfy-steamos-handheld-is-hundreds-off/</loc>
+    <lastmod>2026-10-18T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1224.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Lenovo’s fast, comfy SteamOS handheld is hundreds off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks/</loc>
+    <lastmod>2026-10-18T13:52:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108428367-1792328750337-gettyimages-2297156728-AA_29092026_2972193.jpeg?v=1792331049&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Iran says it has a &#x27;new operational plan&#x27; if the U.S. resumes attacks, as shipping vessels report strikes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks/</loc>
+    <lastmod>2026-10-18T13:52:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108428367-1792328750337-gettyimages-2297156728-AA_29092026_2972193.jpeg?v=1792331049&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Iran says it has a &#x27;new operational plan&#x27; if the U.S. resumes attacks, as shipping vessels report strikes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/search-for-amelia-earharts-plane-resumes-after-stormy-weather/</loc>
+    <lastmod>2026-10-18T13:47:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/f795/live/26bf0220-cacb-11f1-b5ff-6fb710f59c84.jpg</image:loc>
+      <image:title>Search for Amelia Earhart&#x27;s plane resumes after stormy weather</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/search-for-amelia-earharts-plane-resumes-after-stormy-weather/</loc>
+    <lastmod>2026-10-18T13:47:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/f795/live/26bf0220-cacb-11f1-b5ff-6fb710f59c84.jpg</image:loc>
+      <image:title>Search for Amelia Earhart&#x27;s plane resumes after stormy weather</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/trump-says-google-kisses-his-ass/</loc>
@@ -75,6 +295,26 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/3RH32911.jpg</image:loc>
       <image:title>NFL Introduces Celebrity Guest Cheerleaders: On the Sidelines With Comedian Atsuko Okatsuka and the L.A. Rams (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/suspects-hunted-after-police-officer-injured-in-shooting/</loc>
+    <lastmod>2026-10-18T13:10:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1ed4/live/5bd8d440-caee-11f1-ac38-a74b6e44cca7.jpg</image:loc>
+      <image:title>Suspects hunted after police officer injured in shooting</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/suspects-hunted-after-police-officer-injured-in-shooting/</loc>
+    <lastmod>2026-10-18T13:10:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1ed4/live/5bd8d440-caee-11f1-ac38-a74b6e44cca7.jpg</image:loc>
+      <image:title>Suspects hunted after police officer injured in shooting</image:title>
     </image:image>
   </url>
   <url>
@@ -2475,6 +2715,26 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108408957-1791988869652-gettyimages-2300173631-mms15477_dpxylhl3.jpeg?v=1791989017&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Wall Street&#x27;s fear gauge is ripping. Traders see it going even higher</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-we-learned-from-heated-us-midterm-senate-debates/</loc>
+    <lastmod>2026-10-16T19:09:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7468/live/37bdc2e0-c991-11f1-adc3-01d8629f0470.jpg</image:loc>
+      <image:title>What we learned from heated US midterm Senate debates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-we-learned-from-heated-us-midterm-senate-debates/</loc>
+    <lastmod>2026-10-16T19:09:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7468/live/37bdc2e0-c991-11f1-adc3-01d8629f0470.jpg</image:loc>
+      <image:title>What we learned from heated US midterm Senate debates</image:title>
     </image:image>
   </url>
   <url>
