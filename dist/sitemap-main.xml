@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-19T12:12:19Z</lastmod>
+    <lastmod>2026-10-19T16:35:16Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-19T12:12:19Z</lastmod>
+    <lastmod>2026-10-19T16:35:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-19T12:12:19Z</lastmod>
+    <lastmod>2026-10-19T16:35:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-19T12:12:19Z</lastmod>
+    <lastmod>2026-10-19T16:35:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-19T12:12:19Z</lastmod>
+    <lastmod>2026-10-19T16:35:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-19T12:12:19Z</lastmod>
+    <lastmod>2026-10-19T16:35:16Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-year/</loc>
+    <lastmod>2026-10-19T16:31:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108362609-1789409134792-gettyimages-2290481472-logos.jpeg?v=1789409171&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Anthropic is AI trade&#x27;s last big hope for a major IPO this year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-year/</loc>
+    <lastmod>2026-10-19T16:31:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108362609-1789409134792-gettyimages-2290481472-logos.jpeg?v=1789409171&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Anthropic is AI trade&#x27;s last big hope for a major IPO this year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/saudi-arabia-postpones-big-investor-conference-to-2027-as-iran-ba/</loc>
+    <lastmod>2026-10-19T16:30:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108432908-1792423234477-gettyimages-2243335148-AFP_828X9WE.jpeg?v=1792423261&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/saudi-arabia-postpones-big-investor-conference-to-2027-as-iran-ba/</loc>
+    <lastmod>2026-10-19T16:30:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108432908-1792423234477-gettyimages-2243335148-AFP_828X9WE.jpeg?v=1792423261&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ex-openai-worker-accused-of-planting-device-had-saudi-support-say/</loc>
+    <lastmod>2026-10-19T16:22:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png</image:loc>
+      <image:title>Ex-OpenAI worker accused of planting device had Saudi support says court filing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ex-openai-worker-accused-of-planting-device-had-saudi-support-say/</loc>
+    <lastmod>2026-10-19T16:22:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png</image:loc>
+      <image:title>Ex-OpenAI worker accused of planting device had Saudi support says court filing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</loc>
+    <lastmod>2026-10-19T16:13:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1600</image:loc>
+      <image:title>People are using AI to make their smart TVs dumb again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</loc>
+    <lastmod>2026-10-19T16:13:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1600</image:loc>
+      <image:title>People are using AI to make their smart TVs dumb again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/apple-teases-macbook-pro-event-next-week/</loc>
+    <lastmod>2026-10-19T16:04:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple teases MacBook Pro event next week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/apple-teases-macbook-pro-event-next-week/</loc>
+    <lastmod>2026-10-19T16:04:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Apple teases MacBook Pro event next week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ticketmaster-goes-all-in-on-ai-names-ex-amazon-exec-as-chief-tech/</loc>
+    <lastmod>2026-10-19T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/ticketmaster-execs.jpg</image:loc>
+      <image:title>Ticketmaster Goes All-In on AI, Names Ex-Amazon Exec as Chief Technology Officer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ticketmaster-goes-all-in-on-ai-names-ex-amazon-exec-as-chief-tech/</loc>
+    <lastmod>2026-10-19T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/ticketmaster-execs.jpg</image:loc>
+      <image:title>Ticketmaster Goes All-In on AI, Names Ex-Amazon Exec as Chief Technology Officer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hannah-waddingham-to-receive-crystal-award-at-women-in-film-honor/</loc>
+    <lastmod>2026-10-19T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Hannah-Waddingham_Headshot-1000.jpg</image:loc>
+      <image:title>Hannah Waddingham to Receive Crystal Award at Women in Film Honors (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hannah-waddingham-to-receive-crystal-award-at-women-in-film-honor/</loc>
+    <lastmod>2026-10-19T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Hannah-Waddingham_Headshot-1000.jpg</image:loc>
+      <image:title>Hannah Waddingham to Receive Crystal Award at Women in Film Honors (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/atal-ton-zadran-90-put-afghanistan-on-course-before-zimbabwe-figh/</loc>
+    <lastmod>2026-10-19T15:44:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423967.jpg</image:loc>
+      <image:title>Atal ton, Zadran 90 put Afghanistan on course before Zimbabwe fightback</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/atal-ton-zadran-90-put-afghanistan-on-course-before-zimbabwe-figh/</loc>
+    <lastmod>2026-10-19T15:44:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423967.jpg</image:loc>
+      <image:title>Atal ton, Zadran 90 put Afghanistan on course before Zimbabwe fightback</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/amazon-is-funding-a-new-nuclear-plant-in-indiana/</loc>
+    <lastmod>2026-10-19T15:44:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Amazon is funding a new nuclear plant in Indiana</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/amazon-is-funding-a-new-nuclear-plant-in-indiana/</loc>
+    <lastmod>2026-10-19T15:44:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Amazon is funding a new nuclear plant in Indiana</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-a/</loc>
+    <lastmod>2026-10-19T15:37:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1600,1067</image:loc>
+      <image:title>Nvidia launches new open models to run agents in the enterprise and on PCs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-a/</loc>
+    <lastmod>2026-10-19T15:37:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1600,1067</image:loc>
+      <image:title>Nvidia launches new open models to run agents in the enterprise and on PCs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/molineux-dunkley-enter-wpl-2027-auction-with-top-base-price-of-in/</loc>
+    <lastmod>2026-10-19T15:18:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/377800/377891.jpg</image:loc>
+      <image:title>Molineux, Dunkley enter WPL 2027 auction with top base price of INR 50 lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/molineux-dunkley-enter-wpl-2027-auction-with-top-base-price-of-in/</loc>
+    <lastmod>2026-10-19T15:18:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/377800/377891.jpg</image:loc>
+      <image:title>Molineux, Dunkley enter WPL 2027 auction with top base price of INR 50 lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/australian-mp-critically-injured-after-being-hit-by-car-in-appare/</loc>
+    <lastmod>2026-10-19T14:09:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5c1d/live/efe61500-cbd2-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Australian MP critically injured after being hit by car in apparent attack</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/australian-mp-critically-injured-after-being-hit-by-car-in-appare/</loc>
+    <lastmod>2026-10-19T14:09:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5c1d/live/efe61500-cbd2-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Australian MP critically injured after being hit by car in apparent attack</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/watch-are-the-french-riots-a-warning-of-an-intense-election-to-co/</loc>
+    <lastmod>2026-10-19T13:43:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/145f/live/7a0d3230-cbcf-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Are the French riots a warning of an intense election to come?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/watch-are-the-french-riots-a-warning-of-an-intense-election-to-co/</loc>
+    <lastmod>2026-10-19T13:43:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/145f/live/7a0d3230-cbcf-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Are the French riots a warning of an intense election to come?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/exiled-critic-of-rwandan-president-found-beheaded/</loc>
+    <lastmod>2026-10-19T13:42:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png</image:loc>
+      <image:title>Exiled critic of Rwandan president found beheaded</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/exiled-critic-of-rwandan-president-found-beheaded/</loc>
+    <lastmod>2026-10-19T13:42:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png</image:loc>
+      <image:title>Exiled critic of Rwandan president found beheaded</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/miley-cyrus-fires-back-at-criticism-of-hollywood-bowl-concert-and/</loc>
