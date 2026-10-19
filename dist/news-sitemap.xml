@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/rita-wilson-says-shes-returning-for-lena-dunhams-girls-revival-i-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:18:06+00:00</news:publication_date>
+      <news:title>Rita Wilson Says She’s Returning for Lena Dunham’s ‘Girls’ Revival: ‘I Would Do Anything for Her’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-3.16.25-PM.png</image:loc>
+      <image:title>Rita Wilson Says She’s Returning for Lena Dunham’s ‘Girls’ Revival: ‘I Would Do Anything for Her’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bob-buziak-former-president-of-rca-records-and-sonys-tristar-musi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:06:34+00:00</news:publication_date>
+      <news:title>Bob Buziak, Former President of RCA Records and Sony’s Tristar Music Group, Dies at 83</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/albumcovertreatment-15-3.jpg</image:loc>
+      <image:title>Bob Buziak, Former President of RCA Records and Sony’s Tristar Music Group, Dies at 83</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-mod/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:04:28+00:00</news:publication_date>
+      <news:title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1600,1067</image:loc>
+      <image:title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-fossil-fuel-comeback-is-here/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T21:48:01+00:00</news:publication_date>
+      <news:title>The fossil fuel comeback is here</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>The fossil fuel comeback is here</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/watch-clean-up-begins-after-french-riots-but-police-remain/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T21:30:08+00:00</news:publication_date>
+      <news:title>Clean up begins after French riots but police remain</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6193/live/d6797140-cc02-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Clean up begins after French riots but police remain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/coreweave8217s-debt-is-becoming-the-whole-ai-industry8217s-proble/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T21:28:20+00:00</news:publication_date>
+      <news:title>CoreWeave&amp;#8217;s debt is becoming the whole AI industry&amp;#8217;s problem</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>CoreWeave&amp;#8217;s debt is becoming the whole AI industry&amp;#8217;s problem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/curfew-imposed-in-parts-of-central-paris-and-other-cities-after-r/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T21:14:53+00:00</news:publication_date>
+      <news:title>Curfew imposed in parts of central Paris and other cities after rioting across France</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8d92/live/581e2ba0-cbfe-11f1-a0c1-e5a096ec3cfb.jpg</image:loc>
+      <image:title>Curfew imposed in parts of central Paris and other cities after rioting across France</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tennis-star-svitolina-says-emotional-toll-of-ukraine-war-led-to-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T21:02:33+00:00</news:publication_date>
+      <news:title>Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg</image:loc>
+      <image:title>Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trump-says-hed-meet-with-putin-and-xi-criticizes-zelenskyy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T21:00:02+00:00</news:publication_date>
+      <news:title>Trump says he&#x27;d meet with Putin and Xi, criticizes Zelenskyy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108433783-1792438003638-gettyimages-2301016542-1r5_9267_jrupjshf.jpeg?v=1792438038&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Trump says he&#x27;d meet with Putin and Xi, criticizes Zelenskyy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tech-stocks-had-a-nice-oversold-bounce-on-monday-earnings-this-we/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T20:57:14+00:00</news:publication_date>
+      <news:title>Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it&#x27;s for real</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108408959-1791988869661-gettyimages-2300173647-mms15433_18qmdbo1.jpeg?v=1791992160&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it&#x27;s for real</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/atal-and-rashid-seal-afghanistans-comprehensive-win/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T20:23:07+00:00</news:publication_date>
+      <news:title>Atal and Rashid seal Afghanistan&#x27;s comprehensive win</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423967.jpg</image:loc>
+      <image:title>Atal and Rashid seal Afghanistan&#x27;s comprehensive win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T20:09:24+00:00</news:publication_date>
+      <news:title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1600,1067</image:loc>
+      <image:title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-a/</loc>
     <news:news>
       <news:publication>
@@ -180,6 +360,21 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg</image:loc>
       <image:title>Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/obama-blasts-federal-probe-of-congresswoman-ilhan-omar-as-so-appa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:16:51+00:00</news:publication_date>
+      <news:title>Obama blasts federal probe of congresswoman Ilhan Omar as &#x27;so appalling</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5592/live/e0f10480-cb2b-11f1-97d2-23d8daaba2e1.jpg</image:loc>
+      <image:title>Obama blasts federal probe of congresswoman Ilhan Omar as &#x27;so appalling</image:title>
     </image:image>
   </url>
   <url>
@@ -375,6 +570,21 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5c1d/live/efe61500-cbd2-11f1-9a39-31b474234113.jpg</image:loc>
       <image:title>Australian MP critically injured after being hit by car in apparent attack</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/familiar-foes-get-serious-in-odi-world-cup-build-up/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T13:49:34+00:00</news:publication_date>
+      <news:title>Familiar foes get serious in ODI World Cup build-up</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423923.jpg</image:loc>
+      <image:title>Familiar foes get serious in ODI World Cup build-up</image:title>
     </image:image>
   </url>
   <url>
@@ -1815,126 +2025,6 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/09/NBA-New-York-Knicks-Jalen-Brunson-Getty-VR-Featured.jpg</image:loc>
       <image:title>Here’s Where to Buy New York Knicks Home Opener Tickets at Madison Square Garden Online</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/photos-show-luxury-boat-with-50m-pool-and-water-slides-near-kim-j/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T22:09:50+00:00</news:publication_date>
-      <news:title>Photos show luxury boat with 50m pool and water slides near Kim Jong Un&#x27;s summer retreat</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png</image:loc>
-      <image:title>Photos show luxury boat with 50m pool and water slides near Kim Jong Un&#x27;s summer retreat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-day-of-protests-unfolded-as-disorder-breaks-out-across-france/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T21:33:17+00:00</news:publication_date>
-      <news:title>How day of protests unfolded as disorder breaks out across France</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg</image:loc>
-      <image:title>How day of protests unfolded as disorder breaks out across France</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/meta-removes-language-that-raised-scraping-and-ai-training-concer/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T21:31:32+00:00</news:publication_date>
-      <news:title>Meta removes language that raised scraping and AI training concerns</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1600</image:loc>
-      <image:title>Meta removes language that raised scraping and AI training concerns</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tiktok-permanently-bans-musk-documentary-advertising-account/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:55:52+00:00</news:publication_date>
-      <news:title>TikTok permanently bans ‘Musk’ documentary advertising account</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1600,1067</image:loc>
-      <image:title>TikTok permanently bans ‘Musk’ documentary advertising account</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/anti-government-protesters-battle-with-police-in-albania/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:53:00+00:00</news:publication_date>
-      <news:title>Anti-government protesters battle with police in Albania</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg</image:loc>
-      <image:title>Anti-government protesters battle with police in Albania</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/violent-clashes-looting-and-buildings-ablaze-in-france-as-over-10/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:52:17+00:00</news:publication_date>
-      <news:title>Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg</image:loc>
-      <image:title>Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/anthropic-says-its-workforce-has-become-less-junior-and-is-spendi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:21:19+00:00</news:publication_date>
-      <news:title>Anthropic says its workforce has become less junior and is spending more time in meetings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1600,1067</image:loc>
-      <image:title>Anthropic says its workforce has become less junior and is spending more time in meetings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tiktok-bans-musk-documentary-account/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T19:32:23+00:00</news:publication_date>
-      <news:title>TikTok bans Musk documentary account</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>TikTok bans Musk documentary account</image:title>
     </image:image>
   </url>
 </urlset>
