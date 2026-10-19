@@ -3,39 +3,239 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-19T00:30:12Z</lastmod>
+    <lastmod>2026-10-19T07:57:24Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-19T00:30:12Z</lastmod>
+    <lastmod>2026-10-19T07:57:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-19T00:30:12Z</lastmod>
+    <lastmod>2026-10-19T07:57:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-19T00:30:12Z</lastmod>
+    <lastmod>2026-10-19T07:57:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-19T00:30:12Z</lastmod>
+    <lastmod>2026-10-19T07:57:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-19T00:30:12Z</lastmod>
+    <lastmod>2026-10-19T07:57:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/frances-government-under-pressure-after-widespread-violence/</loc>
+    <lastmod>2026-10-19T07:46:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4190/live/1ce2e400-cb80-11f1-bba6-c7bcff195158.jpg</image:loc>
+      <image:title>France&#x27;s government under pressure after widespread violence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/frances-government-under-pressure-after-widespread-violence/</loc>
+    <lastmod>2026-10-19T07:46:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/4190/live/1ce2e400-cb80-11f1-bba6-c7bcff195158.jpg</image:loc>
+      <image:title>France&#x27;s government under pressure after widespread violence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/train-to-busan-director-yeon-sang-hos-paradise-lost-clinches-118-/</loc>
+    <lastmod>2026-10-19T07:20:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Paradise-Lost.jpg</image:loc>
+      <image:title>‘Train to Busan’ Director Yeon Sang-ho’s ‘Paradise Lost’ Clinches 118-Country Sales Ahead of Hawai‘i Festival U.S. Bow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/train-to-busan-director-yeon-sang-hos-paradise-lost-clinches-118-/</loc>
+    <lastmod>2026-10-19T07:20:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Paradise-Lost.jpg</image:loc>
+      <image:title>‘Train to Busan’ Director Yeon Sang-ho’s ‘Paradise Lost’ Clinches 118-Country Sales Ahead of Hawai‘i Festival U.S. Bow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/busan-winner-ria-arvin-belarminos-folk-punk-debut-boards-lights-o/</loc>
+    <lastmod>2026-10-19T07:02:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Ria.jpg</image:loc>
+      <image:title>Busan Winner ‘Ria,’ Arvin Belarmino’s Folk-Punk Debut, Boards Lights On (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/busan-winner-ria-arvin-belarminos-folk-punk-debut-boards-lights-o/</loc>
+    <lastmod>2026-10-19T07:02:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Ria.jpg</image:loc>
+      <image:title>Busan Winner ‘Ria,’ Arvin Belarmino’s Folk-Punk Debut, Boards Lights On (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/funding-shortages-force-world-food-programme-to-cut-aid-to-gaza/</loc>
+    <lastmod>2026-10-19T06:00:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1a2c/live/e6934370-cb7c-11f1-8d42-dd1c1e8413a3.jpg</image:loc>
+      <image:title>Funding shortages force World Food Programme to cut aid to Gaza</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/funding-shortages-force-world-food-programme-to-cut-aid-to-gaza/</loc>
+    <lastmod>2026-10-19T06:00:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1a2c/live/e6934370-cb7c-11f1-8d42-dd1c1e8413a3.jpg</image:loc>
+      <image:title>Funding shortages force World Food Programme to cut aid to Gaza</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/companies-exploiting-welfare-system-by-using-residents-as-cash-co/</loc>
+    <lastmod>2026-10-19T04:59:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ff66/live/e1748ef0-cb84-11f1-9a39-31b474234113.png</image:loc>
+      <image:title>Companies exploiting welfare system by using residents as &#x27;cash cows&#x27;, BBC finds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/companies-exploiting-welfare-system-by-using-residents-as-cash-co/</loc>
+    <lastmod>2026-10-19T04:59:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ff66/live/e1748ef0-cb84-11f1-9a39-31b474234113.png</image:loc>
+      <image:title>Companies exploiting welfare system by using residents as &#x27;cash cows&#x27;, BBC finds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/abhimanyu-the-dream-to-play-for-india-is-still-there/</loc>
+    <lastmod>2026-10-19T04:55:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423816.jpg</image:loc>
+      <image:title>Abhimanyu: The &#x27;dream&#x27; to play for India is &#x27;still there</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/abhimanyu-the-dream-to-play-for-india-is-still-there/</loc>
+    <lastmod>2026-10-19T04:55:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423816.jpg</image:loc>
+      <image:title>Abhimanyu: The &#x27;dream&#x27; to play for India is &#x27;still there</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/darcie-brown-ruled-out-of-wbbl-with-a-back-injury/</loc>
+    <lastmod>2026-10-19T04:39:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/330400/330484.jpg</image:loc>
+      <image:title>Darcie Brown ruled out of WBBL with a back injury</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/darcie-brown-ruled-out-of-wbbl-with-a-back-injury/</loc>
+    <lastmod>2026-10-19T04:39:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/330400/330484.jpg</image:loc>
+      <image:title>Darcie Brown ruled out of WBBL with a back injury</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/putin-reportedly-suggests-summit-with-trump-and-xi-to-decide-fate/</loc>
+    <lastmod>2026-10-19T03:56:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108372989-1791255404749-gettyimages-2229471059-2230320553.jpeg?v=1791572488&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/putin-reportedly-suggests-summit-with-trump-and-xi-to-decide-fate/</loc>
+    <lastmod>2026-10-19T03:56:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108372989-1791255404749-gettyimages-2229471059-2230320553.jpeg?v=1791572488&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kenya-pastor-accused-of-ordering-parents-to-starve-their-children/</loc>
+    <lastmod>2026-10-19T03:44:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8068/live/34a82040-c956-11f1-8879-9d9deeb686e1.jpg</image:loc>
+      <image:title>Kenya pastor accused of ordering parents to starve their children to death faces verdict</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kenya-pastor-accused-of-ordering-parents-to-starve-their-children/</loc>
+    <lastmod>2026-10-19T03:44:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8068/live/34a82040-c956-11f1-8879-9d9deeb686e1.jpg</image:loc>
+      <image:title>Kenya pastor accused of ordering parents to starve their children to death faces verdict</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/france-hit-by-worst-unrest-in-years-as-attempts-to-rein-in-govern/</loc>
+    <lastmod>2026-10-19T03:18:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108430331-1792370117297-gettyimages-2300132524-AFP_D3LE2JY.jpeg?v=1792370151&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>France hit by worst unrest in years as attempts to rein in government spending meet citizen ire</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/france-hit-by-worst-unrest-in-years-as-attempts-to-rein-in-govern/</loc>
+    <lastmod>2026-10-19T03:18:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108430331-1792370117297-gettyimages-2300132524-AFP_D3LE2JY.jpeg?v=1792370151&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>France hit by worst unrest in years as attempts to rein in government spending meet citizen ire</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/the-simpsons-surprise-apu-is-heard-for-the-first-time-in-nearly-a/</loc>
@@ -798,6 +998,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/how-overhead-projectors-took-over-your-classroom/</loc>
+    <lastmod>2026-10-18T12:55:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>How overhead projectors took over your classroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-overhead-projectors-took-over-your-classroom/</loc>
+    <lastmod>2026-10-18T12:55:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>How overhead projectors took over your classroom</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/meta-platforms-and-tesla-are-among-the-companies-set-to-report-ne/</loc>
     <lastmod>2026-10-18T12:41:18+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -875,6 +1095,26 @@
     <image:image>
       <image:loc>https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&amp;w=1920&amp;h=1080</image:loc>
       <image:title>Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/cities-want-to-put-the-boot-on-robotaxis/</loc>
+    <lastmod>2026-10-18T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Cities want to put the boot on robotaxis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cities-want-to-put-the-boot-on-robotaxis/</loc>
+    <lastmod>2026-10-18T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Cities want to put the boot on robotaxis</image:title>
     </image:image>
   </url>
   <url>
