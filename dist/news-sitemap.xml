@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:28:34+00:00</news:publication_date>
+      <news:title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=1600</image:loc>
+      <image:title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/richard-riehle-character-actor-in-office-space-star-trek-bridesma/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:17:38+00:00</news:publication_date>
+      <news:title>Richard Riehle, Character Actor in ‘Office Space,’ ‘Star Trek,’ ‘Bridesmaids’ and More, Dies at 78</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2187632495.jpg</image:loc>
+      <image:title>Richard Riehle, Character Actor in ‘Office Space,’ ‘Star Trek,’ ‘Bridesmaids’ and More, Dies at 78</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/openai-bugging-case-saudi-consulate-offers-to-pay-bail-for-suspec/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:16:34+00:00</news:publication_date>
+      <news:title>OpenAI bugging case: Saudi consulate offers to pay bail for suspect</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>OpenAI bugging case: Saudi consulate offers to pay bail for suspect</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-li/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:00:12+00:00</news:publication_date>
+      <news:title>Tolan snags $30M for its AI companion that helps users navigate life</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1600,1067</image:loc>
+      <image:title>Tolan snags $30M for its AI companion that helps users navigate life</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nasdaq-gains-as-investors-buy-the-dip-in-the-ai-trade-live-update/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:55:05+00:00</news:publication_date>
+      <news:title>Nasdaq gains as investors buy the dip in the AI trade: Live updates</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108432676-1792420318266-108432676-1792420158667-gettyimages-2300478316-AFP_D3QL3WF.jpg?v=1792420336&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Nasdaq gains as investors buy the dip in the AI trade: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gwyneth-paltrow-sets-first-lead-tv-role-in-a24-drama-the-apology-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:46:48+00:00</news:publication_date>
+      <news:title>Gwyneth Paltrow Sets First Lead TV Role in A24 Drama ‘The Apology’ at Netflix</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/10/P102FN2H.jpg</image:loc>
+      <image:title>Gwyneth Paltrow Sets First Lead TV Role in A24 Drama ‘The Apology’ at Netflix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ukrainians-dying-because-us-restricting-intelligence-sharing-zele/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:23:50+00:00</news:publication_date>
+      <news:title>Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/68c7/live/28c5fe60-cbcb-11f1-aba9-2bb2608f11d9.jpg</image:loc>
+      <image:title>Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bavuma-fights-but-bolands-four-puts-australia-in-complete-control/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:45:17+00:00</news:publication_date>
+      <news:title>Bavuma fights but Boland&#x27;s four puts Australia in complete control</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423973.jpg</image:loc>
+      <image:title>Bavuma fights but Boland&#x27;s four puts Australia in complete control</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-year/</loc>
     <news:news>
       <news:publication>
@@ -45,6 +165,21 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png</image:loc>
       <image:title>Ex-OpenAI worker accused of planting device had Saudi support says court filing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/houthi-missile-strike-on-yemen-camp-kills-50-security-recruits-lo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:20:51+00:00</news:publication_date>
+      <news:title>Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg</image:loc>
+      <image:title>Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say</image:title>
     </image:image>
   </url>
   <url>
@@ -165,6 +300,66 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/377800/377891.jpg</image:loc>
       <image:title>Molineux, Dunkley enter WPL 2027 auction with top base price of INR 50 lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jb-pritzker-thinks-ai-could-help-us-live-to-100-or-threaten-us-li/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:30:00+00:00</news:publication_date>
+      <news:title>JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chinmay-sutar-scores-400-for-mizoram-in-ranji-trophy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:27:41+00:00</news:publication_date>
+      <news:title>Chinmay Sutar scores 400* for Mizoram in Ranji Trophy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/375700/375780.jpg</image:loc>
+      <image:title>Chinmay Sutar scores 400* for Mizoram in Ranji Trophy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/major-european-mobile-carriers-are-teaming-up-for-a-8216direct821/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:24:42+00:00</news:publication_date>
+      <news:title>Major European mobile carriers are teaming up for a &amp;#8216;direct&amp;#8217; satellite program without Starlink</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Major European mobile carriers are teaming up for a &amp;#8216;direct&amp;#8217; satellite program without Starlink</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/us-airman-dies-as-daredevil-descent-goes-wrong-before-texas-colle/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:13:18+00:00</news:publication_date>
+      <news:title>US airman dies as daredevil descent goes wrong before Texas college football game</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7d94/live/b7ee0580-cbd8-11f1-b139-f77a8b036d06.jpg</image:loc>
+      <image:title>US airman dies as daredevil descent goes wrong before Texas college football game</image:title>
     </image:image>
   </url>
   <url>
@@ -375,6 +570,21 @@
     <image:image>
       <image:loc>https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840</image:loc>
       <image:title>AI researchers stranded Claude on a virtual desert island. It started to “play.”</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mission-set-to-blast-off-for-mars-to-grab-a-piece-of-its-moon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T08:03:49+00:00</news:publication_date>
+      <news:title>Mission set to blast off for Mars to grab a piece of its moon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/43e5/live/791ac150-c8ad-11f1-9c75-6ff1271de385.jpg</image:loc>
+      <image:title>Mission set to blast off for Mars to grab a piece of its moon</image:title>
     </image:image>
   </url>
   <url>
@@ -1725,156 +1935,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>TikTok bans Musk documentary account</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/dancing-with-the-stars-pulls-val-chmerkovskiy-after-inappropriate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T19:30:00+00:00</news:publication_date>
-      <news:title>‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/183834_CW104412-e1792265097336.jpg</image:loc>
-      <image:title>‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/at-least-17-dead-in-crush-at-hindu-festival-event-in-india/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T19:19:16+00:00</news:publication_date>
-      <news:title>At least 17 dead in crush at Hindu festival event in India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg</image:loc>
-      <image:title>At least 17 dead in crush at Hindu festival event in India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/harry-styles-together-together-tour-doc-coming-from-john-wilson-u/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T19:00:20+00:00</news:publication_date>
-      <news:title>Harry Styles ‘Together, Together’ Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/harry-styles-john-wilson.jpg</image:loc>
-      <image:title>Harry Styles ‘Together, Together’ Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/replit-makes-openai-its-default-over-anthropic-ceo-says/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T18:48:08+00:00</news:publication_date>
-      <news:title>Replit makes OpenAI its default over Anthropic, CEO says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1600,1067</image:loc>
-      <image:title>Replit makes OpenAI its default over Anthropic, CEO says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/european-diplomats-attacked-by-israeli-settlers-in-west-bank/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T18:38:57+00:00</news:publication_date>
-      <news:title>European diplomats attacked by Israeli settlers in West Bank</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg</image:loc>
-      <image:title>European diplomats attacked by Israeli settlers in West Bank</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/shreyas-iyer-on-shai-hope-he-was-cruising-through-in-the-series/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T18:27:22+00:00</news:publication_date>
-      <news:title>Shreyas Iyer on Shai Hope: &#x27;He was cruising through in the series</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423887.jpg</image:loc>
-      <image:title>Shreyas Iyer on Shai Hope: &#x27;He was cruising through in the series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/swinneys-emotional-explanation-for-his-commitment-to-independence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T18:11:42+00:00</news:publication_date>
-      <news:title>Swinney&#x27;s emotional explanation for his commitment to independence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/0cd8/live/4bdea770-ca55-11f1-9a39-31b474234113.jpg</image:loc>
-      <image:title>Swinney&#x27;s emotional explanation for his commitment to independence</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kishan-and-dhir-impress-but-rain-forces-series-to-end-2-2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T17:25:27+00:00</news:publication_date>
-      <news:title>Kishan and Dhir impress but rain forces series to end 2-2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423800/423886.jpg</image:loc>
-      <image:title>Kishan and Dhir impress but rain forces series to end 2-2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T17:00:00+00:00</news:publication_date>
-      <news:title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/semiconductor-market-to-remain-solid-at-least-through-next-year-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T16:45:15+00:00</news:publication_date>
-      <news:title>Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://image.cnbcfm.com/api/v1/image/108425005-17922519932026-09-15t041703z_540430742_rc2djnamnvdo_rtrmadp_0_southkorea-politics-finance.jpeg?v=1792252039&amp;w=1920&amp;h=1080</image:loc>
-      <image:title>Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says</image:title>
     </image:image>
   </url>
 </urlset>

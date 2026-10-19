@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-19T16:35:16Z</lastmod>
+    <lastmod>2026-10-19T19:31:10Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-19T16:35:16Z</lastmod>
+    <lastmod>2026-10-19T19:31:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-19T16:35:16Z</lastmod>
+    <lastmod>2026-10-19T19:31:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-19T16:35:16Z</lastmod>
+    <lastmod>2026-10-19T19:31:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-19T16:35:16Z</lastmod>
+    <lastmod>2026-10-19T19:31:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-19T16:35:16Z</lastmod>
+    <lastmod>2026-10-19T19:31:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-a/</loc>
+    <lastmod>2026-10-19T19:28:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=1600</image:loc>
+      <image:title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-a/</loc>
+    <lastmod>2026-10-19T19:28:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=1600</image:loc>
+      <image:title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/richard-riehle-character-actor-in-office-space-star-trek-bridesma/</loc>
+    <lastmod>2026-10-19T19:17:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2187632495.jpg</image:loc>
+      <image:title>Richard Riehle, Character Actor in ‘Office Space,’ ‘Star Trek,’ ‘Bridesmaids’ and More, Dies at 78</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/richard-riehle-character-actor-in-office-space-star-trek-bridesma/</loc>
+    <lastmod>2026-10-19T19:17:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/GettyImages-2187632495.jpg</image:loc>
+      <image:title>Richard Riehle, Character Actor in ‘Office Space,’ ‘Star Trek,’ ‘Bridesmaids’ and More, Dies at 78</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/openai-bugging-case-saudi-consulate-offers-to-pay-bail-for-suspec/</loc>
+    <lastmod>2026-10-19T19:16:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>OpenAI bugging case: Saudi consulate offers to pay bail for suspect</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/openai-bugging-case-saudi-consulate-offers-to-pay-bail-for-suspec/</loc>
+    <lastmod>2026-10-19T19:16:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>OpenAI bugging case: Saudi consulate offers to pay bail for suspect</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-li/</loc>
+    <lastmod>2026-10-19T19:00:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1600,1067</image:loc>
+      <image:title>Tolan snags $30M for its AI companion that helps users navigate life</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-li/</loc>
+    <lastmod>2026-10-19T19:00:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1600,1067</image:loc>
+      <image:title>Tolan snags $30M for its AI companion that helps users navigate life</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nasdaq-gains-as-investors-buy-the-dip-in-the-ai-trade-live-update/</loc>
+    <lastmod>2026-10-19T18:55:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108432676-1792420318266-108432676-1792420158667-gettyimages-2300478316-AFP_D3QL3WF.jpg?v=1792420336&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Nasdaq gains as investors buy the dip in the AI trade: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nasdaq-gains-as-investors-buy-the-dip-in-the-ai-trade-live-update/</loc>
+    <lastmod>2026-10-19T18:55:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108432676-1792420318266-108432676-1792420158667-gettyimages-2300478316-AFP_D3QL3WF.jpg?v=1792420336&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Nasdaq gains as investors buy the dip in the AI trade: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gwyneth-paltrow-sets-first-lead-tv-role-in-a24-drama-the-apology-/</loc>
+    <lastmod>2026-10-19T18:46:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/10/P102FN2H.jpg</image:loc>
+      <image:title>Gwyneth Paltrow Sets First Lead TV Role in A24 Drama ‘The Apology’ at Netflix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gwyneth-paltrow-sets-first-lead-tv-role-in-a24-drama-the-apology-/</loc>
+    <lastmod>2026-10-19T18:46:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2025/10/P102FN2H.jpg</image:loc>
+      <image:title>Gwyneth Paltrow Sets First Lead TV Role in A24 Drama ‘The Apology’ at Netflix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ukrainians-dying-because-us-restricting-intelligence-sharing-zele/</loc>
+    <lastmod>2026-10-19T18:23:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/68c7/live/28c5fe60-cbcb-11f1-aba9-2bb2608f11d9.jpg</image:loc>
+      <image:title>Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ukrainians-dying-because-us-restricting-intelligence-sharing-zele/</loc>
+    <lastmod>2026-10-19T18:23:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/68c7/live/28c5fe60-cbcb-11f1-aba9-2bb2608f11d9.jpg</image:loc>
+      <image:title>Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bavuma-fights-but-bolands-four-puts-australia-in-complete-control/</loc>
+    <lastmod>2026-10-19T16:45:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423973.jpg</image:loc>
+      <image:title>Bavuma fights but Boland&#x27;s four puts Australia in complete control</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bavuma-fights-but-bolands-four-puts-australia-in-complete-control/</loc>
+    <lastmod>2026-10-19T16:45:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423973.jpg</image:loc>
+      <image:title>Bavuma fights but Boland&#x27;s four puts Australia in complete control</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-year/</loc>
@@ -95,6 +255,26 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png</image:loc>
       <image:title>Ex-OpenAI worker accused of planting device had Saudi support says court filing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/houthi-missile-strike-on-yemen-camp-kills-50-security-recruits-lo/</loc>
+    <lastmod>2026-10-19T16:20:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg</image:loc>
+      <image:title>Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/houthi-missile-strike-on-yemen-camp-kills-50-security-recruits-lo/</loc>
+    <lastmod>2026-10-19T16:20:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg</image:loc>
+      <image:title>Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say</image:title>
     </image:image>
   </url>
   <url>
@@ -255,6 +435,86 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/377800/377891.jpg</image:loc>
       <image:title>Molineux, Dunkley enter WPL 2027 auction with top base price of INR 50 lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jb-pritzker-thinks-ai-could-help-us-live-to-100-or-threaten-us-li/</loc>
+    <lastmod>2026-10-19T14:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jb-pritzker-thinks-ai-could-help-us-live-to-100-or-threaten-us-li/</loc>
+    <lastmod>2026-10-19T14:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chinmay-sutar-scores-400-for-mizoram-in-ranji-trophy/</loc>
+    <lastmod>2026-10-19T14:27:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/375700/375780.jpg</image:loc>
+      <image:title>Chinmay Sutar scores 400* for Mizoram in Ranji Trophy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/chinmay-sutar-scores-400-for-mizoram-in-ranji-trophy/</loc>
+    <lastmod>2026-10-19T14:27:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/375700/375780.jpg</image:loc>
+      <image:title>Chinmay Sutar scores 400* for Mizoram in Ranji Trophy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/major-european-mobile-carriers-are-teaming-up-for-a-8216direct821/</loc>
+    <lastmod>2026-10-19T14:24:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Major European mobile carriers are teaming up for a &amp;#8216;direct&amp;#8217; satellite program without Starlink</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/major-european-mobile-carriers-are-teaming-up-for-a-8216direct821/</loc>
+    <lastmod>2026-10-19T14:24:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Major European mobile carriers are teaming up for a &amp;#8216;direct&amp;#8217; satellite program without Starlink</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/us-airman-dies-as-daredevil-descent-goes-wrong-before-texas-colle/</loc>
+    <lastmod>2026-10-19T14:13:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7d94/live/b7ee0580-cbd8-11f1-b139-f77a8b036d06.jpg</image:loc>
+      <image:title>US airman dies as daredevil descent goes wrong before Texas college football game</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/us-airman-dies-as-daredevil-descent-goes-wrong-before-texas-colle/</loc>
+    <lastmod>2026-10-19T14:13:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7d94/live/b7ee0580-cbd8-11f1-b139-f77a8b036d06.jpg</image:loc>
+      <image:title>US airman dies as daredevil descent goes wrong before Texas college football game</image:title>
     </image:image>
   </url>
   <url>
@@ -535,6 +795,26 @@
     <image:image>
       <image:loc>https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840</image:loc>
       <image:title>AI researchers stranded Claude on a virtual desert island. It started to “play.”</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mission-set-to-blast-off-for-mars-to-grab-a-piece-of-its-moon/</loc>
+    <lastmod>2026-10-19T08:03:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/43e5/live/791ac150-c8ad-11f1-9c75-6ff1271de385.jpg</image:loc>
+      <image:title>Mission set to blast off for Mars to grab a piece of its moon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mission-set-to-blast-off-for-mars-to-grab-a-piece-of-its-moon/</loc>
+    <lastmod>2026-10-19T08:03:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/43e5/live/791ac150-c8ad-11f1-9c75-6ff1271de385.jpg</image:loc>
+      <image:title>Mission set to blast off for Mars to grab a piece of its moon</image:title>
     </image:image>
   </url>
   <url>
