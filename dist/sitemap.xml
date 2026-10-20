@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-19T22:29:17Z</lastmod>
+    <lastmod>2026-10-20T01:17:04Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-19T22:29:17Z</lastmod>
+    <lastmod>2026-10-20T01:17:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-19T22:29:17Z</lastmod>
+    <lastmod>2026-10-20T01:17:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-19T22:29:17Z</lastmod>
+    <lastmod>2026-10-20T01:17:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-19T22:29:17Z</lastmod>
+    <lastmod>2026-10-20T01:17:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-19T22:29:17Z</lastmod>
+    <lastmod>2026-10-20T01:17:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/stock-futures-rise-slightly-after-tech-shares-rebound-to-start-th/</loc>
+    <lastmod>2026-10-20T01:00:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108363714-1791231710449-108363714-1789572211685-108363714-17895721022026-09-16t151959z_4801821_rc2dknacke3t_rtrmadp_0_usa-stocks.jpeg?v=1791231728&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Stock futures rise slightly after tech shares rebound to start the week: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/stock-futures-rise-slightly-after-tech-shares-rebound-to-start-th/</loc>
+    <lastmod>2026-10-20T01:00:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108363714-1791231710449-108363714-1789572211685-108363714-17895721022026-09-16t151959z_4801821_rc2dknacke3t_rtrmadp_0_usa-stocks.jpeg?v=1791231728&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Stock futures rise slightly after tech shares rebound to start the week: Live updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-netflix-fired-dan-lin-and-the-truth-about-his-tension-with-gr/</loc>
+    <lastmod>2026-10-20T00:31:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/32nd-annual-actor-awards-arrivals-netflix-s-unabomber-specia-1000x667-1.jpg</image:loc>
+      <image:title>Why Netflix Fired Dan Lin (and the Truth About His Tension With Greta Gerwig Over ‘Narnia’)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-netflix-fired-dan-lin-and-the-truth-about-his-tension-with-gr/</loc>
+    <lastmod>2026-10-20T00:31:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/32nd-annual-actor-awards-arrivals-netflix-s-unabomber-specia-1000x667-1.jpg</image:loc>
+      <image:title>Why Netflix Fired Dan Lin (and the Truth About His Tension With Greta Gerwig Over ‘Narnia’)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tim-odonnell-veteran-tv-comedy-writer-director-known-for-growing-/</loc>
+    <lastmod>2026-10-19T23:56:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/image0.jpeg</image:loc>
+      <image:title>Tim O’Donnell, Veteran TV Comedy Writer-Director Known for ‘Growing Pains’ and ‘Dave’s World,’ Dies at 77</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tim-odonnell-veteran-tv-comedy-writer-director-known-for-growing-/</loc>
+    <lastmod>2026-10-19T23:56:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/image0.jpeg</image:loc>
+      <image:title>Tim O’Donnell, Veteran TV Comedy Writer-Director Known for ‘Growing Pains’ and ‘Dave’s World,’ Dies at 77</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/criminals-detained-in-hospital-set-to-lose-benefits/</loc>
+    <lastmod>2026-10-19T23:21:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/afb8/live/3a87a300-cbdb-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Criminals detained in hospital set to lose benefits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/criminals-detained-in-hospital-set-to-lose-benefits/</loc>
+    <lastmod>2026-10-19T23:21:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/afb8/live/3a87a300-cbdb-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Criminals detained in hospital set to lose benefits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/five-ways-el-niño-is-affecting-the-weather-around-the-world/</loc>
+    <lastmod>2026-10-19T23:08:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg</image:loc>
+      <image:title>Five ways El Niño is affecting the weather around the world</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/five-ways-el-niño-is-affecting-the-weather-around-the-world/</loc>
+    <lastmod>2026-10-19T23:08:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg</image:loc>
+      <image:title>Five ways El Niño is affecting the weather around the world</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-pol/</loc>
+    <lastmod>2026-10-19T22:49:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1600,1067</image:loc>
+      <image:title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-pol/</loc>
+    <lastmod>2026-10-19T22:49:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1600,1067</image:loc>
+      <image:title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/rita-wilson-says-shes-returning-for-lena-dunhams-girls-revival-i-/</loc>
@@ -138,6 +258,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/burnham-vows-end-to-rip-off-parking-charges-under-new-rules/</loc>
+    <lastmod>2026-10-19T21:30:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Burnham vows end to &#x27;rip-off parking charges&#x27; under new rules</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/burnham-vows-end-to-rip-off-parking-charges-under-new-rules/</loc>
+    <lastmod>2026-10-19T21:30:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg</image:loc>
+      <image:title>Burnham vows end to &#x27;rip-off parking charges&#x27; under new rules</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/coreweave8217s-debt-is-becoming-the-whole-ai-industry8217s-proble/</loc>
     <lastmod>2026-10-19T21:28:20+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -195,6 +335,26 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg</image:loc>
       <image:title>Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/i-tried-a-99-plug-that-promises-to-track-your-car-and-send-help-w/</loc>
+    <lastmod>2026-10-19T21:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6271.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>I tried a $99 plug that promises to track your car and send help when needed — without selling your data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/i-tried-a-99-plug-that-promises-to-track-your-car-and-send-help-w/</loc>
+    <lastmod>2026-10-19T21:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6271.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>I tried a $99 plug that promises to track your car and send help when needed — without selling your data</image:title>
     </image:image>
   </url>
   <url>
@@ -378,6 +538,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12/</loc>
+    <lastmod>2026-10-19T18:49:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/wabi-ios-home.png?resize=1600,1067</image:loc>
+      <image:title>Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12/</loc>
+    <lastmod>2026-10-19T18:49:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/wabi-ios-home.png?resize=1600,1067</image:loc>
+      <image:title>Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/gwyneth-paltrow-sets-first-lead-tv-role-in-a24-drama-the-apology-/</loc>
     <lastmod>2026-10-19T18:46:48+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -398,6 +578,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/tenstorrent-hits-62b-valuation-to-scale-open-weight-ai-chips/</loc>
+    <lastmod>2026-10-19T18:37:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=1600</image:loc>
+      <image:title>Tenstorrent hits $6.2B valuation to scale open-weight AI chips</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tenstorrent-hits-62b-valuation-to-scale-open-weight-ai-chips/</loc>
+    <lastmod>2026-10-19T18:37:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=1600</image:loc>
+      <image:title>Tenstorrent hits $6.2B valuation to scale open-weight AI chips</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ukrainians-dying-because-us-restricting-intelligence-sharing-zele/</loc>
     <lastmod>2026-10-19T18:23:50+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -415,6 +615,26 @@
     <image:image>
       <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/68c7/live/28c5fe60-cbcb-11f1-aba9-2bb2608f11d9.jpg</image:loc>
       <image:title>Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/deadly-fire-at-canada-military-base-moved-a-kilometre-in-30-to-60/</loc>
+    <lastmod>2026-10-19T18:22:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Deadly fire at Canada military base moved a kilometre &#x27;in 30 to 60 seconds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/deadly-fire-at-canada-military-base-moved-a-kilometre-in-30-to-60/</loc>
+    <lastmod>2026-10-19T18:22:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg</image:loc>
+      <image:title>Deadly fire at Canada military base moved a kilometre &#x27;in 30 to 60 seconds</image:title>
     </image:image>
   </url>
   <url>
@@ -698,6 +918,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/supreme-court-wont-review-trumps-firing-of-labor-board-member/</loc>
+    <lastmod>2026-10-19T14:59:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108320565-1781206004551-gettyimages-2281115510-kd2_4904_4t3zjrge.jpeg?v=1781206042&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Supreme Court won&#x27;t review Trump&#x27;s firing of labor board member</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/supreme-court-wont-review-trumps-firing-of-labor-board-member/</loc>
+    <lastmod>2026-10-19T14:59:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.cnbcfm.com/api/v1/image/108320565-1781206004551-gettyimages-2281115510-kd2_4904_4t3zjrge.jpeg?v=1781206042&amp;w=1920&amp;h=1080</image:loc>
+      <image:title>Supreme Court won&#x27;t review Trump&#x27;s firing of labor board member</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/jb-pritzker-thinks-ai-could-help-us-live-to-100-or-threaten-us-li/</loc>
     <lastmod>2026-10-19T14:30:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -858,6 +1098,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/why-george-hill-faces-an-uphill-battle-for-higher-honours/</loc>
+    <lastmod>2026-10-19T13:38:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423953.jpg</image:loc>
+      <image:title>Why George Hill faces an uphill battle for higher honours</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-george-hill-faces-an-uphill-battle-for-higher-honours/</loc>
+    <lastmod>2026-10-19T13:38:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423953.jpg</image:loc>
+      <image:title>Why George Hill faces an uphill battle for higher honours</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/miley-cyrus-fires-back-at-criticism-of-hollywood-bowl-concert-and/</loc>
     <lastmod>2026-10-19T12:09:11+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -955,6 +1215,26 @@
     <image:image>
       <image:loc>http://p.imgci.com/db/PICTURES/CMS/422500/422582.jpg</image:loc>
       <image:title>Afghanistan bat; Zimbabwe bring in Burl and Masuku</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/pattersons-century-cements-new-south-wales-dominant-day/</loc>
+    <lastmod>2026-10-19T11:01:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423955.jpg</image:loc>
+      <image:title>Patterson&#x27;s century cements New South Wales&#x27; dominant day</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/pattersons-century-cements-new-south-wales-dominant-day/</loc>
+    <lastmod>2026-10-19T11:01:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://p.imgci.com/db/PICTURES/CMS/423900/423955.jpg</image:loc>
+      <image:title>Patterson&#x27;s century cements New South Wales&#x27; dominant day</image:title>
     </image:image>
   </url>
   <url>
