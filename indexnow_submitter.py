@@ -53,6 +53,7 @@ def get_all_story_urls(limit: int = 100) -> List[str]:
                 for item in data[:limit]:
                     slug = item.get("slug")
                     if slug:
+                        urls.append(f"{config.SITE_URL}/news/{slug}/")
                         urls.append(f"{config.SITE_URL}/stories/{slug}/")
         except Exception as e:
             print(f"[!] Warning reading articles for IndexNow: {e}")
