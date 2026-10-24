@@ -200,7 +200,7 @@ def process_with_gemini(article: dict, api_key: str) -> dict:
 
         client = genai.Client(api_key=api_key)
 
-        prompt = f"""You are an elite news editor for NewsPulse (like Axios, Inshorts, and Bloomberg).
+        prompt = f"""You are an elite technology & AI editor for News Seconds (like TechCrunch, The Verge, and Ars Technica).
 Analyze the following news item:
 Category: {article.get('category_name')}
 Source: {article.get('source')}

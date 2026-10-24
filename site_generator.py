@@ -108,13 +108,13 @@ def get_base_footer() -> str:
         <div class="footer-col">
           <h4>Coverage</h4>
           <ul class="footer-links">
-            <li><a href="/#trending">🔥 Trending Now</a></li>
-            <li><a href="/#tech">Tech & Startups</a></li>
-            <li><a href="/#ai-future">AI & Robotics</a></li>
-            <li><a href="/#business">Global Markets</a></li>
-            <li><a href="/#world">World Affairs</a></li>
-            <li><a href="/#sports">Sports Wire</a></li>
-            <li><a href="/#entertainment">Entertainment</a></li>
+            <li><a href="/#ai-future">🧠 AI & Intelligence</a></li>
+            <li><a href="/#tech">⚡ Gadgets & Hardware</a></li>
+            <li><a href="/#trending">🔥 Trending Tech</a></li>
+            <li><a href="/#business">🚀 Startups & Big Tech</a></li>
+            <li><a href="/#world">🛰️ EV & Space Tech</a></li>
+            <li><a href="/#sports">🎮 Gaming & Esports Tech</a></li>
+            <li><a href="/#entertainment">🎬 Streaming & Creator Tech</a></li>
           </ul>
         </div>
 
@@ -510,58 +510,58 @@ def render_homepage_html(articles: list) -> str:
 AUTHORS = {
     "tech": {
         "name": "Aman Verma",
-        "role": "Senior Technology & AI Editor",
+        "role": "Senior Hardware & Gadgets Editor",
         "initials": "AV",
         "color": "#06b6d4",
-        "bio": "Aman covers frontier artificial intelligence, silicon architecture, enterprise software, and mobile tech with over 8 years of dedicated reporting experience.",
+        "bio": "Aman covers smartphone silicon, Nvidia GPU architectures, Apple ecosystem leaks, and cutting-edge consumer hardware with 8+ years of technical reporting experience.",
         "email": "aman.verma@newsseconds.com"
     },
     "ai-future": {
         "name": "Dr. Aris Vance",
-        "role": "Chief AI & Emerging Science Fellow",
+        "role": "Chief AI & Neural Systems Fellow",
         "initials": "AV",
         "color": "#8b5cf6",
-        "bio": "Dr. Vance specializes in large language model breakthroughs, computational science, autonomous robotics, and global frontier safety standards.",
+        "bio": "Dr. Vance specializes in large language model scaling, autonomous AI agent architectures, neural networks, and frontier safety benchmarks.",
         "email": "aris.vance@newsseconds.com"
     },
     "business": {
         "name": "Elena Rostova",
-        "role": "Global Markets & Macroeconomics Analyst",
+        "role": "Big Tech & Silicon Valley VC Analyst",
         "initials": "ER",
         "color": "#10b981",
-        "bio": "Elena reports on central bank rate policies, Treasury yields, Wall Street earnings, cross-border trade, and institutional digital asset flows.",
+        "bio": "Elena covers enterprise AI investments, semiconductor supply-chains, Big Tech antitrust regulations, and venture capital funding rounds.",
         "email": "elena.rostova@newsseconds.com"
     },
     "world": {
         "name": "Marcus Vance",
-        "role": "International Affairs & Geopolitics Correspondent",
+        "role": "EV, Autonomous & Space Tech Lead",
         "initials": "MV",
-        "color": "#f59e0b",
-        "bio": "Marcus tracks multilateral defense coalitions, international diplomacy, supply-chain logistics, and geopolitical developments across 40+ countries.",
+        "color": "#3b82f6",
+        "bio": "Marcus reports on electric vehicles, autonomous driving systems, orbital aerospace, robotics, and global technological infrastructure.",
         "email": "marcus.vance@newsseconds.com"
     },
     "sports": {
         "name": "David Miller",
-        "role": "Senior Sports Wire Analyst",
+        "role": "Gaming Tech & Esports Hardware Specialist",
         "initials": "DM",
         "color": "#ef4444",
-        "bio": "David covers international cricket championships, Premier League tactical analytics, Grand Slam circuits, and athlete performance metrics.",
+        "bio": "David covers next-gen console silicon, PC gaming benchmarks, Unreal Engine graphics advancements, Steam ecosystems, and handheld gaming rigs.",
         "email": "david.miller@newsseconds.com"
     },
     "entertainment": {
         "name": "Chloe Adams",
-        "role": "Culture, Cinema & Streaming Editor",
+        "role": "Streaming Tech & Creator Economy Editor",
         "initials": "CA",
         "color": "#ec4899",
-        "bio": "Chloe analyzes global box office returns, studio production slate deals, streaming economics, and digital creator trends.",
+        "bio": "Chloe investigates generative VFX in cinema, streaming compression algorithms, YouTube ecosystem economics, and digital entertainment tech.",
         "email": "chloe.adams@newsseconds.com"
     },
     "trending": {
         "name": "Rhea Kapoor",
-        "role": "Chief News Desk & Verification Lead",
+        "role": "Trending Tech & Product Launches Lead",
         "initials": "RK",
         "color": "#f43f5e",
-        "bio": "Rhea leads fast-turnaround verification, multi-source wire syndication, breaking global alerts, and factual compliance across our digital network.",
+        "bio": "Rhea tracks viral consumer tech, fast-turnaround product reveals, open-source AI projects, and breaking digital culture alerts.",
         "email": "rhea.kapoor@newsseconds.com"
     }
 }

@@ -18,10 +18,10 @@ TEMPLATES_DIR = BASE_DIR / "templates"
 
 # Site Identity & Branding
 SITE_NAME = os.getenv("SITE_NAME", "News Seconds")
-SITE_TAGLINE = os.getenv("SITE_TAGLINE", "Bite-Sized Breaking News & Visual Stories in Seconds")
+SITE_TAGLINE = os.getenv("SITE_TAGLINE", "Bite-Sized AI, Gadgets & Future Tech News in Seconds")
 SITE_DESCRIPTION = os.getenv(
     "SITE_DESCRIPTION",
-    "Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI."
+    "Your 60-second portal for breaking AI breakthroughs, consumer gadgets, Nvidia chips, Apple leaks, and future tech."
 )
 SITE_URL = os.getenv("SITE_URL", "https://newsseconds.com").rstrip("/")
 SITE_LOCALE = "en_US"
@@ -59,7 +59,7 @@ ENABLE_TWITTER_POSTING = os.getenv("ENABLE_TWITTER_POSTING", "true").lower() in 
 ENABLE_REDDIT_POSTING = os.getenv("ENABLE_REDDIT_POSTING", "true").lower() in ("true", "1", "yes")
 ENABLE_LINKEDIN_POSTING = os.getenv("ENABLE_LINKEDIN_POSTING", "true").lower() in ("true", "1", "yes")
 ENABLE_TUMBLR_POSTING = os.getenv("ENABLE_TUMBLR_POSTING", "true").lower() in ("true", "1", "yes")
-TUMBLR_BLOG_NAME = os.getenv("TUMBLR_BLOG_NAME", "")
+TUMBLR_BLOG_NAME = os.getenv("TUMBLR_BLOG_NAME", "newsseconds.tumblr.com")
 
 # Google News Sitemap Age (Google News Guidelines strictly require <= 48 hours for news-sitemap.xml)
 GOOGLE_NEWS_MAX_AGE_HOURS = 48
@@ -70,7 +70,7 @@ CLARITY_PROJECT_ID = os.getenv("CLARITY_PROJECT_ID", "yw5kuxh5pg")
 GA_MEASUREMENT_ID = os.getenv("GA_MEASUREMENT_ID", "G-VX6D7B7WD6")
 GA_PROPERTY_ID = os.getenv("GA_PROPERTY_ID", "558495815")
 GA_CREDENTIALS_FILE = os.getenv("GA_CREDENTIALS_FILE", "ga_credentials.json")
-INDEXNOW_KEY = os.getenv("INDEXNOW_KEY", "b4f910a2d3e54c7b89f0123456789abc")
+INDEXNOW_KEY = os.getenv("INDEXNOW_KEY", "79624caa6fca40dfbc227ab2ed0f7f42")
 
 # Google AdSense Publisher Settings
 # Set ADSENSE_PUB_ID (e.g. 'pub-1234567890123456' or 'ca-pub-1234567890123456') in .env
@@ -79,111 +79,110 @@ ADSENSE_PUB_ID = os.getenv("ADSENSE_PUB_ID", "")
 
 # Categories and High-Reliability RSS Feeds
 CATEGORIES = {
-    "trending": {
-        "name": "Trending",
-        "slug": "trending",
-        "color": "#f43f5e",
-        "gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
-        "icon": "🔥",
-        "description": "Real-time viral stories, breaking news alerts, and global headlines.",
-        "feeds": [
-            "http://feeds.bbci.co.uk/news/rss.xml",
-            "https://feeds.npr.org/1001/rss.xml",
-            "https://www.theguardian.com/world/rss",
-            "https://feeds.skynews.com/feeds/rss/home.xml"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&h=900&fit=crop"
-    },
-    "tech": {
-        "name": "Tech",
-        "slug": "tech",
-        "color": "#06b6d4",
-        "gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-        "icon": "⚡",
-        "description": "Silicon, gadgets, mobile leaks, breakthrough tech, and digital culture.",
-        "feeds": [
-            "https://www.theverge.com/rss/index.xml",
-            "https://techcrunch.com/feed/",
-            "https://www.wired.com/feed/rss",
-            "https://feeds.arstechnica.com/arstechnica/index",
-            "https://www.engadget.com/rss.xml"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&h=900&fit=crop"
-    },
     "ai-future": {
-        "name": "AI & Future",
+        "name": "AI & Intelligence",
         "slug": "ai-future",
         "color": "#8b5cf6",
         "gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
         "icon": "🧠",
-        "description": "Artificial intelligence, frontier models, robotics, and deep science.",
+        "description": "Frontier AI models, ChatGPT, Claude, Gemini, autonomous agents, and neural breakthroughs.",
         "feeds": [
             "https://techcrunch.com/category/artificial-intelligence/feed/",
-            "https://www.technologyreview.com/feed/",
             "https://venturebeat.com/category/ai/feed/",
+            "https://www.technologyreview.com/feed/",
             "https://feeds.arstechnica.com/arstechnica/technology-lab/"
         ],
         "default_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=900&fit=crop"
     },
+    "tech": {
+        "name": "Gadgets & Hardware",
+        "slug": "tech",
+        "color": "#06b6d4",
+        "gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+        "icon": "⚡",
+        "description": "Flagship smartphones, Apple ecosystem leaks, Nvidia GPUs, chips, and consumer gear.",
+        "feeds": [
+            "https://www.theverge.com/rss/index.xml",
+            "https://www.engadget.com/rss.xml",
+            "https://9to5mac.com/feed/",
+            "https://www.wired.com/feed/category/gear/latest/rss"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&h=900&fit=crop"
+    },
+    "trending": {
+        "name": "Trending Tech",
+        "slug": "trending",
+        "color": "#f43f5e",
+        "gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+        "icon": "🔥",
+        "description": "Viral tech breakthroughs, breaking product launches, and digital culture alerts.",
+        "feeds": [
+            "https://techcrunch.com/feed/",
+            "https://feeds.arstechnica.com/arstechnica/index",
+            "https://gizmodo.com/rss",
+            "https://mashable.com/feeds/rss/all"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1600&h=900&fit=crop"
+    },
     "business": {
-        "name": "Business",
+        "name": "Startups & Big Tech",
         "slug": "business",
         "color": "#10b981",
         "gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-        "icon": "📈",
-        "description": "Global markets, Wall Street, crypto, economy, and corporate shakeups.",
+        "icon": "🚀",
+        "description": "Silicon Valley startups, venture capital funding, Big Tech antitrust, and IPO radar.",
         "feeds": [
-            "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
-            "https://finance.yahoo.com/news/rssindex",
-            "https://www.coindesk.com/arc/outboundfeeds/rss/",
-            "http://feeds.bbci.co.uk/news/business/rss.xml"
+            "https://techcrunch.com/category/startups/feed/",
+            "https://techcrunch.com/category/venture/feed/",
+            "https://www.wired.com/feed/category/business/latest/rss",
+            "https://venturebeat.com/feed/"
         ],
-        "default_image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&h=900&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1600&h=900&fit=crop"
     },
     "world": {
-        "name": "World",
+        "name": "EV & Space Tech",
         "slug": "world",
-        "color": "#f59e0b",
-        "gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-        "icon": "🌐",
-        "description": "Geopolitics, international diplomacy, global events, and major headlines.",
+        "color": "#3b82f6",
+        "gradient": "linear-gradient(135deg, #3b82f6, #06b6d4)",
+        "icon": "🛰️",
+        "description": "Electric vehicles, autonomous transport, robotics, aerospace, and satellite networks.",
         "feeds": [
-            "http://feeds.bbci.co.uk/news/world/rss.xml",
-            "https://www.aljazeera.com/xml/rss/all.xml",
-            "https://feeds.npr.org/1004/rss.xml",
-            "https://www.france24.com/en/rss"
+            "https://electrek.co/feed/",
+            "https://spacenews.com/feed/",
+            "https://techcrunch.com/category/transportation/feed/",
+            "https://arstechnica.com/cars/feed/"
         ],
-        "default_image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&h=900&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1517976487502-d74868a18357?w=1600&h=900&fit=crop"
     },
     "sports": {
-        "name": "Sports",
+        "name": "Gaming & Esports Tech",
         "slug": "sports",
         "color": "#ef4444",
         "gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-        "icon": "🏆",
-        "description": "Cricket, football, championships, leagues, athletes, and match scores.",
+        "icon": "🎮",
+        "description": "Next-gen game consoles, PC gaming rigs, Unreal Engine, Steam hardware, and VR/AR.",
         "feeds": [
-            "https://www.espncricinfo.com/rss/content/story/feeds/0.xml",
-            "https://www.espn.com/espn/rss/news",
-            "http://feeds.bbci.co.uk/sport/rss.xml",
-            "https://www.skysports.com/rss/12040"
+            "https://www.ign.com/rss/articles/feed",
+            "https://www.polygon.com/rss/index.xml",
+            "https://kotaku.com/rss",
+            "https://www.eurogamer.net/feed"
         ],
-        "default_image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&h=900&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=1600&h=900&fit=crop"
     },
     "entertainment": {
-        "name": "Entertainment",
+        "name": "Streaming & Creator Tech",
         "slug": "entertainment",
         "color": "#ec4899",
         "gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
         "icon": "🎬",
-        "description": "Cinema, gaming, Marvel/DC, streaming, music, and pop culture.",
+        "description": "Streaming platforms, YouTube & creator economy, VFX technology, and digital culture.",
         "feeds": [
-            "https://variety.com/feed/",
-            "https://www.hollywoodreporter.com/feed/",
-            "https://feeds.feedburner.com/ign/all",
-            "https://deadline.com/feed/"
+            "https://variety.com/v/digital/feed/",
+            "https://deadline.com/v/tech/feed/",
+            "https://www.theverge.com/entertainment/rss/index.xml",
+            "https://techcrunch.com/category/media-entertainment/feed/"
         ],
-        "default_image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&h=900&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1600&h=900&fit=crop"
     }
 }
 

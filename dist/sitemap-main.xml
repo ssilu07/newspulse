@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-20T01:17:04Z</lastmod>
+    <lastmod>2026-10-24T08:52:19Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-20T01:17:04Z</lastmod>
+    <lastmod>2026-10-24T08:52:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-20T01:17:04Z</lastmod>
+    <lastmod>2026-10-24T08:52:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-20T01:17:04Z</lastmod>
+    <lastmod>2026-10-24T08:52:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-20T01:17:04Z</lastmod>
+    <lastmod>2026-10-24T08:52:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-20T01:17:04Z</lastmod>
+    <lastmod>2026-10-24T08:52:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/aaron-paul-makes-surprise-cameo-in-dcs-clayface/</loc>
+    <lastmod>2026-10-23T18:56:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/22/blogroll-2-6-1792673659287.png</image:loc>
+      <image:title>Aaron Paul Makes Surprise Cameo in DC’s Clayface</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/aaron-paul-makes-surprise-cameo-in-dcs-clayface/</loc>
+    <lastmod>2026-10-23T18:56:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/22/blogroll-2-6-1792673659287.png</image:loc>
+      <image:title>Aaron Paul Makes Surprise Cameo in DC’s Clayface</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/avengers-doomsday-casts-sandra-hüller-in-cameo-role/</loc>
+    <lastmod>2026-10-23T17:40:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/23/sandra-huller-1792796714206.png</image:loc>
+      <image:title>Avengers: Doomsday Casts Sandra Hüller in Cameo Role</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/avengers-doomsday-casts-sandra-hüller-in-cameo-role/</loc>
+    <lastmod>2026-10-23T17:40:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/23/sandra-huller-1792796714206.png</image:loc>
+      <image:title>Avengers: Doomsday Casts Sandra Hüller in Cameo Role</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/startups-dont-need-to-go-viral-to-win-customers/</loc>
+    <lastmod>2026-10-23T17:37:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1600,1067</image:loc>
+      <image:title>Startups don’t need to go viral to win customers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/startups-dont-need-to-go-viral-to-win-customers/</loc>
+    <lastmod>2026-10-23T17:37:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1600,1067</image:loc>
+      <image:title>Startups don’t need to go viral to win customers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-int/</loc>
+    <lastmod>2026-10-23T17:35:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1600,1067</image:loc>
+      <image:title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-int/</loc>
+    <lastmod>2026-10-23T17:35:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1600,1067</image:loc>
+      <image:title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gm-is-betting-on-battery-cells-that-dont-use-lithium-updated/</loc>
+    <lastmod>2026-10-23T17:29:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/11/peak-energy.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>GM is betting on battery cells that don’t use lithium [updated]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gm-is-betting-on-battery-cells-that-dont-use-lithium-updated/</loc>
+    <lastmod>2026-10-23T17:29:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/11/peak-energy.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>GM is betting on battery cells that don’t use lithium [updated]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduc/</loc>
+    <lastmod>2026-10-23T16:29:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1600,1067</image:loc>
+      <image:title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduc/</loc>
+    <lastmod>2026-10-23T16:29:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1600,1067</image:loc>
+      <image:title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/xboxs-first-chief-operating-officer-is-out-after-just-a-few-month/</loc>
+    <lastmod>2026-10-23T16:09:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Xbox’s first chief operating officer is out after just a few months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/xboxs-first-chief-operating-officer-is-out-after-just-a-few-month/</loc>
+    <lastmod>2026-10-23T16:09:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Xbox’s first chief operating officer is out after just a few months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/openai-now-trains-its-frontier-ai-models-with-no-internet-access/</loc>
+    <lastmod>2026-10-23T15:41:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI now trains its frontier AI models with no internet access</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/openai-now-trains-its-frontier-ai-models-with-no-internet-access/</loc>
+    <lastmod>2026-10-23T15:41:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI now trains its frontier AI models with no internet access</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/vcs-superhuman-mail-founder-share-red-flags-about-product-market-/</loc>
+    <lastmod>2026-10-23T15:27:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1600,1067</image:loc>
+      <image:title>VCs, Superhuman Mail founder share red flags about product-market fit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/vcs-superhuman-mail-founder-share-red-flags-about-product-market-/</loc>
+    <lastmod>2026-10-23T15:27:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1600,1067</image:loc>
+      <image:title>VCs, Superhuman Mail founder share red flags about product-market fit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-chall/</loc>
+    <lastmod>2026-10-23T14:33:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1600,1067</image:loc>
+      <image:title>TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-chall/</loc>
+    <lastmod>2026-10-23T14:33:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1600,1067</image:loc>
+      <image:title>TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-e/</loc>
+    <lastmod>2026-10-23T13:55:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1600,1067</image:loc>
+      <image:title>Carta and NewView partner, hoping to entice more startups to let employees sell shares early</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-e/</loc>
+    <lastmod>2026-10-23T13:55:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1600,1067</image:loc>
+      <image:title>Carta and NewView partner, hoping to entice more startups to let employees sell shares early</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byds-rolls-royce-like-flagship-ev-is-heading-overseas/</loc>
+    <lastmod>2026-10-23T12:11:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Rolls-Royce-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD’s Rolls-Royce-like flagship EV is heading overseas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byds-rolls-royce-like-flagship-ev-is-heading-overseas/</loc>
+    <lastmod>2026-10-23T12:11:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Rolls-Royce-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD’s Rolls-Royce-like flagship EV is heading overseas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ti-wests-new-short-remnants-is-the-first-fully-immersive-apple-ho/</loc>
+    <lastmod>2026-10-23T11:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Remnants_PR_1.png</image:loc>
+      <image:title>Ti West’s New Short ‘Remnants’ Is the First Fully Immersive Apple Horror Film. What Does It Say About the Future of Movies?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ti-wests-new-short-remnants-is-the-first-fully-immersive-apple-ho/</loc>
+    <lastmod>2026-10-23T11:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Remnants_PR_1.png</image:loc>
+      <image:title>Ti West’s New Short ‘Remnants’ Is the First Fully Immersive Apple Horror Film. What Does It Say About the Future of Movies?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ai-giant-nvidia-invests-in-entertainment-startup-higgsfield/</loc>
+    <lastmod>2026-10-23T09:48:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Zhaslan-Madiyev-Kazakhstans-Deputy-Prime-Minister-and-Minister-of-AI-and-Digital-Development.jpg</image:loc>
+      <image:title>AI Giant Nvidia Invests in Entertainment Startup Higgsfield</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ai-giant-nvidia-invests-in-entertainment-startup-higgsfield/</loc>
+    <lastmod>2026-10-23T09:48:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Zhaslan-Madiyev-Kazakhstans-Deputy-Prime-Minister-and-Minister-of-AI-and-Digital-Development.jpg</image:loc>
+      <image:title>AI Giant Nvidia Invests in Entertainment Startup Higgsfield</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/stock-futures-rise-slightly-after-tech-shares-rebound-to-start-th/</loc>

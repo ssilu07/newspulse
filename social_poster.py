@@ -48,15 +48,15 @@ def save_posted_history(history: dict):
 def get_category_hashtags(category: str) -> str:
     """Generates viral hashtags based on topic."""
     tags = {
-        "trending": "#BreakingNews #TrendingNow #ViralNews #NewsPulse",
-        "tech": "#TechNews #Technology #Gadgets #SiliconValley #Innovation",
-        "ai-future": "#ArtificialIntelligence #AI #MachineLearning #TechTrends #GenAI",
-        "business": "#BusinessNews #StockMarket #Crypto #Economy #Finance",
-        "world": "#WorldNews #GlobalNews #Geopolitics #Breaking",
-        "sports": "#SportsNews #Cricket #Football #Scores #MatchDay",
-        "entertainment": "#Entertainment #Cinema #Movies #Gaming #PopCulture"
+        "trending": "#TechNews #BreakingTech #ViralTech #NewsSeconds #TechTrends",
+        "tech": "#Gadgets #Hardware #Apple #Nvidia #Smartphones #TechNews",
+        "ai-future": "#ArtificialIntelligence #AI #MachineLearning #GenerativeAI #OpenAI #LLM",
+        "business": "#Startups #SiliconValley #VentureCapital #BigTech #TechInvesting",
+        "world": "#ElectricVehicles #EV #Tesla #SpaceTech #SpaceX #Robotics",
+        "sports": "#Gaming #PCGaming #PlayStation #Xbox #UnrealEngine #Esports",
+        "entertainment": "#StreamingTech #Netflix #YouTube #CreatorEconomy #VFX #DigitalCulture"
     }
-    return tags.get(category, "#NewsPulse #BreakingNews #DailyNews")
+    return tags.get(category, "#TechNews #AI #Gadgets #NewsSeconds")
 
 
 # ==============================================================================
@@ -302,15 +302,15 @@ def post_to_linkedin(article: dict) -> bool:
 def get_tumblr_tags(category: str) -> str:
     """Returns comma-separated tags tailored for Tumblr discovery."""
     tags_map = {
-        "trending": "News, Breaking News, Trending, NewsSeconds, Headlines, Daily News",
-        "tech": "Tech, Technology, Gadgets, Tech News, Innovation, Silicon Valley",
-        "ai-future": "Artificial Intelligence, AI, Machine Learning, Tech Trends, Future Tech",
-        "business": "Business, Finance, Stock Market, Economy, Crypto, Money",
-        "world": "World News, Global News, Politics, Breaking News, Current Affairs",
-        "sports": "Sports, Cricket, Football, Match Day, Sports News, Highlights",
-        "entertainment": "Entertainment, Movies, Cinema, Gaming, Pop Culture, TV Shows"
+        "trending": "Tech News, Breaking Tech, Innovation, Viral Tech, NewsSeconds, Technology",
+        "tech": "Gadgets, Tech, Hardware, Apple, Smartphones, Technology, Computer",
+        "ai-future": "Artificial Intelligence, AI, Machine Learning, Future Tech, OpenAI, Tech Trends",
+        "business": "Startups, Silicon Valley, Venture Capital, Tech Industry, Big Tech",
+        "world": "EV, Electric Vehicles, Tesla, Space Tech, Aerospace, Robotics, Future",
+        "sports": "Gaming, PC Gaming, Video Games, Steam, Consoles, Esports, Tech",
+        "entertainment": "Streaming, Netflix, Creator Economy, YouTube, SciFi, Technology"
     }
-    return tags_map.get(category, "News, Breaking News, Daily News, NewsSeconds")
+    return tags_map.get(category, "Tech, AI, Gadgets, Technology, NewsSeconds")
 
 
 def post_to_tumblr(article: dict) -> bool:
