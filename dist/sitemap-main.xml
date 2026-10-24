@@ -3,39 +3,139 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-24T09:20:44Z</lastmod>
+    <lastmod>2026-10-24T10:19:37Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-24T09:20:44Z</lastmod>
+    <lastmod>2026-10-24T10:19:37Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-24T09:20:44Z</lastmod>
+    <lastmod>2026-10-24T10:19:37Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-24T09:20:44Z</lastmod>
+    <lastmod>2026-10-24T10:19:37Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-24T09:20:44Z</lastmod>
+    <lastmod>2026-10-24T10:19:37Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-24T09:20:44Z</lastmod>
+    <lastmod>2026-10-24T10:19:37Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/xboxs-first-ever-chief-operating-officer-leaves-role-just-three-m/</loc>
+    <lastmod>2026-10-23T22:56:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png</image:loc>
+      <image:title>Xbox&#x27;s First-Ever Chief Operating Officer Leaves Role Just Three Months After It Was Created</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/xboxs-first-ever-chief-operating-officer-leaves-role-just-three-m/</loc>
+    <lastmod>2026-10-23T22:56:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png</image:loc>
+      <image:title>Xbox&#x27;s First-Ever Chief Operating Officer Leaves Role Just Three Months After It Was Created</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-fra/</loc>
+    <lastmod>2026-10-23T22:27:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg</image:loc>
+      <image:title>Indie Game Dev Takes Down Vibe-Coded Zombie Shooter After San Francisco Officials Condemn &#x27;Dehumanizing&#x27; Game</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-fra/</loc>
+    <lastmod>2026-10-23T22:27:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg</image:loc>
+      <image:title>Indie Game Dev Takes Down Vibe-Coded Zombie Shooter After San Francisco Officials Condemn &#x27;Dehumanizing&#x27; Game</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/abandoned-popcorn-time-apps-had-to-be-disabled-to-prevent-a-zombi/</loc>
+    <lastmod>2026-10-23T19:35:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Abandoned Popcorn Time apps had to be disabled to prevent a zombie army</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/abandoned-popcorn-time-apps-had-to-be-disabled-to-prevent-a-zombi/</loc>
+    <lastmod>2026-10-23T19:35:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Abandoned Popcorn Time apps had to be disabled to prevent a zombie army</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jack-dorseys-block-made-an-ai-model-that-talks-to-you-like-an-awk/</loc>
+    <lastmod>2026-10-23T19:32:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jack-dorseys-block-made-an-ai-model-that-talks-to-you-like-an-awk/</loc>
+    <lastmod>2026-10-23T19:32:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-/</loc>
+    <lastmod>2026-10-23T19:06:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1600,1067</image:loc>
+      <image:title>From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-/</loc>
+    <lastmod>2026-10-23T19:06:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1600,1067</image:loc>
+      <image:title>From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/aaron-paul-makes-surprise-cameo-in-dcs-clayface/</loc>
@@ -138,6 +238,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/rivian-buys-startup-to-turn-400000-daily-clips-into-3d-sims/</loc>
+    <lastmod>2026-10-23T16:56:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/Uber-Rivian-robotaxi.jpg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Rivian buys startup to turn 400,000 daily clips into 3D sims</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rivian-buys-startup-to-turn-400000-daily-clips-into-3d-sims/</loc>
+    <lastmod>2026-10-23T16:56:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/Uber-Rivian-robotaxi.jpg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Rivian buys startup to turn 400,000 daily clips into 3D sims</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduc/</loc>
     <lastmod>2026-10-23T16:29:19+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -158,6 +278,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark/</loc>
+    <lastmod>2026-10-23T16:26:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1600,1067</image:loc>
+      <image:title>Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark/</loc>
+    <lastmod>2026-10-23T16:26:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1600,1067</image:loc>
+      <image:title>Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready/</loc>
+    <lastmod>2026-10-23T16:20:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1600,1067</image:loc>
+      <image:title>Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready/</loc>
+    <lastmod>2026-10-23T16:20:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1600,1067</image:loc>
+      <image:title>Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/xboxs-first-chief-operating-officer-is-out-after-just-a-few-month/</loc>
     <lastmod>2026-10-23T16:09:26+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -175,6 +335,26 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>Xbox’s first chief operating officer is out after just a few months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volvo-is-launching-a-lower-priced-ev-in-2027-based-on-its-spa3-pl/</loc>
+    <lastmod>2026-10-23T15:52:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volvo-lower-priced-EV-2027-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volvo is launching a ‘lower-priced’ EV in 2027 based on its SPA3 platform</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volvo-is-launching-a-lower-priced-ev-in-2027-based-on-its-spa3-pl/</loc>
+    <lastmod>2026-10-23T15:52:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volvo-lower-priced-EV-2027-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volvo is launching a ‘lower-priced’ EV in 2027 based on its SPA3 platform</image:title>
     </image:image>
   </url>
   <url>
@@ -238,6 +418,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/banijay-entertainments-frédéric-balmary-on-us-ambitions-netflix-a/</loc>
+    <lastmod>2026-10-23T13:56:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Banijay-FredericBalmary_1120_c-1000.jpg</image:loc>
+      <image:title>Banijay Entertainment’s Frédéric Balmary on U.S. Ambitions, Netflix and the Battle for IP: It’s ‘One of Our Big Fights’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/banijay-entertainments-frédéric-balmary-on-us-ambitions-netflix-a/</loc>
+    <lastmod>2026-10-23T13:56:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Banijay-FredericBalmary_1120_c-1000.jpg</image:loc>
+      <image:title>Banijay Entertainment’s Frédéric Balmary on U.S. Ambitions, Netflix and the Battle for IP: It’s ‘One of Our Big Fights’</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-e/</loc>
     <lastmod>2026-10-23T13:55:13+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -278,6 +478,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/lara-crofts-inaugural-voice-actor-shelley-blond-recalls-first-tim/</loc>
+    <lastmod>2026-10-23T12:06:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/07/Tomb-Raider-Legacy-of-Atlantis.png</image:loc>
+      <image:title>Lara Croft’s Inaugural Voice Actor Shelley Blond Recalls First Time She Saw ‘Tomb Raider’ Character: ‘I Thought She Was Very Sexy and Very Ballsy’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lara-crofts-inaugural-voice-actor-shelley-blond-recalls-first-tim/</loc>
+    <lastmod>2026-10-23T12:06:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/07/Tomb-Raider-Legacy-of-Atlantis.png</image:loc>
+      <image:title>Lara Croft’s Inaugural Voice Actor Shelley Blond Recalls First Time She Saw ‘Tomb Raider’ Character: ‘I Thought She Was Very Sexy and Very Ballsy’</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ti-wests-new-short-remnants-is-the-first-fully-immersive-apple-ho/</loc>
     <lastmod>2026-10-23T11:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -315,6 +535,66 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/Zhaslan-Madiyev-Kazakhstans-Deputy-Prime-Minister-and-Minister-of-AI-and-Digital-Development.jpg</image:loc>
       <image:title>AI Giant Nvidia Invests in Entertainment Startup Higgsfield</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-/</loc>
+    <lastmod>2026-10-23T04:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1600,1067</image:loc>
+      <image:title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-/</loc>
+    <lastmod>2026-10-23T04:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1600,1067</image:loc>
+      <image:title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with-andur/</loc>
+    <lastmod>2026-10-22T23:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1600,1067</image:loc>
+      <image:title>Warhound raises $200M to engineer war dogs and arm them with Anduril gear</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with-andur/</loc>
+    <lastmod>2026-10-22T23:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1600,1067</image:loc>
+      <image:title>Warhound raises $200M to engineer war dogs and arm them with Anduril gear</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/openai-working-on-new-30b-raise-at-125t-valuation-ahead-of-ipo/</loc>
+    <lastmod>2026-10-22T22:08:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1600,1067</image:loc>
+      <image:title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/openai-working-on-new-30b-raise-at-125t-valuation-ahead-of-ipo/</loc>
+    <lastmod>2026-10-22T22:08:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1600,1067</image:loc>
+      <image:title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</image:title>
     </image:image>
   </url>
   <url>
