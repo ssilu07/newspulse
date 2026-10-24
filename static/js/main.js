@@ -52,13 +52,18 @@
     setInterval(updateTime, 1000);
   }
 
-  // Theme Management
+  // Theme Management (Defaults to sleek cinema dark: #07090e)
   function initTheme() {
-    const savedTheme = localStorage.getItem('newspulse_theme') || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
-    applyTheme(savedTheme);
+    // Only switch to light if the visitor explicitly clicked to choose light mode in the past
+    const userChoice = localStorage.getItem('newspulse_theme_user_set');
+    if (userChoice === 'light') {
+      applyTheme('light', false);
+    } else {
+      applyTheme('dark', false);
+    }
   }
 
-  function applyTheme(theme) {
+  function applyTheme(theme, userExplicit = false) {
     if (theme === 'light') {
       document.documentElement.setAttribute('data-theme', 'light');
       if (themeToggleBtn) themeToggleBtn.innerHTML = '☀️';
@@ -66,12 +71,20 @@
       document.documentElement.removeAttribute('data-theme');
       if (themeToggleBtn) themeToggleBtn.innerHTML = '🌙';
     }
-    localStorage.setItem('newspulse_theme', theme);
+    if (userExplicit) {
+      try {
+        localStorage.setItem('newspulse_theme_user_set', theme);
+      } catch (e) {}
+    }
+    // Clean up any legacy auto-saved theme key from previous version
+    try {
+      localStorage.removeItem('newspulse_theme');
+    } catch (e) {}
   }
 
   function toggleTheme() {
     const isLight = document.documentElement.getAttribute('data-theme') === 'light';
-    applyTheme(isLight ? 'dark' : 'light');
+    applyTheme(isLight ? 'dark' : 'light', true);
   }
 
   // Toast Notification

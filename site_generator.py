@@ -59,6 +59,16 @@ def get_tracking_head_tags() -> str:
     gtag('config', '{ga_id}');
   </script>""")
 
+    # Default Theme Enforcer: guarantees dark/black theme (#07090e) unless explicitly set to light
+    tags.append("""  <!-- Theme Init: Default Dark Cinema Mode (#07090e) -->
+  <script>
+    try {
+      if (localStorage.getItem('newspulse_theme_user_set') === 'light') {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    } catch(e) {}
+  </script>""")
+
     return "\n".join(tags)
 
 
@@ -511,7 +521,7 @@ def render_homepage_html(articles: list) -> str:
   {get_base_footer()}
 
   <!-- Main JavaScript Engine -->
-  <script src="/static/js/main.js"></script>
+  <script src="/static/js/main.js?v=2.2"></script>
 </body>
 </html>"""
     return full_html
@@ -1078,7 +1088,7 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
   {get_base_footer()}
 
   <!-- Main JavaScript Engine -->
-  <script src="/static/js/main.js"></script>
+  <script src="/static/js/main.js?v=2.2"></script>
 </body>
 </html>"""
     return article_html
@@ -1346,7 +1356,7 @@ def generate_compliance_pages(dist_dir: Path):
 
   {get_base_footer()}
 
-  <script src="/static/js/main.js"></script>
+  <script src="/static/js/main.js?v=2.2"></script>
 </body>
 </html>"""
 
