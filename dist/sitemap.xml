@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-24T19:16:37Z</lastmod>
+    <lastmod>2026-10-24T20:58:58Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-24T19:16:37Z</lastmod>
+    <lastmod>2026-10-24T20:58:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-24T19:16:37Z</lastmod>
+    <lastmod>2026-10-24T20:58:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-24T19:16:37Z</lastmod>
+    <lastmod>2026-10-24T20:58:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-24T19:16:37Z</lastmod>
+    <lastmod>2026-10-24T20:58:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-24T19:16:37Z</lastmod>
+    <lastmod>2026-10-24T20:58:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/9-classic-plymouth-models-and-what-theyre-worth-today/</loc>
+    <lastmod>2026-10-24T20:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/9-classic-plymouth-models-and-what-theyre-worth-today/l-intro-1792506765.jpg</image:loc>
+      <image:title>9 Classic Plymouth Models And What They&#x27;re Worth Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/9-classic-plymouth-models-and-what-theyre-worth-today/</loc>
+    <lastmod>2026-10-24T20:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/9-classic-plymouth-models-and-what-theyre-worth-today/l-intro-1792506765.jpg</image:loc>
+      <image:title>9 Classic Plymouth Models And What They&#x27;re Worth Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/if-teslas-robotaxi-miles-keep-compounding-at-20-a-week-the-math-g/</loc>
+    <lastmod>2026-10-24T19:47:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/07/Tesla-Robotaxi-Tampa.jpeg</image:loc>
+      <image:title>If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/if-teslas-robotaxi-miles-keep-compounding-at-20-a-week-the-math-g/</loc>
+    <lastmod>2026-10-24T19:47:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/07/Tesla-Robotaxi-Tampa.jpeg</image:loc>
+      <image:title>If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/whos-at-fault-when-software-glitches-cause-a-car-accident/</loc>
+    <lastmod>2026-10-24T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whos-at-fault-when-software-glitches-cause-a-car-accident/l-intro-1792507250.jpg</image:loc>
+      <image:title>Who&#x27;s At Fault When Software Glitches Cause A Car Accident?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/whos-at-fault-when-software-glitches-cause-a-car-accident/</loc>
+    <lastmod>2026-10-24T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whos-at-fault-when-software-glitches-cause-a-car-accident/l-intro-1792507250.jpg</image:loc>
+      <image:title>Who&#x27;s At Fault When Software Glitches Cause A Car Accident?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-your-takes-on-electric-vehicles-in-the-face-of-expensiv/</loc>
+    <lastmod>2026-10-24T19:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-your-takes-on-electric-vehicles-in-the-face-of-expensive-gasoline/l-intro-1792523790.jpg</image:loc>
+      <image:title>These Are Your Takes On Electric Vehicles In The Face Of Expensive Gasoline</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-are-your-takes-on-electric-vehicles-in-the-face-of-expensiv/</loc>
+    <lastmod>2026-10-24T19:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-your-takes-on-electric-vehicles-in-the-face-of-expensive-gasoline/l-intro-1792523790.jpg</image:loc>
+      <image:title>These Are Your Takes On Electric Vehicles In The Face Of Expensive Gasoline</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hey-pay-attention-drivers-find-multitasking-tough-when-using-touc/</loc>
+    <lastmod>2026-10-24T18:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/study-multitasking-difficult-for-drivers-when-using-touchscreens/l-intro-1792501353.jpg</image:loc>
+      <image:title>Hey! Pay Attention! Drivers Find Multitasking Tough When Using Touchscreens, Says Study</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hey-pay-attention-drivers-find-multitasking-tough-when-using-touc/</loc>
+    <lastmod>2026-10-24T18:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/study-multitasking-difficult-for-drivers-when-using-touchscreens/l-intro-1792501353.jpg</image:loc>
+      <image:title>Hey! Pay Attention! Drivers Find Multitasking Tough When Using Touchscreens, Says Study</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ferraris-last-major-2026-f1-upgrade-explained/</loc>
+    <lastmod>2026-10-24T15:06:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/highlighted-comparison-floor-boards-Ferrari-COTA-2.jpg</image:loc>
+      <image:title>Ferrari&#x27;s last major 2026 F1 upgrade explained</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ferraris-last-major-2026-f1-upgrade-explained/</loc>
+    <lastmod>2026-10-24T15:06:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/highlighted-comparison-floor-boards-Ferrari-COTA-2.jpg</image:loc>
+      <image:title>Ferrari&#x27;s last major 2026 F1 upgrade explained</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/hamilton-leads-final-practice-after-leclerc-lap-deletion/</loc>
@@ -78,6 +198,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/how-much-does-chevys-new-v-8-improve-the-corvettes-performance/</loc>
+    <lastmod>2026-10-24T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ff79b21c-5ea6-40cc-a27a-9c5d2caf607d.jpg</image:loc>
+      <image:title>How Much Does Chevy’s New V-8 Improve the Corvette’s Performance?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-much-does-chevys-new-v-8-improve-the-corvettes-performance/</loc>
+    <lastmod>2026-10-24T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ff79b21c-5ea6-40cc-a27a-9c5d2caf607d.jpg</image:loc>
+      <image:title>How Much Does Chevy’s New V-8 Improve the Corvette’s Performance?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/volkswagen-unleashes-wicked-id-unyx-09-in-china-for-27000/</loc>
     <lastmod>2026-10-24T12:53:19+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -95,6 +235,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Volkswagen-ID.-Unyx-09-photo-2.jpeg</image:loc>
       <image:title>Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-photos-of-the-1979-honda-accord-4-door/</loc>
+    <lastmod>2026-10-24T12:46:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/9a891a32-aa78-4046-bd7a-cd9416e6ad3a.jpg</image:loc>
+      <image:title>View Photos of the 1979 Honda Accord 4-Door</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-photos-of-the-1979-honda-accord-4-door/</loc>
+    <lastmod>2026-10-24T12:46:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/9a891a32-aa78-4046-bd7a-cd9416e6ad3a.jpg</image:loc>
+      <image:title>View Photos of the 1979 Honda Accord 4-Door</image:title>
     </image:image>
   </url>
   <url>
@@ -135,6 +295,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/7-reasons-the-death-of-the-sedan-has-been-greatly-exaggerated/l-intro-1792783367.jpg</image:loc>
       <image:title>7 Reasons The Death Of The Sedan Has Been Greatly Exaggerated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gary-andersons-simple-design-solution-for-f1s-impeding-problem/</loc>
+    <lastmod>2026-10-24T10:39:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446235_HiRes.jpg</image:loc>
+      <image:title>Gary Anderson&#x27;s simple design solution for F1&#x27;s impeding problem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gary-andersons-simple-design-solution-for-f1s-impeding-problem/</loc>
+    <lastmod>2026-10-24T10:39:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446235_HiRes.jpg</image:loc>
+      <image:title>Gary Anderson&#x27;s simple design solution for F1&#x27;s impeding problem</image:title>
     </image:image>
   </url>
   <url>
@@ -378,6 +558,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/volvo-is-launching-a-lower-priced-ev-in-2027-based-on-its-spa3-pl/</loc>
+    <lastmod>2026-10-23T15:52:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volvo-lower-priced-EV-2027-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volvo is launching a ‘lower-priced’ EV in 2027 based on its SPA3 platform</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volvo-is-launching-a-lower-priced-ev-in-2027-based-on-its-spa3-pl/</loc>
+    <lastmod>2026-10-23T15:52:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volvo-lower-priced-EV-2027-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volvo is launching a ‘lower-priced’ EV in 2027 based on its SPA3 platform</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/openai-now-trains-its-frontier-ai-models-with-no-internet-access/</loc>
     <lastmod>2026-10-23T15:41:07+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -418,6 +618,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/volvo-says-the-ex60-will-be-a-best-seller-with-over-50000-orders-/</loc>
+    <lastmod>2026-10-23T14:53:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volvo-EX60-orders-50000-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volvo says the EX60 will be a best-seller with over 50,000 orders in Europe already</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volvo-says-the-ex60-will-be-a-best-seller-with-over-50000-orders-/</loc>
+    <lastmod>2026-10-23T14:53:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volvo-EX60-orders-50000-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volvo says the EX60 will be a best-seller with over 50,000 orders in Europe already</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-cancels-cybertruck-in-australia-and-nz-after-7-years-of-dep/</loc>
+    <lastmod>2026-10-23T14:35:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Cybertruck.jpg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-cancels-cybertruck-in-australia-and-nz-after-7-years-of-dep/</loc>
+    <lastmod>2026-10-23T14:35:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Cybertruck.jpg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-chall/</loc>
     <lastmod>2026-10-23T14:33:14+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -435,6 +675,26 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1600,1067</image:loc>
       <image:title>TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/teslas-10b-solar-factory-could-get-35-years-of-tax-breaks-in-texa/</loc>
+    <lastmod>2026-10-23T14:25:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/05/Tesla-solar-panels.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla’s $10B solar factory could get 35 years of tax breaks in Texas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/teslas-10b-solar-factory-could-get-35-years-of-tax-breaks-in-texa/</loc>
+    <lastmod>2026-10-23T14:25:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/05/Tesla-solar-panels.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla’s $10B solar factory could get 35 years of tax breaks in Texas</image:title>
     </image:image>
   </url>
   <url>
@@ -595,6 +855,26 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1600,1067</image:loc>
       <image:title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rivian-buys-world-model-startup-to-accelerate-self-driving-ambiti/</loc>
+    <lastmod>2026-10-22T21:05:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1600,1067</image:loc>
+      <image:title>Rivian buys world model startup to accelerate self-driving ambitions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rivian-buys-world-model-startup-to-accelerate-self-driving-ambiti/</loc>
+    <lastmod>2026-10-22T21:05:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1600,1067</image:loc>
+      <image:title>Rivian buys world model startup to accelerate self-driving ambitions</image:title>
     </image:image>
   </url>
   <url>
