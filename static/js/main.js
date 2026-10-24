@@ -453,7 +453,7 @@
       console.warn('Load more error:', e);
     } finally {
       loadMoreBtn.disabled = false;
-      if (btnSpan) btnSpan.textContent = 'Load More Breaking Tech Stories';
+      if (btnSpan) btnSpan.textContent = 'Load More Breaking Mobility Stories';
     }
   }
 

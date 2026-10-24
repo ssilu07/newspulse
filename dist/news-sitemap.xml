@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/hamilton-leads-final-practice-after-leclerc-lap-deletion/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T13:09:28+00:00</news:publication_date>
+      <news:title>Hamilton leads final practice after Leclerc lap deletion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446650_HiRes.jpg</image:loc>
+      <image:title>Hamilton leads final practice after Leclerc lap deletion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1-2026-united-states-grand-prix-practice-results/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T13:01:00+00:00</news:publication_date>
+      <news:title>F1 2026 United States Grand Prix practice results</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446647_HiRes.jpg</image:loc>
+      <image:title>F1 2026 United States Grand Prix practice results</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-unleashes-wicked-id-unyx-09-in-china-for-27000/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:53:19+00:00</news:publication_date>
+      <news:title>Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Volkswagen-ID.-Unyx-09-photo-2.jpeg</image:loc>
+      <image:title>Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-tractor-supply-mini-bike-will-help-awaken-your-inner-child/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T11:55:00+00:00</news:publication_date>
+      <news:title>This Tractor Supply Mini Bike Will Help Awaken Your Inner Child</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/this-tractor-supply-mini-bike-will-help-awaken-your-inner-child/l-intro-1792190960.jpg</image:loc>
+      <image:title>This Tractor Supply Mini Bike Will Help Awaken Your Inner Child</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-reasons-the-death-of-the-sedan-has-been-greatly-exaggerated/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T11:15:00+00:00</news:publication_date>
+      <news:title>7 Reasons The Death Of The Sedan Has Been Greatly Exaggerated</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-reasons-the-death-of-the-sedan-has-been-greatly-exaggerated/l-intro-1792783367.jpg</image:loc>
+      <image:title>7 Reasons The Death Of The Sedan Has Been Greatly Exaggerated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-makes-this-2001-vw-new-beetle-on-bat-so-special/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T09:30:00+00:00</news:publication_date>
+      <news:title>What Makes This 2001 VW New Beetle on BaT So Special?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f281b69e-f2df-4034-b1a7-546568cb07ba.jpg?crop=0.418xw:0.371xh;0.299xw,0.343xh&amp;resize=1200:*</image:loc>
+      <image:title>What Makes This 2001 VW New Beetle on BaT So Special?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chinese-evs-found-back-door-into-western-car-markets-at-40-off-ms/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T08:34:51+00:00</news:publication_date>
+      <news:title>Chinese EVs found back door into Western car markets – at 40% off MSRP</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/europeans-discovered-used-evs-from-china-price-40-under-98c7c9.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Chinese EVs found back door into Western car markets – at 40% off MSRP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/were-camping-with-the-ultimate-setup-and-all-i-want-is-to-go-home/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T08:30:00+00:00</news:publication_date>
+      <news:title>We’re Camping with the Ultimate Setup, and All I Want Is to Go Home</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/325f6c04-643a-4378-bfa0-5c224321bad3.jpg</image:loc>
+      <image:title>We’re Camping with the Ultimate Setup, and All I Want Is to Go Home</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedeschina/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T07:30:00+00:00</news:publication_date>
+      <news:title>NHTSA proposes cyan lights for robotaxis, following Mercedes/China</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2023/09/P1021888.jpg?quality=82&amp;strip=all&amp;w=1333</image:loc>
+      <image:title>NHTSA proposes cyan lights for robotaxis, following Mercedes/China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T06:29:07+00:00</news:publication_date>
+      <news:title>EGO Commercial expands ZTR line with mowers, blowers, and trimmers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/eg0_MAIN.png?w=1600</image:loc>
+      <image:title>EGO Commercial expands ZTR line with mowers, blowers, and trimmers</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/aaron-paul-makes-surprise-cameo-in-dcs-clayface/</loc>
     <news:news>
       <news:publication>
@@ -183,6 +333,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/rivian-buys-startup-to-turn-400000-daily-clips-into-3d-sims/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T11:26:23+00:00</news:publication_date>
+      <news:title>Rivian buys startup to turn 400,000 daily clips into 3D sims</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/Uber-Rivian-robotaxi.jpg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Rivian buys startup to turn 400,000 daily clips into 3D sims</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ti-wests-new-short-remnants-is-the-first-fully-immersive-apple-ho/</loc>
     <news:news>
       <news:publication>
@@ -210,6 +375,51 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/Zhaslan-Madiyev-Kazakhstans-Deputy-Prime-Minister-and-Minister-of-AI-and-Digital-Development.jpg</image:loc>
       <image:title>AI Giant Nvidia Invests in Entertainment Startup Higgsfield</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/retro-australian-icon-a-1983-holden-commodore-in-time-warp-condit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T07:00:41+00:00</news:publication_date>
+      <news:title>Retro Australian Icon: A 1983 Holden Commodore In Time Warp Condition</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Holden-Commodore-VH-Car-7.jpg</image:loc>
+      <image:title>Retro Australian Icon: A 1983 Holden Commodore In Time Warp Condition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/a-rare-1981-battle-action-tank-with-a-working-tennis-ball-cannon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T23:00:44+00:00</news:publication_date>
+      <news:title>A Rare 1981 Battle Action Tank (With A Working Tennis Ball Cannon)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Action-Park-Battle-Action-Tank-13-e1792728846973.jpg</image:loc>
+      <image:title>A Rare 1981 Battle Action Tank (With A Working Tennis Ball Cannon)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T22:30:00+00:00</news:publication_date>
+      <news:title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1600,1067</image:loc>
+      <image:title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</image:title>
     </image:image>
   </url>
 </urlset>

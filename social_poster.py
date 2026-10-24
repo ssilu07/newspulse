@@ -48,15 +48,15 @@ def save_posted_history(history: dict):
 def get_category_hashtags(category: str) -> str:
     """Generates viral hashtags based on topic."""
     tags = {
-        "trending": "#TechNews #BreakingTech #ViralTech #NewsSeconds #TechTrends",
-        "tech": "#Gadgets #Hardware #Apple #Nvidia #Smartphones #TechNews",
-        "ai-future": "#ArtificialIntelligence #AI #MachineLearning #GenerativeAI #OpenAI #LLM",
-        "business": "#Startups #SiliconValley #VentureCapital #BigTech #TechInvesting",
-        "world": "#ElectricVehicles #EV #Tesla #SpaceTech #SpaceX #Robotics",
-        "sports": "#Gaming #PCGaming #PlayStation #Xbox #UnrealEngine #Esports",
-        "entertainment": "#StreamingTech #Netflix #YouTube #CreatorEconomy #VFX #DigitalCulture"
+        "world": "#EV #ElectricVehicles #Tesla #CleanMobility #BatteryTech #NewsSeconds",
+        "tech": "#Supercars #Hypercars #Ferrari #Porsche #Lamborghini #CarPorn #NewsSeconds",
+        "ai-future": "#AutonomousDriving #TeslaFSD #Waymo #RoboTaxi #FutureMobility #AutoTech",
+        "business": "#AutoIndustry #Automotive #Gigafactory #CarNews #EVNews",
+        "trending": "#ConceptCar #CarCulture #Hypercar #ViralCars #NewsSeconds",
+        "sports": "#Formula1 #F1 #Motorsport #LeMans #RacingTech #GrandPrix",
+        "entertainment": "#CarCulture #Restomod #ClassicCars #VintageCars #Gearhead"
     }
-    return tags.get(category, "#TechNews #AI #Gadgets #NewsSeconds")
+    return tags.get(category, "#Cars #EV #Supercars #Automotive #NewsSeconds")
 
 
 # ==============================================================================
@@ -302,15 +302,15 @@ def post_to_linkedin(article: dict) -> bool:
 def get_tumblr_tags(category: str) -> str:
     """Returns comma-separated tags tailored for Tumblr discovery."""
     tags_map = {
-        "trending": "Tech News, Breaking Tech, Innovation, Viral Tech, NewsSeconds, Technology",
-        "tech": "Gadgets, Tech, Hardware, Apple, Smartphones, Technology, Computer",
-        "ai-future": "Artificial Intelligence, AI, Machine Learning, Future Tech, OpenAI, Tech Trends",
-        "business": "Startups, Silicon Valley, Venture Capital, Tech Industry, Big Tech",
-        "world": "EV, Electric Vehicles, Tesla, Space Tech, Aerospace, Robotics, Future",
-        "sports": "Gaming, PC Gaming, Video Games, Steam, Consoles, Esports, Tech",
-        "entertainment": "Streaming, Netflix, Creator Economy, YouTube, SciFi, Technology"
+        "world": "EV, Electric Vehicles, Tesla, Clean Energy, Battery Tech, NewsSeconds, Cars",
+        "tech": "Supercars, Hypercars, Ferrari, Porsche, Lamborghini, Sports Cars, Automotive",
+        "ai-future": "Autonomous Driving, Tesla FSD, RoboTaxi, Future Mobility, Auto Tech",
+        "business": "Auto Industry, Cars, Electric Cars, Automotive News, Gigafactory, Business",
+        "trending": "Concept Cars, Hypercar, Supercar, Auto Show, Custom Cars, NewsSeconds",
+        "sports": "Formula 1, F1, Motorsport, Racing, Grand Prix, Le Mans, Speed",
+        "entertainment": "Car Culture, Restomod, Classic Cars, Vintage Cars, Automobiles, V8"
     }
-    return tags_map.get(category, "Tech, AI, Gadgets, Technology, NewsSeconds")
+    return tags_map.get(category, "Cars, Supercars, EV, Automotive, NewsSeconds")
 
 
 def post_to_tumblr(article: dict) -> bool:

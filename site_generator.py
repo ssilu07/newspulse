@@ -108,13 +108,13 @@ def get_base_footer() -> str:
         <div class="footer-col">
           <h4>Coverage</h4>
           <ul class="footer-links">
-            <li><a href="/#ai-future">🧠 AI & Intelligence</a></li>
-            <li><a href="/#tech">⚡ Gadgets & Hardware</a></li>
-            <li><a href="/#trending">🔥 Trending Tech</a></li>
-            <li><a href="/#business">🚀 Startups & Big Tech</a></li>
-            <li><a href="/#world">🛰️ EV & Space Tech</a></li>
-            <li><a href="/#sports">🎮 Gaming & Esports Tech</a></li>
-            <li><a href="/#entertainment">🎬 Streaming & Creator Tech</a></li>
+            <li><a href="/#world">⚡ EVs & Clean Mobility</a></li>
+            <li><a href="/#tech">🏎️ Supercars & Hypercars</a></li>
+            <li><a href="/#ai-future">🤖 Robo-Taxis & Autonomous</a></li>
+            <li><a href="/#business">📈 Auto Industry & Deals</a></li>
+            <li><a href="/#trending">🔥 Viral Drives & Concepts</a></li>
+            <li><a href="/#sports">🏁 Motorsport & F1 Tech</a></li>
+            <li><a href="/#entertainment">🎬 Car Culture & Restomods</a></li>
           </ul>
         </div>
 
@@ -468,7 +468,7 @@ def render_homepage_html(articles: list) -> str:
     <!-- Load More Action -->
     <div class="load-more-container" id="loadMoreWrapper" style="text-align: center; margin: 40px 0 30px 0;">
       <button id="loadMoreBtn" class="load-more-btn">
-        <span>Load More Breaking Tech Stories</span>
+        <span>Load More Breaking Mobility Stories</span>
         <span class="btn-arrow" style="font-size: 16px;">↓</span>
       </button>
     </div>
@@ -518,123 +518,128 @@ def render_homepage_html(articles: list) -> str:
 
 
 AUTHORS = {
-    "tech": {
-        "name": "Aman Verma",
-        "role": "Senior Hardware & Gadgets Editor",
-        "initials": "AV",
+    "world": {
+        "name": "Dr. Ethan Vance",
+        "role": "Chief EV & Battery Systems Fellow",
+        "initials": "EV",
         "color": "#06b6d4",
-        "bio": "Aman covers smartphone silicon, Nvidia GPU architectures, Apple ecosystem leaks, and cutting-edge consumer hardware with 8+ years of technical reporting experience.",
-        "email": "aman.verma@newsseconds.com"
+        "bio": "Dr. Vance tracks battery cell chemistries (solid-state, LFP, sodium-ion), megawatt charging protocols, and gigafactory scaling across North America and Europe.",
+        "email": "ethan.vance@newsseconds.com"
+    },
+    "tech": {
+        "name": "Marco Rossi",
+        "role": "Senior Supercar & Aerodynamics Editor",
+        "initials": "MR",
+        "color": "#ef4444",
+        "bio": "Marco reports on mid-engine twin-turbos, performance hybrid powertrains, active aero, and Nürburgring lap records across Maranello, Stuttgart, and Silverstone.",
+        "email": "marco.rossi@newsseconds.com"
     },
     "ai-future": {
-        "name": "Dr. Aris Vance",
-        "role": "Chief AI & Neural Systems Fellow",
-        "initials": "AV",
+        "name": "Aria Tanaka",
+        "role": "Autonomous Driving & Sensor Architect",
+        "initials": "AT",
         "color": "#8b5cf6",
-        "bio": "Dr. Vance specializes in large language model scaling, autonomous AI agent architectures, neural networks, and frontier safety benchmarks.",
-        "email": "aris.vance@newsseconds.com"
+        "bio": "Aria covers neural network computer vision, automotive lidar suites, Waymo commercial expansion, and Tesla Full Self-Driving regulatory safety filings.",
+        "email": "aria.tanaka@newsseconds.com"
     },
     "business": {
         "name": "Elena Rostova",
-        "role": "Big Tech & Silicon Valley VC Analyst",
+        "role": "Global Automotive Industry & Supply-Chain Analyst",
         "initials": "ER",
         "color": "#10b981",
-        "bio": "Elena covers enterprise AI investments, semiconductor supply-chains, Big Tech antitrust regulations, and venture capital funding rounds.",
+        "bio": "Elena investigates automaker quarterly earnings, gigafactory capital allocations, critical battery mineral supply-chains, and global automotive tariffs.",
         "email": "elena.rostova@newsseconds.com"
     },
-    "world": {
-        "name": "Marcus Vance",
-        "role": "EV, Autonomous & Space Tech Lead",
-        "initials": "MV",
-        "color": "#3b82f6",
-        "bio": "Marcus reports on electric vehicles, autonomous driving systems, orbital aerospace, robotics, and global technological infrastructure.",
-        "email": "marcus.vance@newsseconds.com"
+    "trending": {
+        "name": "Tyler Brooks",
+        "role": "Viral Concepts & Prototype Lead",
+        "initials": "TB",
+        "color": "#f43f5e",
+        "bio": "Tyler tracks unreleased hypercar prototypes, world speed record runs, radical design concepts, and viral custom engineering projects.",
+        "email": "tyler.brooks@newsseconds.com"
     },
     "sports": {
         "name": "David Miller",
-        "role": "Gaming Tech & Esports Hardware Specialist",
+        "role": "Formula 1 & Motorsport Telemetry Specialist",
         "initials": "DM",
-        "color": "#ef4444",
-        "bio": "David covers next-gen console silicon, PC gaming benchmarks, Unreal Engine graphics advancements, Steam ecosystems, and handheld gaming rigs.",
+        "color": "#f59e0b",
+        "bio": "David covers Formula 1 ground-effect aerodynamics, FIA power-unit regulations, Formula E gen-spec powertrains, and Le Mans Hypercar endurance racing.",
         "email": "david.miller@newsseconds.com"
     },
     "entertainment": {
         "name": "Chloe Adams",
-        "role": "Streaming Tech & Creator Economy Editor",
+        "role": "Car Culture & Restomod Editor",
         "initials": "CA",
         "color": "#ec4899",
-        "bio": "Chloe investigates generative VFX in cinema, streaming compression algorithms, YouTube ecosystem economics, and digital entertainment tech.",
+        "bio": "Chloe chronicles bespoke V8 restomod builds, million-dollar Monterey Car Week auctions, cinematic chase vehicles, and classic automotive preservation.",
         "email": "chloe.adams@newsseconds.com"
-    },
-    "trending": {
-        "name": "Rhea Kapoor",
-        "role": "Trending Tech & Product Launches Lead",
-        "initials": "RK",
-        "color": "#f43f5e",
-        "bio": "Rhea tracks viral consumer tech, fast-turnaround product reveals, open-source AI projects, and breaking digital culture alerts.",
-        "email": "rhea.kapoor@newsseconds.com"
     }
 }
 
 
 def generate_editorial_take(article: dict, author: dict) -> dict:
     """Generates an insightful, value-adding 'Why It Matters / Editor's Take' perspective to eliminate scraped content penalties."""
-    cat = article.get("category", "trending")
+    cat = article.get("category", "world")
     source = article.get("source", config.SITE_NAME)
-    cat_name = article.get("category_name", "News")
+    cat_name = article.get("category_name", "Automotive")
 
-    if cat in ("tech", "ai-future"):
-        takeaway_title = "The Strategic Shift for Technology Ecosystems"
+    if cat == "world":
+        takeaway_title = "The Electrification & Charging Infrastructure Horizon"
         takeaway_body = (
-            f"Beyond the immediate headline, this development marks a critical inflection point in the broader {cat_name.lower()} landscape. "
-            f"As organizations and consumers increasingly demand high-reliability solutions, the moves reported by {source} indicate that "
-            f"architectural agility and rapid deployment are becoming decisive competitive advantages. For developers, product leaders, "
-            f"and end-users, the immediate priority is evaluating how these shifts influence existing workflows and long-term digital strategies."
+            f"Beyond the immediate headline, this development marks a critical inflection point in the broader EV transition. "
+            f"As automakers and charging networks race to lower consumer friction, the reporting from {source} highlights that "
+            f"battery energy density, thermal management, and raw cost per kilowatt-hour remain the ultimate battlegrounds. "
+            f"For prospective EV buyers and fleet operators, tracking these operational metrics offers clear guidance on vehicle longevity and residual value."
         )
-        big_picture = "Expect heightened pressure on industry peers to accelerate counter-initiatives over the next two fiscal quarters."
+        big_picture = "Global battery production scale and grid upgrades will define whether mass-market adoption targets are met over the next 24 months."
+    elif cat == "tech":
+        takeaway_title = "The Benchmark for Track-Tolerant Engineering"
+        takeaway_body = (
+            f"In the high-stakes supercar arena, pure horsepower is no longer enough to claim supremacy. "
+            f"This dispatch from {source} emphasizes how cutting-edge downforce balance, electronic limited-slip differentials, and hybrid torque-vectoring "
+            f"are reshaping driver engagement. Exotic marques must prove that extreme performance can harmonize with reliability, thermal endurance, and road compliance."
+        )
+        big_picture = "Lap times at benchmark proving grounds and early client allocations will reveal whether this performance envelope disrupts the existing supercar hierarchy."
+    elif cat == "ai-future":
+        takeaway_title = "Autonomous Validation & Edge-Case Reliability"
+        takeaway_body = (
+            f"Scaling driverless technology demands an uncompromising safety threshold that exceeds human reaction time. "
+            f"As verified by {source}, breakthroughs in multi-modal sensor fusion and end-to-end neural network driving models are shifting the industry "
+            f"from geofenced testing toward true commercial viability. The primary hurdle now centers on regulatory certification and public trust."
+        )
+        big_picture = "Commercial deployment permits in tier-one metropolitan test beds will serve as the litmus test for autonomous scalability."
     elif cat == "business":
-        takeaway_title = "The Macroeconomic & Market Dimension"
+        takeaway_title = "Capital Allocation Across Global Automakers"
         takeaway_body = (
-            f"From an institutional standpoint, the economic variables outlined in this dispatch from {source} reflect deeper undercurrents "
-            f"across capital allocation and market sentiment. Elevated borrowing costs, liquidity dynamics, and regulatory scrutiny mean that "
-            f"both retail investors and enterprise treasuries must recalibrate their risk exposure. The ripple effects are already being monitored "
-            f"across equity indices, fixed-income yields, and supply chain margins."
+            f"From an institutional perspective, the economic figures outlined in this dispatch from {source} reflect monumental shifts in automotive capital. "
+            f"Legacy original equipment manufacturers (OEMs) and agile EV startups alike must balance heavy gigafactory capital expenditures against fluctuating consumer demand and trade tariffs. "
+            f"Supply chain resilience—especially across lithium, cathode precursor materials, and semiconductors—is determining profitability."
         )
-        big_picture = "Monetary policy decisions and upcoming quarterly earnings will serve as the litmus test for sustained market absorption."
-    elif cat == "world":
-        takeaway_title = "Geopolitical & Cross-Border Implications"
-        takeaway_body = (
-            f"This incident highlights how interconnected modern international affairs have become. Dispatches from {source} demonstrate "
-            f"that regional developments rapidly reverberate into global trade corridors, energy security, and diplomatic coalitions. "
-            f"International policymakers are closely observing whether this event triggers formalized bilateral consultations or shifts "
-            f"the posture of allied defense agreements."
-        )
-        big_picture = "Diplomatic briefings and multilateral statements over the coming 72 hours will determine the stabilization trajectory."
+        big_picture = "Upcoming quarterly delivery reports and operating margins will indicate which manufacturers are successfully navigating the EV transformation curve."
     elif cat == "sports":
-        takeaway_title = "Tactical Execution & Season Momentum"
+        takeaway_title = "Aerodynamic Efficiency & Motorsport Racecraft"
         takeaway_body = (
-            f"In modern professional athletics, structural decisions and performance metrics carry season-defining weight. "
-            f"The developments confirmed via {source} underline how squad depth, tactical adaptability, and strategic conditioning "
-            f"dictate tournament trajectories. For supporters and analysts alike, the key takeaway is how leadership manages team cohesion "
-            f"under heightened competitive scrutiny."
+            f"In premier motorsport disciplines, millisecond gains represent months of high-intensity computational fluid dynamics (CFD) research. "
+            f"The developments reported by {source} underline how tire degradation curves, ground-effect aero seals, and power-unit energy recovery systems "
+            f"dictate race outcomes. Technical compliance under strict cost caps continues to test team engineering depth."
         )
-        big_picture = "Subsequent fixtures and tactical lineup announcements will reveal the true strategic impact of this development."
+        big_picture = "Upcoming grand prix telemetry and trackside upgrades will reveal which teams hold the definitive technical advantage."
     elif cat == "entertainment":
-        takeaway_title = "Cultural Resonance & Studio Economics"
+        takeaway_title = "Heritage Preservation vs Modern Performance"
         takeaway_body = (
-            f"The entertainment industry is navigating rapid transitions across distribution models, audience retention, and creator rights. "
-            f"This reporting from {source} illuminates how studios and digital platforms are balancing high-stakes production investments "
-            f"against evolving consumer consumption patterns in a saturated media market."
+            f"Automotive passion is increasingly defined by the synthesis of analog soul and contemporary engineering. "
+            f"This coverage from {source} illustrates how bespoke builders, private collectors, and restomod artists are preserving the golden eras "
+            f"of internal combustion while adopting carbon fiber composites and precision craftsmanship."
         )
-        big_picture = "Audience reception and early engagement indicators will dictate future franchise and syndication decisions."
+        big_picture = "Auction hammer prices and enthusiast demand indicate sustained historical appreciation for rare, analog driver's vehicles."
     else:
-        takeaway_title = "Public Interest & Verification Context"
+        takeaway_title = "Automotive Innovation & Market Feasibility"
         takeaway_body = (
-            f"In an accelerated news cycle, separating high-signal factual reporting from speculative noise is vital. "
-            f"The core facts verified by {source} demonstrate that public interest and community impact are driving the narrative. "
-            f"Our newsroom continues to cross-reference multiple primary wire feeds to track how verified developments unfold on the ground."
+            f"Concept prototypes and viral vehicle reveals offer an exciting window into the automotive industry's future design language. "
+            f"Dispatches from {source} demonstrate how radical styling, lightweight materials, and powertrain packaging can transition from design studios "
+            f"to production assembly lines. Engineering feasibility and homologation standards remain the true measures of impact."
         )
-        big_picture = "Continuous updates will be synthesized as official investigations and formal communiqués are released."
+        big_picture = "Market reception and formal OEM production announcements will determine which concept innovations make it to consumer streets."
 
     return {
         "heading": takeaway_title,

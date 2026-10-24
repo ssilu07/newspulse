@@ -18,10 +18,10 @@ TEMPLATES_DIR = BASE_DIR / "templates"
 
 # Site Identity & Branding
 SITE_NAME = os.getenv("SITE_NAME", "News Seconds")
-SITE_TAGLINE = os.getenv("SITE_TAGLINE", "Bite-Sized AI, Gadgets & Future Tech News in Seconds")
+SITE_TAGLINE = os.getenv("SITE_TAGLINE", "Bite-Sized EVs, Supercars & Future Mobility in Seconds")
 SITE_DESCRIPTION = os.getenv(
     "SITE_DESCRIPTION",
-    "Your 60-second portal for breaking AI breakthroughs, consumer gadgets, Nvidia chips, Apple leaks, and future tech."
+    "Your 60-second pit stop for breaking electric vehicle breakthroughs, supercar debuts, Tesla leaks, and autonomous mobility."
 )
 SITE_URL = os.getenv("SITE_URL", "https://newsseconds.com").rstrip("/")
 SITE_LOCALE = "en_US"
@@ -79,162 +79,154 @@ ADSENSE_PUB_ID = os.getenv("ADSENSE_PUB_ID", "")
 
 # Categories and High-Reliability RSS Feeds
 CATEGORIES = {
-    "ai-future": {
-        "name": "AI & Intelligence",
-        "slug": "ai-future",
-        "color": "#8b5cf6",
-        "gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
-        "icon": "🧠",
-        "description": "Frontier AI models, ChatGPT, Claude, Gemini, autonomous agents, and neural breakthroughs.",
-        "feeds": [
-            "https://techcrunch.com/category/artificial-intelligence/feed/",
-            "https://venturebeat.com/category/ai/feed/",
-            "https://www.technologyreview.com/feed/",
-            "https://feeds.arstechnica.com/arstechnica/technology-lab/"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=900&fit=crop"
-    },
-    "tech": {
-        "name": "Gadgets & Hardware",
-        "slug": "tech",
+    "world": {
+        "name": "EVs & Clean Mobility",
+        "slug": "world",
         "color": "#06b6d4",
         "gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
         "icon": "⚡",
-        "description": "Flagship smartphones, Apple ecosystem leaks, Nvidia GPUs, chips, and consumer gear.",
+        "description": "Tesla, BYD, Rivian, next-gen sodium and solid-state batteries, and electric charging networks.",
         "feeds": [
-            "https://www.theverge.com/rss/index.xml",
-            "https://www.engadget.com/rss.xml",
-            "https://9to5mac.com/feed/",
-            "https://www.wired.com/feed/category/gear/latest/rss"
+            "https://electrek.co/feed/",
+            "https://cleantechnica.com/feed/",
+            "https://techcrunch.com/category/transportation/feed/"
         ],
-        "default_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&h=900&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1600&h=900&fit=crop"
+    },
+    "tech": {
+        "name": "Supercars & Hypercars",
+        "slug": "tech",
+        "color": "#ef4444",
+        "gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+        "icon": "🏎️",
+        "description": "Ferrari, Porsche, Lamborghini, McLaren, hypercar track telemetry, and aero breakthroughs.",
+        "feeds": [
+            "https://www.caranddriver.com/rss/all.xml",
+            "https://www.carscoops.com/feed/",
+            "https://jalopnik.com/rss"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1600&h=900&fit=crop"
+    },
+    "ai-future": {
+        "name": "Robo-Taxis & Autonomous",
+        "slug": "ai-future",
+        "color": "#8b5cf6",
+        "gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
+        "icon": "🤖",
+        "description": "Tesla Full Self-Driving (FSD), Waymo, robotaxis, automotive lidar, and AI smart cockpits.",
+        "feeds": [
+            "https://techcrunch.com/category/transportation/feed/",
+            "https://electrek.co/category/autonomous/feed/",
+            "https://cleantechnica.com/feed/"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop"
+    },
+    "business": {
+        "name": "Auto Industry & Deals",
+        "slug": "business",
+        "color": "#10b981",
+        "gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+        "icon": "📈",
+        "description": "Automaker earnings, gigafactory expansions, battery supply-chains, and global automotive tariffs.",
+        "feeds": [
+            "https://electrek.co/feed/",
+            "https://cleantechnica.com/feed/",
+            "https://www.carscoops.com/feed/"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1600&h=900&fit=crop"
     },
     "trending": {
-        "name": "Trending Tech",
+        "name": "Viral Drives & Concepts",
         "slug": "trending",
         "color": "#f43f5e",
         "gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
         "icon": "🔥",
-        "description": "Viral tech breakthroughs, breaking product launches, and digital culture alerts.",
+        "description": "Radical concept vehicles, world speed records, spy shots, and viral custom engineering.",
         "feeds": [
-            "https://techcrunch.com/feed/",
-            "https://feeds.arstechnica.com/arstechnica/index",
-            "https://gizmodo.com/rss",
-            "https://mashable.com/feeds/rss/all"
+            "https://jalopnik.com/rss",
+            "https://www.carscoops.com/feed/",
+            "https://www.caranddriver.com/rss/all.xml"
         ],
-        "default_image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1600&h=900&fit=crop"
-    },
-    "business": {
-        "name": "Startups & Big Tech",
-        "slug": "business",
-        "color": "#10b981",
-        "gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-        "icon": "🚀",
-        "description": "Silicon Valley startups, venture capital funding, Big Tech antitrust, and IPO radar.",
-        "feeds": [
-            "https://techcrunch.com/category/startups/feed/",
-            "https://techcrunch.com/category/venture/feed/",
-            "https://www.wired.com/feed/category/business/latest/rss",
-            "https://venturebeat.com/feed/"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1600&h=900&fit=crop"
-    },
-    "world": {
-        "name": "EV & Space Tech",
-        "slug": "world",
-        "color": "#3b82f6",
-        "gradient": "linear-gradient(135deg, #3b82f6, #06b6d4)",
-        "icon": "🛰️",
-        "description": "Electric vehicles, autonomous transport, robotics, aerospace, and satellite networks.",
-        "feeds": [
-            "https://electrek.co/feed/",
-            "https://spacenews.com/feed/",
-            "https://techcrunch.com/category/transportation/feed/",
-            "https://arstechnica.com/cars/feed/"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1517976487502-d74868a18357?w=1600&h=900&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop"
     },
     "sports": {
-        "name": "Gaming & Esports Tech",
+        "name": "Motorsport & F1 Tech",
         "slug": "sports",
-        "color": "#ef4444",
-        "gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-        "icon": "🎮",
-        "description": "Next-gen game consoles, PC gaming rigs, Unreal Engine, Steam hardware, and VR/AR.",
+        "color": "#f59e0b",
+        "gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+        "icon": "🏁",
+        "description": "Formula 1 telemetry, aerodynamic upgrades, Formula E electric racing, and Le Mans hypercars.",
         "feeds": [
-            "https://www.ign.com/rss/articles/feed",
-            "https://www.polygon.com/rss/index.xml",
-            "https://kotaku.com/rss",
-            "https://www.eurogamer.net/feed"
+            "https://the-race.com/feed/",
+            "https://www.autosport.com/rss/f1/news/"
         ],
-        "default_image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=1600&h=900&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1600&h=900&fit=crop"
     },
     "entertainment": {
-        "name": "Streaming & Creator Tech",
+        "name": "Car Culture & Restomods",
         "slug": "entertainment",
         "color": "#ec4899",
         "gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
         "icon": "🎬",
-        "description": "Streaming platforms, YouTube & creator economy, VFX technology, and digital culture.",
+        "description": "V8 restomods, legendary barn finds, cinema car chases, and iconic gearhead culture.",
         "feeds": [
-            "https://variety.com/v/digital/feed/",
-            "https://deadline.com/v/tech/feed/",
-            "https://www.theverge.com/entertainment/rss/index.xml",
-            "https://techcrunch.com/category/media-entertainment/feed/"
+            "https://silodrome.com/feed/",
+            "https://jalopnik.com/rss",
+            "https://www.caranddriver.com/rss/all.xml"
         ],
-        "default_image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1600&h=900&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop"
     }
 }
 
 # Curated High-Definition Story Background Images per category for AMP slide sequencing
 SLIDE_IMAGE_COLLECTIONS = {
-    "trending": [
-        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop"
+    "world": [
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop"
     ],
     "tech": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080&h=1920&fit=crop"
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop"
     ],
     "ai-future": [
-        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=1080&h=1920&fit=crop"
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop"
     ],
     "business": [
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop"
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop"
     ],
-    "world": [
-        "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1080&h=1920&fit=crop"
+    "trending": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop"
     ],
     "sports": [
-        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1080&h=1920&fit=crop"
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop"
     ],
     "entertainment": [
-        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1080&h=1920&fit=crop"
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop"
     ]
 }

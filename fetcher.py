@@ -30,47 +30,47 @@ HEADERS = {
 
 # Curated high-resolution editorial backup images (per category) if an article has no photo
 CATEGORY_CURATED_POOLS = {
-    "trending": [
-        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=900&fit=crop"
+    "world": [
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1600&h=900&fit=crop"
     ],
     "tech": [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1600&h=900&fit=crop"
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop"
     ],
     "ai-future": [
-        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=1600&h=900&fit=crop"
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1600&h=900&fit=crop"
     ],
     "business": [
-        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1600&h=900&fit=crop",
         "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1600&h=900&fit=crop",
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1600&h=900&fit=crop"
     ],
-    "world": [
-        "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?w=1600&h=900&fit=crop"
+    "trending": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop"
     ],
     "sports": [
-        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1600&h=900&fit=crop"
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop"
     ],
     "entertainment": [
-        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1600&h=900&fit=crop"
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop"
     ]
 }
 
@@ -339,6 +339,26 @@ def extract_source_name(entry, feed_url: str) -> str:
         return "TechCrunch"
     if "theverge.com" in domain:
         return "The Verge"
+    if "electrek.co" in domain:
+        return "Electrek"
+    if "cleantechnica.com" in domain:
+        return "CleanTechnica"
+    if "caranddriver.com" in domain:
+        return "Car and Driver"
+    if "carscoops.com" in domain:
+        return "Carscoops"
+    if "jalopnik.com" in domain:
+        return "Jalopnik"
+    if "motor1.com" in domain:
+        return "Motor1"
+    if "insideevs.com" in domain:
+        return "InsideEVs"
+    if "the-race.com" in domain:
+        return "The Race"
+    if "autosport.com" in domain:
+        return "Autosport"
+    if "silodrome.com" in domain:
+        return "Silodrome"
     if "arstechnica.com" in domain:
         return "Ars Technica"
     if "technologyreview.com" in domain:
