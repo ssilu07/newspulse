@@ -144,6 +144,48 @@ def extract_web_meta(url: str, timeout: float = 3.5) -> tuple:
         return "", ""
 
 
+def extract_article_body(url: str, timeout: float = 3.5) -> list:
+    """
+    Scrapes substantive editorial paragraphs from the source news page.
+    Filters out promotional spam, ads, and boilerplate, returning real reporting.
+    """
+    if not url or not url.startswith("http") or "google.com" in url:
+        return []
+    try:
+        req = urllib.request.Request(url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            html = resp.read(250000).decode("utf-8", errors="replace")
+        soup = BeautifulSoup(html, "html.parser")
+        for tag in soup(["script", "style", "noscript", "iframe", "svg", "nav", "header", "footer", "aside"]):
+            tag.extract()
+        container = (
+            soup.find("article")
+            or soup.find("div", class_=re.compile(r"(article-content|entry-content|post-content|article-body|story-content|article__body)", re.I))
+            or soup.find("main")
+            or soup.body
+        )
+        if not container:
+            return []
+        paragraphs = []
+        for p in container.find_all("p"):
+            text = clean_html(str(p))
+            words = text.split()
+            if len(words) < 12:
+                continue
+            lower = text.lower()
+            if any(bad in lower for bad in [
+                "cookie policy", "terms of service", "all rights reserved",
+                "subscribe to", "sign up for", "click here", "follow us on",
+                "affiliate link", "photo by", "image credit", "advertisement",
+                "ticket", "register now", "founder summit", "newsletter", "disrupt doors"
+            ]):
+                continue
+            paragraphs.append(text)
+        return paragraphs[:8]
+    except Exception:
+        return []
+
+
 def upgrade_image_resolution(url: str, category_slug: str = "trending") -> str:
     """
     Transforms news media image URLs to Google-compliant high-resolution (>= 1200px width):
@@ -504,12 +546,16 @@ def fetch_all_categories(
                     if og_img:
                         og_image_candidate = og_img
 
+                # Scrape real article editorial paragraphs from source site
+                article_paragraphs = extract_article_body(link)
+                if article_paragraphs and len(article_paragraphs) >= 2:
+                    raw_summary = " ".join(article_paragraphs[:2])
+                elif not raw_summary or len(raw_summary.strip()) < 10:
+                    raw_summary = f"{raw_title}. Ongoing breaking developments confirmed and reported via {source_name} correspondents."
+
                 # Discard low-substance stubs (Google Spam Policy: Thin Content)
                 if len(raw_summary.split()) < 8 and len(raw_title.split()) < 6:
                     continue
-
-                if not raw_summary or len(raw_summary.strip()) < 10:
-                    raw_summary = f"{raw_title}. Ongoing breaking developments confirmed and reported via {source_name} correspondents."
 
                 # Unique slug generation
                 base_slug = slugify(raw_title)
@@ -545,7 +591,8 @@ def fetch_all_categories(
                     "original_url": link,
                     "published_at": pub_iso,
                     "time_ago": time_ago,
-                    "reading_time": "1 min read"
+                    "reading_time": "2 min read",
+                    "article_paragraphs": article_paragraphs
                 }
 
                 seen_hashes.add(title_hash)

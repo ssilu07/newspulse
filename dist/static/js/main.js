@@ -90,8 +90,9 @@
   function applyFilters() {
     let visibleCount = 0;
     const query = state.searchQuery.toLowerCase().trim();
+    const currentCards = document.querySelectorAll('.news-card');
 
-    cards.forEach(card => {
+    currentCards.forEach(card => {
       const id = card.getAttribute('data-id');
       const cat = card.getAttribute('data-category');
       const title = (card.getAttribute('data-title') || '').toLowerCase();
@@ -347,6 +348,115 @@
     }
   }
 
+  // Clientside Infinite Pagination & Load More
+  let allArticlesCache = null;
+  let currentlyRendered = 36;
+
+  function escapeHtml(str) {
+    if (!str) return '';
+    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function createArticleCardHtml(art) {
+    const artId = escapeHtml(art.id || '');
+    const slug = escapeHtml(art.slug || '');
+    const catSlug = escapeHtml(art.category || 'tech');
+    const catName = escapeHtml(art.category_name || 'News');
+    const catColor = escapeHtml(art.category_color || '#3b82f6');
+    const title = escapeHtml(art.title || '');
+    const summary = escapeHtml(art.summary || '');
+    const source = escapeHtml(art.source || 'News Seconds');
+    const timeAgo = escapeHtml(art.time_ago || 'Recently');
+    const image = escapeHtml(art.image_url || 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&fit=crop');
+    const origUrl = escapeHtml(art.original_url || '#');
+    const bulletsJson = escapeHtml(JSON.stringify(art.bullet_points || []));
+
+    return `
+      <article class="news-card"
+        data-id="${artId}"
+        data-slug="${slug}"
+        data-category="${catSlug}"
+        data-category-name="${catName}"
+        data-category-color="${catColor}"
+        data-title="${title}"
+        data-summary="${summary}"
+        data-bullets="${bulletsJson}"
+        data-source="${source}"
+        data-time-ago="${timeAgo}"
+        data-image="${image}"
+        data-original-url="${origUrl}">
+        <div class="card-media">
+          <a href="/news/${slug}/" class="card-media-link" aria-label="${title}">
+            <img src="${image}" alt="${title}" class="card-img" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&fit=crop';">
+          </a>
+          <span class="card-tag" style="background-color: ${catColor};">${catName}</span>
+          <span class="card-meta-badge">🕒 ${timeAgo}</span>
+        </div>
+        <div class="card-body">
+          <div class="card-source-row">
+            <span class="card-source"><span class="source-dot"></span>${source}</span>
+            <span class="read-badge">1 min read</span>
+          </div>
+          <h3 class="card-title"><a href="/news/${slug}/" class="card-title-link">${title}</a></h3>
+          <p class="card-summary">${summary}</p>
+          <div class="card-actions">
+            <div class="action-btn-group">
+              <a href="/news/${slug}/" class="full-article-link" title="Read Full In-Depth Story">📰 Full Story</a>
+              <a href="/stories/${slug}/" class="web-story-link" title="Open 5-Slide AMP Story">⚡ Web Story</a>
+              <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+            </div>
+            <div class="action-btn-group">
+              <button class="icon-action-btn tts-btn" data-id="${artId}" title="Listen to summary" aria-label="Listen">🔊</button>
+              <button class="icon-action-btn bookmark-btn" data-id="${artId}" title="Save story" aria-label="Bookmark">☆</button>
+              <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+            </div>
+          </div>
+        </div>
+      </article>`;
+  }
+
+  async function loadMoreArticles() {
+    const loadMoreBtn = document.getElementById('loadMoreBtn');
+    const loadMoreWrapper = document.getElementById('loadMoreWrapper');
+    if (!loadMoreBtn) return;
+
+    loadMoreBtn.disabled = true;
+    const btnSpan = loadMoreBtn.querySelector('span');
+    if (btnSpan) btnSpan.textContent = 'Loading stories...';
+
+    try {
+      if (!allArticlesCache) {
+        const resp = await fetch('/api/articles.json');
+        allArticlesCache = await resp.json();
+      }
+      const nextBatch = allArticlesCache.slice(currentlyRendered, currentlyRendered + 24);
+      if (!nextBatch || nextBatch.length === 0) {
+        if (loadMoreWrapper) loadMoreWrapper.style.display = 'none';
+        return;
+      }
+      const frag = document.createDocumentFragment();
+      nextBatch.forEach(art => {
+        const div = document.createElement('div');
+        div.innerHTML = createArticleCardHtml(art);
+        if (div.firstElementChild) frag.appendChild(div.firstElementChild);
+      });
+      if (articlesContainer) {
+        articlesContainer.appendChild(frag);
+      }
+      currentlyRendered += nextBatch.length;
+      updateBookmarkBadges();
+      applyFilters();
+      if (currentlyRendered >= allArticlesCache.length) {
+        if (loadMoreWrapper) loadMoreWrapper.style.display = 'none';
+      }
+    } catch (e) {
+      console.warn('Load more error:', e);
+    } finally {
+      loadMoreBtn.disabled = false;
+      if (btnSpan) btnSpan.textContent = 'Load More Breaking Tech Stories';
+    }
+  }
+
   // Event Listeners Setup
   function setupEventListeners() {
     // Search input (supports instant search on home, Enter key on article/compliance pages)
@@ -417,6 +527,12 @@
     window.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') closeQuickRead();
     });
+
+    // Load More Stories Button
+    const loadMoreBtn = document.getElementById('loadMoreBtn');
+    if (loadMoreBtn) {
+      loadMoreBtn.addEventListener('click', loadMoreArticles);
+    }
 
     // Card delegation (Quick read, bookmark, TTS, share)
     if (articlesContainer) {
