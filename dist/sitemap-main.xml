@@ -3,39 +3,139 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-24T10:19:37Z</lastmod>
+    <lastmod>2026-10-24T13:28:22Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-24T10:19:37Z</lastmod>
+    <lastmod>2026-10-24T13:28:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-24T10:19:37Z</lastmod>
+    <lastmod>2026-10-24T13:28:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-24T10:19:37Z</lastmod>
+    <lastmod>2026-10-24T13:28:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-24T10:19:37Z</lastmod>
+    <lastmod>2026-10-24T13:28:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-24T10:19:37Z</lastmod>
+    <lastmod>2026-10-24T13:28:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedeschina/</loc>
+    <lastmod>2026-10-24T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2023/09/P1021888.jpg?quality=82&amp;strip=all&amp;w=1333</image:loc>
+      <image:title>NHTSA proposes cyan lights for robotaxis, following Mercedes/China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedeschina/</loc>
+    <lastmod>2026-10-24T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2023/09/P1021888.jpg?quality=82&amp;strip=all&amp;w=1333</image:loc>
+      <image:title>NHTSA proposes cyan lights for robotaxis, following Mercedes/China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lee-chang-dong-ponders-the-ethics-of-the-camera/</loc>
+    <lastmod>2026-10-24T12:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Possible-Love_NYFF64_03.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Lee Chang Dong ponders the ethics of the camera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lee-chang-dong-ponders-the-ethics-of-the-camera/</loc>
+    <lastmod>2026-10-24T12:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Possible-Love_NYFF64_03.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Lee Chang Dong ponders the ethics of the camera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/laika-has-spent-20-years-building-up-to-wildwood/</loc>
+    <lastmod>2026-10-24T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/09450646-b085-11f1-90b9-46f10a3e57b0_3600.1360.cmp_.def_.out_.002._L.0059.UNAPPROVED.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Laika has spent 20 years building up to Wildwood</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/laika-has-spent-20-years-building-up-to-wildwood/</loc>
+    <lastmod>2026-10-24T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/09450646-b085-11f1-90b9-46f10a3e57b0_3600.1360.cmp_.def_.out_.002._L.0059.UNAPPROVED.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>Laika has spent 20 years building up to Wildwood</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/12-anime-worth-watching-this-fall/</loc>
+    <lastmod>2026-10-24T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/22/newanimefall26-oo-1792630117402.jpg</image:loc>
+      <image:title>12 Anime Worth Watching This Fall</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/12-anime-worth-watching-this-fall/</loc>
+    <lastmod>2026-10-24T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/10/22/newanimefall26-oo-1792630117402.jpg</image:loc>
+      <image:title>12 Anime Worth Watching This Fall</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/</loc>
+    <lastmod>2026-10-24T11:59:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/eg0_MAIN.png?w=1600</image:loc>
+      <image:title>EGO Commercial expands ZTR line with mowers, blowers, and trimmers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/</loc>
+    <lastmod>2026-10-24T11:59:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/eg0_MAIN.png?w=1600</image:loc>
+      <image:title>EGO Commercial expands ZTR line with mowers, blowers, and trimmers</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/xboxs-first-ever-chief-operating-officer-leaves-role-just-three-m/</loc>
@@ -75,6 +175,26 @@
     <image:image>
       <image:loc>https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg</image:loc>
       <image:title>Indie Game Dev Takes Down Vibe-Coded Zombie Shooter After San Francisco Officials Condemn &#x27;Dehumanizing&#x27; Game</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/zendaya-sets-best-actress-oscar-campaign-for-dune-part-3/</loc>
+    <lastmod>2026-10-23T22:18:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/07/09/dune-part-three-chani-blogroll-1783601483934.jpg</image:loc>
+      <image:title>Zendaya Sets Best Actress Oscar Campaign for Dune: Part 3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/zendaya-sets-best-actress-oscar-campaign-for-dune-part-3/</loc>
+    <lastmod>2026-10-23T22:18:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://assets-prd.ignimgs.com/2026/07/09/dune-part-three-chani-blogroll-1783601483934.jpg</image:loc>
+      <image:title>Zendaya Sets Best Actress Oscar Campaign for Dune: Part 3</image:title>
     </image:image>
   </url>
   <url>
@@ -338,6 +458,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/what-some-of-anthropics-backers-are-worth-before-its-ipo/</loc>
+    <lastmod>2026-10-23T16:02:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1600,1067</image:loc>
+      <image:title>What some of Anthropic’s backers are worth before its IPO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-some-of-anthropics-backers-are-worth-before-its-ipo/</loc>
+    <lastmod>2026-10-23T16:02:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1600,1067</image:loc>
+      <image:title>What some of Anthropic’s backers are worth before its IPO</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/volvo-is-launching-a-lower-priced-ev-in-2027-based-on-its-spa3-pl/</loc>
     <lastmod>2026-10-23T15:52:09+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -395,6 +535,26 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1600,1067</image:loc>
       <image:title>VCs, Superhuman Mail founder share red flags about product-market fit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lab-testing-giant-quest-diagnostics-confirms-patients-personal-an/</loc>
+    <lastmod>2026-10-23T15:00:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1600,1067</image:loc>
+      <image:title>Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lab-testing-giant-quest-diagnostics-confirms-patients-personal-an/</loc>
+    <lastmod>2026-10-23T15:00:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1600,1067</image:loc>
+      <image:title>Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach</image:title>
     </image:image>
   </url>
   <url>
@@ -558,6 +718,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/left-alone-with-nothing-to-do-ai-agents-started-playing/</loc>
+    <lastmod>2026-10-23T00:45:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1600,1067</image:loc>
+      <image:title>Left alone with nothing to do, AI agents started playing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/left-alone-with-nothing-to-do-ai-agents-started-playing/</loc>
+    <lastmod>2026-10-23T00:45:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1600,1067</image:loc>
+      <image:title>Left alone with nothing to do, AI agents started playing</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with-andur/</loc>
     <lastmod>2026-10-22T23:15:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -595,6 +775,106 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1600,1067</image:loc>
       <image:title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-t/</loc>
+    <lastmod>2026-10-22T20:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55593304916_918c404f7a_o.jpg?resize=1600,1067</image:loc>
+      <image:title>The secret to fast startup growth isn’t early sales, top names in tech say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-t/</loc>
+    <lastmod>2026-10-22T20:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/55593304916_918c404f7a_o.jpg?resize=1600,1067</image:loc>
+      <image:title>The secret to fast startup growth isn’t early sales, top names in tech say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-w/</loc>
+    <lastmod>2026-10-22T19:07:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1600,1067</image:loc>
+      <image:title>1Password launches a way for AI agents to log in on your behalf without seeing your password</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-w/</loc>
+    <lastmod>2026-10-22T19:07:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1600,1067</image:loc>
+      <image:title>1Password launches a way for AI agents to log in on your behalf without seeing your password</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/former-openai-science-lead-launches-warp-science-to-automate-wet-/</loc>
+    <lastmod>2026-10-22T18:38:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1600</image:loc>
+      <image:title>Former OpenAI science lead launches Warp Science to automate wet labs with robots</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/former-openai-science-lead-launches-warp-science-to-automate-wet-/</loc>
+    <lastmod>2026-10-22T18:38:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1600</image:loc>
+      <image:title>Former OpenAI science lead launches Warp Science to automate wet labs with robots</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/dispatch-developer-sets-live-concert-event-to-celebrate-hit-indie/</loc>
+    <lastmod>2026-10-22T15:25:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Dispatch.png</image:loc>
+      <image:title>‘Dispatch’ Developer Sets Live Concert Event to Celebrate Hit Indie Game’s One-Year Anniversary, With 5 Million Players (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/dispatch-developer-sets-live-concert-event-to-celebrate-hit-indie/</loc>
+    <lastmod>2026-10-22T15:25:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Dispatch.png</image:loc>
+      <image:title>‘Dispatch’ Developer Sets Live Concert Event to Celebrate Hit Indie Game’s One-Year Anniversary, With 5 Million Players (EXCLUSIVE)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trump-says-google-ceo-rejected-his-request-to-rename-atlantic-oce/</loc>
+    <lastmod>2026-10-22T15:23:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Donald-Trump-1.jpg</image:loc>
+      <image:title>Trump Says Google CEO Rejected His Request to Rename Atlantic Ocean on Google Maps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-says-google-ceo-rejected-his-request-to-rename-atlantic-oce/</loc>
+    <lastmod>2026-10-22T15:23:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://variety.com/wp-content/uploads/2026/10/Donald-Trump-1.jpg</image:loc>
+      <image:title>Trump Says Google CEO Rejected His Request to Rename Atlantic Ocean on Google Maps</image:title>
     </image:image>
   </url>
   <url>
