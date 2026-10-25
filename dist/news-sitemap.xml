@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/police-pull-over-two-men-riding-an-electric-couch-down-the-street/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T05:47:56+00:00</news:publication_date>
+      <news:title>Police pull over two men riding an electric couch down the street</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/limecouchlead-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Police pull over two men riding an electric couch down the street</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/motogps-final-phillip-island-race-cancelled-replaced-with-parade-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T04:48:17+00:00</news:publication_date>
+      <news:title>MotoGP&#x27;s final Phillip Island race cancelled, replaced with parade lap</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357382_HiRes.jpg</image:loc>
+      <image:title>MotoGP&#x27;s final Phillip Island race cancelled, replaced with parade lap</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-michigan-state-police-recently-took-police-cars-to-a-track-to/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T03:25:00+00:00</news:publication_date>
+      <news:title>The Michigan State Police Recently Took Police Cars To A Track To See Which Was Fastest</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-michigan-state-police-recently-took-police-cars-to-a-track-to-see-which-was-fastest/l-intro-1792091854.jpg</image:loc>
+      <image:title>The Michigan State Police Recently Took Police Cars To A Track To See Which Was Fastest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/retro-home-on-wheels-a-1971-ford-econoline-shasta-motorhome/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T02:30:52+00:00</news:publication_date>
+      <news:title>Retro Home-On-Wheels: A 1971 Ford Econoline “Shasta Motorhome”</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Ford-Econoline-Shasta-Motorhome-Camper.jpg</image:loc>
+      <image:title>Retro Home-On-Wheels: A 1971 Ford Econoline “Shasta Motorhome”</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-verstappen-lost-pole-to-antonelli-and-nearly-got-beaten-by-ha/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T02:07:25+00:00</news:publication_date>
+      <news:title>How Verstappen lost pole to Antonelli</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447116_HiRes.jpg</image:loc>
+      <image:title>How Verstappen lost pole to Antonelli</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-pickup-trucks-are-traditionally-chosen-over-suvs-for-big-towi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T01:25:00+00:00</news:publication_date>
+      <news:title>Why Pickup Trucks Are Traditionally Chosen Over SUVs For Big Towing Jobs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-pickup-trucks-are-traditionally-chosen-over-suvs-for-big-towing-jobs/l-intro-1792405976.jpg</image:loc>
+      <image:title>Why Pickup Trucks Are Traditionally Chosen Over SUVs For Big Towing Jobs</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/f1-2026-united-states-grand-prix-starting-grid-with-three-penalti/</loc>
     <news:news>
       <news:publication>
@@ -15,6 +105,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447054_HiRes-1.jpg</image:loc>
       <image:title>F1 2026 United States Grand Prix starting grid with three penalties</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/public-beaches-in-texas-are-also-highways-and-you-can-actually-dr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T23:50:00+00:00</news:publication_date>
+      <news:title>Public Beaches In Texas Are Also Highways, And You Can Actually Drive On Them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/public-beaches-in-texas-are-also-highways-and-you-can-actually-drive-on-them/l-intro-1792520901.jpg</image:loc>
+      <image:title>Public Beaches In Texas Are Also Highways, And You Can Actually Drive On Them</image:title>
     </image:image>
   </url>
   <url>
@@ -243,6 +348,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/trumps-war-on-iran-has-broken-the-oil-market/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T14:21:46+00:00</news:publication_date>
+      <news:title>Trump’s War on Iran Has Broken the Oil Market</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-13-2026-07_11_07-AM.png</image:loc>
+      <image:title>Trump’s War on Iran Has Broken the Oil Market</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/hamilton-leads-final-practice-after-leclerc-lap-deletion/</loc>
     <news:news>
       <news:publication>
@@ -453,6 +573,66 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/logitech-launches-chain-reaction-to-accelerate-supply-chain-decar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T03:55:00+00:00</news:publication_date>
+      <news:title>Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/logitech-logo.jpeg</image:loc>
+      <image:title>Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/waymo-now-arriving-at-harry-reid-international-airport/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T03:50:26+00:00</news:publication_date>
+      <news:title>Waymo — Now Arriving At Harry Reid International Airport</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-Las-Vegas-copy.jpeg</image:loc>
+      <image:title>Waymo — Now Arriving At Harry Reid International Airport</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/us-tech-leaders-are-urgently-calling-for-rules-on-ai-china-alread/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T02:44:58+00:00</news:publication_date>
+      <news:title>US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/08-1.png</image:loc>
+      <image:title>US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/is-a-phev-diesel-hybrid-a-viable-option-introducing-the-chery-sto/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T02:18:28+00:00</news:publication_date>
+      <news:title>Is A PHEV Diesel Hybrid A Viable Option? Introducing the Chery Stockman</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/diesel-PHEV-ute.jpg</image:loc>
+      <image:title>Is A PHEV Diesel Hybrid A Viable Option? Introducing the Chery Stockman</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-bmw-7-series/</loc>
     <news:news>
       <news:publication>
@@ -465,6 +645,36 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/613bcfb2-ea98-42a8-a3ac-e44663b1bed0.jpg?crop=1xw:0.75xh;0xw,0.204xh&amp;resize=1200:*</image:loc>
       <image:title>View Interior Photos of the 2027 BMW 7-Series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-bmw-7-series/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:36:58+00:00</news:publication_date>
+      <news:title>View Exterior Photos of the 2027 BMW 7-Series</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6eb78657-98a8-4f16-b22d-e32d3b51a341.jpg?crop=0.958xw:0.719xh;0xw,0.155xh&amp;resize=1200:*</image:loc>
+      <image:title>View Exterior Photos of the 2027 BMW 7-Series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-2027-bmw-7-series-embraces-luxurious-maximalism/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:36:54+00:00</news:publication_date>
+      <news:title>The 2027 BMW 7-Series Embraces Luxurious Maximalism</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/845ae470-48ee-4b27-859e-fb5d0b522ddc.jpg</image:loc>
+      <image:title>The 2027 BMW 7-Series Embraces Luxurious Maximalism</image:title>
     </image:image>
   </url>
   <url>
@@ -780,21 +990,6 @@
     <image:image>
       <image:loc>https://variety.com/wp-content/uploads/2026/10/Zhaslan-Madiyev-Kazakhstans-Deputy-Prime-Minister-and-Minister-of-AI-and-Digital-Development.jpg</image:loc>
       <image:title>AI Giant Nvidia Invests in Entertainment Startup Higgsfield</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/retro-australian-icon-a-1983-holden-commodore-in-time-warp-condit/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T07:00:41+00:00</news:publication_date>
-      <news:title>Retro Australian Icon: A 1983 Holden Commodore In Time Warp Condition</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Holden-Commodore-VH-Car-7.jpg</image:loc>
-      <image:title>Retro Australian Icon: A 1983 Holden Commodore In Time Warp Condition</image:title>
     </image:image>
   </url>
 </urlset>
