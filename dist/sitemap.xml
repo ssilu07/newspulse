@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-25T10:46:34Z</lastmod>
+    <lastmod>2026-10-25T13:49:43Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-25T10:46:34Z</lastmod>
+    <lastmod>2026-10-25T13:49:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-25T10:46:34Z</lastmod>
+    <lastmod>2026-10-25T13:49:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-25T10:46:34Z</lastmod>
+    <lastmod>2026-10-25T13:49:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-25T10:46:34Z</lastmod>
+    <lastmod>2026-10-25T13:49:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-25T10:46:34Z</lastmod>
+    <lastmod>2026-10-25T13:49:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truc/</loc>
+    <lastmod>2026-10-25T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truck-ownership/l-intro-1788960658.jpg</image:loc>
+      <image:title>How A Slick Ford Maverick Lobo Taught Me The True Meaning Of Truck Ownership</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truc/</loc>
+    <lastmod>2026-10-25T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truck-ownership/l-intro-1788960658.jpg</image:loc>
+      <image:title>How A Slick Ford Maverick Lobo Taught Me The True Meaning Of Truck Ownership</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-patents-idea-that-lets-parked-cars-autonomously-flee-danger/</loc>
+    <lastmod>2026-10-25T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5e917a99-00ef-430f-b0a3-79fc0207cbb1.png</image:loc>
+      <image:title>Ford Patents Idea That Lets Parked Cars Autonomously Flee Danger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ford-patents-idea-that-lets-parked-cars-autonomously-flee-danger/</loc>
+    <lastmod>2026-10-25T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5e917a99-00ef-430f-b0a3-79fc0207cbb1.png</image:loc>
+      <image:title>Ford Patents Idea That Lets Parked Cars Autonomously Flee Danger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/8-classic-coupes-that-look-sick-with-window-louvers/</loc>
+    <lastmod>2026-10-25T12:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/8-classic-coupes-that-look-sick-with-window-louvers/l-intro-1792769765.jpg</image:loc>
+      <image:title>8 Classic Coupes That Look Sick With Window Louvers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/8-classic-coupes-that-look-sick-with-window-louvers/</loc>
+    <lastmod>2026-10-25T12:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/8-classic-coupes-that-look-sick-with-window-louvers/l-intro-1792769765.jpg</image:loc>
+      <image:title>8 Classic Coupes That Look Sick With Window Louvers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/australias-answer-to-the-mustang-the-holden-monaro-gts/</loc>
+    <lastmod>2026-10-25T12:30:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Holden-Monaro-GTS.jpg</image:loc>
+      <image:title>Australia’s Answer To The Mustang: The Holden Monaro GTS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/australias-answer-to-the-mustang-the-holden-monaro-gts/</loc>
+    <lastmod>2026-10-25T12:30:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Holden-Monaro-GTS.jpg</image:loc>
+      <image:title>Australia’s Answer To The Mustang: The Holden Monaro GTS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/</loc>
+    <lastmod>2026-10-25T12:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/l-intro-1792089238.jpg</image:loc>
+      <image:title>Here Are Five Cheaper Alternatives To Driving A Big Diesel Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/</loc>
+    <lastmod>2026-10-25T12:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/l-intro-1792089238.jpg</image:loc>
+      <image:title>Here Are Five Cheaper Alternatives To Driving A Big Diesel Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-the-numbers-and-w-on-engine-oil-mean/</loc>
+    <lastmod>2026-10-25T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/what-the-numbers-and-w-on-engine-oil-mean/l-intro-1792695085.jpg</image:loc>
+      <image:title>What The Numbers And &quot;W&quot; On Engine Oil Mean</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-the-numbers-and-w-on-engine-oil-mean/</loc>
+    <lastmod>2026-10-25T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/what-the-numbers-and-w-on-engine-oil-mean/l-intro-1792695085.jpg</image:loc>
+      <image:title>What The Numbers And &quot;W&quot; On Engine Oil Mean</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-f1-2026-team-mates-are-comparing-in-qualifying/</loc>
+    <lastmod>2026-10-25T10:49:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/03/SI202603050143.jpg</image:loc>
+      <image:title>How F1 2026 team-mates are comparing in qualifying</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-f1-2026-team-mates-are-comparing-in-qualifying/</loc>
+    <lastmod>2026-10-25T10:49:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/03/SI202603050143.jpg</image:loc>
+      <image:title>How F1 2026 team-mates are comparing in qualifying</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/rivian-and-volvo-make-the-only-large-suvs-to-get-iihs-top-safety-/</loc>
@@ -338,6 +478,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/antonelli-on-us-gp-pole-as-ferrari-challenge-falls-apart/</loc>
+    <lastmod>2026-10-24T22:25:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447003_HiRes.jpg</image:loc>
+      <image:title>Antonelli on US GP pole as Ferrari challenge falls apart</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/antonelli-on-us-gp-pole-as-ferrari-challenge-falls-apart/</loc>
+    <lastmod>2026-10-24T22:25:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447003_HiRes.jpg</image:loc>
+      <image:title>Antonelli on US GP pole as Ferrari challenge falls apart</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/6-wd-40-myths-gearheads-need-to-stop-believing/</loc>
     <lastmod>2026-10-24T22:25:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -415,6 +575,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/9-classic-plymouth-models-and-what-theyre-worth-today/l-intro-1792506765.jpg</image:loc>
       <image:title>9 Classic Plymouth Models And What They&#x27;re Worth Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-subaru-models-are-built-in-america-not-japan/</loc>
+    <lastmod>2026-10-24T20:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/these-subaru-models-are-built-in-america-not-japan/l-intro-1792438469.jpg</image:loc>
+      <image:title>These Subaru Models Are Built In America, Not Japan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-subaru-models-are-built-in-america-not-japan/</loc>
+    <lastmod>2026-10-24T20:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/these-subaru-models-are-built-in-america-not-japan/l-intro-1792438469.jpg</image:loc>
+      <image:title>These Subaru Models Are Built In America, Not Japan</image:title>
     </image:image>
   </url>
   <url>
@@ -1138,6 +1318,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/bstrongwillow-springs-raceway-shares-progress-at-the-two-year-mar/</loc>
+    <lastmod>2026-10-23T19:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cadc76b9-383e-4d71-80ee-2ff6504f34cb.jpg</image:loc>
+      <image:title>&lt;b&gt;&lt;strong&gt;Willow Springs Raceway Shares Progress at the Two-Year Mark&lt;/strong&gt;&lt;/b&gt;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bstrongwillow-springs-raceway-shares-progress-at-the-two-year-mar/</loc>
+    <lastmod>2026-10-23T19:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cadc76b9-383e-4d71-80ee-2ff6504f34cb.jpg</image:loc>
+      <image:title>&lt;b&gt;&lt;strong&gt;Willow Springs Raceway Shares Progress at the Two-Year Mark&lt;/strong&gt;&lt;/b&gt;</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/aaron-paul-makes-surprise-cameo-in-dcs-clayface/</loc>
     <lastmod>2026-10-23T18:56:26+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1355,6 +1555,26 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
       <image:title>Xbox’s first chief operating officer is out after just a few months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/xpeng-l03-with-vla-20-smoothly-takes-on-paris-roads/</loc>
+    <lastmod>2026-10-23T15:58:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/PXL_20261010_093457679-scaled.jpg</image:loc>
+      <image:title>XPENG L03 With VLA 2.0 Smoothly Takes On Paris Roads</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/xpeng-l03-with-vla-20-smoothly-takes-on-paris-roads/</loc>
+    <lastmod>2026-10-23T15:58:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/PXL_20261010_093457679-scaled.jpg</image:loc>
+      <image:title>XPENG L03 With VLA 2.0 Smoothly Takes On Paris Roads</image:title>
     </image:image>
   </url>
   <url>

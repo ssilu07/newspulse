@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:05:00+00:00</news:publication_date>
+      <news:title>How A Slick Ford Maverick Lobo Taught Me The True Meaning Of Truck Ownership</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truck-ownership/l-intro-1788960658.jpg</image:loc>
+      <image:title>How A Slick Ford Maverick Lobo Taught Me The True Meaning Of Truck Ownership</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-patents-idea-that-lets-parked-cars-autonomously-flee-danger/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:00:00+00:00</news:publication_date>
+      <news:title>Ford Patents Idea That Lets Parked Cars Autonomously Flee Danger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5e917a99-00ef-430f-b0a3-79fc0207cbb1.png</image:loc>
+      <image:title>Ford Patents Idea That Lets Parked Cars Autonomously Flee Danger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/8-classic-coupes-that-look-sick-with-window-louvers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:45:00+00:00</news:publication_date>
+      <news:title>8 Classic Coupes That Look Sick With Window Louvers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/8-classic-coupes-that-look-sick-with-window-louvers/l-intro-1792769765.jpg</image:loc>
+      <image:title>8 Classic Coupes That Look Sick With Window Louvers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/australias-answer-to-the-mustang-the-holden-monaro-gts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:30:48+00:00</news:publication_date>
+      <news:title>Australia’s Answer To The Mustang: The Holden Monaro GTS</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Holden-Monaro-GTS.jpg</image:loc>
+      <image:title>Australia’s Answer To The Mustang: The Holden Monaro GTS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:25:00+00:00</news:publication_date>
+      <news:title>Here Are Five Cheaper Alternatives To Driving A Big Diesel Truck</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/l-intro-1792089238.jpg</image:loc>
+      <image:title>Here Are Five Cheaper Alternatives To Driving A Big Diesel Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-the-numbers-and-w-on-engine-oil-mean/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:00:00+00:00</news:publication_date>
+      <news:title>What The Numbers And &quot;W&quot; On Engine Oil Mean</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/what-the-numbers-and-w-on-engine-oil-mean/l-intro-1792695085.jpg</image:loc>
+      <image:title>What The Numbers And &quot;W&quot; On Engine Oil Mean</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-f1-2026-team-mates-are-comparing-in-qualifying/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T10:49:00+00:00</news:publication_date>
+      <news:title>How F1 2026 team-mates are comparing in qualifying</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/03/SI202603050143.jpg</image:loc>
+      <image:title>How F1 2026 team-mates are comparing in qualifying</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/rivian-and-volvo-make-the-only-large-suvs-to-get-iihs-top-safety-/</loc>
     <news:news>
       <news:publication>
@@ -228,6 +333,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/antonelli-on-us-gp-pole-as-ferrari-challenge-falls-apart/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T22:25:41+00:00</news:publication_date>
+      <news:title>Antonelli on US GP pole as Ferrari challenge falls apart</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447003_HiRes.jpg</image:loc>
+      <image:title>Antonelli on US GP pole as Ferrari challenge falls apart</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/6-wd-40-myths-gearheads-need-to-stop-believing/</loc>
     <news:news>
       <news:publication>
@@ -285,6 +405,21 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/9-classic-plymouth-models-and-what-theyre-worth-today/l-intro-1792506765.jpg</image:loc>
       <image:title>9 Classic Plymouth Models And What They&#x27;re Worth Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-subaru-models-are-built-in-america-not-japan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T20:00:00+00:00</news:publication_date>
+      <news:title>These Subaru Models Are Built In America, Not Japan</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/these-subaru-models-are-built-in-america-not-japan/l-intro-1792438469.jpg</image:loc>
+      <image:title>These Subaru Models Are Built In America, Not Japan</image:title>
     </image:image>
   </url>
   <url>
@@ -828,6 +963,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/bstrongwillow-springs-raceway-shares-progress-at-the-two-year-mar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T19:15:00+00:00</news:publication_date>
+      <news:title>&lt;b&gt;&lt;strong&gt;Willow Springs Raceway Shares Progress at the Two-Year Mark&lt;/strong&gt;&lt;/b&gt;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cadc76b9-383e-4d71-80ee-2ff6504f34cb.jpg</image:loc>
+      <image:title>&lt;b&gt;&lt;strong&gt;Willow Springs Raceway Shares Progress at the Two-Year Mark&lt;/strong&gt;&lt;/b&gt;</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/aaron-paul-makes-surprise-cameo-in-dcs-clayface/</loc>
     <news:news>
       <news:publication>
@@ -993,6 +1143,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/xpeng-l03-with-vla-20-smoothly-takes-on-paris-roads/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T15:58:41+00:00</news:publication_date>
+      <news:title>XPENG L03 With VLA 2.0 Smoothly Takes On Paris Roads</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/PXL_20261010_093457679-scaled.jpg</image:loc>
+      <image:title>XPENG L03 With VLA 2.0 Smoothly Takes On Paris Roads</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/volvo-is-launching-a-lower-priced-ev-in-2027-based-on-its-spa3-pl/</loc>
     <news:news>
       <news:publication>
@@ -1110,81 +1275,6 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1600,1067</image:loc>
       <image:title>Carta and NewView partner, hoping to entice more startups to let employees sell shares early</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/yozma-in-11-review-the-og-mini-e-moto-gets-updates-galore/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T12:39:08+00:00</news:publication_date>
-      <news:title>Yozma IN 11 review: The OG mini e-moto gets updates galore</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/image.png?w=1333</image:loc>
-      <image:title>Yozma IN 11 review: The OG mini e-moto gets updates galore</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-rolls-royce-like-flagship-ev-is-heading-overseas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T12:11:33+00:00</news:publication_date>
-      <news:title>BYD’s Rolls-Royce-like flagship EV is heading overseas</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Rolls-Royce-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD’s Rolls-Royce-like flagship EV is heading overseas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rivian-buys-startup-to-turn-400000-daily-clips-into-3d-sims/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:26:23+00:00</news:publication_date>
-      <news:title>Rivian buys startup to turn 400,000 daily clips into 3D sims</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/Uber-Rivian-robotaxi.jpg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Rivian buys startup to turn 400,000 daily clips into 3D sims</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/overhead-wired-charging-comes-to-austin-electric-bus-fleet/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:05:00+00:00</news:publication_date>
-      <news:title>Overhead wired charging comes to Austin electric bus fleet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/capital-projects-rapid.png?w=1600</image:loc>
-      <image:title>Overhead wired charging comes to Austin electric bus fleet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ti-wests-new-short-remnants-is-the-first-fully-immersive-apple-ho/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:00:00+00:00</news:publication_date>
-      <news:title>Ti West’s New Short ‘Remnants’ Is the First Fully Immersive Apple Horror Film. What Does It Say About the Future of Movies?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://variety.com/wp-content/uploads/2026/10/Remnants_PR_1.png</image:loc>
-      <image:title>Ti West’s New Short ‘Remnants’ Is the First Fully Immersive Apple Horror Film. What Does It Say About the Future of Movies?</image:title>
     </image:image>
   </url>
 </urlset>
