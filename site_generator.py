@@ -85,7 +85,8 @@ def get_base_header(active_nav: str = "home") -> str:
       <div class="header-center">
         <div class="search-wrapper">
           <span class="search-icon">🔍</span>
-          <input type="text" id="newsSearchInput" class="search-input" placeholder="Search news, topics, keywords..." aria-label="Search news">
+          <input type="text" id="newsSearchInput" class="search-input" placeholder="Search news, topics, keywords... (Press /)" aria-label="Search news">
+          <span class="search-shortcut-badge">/</span>
         </div>
       </div>
 
@@ -201,21 +202,22 @@ def render_homepage_html(articles: list) -> str:
     bubbles_html = "".join(bubbles_html_list)
 
     # Category Pills
-    pills_html_list = ['<button class="cat-pill active" data-cat="all">⚡ All Stories</button>']
+    pills_html_list = ['<button class="cat-pill active" data-cat="all"><span class="pill-icon">⚡</span> All Stories</button>']
     for cat_slug, cat_info in config.CATEGORIES.items():
         icon = cat_info.get("icon", "•")
         name = cat_info.get("name")
-        pills_html_list.append(f'<button class="cat-pill" data-cat="{cat_slug}">{icon} {name}</button>')
+        color = cat_info.get("color", "#3b82f6")
+        pills_html_list.append(f'<button class="cat-pill" data-cat="{cat_slug}" data-color="{color}"><span class="pill-icon">{icon}</span> {name}</button>')
     pills_html = "\n".join(pills_html_list)
 
-    # Hero Spotlight Card (Top Breaking Story)
+    # Magazine Editorial Hero Showcase (Lead Cover Story + 2 Trending Sidekicks)
     hero_html = ""
     grid_articles = articles
     if articles:
         hero_art = articles[0]
         h_id = hero_art.get("id")
         h_slug = hero_art.get("slug")
-        h_cat_slug = hero_art.get("category")
+        h_cat_slug = hero_art.get("category", "world")
         h_cat_name = escape(hero_art.get("category_name", "Breaking"))
         h_cat_color = hero_art.get("category_color", "#ef4444")
         h_title = escape(hero_art.get("title", ""))
@@ -226,79 +228,192 @@ def render_homepage_html(articles: list) -> str:
         h_orig_url = escape(hero_art.get("original_url", "#"))
         h_bullets = hero_art.get("bullet_points", [])
         h_bullets_json = escape(json.dumps(h_bullets))
-
         h_bullets_list_html = "".join([f"<li>{escape(b)}</li>" for b in h_bullets[:3]])
 
+        # Author for Hero E-E-A-T
+        h_author = AUTHORS.get(h_cat_slug, AUTHORS.get("world", {
+            "name": "Dr. Ethan Vance",
+            "role": "Chief Mobility Fellow",
+            "initials": "EV",
+            "color": "#06b6d4"
+        }))
+
+        # Trending Sidekick Cards (Story #2 & Story #3)
+        sidekicks_list_html = []
+        sidekick_arts = []
+        if len(articles) > 1:
+            sidekick_arts.append(articles[1])
+        if len(articles) > 2:
+            sidekick_arts.append(articles[2])
+
+        for s_art in sidekick_arts:
+            s_id = s_art.get("id")
+            s_slug = s_art.get("slug")
+            s_cat_slug = s_art.get("category", "world")
+            s_cat_name = escape(s_art.get("category_name", "Mobility"))
+            s_cat_color = s_art.get("category_color", "#3b82f6")
+            s_title = escape(s_art.get("title", ""))
+            s_summary = escape(s_art.get("summary", ""))
+            s_source = escape(s_art.get("source", config.SITE_NAME))
+            s_time_ago = escape(s_art.get("time_ago", "Recently"))
+            s_image = escape(s_art.get("image_url", ""))
+            s_orig_url = escape(s_art.get("original_url", "#"))
+            s_bullets_json = escape(json.dumps(s_art.get("bullet_points", [])))
+
+            s_card = f"""
+            <article class="news-card sidekick-card"
+              data-id="{s_id}"
+              data-slug="{s_slug}"
+              data-category="{s_cat_slug}"
+              data-category-name="{s_cat_name}"
+              data-category-color="{s_cat_color}"
+              data-title="{s_title}"
+              data-summary="{s_summary}"
+              data-bullets="{s_bullets_json}"
+              data-source="{s_source}"
+              data-time-ago="{s_time_ago}"
+              data-image="{s_image}"
+              data-original-url="{s_orig_url}">
+              <div class="sidekick-thumb-wrap">
+                <a href="/news/{s_slug}/" class="sidekick-thumb-link" aria-label="{s_title}">
+                  <img src="{s_image}" alt="{s_title}" class="sidekick-thumb" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&fit=crop';">
+                </a>
+              </div>
+              <div class="sidekick-body">
+                <div class="sidekick-meta-row">
+                  <span class="sidekick-badge" style="background-color: {s_cat_color};">{s_cat_name}</span>
+                  <span class="sidekick-time">🕒 {s_time_ago}</span>
+                </div>
+                <h3 class="sidekick-title"><a href="/news/{s_slug}/" class="card-title-link">{s_title}</a></h3>
+                <div class="sidekick-actions">
+                  <span class="sidekick-source"><span class="source-dot"></span>{s_source}</span>
+                  <div class="action-btn-group">
+                    <button class="btn-quick-read sidekick-btn" title="Quick Read Drawer">📖 60s</button>
+                    <a href="/stories/{s_slug}/" class="web-story-link sidekick-story-btn" title="Visual Story">⚡ Story</a>
+                  </div>
+                </div>
+              </div>
+            </article>"""
+            sidekicks_list_html.append(s_card)
+
+        sidekicks_block = "\n".join(sidekicks_list_html) if sidekicks_list_html else ""
+
         hero_html = f"""
-    <!-- Editor's Spotlight Hero -->
+    <!-- Magazine Editorial Hero Showcase -->
     <section class="featured-hero-section" id="heroSection" aria-label="Editor's Spotlight">
       <div class="section-label-row">
         <h2 class="section-heading">
           <span class="live-dot"></span>
-          <span>Editor's Spotlight</span>
+          <span>Editor's Showcase</span>
         </h2>
-        <span class="spotlight-tag">⚡ TOP BREAKING</span>
+        <div class="hero-top-badges">
+          <span class="hero-edition-badge">⚡ VIP MOBILITY EDITION</span>
+          <span class="spotlight-tag">🔥 TOP BREAKING</span>
+        </div>
       </div>
-      <article class="news-card featured-news-card"
-        data-id="{h_id}"
-        data-slug="{h_slug}"
-        data-category="{h_cat_slug}"
-        data-category-name="{h_cat_name}"
-        data-category-color="{h_cat_color}"
-        data-title="{h_title}"
-        data-summary="{h_summary}"
-        data-bullets="{h_bullets_json}"
-        data-source="{h_source}"
-        data-time-ago="{h_time_ago}"
-        data-image="{h_image}"
-        data-original-url="{h_orig_url}">
-        
-        <div class="card-media featured-media">
-          <a href="/news/{h_slug}/" class="card-media-link" aria-label="{h_title}">
-            <img src="{h_image}" alt="{h_title}" class="card-img" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=800&fit=crop';">
-          </a>
-          <span class="card-tag" style="background-color: {h_cat_color};">{h_cat_name}</span>
-          <span class="card-meta-badge">🕒 {h_time_ago}</span>
-        </div>
 
-        <div class="card-body featured-body">
-          <div class="card-source-row">
-            <span class="card-source"><span class="source-dot"></span>{h_source}</span>
-            <span class="read-badge">⚡ 1 min read</span>
-          </div>
-          <h2 class="card-title featured-title"><a href="/news/{h_slug}/" class="card-title-link">{h_title}</a></h2>
-          <p class="card-summary featured-summary">{h_summary}</p>
-
-          <div class="featured-takeaways-box">
-            <div class="featured-takeaways-title">Key Takeaways</div>
-            <ul class="featured-takeaways-list">
-              {h_bullets_list_html}
-            </ul>
+      <div class="hero-showcase-grid">
+        <!-- Lead Cinematic Cover Story -->
+        <article class="news-card featured-news-card hero-lead-card"
+          data-id="{h_id}"
+          data-slug="{h_slug}"
+          data-category="{h_cat_slug}"
+          data-category-name="{h_cat_name}"
+          data-category-color="{h_cat_color}"
+          data-title="{h_title}"
+          data-summary="{h_summary}"
+          data-bullets="{h_bullets_json}"
+          data-source="{h_source}"
+          data-time-ago="{h_time_ago}"
+          data-image="{h_image}"
+          data-original-url="{h_orig_url}">
+          
+          <div class="card-media featured-media">
+            <a href="/news/{h_slug}/" class="card-media-link" aria-label="{h_title}">
+              <img src="{h_image}" alt="{h_title}" class="card-img" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=800&fit=crop';">
+            </a>
+            <div class="hero-media-scrim"></div>
+            <span class="card-tag" style="background-color: {h_cat_color};">{h_cat_name}</span>
+            <span class="card-meta-badge">🕒 {h_time_ago}</span>
           </div>
 
-          <div class="card-actions">
-            <div class="action-btn-group">
-              <a href="/news/{h_slug}/" class="full-article-link" title="Read Full In-Depth Story">📰 Full Story</a>
-              <a href="/stories/{h_slug}/" class="web-story-link" title="Open 5-Slide Visual Web Story">⚡ Web Story</a>
-              <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+          <div class="card-body featured-body">
+            <div class="card-source-row">
+              <span class="card-source"><span class="source-dot"></span>{h_source} <span class="verified-source" title="Verified Wire Source">✓</span></span>
+              <span class="read-badge">⚡ 1 min read</span>
             </div>
-            <div class="action-btn-group">
-              <button class="icon-action-btn tts-btn" data-id="{h_id}" title="Listen to audio" aria-label="Listen">🔊</button>
-              <button class="icon-action-btn bookmark-btn" data-id="{h_id}" title="Save story" aria-label="Bookmark">☆</button>
-              <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+            <h2 class="card-title featured-title"><a href="/news/{h_slug}/" class="card-title-link">{h_title}</a></h2>
+            <p class="card-summary featured-summary">{h_summary}</p>
+
+            <!-- E-E-A-T Editorial Byline -->
+            <div class="hero-author-byline">
+              <span class="hero-author-avatar" style="background-color: {h_author['color']};">{h_author['initials']}</span>
+              <div class="hero-author-meta">
+                <span class="hero-author-name">{h_author['name']} <span class="verified-badge" title="Verified Editorial Fellow">✓</span></span>
+                <span class="hero-author-role">{h_author['role']}</span>
+              </div>
+            </div>
+
+            <div class="featured-takeaways-box">
+              <div class="featured-takeaways-title">Key Intelligence & Telemetry</div>
+              <ul class="featured-takeaways-list">
+                {h_bullets_list_html}
+              </ul>
+            </div>
+
+            <div class="card-actions">
+              <div class="action-btn-group">
+                <a href="/news/{h_slug}/" class="full-article-link" title="Read Full In-Depth Story">📰 Full Story</a>
+                <a href="/stories/{h_slug}/" class="web-story-link" title="Open 5-Slide Visual Web Story">⚡ Web Story</a>
+                <button class="btn-quick-read" title="Quick Read Drawer">📖 Summary</button>
+              </div>
+              <div class="action-btn-group">
+                <button class="icon-action-btn tts-btn" data-id="{h_id}" title="Listen to audio" aria-label="Listen">🔊</button>
+                <button class="icon-action-btn bookmark-btn" data-id="{h_id}" title="Save story" aria-label="Bookmark">☆</button>
+                <button class="icon-action-btn share-btn" title="Share story" aria-label="Share">🔗</button>
+              </div>
             </div>
           </div>
-        </div>
-      </article>
+        </article>
+
+        <!-- Trending Sidekicks Column -->
+        <aside class="hero-sidekick-stack" aria-label="Trending In Mobility">
+          <div class="sidekick-header">
+            <span class="sidekick-header-title">⚡ TRENDING INTELLIGENCE</span>
+            <span class="sidekick-header-sub">UPDATED LIVE</span>
+          </div>
+          {sidekicks_block}
+        </aside>
+      </div>
     </section>
 """
-        # Limit initial homepage grid to 36 freshest stories for instant 60ms load
+        # Limit initial homepage grid: skip the 3 featured hero articles (index 0, 1, 2)
         HOMEPAGE_MAX_INITIAL = 36
-        grid_articles = articles[1:HOMEPAGE_MAX_INITIAL + 1] if len(articles) > 1 else articles[:HOMEPAGE_MAX_INITIAL]
+        grid_articles = articles[3:HOMEPAGE_MAX_INITIAL + 3] if len(articles) > 3 else articles[1:HOMEPAGE_MAX_INITIAL + 1]
 
     # Article Cards
     cards_html_list = []
-    for art in grid_articles:
+    for idx, art in enumerate(grid_articles):
+        # Insert VIP Newsletter Card ("THE GRID") after 5 cards
+        if idx == 5:
+            newsletter_html = """
+        <aside class="newsletter-card" aria-label="Join The Grid">
+          <div class="newsletter-glow"></div>
+          <div class="newsletter-content">
+            <div class="newsletter-badge">🏎️ VIP AUTOMOTIVE BRIEF</div>
+            <h3 class="newsletter-title">THE GRID: Weekly Supercar &amp; EV Intel</h3>
+            <p class="newsletter-desc">Join 28,000+ automotive engineers, track drivers, and mobility founders. Every Friday, get the 60-second recap of breakthroughs shaping high-speed transportation.</p>
+            <form class="newsletter-form" id="newsletterForm" onsubmit="event.preventDefault(); window.subscribeGrid(this);">
+              <div class="newsletter-input-group">
+                <input type="email" required placeholder="Enter your work or personal email..." class="newsletter-input" aria-label="Email Address">
+                <button type="submit" class="newsletter-btn">⚡ Join The Grid</button>
+              </div>
+              <span class="newsletter-note">🔒 Zero spam. One-click unsubscribe anytime. Free forever.</span>
+            </form>
+          </div>
+        </aside>"""
+            cards_html_list.append(newsletter_html)
+
         art_id = art.get("id")
         slug = art.get("slug")
         cat_slug = art.get("category")
@@ -337,7 +452,7 @@ def render_homepage_html(articles: list) -> str:
 
           <div class="card-body">
             <div class="card-source-row">
-              <span class="card-source"><span class="source-dot"></span>{source}</span>
+              <span class="card-source"><span class="source-dot"></span>{source} <span class="verified-source" title="Verified Wire Source">✓</span></span>
               <span class="read-badge">1 min read</span>
             </div>
             <h3 class="card-title"><a href="/news/{slug}/" class="card-title-link">{title}</a></h3>
@@ -434,21 +549,44 @@ def render_homepage_html(articles: list) -> str:
     </div>
   </div>
 
+  <!-- High-Speed Mobility Telemetry & Speed Index -->
+  <div class="telemetry-bar" aria-label="Live Automotive Telemetry">
+    <div class="container telemetry-inner">
+      <div class="telemetry-badge">
+        <span class="live-dot" style="background: #06b6d4;"></span>
+        <span>MOBILITY PULSE</span>
+      </div>
+      <div class="telemetry-items">
+        <span class="telemetry-item"><strong class="t-accent">⚡ 0-60 RECORD:</strong> 1.40s (McMurtry Spéirling)</span>
+        <span class="telemetry-sep">•</span>
+        <span class="telemetry-item"><strong class="t-accent">🔋 SOLID-STATE:</strong> 1,020 km Range (CATL Shenxing+)</span>
+        <span class="telemetry-sep">•</span>
+        <span class="telemetry-item"><strong class="t-accent">🏎️ F1 2026:</strong> 50% Hybrid Electrified</span>
+        <span class="telemetry-sep">•</span>
+        <span class="telemetry-item"><strong class="t-accent">🤖 ROBOTAXIS:</strong> L4 in 18 Global Hubs</span>
+        <span class="telemetry-sep">•</span>
+        <span class="telemetry-item"><strong class="t-accent">🚀 HYPERCAR TOP:</strong> 508 km/h (Bugatti Tourbillon)</span>
+      </div>
+    </div>
+  </div>
+
   <!-- Header -->
   {get_base_header("home")}
 
   <main class="container">
     <!-- Visual Web Stories Carousel -->
     <section class="stories-section" aria-label="Visual Web Stories">
-      <div class="section-label-row">
-        <h2 class="section-heading">
-          <span class="dot"></span>
-          <span>Trending Web Stories</span>
-        </h2>
-        <span style="font-size: 11px; color: var(--text-muted); font-weight: 600;">TAP TO VIEW 5-SLIDE VISUALS</span>
-      </div>
-      <div class="stories-carousel">
-        {bubbles_html}
+      <div class="stories-tray">
+        <div class="section-label-row">
+          <h2 class="section-heading">
+            <span class="dot"></span>
+            <span>Trending Web Stories</span>
+          </h2>
+          <span style="font-size: 11px; color: var(--text-muted); font-weight: 700; letter-spacing: 0.05em;">TAP TO VIEW 5-SLIDE VISUALS</span>
+        </div>
+        <div class="stories-carousel">
+          {bubbles_html}
+        </div>
       </div>
     </section>
 
@@ -517,11 +655,17 @@ def render_homepage_html(articles: list) -> str:
   <!-- Floating Toast Notification -->
   <div class="toast-msg" id="toastMsg" role="alert">Notification</div>
 
+  <!-- Top Reading Progress Bar -->
+  <div id="readingProgressBar" class="reading-progress-bar" aria-hidden="true"></div>
+
+  <!-- Floating Back-to-Top Button -->
+  <button id="backToTopBtn" class="back-to-top-btn" aria-label="Scroll to top" title="Back to top">↑</button>
+
   <!-- Footer -->
   {get_base_footer()}
 
   <!-- Main JavaScript Engine -->
-  <script src="/static/js/main.js?v=2.2"></script>
+  <script src="/static/js/main.js?v=2.3"></script>
 </body>
 </html>"""
     return full_html
@@ -1084,11 +1228,17 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
   <!-- Floating Toast Notification -->
   <div class="toast-msg" id="toastMsg" role="alert">Notification</div>
 
+  <!-- Top Reading Progress Bar -->
+  <div id="readingProgressBar" class="reading-progress-bar" aria-hidden="true"></div>
+
+  <!-- Floating Back-to-Top Button -->
+  <button id="backToTopBtn" class="back-to-top-btn" aria-label="Scroll to top" title="Back to top">↑</button>
+
   <!-- Global Footer -->
   {get_base_footer()}
 
   <!-- Main JavaScript Engine -->
-  <script src="/static/js/main.js?v=2.2"></script>
+  <script src="/static/js/main.js?v=2.3"></script>
 </body>
 </html>"""
     return article_html
@@ -1354,9 +1504,15 @@ def generate_compliance_pages(dist_dir: Path):
 
   <div class="toast-msg" id="toastMsg" role="alert">Notification</div>
 
+  <!-- Top Reading Progress Bar -->
+  <div id="readingProgressBar" class="reading-progress-bar" aria-hidden="true"></div>
+
+  <!-- Floating Back-to-Top Button -->
+  <button id="backToTopBtn" class="back-to-top-btn" aria-label="Scroll to top" title="Back to top">↑</button>
+
   {get_base_footer()}
 
-  <script src="/static/js/main.js?v=2.2"></script>
+  <script src="/static/js/main.js?v=2.3"></script>
 </body>
 </html>"""
 

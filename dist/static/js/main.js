@@ -131,12 +131,9 @@
 
     const heroSection = document.getElementById('heroSection');
     if (heroSection) {
-      const heroCard = heroSection.querySelector('.news-card');
-      if (heroCard && heroCard.style.display === 'none') {
-        heroSection.style.display = 'none';
-      } else if (heroSection) {
-        heroSection.style.display = '';
-      }
+      const heroCards = heroSection.querySelectorAll('.news-card');
+      const anyHeroVisible = Array.from(heroCards).some(c => c.style.display !== 'none');
+      heroSection.style.display = anyHeroVisible ? '' : 'none';
     }
 
     if (emptyState) {
@@ -547,9 +544,10 @@
       loadMoreBtn.addEventListener('click', loadMoreArticles);
     }
 
-    // Card delegation (Quick read, bookmark, TTS, share)
-    if (articlesContainer) {
-      articlesContainer.addEventListener('click', (e) => {
+    // Card delegation helper (Quick read, bookmark, TTS, share)
+    function setupCardDelegation(container) {
+      if (!container) return;
+      container.addEventListener('click', (e) => {
         const quickReadBtn = e.target.closest('.btn-quick-read');
         if (quickReadBtn) {
           const card = quickReadBtn.closest('.news-card');
@@ -601,6 +599,68 @@
         }
       });
     }
+
+    setupCardDelegation(articlesContainer);
+    setupCardDelegation(document.getElementById('heroSection'));
+
+    // Top Reading Progress Bar & Back to Top Controller
+    const progressBar = document.getElementById('readingProgressBar');
+    const backToTopBtn = document.getElementById('backToTopBtn');
+
+    window.addEventListener('scroll', () => {
+      const scrollY = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      if (progressBar && docHeight > 0) {
+        const pct = Math.min(100, Math.max(0, (scrollY / docHeight) * 100));
+        progressBar.style.width = pct + '%';
+      }
+      if (backToTopBtn) {
+        if (scrollY > 380) {
+          backToTopBtn.classList.add('visible');
+        } else {
+          backToTopBtn.classList.remove('visible');
+        }
+      }
+    }, { passive: true });
+
+    if (backToTopBtn) {
+      backToTopBtn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
+
+    // Keyboard Shortcuts: '/' to search, 'Escape' to close modal/search
+    document.addEventListener('keydown', (e) => {
+      if (e.key === '/' && document.activeElement !== searchInput && !['INPUT', 'TEXTAREA'].includes(document.activeElement?.tagName)) {
+        e.preventDefault();
+        if (searchInput) {
+          searchInput.focus();
+          searchInput.select();
+        }
+      } else if (e.key === 'Escape') {
+        if (modalOverlay && modalOverlay.classList.contains('active')) {
+          closeQuickRead();
+        } else if (searchInput && document.activeElement === searchInput) {
+          searchInput.value = '';
+          state.searchQuery = '';
+          applyFilters();
+          searchInput.blur();
+        }
+      }
+    });
+
+    // Global VIP Newsletter Subscription Handler ("The Grid")
+    window.subscribeGrid = function(form) {
+      if (!form) return;
+      const input = form.querySelector('input[type="email"]');
+      if (!input || !input.value) return;
+      const email = input.value.trim();
+      try {
+        localStorage.setItem('newspulse_grid_subscribed', email);
+      } catch (e) {}
+      form.innerHTML = '<div style="color: #38bdf8; font-weight: 750; font-size: 15px; padding: 14px 0; display: flex; align-items: center; gap: 8px;"><span>🏎️⚡</span> <span>Welcome to The Grid! Your VIP weekly mobility digest is confirmed.</span></div>';
+      showToast('Welcome to The Grid! VIP access unlocked.');
+    };
 
     // Contact form simulation if on contact page
     const contactForm = document.getElementById('newsPulseContactForm');

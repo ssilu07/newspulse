@@ -56,7 +56,8 @@
       <div class="header-center">
         <div class="search-wrapper">
           <span class="search-icon">🔍</span>
-          <input type="text" id="newsSearchInput" class="search-input" placeholder="Search news, topics, keywords..." aria-label="Search news">
+          <input type="text" id="newsSearchInput" class="search-input" placeholder="Search news, topics, keywords... (Press /)" aria-label="Search news">
+          <span class="search-shortcut-badge">/</span>
         </div>
       </div>
 
@@ -108,6 +109,12 @@
   </main>
 
   <div class="toast-msg" id="toastMsg" role="alert">Notification</div>
+
+  <!-- Top Reading Progress Bar -->
+  <div id="readingProgressBar" class="reading-progress-bar" aria-hidden="true"></div>
+
+  <!-- Floating Back-to-Top Button -->
+  <button id="backToTopBtn" class="back-to-top-btn" aria-label="Scroll to top" title="Back to top">↑</button>
 
   
   <footer class="site-footer">
@@ -175,6 +182,6 @@
   </div>
 
 
-  <script src="/static/js/main.js?v=2.2"></script>
+  <script src="/static/js/main.js?v=2.3"></script>
 </body>
 </html>
