@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/alonso-calls-33-of-the-f1-grid-low-quality/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T00:00:23+00:00</news:publication_date>
+      <news:title>Alonso calls 33% of the F1 grid &#x27;low quality</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447372_HiRes--1--1.jpg</image:loc>
+      <image:title>Alonso calls 33% of the F1 grid &#x27;low quality</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-of-the-most-powerful-jdm-engines-ever-made/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T23:50:00+00:00</news:publication_date>
+      <news:title>7 Of The Most Powerful JDM Engines Ever Made</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-most-powerful-jdm-engines-ever-made/l-intro-1792610154.jpg</image:loc>
+      <image:title>7 Of The Most Powerful JDM Engines Ever Made</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T23:25:00+00:00</news:publication_date>
+      <news:title>7 Cars And Trucks That Have Some Of The Worst MPG Ratings Ever</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/l-intro-1792604881.jpg</image:loc>
+      <image:title>7 Cars And Trucks That Have Some Of The Worst MPG Ratings Ever</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/america-needs-more-types-of-drivers-licenses-not-just-better-driv/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T22:25:00+00:00</news:publication_date>
+      <news:title>America Needs More Types Of Driver&#x27;s Licenses, Not Just Better Driver&#x27;s Ed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/america-needs-more-types-of-drivers-licenses-not-just-better-drivers-ed/l-intro-1792793990.jpg</image:loc>
+      <image:title>America Needs More Types Of Driver&#x27;s Licenses, Not Just Better Driver&#x27;s Ed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-negotiations-with-ig-metall-to-begin-november-24-audi-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T22:24:58+00:00</news:publication_date>
+      <news:title>Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Volkswagen-factory-Zwickau.jpg</image:loc>
+      <image:title>Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/antonelli-on-the-brink-of-first-f1-title-after-crushing-us-gp-win/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T22:10:34+00:00</news:publication_date>
+      <news:title>Antonelli on the brink of first F1 title after crushing US GP win</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447630_HiRes.jpg</image:loc>
+      <image:title>Antonelli on the brink of first F1 title after crushing US GP win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T22:05:00+00:00</news:publication_date>
+      <news:title>If You Want A Hyundai Tucson With A Manual Transmission, Look For These Years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-these-years/l-intro-1792593038.jpg</image:loc>
+      <image:title>If You Want A Hyundai Tucson With A Manual Transmission, Look For These Years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-trea/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T21:05:00+00:00</news:publication_date>
+      <news:title>4 Ideas To Deck Out Your Car For The Next Halloween Trunk-Or-Treat</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-treat/l-intro-1792583537.jpg</image:loc>
+      <image:title>4 Ideas To Deck Out Your Car For The Next Halloween Trunk-Or-Treat</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/switching-auto-insurance-providers-the-pros-and-cons-explained/</loc>
     <news:news>
       <news:publication>
@@ -120,6 +240,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Wickham-Freight-Sunswap-Endurance-2.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Battery electric, solar-powered reefer units reach their first customers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T17:25:00+00:00</news:publication_date>
+      <news:title>Why These Two Actors Clashed With Fellow Automotive And Hollywood Legend Steve McQueen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood-legend-steve-mcqueen/l-intro-1792169148.jpg</image:loc>
+      <image:title>Why These Two Actors Clashed With Fellow Automotive And Hollywood Legend Steve McQueen</image:title>
     </image:image>
   </url>
   <url>
@@ -1245,96 +1380,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Ron-DeSantis-statue-under-copy.jpg</image:loc>
       <image:title>Ron DeSantis Statue Melts in Rising Temperatures He Spent 8 Years Denying; Climate Change Non-Profit 350 Action, Art Collective Uncommon Creative Studio, and M ss ng P eces Staged a Striking Midterm-Season Installation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-new-italian-sports-car-is-the-closest-thing-to-a-modern-ferr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T23:14:12+00:00</news:publication_date>
-      <news:title>This New Italian Sports Car Is The Closest Thing To A Modern Ferrari 308</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-new-italian-sports-car-is-the-closest-thing-to-a-modern-ferrari-308/l-intro-1792796591.jpg</image:loc>
-      <image:title>This New Italian Sports Car Is The Closest Thing To A Modern Ferrari 308</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-bmw-7-series/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:37:01+00:00</news:publication_date>
-      <news:title>View Interior Photos of the 2027 BMW 7-Series</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/613bcfb2-ea98-42a8-a3ac-e44663b1bed0.jpg?crop=1xw:0.75xh;0xw,0.204xh&amp;resize=1200:*</image:loc>
-      <image:title>View Interior Photos of the 2027 BMW 7-Series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-bmw-7-series/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:36:58+00:00</news:publication_date>
-      <news:title>View Exterior Photos of the 2027 BMW 7-Series</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6eb78657-98a8-4f16-b22d-e32d3b51a341.jpg?crop=0.958xw:0.719xh;0xw,0.155xh&amp;resize=1200:*</image:loc>
-      <image:title>View Exterior Photos of the 2027 BMW 7-Series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-2027-bmw-7-series-embraces-luxurious-maximalism/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:36:54+00:00</news:publication_date>
-      <news:title>The 2027 BMW 7-Series Embraces Luxurious Maximalism</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/845ae470-48ee-4b27-859e-fb5d0b522ddc.jpg</image:loc>
-      <image:title>The 2027 BMW 7-Series Embraces Luxurious Maximalism</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/not-even-a-partnership-with-xpeng-can-save-vw-in-china/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:18:09+00:00</news:publication_date>
-      <news:title>Not Even A Partnership With Xpeng Can Save VW In China</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/not-even-a-partnership-with-xpeng-can-save-vw-in-china/l-intro-1792793503.jpg</image:loc>
-      <image:title>Not Even A Partnership With Xpeng Can Save VW In China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-recalls-106k-hybrid-land-cruisers-for-possible-fuel-leak/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T21:15:00+00:00</news:publication_date>
-      <news:title>Toyota Recalls 106K Hybrid Land Cruisers for Possible Fuel Leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-toyota-land-cruiser-133-6695615ead437.jpg</image:loc>
-      <image:title>Toyota Recalls 106K Hybrid Land Cruisers for Possible Fuel Leak</image:title>
     </image:image>
   </url>
 </urlset>

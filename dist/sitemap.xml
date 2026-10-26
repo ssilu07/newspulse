@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-25T20:59:00Z</lastmod>
+    <lastmod>2026-10-26T00:43:58Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-25T20:59:00Z</lastmod>
+    <lastmod>2026-10-26T00:43:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-25T20:59:00Z</lastmod>
+    <lastmod>2026-10-26T00:43:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-25T20:59:00Z</lastmod>
+    <lastmod>2026-10-26T00:43:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-25T20:59:00Z</lastmod>
+    <lastmod>2026-10-26T00:43:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-25T20:59:00Z</lastmod>
+    <lastmod>2026-10-26T00:43:58Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/alonso-calls-33-of-the-f1-grid-low-quality/</loc>
+    <lastmod>2026-10-26T00:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447372_HiRes--1--1.jpg</image:loc>
+      <image:title>Alonso calls 33% of the F1 grid &#x27;low quality</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/alonso-calls-33-of-the-f1-grid-low-quality/</loc>
+    <lastmod>2026-10-26T00:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447372_HiRes--1--1.jpg</image:loc>
+      <image:title>Alonso calls 33% of the F1 grid &#x27;low quality</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-of-the-most-powerful-jdm-engines-ever-made/</loc>
+    <lastmod>2026-10-25T23:50:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-most-powerful-jdm-engines-ever-made/l-intro-1792610154.jpg</image:loc>
+      <image:title>7 Of The Most Powerful JDM Engines Ever Made</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/7-of-the-most-powerful-jdm-engines-ever-made/</loc>
+    <lastmod>2026-10-25T23:50:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-most-powerful-jdm-engines-ever-made/l-intro-1792610154.jpg</image:loc>
+      <image:title>7 Of The Most Powerful JDM Engines Ever Made</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/</loc>
+    <lastmod>2026-10-25T23:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/l-intro-1792604881.jpg</image:loc>
+      <image:title>7 Cars And Trucks That Have Some Of The Worst MPG Ratings Ever</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/</loc>
+    <lastmod>2026-10-25T23:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/l-intro-1792604881.jpg</image:loc>
+      <image:title>7 Cars And Trucks That Have Some Of The Worst MPG Ratings Ever</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/america-needs-more-types-of-drivers-licenses-not-just-better-driv/</loc>
+    <lastmod>2026-10-25T22:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/america-needs-more-types-of-drivers-licenses-not-just-better-drivers-ed/l-intro-1792793990.jpg</image:loc>
+      <image:title>America Needs More Types Of Driver&#x27;s Licenses, Not Just Better Driver&#x27;s Ed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/america-needs-more-types-of-drivers-licenses-not-just-better-driv/</loc>
+    <lastmod>2026-10-25T22:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/america-needs-more-types-of-drivers-licenses-not-just-better-drivers-ed/l-intro-1792793990.jpg</image:loc>
+      <image:title>America Needs More Types Of Driver&#x27;s Licenses, Not Just Better Driver&#x27;s Ed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-negotiations-with-ig-metall-to-begin-november-24-audi-/</loc>
+    <lastmod>2026-10-25T22:24:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Volkswagen-factory-Zwickau.jpg</image:loc>
+      <image:title>Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagen-negotiations-with-ig-metall-to-begin-november-24-audi-/</loc>
+    <lastmod>2026-10-25T22:24:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Volkswagen-factory-Zwickau.jpg</image:loc>
+      <image:title>Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/antonelli-on-the-brink-of-first-f1-title-after-crushing-us-gp-win/</loc>
+    <lastmod>2026-10-25T22:10:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447630_HiRes.jpg</image:loc>
+      <image:title>Antonelli on the brink of first F1 title after crushing US GP win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/antonelli-on-the-brink-of-first-f1-title-after-crushing-us-gp-win/</loc>
+    <lastmod>2026-10-25T22:10:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447630_HiRes.jpg</image:loc>
+      <image:title>Antonelli on the brink of first F1 title after crushing US GP win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-/</loc>
+    <lastmod>2026-10-25T22:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-these-years/l-intro-1792593038.jpg</image:loc>
+      <image:title>If You Want A Hyundai Tucson With A Manual Transmission, Look For These Years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-/</loc>
+    <lastmod>2026-10-25T22:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-these-years/l-intro-1792593038.jpg</image:loc>
+      <image:title>If You Want A Hyundai Tucson With A Manual Transmission, Look For These Years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-trea/</loc>
+    <lastmod>2026-10-25T21:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-treat/l-intro-1792583537.jpg</image:loc>
+      <image:title>4 Ideas To Deck Out Your Car For The Next Halloween Trunk-Or-Treat</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-trea/</loc>
+    <lastmod>2026-10-25T21:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-treat/l-intro-1792583537.jpg</image:loc>
+      <image:title>4 Ideas To Deck Out Your Car For The Next Halloween Trunk-Or-Treat</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/switching-auto-insurance-providers-the-pros-and-cons-explained/</loc>
@@ -195,6 +355,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Wickham-Freight-Sunswap-Endurance-2.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Battery electric, solar-powered reefer units reach their first customers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood/</loc>
+    <lastmod>2026-10-25T17:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood-legend-steve-mcqueen/l-intro-1792169148.jpg</image:loc>
+      <image:title>Why These Two Actors Clashed With Fellow Automotive And Hollywood Legend Steve McQueen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood/</loc>
+    <lastmod>2026-10-25T17:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood-legend-steve-mcqueen/l-intro-1792169148.jpg</image:loc>
+      <image:title>Why These Two Actors Clashed With Fellow Automotive And Hollywood Legend Steve McQueen</image:title>
     </image:image>
   </url>
   <url>
