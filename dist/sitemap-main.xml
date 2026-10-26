@@ -3,39 +3,119 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-26T00:43:58Z</lastmod>
+    <lastmod>2026-10-26T07:57:15Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-26T00:43:58Z</lastmod>
+    <lastmod>2026-10-26T07:57:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-26T00:43:58Z</lastmod>
+    <lastmod>2026-10-26T07:57:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-26T00:43:58Z</lastmod>
+    <lastmod>2026-10-26T07:57:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-26T00:43:58Z</lastmod>
+    <lastmod>2026-10-26T07:57:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-26T00:43:58Z</lastmod>
+    <lastmod>2026-10-26T07:57:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-hypoid-differential-gear-oil-needs-to-be-different-from-engin/</loc>
+    <lastmod>2026-10-26T03:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-hypoid-differential-gear-oil-needs-to-be-different-from-engine-or-transmission-oil/l-intro-1792087670.jpg</image:loc>
+      <image:title>Why Hypoid Differential Gear Oil Needs To Be Different From Engine Or Transmission Oil</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-hypoid-differential-gear-oil-needs-to-be-different-from-engin/</loc>
+    <lastmod>2026-10-26T03:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-hypoid-differential-gear-oil-needs-to-be-different-from-engine-or-transmission-oil/l-intro-1792087670.jpg</image:loc>
+      <image:title>Why Hypoid Differential Gear Oil Needs To Be Different From Engine Or Transmission Oil</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-us-gp-has-left-verstappen-and-hadjar-furious-with-red-bull/</loc>
+    <lastmod>2026-10-26T02:22:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447511_HiRes.jpg</image:loc>
+      <image:title>Why US GP has left Verstappen and Hadjar furious with Red Bull</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-us-gp-has-left-verstappen-and-hadjar-furious-with-red-bull/</loc>
+    <lastmod>2026-10-26T02:22:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447511_HiRes.jpg</image:loc>
+      <image:title>Why US GP has left Verstappen and Hadjar furious with Red Bull</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/audi-will-invest-4-billion-to-build-a-factory-in-georgia/</loc>
+    <lastmod>2026-10-26T01:55:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/audi-will-invest-4-billion-to-build-a-factory-in-georgia/l-intro-1792979643.jpg</image:loc>
+      <image:title>Audi Will Invest $4 Billion To Build A Factory In Georgia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/audi-will-invest-4-billion-to-build-a-factory-in-georgia/</loc>
+    <lastmod>2026-10-26T01:55:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/audi-will-invest-4-billion-to-build-a-factory-in-georgia/l-intro-1792979643.jpg</image:loc>
+      <image:title>Audi Will Invest $4 Billion To Build A Factory In Georgia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/that-time-someone-stole-a-hyundai-tucson-holding-both-parents-ash/</loc>
+    <lastmod>2026-10-26T01:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/that-time-someone-stole-a-hyundai-tucson-holding-both-parents-ashes-the-night-before-a-funeral/l-intro-1792610782.jpg</image:loc>
+      <image:title>That Time Someone Stole A Hyundai Tucson Holding Both Parents&#x27; Ashes The Night Before A Funeral</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/that-time-someone-stole-a-hyundai-tucson-holding-both-parents-ash/</loc>
+    <lastmod>2026-10-26T01:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/that-time-someone-stole-a-hyundai-tucson-holding-both-parents-ashes-the-night-before-a-funeral/l-intro-1792610782.jpg</image:loc>
+      <image:title>That Time Someone Stole A Hyundai Tucson Holding Both Parents&#x27; Ashes The Night Before A Funeral</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/alonso-calls-33-of-the-f1-grid-low-quality/</loc>
@@ -175,6 +255,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-these-years/l-intro-1792593038.jpg</image:loc>
       <image:title>If You Want A Hyundai Tucson With A Manual Transmission, Look For These Years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1-2026-united-states-grand-prix-race-result/</loc>
+    <lastmod>2026-10-25T21:42:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448002_HiRes-1.jpg</image:loc>
+      <image:title>F1 2026 United States Grand Prix race result</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1-2026-united-states-grand-prix-race-result/</loc>
+    <lastmod>2026-10-25T21:42:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448002_HiRes-1.jpg</image:loc>
+      <image:title>F1 2026 United States Grand Prix race result</image:title>
     </image:image>
   </url>
   <url>
