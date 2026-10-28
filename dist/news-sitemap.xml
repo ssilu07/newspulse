@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/2027-bmw-x3-m50-adds-horsepower-and-a-sinister-appearance-package/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T16:00:00+00:00</news:publication_date>
+      <news:title>2027 BMW X3 M50 Adds Horsepower and a Sinister Appearance Package</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b9cd41df-90dd-46d1-8245-b49349a0a63f.jpg</image:loc>
+      <image:title>2027 BMW X3 M50 Adds Horsepower and a Sinister Appearance Package</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-lexus-tx-hybrid/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T15:32:38+00:00</news:publication_date>
+      <news:title>2027 Lexus TX Hybrid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a47e42cf-e8a1-4323-9bc3-f1ae1de61251.jpg?crop=0.557xw:0.418xh;0.292xw,0.392xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Lexus TX Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/teslas-rocket-shaped-robotaxi-map-in-houston-is-partly-fake/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T15:18:25+00:00</news:publication_date>
+      <news:title>Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-robotaxi-houston-geofence-rocket-map.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/china-steps-back-from-promoting-second-life-ev-batteries/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T15:15:36+00:00</news:publication_date>
+      <news:title>China Steps Back From Promoting Second-Life EV Batteries</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/TFIE_China_Second_Life_Batteries_Hero_1600x900.png</image:loc>
+      <image:title>China Steps Back From Promoting Second-Life EV Batteries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/catl-pushes-ahead-with-20-ah-solid-state-ev-batteries-with-500-wh/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T15:12:41+00:00</news:publication_date>
+      <news:title>CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/CATL-20-Ah-solid-state-battery.jpeg?quality=82&amp;strip=all&amp;resize=1200,628</image:loc>
+      <image:title>CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1-renews-scholarships-as-first-social-impact-report-published/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T15:12:01+00:00</news:publication_date>
+      <news:title>F1 renews scholarships as first social impact report published</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447423_HiRes-1.jpg</image:loc>
+      <image:title>F1 renews scholarships as first social impact report published</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gm-will-finally-make-hybrid-crossovers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T14:36:31+00:00</news:publication_date>
+      <news:title>GM Will Finally Make Hybrid Crossovers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/gm-will-finally-make-hybrid-crossovers/l-intro-1793198013.jpg</image:loc>
+      <image:title>GM Will Finally Make Hybrid Crossovers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-confirms-vietnam-entry-to-take-on-vinfast-and-its-36-market/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T14:28:21+00:00</news:publication_date>
+      <news:title>Tesla confirms Vietnam entry to take on VinFast and its 36% market share</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Vietnam.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla confirms Vietnam entry to take on VinFast and its 36% market share</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-dumb-decisions-previous-owners-made-with-our-readers-cars/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T14:25:00+00:00</news:publication_date>
+      <news:title>The Dumb Decisions Previous Owners Made With Our Readers&#x27; Cars</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-dumb-decisions-previous-owners-made-with-our-readers-cars/l-intro-1793191304.jpg</image:loc>
+      <image:title>The Dumb Decisions Previous Owners Made With Our Readers&#x27; Cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-casts-5000-unicastings-for-fathom-ev-truck-in-tesla-style-sh/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:56:15+00:00</news:publication_date>
+      <news:title>Ford casts 5,000 ‘unicastings’ for Fathom EV truck in Tesla-style shift</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/ford-fathom-unicasting-inspection.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Ford casts 5,000 ‘unicastings’ for Fathom EV truck in Tesla-style shift</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-need-for-maintaining-renewable-energy-directive-stability-in-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:36:08+00:00</news:publication_date>
+      <news:title>The Need for Maintaining Renewable Energy Directive Stability in the Post-2030 Energy Framework</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Solar-Power-Battery-Energy-Storage-CleanTechnica-Watermark.png</image:loc>
+      <image:title>The Need for Maintaining Renewable Energy Directive Stability in the Post-2030 Energy Framework</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-car-are-you-always-surprised-to-see-someone-actually-bought/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:25:00+00:00</news:publication_date>
+      <news:title>What Car Are You Always Surprised To See Someone Actually Bought?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-car-are-you-always-surprised-to-see-someone-actually-bought/l-intro-1793189773.jpg</image:loc>
+      <image:title>What Car Are You Always Surprised To See Someone Actually Bought?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/toyota-crown-signia-gt-s-concept-reimagines-the-suv-as-a-sleek-wa/</loc>
     <news:news>
       <news:publication>
@@ -75,6 +255,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/bosch-active-line-e-bike-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Bosch’s popular e-bike motor just got upgraded with more power and less weight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/a-rare-1993-panoz-roadster-v8-an-american-made-caterham-killer/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T03:30:24+00:00</news:publication_date>
+      <news:title>A Rare 1993 Panoz Roadster V8 – An American-Made Caterham Killer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Panoz-Roadster-8.jpg</image:loc>
+      <image:title>A Rare 1993 Panoz Roadster V8 – An American-Made Caterham Killer</image:title>
     </image:image>
   </url>
   <url>
@@ -390,6 +585,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/USA-Sunday-Thumb-005.jpg</image:loc>
       <image:title>Is Alonso&#x27;s harsh F1 driver claim justified?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-the-us-gp-really-exposed-about-where-ferrari-is-lacking/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T08:26:35+00:00</news:publication_date>
+      <news:title>What the US GP really exposed about where Ferrari is lacking</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/261024_R18_USA_DP_VA2_3599_a6a93266-e6fb-4fa2-8f3e-b981cc16fba7-1.jpg</image:loc>
+      <image:title>What the US GP really exposed about where Ferrari is lacking</image:title>
     </image:image>
   </url>
   <url>
