@@ -91,6 +91,9 @@ def get_base_header(active_nav: str = "home") -> str:
       </div>
 
       <div class="header-actions">
+        <a href="/#interactiveGarage" class="garage-header-pill" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(6, 182, 212, 0.18); border: 1px solid rgba(6, 182, 212, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 700; transition: all 0.2s;" title="The Pit Stop: Supercar Drag Battle & EV Calculator">
+          <span>🏎️</span> <span>Pit Stop Lab</span>
+        </a>
         <a href="https://t.me/minutenewshub" target="_blank" rel="noopener" class="telegram-header-badge" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 136, 204, 0.18); border: 1px solid rgba(0, 136, 204, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 600; transition: all 0.2s;" title="Join {config.SITE_NAME} on Telegram">
           <span>✈️</span> <span>Telegram</span>
         </a>
@@ -169,6 +172,229 @@ def get_base_footer() -> str:
     </div>
   </div>
 """
+
+
+
+def get_interactive_garage_html() -> str:
+    """
+    Renders 100% AdSense-compliant, viral-grade interactive automotive hub:
+    - 1/4-Mile Head-to-Head Drag Race Simulator (with telemetry, tree lights & audio)
+    - EV vs Gas Fuel Savings & Range Calculator (with dynamic EPA metrics)
+    """
+    return """
+    <!-- 🏎️ THE PIT STOP: Interactive Garage, 1/4-Mile Drag Battle & EV Calculator -->
+    <section class="interactive-garage-section" id="interactiveGarage" aria-label="The Pit Stop: Interactive Automotive Lab">
+      <div class="garage-header">
+        <div class="garage-badge">⚡ Interactive Mobility Lab</div>
+        <h2 class="garage-title">The Pit Stop: Supercar Drag Strip &amp; EV Calculator</h2>
+        <p class="garage-subtitle">Launch head-to-head 1/4-mile telemetry battles between top supercars &amp; EVs, or benchmark your exact monthly fuel savings switching to clean electric drive.</p>
+        
+        <div class="garage-nav-bar">
+          <div class="garage-tabs" role="tablist" aria-label="Garage Modes">
+            <button class="garage-tab-btn active" data-tab="tabDragRace" role="tab" aria-selected="true" aria-controls="tabDragRace">
+              <span>🏁</span> <span>1/4-Mile Drag Battle</span>
+            </button>
+            <button class="garage-tab-btn" data-tab="tabEvCalc" role="tab" aria-selected="false" aria-controls="tabEvCalc">
+              <span>⚡</span> <span>EV Fuel Savings Calculator</span>
+            </button>
+          </div>
+          <button class="sound-toggle-btn" id="soundToggleBtn" aria-label="Toggle simulator sound">🔇 Sound: OFF</button>
+        </div>
+      </div>
+
+      <!-- TAB 1: 1/4-Mile Drag Race Simulator -->
+      <div class="garage-tab-panel active" id="tabDragRace" role="tabpanel">
+        <div class="drag-selectors-grid">
+          <div class="drag-car-card">
+            <label for="carASelect">Lane 1 Contender</label>
+            <select id="carASelect" class="car-select" aria-label="Select Car A"></select>
+            <div style="margin-top: 8px; font-size: 13px; font-weight: 700; color: #38bdf8;" id="carAName">Tesla Model S Plaid</div>
+            <div style="font-size: 11px; color: #94a3b8;" id="carAType">AWD Tri-Motor EV</div>
+          </div>
+
+          <div class="vs-badge">VS</div>
+
+          <div class="drag-car-card">
+            <label for="carBSelect">Lane 2 Contender</label>
+            <select id="carBSelect" class="car-select" aria-label="Select Car B"></select>
+            <div style="margin-top: 8px; font-size: 13px; font-weight: 700; color: #f59e0b;" id="carBName">Porsche 911 Turbo S</div>
+            <div style="font-size: 11px; color: #94a3b8;" id="carBType">3.7L Twin-Turbo Flat-6 Gas</div>
+          </div>
+        </div>
+
+        <!-- Telemetry Specs Table -->
+        <div class="specs-table-wrapper">
+          <table class="specs-table" aria-label="Side-by-side Telemetry Comparison">
+            <thead>
+              <tr>
+                <th>Telemetry Metric</th>
+                <th>Lane 1</th>
+                <th>Lane 2</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Total Horsepower (HP)</td>
+                <td id="specHpA">--</td>
+                <td id="specHpB">--</td>
+              </tr>
+              <tr>
+                <td>0–60 MPH Acceleration</td>
+                <td id="spec060A">--</td>
+                <td id="spec060B">--</td>
+              </tr>
+              <tr>
+                <td>Official 1/4-Mile ET</td>
+                <td id="specQtrA">--</td>
+                <td id="specQtrB">--</td>
+              </tr>
+              <tr>
+                <td>Claimed Top Speed</td>
+                <td id="specTopA">--</td>
+                <td id="specTopB">--</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <!-- 2D Drag Strip Track Arena -->
+        <div class="drag-strip-arena" id="dragStripArena">
+          <canvas id="raceConfettiCanvas" class="confetti-canvas"></canvas>
+          
+          <!-- Christmas Tree Starting Lights -->
+          <div class="tree-lights-container" aria-label="Christmas tree start lights">
+            <div class="tree-light amber" id="treeAmber1" title="Stage 1"></div>
+            <div class="tree-light amber" id="treeAmber2" title="Stage 2"></div>
+            <div class="tree-light amber" id="treeAmber3" title="Stage 3"></div>
+            <div class="tree-light green" id="treeGreen" title="Green Flag"></div>
+          </div>
+
+          <!-- Track Lanes -->
+          <div class="track-lanes">
+            <!-- Lane 1 -->
+            <div class="track-lane">
+              <div class="finish-line-banner" aria-hidden="true"></div>
+              <div class="drag-car-sprite" id="carATrack">
+                <span class="car-icon">🏎️</span>
+                <span class="car-tag-mini" style="border-left: 3px solid #38bdf8;">Lane 1</span>
+              </div>
+            </div>
+
+            <!-- Lane 2 -->
+            <div class="track-lane">
+              <div class="finish-line-banner" aria-hidden="true"></div>
+              <div class="drag-car-sprite" id="carBTrack">
+                <span class="car-icon">🚗</span>
+                <span class="car-tag-mini" style="border-left: 3px solid #f59e0b;">Lane 2</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Live Digital Telemetry HUD -->
+          <div class="telemetry-row">
+            <div><strong>LANE 1:</strong> <span id="telemetryA">Ready (0.0s)</span></div>
+            <div><strong>LANE 2:</strong> <span id="telemetryB">Ready (0.0s)</span></div>
+          </div>
+        </div>
+
+        <!-- Result Box -->
+        <div class="race-result-box" id="raceResultBox" role="status">
+          <span id="raceResultText"></span>
+        </div>
+
+        <!-- Launch Button Bar -->
+        <div class="launch-controls-bar">
+          <button class="btn-launch" id="launchRaceBtn">🚀 LAUNCH CONTROL</button>
+          <button class="btn-share-result" id="shareRaceBtn">🔗 Share Battle Result</button>
+        </div>
+      </div>
+
+      <!-- TAB 2: EV vs Gas Savings Calculator -->
+      <div class="garage-tab-panel" id="tabEvCalc" role="tabpanel">
+        <div class="calc-grid">
+          <!-- Inputs Card -->
+          <div class="calc-inputs-card">
+            <div class="calc-field">
+              <div class="calc-label-row">
+                <label for="calcCommute">Daily Commute Distance</label>
+                <span class="calc-val-badge" id="commuteVal">35 miles</span>
+              </div>
+              <input type="range" id="calcCommute" class="calc-range-slider" min="10" max="150" step="5" value="35">
+            </div>
+
+            <div class="calc-field">
+              <div class="calc-label-row">
+                <label for="calcMpg">Current Gas Car Fuel Economy</label>
+                <span class="calc-val-badge" id="mpgVal">25 MPG</span>
+              </div>
+              <input type="range" id="calcMpg" class="calc-range-slider" min="15" max="50" step="1" value="25">
+            </div>
+
+            <div class="calc-field">
+              <div class="calc-label-row">
+                <label for="calcGasPrice">Gasoline Price Per Gallon</label>
+                <span class="calc-val-badge" id="gasPriceVal">$3.60/gal</span>
+              </div>
+              <input type="range" id="calcGasPrice" class="calc-range-slider" min="2.50" max="6.50" step="0.10" value="3.60">
+            </div>
+
+            <div class="calc-field">
+              <div class="calc-label-row">
+                <label for="calcElectPrice">Residential Electricity Rate</label>
+                <span class="calc-val-badge" id="electPriceVal">$0.15/kWh</span>
+              </div>
+              <input type="range" id="calcElectPrice" class="calc-range-slider" min="0.08" max="0.45" step="0.01" value="0.15">
+            </div>
+
+            <div class="calc-field" style="margin-top: 14px;">
+              <div class="calc-label-row">
+                <label for="evModelPreset">Target EV Comparison Profile</label>
+              </div>
+              <select id="evModelPreset" class="car-select">
+                <option value="tesla-3" selected>Tesla Model 3 (25 kWh / 100 mi - Ultra Efficient)</option>
+                <option value="tesla-y">Tesla Model Y (28 kWh / 100 mi - Compact SUV)</option>
+                <option value="byd-seal">BYD Seal (26 kWh / 100 mi - Performance Sedan)</option>
+                <option value="hyundai-ioniq5">Hyundai Ioniq 5 (29 kWh / 100 mi - Crossover)</option>
+                <option value="porsche-taycan">Porsche Taycan (38 kWh / 100 mi - Sport EV)</option>
+                <option value="rivian-r1t">Rivian R1T (45 kWh / 100 mi - Adventure Truck)</option>
+              </select>
+            </div>
+          </div>
+
+          <!-- Live Reactive Metric Outputs -->
+          <div class="calc-results-grid">
+            <div class="calc-metric-card highlight">
+              <div class="metric-title">💵 Estimated Monthly Fuel Savings</div>
+              <div class="metric-number emerald" id="calcMonthlySavings">$118</div>
+              <div class="metric-sub">Money kept in your pocket every 30 days</div>
+            </div>
+
+            <div class="calc-metric-card">
+              <div class="metric-title">💰 5-Year Ownership Savings</div>
+              <div class="metric-number cyan" id="calc5YearSavings">$7,080</div>
+              <div class="metric-sub">Direct gasoline cost displacement</div>
+            </div>
+
+            <div class="calc-metric-card">
+              <div class="metric-title">🌲 Annual CO2 Reduced</div>
+              <div class="metric-number" id="calcCo2Saved">3,850 lbs</div>
+              <div class="metric-sub" id="calcTreesSaved">~80 trees planted equivalent</div>
+            </div>
+
+            <div class="calc-metric-card">
+              <div class="metric-title">⏱️ Daily Home Charge Time</div>
+              <div class="metric-number" id="calcChargeTime">1.1 hrs / night</div>
+              <div class="metric-sub">Standard 240V Level 2 Home Wallbox</div>
+            </div>
+
+            <div class="calc-disclaimer">
+              * Calculations are estimations based on official EPA energy consumption ratings and current user inputs. Real-world consumption may vary based on weather, driving style, and utility rate tiers. Provided for educational and informational purposes.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    """
 
 
 def render_homepage_html(articles: list) -> str:
@@ -526,6 +752,7 @@ def render_homepage_html(articles: list) -> str:
 
   <!-- Stylesheet -->
   <link rel="stylesheet" href="/static/css/style.css">
+  <link rel="stylesheet" href="/static/css/garage.css">
 
   <!-- Google Search Console Verification -->
   {f'<meta name="google-site-verification" content="{config.GOOGLE_SITE_VERIFICATION}">' if getattr(config, 'GOOGLE_SITE_VERIFICATION', '') else ''}
@@ -620,6 +847,7 @@ def render_homepage_html(articles: list) -> str:
         <span class="btn-arrow" style="font-size: 16px;">↓</span>
       </button>
     </div>
+      {get_interactive_garage_html()}
   </main>
 
   <!-- Quick Read Drawer / Modal -->
@@ -666,6 +894,7 @@ def render_homepage_html(articles: list) -> str:
 
   <!-- Main JavaScript Engine -->
   <script src="/static/js/main.js?v=2.3"></script>
+  <script src="/static/js/garage.js?v=1.0" defer></script>
 </body>
 </html>"""
     return full_html
