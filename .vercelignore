@@ -2,8 +2,13 @@
 .git
 .github
 __pycache__
+*.py
 *.pyc
-app.py
-dev_server.py
-test_server.py
+data/
+scripts/
+ga_credentials.json
+requirements.txt
+README.md
+.env
+.env.*
 

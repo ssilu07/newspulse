@@ -67,6 +67,13 @@ jobs:
         run: |
           python fetch_and_generate.py --count 2 --max-fresh 14 --skip-val
 
+      - name: Prune Old Vercel Deployments
+        if: always()
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          python scripts/prune_vercel_deployments.py 3
+
       - name: Commit and Push Fresh News to GitHub
         run: |
           git config --global user.name "github-actions[bot]"
