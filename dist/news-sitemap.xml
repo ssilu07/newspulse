@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/toyota-crown-signia-gt-s-concept-reimagines-the-suv-as-a-sleek-wa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:00:00+00:00</news:publication_date>
+      <news:title>Toyota Crown Signia GT-S Concept Reimagines the SUV as a Sleek Wagon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7d4b3c8a-7b12-483d-9360-cd334edb7b58.jpg</image:loc>
+      <image:title>Toyota Crown Signia GT-S Concept Reimagines the SUV as a Sleek Wagon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nissan-sentra-spec-v-concept-is-a-sema-star-chock-full-of-nismo-p/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:00:00+00:00</news:publication_date>
+      <news:title>Nissan Sentra Spec-V Concept Is a SEMA Star Chock Full of NISMO Parts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d13e16d4-8830-4c5b-9945-b2832a301c17.jpg</image:loc>
+      <image:title>Nissan Sentra Spec-V Concept Is a SEMA Star Chock Full of NISMO Parts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/norriss-new-team-gets-f2-entry-for-its-first-year/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:56:11+00:00</news:publication_date>
+      <news:title>Norris&#x27;s new team gets F2 entry for its first year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/HVtaUxVWMAER1oS-1.jpeg</image:loc>
+      <image:title>Norris&#x27;s new team gets F2 entry for its first year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-first-step-in-a-major-verstappen-f1-change/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:17:21+00:00</news:publication_date>
+      <news:title>The first step in a major Verstappen F1 change</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/SI202610240835.jpg</image:loc>
+      <image:title>The first step in a major Verstappen F1 change</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/boschs-popular-e-bike-motor-just-got-upgraded-with-more-power-and/</loc>
     <news:news>
       <news:publication>
@@ -168,6 +228,141 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/waymo-adds-nearly-250-square-miles-of-robotaxi-coverage-in-5-citi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:55:12+00:00</news:publication_date>
+      <news:title>Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/waymo-250-square-miles-five-cities-expansion.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-ktm-x-bow-is-finally-coming-to-american-roads/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T18:45:50+00:00</news:publication_date>
+      <news:title>The KTM X-Bow Is Finally Coming To American Roads</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-ktm-x-bow-is-finally-coming-to-american-roads/l-intro-1793125695.jpg</image:loc>
+      <image:title>The KTM X-Bow Is Finally Coming To American Roads</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-mid-engine-v8-geo-metro-is-the-ultimate-evolution-of-ls-swap/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T18:25:00+00:00</news:publication_date>
+      <news:title>This Mid-Engine V8 Geo Metro Is The Ultimate Evolution Of &#x27;LS Swap All The Things</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/this-mid-engine-v8-geo-metro-is-the-ultimate-evolution-of-ls-swap-all-the-things/l-intro-1793121439.jpg</image:loc>
+      <image:title>This Mid-Engine V8 Geo Metro Is The Ultimate Evolution Of &#x27;LS Swap All The Things</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bmw-is-going-upscale-with-its-first-3-row-ev-the-ix7/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T18:10:26+00:00</news:publication_date>
+      <news:title>BMW is going upscale with its first 3-row EV, the iX7</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-iX7-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BMW is going upscale with its first 3-row EV, the iX7</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/flock-cameras-are-being-covered-with-garbage-bags-as-contracts-wi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T17:55:17+00:00</news:publication_date>
+      <news:title>Flock Cameras Are Being Covered With Garbage Bags As Contracts With The Wildly Unpopular Mass Surveillance Company Are Terminated</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/flock-cameras-are-being-covered-with-garbage-bags-as-contracts-with-the-wildly-unpopular-mass-surveillance-company-are-terminated/l-intro-1793123122.jpg</image:loc>
+      <image:title>Flock Cameras Are Being Covered With Garbage Bags As Contracts With The Wildly Unpopular Mass Surveillance Company Are Terminated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-just-put-all-its-trucks-on-snow-tracks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:25:00+00:00</news:publication_date>
+      <news:title>Toyota Just Put All Its Trucks On Snow Tracks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/toyota-just-put-all-its-trucks-on-snow-tracks/l-intro-1793116230.jpg</image:loc>
+      <image:title>Toyota Just Put All Its Trucks On Snow Tracks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/sykeruns-x7-electric-dirt-bike-review-a-lot-of-power-for-surprisi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:56:00+00:00</news:publication_date>
+      <news:title>Sykeruns X7 electric dirt bike review: A lot of power for surprisingly little money</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/sykeruns-e-moto-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Sykeruns X7 electric dirt bike review: A lot of power for surprisingly little money</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/korean-police-book-80-tesla-drivers-over-illegal-fsd-unlock-devic/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:43:32+00:00</news:publication_date>
+      <news:title>Korean police book 80 Tesla drivers over illegal FSD unlock devices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Korean police book 80 Tesla drivers over illegal FSD unlock devices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:51:33+00:00</news:publication_date>
+      <news:title>Ford Fathom will be the cheapest American EV capable of powering a house</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1600,1067</image:loc>
+      <image:title>Ford Fathom will be the cheapest American EV capable of powering a house</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/every-rookie-to-drive-in-fp1-in-f1-2026/</loc>
     <news:news>
       <news:publication>
@@ -210,6 +405,21 @@
     <image:image>
       <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Lightburn-Zeta-Sports-Car-Front.jpg</image:loc>
       <image:title>Forgotten Roadster: The Unusual 1964 Lightburn “Zeta Sports”</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-startups-self-driving-excavators-help-dig-up-600m-in-new-fun/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T17:45:00+00:00</news:publication_date>
+      <news:title>This startup’s self-driving excavators help dig up $600M in new funding</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1600,1067</image:loc>
+      <image:title>This startup’s self-driving excavators help dig up $600M in new funding</image:title>
     </image:image>
   </url>
 </urlset>
