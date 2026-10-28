@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/volkswagens-ev-battery-recall-reaches-over-85000-with-audi-now-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T18:09:59+00:00</news:publication_date>
+      <news:title>Volkswagen’s EV battery recall reaches over 85,000, with Audi now included</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen’s EV battery recall reaches over 85,000, with Audi now included</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/luxury-around-the-world-cruise-stranded-in-cambodia-over-staggeri/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:55:13+00:00</news:publication_date>
+      <news:title>Luxury Around-The-World Cruise Stranded In Cambodia Over Staggering Fuel Costs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/luxury-around-the-world-cruise-stranded-in-cambodia-over-staggering-fuel-costs/l-intro-1793209662.jpg</image:loc>
+      <image:title>Luxury Around-The-World Cruise Stranded In Cambodia Over Staggering Fuel Costs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-toyota-crown-signia-gt-s-performance-concept-is-cooler-than-y/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:45:45+00:00</news:publication_date>
+      <news:title>The Toyota Crown Signia GT-S Performance Concept Is Cooler Than You</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-toyota-crown-signia-gt-s-performance-concept-is-cooler-than-you/l-intro-1793208956.jpg</image:loc>
+      <image:title>The Toyota Crown Signia GT-S Performance Concept Is Cooler Than You</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/prepare-to-inhale-way-more-methane-than-youre-used-to/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:21:42+00:00</news:publication_date>
+      <news:title>Prepare To Inhale Way More Methane Than You&#x27;re Used To</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/prepare-to-inhale-way-more-methane-than-youre-used-to/l-intro-1793207666.jpg</image:loc>
+      <image:title>Prepare To Inhale Way More Methane Than You&#x27;re Used To</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kias-pv5-electric-campervan-has-two-beds-and-a-fully-equipped-kit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:15:47+00:00</news:publication_date>
+      <news:title>Kia’s PV5 electric campervan has two beds and a fully equipped kitchen [Images]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Kia-electric-campervan-PV5.jpg?quality=82&amp;strip=all&amp;w=1024</image:loc>
+      <image:title>Kia’s PV5 electric campervan has two beds and a fully equipped kitchen [Images]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/boston-dynamics-workers-protest-use-of-robot-dogs-by-ice/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T16:40:05+00:00</news:publication_date>
+      <news:title>Boston Dynamics Workers Protest Use Of Robot Dogs By ICE</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Cerebus-robot-dog.jpg</image:loc>
+      <image:title>Boston Dynamics Workers Protest Use Of Robot Dogs By ICE</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-bestselling-luxury-vehicles-of-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T16:23:51+00:00</news:publication_date>
+      <news:title>The Bestselling Luxury Vehicles of 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/da2ad3aa-75dd-4fe8-a435-5a6ebe218d35.jpg</image:loc>
+      <image:title>The Bestselling Luxury Vehicles of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/comparison-test-2027-bmw-ix3-vs-mercedes-benz-glc400/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T16:16:55+00:00</news:publication_date>
+      <news:title>Comparison Test: 2027 BMW iX3 vs. Mercedes-Benz GLC400</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5f03e23f-7c96-4e9d-baa4-ac4b2257e087.jpg</image:loc>
+      <image:title>Comparison Test: 2027 BMW iX3 vs. Mercedes-Benz GLC400</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/2027-bmw-x3-m50-adds-horsepower-and-a-sinister-appearance-package/</loc>
     <news:news>
       <news:publication>
@@ -30,6 +150,21 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/a47e42cf-e8a1-4323-9bc3-f1ae1de61251.jpg?crop=0.557xw:0.418xh;0.292xw,0.392xh&amp;resize=1200:*</image:loc>
       <image:title>2027 Lexus TX Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1-publishes-first-social-impact-report-key-student-scholarship-r/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T15:26:42+00:00</news:publication_date>
+      <news:title>F1 publishes first Social Impact Report; key student scholarship renewed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-2.motorsport.com/images/amp/0arE7LG2/s6/stem-racing-world-final-2026-s.jpg</image:loc>
+      <image:title>F1 publishes first Social Impact Report; key student scholarship renewed</image:title>
     </image:image>
   </url>
   <url>
@@ -153,6 +288,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/new-retro-electric-motorcycle-to-debut-at-eicma-with-a-novel-feat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:48:00+00:00</news:publication_date>
+      <news:title>New retro electric motorcycle to debut at EICMA with a novel feature: a second gear</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/e-motiv-electric-motorcycle-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>New retro electric motorcycle to debut at EICMA with a novel feature: a second gear</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/the-need-for-maintaining-renewable-energy-directive-stability-in-/</loc>
     <news:news>
       <news:publication>
@@ -180,6 +330,36 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/what-car-are-you-always-surprised-to-see-someone-actually-bought/l-intro-1793189773.jpg</image:loc>
       <image:title>What Car Are You Always Surprised To See Someone Actually Bought?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-semi-catches-fire-on-i-880-with-no-crash-closes-freeway-for/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:34:10+00:00</news:publication_date>
+      <news:title>Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-semi-fire-i-880-hayward-chp.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-23950-would-you-become-a-cars-coffee-legend-in-this-2012-roush/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:25:00+00:00</news:publication_date>
+      <news:title>At $23,950, Would You Become A Cars &amp; Coffee Legend In This 2012 Roush Stage 2 Mustang GT?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-23950-would-you-become-a-cars-coffee-legend-in-this-2012-roush-stage-2-mustang-gt/l-intro-1793120266.jpg</image:loc>
+      <image:title>At $23,950, Would You Become A Cars &amp; Coffee Legend In This 2012 Roush Stage 2 Mustang GT?</image:title>
     </image:image>
   </url>
   <url>
@@ -243,6 +423,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/the-unusual-aston-martin-honda-and-red-bull-powertrains-rumours-p/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T09:41:41+00:00</news:publication_date>
+      <news:title>The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-6.motorsport.com/images/amp/0JXRjNyY/s6/lance-stroll-aston-martin-raci-3.jpg</image:loc>
+      <image:title>The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/boschs-popular-e-bike-motor-just-got-upgraded-with-more-power-and/</loc>
     <news:news>
       <news:publication>
@@ -255,6 +450,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/bosch-active-line-e-bike-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Bosch’s popular e-bike motor just got upgraded with more power and less weight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-pedego-element-2-ebike-cleantechnica-tested/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T03:50:51+00:00</news:publication_date>
+      <news:title>The Pedego Element 2 eBike — CleanTechnica Tested</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/2026.9-pedego-element-2-ebike-ventura-california-KYLE-0.jpg</image:loc>
+      <image:title>The Pedego Element 2 eBike — CleanTechnica Tested</image:title>
     </image:image>
   </url>
   <url>
@@ -615,21 +825,6 @@
     <image:image>
       <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Lightburn-Zeta-Sports-Car-Front.jpg</image:loc>
       <image:title>Forgotten Roadster: The Unusual 1964 Lightburn “Zeta Sports”</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-startups-self-driving-excavators-help-dig-up-600m-in-new-fun/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:45:00+00:00</news:publication_date>
-      <news:title>This startup’s self-driving excavators help dig up $600M in new funding</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1600,1067</image:loc>
-      <image:title>This startup’s self-driving excavators help dig up $600M in new funding</image:title>
     </image:image>
   </url>
 </urlset>

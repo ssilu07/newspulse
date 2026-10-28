@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-28T16:12:27Z</lastmod>
+    <lastmod>2026-10-28T19:10:39Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-28T16:12:27Z</lastmod>
+    <lastmod>2026-10-28T19:10:39Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-28T16:12:27Z</lastmod>
+    <lastmod>2026-10-28T19:10:39Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-28T16:12:27Z</lastmod>
+    <lastmod>2026-10-28T19:10:39Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-28T16:12:27Z</lastmod>
+    <lastmod>2026-10-28T19:10:39Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-28T16:12:27Z</lastmod>
+    <lastmod>2026-10-28T19:10:39Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagens-ev-battery-recall-reaches-over-85000-with-audi-now-in/</loc>
+    <lastmod>2026-10-28T18:09:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen’s EV battery recall reaches over 85,000, with Audi now included</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagens-ev-battery-recall-reaches-over-85000-with-audi-now-in/</loc>
+    <lastmod>2026-10-28T18:09:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen’s EV battery recall reaches over 85,000, with Audi now included</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/luxury-around-the-world-cruise-stranded-in-cambodia-over-staggeri/</loc>
+    <lastmod>2026-10-28T17:55:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/luxury-around-the-world-cruise-stranded-in-cambodia-over-staggering-fuel-costs/l-intro-1793209662.jpg</image:loc>
+      <image:title>Luxury Around-The-World Cruise Stranded In Cambodia Over Staggering Fuel Costs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/luxury-around-the-world-cruise-stranded-in-cambodia-over-staggeri/</loc>
+    <lastmod>2026-10-28T17:55:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/luxury-around-the-world-cruise-stranded-in-cambodia-over-staggering-fuel-costs/l-intro-1793209662.jpg</image:loc>
+      <image:title>Luxury Around-The-World Cruise Stranded In Cambodia Over Staggering Fuel Costs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-toyota-crown-signia-gt-s-performance-concept-is-cooler-than-y/</loc>
+    <lastmod>2026-10-28T17:45:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-toyota-crown-signia-gt-s-performance-concept-is-cooler-than-you/l-intro-1793208956.jpg</image:loc>
+      <image:title>The Toyota Crown Signia GT-S Performance Concept Is Cooler Than You</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-toyota-crown-signia-gt-s-performance-concept-is-cooler-than-y/</loc>
+    <lastmod>2026-10-28T17:45:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-toyota-crown-signia-gt-s-performance-concept-is-cooler-than-you/l-intro-1793208956.jpg</image:loc>
+      <image:title>The Toyota Crown Signia GT-S Performance Concept Is Cooler Than You</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/prepare-to-inhale-way-more-methane-than-youre-used-to/</loc>
+    <lastmod>2026-10-28T17:21:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/prepare-to-inhale-way-more-methane-than-youre-used-to/l-intro-1793207666.jpg</image:loc>
+      <image:title>Prepare To Inhale Way More Methane Than You&#x27;re Used To</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/prepare-to-inhale-way-more-methane-than-youre-used-to/</loc>
+    <lastmod>2026-10-28T17:21:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/prepare-to-inhale-way-more-methane-than-youre-used-to/l-intro-1793207666.jpg</image:loc>
+      <image:title>Prepare To Inhale Way More Methane Than You&#x27;re Used To</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kias-pv5-electric-campervan-has-two-beds-and-a-fully-equipped-kit/</loc>
+    <lastmod>2026-10-28T17:15:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Kia-electric-campervan-PV5.jpg?quality=82&amp;strip=all&amp;w=1024</image:loc>
+      <image:title>Kia’s PV5 electric campervan has two beds and a fully equipped kitchen [Images]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kias-pv5-electric-campervan-has-two-beds-and-a-fully-equipped-kit/</loc>
+    <lastmod>2026-10-28T17:15:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Kia-electric-campervan-PV5.jpg?quality=82&amp;strip=all&amp;w=1024</image:loc>
+      <image:title>Kia’s PV5 electric campervan has two beds and a fully equipped kitchen [Images]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/boston-dynamics-workers-protest-use-of-robot-dogs-by-ice/</loc>
+    <lastmod>2026-10-28T16:40:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Cerebus-robot-dog.jpg</image:loc>
+      <image:title>Boston Dynamics Workers Protest Use Of Robot Dogs By ICE</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/boston-dynamics-workers-protest-use-of-robot-dogs-by-ice/</loc>
+    <lastmod>2026-10-28T16:40:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Cerebus-robot-dog.jpg</image:loc>
+      <image:title>Boston Dynamics Workers Protest Use Of Robot Dogs By ICE</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-bestselling-luxury-vehicles-of-2026/</loc>
+    <lastmod>2026-10-28T16:23:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/da2ad3aa-75dd-4fe8-a435-5a6ebe218d35.jpg</image:loc>
+      <image:title>The Bestselling Luxury Vehicles of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-bestselling-luxury-vehicles-of-2026/</loc>
+    <lastmod>2026-10-28T16:23:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/da2ad3aa-75dd-4fe8-a435-5a6ebe218d35.jpg</image:loc>
+      <image:title>The Bestselling Luxury Vehicles of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/comparison-test-2027-bmw-ix3-vs-mercedes-benz-glc400/</loc>
+    <lastmod>2026-10-28T16:16:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5f03e23f-7c96-4e9d-baa4-ac4b2257e087.jpg</image:loc>
+      <image:title>Comparison Test: 2027 BMW iX3 vs. Mercedes-Benz GLC400</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/comparison-test-2027-bmw-ix3-vs-mercedes-benz-glc400/</loc>
+    <lastmod>2026-10-28T16:16:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5f03e23f-7c96-4e9d-baa4-ac4b2257e087.jpg</image:loc>
+      <image:title>Comparison Test: 2027 BMW iX3 vs. Mercedes-Benz GLC400</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/2027-bmw-x3-m50-adds-horsepower-and-a-sinister-appearance-package/</loc>
@@ -75,6 +235,26 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/a47e42cf-e8a1-4323-9bc3-f1ae1de61251.jpg?crop=0.557xw:0.418xh;0.292xw,0.392xh&amp;resize=1200:*</image:loc>
       <image:title>2027 Lexus TX Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1-publishes-first-social-impact-report-key-student-scholarship-r/</loc>
+    <lastmod>2026-10-28T15:26:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-2.motorsport.com/images/amp/0arE7LG2/s6/stem-racing-world-final-2026-s.jpg</image:loc>
+      <image:title>F1 publishes first Social Impact Report; key student scholarship renewed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1-publishes-first-social-impact-report-key-student-scholarship-r/</loc>
+    <lastmod>2026-10-28T15:26:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-2.motorsport.com/images/amp/0arE7LG2/s6/stem-racing-world-final-2026-s.jpg</image:loc>
+      <image:title>F1 publishes first Social Impact Report; key student scholarship renewed</image:title>
     </image:image>
   </url>
   <url>
@@ -238,6 +418,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/new-retro-electric-motorcycle-to-debut-at-eicma-with-a-novel-feat/</loc>
+    <lastmod>2026-10-28T13:48:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/e-motiv-electric-motorcycle-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>New retro electric motorcycle to debut at EICMA with a novel feature: a second gear</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-retro-electric-motorcycle-to-debut-at-eicma-with-a-novel-feat/</loc>
+    <lastmod>2026-10-28T13:48:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/e-motiv-electric-motorcycle-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>New retro electric motorcycle to debut at EICMA with a novel feature: a second gear</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/the-need-for-maintaining-renewable-energy-directive-stability-in-/</loc>
     <lastmod>2026-10-28T13:36:08+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -275,6 +475,46 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/what-car-are-you-always-surprised-to-see-someone-actually-bought/l-intro-1793189773.jpg</image:loc>
       <image:title>What Car Are You Always Surprised To See Someone Actually Bought?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-semi-catches-fire-on-i-880-with-no-crash-closes-freeway-for/</loc>
+    <lastmod>2026-10-28T12:34:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-semi-fire-i-880-hayward-chp.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-semi-catches-fire-on-i-880-with-no-crash-closes-freeway-for/</loc>
+    <lastmod>2026-10-28T12:34:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-semi-fire-i-880-hayward-chp.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-23950-would-you-become-a-cars-coffee-legend-in-this-2012-roush/</loc>
+    <lastmod>2026-10-28T12:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-23950-would-you-become-a-cars-coffee-legend-in-this-2012-roush-stage-2-mustang-gt/l-intro-1793120266.jpg</image:loc>
+      <image:title>At $23,950, Would You Become A Cars &amp; Coffee Legend In This 2012 Roush Stage 2 Mustang GT?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-23950-would-you-become-a-cars-coffee-legend-in-this-2012-roush/</loc>
+    <lastmod>2026-10-28T12:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-23950-would-you-become-a-cars-coffee-legend-in-this-2012-roush-stage-2-mustang-gt/l-intro-1793120266.jpg</image:loc>
+      <image:title>At $23,950, Would You Become A Cars &amp; Coffee Legend In This 2012 Roush Stage 2 Mustang GT?</image:title>
     </image:image>
   </url>
   <url>
@@ -358,6 +598,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/the-unusual-aston-martin-honda-and-red-bull-powertrains-rumours-p/</loc>
+    <lastmod>2026-10-28T09:41:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-6.motorsport.com/images/amp/0JXRjNyY/s6/lance-stroll-aston-martin-raci-3.jpg</image:loc>
+      <image:title>The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-unusual-aston-martin-honda-and-red-bull-powertrains-rumours-p/</loc>
+    <lastmod>2026-10-28T09:41:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-6.motorsport.com/images/amp/0JXRjNyY/s6/lance-stroll-aston-martin-raci-3.jpg</image:loc>
+      <image:title>The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/boschs-popular-e-bike-motor-just-got-upgraded-with-more-power-and/</loc>
     <lastmod>2026-10-28T07:32:46+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -375,6 +635,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/bosch-active-line-e-bike-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Bosch’s popular e-bike motor just got upgraded with more power and less weight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-pedego-element-2-ebike-cleantechnica-tested/</loc>
+    <lastmod>2026-10-28T03:50:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/2026.9-pedego-element-2-ebike-ventura-california-KYLE-0.jpg</image:loc>
+      <image:title>The Pedego Element 2 eBike — CleanTechnica Tested</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-pedego-element-2-ebike-cleantechnica-tested/</loc>
+    <lastmod>2026-10-28T03:50:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/2026.9-pedego-element-2-ebike-ventura-california-KYLE-0.jpg</image:loc>
+      <image:title>The Pedego Element 2 eBike — CleanTechnica Tested</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-Las-Vegas-copy.jpeg</image:loc>
       <image:title>Waymo — Now Arriving At Harry Reid International Airport</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/us-tech-leaders-are-urgently-calling-for-rules-on-ai-china-alread/</loc>
-    <lastmod>2026-10-24T02:44:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/08-1.png</image:loc>
-      <image:title>US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/us-tech-leaders-are-urgently-calling-for-rules-on-ai-china-alread/</loc>
-    <lastmod>2026-10-24T02:44:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/08-1.png</image:loc>
-      <image:title>US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-a-phev-diesel-hybrid-a-viable-option-introducing-the-chery-sto/</loc>
-    <lastmod>2026-10-24T02:18:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/diesel-PHEV-ute.jpg</image:loc>
-      <image:title>Is A PHEV Diesel Hybrid A Viable Option? Introducing the Chery Stockman</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/is-a-phev-diesel-hybrid-a-viable-option-introducing-the-chery-sto/</loc>
-    <lastmod>2026-10-24T02:18:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/diesel-PHEV-ute.jpg</image:loc>
-      <image:title>Is A PHEV Diesel Hybrid A Viable Option? Introducing the Chery Stockman</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ron-desantis-statue-melts-in-rising-temperatures-he-spent-8-years/</loc>
-    <lastmod>2026-10-24T00:45:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Ron-DeSantis-statue-under-copy.jpg</image:loc>
-      <image:title>Ron DeSantis Statue Melts in Rising Temperatures He Spent 8 Years Denying; Climate Change Non-Profit 350 Action, Art Collective Uncommon Creative Studio, and M ss ng P eces Staged a Striking Midterm-Season Installation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ron-desantis-statue-melts-in-rising-temperatures-he-spent-8-years/</loc>
-    <lastmod>2026-10-24T00:45:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Ron-DeSantis-statue-under-copy.jpg</image:loc>
-      <image:title>Ron DeSantis Statue Melts in Rising Temperatures He Spent 8 Years Denying; Climate Change Non-Profit 350 Action, Art Collective Uncommon Creative Studio, and M ss ng P eces Staged a Striking Midterm-Season Installation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-new-italian-sports-car-is-the-closest-thing-to-a-modern-ferr/</loc>
-    <lastmod>2026-10-23T23:14:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-new-italian-sports-car-is-the-closest-thing-to-a-modern-ferrari-308/l-intro-1792796591.jpg</image:loc>
-      <image:title>This New Italian Sports Car Is The Closest Thing To A Modern Ferrari 308</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-new-italian-sports-car-is-the-closest-thing-to-a-modern-ferr/</loc>
-    <lastmod>2026-10-23T23:14:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-new-italian-sports-car-is-the-closest-thing-to-a-modern-ferrari-308/l-intro-1792796591.jpg</image:loc>
-      <image:title>This New Italian Sports Car Is The Closest Thing To A Modern Ferrari 308</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-bmw-7-series/</loc>
-    <lastmod>2026-10-23T22:37:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/613bcfb2-ea98-42a8-a3ac-e44663b1bed0.jpg?crop=1xw:0.75xh;0xw,0.204xh&amp;resize=1200:*</image:loc>
-      <image:title>View Interior Photos of the 2027 BMW 7-Series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2027-bmw-7-series/</loc>
-    <lastmod>2026-10-23T22:37:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/613bcfb2-ea98-42a8-a3ac-e44663b1bed0.jpg?crop=1xw:0.75xh;0xw,0.204xh&amp;resize=1200:*</image:loc>
-      <image:title>View Interior Photos of the 2027 BMW 7-Series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-bmw-7-series/</loc>
-    <lastmod>2026-10-23T22:36:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6eb78657-98a8-4f16-b22d-e32d3b51a341.jpg?crop=0.958xw:0.719xh;0xw,0.155xh&amp;resize=1200:*</image:loc>
-      <image:title>View Exterior Photos of the 2027 BMW 7-Series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2027-bmw-7-series/</loc>
-    <lastmod>2026-10-23T22:36:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6eb78657-98a8-4f16-b22d-e32d3b51a341.jpg?crop=0.958xw:0.719xh;0xw,0.155xh&amp;resize=1200:*</image:loc>
-      <image:title>View Exterior Photos of the 2027 BMW 7-Series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-2027-bmw-7-series-embraces-luxurious-maximalism/</loc>
-    <lastmod>2026-10-23T22:36:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/845ae470-48ee-4b27-859e-fb5d0b522ddc.jpg</image:loc>
-      <image:title>The 2027 BMW 7-Series Embraces Luxurious Maximalism</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-2027-bmw-7-series-embraces-luxurious-maximalism/</loc>
-    <lastmod>2026-10-23T22:36:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/845ae470-48ee-4b27-859e-fb5d0b522ddc.jpg</image:loc>
-      <image:title>The 2027 BMW 7-Series Embraces Luxurious Maximalism</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/not-even-a-partnership-with-xpeng-can-save-vw-in-china/</loc>
-    <lastmod>2026-10-23T22:18:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/not-even-a-partnership-with-xpeng-can-save-vw-in-china/l-intro-1792793503.jpg</image:loc>
-      <image:title>Not Even A Partnership With Xpeng Can Save VW In China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/not-even-a-partnership-with-xpeng-can-save-vw-in-china/</loc>
-    <lastmod>2026-10-23T22:18:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/not-even-a-partnership-with-xpeng-can-save-vw-in-china/l-intro-1792793503.jpg</image:loc>
-      <image:title>Not Even A Partnership With Xpeng Can Save VW In China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-recalls-106k-hybrid-land-cruisers-for-possible-fuel-leak/</loc>
-    <lastmod>2026-10-23T21:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-toyota-land-cruiser-133-6695615ead437.jpg</image:loc>
-      <image:title>Toyota Recalls 106K Hybrid Land Cruisers for Possible Fuel Leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-recalls-106k-hybrid-land-cruisers-for-possible-fuel-leak/</loc>
-    <lastmod>2026-10-23T21:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-toyota-land-cruiser-133-6695615ead437.jpg</image:loc>
-      <image:title>Toyota Recalls 106K Hybrid Land Cruisers for Possible Fuel Leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyotas-newest-gr-racing-prototype-sure-looks-like-the-next-gen-m/</loc>
-    <lastmod>2026-10-23T20:17:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cb8b4346-31c9-4fcd-a50e-b8513c05510d.jpeg</image:loc>
-      <image:title>Toyota’s Newest GR Racing Prototype Sure Looks Like the Next-Gen MR2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyotas-newest-gr-racing-prototype-sure-looks-like-the-next-gen-m/</loc>
-    <lastmod>2026-10-23T20:17:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cb8b4346-31c9-4fcd-a50e-b8513c05510d.jpeg</image:loc>
-      <image:title>Toyota’s Newest GR Racing Prototype Sure Looks Like the Next-Gen MR2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bstrongwillow-springs-raceway-shares-progress-at-the-two-year-mar/</loc>
-    <lastmod>2026-10-23T19:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cadc76b9-383e-4d71-80ee-2ff6504f34cb.jpg</image:loc>
-      <image:title>&lt;b&gt;&lt;strong&gt;Willow Springs Raceway Shares Progress at the Two-Year Mark&lt;/strong&gt;&lt;/b&gt;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bstrongwillow-springs-raceway-shares-progress-at-the-two-year-mar/</loc>
-    <lastmod>2026-10-23T19:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cadc76b9-383e-4d71-80ee-2ff6504f34cb.jpg</image:loc>
-      <image:title>&lt;b&gt;&lt;strong&gt;Willow Springs Raceway Shares Progress at the Two-Year Mark&lt;/strong&gt;&lt;/b&gt;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/aaron-paul-makes-surprise-cameo-in-dcs-clayface/</loc>
-    <lastmod>2026-10-23T18:56:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://assets-prd.ignimgs.com/2026/10/22/blogroll-2-6-1792673659287.png</image:loc>
-      <image:title>Aaron Paul Makes Surprise Cameo in DC’s Clayface</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/aaron-paul-makes-surprise-cameo-in-dcs-clayface/</loc>
-    <lastmod>2026-10-23T18:56:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://assets-prd.ignimgs.com/2026/10/22/blogroll-2-6-1792673659287.png</image:loc>
-      <image:title>Aaron Paul Makes Surprise Cameo in DC’s Clayface</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-ev-battery-gives-gasmobiles-the-deep-freeze/</loc>
-    <lastmod>2026-10-23T18:20:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/donut-lab-ev-batter.png</image:loc>
-      <image:title>New EV Battery Gives Gasmobiles The Deep Freeze</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-ev-battery-gives-gasmobiles-the-deep-freeze/</loc>
-    <lastmod>2026-10-23T18:20:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/donut-lab-ev-batter.png</image:loc>
-      <image:title>New EV Battery Gives Gasmobiles The Deep Freeze</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nhtsas-changing-the-definition-of-a-truck-possibly-encouraging-mo/</loc>
-    <lastmod>2026-10-23T18:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c4c5b0ab-04ec-4109-9cd3-305171543eed.jpg</image:loc>
-      <image:title>NHTSA’s Changing the Definition of a ‘Truck,’ Possibly Encouraging More Overseas Production</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/nhtsas-changing-the-definition-of-a-truck-possibly-encouraging-mo/</loc>
-    <lastmod>2026-10-23T18:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c4c5b0ab-04ec-4109-9cd3-305171543eed.jpg</image:loc>
-      <image:title>NHTSA’s Changing the Definition of a ‘Truck,’ Possibly Encouraging More Overseas Production</image:title>
     </image:image>
   </url>
 </urlset>
