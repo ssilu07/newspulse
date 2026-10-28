@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T22:34:30+00:00</news:publication_date>
+      <news:title>Dutch startup Elysian says electric flight may be closer than you think</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/elysian_MAIN.png?w=1600</image:loc>
+      <image:title>Dutch startup Elysian says electric flight may be closer than you think</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/used-evs-are-suddenly-hot-sellers-here-are-the-top-suvs-for-under/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:11:34+00:00</news:publication_date>
+      <news:title>Used EVs are suddenly hot sellers — Here are the top SUVs for under $25,000</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Used-EVs-under-25000.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Used EVs are suddenly hot sellers — Here are the top SUVs for under $25,000</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/an-italian-company-is-building-the-ultimate-ferrari-308-tribute/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:00:00+00:00</news:publication_date>
+      <news:title>An Italian Company Is Building the Ultimate Ferrari 308 Tribute</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/8868903c-2ac4-4cf7-84e5-8c941be9a199.jpg</image:loc>
+      <image:title>An Italian Company Is Building the Ultimate Ferrari 308 Tribute</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/dems-introduce-new-15000-ev-tax-credit-bill-that-has-no-chance-an/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:38:37+00:00</news:publication_date>
+      <news:title>Dems introduce new $15,000 EV tax credit bill that has no chance — and that’s a problem</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?w=1600</image:loc>
+      <image:title>Dems introduce new $15,000 EV tax credit bill that has no chance — and that’s a problem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-recalls-102159-f-150-and-super-duty-trucks-over-faulty-gauge/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:31:19+00:00</news:publication_date>
+      <news:title>Ford Recalls 102,159 F-150 and Super Duty Trucks over Faulty Gauges</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/00fe6d26-a26f-404c-97a4-3aa95431a919.jpg</image:loc>
+      <image:title>Ford Recalls 102,159 F-150 and Super Duty Trucks over Faulty Gauges</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-bmw-x3-m50-just-got-an-extra-44-hp-for-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:23:24+00:00</news:publication_date>
+      <news:title>The BMW X3 M50 Just Got An Extra 44 HP For 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-bmw-x3-m50-just-got-an-extra-44-hp-for-2027/l-intro-1793214995.jpg</image:loc>
+      <image:title>The BMW X3 M50 Just Got An Extra 44 HP For 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/volkswagens-ev-battery-recall-reaches-over-85000-with-audi-now-in/</loc>
     <news:news>
       <news:publication>
@@ -438,6 +528,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T08:00:03+00:00</news:publication_date>
+      <news:title>FIA announces new partnership to help drive future F1 regulations</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-2.motorsport.com/images/amp/0rVPM870/s6/fia-logo-2.jpg</image:loc>
+      <image:title>FIA announces new partnership to help drive future F1 regulations</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/boschs-popular-e-bike-motor-just-got-upgraded-with-more-power-and/</loc>
     <news:news>
       <news:publication>
@@ -495,6 +600,36 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/toyota-recalls-228000-siennas-over-second-row-seat-backs-that-could-move-around-in-a-crash/l-intro-1793121065.jpg</image:loc>
       <image:title>Toyota Recalls 228,000 Siennas Over Second-Row Seat Backs That Could Move Around In A Crash</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/waymo-growing-further/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T02:39:28+00:00</news:publication_date>
+      <news:title>Waymo Growing Further</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/New-Waymo-Ojai-2.jpg</image:loc>
+      <image:title>Waymo Growing Further</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/connecticut-advocates-elected-officials-public-health-experts-spe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T02:06:12+00:00</news:publication_date>
+      <news:title>Connecticut Advocates, Elected Officials, &amp; Public Health Experts Speak Out Against High Asthma Rates</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
+      <image:title>Connecticut Advocates, Elected Officials, &amp; Public Health Experts Speak Out Against High Asthma Rates</image:title>
     </image:image>
   </url>
   <url>
@@ -708,6 +843,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:57:28+00:00</news:publication_date>
+      <news:title>Mercedes has a Russell-sized problem and it is sharing responsibility</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/0JXRr4RY/s6/george-russell-mercedes.jpg</image:loc>
+      <image:title>Mercedes has a Russell-sized problem and it is sharing responsibility</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/toyota-just-put-all-its-trucks-on-snow-tracks/</loc>
     <news:news>
       <news:publication>
@@ -753,6 +903,51 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/audis-new-digital-matrix-lights-project-turn-signals-onto-the-roa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:25:00+00:00</news:publication_date>
+      <news:title>Audi&#x27;s New Digital Matrix Lights Project Turn Signals Onto The Road And Won&#x27;t Blind Other Cars</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/audi-new-digital-matrix-led-headlights-q9-sq9-technology-review/l-intro-1793124048.jpg</image:loc>
+      <image:title>Audi&#x27;s New Digital Matrix Lights Project Turn Signals Onto The Road And Won&#x27;t Blind Other Cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-2027-kia-ev9-costs-90-more-but-at-least-you-get-a-few-extras/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:20:46+00:00</news:publication_date>
+      <news:title>The 2027 Kia EV9 costs $90 more, but at least you get a few extras</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/2027-Kia-EV9-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The 2027 Kia EV9 costs $90 more, but at least you get a few extras</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/whats-your-most-ill-suited-automotive-experience/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:09:29+00:00</news:publication_date>
+      <news:title>What&#x27;s Your Most Ill-Suited Automotive Experience?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-most-ill-suited-automotive-experience/l-intro-1793113606.jpg</image:loc>
+      <image:title>What&#x27;s Your Most Ill-Suited Automotive Experience?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-/</loc>
     <news:news>
       <news:publication>
@@ -765,6 +960,21 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1600,1067</image:loc>
       <image:title>Ford Fathom will be the cheapest American EV capable of powering a house</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-workers-dont-love-the-audi-trump-alliance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:27:33+00:00</news:publication_date>
+      <news:title>Volkswagen Workers Don&#x27;t Love The Audi-Trump Alliance</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/volkswagen-workers-dont-love-the-audi-trump-alliance/l-intro-1793111079.jpg</image:loc>
+      <image:title>Volkswagen Workers Don&#x27;t Love The Audi-Trump Alliance</image:title>
     </image:image>
   </url>
   <url>
