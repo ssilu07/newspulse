@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/new-trek-e-bike-is-first-to-get-boschs-new-motor-with-a-major-pow/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T12:00:00+00:00</news:publication_date>
+      <news:title>New Trek e-bike is first to get Bosch’s new motor with a major power upgrade</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/trek-marlin-emtb-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>New Trek e-bike is first to get Bosch’s new motor with a major power upgrade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyotas-next-electric-suv-is-hiding-under-this-sliced-and-diced-c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T11:22:28+00:00</news:publication_date>
+      <news:title>Toyota&#x27;s Next Electric SUV Is Hiding Under This Sliced And Diced Corolla Cross</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-electric-suv-is-hiding-under-this-sliced-and-diced-corolla-cross/l-intro-1793272175.jpg</image:loc>
+      <image:title>Toyota&#x27;s Next Electric SUV Is Hiding Under This Sliced And Diced Corolla Cross</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-vehicles-are-dead-for-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T10:00:00+00:00</news:publication_date>
+      <news:title>These Vehicles Are Dead for 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg</image:loc>
+      <image:title>These Vehicles Are Dead for 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/crunch-time-for-motogp-as-qatar-talks-ramp-up/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T09:07:42+00:00</news:publication_date>
+      <news:title>Crunch time for MotoGP as Qatar talks ramp up</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1218165_HiRes.jpg</image:loc>
+      <image:title>Crunch time for MotoGP as Qatar talks ramp up</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/superpower-neutered-piastris-fresh-f1-struggles-explained/</loc>
     <news:news>
       <news:publication>
@@ -30,6 +90,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357660_HiRes.jpg</image:loc>
       <image:title>Mir explains the vision issues behind his long MotoGP absence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/martin-cleared-to-ride-with-broken-wrist-as-he-tries-to-stay-in-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T06:59:33+00:00</news:publication_date>
+      <news:title>Martin cleared to ride with broken wrist as he tries to stay in title hunt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357511_HiRes.jpg</image:loc>
+      <image:title>Martin cleared to ride with broken wrist as he tries to stay in title hunt</image:title>
     </image:image>
   </url>
   <url>
@@ -150,6 +225,36 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
       <image:title>Louisiana DEQ Issues Rushed, Controversial Air Permit to Proposed Hyundai Steel Facility</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/teslas-full-self-driving-has-now-dramatically-reduced-the-number-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T23:48:19+00:00</news:publication_date>
+      <news:title>Tesla’s Full Self Driving Has Now Dramatically Reduced the Number of Reasons to Intervene or Complain</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/3683.-Full-Self-Driving-V14-Nav-Screen.-2026-Tesla-Model-Y.-Camp-Hasler.-Three-Lakes-Wisconsin.-June-11-2026.-Fritz-Hasler-Photo-scaled.jpg</image:loc>
+      <image:title>Tesla’s Full Self Driving Has Now Dramatically Reduced the Number of Reasons to Intervene or Complain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jetson-launches-fixed-price-heat-pump-water-heater-with-installat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T22:40:31+00:00</news:publication_date>
+      <news:title>Jetson Launches Fixed Price Heat Pump Water Heater with Installation Included</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/06-Jetson_Water-Lifestyle.png</image:loc>
+      <image:title>Jetson Launches Fixed Price Heat Pump Water Heater with Installation Included</image:title>
     </image:image>
   </url>
   <url>
@@ -405,6 +510,21 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/da2ad3aa-75dd-4fe8-a435-5a6ebe218d35.jpg</image:loc>
       <image:title>The Bestselling Luxury Vehicles of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fords-radical-fathom-electric-uses-a-tesla-trick-to-turn-146-part/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T16:22:27+00:00</news:publication_date>
+      <news:title>Ford&#x27;s Radical Fathom Electric Uses A Tesla Trick To Turn 146 Parts Into 2</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/fords-radical-fathom-electric-uses-a-tesla-trick-to-turn-146-parts-into-2/l-intro-1793203924.jpg</image:loc>
+      <image:title>Ford&#x27;s Radical Fathom Electric Uses A Tesla Trick To Turn 146 Parts Into 2</image:title>
     </image:image>
   </url>
   <url>
@@ -858,6 +978,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/central-heat-pump-water-heaters-are-on-the-up-up/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T01:16:20+00:00</news:publication_date>
+      <news:title>Central Heat Pump Water Heaters Are On The Up &amp; Up</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Water-Drop-Central-HPWH.png</image:loc>
+      <image:title>Central Heat Pump Water Heaters Are On The Up &amp; Up</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/view-interior-photos-of-the-2028-aston-martin-valhalla-spider/</loc>
     <news:news>
       <news:publication>
@@ -1053,6 +1188,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/look-ma-no-inverter-new-ford-fathom-cuts-the-cost-of-bidirectiona/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:45:45+00:00</news:publication_date>
+      <news:title>Look Ma, No Inverter! New Ford Fathom Cuts The Cost Of Bidirectional EV Charging</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM.png</image:loc>
+      <image:title>Look Ma, No Inverter! New Ford Fathom Cuts The Cost Of Bidirectional EV Charging</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/fords-30k-fathom-ev-can-double-as-a-home-power-generator/</loc>
     <news:news>
       <news:publication>
@@ -1128,6 +1278,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/worlds-largest-electric-ferry-enters-service-in-buenos-aires/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T18:16:06+00:00</news:publication_date>
+      <news:title>World’s Largest Electric Ferry Enters Service In Buenos Aires</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Incat-Hull-096.jpg</image:loc>
+      <image:title>World’s Largest Electric Ferry Enters Service In Buenos Aires</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bmw-is-going-upscale-with-its-first-3-row-ev-the-ix7/</loc>
     <news:news>
       <news:publication>
@@ -1185,6 +1350,51 @@
     <image:image>
       <image:loc>https://cdn-9.motorsport.com/images/amp/0JXRr4RY/s6/george-russell-mercedes.jpg</image:loc>
       <image:title>Mercedes has a Russell-sized problem and it is sharing responsibility</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-photos-of-the-1976-renault-17-gordini/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:39:24+00:00</news:publication_date>
+      <news:title>View Photos of the 1976 Renault 17 Gordini</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/4719617f-1a4f-42c5-a9e3-7f7d007283b2.jpg</image:loc>
+      <image:title>View Photos of the 1976 Renault 17 Gordini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/joie-de-vivre-instead-of-ennui-we-test-the-1976-renault-17-gordin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:39:20+00:00</news:publication_date>
+      <news:title>Joie de Vivre Instead of Ennui: We Test the 1976 Renault 17 Gordini</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/689c90cb-6a7c-4096-9874-03149de9269a.jpg?crop=0.854xw:0.64xh;0.099xw,0.184xh&amp;resize=1200:*</image:loc>
+      <image:title>Joie de Vivre Instead of Ennui: We Test the 1976 Renault 17 Gordini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-jeep-gladiator-loses-base-model-adds-35-inch-tire-option/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:28:45+00:00</news:publication_date>
+      <news:title>2027 Jeep Gladiator Loses Base Model, Adds 35-Inch Tire Option</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1ce9b4db-9904-497c-8408-b9520d7dd00b.jpg</image:loc>
+      <image:title>2027 Jeep Gladiator Loses Base Model, Adds 35-Inch Tire Option</image:title>
     </image:image>
   </url>
   <url>
@@ -1395,36 +1605,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/XP-lite3-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Lectric launches XP Lite3 e-bike, the new best low-cost model in the US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-alonsos-harsh-f1-driver-claim-justified/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T10:51:12+00:00</news:publication_date>
-      <news:title>Is Alonso&#x27;s harsh F1 driver claim justified?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/USA-Sunday-Thumb-005.jpg</image:loc>
-      <image:title>Is Alonso&#x27;s harsh F1 driver claim justified?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/red-bull-explains-why-verstappen-and-hadjars-silly-problems-wont-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T09:46:28+00:00</news:publication_date>
-      <news:title>Red Bull explains why Verstappen and Hadjar&#x27;s &#x27;silly&#x27; problems won&#x27;t all be fixed in 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn-7.motorsport.com/images/amp/6b8ZNKw2/s6/max-verstappen-red-bull-racing-2.jpg</image:loc>
-      <image:title>Red Bull explains why Verstappen and Hadjar&#x27;s &#x27;silly&#x27; problems won&#x27;t all be fixed in 2026</image:title>
     </image:image>
   </url>
 </urlset>

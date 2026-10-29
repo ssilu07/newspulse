@@ -3,39 +3,119 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-29T08:42:25Z</lastmod>
+    <lastmod>2026-10-29T12:20:22Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-29T08:42:25Z</lastmod>
+    <lastmod>2026-10-29T12:20:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-29T08:42:25Z</lastmod>
+    <lastmod>2026-10-29T12:20:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-29T08:42:25Z</lastmod>
+    <lastmod>2026-10-29T12:20:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-29T08:42:25Z</lastmod>
+    <lastmod>2026-10-29T12:20:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-29T08:42:25Z</lastmod>
+    <lastmod>2026-10-29T12:20:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-trek-e-bike-is-first-to-get-boschs-new-motor-with-a-major-pow/</loc>
+    <lastmod>2026-10-29T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/trek-marlin-emtb-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>New Trek e-bike is first to get Bosch’s new motor with a major power upgrade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-trek-e-bike-is-first-to-get-boschs-new-motor-with-a-major-pow/</loc>
+    <lastmod>2026-10-29T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/trek-marlin-emtb-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>New Trek e-bike is first to get Bosch’s new motor with a major power upgrade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyotas-next-electric-suv-is-hiding-under-this-sliced-and-diced-c/</loc>
+    <lastmod>2026-10-29T11:22:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-electric-suv-is-hiding-under-this-sliced-and-diced-corolla-cross/l-intro-1793272175.jpg</image:loc>
+      <image:title>Toyota&#x27;s Next Electric SUV Is Hiding Under This Sliced And Diced Corolla Cross</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyotas-next-electric-suv-is-hiding-under-this-sliced-and-diced-c/</loc>
+    <lastmod>2026-10-29T11:22:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-electric-suv-is-hiding-under-this-sliced-and-diced-corolla-cross/l-intro-1793272175.jpg</image:loc>
+      <image:title>Toyota&#x27;s Next Electric SUV Is Hiding Under This Sliced And Diced Corolla Cross</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-vehicles-are-dead-for-2027/</loc>
+    <lastmod>2026-10-29T10:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg</image:loc>
+      <image:title>These Vehicles Are Dead for 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-vehicles-are-dead-for-2027/</loc>
+    <lastmod>2026-10-29T10:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg</image:loc>
+      <image:title>These Vehicles Are Dead for 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/crunch-time-for-motogp-as-qatar-talks-ramp-up/</loc>
+    <lastmod>2026-10-29T09:07:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1218165_HiRes.jpg</image:loc>
+      <image:title>Crunch time for MotoGP as Qatar talks ramp up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/crunch-time-for-motogp-as-qatar-talks-ramp-up/</loc>
+    <lastmod>2026-10-29T09:07:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1218165_HiRes.jpg</image:loc>
+      <image:title>Crunch time for MotoGP as Qatar talks ramp up</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/superpower-neutered-piastris-fresh-f1-struggles-explained/</loc>
@@ -75,6 +155,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357660_HiRes.jpg</image:loc>
       <image:title>Mir explains the vision issues behind his long MotoGP absence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/martin-cleared-to-ride-with-broken-wrist-as-he-tries-to-stay-in-t/</loc>
+    <lastmod>2026-10-29T06:59:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357511_HiRes.jpg</image:loc>
+      <image:title>Martin cleared to ride with broken wrist as he tries to stay in title hunt</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/martin-cleared-to-ride-with-broken-wrist-as-he-tries-to-stay-in-t/</loc>
+    <lastmod>2026-10-29T06:59:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357511_HiRes.jpg</image:loc>
+      <image:title>Martin cleared to ride with broken wrist as he tries to stay in title hunt</image:title>
     </image:image>
   </url>
   <url>
@@ -235,6 +335,46 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
       <image:title>Louisiana DEQ Issues Rushed, Controversial Air Permit to Proposed Hyundai Steel Facility</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/teslas-full-self-driving-has-now-dramatically-reduced-the-number-/</loc>
+    <lastmod>2026-10-28T23:48:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/3683.-Full-Self-Driving-V14-Nav-Screen.-2026-Tesla-Model-Y.-Camp-Hasler.-Three-Lakes-Wisconsin.-June-11-2026.-Fritz-Hasler-Photo-scaled.jpg</image:loc>
+      <image:title>Tesla’s Full Self Driving Has Now Dramatically Reduced the Number of Reasons to Intervene or Complain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/teslas-full-self-driving-has-now-dramatically-reduced-the-number-/</loc>
+    <lastmod>2026-10-28T23:48:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/3683.-Full-Self-Driving-V14-Nav-Screen.-2026-Tesla-Model-Y.-Camp-Hasler.-Three-Lakes-Wisconsin.-June-11-2026.-Fritz-Hasler-Photo-scaled.jpg</image:loc>
+      <image:title>Tesla’s Full Self Driving Has Now Dramatically Reduced the Number of Reasons to Intervene or Complain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jetson-launches-fixed-price-heat-pump-water-heater-with-installat/</loc>
+    <lastmod>2026-10-28T22:40:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/06-Jetson_Water-Lifestyle.png</image:loc>
+      <image:title>Jetson Launches Fixed Price Heat Pump Water Heater with Installation Included</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jetson-launches-fixed-price-heat-pump-water-heater-with-installat/</loc>
+    <lastmod>2026-10-28T22:40:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/06-Jetson_Water-Lifestyle.png</image:loc>
+      <image:title>Jetson Launches Fixed Price Heat Pump Water Heater with Installation Included</image:title>
     </image:image>
   </url>
   <url>
@@ -575,6 +715,26 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/da2ad3aa-75dd-4fe8-a435-5a6ebe218d35.jpg</image:loc>
       <image:title>The Bestselling Luxury Vehicles of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fords-radical-fathom-electric-uses-a-tesla-trick-to-turn-146-part/</loc>
+    <lastmod>2026-10-28T16:22:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/fords-radical-fathom-electric-uses-a-tesla-trick-to-turn-146-parts-into-2/l-intro-1793203924.jpg</image:loc>
+      <image:title>Ford&#x27;s Radical Fathom Electric Uses A Tesla Trick To Turn 146 Parts Into 2</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/fords-radical-fathom-electric-uses-a-tesla-trick-to-turn-146-part/</loc>
+    <lastmod>2026-10-28T16:22:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/fords-radical-fathom-electric-uses-a-tesla-trick-to-turn-146-parts-into-2/l-intro-1793203924.jpg</image:loc>
+      <image:title>Ford&#x27;s Radical Fathom Electric Uses A Tesla Trick To Turn 146 Parts Into 2</image:title>
     </image:image>
   </url>
   <url>
@@ -1178,6 +1338,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/central-heat-pump-water-heaters-are-on-the-up-up/</loc>
+    <lastmod>2026-10-28T01:16:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Water-Drop-Central-HPWH.png</image:loc>
+      <image:title>Central Heat Pump Water Heaters Are On The Up &amp; Up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/central-heat-pump-water-heaters-are-on-the-up-up/</loc>
+    <lastmod>2026-10-28T01:16:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Water-Drop-Central-HPWH.png</image:loc>
+      <image:title>Central Heat Pump Water Heaters Are On The Up &amp; Up</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/view-interior-photos-of-the-2028-aston-martin-valhalla-spider/</loc>
     <lastmod>2026-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1438,6 +1618,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/look-ma-no-inverter-new-ford-fathom-cuts-the-cost-of-bidirectiona/</loc>
+    <lastmod>2026-10-27T19:45:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM.png</image:loc>
+      <image:title>Look Ma, No Inverter! New Ford Fathom Cuts The Cost Of Bidirectional EV Charging</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/look-ma-no-inverter-new-ford-fathom-cuts-the-cost-of-bidirectiona/</loc>
+    <lastmod>2026-10-27T19:45:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM.png</image:loc>
+      <image:title>Look Ma, No Inverter! New Ford Fathom Cuts The Cost Of Bidirectional EV Charging</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/fords-30k-fathom-ev-can-double-as-a-home-power-generator/</loc>
     <lastmod>2026-10-27T19:26:29+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1538,6 +1738,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/worlds-largest-electric-ferry-enters-service-in-buenos-aires/</loc>
+    <lastmod>2026-10-27T18:16:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Incat-Hull-096.jpg</image:loc>
+      <image:title>World’s Largest Electric Ferry Enters Service In Buenos Aires</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/worlds-largest-electric-ferry-enters-service-in-buenos-aires/</loc>
+    <lastmod>2026-10-27T18:16:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Incat-Hull-096.jpg</image:loc>
+      <image:title>World’s Largest Electric Ferry Enters Service In Buenos Aires</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bmw-is-going-upscale-with-its-first-3-row-ev-the-ix7/</loc>
     <lastmod>2026-10-27T18:10:26+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1615,6 +1835,66 @@
     <image:image>
       <image:loc>https://cdn-9.motorsport.com/images/amp/0JXRr4RY/s6/george-russell-mercedes.jpg</image:loc>
       <image:title>Mercedes has a Russell-sized problem and it is sharing responsibility</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-photos-of-the-1976-renault-17-gordini/</loc>
+    <lastmod>2026-10-27T16:39:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/4719617f-1a4f-42c5-a9e3-7f7d007283b2.jpg</image:loc>
+      <image:title>View Photos of the 1976 Renault 17 Gordini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-photos-of-the-1976-renault-17-gordini/</loc>
+    <lastmod>2026-10-27T16:39:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/4719617f-1a4f-42c5-a9e3-7f7d007283b2.jpg</image:loc>
+      <image:title>View Photos of the 1976 Renault 17 Gordini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/joie-de-vivre-instead-of-ennui-we-test-the-1976-renault-17-gordin/</loc>
+    <lastmod>2026-10-27T16:39:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/689c90cb-6a7c-4096-9874-03149de9269a.jpg?crop=0.854xw:0.64xh;0.099xw,0.184xh&amp;resize=1200:*</image:loc>
+      <image:title>Joie de Vivre Instead of Ennui: We Test the 1976 Renault 17 Gordini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/joie-de-vivre-instead-of-ennui-we-test-the-1976-renault-17-gordin/</loc>
+    <lastmod>2026-10-27T16:39:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/689c90cb-6a7c-4096-9874-03149de9269a.jpg?crop=0.854xw:0.64xh;0.099xw,0.184xh&amp;resize=1200:*</image:loc>
+      <image:title>Joie de Vivre Instead of Ennui: We Test the 1976 Renault 17 Gordini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-jeep-gladiator-loses-base-model-adds-35-inch-tire-option/</loc>
+    <lastmod>2026-10-27T16:28:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1ce9b4db-9904-497c-8408-b9520d7dd00b.jpg</image:loc>
+      <image:title>2027 Jeep Gladiator Loses Base Model, Adds 35-Inch Tire Option</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-jeep-gladiator-loses-base-model-adds-35-inch-tire-option/</loc>
+    <lastmod>2026-10-27T16:28:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1ce9b4db-9904-497c-8408-b9520d7dd00b.jpg</image:loc>
+      <image:title>2027 Jeep Gladiator Loses Base Model, Adds 35-Inch Tire Option</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/trabant-finally-got-a-4-cylinder-engine-just-as-east-germans-could-buy-western-cars/l-intro-1792176018.jpg</image:loc>
       <image:title>Trabant Finally Got A 4-Cylinder Engine Just As East Germans Could Buy Western Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-f1-2026-team-mates-are-comparing-in-qualifying/</loc>
-    <lastmod>2026-10-25T10:49:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/03/SI202603050143.jpg</image:loc>
-      <image:title>How F1 2026 team-mates are comparing in qualifying</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-f1-2026-team-mates-are-comparing-in-qualifying/</loc>
-    <lastmod>2026-10-25T10:49:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/03/SI202603050143.jpg</image:loc>
-      <image:title>How F1 2026 team-mates are comparing in qualifying</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rivian-and-volvo-make-the-only-large-suvs-to-get-iihs-top-safety-/</loc>
-    <lastmod>2026-10-25T09:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/rivian-and-volvo-make-the-only-large-suvs-to-get-iihs-top-safety-pick-ratings-in-2026/l-intro-1792193587.jpg</image:loc>
-      <image:title>Rivian And Volvo Make The Only Large SUVs To Get IIHS Top Safety Pick+ Ratings In 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rivian-and-volvo-make-the-only-large-suvs-to-get-iihs-top-safety-/</loc>
-    <lastmod>2026-10-25T09:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/rivian-and-volvo-make-the-only-large-suvs-to-get-iihs-top-safety-pick-ratings-in-2026/l-intro-1792193587.jpg</image:loc>
-      <image:title>Rivian And Volvo Make The Only Large SUVs To Get IIHS Top Safety Pick+ Ratings In 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/verstappen-responds-to-cota-boss-and-proposes-drastic-measures-to/</loc>
-    <lastmod>2026-10-25T09:22:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-8.motorsport.com/images/amp/6zoDqGp0/s6/max-verstappen-red-bull-racing-2.jpg</image:loc>
-      <image:title>Verstappen responds to COTA boss and proposes drastic measures to tackle bumps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/verstappen-responds-to-cota-boss-and-proposes-drastic-measures-to/</loc>
-    <lastmod>2026-10-25T09:22:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-8.motorsport.com/images/amp/6zoDqGp0/s6/max-verstappen-red-bull-racing-2.jpg</image:loc>
-      <image:title>Verstappen responds to COTA boss and proposes drastic measures to tackle bumps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/invest-in-solar-and-earn-3000-a-day/</loc>
-    <lastmod>2026-10-25T08:20:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/solar-power-us-department-of-energy.jpg</image:loc>
-      <image:title>Invest in solar and earn $3,000 a day?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/invest-in-solar-and-earn-3000-a-day/</loc>
-    <lastmod>2026-10-25T08:20:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/solar-power-us-department-of-energy.jpg</image:loc>
-      <image:title>Invest in solar and earn $3,000 a day?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/e-quipment-highlight-the-highest-rated-mowers-on-amazon-are-elect/</loc>
-    <lastmod>2026-10-25T08:01:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/electric_mowers.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>E-quipment highlight: the highest-rated mowers on Amazon are ELECTRIC (2026)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/e-quipment-highlight-the-highest-rated-mowers-on-amazon-are-elect/</loc>
-    <lastmod>2026-10-25T08:01:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/electric_mowers.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>E-quipment highlight: the highest-rated mowers on Amazon are ELECTRIC (2026)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/police-pull-over-two-men-riding-an-electric-couch-down-the-street/</loc>
-    <lastmod>2026-10-25T05:47:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/limecouchlead-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Police pull over two men riding an electric couch down the street</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/police-pull-over-two-men-riding-an-electric-couch-down-the-street/</loc>
-    <lastmod>2026-10-25T05:47:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/limecouchlead-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Police pull over two men riding an electric couch down the street</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/motogps-final-phillip-island-race-cancelled-replaced-with-parade-/</loc>
-    <lastmod>2026-10-25T04:48:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357382_HiRes.jpg</image:loc>
-      <image:title>MotoGP&#x27;s final Phillip Island race cancelled, replaced with parade lap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/motogps-final-phillip-island-race-cancelled-replaced-with-parade-/</loc>
-    <lastmod>2026-10-25T04:48:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357382_HiRes.jpg</image:loc>
-      <image:title>MotoGP&#x27;s final Phillip Island race cancelled, replaced with parade lap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-michigan-state-police-recently-took-police-cars-to-a-track-to/</loc>
-    <lastmod>2026-10-25T03:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-michigan-state-police-recently-took-police-cars-to-a-track-to-see-which-was-fastest/l-intro-1792091854.jpg</image:loc>
-      <image:title>The Michigan State Police Recently Took Police Cars To A Track To See Which Was Fastest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-michigan-state-police-recently-took-police-cars-to-a-track-to/</loc>
-    <lastmod>2026-10-25T03:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-michigan-state-police-recently-took-police-cars-to-a-track-to-see-which-was-fastest/l-intro-1792091854.jpg</image:loc>
-      <image:title>The Michigan State Police Recently Took Police Cars To A Track To See Which Was Fastest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/retro-home-on-wheels-a-1971-ford-econoline-shasta-motorhome/</loc>
-    <lastmod>2026-10-25T02:30:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Ford-Econoline-Shasta-Motorhome-Camper.jpg</image:loc>
-      <image:title>Retro Home-On-Wheels: A 1971 Ford Econoline “Shasta Motorhome”</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/retro-home-on-wheels-a-1971-ford-econoline-shasta-motorhome/</loc>
-    <lastmod>2026-10-25T02:30:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Ford-Econoline-Shasta-Motorhome-Camper.jpg</image:loc>
-      <image:title>Retro Home-On-Wheels: A 1971 Ford Econoline “Shasta Motorhome”</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-verstappen-lost-pole-to-antonelli-and-nearly-got-beaten-by-ha/</loc>
-    <lastmod>2026-10-25T02:07:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447116_HiRes.jpg</image:loc>
-      <image:title>How Verstappen lost pole to Antonelli</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-verstappen-lost-pole-to-antonelli-and-nearly-got-beaten-by-ha/</loc>
-    <lastmod>2026-10-25T02:07:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447116_HiRes.jpg</image:loc>
-      <image:title>How Verstappen lost pole to Antonelli</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-two-weaknesses-conspiring-against-ferrari-at-austin/</loc>
-    <lastmod>2026-10-25T01:35:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/261024_R18_USA_DP_XB3_6937_510af0f5-362a-41b8-b3f1-eaf88620a333.jpg</image:loc>
-      <image:title>The two weaknesses conspiring against Ferrari at Austin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-two-weaknesses-conspiring-against-ferrari-at-austin/</loc>
-    <lastmod>2026-10-25T01:35:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/261024_R18_USA_DP_XB3_6937_510af0f5-362a-41b8-b3f1-eaf88620a333.jpg</image:loc>
-      <image:title>The two weaknesses conspiring against Ferrari at Austin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-pickup-trucks-are-traditionally-chosen-over-suvs-for-big-towi/</loc>
-    <lastmod>2026-10-25T01:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-pickup-trucks-are-traditionally-chosen-over-suvs-for-big-towing-jobs/l-intro-1792405976.jpg</image:loc>
-      <image:title>Why Pickup Trucks Are Traditionally Chosen Over SUVs For Big Towing Jobs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-pickup-trucks-are-traditionally-chosen-over-suvs-for-big-towi/</loc>
-    <lastmod>2026-10-25T01:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-pickup-trucks-are-traditionally-chosen-over-suvs-for-big-towing-jobs/l-intro-1792405976.jpg</image:loc>
-      <image:title>Why Pickup Trucks Are Traditionally Chosen Over SUVs For Big Towing Jobs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/winners-and-losers-from-us-gp-f1-qualifying-2026/</loc>
-    <lastmod>2026-10-25T00:43:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446958_HiRes.jpg</image:loc>
-      <image:title>Winners and losers from US GP F1 qualifying 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/winners-and-losers-from-us-gp-f1-qualifying-2026/</loc>
-    <lastmod>2026-10-25T00:43:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446958_HiRes.jpg</image:loc>
-      <image:title>Winners and losers from US GP F1 qualifying 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-2026-united-states-grand-prix-starting-grid-with-three-penalti/</loc>
-    <lastmod>2026-10-25T00:24:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447054_HiRes-1.jpg</image:loc>
-      <image:title>F1 2026 United States Grand Prix starting grid with three penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1-2026-united-states-grand-prix-starting-grid-with-three-penalti/</loc>
-    <lastmod>2026-10-25T00:24:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447054_HiRes-1.jpg</image:loc>
-      <image:title>F1 2026 United States Grand Prix starting grid with three penalties</image:title>
     </image:image>
   </url>
 </urlset>
