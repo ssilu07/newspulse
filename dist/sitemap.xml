@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-29T12:20:22Z</lastmod>
+    <lastmod>2026-10-29T16:19:29Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-29T12:20:22Z</lastmod>
+    <lastmod>2026-10-29T16:19:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-29T12:20:22Z</lastmod>
+    <lastmod>2026-10-29T16:19:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-29T12:20:22Z</lastmod>
+    <lastmod>2026-10-29T16:19:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-29T12:20:22Z</lastmod>
+    <lastmod>2026-10-29T16:19:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-29T12:20:22Z</lastmod>
+    <lastmod>2026-10-29T16:19:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ex-tesla-autopilot-head-calls-vision-only-a-weird-religious-stanc/</loc>
+    <lastmod>2026-10-29T16:10:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Night-Street_-Camera-vs-Lidar.png?w=1600</image:loc>
+      <image:title>Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ex-tesla-autopilot-head-calls-vision-only-a-weird-religious-stanc/</loc>
+    <lastmod>2026-10-29T16:10:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Night-Street_-Camera-vs-Lidar.png?w=1600</image:loc>
+      <image:title>Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-ricciardo-would-consider-a-comeback-at-le-mans/</loc>
+    <lastmod>2026-10-29T16:00:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/Y99DKwAY/s6/daniel-ricciardo-visa-cash-app-2.jpg</image:loc>
+      <image:title>Why Ricciardo would consider a comeback at Le Mans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-ricciardo-would-consider-a-comeback-at-le-mans/</loc>
+    <lastmod>2026-10-29T16:00:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/Y99DKwAY/s6/daniel-ricciardo-visa-cash-app-2.jpg</image:loc>
+      <image:title>Why Ricciardo would consider a comeback at Le Mans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/want-a-real-video-game-car-ebay-motors-is-auctioning-four-of-them/</loc>
+    <lastmod>2026-10-29T15:35:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/bb958845-7450-4e56-b66d-cbd40bd68489.jpg</image:loc>
+      <image:title>Want a Real Video Game Car? eBay Motors Is Auctioning Four of Them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/want-a-real-video-game-car-ebay-motors-is-auctioning-four-of-them/</loc>
+    <lastmod>2026-10-29T15:35:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/bb958845-7450-4e56-b66d-cbd40bd68489.jpg</image:loc>
+      <image:title>Want a Real Video Game Car? eBay Motors Is Auctioning Four of Them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/williams-launches-w50-expo-to-celebrate-f1-milestone/</loc>
+    <lastmod>2026-10-29T15:18:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/2250102035.jpg</image:loc>
+      <image:title>Williams launches &#x27;W50&#x27; expo to celebrate F1 milestone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/williams-launches-w50-expo-to-celebrate-f1-milestone/</loc>
+    <lastmod>2026-10-29T15:18:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/2250102035.jpg</image:loc>
+      <image:title>Williams launches &#x27;W50&#x27; expo to celebrate F1 milestone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/sure-looks-like-trump-loves-evs-after-all/</loc>
+    <lastmod>2026-10-29T14:25:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/pnnl-batteries-evs.jpg</image:loc>
+      <image:title>Sure Looks Like Trump Loves EVs After All</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/sure-looks-like-trump-loves-evs-after-all/</loc>
+    <lastmod>2026-10-29T14:25:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/pnnl-batteries-evs.jpg</image:loc>
+      <image:title>Sure Looks Like Trump Loves EVs After All</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-were-your-most-ill-suited-automotive-experiences/</loc>
+    <lastmod>2026-10-29T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-were-your-most-ill-suited-automotive-experiences/l-intro-1793276763.jpg</image:loc>
+      <image:title>These Were Your Most Ill-Suited Automotive Experiences</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-were-your-most-ill-suited-automotive-experiences/</loc>
+    <lastmod>2026-10-29T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-were-your-most-ill-suited-automotive-experiences/l-intro-1793276763.jpg</image:loc>
+      <image:title>These Were Your Most Ill-Suited Automotive Experiences</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-ford-escape-will-return-as-an-ev-based-on-the-uev-platform/</loc>
+    <lastmod>2026-10-29T14:13:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Escape-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The Ford Escape will return as an EV based on the UEV platform</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-ford-escape-will-return-as-an-ev-based-on-the-uev-platform/</loc>
+    <lastmod>2026-10-29T14:13:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Escape-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The Ford Escape will return as an EV based on the UEV platform</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/porsche-writedown-plunges-volkswagen-deeper-into-the-financial-ab/</loc>
+    <lastmod>2026-10-29T14:09:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/porsche-writedown-plunges-volkswagen-deeper-into-the-financial-abyss/l-intro-1793282868.jpg</image:loc>
+      <image:title>Porsche Writedown Plunges Volkswagen Deeper Into The Financial Abyss</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/porsche-writedown-plunges-volkswagen-deeper-into-the-financial-ab/</loc>
+    <lastmod>2026-10-29T14:09:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/porsche-writedown-plunges-volkswagen-deeper-into-the-financial-abyss/l-intro-1793282868.jpg</image:loc>
+      <image:title>Porsche Writedown Plunges Volkswagen Deeper Into The Financial Abyss</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/scaling-european-battery-recycling-via-the-circular-economy-act/</loc>
+    <lastmod>2026-10-29T14:08:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/2022.12-audi-brussels-factory-plant-battery-module-pack-assembly-lithium-ion-KYLE-2-scaled.jpg</image:loc>
+      <image:title>Scaling European Battery Recycling via the Circular Economy Act</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/scaling-european-battery-recycling-via-the-circular-economy-act/</loc>
+    <lastmod>2026-10-29T14:08:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/2022.12-audi-brussels-factory-plant-battery-module-pack-assembly-lithium-ion-KYLE-2-scaled.jpg</image:loc>
+      <image:title>Scaling European Battery Recycling via the Circular Economy Act</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-europe-can-learn-from-china-if-it-wants-to-save-its-industry/</loc>
+    <lastmod>2026-10-29T14:04:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/ct-1-1.jpg</image:loc>
+      <image:title>What Europe Can Learn From China If It Wants To Save Its Industry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-europe-can-learn-from-china-if-it-wants-to-save-its-industry/</loc>
+    <lastmod>2026-10-29T14:04:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/ct-1-1.jpg</image:loc>
+      <image:title>What Europe Can Learn From China If It Wants To Save Its Industry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-byddy-q3-profit-jumps-28-on-exports-but-inventory-balloons-60/</loc>
+    <lastmod>2026-10-29T14:00:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-updated-Seagull-EV-launch.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD (BYDDY) Q3 profit jumps 28% on exports, but inventory balloons 60%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-byddy-q3-profit-jumps-28-on-exports-but-inventory-balloons-60/</loc>
+    <lastmod>2026-10-29T14:00:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-updated-Seagull-EV-launch.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD (BYDDY) Q3 profit jumps 28% on exports, but inventory balloons 60%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mazda-comes-to-its-senses-cancels-misfit-cx-70-replacing-it-with-/</loc>
+    <lastmod>2026-10-29T13:38:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/mazda-comes-to-its-senses-cancels-misfit-cx-70-replacing-it-with-two-or-three-row-cx-90s-for-2027/l-intro-1793280488.jpg</image:loc>
+      <image:title>Mazda Comes To Its Senses, Cancels Misfit CX-70, Replacing It With Two-Or-Three-Row CX-90s For 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mazda-comes-to-its-senses-cancels-misfit-cx-70-replacing-it-with-/</loc>
+    <lastmod>2026-10-29T13:38:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/mazda-comes-to-its-senses-cancels-misfit-cx-70-replacing-it-with-two-or-three-row-cx-90s-for-2027/l-intro-1793280488.jpg</image:loc>
+      <image:title>Mazda Comes To Its Senses, Cancels Misfit CX-70, Replacing It With Two-Or-Three-Row CX-90s For 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-to-determine-if-buying-out-your-cars-lease-is-worth-it/</loc>
+    <lastmod>2026-10-29T13:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/bb4a0ec9-e25c-4b16-8fa2-0bec8e0a9909.jpeg</image:loc>
+      <image:title>How to Determine If Buying Out Your Car’s Lease Is Worth It</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-to-determine-if-buying-out-your-cars-lease-is-worth-it/</loc>
+    <lastmod>2026-10-29T13:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/bb4a0ec9-e25c-4b16-8fa2-0bec8e0a9909.jpeg</image:loc>
+      <image:title>How to Determine If Buying Out Your Car’s Lease Is Worth It</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/47-years-in-the-factory-crate-a-1979-honda-cr125r-elsinore/</loc>
+    <lastmod>2026-10-29T12:30:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Honda-CR125R-Elsinore-Motorcycle-6.jpg</image:loc>
+      <image:title>47 Years In The Factory Crate: A 1979 Honda CR125R Elsinore</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/47-years-in-the-factory-crate-a-1979-honda-cr125r-elsinore/</loc>
+    <lastmod>2026-10-29T12:30:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Honda-CR125R-Elsinore-Motorcycle-6.jpg</image:loc>
+      <image:title>47 Years In The Factory Crate: A 1979 Honda CR125R Elsinore</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/new-trek-e-bike-is-first-to-get-boschs-new-motor-with-a-major-pow/</loc>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/elon-musk-the-movie-trailer.png</image:loc>
       <image:title>Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/whats-the-difference-between-carb-compliant-car-parts-vs-ones-tha/</loc>
-    <lastmod>2026-10-25T16:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whats-the-difference-between-c-a-r-b-compliant-car-parts-vs-ones-that-california-bans/l-intro-1792090980.jpg</image:loc>
-      <image:title>What&#x27;s The Difference Between C.A.R.B. Compliant Car Parts Vs. Ones That California Bans?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/whats-the-difference-between-carb-compliant-car-parts-vs-ones-tha/</loc>
-    <lastmod>2026-10-25T16:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whats-the-difference-between-c-a-r-b-compliant-car-parts-vs-ones-that-california-bans/l-intro-1792090980.jpg</image:loc>
-      <image:title>What&#x27;s The Difference Between C.A.R.B. Compliant Car Parts Vs. Ones That California Bans?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/techcrunch-mobility-blue-green-is-the-color-of-autonomy/</loc>
-    <lastmod>2026-10-25T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1600,1067</image:loc>
-      <image:title>TechCrunch Mobility: Blue-green is the color of autonomy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/techcrunch-mobility-blue-green-is-the-color-of-autonomy/</loc>
-    <lastmod>2026-10-25T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1600,1067</image:loc>
-      <image:title>TechCrunch Mobility: Blue-green is the color of autonomy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-bugatti-veyron-super-sport-prototypes-power-increase-exploded/</loc>
-    <lastmod>2026-10-25T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-bugatti-veyron-super-sport-prototypes-power-increase-exploded-the-ac-compressor/l-intro-1792167980.jpg</image:loc>
-      <image:title>The Bugatti Veyron Super Sport Prototype&#x27;s Power Increase Exploded The A/C Compressor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-bugatti-veyron-super-sport-prototypes-power-increase-exploded/</loc>
-    <lastmod>2026-10-25T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-bugatti-veyron-super-sport-prototypes-power-increase-exploded-the-ac-compressor/l-intro-1792167980.jpg</image:loc>
-      <image:title>The Bugatti Veyron Super Sport Prototype&#x27;s Power Increase Exploded The A/C Compressor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/1981-toyota-celica-supra-on-bat-the-supra-story-starts-here/</loc>
-    <lastmod>2026-10-25T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7b6fc2c6-1fa6-40b6-8222-e57f3692da03.jpg</image:loc>
-      <image:title>1981 Toyota Celica Supra on BaT: The Supra Story Starts Here</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/1981-toyota-celica-supra-on-bat-the-supra-story-starts-here/</loc>
-    <lastmod>2026-10-25T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7b6fc2c6-1fa6-40b6-8222-e57f3692da03.jpg</image:loc>
-      <image:title>1981 Toyota Celica Supra on BaT: The Supra Story Starts Here</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/i-leased-a-kia-ev6-for-137-a-month-and-i-still-went-ev-after-ince/</loc>
-    <lastmod>2026-10-25T14:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/i-leased-a-kia-ev6-for-137-a-month-and-i-still-went-ev-after-incentives-disappeared/l-intro-1792103529.jpg</image:loc>
-      <image:title>I Leased A Kia EV6 For $137 A Month, And I Still Went EV After Incentives Disappeared</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/i-leased-a-kia-ev6-for-137-a-month-and-i-still-went-ev-after-ince/</loc>
-    <lastmod>2026-10-25T14:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/i-leased-a-kia-ev6-for-137-a-month-and-i-still-went-ev-after-incentives-disappeared/l-intro-1792103529.jpg</image:loc>
-      <image:title>I Leased A Kia EV6 For $137 A Month, And I Still Went EV After Incentives Disappeared</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/inside-cotas-turn-1-clubhouse-and-its-plans-to-build-a-second-tra/</loc>
-    <lastmod>2026-10-25T13:15:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-2.motorsport.com/images/amp/6grQdDaY/s6/arvid-lindblad-racing-bulls.jpg</image:loc>
-      <image:title>Inside COTA&#x27;s Turn 1 clubhouse and its plans to build a second track</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/inside-cotas-turn-1-clubhouse-and-its-plans-to-build-a-second-tra/</loc>
-    <lastmod>2026-10-25T13:15:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-2.motorsport.com/images/amp/6grQdDaY/s6/arvid-lindblad-racing-bulls.jpg</image:loc>
-      <image:title>Inside COTA&#x27;s Turn 1 clubhouse and its plans to build a second track</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truc/</loc>
-    <lastmod>2026-10-25T13:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truck-ownership/l-intro-1788960658.jpg</image:loc>
-      <image:title>How A Slick Ford Maverick Lobo Taught Me The True Meaning Of Truck Ownership</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truc/</loc>
-    <lastmod>2026-10-25T13:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/how-a-slick-ford-maverick-lobo-taught-me-the-true-meaning-of-truck-ownership/l-intro-1788960658.jpg</image:loc>
-      <image:title>How A Slick Ford Maverick Lobo Taught Me The True Meaning Of Truck Ownership</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-patents-idea-that-lets-parked-cars-autonomously-flee-danger/</loc>
-    <lastmod>2026-10-25T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5e917a99-00ef-430f-b0a3-79fc0207cbb1.png</image:loc>
-      <image:title>Ford Patents Idea That Lets Parked Cars Autonomously Flee Danger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ford-patents-idea-that-lets-parked-cars-autonomously-flee-danger/</loc>
-    <lastmod>2026-10-25T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5e917a99-00ef-430f-b0a3-79fc0207cbb1.png</image:loc>
-      <image:title>Ford Patents Idea That Lets Parked Cars Autonomously Flee Danger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/8-classic-coupes-that-look-sick-with-window-louvers/</loc>
-    <lastmod>2026-10-25T12:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/8-classic-coupes-that-look-sick-with-window-louvers/l-intro-1792769765.jpg</image:loc>
-      <image:title>8 Classic Coupes That Look Sick With Window Louvers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/8-classic-coupes-that-look-sick-with-window-louvers/</loc>
-    <lastmod>2026-10-25T12:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/8-classic-coupes-that-look-sick-with-window-louvers/l-intro-1792769765.jpg</image:loc>
-      <image:title>8 Classic Coupes That Look Sick With Window Louvers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/australias-answer-to-the-mustang-the-holden-monaro-gts/</loc>
-    <lastmod>2026-10-25T12:30:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Holden-Monaro-GTS.jpg</image:loc>
-      <image:title>Australia’s Answer To The Mustang: The Holden Monaro GTS</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/australias-answer-to-the-mustang-the-holden-monaro-gts/</loc>
-    <lastmod>2026-10-25T12:30:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Holden-Monaro-GTS.jpg</image:loc>
-      <image:title>Australia’s Answer To The Mustang: The Holden Monaro GTS</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/</loc>
-    <lastmod>2026-10-25T12:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/l-intro-1792089238.jpg</image:loc>
-      <image:title>Here Are Five Cheaper Alternatives To Driving A Big Diesel Truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/</loc>
-    <lastmod>2026-10-25T12:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/here-are-five-cheaper-alternatives-to-driving-a-big-diesel-truck/l-intro-1792089238.jpg</image:loc>
-      <image:title>Here Are Five Cheaper Alternatives To Driving A Big Diesel Truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-the-numbers-and-w-on-engine-oil-mean/</loc>
-    <lastmod>2026-10-25T12:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-the-numbers-and-w-on-engine-oil-mean/l-intro-1792695085.jpg</image:loc>
-      <image:title>What The Numbers And &quot;W&quot; On Engine Oil Mean</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-the-numbers-and-w-on-engine-oil-mean/</loc>
-    <lastmod>2026-10-25T12:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-the-numbers-and-w-on-engine-oil-mean/l-intro-1792695085.jpg</image:loc>
-      <image:title>What The Numbers And &quot;W&quot; On Engine Oil Mean</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/red-bull-no-longer-falls-away-on-difficult-days-what-austin-quali/</loc>
-    <lastmod>2026-10-25T11:59:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-4.motorsport.com/images/amp/0JXRAZpY/s6/max-verstappen-red-bull-racing-2.jpg</image:loc>
-      <image:title>Red Bull no longer falls away on difficult days: What Austin qualifying reveals about its progress</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/red-bull-no-longer-falls-away-on-difficult-days-what-austin-quali/</loc>
-    <lastmod>2026-10-25T11:59:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-4.motorsport.com/images/amp/0JXRAZpY/s6/max-verstappen-red-bull-racing-2.jpg</image:loc>
-      <image:title>Red Bull no longer falls away on difficult days: What Austin qualifying reveals about its progress</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trabant-finally-got-a-4-cylinder-engine-just-as-east-germans-coul/</loc>
-    <lastmod>2026-10-25T11:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/trabant-finally-got-a-4-cylinder-engine-just-as-east-germans-could-buy-western-cars/l-intro-1792176018.jpg</image:loc>
-      <image:title>Trabant Finally Got A 4-Cylinder Engine Just As East Germans Could Buy Western Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/trabant-finally-got-a-4-cylinder-engine-just-as-east-germans-coul/</loc>
-    <lastmod>2026-10-25T11:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/trabant-finally-got-a-4-cylinder-engine-just-as-east-germans-could-buy-western-cars/l-intro-1792176018.jpg</image:loc>
-      <image:title>Trabant Finally Got A 4-Cylinder Engine Just As East Germans Could Buy Western Cars</image:title>
     </image:image>
   </url>
 </urlset>
