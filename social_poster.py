@@ -313,11 +313,50 @@ def get_tumblr_tags(category: str) -> str:
     return tags_map.get(category, "Cars, Supercars, EV, Automotive, NewsSeconds")
 
 
+_RESOLVED_TUMBLR_BLOG: str = ""
+
+
+def get_active_tumblr_blog(auth, requested_name: str = None) -> str:
+    """
+    Cleans blog identifier and auto-discovers active primary blog name
+    if the provided blog name is invalid, stale (e.g. legacy royal1007), or 404.
+    """
+    global _RESOLVED_TUMBLR_BLOG
+    if _RESOLVED_TUMBLR_BLOG:
+        return _RESOLVED_TUMBLR_BLOG
+
+    clean = re.sub(r"^https?://", "", (requested_name or "").strip()).rstrip("/")
+    if clean and clean.lower() not in ("royal1007", "none", "null", ""):
+        _RESOLVED_TUMBLR_BLOG = clean
+        return clean
+
+    try:
+        import requests
+        res = requests.get("https://api.tumblr.com/v2/user/info", auth=auth, timeout=10)
+        if res.status_code == 200:
+            blogs = res.json().get("response", {}).get("user", {}).get("blogs", [])
+            for b in blogs:
+                if b.get("primary"):
+                    _RESOLVED_TUMBLR_BLOG = b.get("name")
+                    print(f"    [Tumblr] Auto-discovered primary blog: {_RESOLVED_TUMBLR_BLOG}")
+                    return _RESOLVED_TUMBLR_BLOG
+            if blogs:
+                _RESOLVED_TUMBLR_BLOG = blogs[0].get("name")
+                print(f"    [Tumblr] Auto-discovered blog: {_RESOLVED_TUMBLR_BLOG}")
+                return _RESOLVED_TUMBLR_BLOG
+    except Exception as e:
+        print(f"    [!] Warning: Tumblr user/info auto-detection failed: {e}")
+
+    _RESOLVED_TUMBLR_BLOG = clean or "newsseconds"
+    return _RESOLVED_TUMBLR_BLOG
+
+
 def post_to_tumblr(article: dict) -> bool:
     """
     Publishes a high-CTR visual Photo Post with hero image, caption, and Web Story link to Tumblr.
     Uses Tumblr API v2 with OAuth 1.0a.
     Prioritizes Native Photo Posts so the image renders large, full-width, and clickable in user feeds.
+    Includes automated self-healing fallback for renamed/changed blog identifiers.
     """
     if not getattr(config, "ENABLE_TUMBLR_POSTING", True):
         print("    [Tumblr] Auto-posting is disabled in config. Skipping.")
@@ -327,15 +366,11 @@ def post_to_tumblr(article: dict) -> bool:
     consumer_secret = os.getenv("TUMBLR_CONSUMER_SECRET")
     oauth_token = os.getenv("TUMBLR_OAUTH_TOKEN")
     oauth_secret = os.getenv("TUMBLR_OAUTH_SECRET")
-    blog_name = os.getenv("TUMBLR_BLOG_NAME")
+    blog_name = os.getenv("TUMBLR_BLOG_NAME", "")
 
-    if not all([consumer_key, consumer_secret, oauth_token, oauth_secret, blog_name]):
-        print("    [Tumblr] Credentials or blog name not fully configured in environment. Skipping.")
+    if not all([consumer_key, consumer_secret, oauth_token, oauth_secret]):
+        print("    [Tumblr] Credentials not fully configured in environment. Skipping.")
         return False
-
-    # Clean blog name (remove http:// or https:// or trailing slashes)
-    blog_identifier = blog_name.strip()
-    blog_identifier = re.sub(r"^https?://", "", blog_identifier).rstrip("/")
 
     try:
         from requests_oauthlib import OAuth1
@@ -348,6 +383,8 @@ def post_to_tumblr(article: dict) -> bool:
             resource_owner_key=oauth_token,
             resource_owner_secret=oauth_secret
         )
+
+        blog_identifier = get_active_tumblr_blog(auth, blog_name)
 
         title = article.get("title", "").strip()
         summary = article.get("summary", "").strip()
@@ -395,6 +432,16 @@ def post_to_tumblr(article: dict) -> bool:
         }
 
         response = requests.post(api_url, data=photo_payload, auth=auth, timeout=20)
+        
+        # Self-healing on 404 (e.g. blog was renamed from royal1007 to newsseconds)
+        if response.status_code == 404:
+            print(f"    [Tumblr] Blog '{blog_identifier}' returned 404. Auto-detecting current primary blog...")
+            global _RESOLVED_TUMBLR_BLOG
+            _RESOLVED_TUMBLR_BLOG = ""
+            blog_identifier = get_active_tumblr_blog(auth, None)
+            api_url = f"https://api.tumblr.com/v2/blog/{blog_identifier}/post"
+            response = requests.post(api_url, data=photo_payload, auth=auth, timeout=20)
+
         if response.status_code in (200, 201):
             res_data = response.json()
             post_id = res_data.get("response", {}).get("id_string") or res_data.get("response", {}).get("id")

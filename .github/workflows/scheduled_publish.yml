@@ -63,7 +63,7 @@ jobs:
           TUMBLR_CONSUMER_SECRET: ${{ secrets.TUMBLR_CONSUMER_SECRET }}
           TUMBLR_OAUTH_TOKEN: ${{ secrets.TUMBLR_OAUTH_TOKEN }}
           TUMBLR_OAUTH_SECRET: ${{ secrets.TUMBLR_OAUTH_SECRET }}
-          TUMBLR_BLOG_NAME: ${{ secrets.TUMBLR_BLOG_NAME || 'newsseconds.tumblr.com' }}
+          TUMBLR_BLOG_NAME: ${{ secrets.TUMBLR_BLOG_NAME || 'newsseconds' }}
         run: |
           python fetch_and_generate.py --count 2 --max-fresh 14 --skip-val
 
