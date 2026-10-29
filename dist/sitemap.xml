@@ -3,39 +3,299 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-29T19:15:14Z</lastmod>
+    <lastmod>2026-10-29T22:51:43Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-29T19:15:14Z</lastmod>
+    <lastmod>2026-10-29T22:51:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-29T19:15:14Z</lastmod>
+    <lastmod>2026-10-29T22:51:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-29T19:15:14Z</lastmod>
+    <lastmod>2026-10-29T22:51:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-29T19:15:14Z</lastmod>
+    <lastmod>2026-10-29T22:51:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-29T19:15:14Z</lastmod>
+    <lastmod>2026-10-29T22:51:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-warns-owners-not-to-charge-their-id-4-or-audi-q4-e-tro/</loc>
+    <lastmod>2026-10-29T22:02:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/volkswagen-warns-owners-not-to-charge-their-id-4-or-audi-q4-e-trons-over-80-or-risk-fire/l-intro-1793310871.jpg</image:loc>
+      <image:title>Volkswagen Warns Owners Not To Charge Their ID 4 Or Audi Q4 E-Trons Over 80% Or Risk Fire</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagen-warns-owners-not-to-charge-their-id-4-or-audi-q4-e-tro/</loc>
+    <lastmod>2026-10-29T22:02:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/volkswagen-warns-owners-not-to-charge-their-id-4-or-audi-q4-e-trons-over-80-or-risk-fire/l-intro-1793310871.jpg</image:loc>
+      <image:title>Volkswagen Warns Owners Not To Charge Their ID 4 Or Audi Q4 E-Trons Over 80% Or Risk Fire</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rivals-reject-alonsos-brutal-low-quality-f1-drivers-claim/</loc>
+    <lastmod>2026-10-29T21:50:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448198_HiRes.jpg</image:loc>
+      <image:title>Rivals reject Alonso&#x27;s brutal &#x27;low quality&#x27; F1 drivers claim</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rivals-reject-alonsos-brutal-low-quality-f1-drivers-claim/</loc>
+    <lastmod>2026-10-29T21:50:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448198_HiRes.jpg</image:loc>
+      <image:title>Rivals reject Alonso&#x27;s brutal &#x27;low quality&#x27; F1 drivers claim</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-spotted-testing-a-new-minivan-video/</loc>
+    <lastmod>2026-10-29T21:27:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Ocean-MPV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD spotted testing a new minivan [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-spotted-testing-a-new-minivan-video/</loc>
+    <lastmod>2026-10-29T21:27:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Ocean-MPV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD spotted testing a new minivan [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-wed-spec-it-2027-chevrolet-silverado-1500/</loc>
+    <lastmod>2026-10-29T21:04:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e5d8dd5c-2866-4e88-a49e-8ee3bbeb3d8d.gif</image:loc>
+      <image:title>How We’d Spec It: 2027 Chevrolet Silverado 1500</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-wed-spec-it-2027-chevrolet-silverado-1500/</loc>
+    <lastmod>2026-10-29T21:04:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e5d8dd5c-2866-4e88-a49e-8ee3bbeb3d8d.gif</image:loc>
+      <image:title>How We’d Spec It: 2027 Chevrolet Silverado 1500</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gm-reaches-220m-settlement-over-selling-drivers-private-data/</loc>
+    <lastmod>2026-10-29T21:01:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2020/11/Chevrolet-OnStar-Santa-01.jpg?resize=1600,1067</image:loc>
+      <image:title>GM reaches $220M settlement over selling drivers’ private data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gm-reaches-220m-settlement-over-selling-drivers-private-data/</loc>
+    <lastmod>2026-10-29T21:01:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2020/11/Chevrolet-OnStar-Santa-01.jpg?resize=1600,1067</image:loc>
+      <image:title>GM reaches $220M settlement over selling drivers’ private data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mercedes-benz-shows-off-its-holy-stature-in-new-popemobile-exhibi/</loc>
+    <lastmod>2026-10-29T20:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/mercedes-benz-shows-off-its-holy-stature-in-new-popemobile-exhibition-at-the-vatican/l-intro-1793134874.jpg</image:loc>
+      <image:title>Mercedes-Benz Shows Off Its Holy Stature In New Popemobile Exhibition At The Vatican</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mercedes-benz-shows-off-its-holy-stature-in-new-popemobile-exhibi/</loc>
+    <lastmod>2026-10-29T20:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/mercedes-benz-shows-off-its-holy-stature-in-new-popemobile-exhibition-at-the-vatican/l-intro-1793134874.jpg</image:loc>
+      <image:title>Mercedes-Benz Shows Off Its Holy Stature In New Popemobile Exhibition At The Vatican</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/</loc>
+    <lastmod>2026-10-29T20:05:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1600,1067</image:loc>
+      <image:title>Rivian expands joint venture with VW to include AI assistant</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/</loc>
+    <lastmod>2026-10-29T20:05:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1600,1067</image:loc>
+      <image:title>Rivian expands joint venture with VW to include AI assistant</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/alonso-doubles-down-on-poor-f1-driving-standards-and-says-those-t/</loc>
+    <lastmod>2026-10-29T20:05:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/Y9lNWdq2/s6/fernando-alonso-aston-martin-r-3.jpg</image:loc>
+      <image:title>Alonso doubles down on poor F1 driving standards</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/alonso-doubles-down-on-poor-f1-driving-standards-and-says-those-t/</loc>
+    <lastmod>2026-10-29T20:05:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/Y9lNWdq2/s6/fernando-alonso-aston-martin-r-3.jpg</image:loc>
+      <image:title>Alonso doubles down on poor F1 driving standards</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rivians-electric-van-gets-30-more-range-and-awd-now-delivering/</loc>
+    <lastmod>2026-10-29T20:04:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivian-electric-commercial-van.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Rivian’s electric van gets 30% more range and AWD, now delivering</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rivians-electric-van-gets-30-more-range-and-awd-now-delivering/</loc>
+    <lastmod>2026-10-29T20:04:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivian-electric-commercial-van.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Rivian’s electric van gets 30% more range and AWD, now delivering</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyotas-ev-sales-more-than-doubled-in-a-year-but-gas-cars-are-get/</loc>
+    <lastmod>2026-10-29T20:02:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/Toyota-EV-sales-gas-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyotas-ev-sales-more-than-doubled-in-a-year-but-gas-cars-are-get/</loc>
+    <lastmod>2026-10-29T20:02:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/Toyota-EV-sales-gas-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rivian-rivn-q3-2026-earnings-revenue-up-38-r2-now-its-best-seller/</loc>
+    <lastmod>2026-10-29T20:02:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/rivian-r2-exterior.jpg?quality=82&amp;strip=all&amp;w=1500</image:loc>
+      <image:title>Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rivian-rivn-q3-2026-earnings-revenue-up-38-r2-now-its-best-seller/</loc>
+    <lastmod>2026-10-29T20:02:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/rivian-r2-exterior.jpg?quality=82&amp;strip=all&amp;w=1500</image:loc>
+      <image:title>Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-fiat-topolino-finally-earns-street-legal-status-in-the-state/</loc>
+    <lastmod>2026-10-29T19:57:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c4fca2f-d92d-4972-bc1c-78618ec112d7.jpg</image:loc>
+      <image:title>2027 Fiat Topolino Finally Earns Street-Legal Status in the States</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-fiat-topolino-finally-earns-street-legal-status-in-the-state/</loc>
+    <lastmod>2026-10-29T19:57:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c4fca2f-d92d-4972-bc1c-78618ec112d7.jpg</image:loc>
+      <image:title>2027 Fiat Topolino Finally Earns Street-Legal Status in the States</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/republican-anti-flock-bill-might-ban-all-automated-traffic-enforc/</loc>
+    <lastmod>2026-10-29T19:34:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/republican-anti-flock-bill-might-ban-all-automated-traffic-enforcement/l-intro-1793301697.jpg</image:loc>
+      <image:title>Republican Anti-Flock Bill Might Ban All Automated Traffic Enforcement</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/republican-anti-flock-bill-might-ban-all-automated-traffic-enforc/</loc>
+    <lastmod>2026-10-29T19:34:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/republican-anti-flock-bill-might-ban-all-automated-traffic-enforcement/l-intro-1793301697.jpg</image:loc>
+      <image:title>Republican Anti-Flock Bill Might Ban All Automated Traffic Enforcement</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon/</loc>
@@ -195,6 +455,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/hero-1600x900-1.png</image:loc>
       <image:title>Ireland’s Grid Flexibility Assessment Shows Why Location Matters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/pay-to-play-2026-audi-a6-tested/</loc>
+    <lastmod>2026-10-29T16:46:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/792cb57b-dea8-4a19-a036-acf6db3a9b61.jpg</image:loc>
+      <image:title>Pay to Play: 2026 Audi A6 Tested</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/pay-to-play-2026-audi-a6-tested/</loc>
+    <lastmod>2026-10-29T16:46:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/792cb57b-dea8-4a19-a036-acf6db3a9b61.jpg</image:loc>
+      <image:title>Pay to Play: 2026 Audi A6 Tested</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/261024_R18_USA_DP_VA2_3599_a6a93266-e6fb-4fa2-8f3e-b981cc16fba7-1.jpg</image:loc>
       <image:title>What the US GP really exposed about where Ferrari is lacking</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/forgotten-roadster-the-unusual-1964-lightburn-zeta-sports/</loc>
-    <lastmod>2026-10-27T03:30:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Lightburn-Zeta-Sports-Car-Front.jpg</image:loc>
-      <image:title>Forgotten Roadster: The Unusual 1964 Lightburn “Zeta Sports”</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/forgotten-roadster-the-unusual-1964-lightburn-zeta-sports/</loc>
-    <lastmod>2026-10-27T03:30:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Lightburn-Zeta-Sports-Car-Front.jpg</image:loc>
-      <image:title>Forgotten Roadster: The Unusual 1964 Lightburn “Zeta Sports”</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-startups-self-driving-excavators-help-dig-up-600m-in-new-fun/</loc>
-    <lastmod>2026-10-26T17:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1600,1067</image:loc>
-      <image:title>This startup’s self-driving excavators help dig up $600M in new funding</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-startups-self-driving-excavators-help-dig-up-600m-in-new-fun/</loc>
-    <lastmod>2026-10-26T17:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1600,1067</image:loc>
-      <image:title>This startup’s self-driving excavators help dig up $600M in new funding</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-hypoid-differential-gear-oil-needs-to-be-different-from-engin/</loc>
-    <lastmod>2026-10-26T03:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-hypoid-differential-gear-oil-needs-to-be-different-from-engine-or-transmission-oil/l-intro-1792087670.jpg</image:loc>
-      <image:title>Why Hypoid Differential Gear Oil Needs To Be Different From Engine Or Transmission Oil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-hypoid-differential-gear-oil-needs-to-be-different-from-engin/</loc>
-    <lastmod>2026-10-26T03:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-hypoid-differential-gear-oil-needs-to-be-different-from-engine-or-transmission-oil/l-intro-1792087670.jpg</image:loc>
-      <image:title>Why Hypoid Differential Gear Oil Needs To Be Different From Engine Or Transmission Oil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-us-gp-has-left-verstappen-and-hadjar-furious-with-red-bull/</loc>
-    <lastmod>2026-10-26T02:22:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447511_HiRes.jpg</image:loc>
-      <image:title>Why US GP has left Verstappen and Hadjar furious with Red Bull</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-us-gp-has-left-verstappen-and-hadjar-furious-with-red-bull/</loc>
-    <lastmod>2026-10-26T02:22:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447511_HiRes.jpg</image:loc>
-      <image:title>Why US GP has left Verstappen and Hadjar furious with Red Bull</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/audi-will-invest-4-billion-to-build-a-factory-in-georgia/</loc>
-    <lastmod>2026-10-26T01:55:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/audi-will-invest-4-billion-to-build-a-factory-in-georgia/l-intro-1792979643.jpg</image:loc>
-      <image:title>Audi Will Invest $4 Billion To Build A Factory In Georgia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/audi-will-invest-4-billion-to-build-a-factory-in-georgia/</loc>
-    <lastmod>2026-10-26T01:55:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/audi-will-invest-4-billion-to-build-a-factory-in-georgia/l-intro-1792979643.jpg</image:loc>
-      <image:title>Audi Will Invest $4 Billion To Build A Factory In Georgia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/that-time-someone-stole-a-hyundai-tucson-holding-both-parents-ash/</loc>
-    <lastmod>2026-10-26T01:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/that-time-someone-stole-a-hyundai-tucson-holding-both-parents-ashes-the-night-before-a-funeral/l-intro-1792610782.jpg</image:loc>
-      <image:title>That Time Someone Stole A Hyundai Tucson Holding Both Parents&#x27; Ashes The Night Before A Funeral</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/that-time-someone-stole-a-hyundai-tucson-holding-both-parents-ash/</loc>
-    <lastmod>2026-10-26T01:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/that-time-someone-stole-a-hyundai-tucson-holding-both-parents-ashes-the-night-before-a-funeral/l-intro-1792610782.jpg</image:loc>
-      <image:title>That Time Someone Stole A Hyundai Tucson Holding Both Parents&#x27; Ashes The Night Before A Funeral</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/alonso-calls-33-of-the-f1-grid-low-quality/</loc>
-    <lastmod>2026-10-26T00:00:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447372_HiRes--1--1.jpg</image:loc>
-      <image:title>Alonso calls 33% of the F1 grid &#x27;low quality</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/alonso-calls-33-of-the-f1-grid-low-quality/</loc>
-    <lastmod>2026-10-26T00:00:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447372_HiRes--1--1.jpg</image:loc>
-      <image:title>Alonso calls 33% of the F1 grid &#x27;low quality</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-of-the-most-powerful-jdm-engines-ever-made/</loc>
-    <lastmod>2026-10-25T23:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-most-powerful-jdm-engines-ever-made/l-intro-1792610154.jpg</image:loc>
-      <image:title>7 Of The Most Powerful JDM Engines Ever Made</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-of-the-most-powerful-jdm-engines-ever-made/</loc>
-    <lastmod>2026-10-25T23:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-most-powerful-jdm-engines-ever-made/l-intro-1792610154.jpg</image:loc>
-      <image:title>7 Of The Most Powerful JDM Engines Ever Made</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/</loc>
-    <lastmod>2026-10-25T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/l-intro-1792604881.jpg</image:loc>
-      <image:title>7 Cars And Trucks That Have Some Of The Worst MPG Ratings Ever</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/</loc>
-    <lastmod>2026-10-25T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-cars-and-trucks-that-have-some-of-the-worst-mpg-ratings-ever/l-intro-1792604881.jpg</image:loc>
-      <image:title>7 Cars And Trucks That Have Some Of The Worst MPG Ratings Ever</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/america-needs-more-types-of-drivers-licenses-not-just-better-driv/</loc>
-    <lastmod>2026-10-25T22:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/america-needs-more-types-of-drivers-licenses-not-just-better-drivers-ed/l-intro-1792793990.jpg</image:loc>
-      <image:title>America Needs More Types Of Driver&#x27;s Licenses, Not Just Better Driver&#x27;s Ed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/america-needs-more-types-of-drivers-licenses-not-just-better-driv/</loc>
-    <lastmod>2026-10-25T22:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/america-needs-more-types-of-drivers-licenses-not-just-better-drivers-ed/l-intro-1792793990.jpg</image:loc>
-      <image:title>America Needs More Types Of Driver&#x27;s Licenses, Not Just Better Driver&#x27;s Ed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-negotiations-with-ig-metall-to-begin-november-24-audi-/</loc>
-    <lastmod>2026-10-25T22:24:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Volkswagen-factory-Zwickau.jpg</image:loc>
-      <image:title>Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/volkswagen-negotiations-with-ig-metall-to-begin-november-24-audi-/</loc>
-    <lastmod>2026-10-25T22:24:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Volkswagen-factory-Zwickau.jpg</image:loc>
-      <image:title>Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/antonelli-on-the-brink-of-first-f1-title-after-crushing-us-gp-win/</loc>
-    <lastmod>2026-10-25T22:10:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447630_HiRes.jpg</image:loc>
-      <image:title>Antonelli on the brink of first F1 title after crushing US GP win</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/antonelli-on-the-brink-of-first-f1-title-after-crushing-us-gp-win/</loc>
-    <lastmod>2026-10-25T22:10:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447630_HiRes.jpg</image:loc>
-      <image:title>Antonelli on the brink of first F1 title after crushing US GP win</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-/</loc>
-    <lastmod>2026-10-25T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-these-years/l-intro-1792593038.jpg</image:loc>
-      <image:title>If You Want A Hyundai Tucson With A Manual Transmission, Look For These Years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-/</loc>
-    <lastmod>2026-10-25T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/if-you-want-a-hyundai-tucson-with-a-manual-transmission-look-for-these-years/l-intro-1792593038.jpg</image:loc>
-      <image:title>If You Want A Hyundai Tucson With A Manual Transmission, Look For These Years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-2026-united-states-grand-prix-race-result/</loc>
-    <lastmod>2026-10-25T21:42:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448002_HiRes-1.jpg</image:loc>
-      <image:title>F1 2026 United States Grand Prix race result</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1-2026-united-states-grand-prix-race-result/</loc>
-    <lastmod>2026-10-25T21:42:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448002_HiRes-1.jpg</image:loc>
-      <image:title>F1 2026 United States Grand Prix race result</image:title>
     </image:image>
   </url>
 </urlset>
