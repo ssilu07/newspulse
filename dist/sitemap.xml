@@ -3,39 +3,79 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-29T04:10:22Z</lastmod>
+    <lastmod>2026-10-29T08:42:25Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-29T04:10:22Z</lastmod>
+    <lastmod>2026-10-29T08:42:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-29T04:10:22Z</lastmod>
+    <lastmod>2026-10-29T08:42:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-29T04:10:22Z</lastmod>
+    <lastmod>2026-10-29T08:42:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-29T04:10:22Z</lastmod>
+    <lastmod>2026-10-29T08:42:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-29T04:10:22Z</lastmod>
+    <lastmod>2026-10-29T08:42:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/superpower-neutered-piastris-fresh-f1-struggles-explained/</loc>
+    <lastmod>2026-10-29T07:16:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446853_HiRes.jpg</image:loc>
+      <image:title>Superpower&#x27; neutered - Piastri&#x27;s fresh F1 struggles explained</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/superpower-neutered-piastris-fresh-f1-struggles-explained/</loc>
+    <lastmod>2026-10-29T07:16:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446853_HiRes.jpg</image:loc>
+      <image:title>Superpower&#x27; neutered - Piastri&#x27;s fresh F1 struggles explained</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mir-explains-the-vision-issues-behind-his-long-motogp-absence/</loc>
+    <lastmod>2026-10-29T07:11:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357660_HiRes.jpg</image:loc>
+      <image:title>Mir explains the vision issues behind his long MotoGP absence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mir-explains-the-vision-issues-behind-his-long-motogp-absence/</loc>
+    <lastmod>2026-10-29T07:11:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357660_HiRes.jpg</image:loc>
+      <image:title>Mir explains the vision issues behind his long MotoGP absence</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/construction-materials-stand-out-at-greenbuild-2026/</loc>
@@ -78,6 +118,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/trump-rolling-back-methane-pollution-safeguards/</loc>
+    <lastmod>2026-10-29T00:42:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/04/Methane-gas-flare-North-Dakota.jpeg</image:loc>
+      <image:title>Trump Rolling Back Methane Pollution Safeguards</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-rolling-back-methane-pollution-safeguards/</loc>
+    <lastmod>2026-10-29T00:42:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/04/Methane-gas-flare-North-Dakota.jpeg</image:loc>
+      <image:title>Trump Rolling Back Methane Pollution Safeguards</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/byd-now-has-102-million-workers-more-than-toyota-gm-ford-and-tesl/</loc>
     <lastmod>2026-10-29T00:41:17+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -95,6 +155,86 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/BYD-EV-demand-gas-prices-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/waymo-for-business-ramp/</loc>
+    <lastmod>2026-10-29T00:37:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-for-Business-Ramp.jpeg</image:loc>
+      <image:title>Waymo for Business</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/waymo-for-business-ramp/</loc>
+    <lastmod>2026-10-29T00:37:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-for-Business-Ramp.jpeg</image:loc>
+      <image:title>Waymo for Business</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-truth-about-renewable-electricity-your-questions-answered/</loc>
+    <lastmod>2026-10-29T00:26:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/03/solar-panels-renewable-energy-nrel.jpg</image:loc>
+      <image:title>The Truth About Renewable Electricity: Your Questions, Answered</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-truth-about-renewable-electricity-your-questions-answered/</loc>
+    <lastmod>2026-10-29T00:26:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/03/solar-panels-renewable-energy-nrel.jpg</image:loc>
+      <image:title>The Truth About Renewable Electricity: Your Questions, Answered</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/after-years-long-community-objection-dairyland-power-pulls-the-pl/</loc>
+    <lastmod>2026-10-29T00:25:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/02/124adce3-d113-477f-956b-fb4bfdecfa11Original-scaled-e1707526673549.jpg</image:loc>
+      <image:title>After Years-Long Community Objection, Dairyland Power Pulls the Plug on NTEC Gas Plant</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/after-years-long-community-objection-dairyland-power-pulls-the-pl/</loc>
+    <lastmod>2026-10-29T00:25:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/02/124adce3-d113-477f-956b-fb4bfdecfa11Original-scaled-e1707526673549.jpg</image:loc>
+      <image:title>After Years-Long Community Objection, Dairyland Power Pulls the Plug on NTEC Gas Plant</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/louisiana-deq-issues-rushed-controversial-air-permit-to-proposed-/</loc>
+    <lastmod>2026-10-28T23:57:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
+      <image:title>Louisiana DEQ Issues Rushed, Controversial Air Permit to Proposed Hyundai Steel Facility</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/louisiana-deq-issues-rushed-controversial-air-permit-to-proposed-/</loc>
+    <lastmod>2026-10-28T23:57:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
+      <image:title>Louisiana DEQ Issues Rushed, Controversial Air Permit to Proposed Hyundai Steel Facility</image:title>
     </image:image>
   </url>
   <url>
@@ -198,6 +338,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/the-jeep-gladiator-has-just-become-an-even-more-capable-off-roade/</loc>
+    <lastmod>2026-10-28T20:38:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-jeep-gladiator-has-just-become-an-even-more-capable-off-roader/l-intro-1793218320.jpg</image:loc>
+      <image:title>The Jeep Gladiator Has Just Become An Even More Capable Off-Roader</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-jeep-gladiator-has-just-become-an-even-more-capable-off-roade/</loc>
+    <lastmod>2026-10-28T20:38:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-jeep-gladiator-has-just-become-an-even-more-capable-off-roader/l-intro-1793218320.jpg</image:loc>
+      <image:title>The Jeep Gladiator Has Just Become An Even More Capable Off-Roader</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/dems-introduce-new-15000-ev-tax-credit-bill-that-has-no-chance-an/</loc>
     <lastmod>2026-10-28T19:38:37+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -255,6 +415,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/the-bmw-x3-m50-just-got-an-extra-44-hp-for-2027/l-intro-1793214995.jpg</image:loc>
       <image:title>The BMW X3 M50 Just Got An Extra 44 HP For 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/youre-not-taking-my-bike-says-rider-whose-bike-was-taken/</loc>
+    <lastmod>2026-10-28T18:37:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/youre-not-taking-my-bike-says-rider-whose-bike-was-taken/l-intro-1793212547.jpg</image:loc>
+      <image:title>You&#x27;re Not Taking My Bike&#x27;, Says Rider Whose Bike Was Taken</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/youre-not-taking-my-bike-says-rider-whose-bike-was-taken/</loc>
+    <lastmod>2026-10-28T18:37:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/youre-not-taking-my-bike-says-rider-whose-bike-was-taken/l-intro-1793212547.jpg</image:loc>
+      <image:title>You&#x27;re Not Taking My Bike&#x27;, Says Rider Whose Bike Was Taken</image:title>
     </image:image>
   </url>
   <url>
@@ -1258,6 +1438,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/fords-30k-fathom-ev-can-double-as-a-home-power-generator/</loc>
+    <lastmod>2026-10-27T19:26:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6fdd21bd-29a0-4272-a4b5-a2d524fac36e.jpeg</image:loc>
+      <image:title>Ford’s $30K Fathom EV Can Double as a Home Power Generator</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/fords-30k-fathom-ev-can-double-as-a-home-power-generator/</loc>
+    <lastmod>2026-10-27T19:26:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6fdd21bd-29a0-4272-a4b5-a2d524fac36e.jpeg</image:loc>
+      <image:title>Ford’s $30K Fathom EV Can Double as a Home Power Generator</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/the-ktm-x-bow-is-finally-coming-to-american-roads/</loc>
     <lastmod>2026-10-27T18:45:50+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1275,6 +1475,46 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/the-ktm-x-bow-is-finally-coming-to-american-roads/l-intro-1793125695.jpg</image:loc>
       <image:title>The KTM X-Bow Is Finally Coming To American Roads</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-mercedes-benz-eqs-suv/</loc>
+    <lastmod>2026-10-27T18:43:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-benz-eqs-400-4matic-130-6952917695153.jpg?crop=0.722xw:0.542xh;0.139xw,0.253xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Mercedes-Benz EQS SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-mercedes-benz-eqs-suv/</loc>
+    <lastmod>2026-10-27T18:43:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-benz-eqs-400-4matic-130-6952917695153.jpg?crop=0.722xw:0.542xh;0.139xw,0.253xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Mercedes-Benz EQS SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gift-guide-the-best-car-advent-calendars-for-2026/</loc>
+    <lastmod>2026-10-27T18:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/advent-calendars-68fa5c4851bed.png</image:loc>
+      <image:title>Gift Guide: The Best Car Advent Calendars for 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gift-guide-the-best-car-advent-calendars-for-2026/</loc>
+    <lastmod>2026-10-27T18:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/advent-calendars-68fa5c4851bed.png</image:loc>
+      <image:title>Gift Guide: The Best Car Advent Calendars for 2026</image:title>
     </image:image>
   </url>
   <url>
@@ -1335,6 +1575,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/flock-cameras-are-being-covered-with-garbage-bags-as-contracts-with-the-wildly-unpopular-mass-surveillance-company-are-terminated/l-intro-1793123122.jpg</image:loc>
       <image:title>Flock Cameras Are Being Covered With Garbage Bags As Contracts With The Wildly Unpopular Mass Surveillance Company Are Terminated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-teases-new-trophy-truck-that-uses-the-passport-name/</loc>
+    <lastmod>2026-10-27T17:09:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/08d881b5-f6b6-4b5f-9dbf-fc04783e4148.png</image:loc>
+      <image:title>Honda Teases New Trophy Truck That Uses the Passport Name</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-teases-new-trophy-truck-that-uses-the-passport-name/</loc>
+    <lastmod>2026-10-27T17:09:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/08d881b5-f6b6-4b5f-9dbf-fc04783e4148.png</image:loc>
+      <image:title>Honda Teases New Trophy Truck That Uses the Passport Name</image:title>
     </image:image>
   </url>
   <url>
@@ -1615,6 +1875,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/09/Ford-Fathom-closer-look-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Ford’s new sub-$30K electric truck can power your home for a lot less</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lectric-launches-xp-lite3-e-bike-the-new-best-low-cost-model-in-t/</loc>
+    <lastmod>2026-10-27T12:30:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/XP-lite3-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Lectric launches XP Lite3 e-bike, the new best low-cost model in the US</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lectric-launches-xp-lite3-e-bike-the-new-best-low-cost-model-in-t/</loc>
+    <lastmod>2026-10-27T12:30:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/XP-lite3-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Lectric launches XP Lite3 e-bike, the new best low-cost model in the US</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447054_HiRes-1.jpg</image:loc>
       <image:title>F1 2026 United States Grand Prix starting grid with three penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/public-beaches-in-texas-are-also-highways-and-you-can-actually-dr/</loc>
-    <lastmod>2026-10-24T23:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/public-beaches-in-texas-are-also-highways-and-you-can-actually-drive-on-them/l-intro-1792520901.jpg</image:loc>
-      <image:title>Public Beaches In Texas Are Also Highways, And You Can Actually Drive On Them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/public-beaches-in-texas-are-also-highways-and-you-can-actually-dr/</loc>
-    <lastmod>2026-10-24T23:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/public-beaches-in-texas-are-also-highways-and-you-can-actually-drive-on-them/l-intro-1792520901.jpg</image:loc>
-      <image:title>Public Beaches In Texas Are Also Highways, And You Can Actually Drive On Them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-first-car-to-get-four-wheel-hydraulic-brakes-was-a-duesenberg/</loc>
-    <lastmod>2026-10-24T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-first-car-to-get-four-wheel-hydraulic-brakes-was-a-duesenberg/l-intro-1792526454.jpg</image:loc>
-      <image:title>The First Car To Get Four-Wheel Hydraulic Brakes Was A Duesenberg</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-first-car-to-get-four-wheel-hydraulic-brakes-was-a-duesenberg/</loc>
-    <lastmod>2026-10-24T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-first-car-to-get-four-wheel-hydraulic-brakes-was-a-duesenberg/l-intro-1792526454.jpg</image:loc>
-      <image:title>The First Car To Get Four-Wheel Hydraulic Brakes Was A Duesenberg</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/martin-injury-update-hints-at-early-racing-return-bid/</loc>
-    <lastmod>2026-10-24T23:24:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357396_HiRes.jpg</image:loc>
-      <image:title>Martin injury update hints at early racing return bid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/martin-injury-update-hints-at-early-racing-return-bid/</loc>
-    <lastmod>2026-10-24T23:24:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357396_HiRes.jpg</image:loc>
-      <image:title>Martin injury update hints at early racing return bid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-unde/</loc>
-    <lastmod>2026-10-24T22:32:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/jetta_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Volkswagen’s new electric Jetta offers 285 miles of range for under $12K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-unde/</loc>
-    <lastmod>2026-10-24T22:32:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/jetta_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Volkswagen’s new electric Jetta offers 285 miles of range for under $12K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/antonelli-on-us-gp-pole-as-ferrari-challenge-falls-apart/</loc>
-    <lastmod>2026-10-24T22:25:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447003_HiRes.jpg</image:loc>
-      <image:title>Antonelli on US GP pole as Ferrari challenge falls apart</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/antonelli-on-us-gp-pole-as-ferrari-challenge-falls-apart/</loc>
-    <lastmod>2026-10-24T22:25:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447003_HiRes.jpg</image:loc>
-      <image:title>Antonelli on US GP pole as Ferrari challenge falls apart</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/6-wd-40-myths-gearheads-need-to-stop-believing/</loc>
-    <lastmod>2026-10-24T22:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/6-wd-40-myths-gearheads-need-to-stop-believing/l-intro-1792516301.jpg</image:loc>
-      <image:title>6 WD-40 Myths Gearheads Need To Stop Believing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/6-wd-40-myths-gearheads-need-to-stop-believing/</loc>
-    <lastmod>2026-10-24T22:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/6-wd-40-myths-gearheads-need-to-stop-believing/l-intro-1792516301.jpg</image:loc>
-      <image:title>6 WD-40 Myths Gearheads Need To Stop Believing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-2026-united-states-grand-prix-qualifying-results/</loc>
-    <lastmod>2026-10-24T22:08:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446627_HiRes.jpg</image:loc>
-      <image:title>F1 2026 United States Grand Prix qualifying results</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1-2026-united-states-grand-prix-qualifying-results/</loc>
-    <lastmod>2026-10-24T22:08:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1446627_HiRes.jpg</image:loc>
-      <image:title>F1 2026 United States Grand Prix qualifying results</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/</loc>
-    <lastmod>2026-10-24T22:00:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Chrysler-Canada.jpg</image:loc>
-      <image:title>Canada And EU Are Slip Sliding Away On Vehicle Emissions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/</loc>
-    <lastmod>2026-10-24T22:00:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Chrysler-Canada.jpg</image:loc>
-      <image:title>Canada And EU Are Slip Sliding Away On Vehicle Emissions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-bentley-supersports-convertible-will-carry-on-a-silly-yet-awe/</loc>
-    <lastmod>2026-10-24T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/new-bentley-supersports-convertible-will-carry-on-a-silly-yet-awesome-legacy/l-intro-1792792442.jpg</image:loc>
-      <image:title>New Bentley Supersports Convertible Will Carry On A Silly Yet Awesome Legacy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-bentley-supersports-convertible-will-carry-on-a-silly-yet-awe/</loc>
-    <lastmod>2026-10-24T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/new-bentley-supersports-convertible-will-carry-on-a-silly-yet-awesome-legacy/l-intro-1792792442.jpg</image:loc>
-      <image:title>New Bentley Supersports Convertible Will Carry On A Silly Yet Awesome Legacy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/9-classic-plymouth-models-and-what-theyre-worth-today/</loc>
-    <lastmod>2026-10-24T20:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/9-classic-plymouth-models-and-what-theyre-worth-today/l-intro-1792506765.jpg</image:loc>
-      <image:title>9 Classic Plymouth Models And What They&#x27;re Worth Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/9-classic-plymouth-models-and-what-theyre-worth-today/</loc>
-    <lastmod>2026-10-24T20:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/9-classic-plymouth-models-and-what-theyre-worth-today/l-intro-1792506765.jpg</image:loc>
-      <image:title>9 Classic Plymouth Models And What They&#x27;re Worth Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-subaru-models-are-built-in-america-not-japan/</loc>
-    <lastmod>2026-10-24T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/these-subaru-models-are-built-in-america-not-japan/l-intro-1792438469.jpg</image:loc>
-      <image:title>These Subaru Models Are Built In America, Not Japan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-subaru-models-are-built-in-america-not-japan/</loc>
-    <lastmod>2026-10-24T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/these-subaru-models-are-built-in-america-not-japan/l-intro-1792438469.jpg</image:loc>
-      <image:title>These Subaru Models Are Built In America, Not Japan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/if-teslas-robotaxi-miles-keep-compounding-at-20-a-week-the-math-g/</loc>
-    <lastmod>2026-10-24T19:47:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/07/Tesla-Robotaxi-Tampa.jpeg</image:loc>
-      <image:title>If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/if-teslas-robotaxi-miles-keep-compounding-at-20-a-week-the-math-g/</loc>
-    <lastmod>2026-10-24T19:47:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/07/Tesla-Robotaxi-Tampa.jpeg</image:loc>
-      <image:title>If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/whos-at-fault-when-software-glitches-cause-a-car-accident/</loc>
-    <lastmod>2026-10-24T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whos-at-fault-when-software-glitches-cause-a-car-accident/l-intro-1792507250.jpg</image:loc>
-      <image:title>Who&#x27;s At Fault When Software Glitches Cause A Car Accident?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/whos-at-fault-when-software-glitches-cause-a-car-accident/</loc>
-    <lastmod>2026-10-24T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whos-at-fault-when-software-glitches-cause-a-car-accident/l-intro-1792507250.jpg</image:loc>
-      <image:title>Who&#x27;s At Fault When Software Glitches Cause A Car Accident?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-your-takes-on-electric-vehicles-in-the-face-of-expensiv/</loc>
-    <lastmod>2026-10-24T19:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-your-takes-on-electric-vehicles-in-the-face-of-expensive-gasoline/l-intro-1792523790.jpg</image:loc>
-      <image:title>These Are Your Takes On Electric Vehicles In The Face Of Expensive Gasoline</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-are-your-takes-on-electric-vehicles-in-the-face-of-expensiv/</loc>
-    <lastmod>2026-10-24T19:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-your-takes-on-electric-vehicles-in-the-face-of-expensive-gasoline/l-intro-1792523790.jpg</image:loc>
-      <image:title>These Are Your Takes On Electric Vehicles In The Face Of Expensive Gasoline</image:title>
     </image:image>
   </url>
 </urlset>
