@@ -6,6 +6,15 @@
 (function () {
   'use strict';
 
+  // Google Analytics 4 Safe Event Dispatcher
+  function trackGAEvent(eventName, params = {}) {
+    try {
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', eventName, params);
+      }
+    } catch (e) {}
+  }
+
   // State Management
   const state = {
     activeCategory: 'all',
@@ -39,6 +48,8 @@
     handleUrlParamsAndHash();
     updateBookmarkBadges();
     setupEventListeners();
+    initEngagementTracking();
+    initFloatingDock();
   }
 
   // Live UTC/Local Clock
@@ -278,6 +289,14 @@
     if (storyBtn) {
       storyBtn.href = `/stories/${articleData.slug}/`;
     }
+
+    // Full Article Link (Drives In-Depth Recirculation)
+    const articleBtn = document.getElementById('modalArticleBtn');
+    if (articleBtn) {
+      articleBtn.href = `/news/${articleData.slug}/`;
+    }
+
+    trackGAEvent('quick_read_open', { article_id: articleData.id, slug: articleData.slug });
 
     // Original Link
     const origBtn = document.getElementById('modalOriginalBtn');
@@ -607,13 +626,37 @@
     const progressBar = document.getElementById('readingProgressBar');
     const backToTopBtn = document.getElementById('backToTopBtn');
 
+    // Scroll Depth Milestone Tracking
+    const scrollMilestones = { 25: false, 50: false, 75: false, 90: false };
+
     window.addEventListener('scroll', () => {
       const scrollY = window.scrollY;
       const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-      if (progressBar && docHeight > 0) {
+      if (docHeight > 0) {
         const pct = Math.min(100, Math.max(0, (scrollY / docHeight) * 100));
-        progressBar.style.width = pct + '%';
+        if (progressBar) {
+          progressBar.style.width = pct + '%';
+        }
+
+        // GA4 Scroll Depth Milestones
+        [25, 50, 75, 90].forEach(m => {
+          if (pct >= m && !scrollMilestones[m]) {
+            scrollMilestones[m] = true;
+            trackGAEvent('scroll_depth', { percent: m, path: window.location.pathname });
+          }
+        });
+
+        // Floating Next Story Dock Trigger (at 25% scroll)
+        const dock = document.getElementById('floatingUpNext');
+        if (dock && !window._floatingDockDismissed) {
+          if (pct >= 25 && pct <= 95) {
+            dock.classList.add('visible');
+          } else if (pct < 20) {
+            dock.classList.remove('visible');
+          }
+        }
       }
+
       if (backToTopBtn) {
         if (scrollY > 380) {
           backToTopBtn.classList.add('visible');
@@ -724,6 +767,81 @@
         }).catch(() => {
           showToast('Copied: ' + window.location.href);
         });
+      });
+    }
+  }
+
+
+  // Active Dwell-Time & Engagement Heartbeat (Directly Resolves GA4 Bounce Rate)
+  function initEngagementTracking() {
+    let activeSeconds = 0;
+    const isArticle = window.location.pathname.startsWith('/news/');
+    const pageType = isArticle ? 'article' : (window.location.pathname.startsWith('/stories/') ? 'story' : 'home');
+    const milestones = { 10: false, 30: false, 60: false, 120: false };
+
+    setInterval(() => {
+      if (document.visibilityState === 'visible') {
+        activeSeconds += 1;
+        // 10s Milestone: Official GA4 Engaged Session threshold
+        if (activeSeconds >= 10 && !milestones[10]) {
+          milestones[10] = true;
+          trackGAEvent('reading_engaged', { threshold: '10s', page_type: pageType, path: window.location.pathname });
+        }
+        // 30s Milestone: Deep reader threshold
+        if (activeSeconds >= 30 && !milestones[30]) {
+          milestones[30] = true;
+          trackGAEvent('reading_milestone', { threshold: '30s', page_type: pageType, path: window.location.pathname });
+        }
+        // 60s Milestone: Thorough reader completion
+        if (activeSeconds >= 60 && !milestones[60]) {
+          milestones[60] = true;
+          trackGAEvent('reading_milestone', { threshold: '60s', page_type: pageType, path: window.location.pathname });
+        }
+        // 120s Milestone: Power user engagement
+        if (activeSeconds >= 120 && !milestones[120]) {
+          milestones[120] = true;
+          trackGAEvent('reading_milestone', { threshold: '120s', page_type: pageType, path: window.location.pathname });
+        }
+      }
+    }, 1000);
+
+    // Global Click Delegation for Recirculation Tracking
+    document.addEventListener('click', (e) => {
+      const trackEl = e.target.closest('[data-ga-source]');
+      if (trackEl) {
+        const source = trackEl.getAttribute('data-ga-source');
+        trackGAEvent('recirculation_click', {
+          source_element: source,
+          destination_url: trackEl.getAttribute('href') || '',
+          path: window.location.pathname
+        });
+      }
+    });
+  }
+
+  // Floating Glassmorphic Up-Next Dock Initializer
+  function initFloatingDock() {
+    const dock = document.getElementById('floatingUpNext');
+    const closeBtn = document.getElementById('closeFloatingDock');
+    if (!dock) return;
+
+    window._floatingDockDismissed = false;
+    try {
+      if (sessionStorage.getItem('newspulse_dismiss_dock') === '1') {
+        window._floatingDockDismissed = true;
+      }
+    } catch (e) {}
+
+    if (closeBtn) {
+      closeBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        window._floatingDockDismissed = true;
+        dock.classList.remove('visible');
+        try {
+          sessionStorage.setItem('newspulse_dismiss_dock', '1');
+        } catch (err) {}
+        trackGAEvent('floating_dock_dismiss');
       });
     }
   }

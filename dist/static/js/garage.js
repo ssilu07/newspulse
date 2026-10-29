@@ -364,6 +364,15 @@
       const carA = CARS[carASelect.value];
       const carB = CARS[carBSelect.value];
 
+      try {
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', 'drag_race_launch', {
+            car_a: carA.name,
+            car_b: carB.name
+          });
+        }
+      } catch (e) {}
+
       // Christmas tree lights countdown
       // Light 1: Amber 1 (400ms)
       setTimeout(() => {

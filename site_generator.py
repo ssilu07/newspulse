@@ -869,11 +869,14 @@ def render_homepage_html(articles: list) -> str:
           <ul class="modal-bullets" id="modalBullets"></ul>
         </div>
 
-        <div class="modal-footer">
-          <a href="#" class="web-story-link" id="modalStoryBtn">⚡ Experience Full AMP Story</a>
-          <div style="display: flex; gap: 8px;">
-            <button class="btn-quick-read" id="modalTtsBtn">🔊 Listen</button>
-            <a href="#" target="_blank" rel="noopener noreferrer" class="btn-quick-read" id="modalOriginalBtn">Original Article ↗</a>
+        <div class="modal-footer" style="display: flex; flex-direction: column; gap: 12px;">
+          <div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%;">
+            <a href="#" class="full-article-link" id="modalArticleBtn" data-ga-source="modal_full_story" style="flex: 1; text-align: center; justify-content: center; padding: 10px 18px; font-size: 13px; font-weight: 700; background: var(--accent-gradient); color: #fff; border-radius: 9999px; text-decoration: none;">📰 Read Full In-Depth Story →</a>
+            <a href="#" class="web-story-link" id="modalStoryBtn" data-ga-source="modal_web_story" style="padding: 10px 16px; font-size: 13px;">⚡ Visual Story</a>
+          </div>
+          <div style="display: flex; gap: 8px; justify-content: space-between; align-items: center; width: 100%;">
+            <button class="btn-quick-read" id="modalTtsBtn" style="padding: 6px 14px; font-size: 12px;">🔊 Listen</button>
+            <a href="#" target="_blank" rel="noopener noreferrer" class="btn-quick-read" id="modalOriginalBtn" style="padding: 6px 14px; font-size: 12px;">Original Wire ↗</a>
           </div>
         </div>
       </div>
@@ -893,7 +896,7 @@ def render_homepage_html(articles: list) -> str:
   {get_base_footer()}
 
   <!-- Main JavaScript Engine -->
-  <script src="/static/js/main.js?v=2.3"></script>
+  <script src="/static/js/main.js?v=2.4"></script>
   <script src="/static/js/garage.js?v=1.0" defer></script>
 </body>
 </html>"""
@@ -1146,6 +1149,35 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
     else:
         ad_slot_html = ""
 
+    # Identify Next & Previous Stories for Continuous Recirculation
+    curr_idx = 0
+    for idx, a in enumerate(all_articles):
+        if a.get("slug") == slug:
+            curr_idx = idx
+            break
+
+    total_articles = len(all_articles)
+    prev_article = all_articles[(curr_idx - 1) % total_articles] if total_articles > 1 else article
+    next_article = all_articles[(curr_idx + 1) % total_articles] if total_articles > 1 else article
+
+    # Up Next prioritizes same category, otherwise next_article
+    cat_peers = [a for a in all_articles if a.get("slug") != slug and a.get("category") == cat_slug]
+    up_next_story = cat_peers[0] if cat_peers else next_article
+
+    up_slug = up_next_story.get("slug", "")
+    up_title = escape(up_next_story.get("title", ""))
+    up_img = escape(up_next_story.get("image_url", "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&fit=crop"))
+    up_cat = escape(up_next_story.get("category_name", cat_name))
+    up_time = escape(up_next_story.get("reading_time", "2 min read"))
+
+    prev_slug = prev_article.get("slug", "")
+    prev_title = escape(prev_article.get("title", ""))
+    prev_time = escape(prev_article.get("reading_time", "2 min read"))
+
+    next_slug = next_article.get("slug", "")
+    next_title = escape(next_article.get("title", ""))
+    next_time = escape(next_article.get("reading_time", "2 min read"))
+
     # Related Articles in same category (up to 3)
     related = [a for a in all_articles if a.get("slug") != slug and a.get("category") == cat_slug]
     if len(related) < 3:
@@ -1372,11 +1404,37 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
         </h2>
         <p class="article-p">{sec2_text}</p>
 
+        <!-- Mid-Article Contextual Recirculation Card -->
+        <aside class="inline-recirc-card" aria-label="Trending Next">
+          <div class="inline-recirc-header">
+            <span class="inline-recirc-badge">⚡ TRENDING IN {up_cat.upper()}</span>
+            <span class="inline-recirc-read-time">🕒 {up_time}</span>
+          </div>
+          <a href="/news/{up_slug}/" class="inline-recirc-body" data-ga-source="inline_recirc">
+            <img src="{up_img}" alt="{up_title}" class="inline-recirc-thumb" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=300&fit=crop';">
+            <div class="inline-recirc-text">
+              <span class="inline-recirc-label">UP NEXT IN MOBILITY:</span>
+              <h4 class="inline-recirc-title">{up_title}</h4>
+              <span class="inline-recirc-cta">Read Next Story ➔</span>
+            </div>
+          </a>
+        </aside>
+
         <h2 class="article-section-title">
           <span>📊</span>
           <span>Industry & Real-World Impact</span>
         </h2>
         <p class="article-p">{sec3_text}</p>
+
+        <!-- Pit Stop Lab Interactive Challenge Box -->
+        <div class="article-pitstop-cta">
+          <div class="pitstop-cta-icon">🏎️⚡</div>
+          <div class="pitstop-cta-text">
+            <h4>Benchmark Telemetry &amp; EV Fuel Savings</h4>
+            <p>Put top supercars and EVs to the test in <strong>The Pit Stop Lab</strong> — launch head-to-head 1/4-mile drag strip battles &amp; compute EPA electric fuel cost savings.</p>
+          </div>
+          <a href="/#interactiveGarage" class="pitstop-cta-btn" data-ga-source="article_pitstop">Open Pit Stop Lab ➔</a>
+        </div>
 
         <!-- Companion AMP Web Story Callout Banner -->
         <div class="article-story-cta-box">
@@ -1441,6 +1499,20 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
         </div>
       </section>
 
+      <!-- Previous & Next Story Continuous Navigation Dock -->
+      <nav class="article-prev-next-nav" aria-label="Adjacent Stories">
+        <a href="/news/{prev_slug}/" class="prev-next-card prev-card" data-ga-source="prev_story">
+          <span class="prev-next-label">← Previous Story</span>
+          <h4 class="prev-next-title">{prev_title}</h4>
+          <span class="prev-next-sub">🕒 {prev_time}</span>
+        </a>
+        <a href="/news/{next_slug}/" class="prev-next-card next-card" data-ga-source="next_story">
+          <span class="prev-next-label">Next Story →</span>
+          <h4 class="prev-next-title">{next_title}</h4>
+          <span class="prev-next-sub">🕒 {next_time}</span>
+        </a>
+      </nav>
+
       <!-- Related Stories Grid -->
       <section class="related-stories-section" aria-label="Related Stories">
         <h3 class="related-title">
@@ -1463,11 +1535,25 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
   <!-- Floating Back-to-Top Button -->
   <button id="backToTopBtn" class="back-to-top-btn" aria-label="Scroll to top" title="Back to top">↑</button>
 
+  <!-- Floating Glassmorphic Up Next Dock (Slides up at 25% scroll) -->
+  <aside id="floatingUpNext" class="floating-up-next" aria-label="Up Next Story">
+    <button id="closeFloatingDock" class="floating-dock-close" aria-label="Dismiss recommendation" title="Dismiss">✕</button>
+    <a href="/news/{up_slug}/" class="floating-dock-inner" data-ga-source="floating_dock">
+      <img src="{up_img}" alt="{up_title}" class="floating-dock-img" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=160&fit=crop';">
+      <div class="floating-dock-info">
+        <span class="floating-dock-tag">⚡ UP NEXT • {up_cat}</span>
+        <h5 class="floating-dock-title">{up_title}</h5>
+        <span class="floating-dock-meta">🕒 {up_time} • Tap to Read</span>
+      </div>
+      <span class="floating-dock-btn">Read ➔</span>
+    </a>
+  </aside>
+
   <!-- Global Footer -->
   {get_base_footer()}
 
   <!-- Main JavaScript Engine -->
-  <script src="/static/js/main.js?v=2.3"></script>
+  <script src="/static/js/main.js?v=2.4"></script>
 </body>
 </html>"""
     return article_html
@@ -1741,7 +1827,7 @@ def generate_compliance_pages(dist_dir: Path):
 
   {get_base_footer()}
 
-  <script src="/static/js/main.js?v=2.3"></script>
+  <script src="/static/js/main.js?v=2.4"></script>
 </body>
 </html>"""
 

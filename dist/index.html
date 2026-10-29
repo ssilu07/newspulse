@@ -2263,11 +2263,14 @@
           <ul class="modal-bullets" id="modalBullets"></ul>
         </div>
 
-        <div class="modal-footer">
-          <a href="#" class="web-story-link" id="modalStoryBtn">⚡ Experience Full AMP Story</a>
-          <div style="display: flex; gap: 8px;">
-            <button class="btn-quick-read" id="modalTtsBtn">🔊 Listen</button>
-            <a href="#" target="_blank" rel="noopener noreferrer" class="btn-quick-read" id="modalOriginalBtn">Original Article ↗</a>
+        <div class="modal-footer" style="display: flex; flex-direction: column; gap: 12px;">
+          <div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%;">
+            <a href="#" class="full-article-link" id="modalArticleBtn" data-ga-source="modal_full_story" style="flex: 1; text-align: center; justify-content: center; padding: 10px 18px; font-size: 13px; font-weight: 700; background: var(--accent-gradient); color: #fff; border-radius: 9999px; text-decoration: none;">📰 Read Full In-Depth Story →</a>
+            <a href="#" class="web-story-link" id="modalStoryBtn" data-ga-source="modal_web_story" style="padding: 10px 16px; font-size: 13px;">⚡ Visual Story</a>
+          </div>
+          <div style="display: flex; gap: 8px; justify-content: space-between; align-items: center; width: 100%;">
+            <button class="btn-quick-read" id="modalTtsBtn" style="padding: 6px 14px; font-size: 12px;">🔊 Listen</button>
+            <a href="#" target="_blank" rel="noopener noreferrer" class="btn-quick-read" id="modalOriginalBtn" style="padding: 6px 14px; font-size: 12px;">Original Wire ↗</a>
           </div>
         </div>
       </div>
@@ -2351,7 +2354,7 @@
 
 
   <!-- Main JavaScript Engine -->
-  <script src="/static/js/main.js?v=2.3"></script>
+  <script src="/static/js/main.js?v=2.4"></script>
   <script src="/static/js/garage.js?v=1.0" defer></script>
 </body>
 </html>
