@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-29T16:19:29Z</lastmod>
+    <lastmod>2026-10-29T19:15:14Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-29T16:19:29Z</lastmod>
+    <lastmod>2026-10-29T19:15:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-29T16:19:29Z</lastmod>
+    <lastmod>2026-10-29T19:15:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-29T16:19:29Z</lastmod>
+    <lastmod>2026-10-29T19:15:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-29T16:19:29Z</lastmod>
+    <lastmod>2026-10-29T19:15:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-29T16:19:29Z</lastmod>
+    <lastmod>2026-10-29T19:15:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon/</loc>
+    <lastmod>2026-10-29T19:13:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon-enough/l-intro-1793300580.jpg</image:loc>
+      <image:title>Toyota&#x27;s Next Hybrids Will Sip 15% Less Gas, And They Can&#x27;t Come Soon Enough</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon/</loc>
+    <lastmod>2026-10-29T19:13:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon-enough/l-intro-1793300580.jpg</image:loc>
+      <image:title>Toyota&#x27;s Next Hybrids Will Sip 15% Less Gas, And They Can&#x27;t Come Soon Enough</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tested-1991-bmw-318i-has-a-case-of-the-wiggles/</loc>
+    <lastmod>2026-10-29T18:37:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7ef6f540-059e-40f1-9bf6-ee1d9d8db5df.jpg?crop=0.77xw:0.577xh;0.134xw,0.235xh&amp;resize=1200:*</image:loc>
+      <image:title>Tested: 1991 BMW 318i Has a Case of the Wiggles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tested-1991-bmw-318i-has-a-case-of-the-wiggles/</loc>
+    <lastmod>2026-10-29T18:37:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7ef6f540-059e-40f1-9bf6-ee1d9d8db5df.jpg?crop=0.77xw:0.577xh;0.134xw,0.235xh&amp;resize=1200:*</image:loc>
+      <image:title>Tested: 1991 BMW 318i Has a Case of the Wiggles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely/</loc>
+    <lastmod>2026-10-29T18:28:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely-make-gas-less-expensive/l-intro-1793297893.jpg</image:loc>
+      <image:title>Three Tankers Hit Mines In Strait Of Hormuz, Which Will Definitely Make Gas Less Expensive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely/</loc>
+    <lastmod>2026-10-29T18:28:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely-make-gas-less-expensive/l-intro-1793297893.jpg</image:loc>
+      <image:title>Three Tankers Hit Mines In Strait Of Hormuz, Which Will Definitely Make Gas Less Expensive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-somethin/</loc>
+    <lastmod>2026-10-29T18:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-something-fun-what-should-i-buy/l-intro-1793294070.jpg</image:loc>
+      <image:title>I Just Graduated Law School, Time To Upgrade My Toyota To Something Fun! What Should I Buy?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-somethin/</loc>
+    <lastmod>2026-10-29T18:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-something-fun-what-should-i-buy/l-intro-1793294070.jpg</image:loc>
+      <image:title>I Just Graduated Law School, Time To Upgrade My Toyota To Something Fun! What Should I Buy?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-details-the-new-hybrid-system-bound-for-the-next-gen-corol/</loc>
+    <lastmod>2026-10-29T18:23:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/toyota-corolla-concept-3-69056230e426c.jpg</image:loc>
+      <image:title>Toyota Details the New Hybrid System Bound for the Next-Gen Corolla</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-details-the-new-hybrid-system-bound-for-the-next-gen-corol/</loc>
+    <lastmod>2026-10-29T18:23:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/toyota-corolla-concept-3-69056230e426c.jpg</image:loc>
+      <image:title>Toyota Details the New Hybrid System Bound for the Next-Gen Corolla</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/not-even-the-bentley-torcal-can-avoid-the-first-edition-treatment/</loc>
+    <lastmod>2026-10-29T18:11:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/not-even-the-bentley-torcal-can-avoid-the-first-edition-treatment/l-intro-1793296782.jpg</image:loc>
+      <image:title>Not Even The Bentley Torcal Can Avoid The First Edition Treatment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/not-even-the-bentley-torcal-can-avoid-the-first-edition-treatment/</loc>
+    <lastmod>2026-10-29T18:11:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/not-even-the-bentley-torcal-can-avoid-the-first-edition-treatment/l-intro-1793296782.jpg</image:loc>
+      <image:title>Not Even The Bentley Torcal Can Avoid The First Edition Treatment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/antonelli-skips-f1-mexico-gp-media-day-due-to-illness/</loc>
+    <lastmod>2026-10-29T17:07:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-8.motorsport.com/images/amp/YBVjm5KY/s6/andrea-kimi-antonelli-mercedes.jpg</image:loc>
+      <image:title>Antonelli skips F1 Mexico GP media day due to illness</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/antonelli-skips-f1-mexico-gp-media-day-due-to-illness/</loc>
+    <lastmod>2026-10-29T17:07:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-8.motorsport.com/images/amp/YBVjm5KY/s6/andrea-kimi-antonelli-mercedes.jpg</image:loc>
+      <image:title>Antonelli skips F1 Mexico GP media day due to illness</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/irelands-grid-flexibility-assessment-shows-why-location-matters/</loc>
+    <lastmod>2026-10-29T16:59:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/hero-1600x900-1.png</image:loc>
+      <image:title>Ireland’s Grid Flexibility Assessment Shows Why Location Matters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/irelands-grid-flexibility-assessment-shows-why-location-matters/</loc>
+    <lastmod>2026-10-29T16:59:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/hero-1600x900-1.png</image:loc>
+      <image:title>Ireland’s Grid Flexibility Assessment Shows Why Location Matters</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/ex-tesla-autopilot-head-calls-vision-only-a-weird-religious-stanc/</loc>
@@ -155,6 +315,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/these-were-your-most-ill-suited-automotive-experiences/l-intro-1793276763.jpg</image:loc>
       <image:title>These Were Your Most Ill-Suited Automotive Experiences</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-ford-escape-may-return-as-an-ev-based-on-the-uev-platform-upd/</loc>
+    <lastmod>2026-10-29T14:13:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Escape-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The Ford Escape may return as an EV based on the UEV platform [Update]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-ford-escape-may-return-as-an-ev-based-on-the-uev-platform-upd/</loc>
+    <lastmod>2026-10-29T14:13:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Escape-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The Ford Escape may return as an EV based on the UEV platform [Update]</image:title>
     </image:image>
   </url>
   <url>
@@ -278,6 +458,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/whats-the-most-haunted-car-youve-ever-bought/</loc>
+    <lastmod>2026-10-29T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-the-most-haunted-car-youve-ever-bought/l-intro-1793276077.jpg</image:loc>
+      <image:title>What&#x27;s The Most Haunted Car You&#x27;ve Ever Bought?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/whats-the-most-haunted-car-youve-ever-bought/</loc>
+    <lastmod>2026-10-29T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-the-most-haunted-car-youve-ever-bought/l-intro-1793276077.jpg</image:loc>
+      <image:title>What&#x27;s The Most Haunted Car You&#x27;ve Ever Bought?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/how-to-determine-if-buying-out-your-cars-lease-is-worth-it/</loc>
     <lastmod>2026-10-29T13:15:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -298,6 +498,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/cadillac-honoured-to-have-perez-as-special-300th-race-celebration/</loc>
+    <lastmod>2026-10-29T13:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/63QaoRw2/s6/sergio-perez-cadillac-racing-2.jpg</image:loc>
+      <image:title>Cadillac &#x27;honoured&#x27; to have Perez as special 300th race celebration planned for Mexico GP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cadillac-honoured-to-have-perez-as-special-300th-race-celebration/</loc>
+    <lastmod>2026-10-29T13:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/63QaoRw2/s6/sergio-perez-cadillac-racing-2.jpg</image:loc>
+      <image:title>Cadillac &#x27;honoured&#x27; to have Perez as special 300th race celebration planned for Mexico GP</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/47-years-in-the-factory-crate-a-1979-honda-cr125r-elsinore/</loc>
     <lastmod>2026-10-29T12:30:05+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -315,6 +535,26 @@
     <image:image>
       <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Honda-CR125R-Elsinore-Motorcycle-6.jpg</image:loc>
       <image:title>47 Years In The Factory Crate: A 1979 Honda CR125R Elsinore</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-47000-would-you-lighten-your-wallet-for-this-2007-chevy-corvet/</loc>
+    <lastmod>2026-10-29T12:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-47000-would-you-lighten-your-wallet-for-this-2007-chevy-corvette-z06/l-intro-1793206889.jpg</image:loc>
+      <image:title>At $47,000, Would You Lighten Your Wallet For This 2007 Chevy Corvette Z06?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-47000-would-you-lighten-your-wallet-for-this-2007-chevy-corvet/</loc>
+    <lastmod>2026-10-29T12:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-47000-would-you-lighten-your-wallet-for-this-2007-chevy-corvette-z06/l-intro-1793206889.jpg</image:loc>
+      <image:title>At $47,000, Would You Lighten Your Wallet For This 2007 Chevy Corvette Z06?</image:title>
     </image:image>
   </url>
   <url>
@@ -2795,246 +3035,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448002_HiRes-1.jpg</image:loc>
       <image:title>F1 2026 United States Grand Prix race result</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-trea/</loc>
-    <lastmod>2026-10-25T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-treat/l-intro-1792583537.jpg</image:loc>
-      <image:title>4 Ideas To Deck Out Your Car For The Next Halloween Trunk-Or-Treat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-trea/</loc>
-    <lastmod>2026-10-25T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/4-ideas-to-deck-out-your-car-for-the-next-halloween-trunk-or-treat/l-intro-1792583537.jpg</image:loc>
-      <image:title>4 Ideas To Deck Out Your Car For The Next Halloween Trunk-Or-Treat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/switching-auto-insurance-providers-the-pros-and-cons-explained/</loc>
-    <lastmod>2026-10-25T20:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/switching-auto-insurance-providers-the-pros-and-cons-explained/l-intro-1792797618.jpg</image:loc>
-      <image:title>Switching Auto Insurance Providers: The Pros And Cons Explained</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/switching-auto-insurance-providers-the-pros-and-cons-explained/</loc>
-    <lastmod>2026-10-25T20:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/switching-auto-insurance-providers-the-pros-and-cons-explained/l-intro-1792797618.jpg</image:loc>
-      <image:title>Switching Auto Insurance Providers: The Pros And Cons Explained</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-did-dodge-ford-and-other-muscle-cars-use-window-louvers/</loc>
-    <lastmod>2026-10-25T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/why-did-dodge-ford-and-other-muscle-cars-use-window-louvers/l-intro-1792701340.jpg</image:loc>
-      <image:title>Why Did Dodge, Ford, And Other Muscle Cars Use Window Louvers?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-did-dodge-ford-and-other-muscle-cars-use-window-louvers/</loc>
-    <lastmod>2026-10-25T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/why-did-dodge-ford-and-other-muscle-cars-use-window-louvers/l-intro-1792701340.jpg</image:loc>
-      <image:title>Why Did Dodge, Ford, And Other Muscle Cars Use Window Louvers?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/every-new-subaru-suv-ranked-from-smallest-to-largest/</loc>
-    <lastmod>2026-10-25T19:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/every-new-subaru-suv-ranked-from-smallest-to-largest/l-intro-1792516886.jpg</image:loc>
-      <image:title>Every New Subaru SUV Ranked From Smallest To Largest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/every-new-subaru-suv-ranked-from-smallest-to-largest/</loc>
-    <lastmod>2026-10-25T19:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/every-new-subaru-suv-ranked-from-smallest-to-largest/l-intro-1792516886.jpg</image:loc>
-      <image:title>Every New Subaru SUV Ranked From Smallest To Largest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-chinas-gac-tried-developing-a-4-cylinder-engine-that-ran-on-a/</loc>
-    <lastmod>2026-10-25T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-chinas-gac-tried-developing-a-4-cylinder-engine-that-ran-on-ammonia/l-intro-1792492017.jpg</image:loc>
-      <image:title>Why China&#x27;s GAC Tried Developing A 4-Cylinder Engine That Ran On Ammonia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-chinas-gac-tried-developing-a-4-cylinder-engine-that-ran-on-a/</loc>
-    <lastmod>2026-10-25T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-chinas-gac-tried-developing-a-4-cylinder-engine-that-ran-on-ammonia/l-intro-1792492017.jpg</image:loc>
-      <image:title>Why China&#x27;s GAC Tried Developing A 4-Cylinder Engine That Ran On Ammonia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/</loc>
-    <lastmod>2026-10-25T18:34:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/xcmg_autonomous-hauler.jpg?quality=82&amp;strip=all&amp;w=1500</image:loc>
-      <image:title>XCMG debuts new, fully autonomous electric terminal tractor [video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/</loc>
-    <lastmod>2026-10-25T18:34:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/xcmg_autonomous-hauler.jpg?quality=82&amp;strip=all&amp;w=1500</image:loc>
-      <image:title>XCMG debuts new, fully autonomous electric terminal tractor [video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/porsche-expands-do-not-drive-recall-for-performance-models-with-c/</loc>
-    <lastmod>2026-10-25T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/porsche-expands-do-not-drive-recall-for-performance-models-with-center-lock-wheels-that-could-fall-off/l-intro-1792788180.jpg</image:loc>
-      <image:title>Porsche Expands &#x27;Do Not Drive&#x27; Recall For Performance Models With Center-Lock Wheels That Could Fall Off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/porsche-expands-do-not-drive-recall-for-performance-models-with-c/</loc>
-    <lastmod>2026-10-25T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/porsche-expands-do-not-drive-recall-for-performance-models-with-center-lock-wheels-that-could-fall-off/l-intro-1792788180.jpg</image:loc>
-      <image:title>Porsche Expands &#x27;Do Not Drive&#x27; Recall For Performance Models With Center-Lock Wheels That Could Fall Off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-li-auto-i6-goes-811-km-504-miles/</loc>
-    <lastmod>2026-10-25T17:57:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Li-Auto-i6.jpeg</image:loc>
-      <image:title>New Li Auto i6 Goes 811 km (504 Miles)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-li-auto-i6-goes-811-km-504-miles/</loc>
-    <lastmod>2026-10-25T17:57:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Li-Auto-i6.jpeg</image:loc>
-      <image:title>New Li Auto i6 Goes 811 km (504 Miles)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/battery-electric-solar-powered-reefer-units-reach-their-first-cus/</loc>
-    <lastmod>2026-10-25T17:28:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Wickham-Freight-Sunswap-Endurance-2.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Battery electric, solar-powered reefer units reach their first customers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/battery-electric-solar-powered-reefer-units-reach-their-first-cus/</loc>
-    <lastmod>2026-10-25T17:28:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Wickham-Freight-Sunswap-Endurance-2.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Battery electric, solar-powered reefer units reach their first customers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood/</loc>
-    <lastmod>2026-10-25T17:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood-legend-steve-mcqueen/l-intro-1792169148.jpg</image:loc>
-      <image:title>Why These Two Actors Clashed With Fellow Automotive And Hollywood Legend Steve McQueen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood/</loc>
-    <lastmod>2026-10-25T17:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-these-two-actors-clashed-with-fellow-automotive-and-hollywood-legend-steve-mcqueen/l-intro-1792169148.jpg</image:loc>
-      <image:title>Why These Two Actors Clashed With Fellow Automotive And Hollywood Legend Steve McQueen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trumps-doe-budget-request-cuts-weak-bets-and-useful-energy-resear/</loc>
-    <lastmod>2026-10-25T17:17:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Trump_DOE_stopped_clock_hero_1600x900.png</image:loc>
-      <image:title>Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/trumps-doe-budget-request-cuts-weak-bets-and-useful-energy-resear/</loc>
-    <lastmod>2026-10-25T17:17:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Trump_DOE_stopped_clock_hero_1600x900.png</image:loc>
-      <image:title>Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/who-killed-the-elon-musk-movie-nope-not-that-billionaire-must-be-/</loc>
-    <lastmod>2026-10-25T17:07:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/elon-musk-the-movie-trailer.png</image:loc>
-      <image:title>Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/who-killed-the-elon-musk-movie-nope-not-that-billionaire-must-be-/</loc>
-    <lastmod>2026-10-25T17:07:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/elon-musk-the-movie-trailer.png</image:loc>
-      <image:title>Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One</image:title>
     </image:image>
   </url>
 </urlset>
