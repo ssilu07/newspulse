@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-30T08:48:24Z</lastmod>
+    <lastmod>2026-10-30T12:11:04Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-30T08:48:24Z</lastmod>
+    <lastmod>2026-10-30T12:11:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-30T08:48:24Z</lastmod>
+    <lastmod>2026-10-30T12:11:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-30T08:48:24Z</lastmod>
+    <lastmod>2026-10-30T12:11:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-30T08:48:24Z</lastmod>
+    <lastmod>2026-10-30T12:11:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-30T08:48:24Z</lastmod>
+    <lastmod>2026-10-30T12:11:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
+    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/fc319356-94a0-4387-a707-b47632a8ab1e.jpg</image:loc>
+      <image:title>View Interior Photos of the 2027 Nissan Rogue Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
+    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/fc319356-94a0-4387-a707-b47632a8ab1e.jpg</image:loc>
+      <image:title>View Interior Photos of the 2027 Nissan Rogue Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
+    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/050f41ab-ae5b-4f01-b66c-3ad1e861e9f8.jpg</image:loc>
+      <image:title>View Exterior Photos of the 2027 Nissan Rogue Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
+    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/050f41ab-ae5b-4f01-b66c-3ad1e861e9f8.jpg</image:loc>
+      <image:title>View Exterior Photos of the 2027 Nissan Rogue Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-nissan-rogue-hybrids-silence-speaks-volumes/</loc>
+    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-nissan-rogue-hybrids-silence-speaks-volumes/l-intro-1793301780.jpg</image:loc>
+      <image:title>2027 Nissan Rogue Hybrid&#x27;s Silence Speaks Volumes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-nissan-rogue-hybrids-silence-speaks-volumes/</loc>
+    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-nissan-rogue-hybrids-silence-speaks-volumes/l-intro-1793301780.jpg</image:loc>
+      <image:title>2027 Nissan Rogue Hybrid&#x27;s Silence Speaks Volumes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyotas-5-woodland-sema-concepts-are-giving-almost-rugged-vibes/</loc>
+    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/13e2c055-947a-46f0-8587-480201e69e96.jpg</image:loc>
+      <image:title>Toyota’s 5 Woodland SEMA Concepts Are Giving Almost-Rugged Vibes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyotas-5-woodland-sema-concepts-are-giving-almost-rugged-vibes/</loc>
+    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/13e2c055-947a-46f0-8587-480201e69e96.jpg</image:loc>
+      <image:title>Toyota’s 5 Woodland SEMA Concepts Are Giving Almost-Rugged Vibes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/three-mexico-fp1-changes-with-high-driver-market-stakes/</loc>
+    <lastmod>2026-10-30T11:30:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1445795_HiRes.jpg</image:loc>
+      <image:title>Three Mexico FP1 changes with high driver market stakes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/three-mexico-fp1-changes-with-high-driver-market-stakes/</loc>
+    <lastmod>2026-10-30T11:30:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1445795_HiRes.jpg</image:loc>
+      <image:title>Three Mexico FP1 changes with high driver market stakes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/facelifted-bmw-m5-shows-off-its-production-lights-but-in-the-wron/</loc>
+    <lastmod>2026-10-30T10:16:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/facelifted-bmw-m5-shows-off-its-production-lights/l-intro-1793355595.jpg</image:loc>
+      <image:title>Facelifted BMW M5 Shows Off Its Production Lights, But In The Wrong Color</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/facelifted-bmw-m5-shows-off-its-production-lights-but-in-the-wron/</loc>
+    <lastmod>2026-10-30T10:16:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/facelifted-bmw-m5-shows-off-its-production-lights/l-intro-1793355595.jpg</image:loc>
+      <image:title>Facelifted BMW M5 Shows Off Its Production Lights, But In The Wrong Color</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-motocross-sepang-wasnt-fixed/</loc>
+    <lastmod>2026-10-30T10:14:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357860_HiRes.jpg</image:loc>
+      <image:title>Why &#x27;motocross&#x27; Sepang wasn&#x27;t fixed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-motocross-sepang-wasnt-fixed/</loc>
+    <lastmod>2026-10-30T10:14:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357860_HiRes.jpg</image:loc>
+      <image:title>Why &#x27;motocross&#x27; Sepang wasn&#x27;t fixed</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/marquez-quickest-again-martin-done-after-three-laps/</loc>
@@ -1055,6 +1195,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/2250102035.jpg</image:loc>
       <image:title>Williams launches &#x27;W50&#x27; expo to celebrate F1 milestone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyotas-signia-gt-s-looks-the-part-but-doesnt-have-the-power-to-m/</loc>
+    <lastmod>2026-10-29T14:43:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyotas-signia-gt-s-looks-the-part-but-doesnt-have-the-power-to-match/l-intro-1793284786.jpg</image:loc>
+      <image:title>Toyota&#x27;s Signia GT-S Looks The Part, But Doesn&#x27;t Have The Power To Match</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyotas-signia-gt-s-looks-the-part-but-doesnt-have-the-power-to-m/</loc>
+    <lastmod>2026-10-29T14:43:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyotas-signia-gt-s-looks-the-part-but-doesnt-have-the-power-to-match/l-intro-1793284786.jpg</image:loc>
+      <image:title>Toyota&#x27;s Signia GT-S Looks The Part, But Doesn&#x27;t Have The Power To Match</image:title>
     </image:image>
   </url>
   <url>
@@ -2078,6 +2238,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/toyota-snowhunter-concepts-ready-to-conquer-the-inevitable-ai-ind/</loc>
+    <lastmod>2026-10-28T15:41:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyota-snowhunter-concepts-ready-to-conquer-the-inevitable-a-i-induced-nuclear-winter/l-intro-1793201684.jpg</image:loc>
+      <image:title>Toyota Snowhunter Concepts Ready To Conquer The Inevitable A.I.-Induced Nuclear Winter</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-snowhunter-concepts-ready-to-conquer-the-inevitable-ai-ind/</loc>
+    <lastmod>2026-10-28T15:41:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyota-snowhunter-concepts-ready-to-conquer-the-inevitable-a-i-induced-nuclear-winter/l-intro-1793201684.jpg</image:loc>
+      <image:title>Toyota Snowhunter Concepts Ready To Conquer The Inevitable A.I.-Induced Nuclear Winter</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/2027-lexus-tx-hybrid/</loc>
     <lastmod>2026-10-28T15:32:38+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -2855,186 +3035,6 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/10808dc5-231d-4e20-a561-fe6a4f443907.jpg</image:loc>
       <image:title>Chevy Traverse Will Reportedly Get GM’s New Hybrid Powertrain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rebuild-which-spun-out-slate-auto-raises-21b/</loc>
-    <lastmod>2026-10-27T20:31:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800</image:loc>
-      <image:title>Re:Build, which spun out Slate Auto, raises $2.1B</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rebuild-which-spun-out-slate-auto-raises-21b/</loc>
-    <lastmod>2026-10-27T20:31:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800</image:loc>
-      <image:title>Re:Build, which spun out Slate Auto, raises $2.1B</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagens-ev-recall-spreads-to-audi-and-owners-are-told-to-stop/</loc>
-    <lastmod>2026-10-27T20:09:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Volkswagen’s EV recall spreads to Audi, and owners are told to stop at 80% charge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/volkswagens-ev-recall-spreads-to-audi-and-owners-are-told-to-stop/</loc>
-    <lastmod>2026-10-27T20:09:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Volkswagen’s EV recall spreads to Audi, and owners are told to stop at 80% charge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/waymo-adds-nearly-250-square-miles-of-robotaxi-coverage-in-5-citi/</loc>
-    <lastmod>2026-10-27T19:55:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/waymo-250-square-miles-five-cities-expansion.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/waymo-adds-nearly-250-square-miles-of-robotaxi-coverage-in-5-citi/</loc>
-    <lastmod>2026-10-27T19:55:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/waymo-250-square-miles-five-cities-expansion.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/look-ma-no-inverter-new-ford-fathom-cuts-the-cost-of-bidirectiona/</loc>
-    <lastmod>2026-10-27T19:45:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM.png</image:loc>
-      <image:title>Look Ma, No Inverter! New Ford Fathom Cuts The Cost Of Bidirectional EV Charging</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/look-ma-no-inverter-new-ford-fathom-cuts-the-cost-of-bidirectiona/</loc>
-    <lastmod>2026-10-27T19:45:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM.png</image:loc>
-      <image:title>Look Ma, No Inverter! New Ford Fathom Cuts The Cost Of Bidirectional EV Charging</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fords-30k-fathom-ev-can-double-as-a-home-power-generator/</loc>
-    <lastmod>2026-10-27T19:26:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6fdd21bd-29a0-4272-a4b5-a2d524fac36e.jpeg</image:loc>
-      <image:title>Ford’s $30K Fathom EV Can Double as a Home Power Generator</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fords-30k-fathom-ev-can-double-as-a-home-power-generator/</loc>
-    <lastmod>2026-10-27T19:26:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6fdd21bd-29a0-4272-a4b5-a2d524fac36e.jpeg</image:loc>
-      <image:title>Ford’s $30K Fathom EV Can Double as a Home Power Generator</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-ktm-x-bow-is-finally-coming-to-american-roads/</loc>
-    <lastmod>2026-10-27T18:45:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-ktm-x-bow-is-finally-coming-to-american-roads/l-intro-1793125695.jpg</image:loc>
-      <image:title>The KTM X-Bow Is Finally Coming To American Roads</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-ktm-x-bow-is-finally-coming-to-american-roads/</loc>
-    <lastmod>2026-10-27T18:45:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-ktm-x-bow-is-finally-coming-to-american-roads/l-intro-1793125695.jpg</image:loc>
-      <image:title>The KTM X-Bow Is Finally Coming To American Roads</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-mercedes-benz-eqs-suv/</loc>
-    <lastmod>2026-10-27T18:43:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-benz-eqs-400-4matic-130-6952917695153.jpg?crop=0.722xw:0.542xh;0.139xw,0.253xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Mercedes-Benz EQS SUV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-mercedes-benz-eqs-suv/</loc>
-    <lastmod>2026-10-27T18:43:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-benz-eqs-400-4matic-130-6952917695153.jpg?crop=0.722xw:0.542xh;0.139xw,0.253xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Mercedes-Benz EQS SUV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gift-guide-the-best-car-advent-calendars-for-2026/</loc>
-    <lastmod>2026-10-27T18:40:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/advent-calendars-68fa5c4851bed.png</image:loc>
-      <image:title>Gift Guide: The Best Car Advent Calendars for 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gift-guide-the-best-car-advent-calendars-for-2026/</loc>
-    <lastmod>2026-10-27T18:40:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/advent-calendars-68fa5c4851bed.png</image:loc>
-      <image:title>Gift Guide: The Best Car Advent Calendars for 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-mid-engine-v8-geo-metro-is-the-ultimate-evolution-of-ls-swap/</loc>
-    <lastmod>2026-10-27T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-mid-engine-v8-geo-metro-is-the-ultimate-evolution-of-ls-swap-all-the-things/l-intro-1793121439.jpg</image:loc>
-      <image:title>This Mid-Engine V8 Geo Metro Is The Ultimate Evolution Of &#x27;LS Swap All The Things</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-mid-engine-v8-geo-metro-is-the-ultimate-evolution-of-ls-swap/</loc>
-    <lastmod>2026-10-27T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-mid-engine-v8-geo-metro-is-the-ultimate-evolution-of-ls-swap-all-the-things/l-intro-1793121439.jpg</image:loc>
-      <image:title>This Mid-Engine V8 Geo Metro Is The Ultimate Evolution Of &#x27;LS Swap All The Things</image:title>
     </image:image>
   </url>
 </urlset>

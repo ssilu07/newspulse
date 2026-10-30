@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:00:00+00:00</news:publication_date>
+      <news:title>View Interior Photos of the 2027 Nissan Rogue Hybrid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/fc319356-94a0-4387-a707-b47632a8ab1e.jpg</image:loc>
+      <image:title>View Interior Photos of the 2027 Nissan Rogue Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:00:00+00:00</news:publication_date>
+      <news:title>View Exterior Photos of the 2027 Nissan Rogue Hybrid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/050f41ab-ae5b-4f01-b66c-3ad1e861e9f8.jpg</image:loc>
+      <image:title>View Exterior Photos of the 2027 Nissan Rogue Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-nissan-rogue-hybrids-silence-speaks-volumes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:00:00+00:00</news:publication_date>
+      <news:title>2027 Nissan Rogue Hybrid&#x27;s Silence Speaks Volumes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-nissan-rogue-hybrids-silence-speaks-volumes/l-intro-1793301780.jpg</image:loc>
+      <image:title>2027 Nissan Rogue Hybrid&#x27;s Silence Speaks Volumes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyotas-5-woodland-sema-concepts-are-giving-almost-rugged-vibes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:00:00+00:00</news:publication_date>
+      <news:title>Toyota’s 5 Woodland SEMA Concepts Are Giving Almost-Rugged Vibes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/13e2c055-947a-46f0-8587-480201e69e96.jpg</image:loc>
+      <image:title>Toyota’s 5 Woodland SEMA Concepts Are Giving Almost-Rugged Vibes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/three-mexico-fp1-changes-with-high-driver-market-stakes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T11:30:15+00:00</news:publication_date>
+      <news:title>Three Mexico FP1 changes with high driver market stakes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1445795_HiRes.jpg</image:loc>
+      <image:title>Three Mexico FP1 changes with high driver market stakes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/facelifted-bmw-m5-shows-off-its-production-lights-but-in-the-wron/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T10:16:54+00:00</news:publication_date>
+      <news:title>Facelifted BMW M5 Shows Off Its Production Lights, But In The Wrong Color</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/facelifted-bmw-m5-shows-off-its-production-lights/l-intro-1793355595.jpg</image:loc>
+      <image:title>Facelifted BMW M5 Shows Off Its Production Lights, But In The Wrong Color</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-motocross-sepang-wasnt-fixed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T10:14:13+00:00</news:publication_date>
+      <news:title>Why &#x27;motocross&#x27; Sepang wasn&#x27;t fixed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357860_HiRes.jpg</image:loc>
+      <image:title>Why &#x27;motocross&#x27; Sepang wasn&#x27;t fixed</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/marquez-quickest-again-martin-done-after-three-laps/</loc>
     <news:news>
       <news:publication>
@@ -765,6 +870,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/2250102035.jpg</image:loc>
       <image:title>Williams launches &#x27;W50&#x27; expo to celebrate F1 milestone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyotas-signia-gt-s-looks-the-part-but-doesnt-have-the-power-to-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T14:43:18+00:00</news:publication_date>
+      <news:title>Toyota&#x27;s Signia GT-S Looks The Part, But Doesn&#x27;t Have The Power To Match</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyotas-signia-gt-s-looks-the-part-but-doesnt-have-the-power-to-match/l-intro-1793284786.jpg</image:loc>
+      <image:title>Toyota&#x27;s Signia GT-S Looks The Part, But Doesn&#x27;t Have The Power To Match</image:title>
     </image:image>
   </url>
   <url>
@@ -1533,6 +1653,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/toyota-snowhunter-concepts-ready-to-conquer-the-inevitable-ai-ind/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T15:41:58+00:00</news:publication_date>
+      <news:title>Toyota Snowhunter Concepts Ready To Conquer The Inevitable A.I.-Induced Nuclear Winter</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyota-snowhunter-concepts-ready-to-conquer-the-inevitable-a-i-induced-nuclear-winter/l-intro-1793201684.jpg</image:loc>
+      <image:title>Toyota Snowhunter Concepts Ready To Conquer The Inevitable A.I.-Induced Nuclear Winter</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/2027-lexus-tx-hybrid/</loc>
     <news:news>
       <news:publication>
@@ -1770,81 +1905,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/at-23950-would-you-become-a-cars-coffee-legend-in-this-2012-roush-stage-2-mustang-gt/l-intro-1793120266.jpg</image:loc>
       <image:title>At $23,950, Would You Become A Cars &amp; Coffee Legend In This 2012 Roush Stage 2 Mustang GT?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-crown-signia-gt-s-concept-reimagines-the-suv-as-a-sleek-wa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00+00:00</news:publication_date>
-      <news:title>Toyota Crown Signia GT-S Concept Reimagines the SUV as a Sleek Wagon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7d4b3c8a-7b12-483d-9360-cd334edb7b58.jpg</image:loc>
-      <image:title>Toyota Crown Signia GT-S Concept Reimagines the SUV as a Sleek Wagon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nissan-sentra-spec-v-concept-is-a-sema-star-chock-full-of-nismo-p/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00+00:00</news:publication_date>
-      <news:title>Nissan Sentra Spec-V Concept Is a SEMA Star Chock Full of NISMO Parts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d13e16d4-8830-4c5b-9945-b2832a301c17.jpg</image:loc>
-      <image:title>Nissan Sentra Spec-V Concept Is a SEMA Star Chock Full of NISMO Parts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/norriss-new-team-gets-f2-entry-for-its-first-year/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T10:56:11+00:00</news:publication_date>
-      <news:title>Norris&#x27;s new team gets F2 entry for its first year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/HVtaUxVWMAER1oS-1.jpeg</image:loc>
-      <image:title>Norris&#x27;s new team gets F2 entry for its first year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-first-step-in-a-major-verstappen-f1-change/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T10:17:21+00:00</news:publication_date>
-      <news:title>The first step in a major Verstappen F1 change</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/SI202610240835.jpg</image:loc>
-      <image:title>The first step in a major Verstappen F1 change</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-unusual-aston-martin-honda-and-red-bull-powertrains-rumours-p/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T09:41:41+00:00</news:publication_date>
-      <news:title>The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn-6.motorsport.com/images/amp/0JXRjNyY/s6/lance-stroll-aston-martin-raci-3.jpg</image:loc>
-      <image:title>The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective</image:title>
     </image:image>
   </url>
 </urlset>
