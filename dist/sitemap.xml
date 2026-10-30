@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-29T22:51:43Z</lastmod>
+    <lastmod>2026-10-30T02:11:07Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-29T22:51:43Z</lastmod>
+    <lastmod>2026-10-30T02:11:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-29T22:51:43Z</lastmod>
+    <lastmod>2026-10-30T02:11:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-29T22:51:43Z</lastmod>
+    <lastmod>2026-10-30T02:11:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-29T22:51:43Z</lastmod>
+    <lastmod>2026-10-30T02:11:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-29T22:51:43Z</lastmod>
+    <lastmod>2026-10-30T02:11:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-zombie-engine-how-brussels-bureaucrats-are-breathing-false-li/</loc>
+    <lastmod>2026-10-30T01:32:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/10/biofuels.jpg</image:loc>
+      <image:title>The Zombie Engine: How Brussels Bureaucrats Are Breathing False Life Into Combustion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-zombie-engine-how-brussels-bureaucrats-are-breathing-false-li/</loc>
+    <lastmod>2026-10-30T01:32:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/10/biofuels.jpg</image:loc>
+      <image:title>The Zombie Engine: How Brussels Bureaucrats Are Breathing False Life Into Combustion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/misconceptions-about-mobility-growth/</loc>
+    <lastmod>2026-10-30T01:22:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/20191112_paris-train-station-transit-KYLE-scaled-1.jpg</image:loc>
+      <image:title>Misconceptions about Mobility Growth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/misconceptions-about-mobility-growth/</loc>
+    <lastmod>2026-10-30T01:22:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/20191112_paris-train-station-transit-KYLE-scaled-1.jpg</image:loc>
+      <image:title>Misconceptions about Mobility Growth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/its-not-enough-to-electrify-more-we-must-electrify-better/</loc>
+    <lastmod>2026-10-30T01:03:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/06/Electric-Home-Show-Hawaii-electric-bus-2.png</image:loc>
+      <image:title>It’s Not Enough To Electrify More. We Must Electrify Better.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/its-not-enough-to-electrify-more-we-must-electrify-better/</loc>
+    <lastmod>2026-10-30T01:03:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/06/Electric-Home-Show-Hawaii-electric-bus-2.png</image:loc>
+      <image:title>It’s Not Enough To Electrify More. We Must Electrify Better.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/</loc>
+    <lastmod>2026-10-30T00:50:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/l-intro-1793321340.jpg</image:loc>
+      <image:title>This Odd Subaru WRX Prototype Looks Like A Wacky Longtail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/</loc>
+    <lastmod>2026-10-30T00:50:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/l-intro-1793321340.jpg</image:loc>
+      <image:title>This Odd Subaru WRX Prototype Looks Like A Wacky Longtail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/everything-we-learned-on-day-one-of-f1s-mexican-gp/</loc>
+    <lastmod>2026-10-29T23:45:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/28OCT26SBCheco-004.jpg</image:loc>
+      <image:title>Everything we learned on day one of F1&#x27;s Mexican GP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/everything-we-learned-on-day-one-of-f1s-mexican-gp/</loc>
+    <lastmod>2026-10-29T23:45:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/28OCT26SBCheco-004.jpg</image:loc>
+      <image:title>Everything we learned on day one of F1&#x27;s Mexican GP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-q3-loss-largest-since-dieselgate/</loc>
+    <lastmod>2026-10-29T23:44:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/VW-computer-architecture-China.jpg</image:loc>
+      <image:title>Volkswagen Q3 Loss Largest Since Dieselgate</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagen-q3-loss-largest-since-dieselgate/</loc>
+    <lastmod>2026-10-29T23:44:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/VW-computer-architecture-China.jpg</image:loc>
+      <image:title>Volkswagen Q3 Loss Largest Since Dieselgate</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-bmw-3-series-drive-not-just-different-but-better/</loc>
+    <lastmod>2026-10-29T23:01:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/8a6efedf-9c45-44fa-a5f2-57fcbdf0af67.jpg?crop=0.694xw:0.521xh;0.232xw,0.249xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 BMW 3-Series Drive: Not Just Different but Better</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-bmw-3-series-drive-not-just-different-but-better/</loc>
+    <lastmod>2026-10-29T23:01:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/8a6efedf-9c45-44fa-a5f2-57fcbdf0af67.jpg?crop=0.694xw:0.521xh;0.232xw,0.249xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 BMW 3-Series Drive: Not Just Different but Better</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/volkswagen-warns-owners-not-to-charge-their-id-4-or-audi-q4-e-tro/</loc>
@@ -75,6 +215,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448198_HiRes.jpg</image:loc>
       <image:title>Rivals reject Alonso&#x27;s brutal &#x27;low quality&#x27; F1 drivers claim</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-wants-utilities-to-help-make-bidirectional-ev-charging-cheap/</loc>
+    <lastmod>2026-10-29T21:32:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM-1.png</image:loc>
+      <image:title>Ford Wants Utilities To Help Make Bidirectional EV Charging Cheaper For Everyone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ford-wants-utilities-to-help-make-bidirectional-ev-charging-cheap/</loc>
+    <lastmod>2026-10-29T21:32:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM-1.png</image:loc>
+      <image:title>Ford Wants Utilities To Help Make Bidirectional EV Charging Cheaper For Everyone</image:title>
     </image:image>
   </url>
   <url>
@@ -235,6 +395,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/Toyota-EV-sales-gas-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-r2-suv-is-already-rivians-best-selling-vehicle/</loc>
+    <lastmod>2026-10-29T20:02:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1600,1067</image:loc>
+      <image:title>The R2 SUV is already Rivian’s best-selling vehicle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-r2-suv-is-already-rivians-best-selling-vehicle/</loc>
+    <lastmod>2026-10-29T20:02:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1600,1067</image:loc>
+      <image:title>The R2 SUV is already Rivian’s best-selling vehicle</image:title>
     </image:image>
   </url>
   <url>
@@ -418,6 +598,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/ford-launches-a-special-mustang-mach-e-but-its-only-for-police/</loc>
+    <lastmod>2026-10-29T18:08:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/ford-launches-a-special-mustang-mach-e-but-its-only-for-police/l-intro-1793297173.jpg</image:loc>
+      <image:title>Ford Launches A Special Mustang Mach-E, But It&#x27;s Only For Police</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ford-launches-a-special-mustang-mach-e-but-its-only-for-police/</loc>
+    <lastmod>2026-10-29T18:08:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/ford-launches-a-special-mustang-mach-e-but-its-only-for-police/l-intro-1793297173.jpg</image:loc>
+      <image:title>Ford Launches A Special Mustang Mach-E, But It&#x27;s Only For Police</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/antonelli-skips-f1-mexico-gp-media-day-due-to-illness/</loc>
     <lastmod>2026-10-29T17:07:23+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -475,6 +675,46 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/792cb57b-dea8-4a19-a036-acf6db3a9b61.jpg</image:loc>
       <image:title>Pay to Play: 2026 Audi A6 Tested</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2026-audi-a6-quattro/</loc>
+    <lastmod>2026-10-29T16:45:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/4afe7da0-3585-46b2-99b5-780a1a1e596c.jpg?crop=0.6xw:0.45xh;0.242xw,0.312xh&amp;resize=1200:*</image:loc>
+      <image:title>View Exterior Photos of the 2026 Audi A6 Quattro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2026-audi-a6-quattro/</loc>
+    <lastmod>2026-10-29T16:45:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/4afe7da0-3585-46b2-99b5-780a1a1e596c.jpg?crop=0.6xw:0.45xh;0.242xw,0.312xh&amp;resize=1200:*</image:loc>
+      <image:title>View Exterior Photos of the 2026 Audi A6 Quattro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2026-audi-a6-quattro/</loc>
+    <lastmod>2026-10-29T16:43:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/9a3402fa-0cb3-4fd1-884b-c7c39e04fd71.jpg?crop=0.984xw:0.738xh;0,0.200xh&amp;resize=1200:*</image:loc>
+      <image:title>View Interior Photos of the 2026 Audi A6 Quattro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2026-audi-a6-quattro/</loc>
+    <lastmod>2026-10-29T16:43:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/9a3402fa-0cb3-4fd1-884b-c7c39e04fd71.jpg?crop=0.984xw:0.738xh;0,0.200xh&amp;resize=1200:*</image:loc>
+      <image:title>View Interior Photos of the 2026 Audi A6 Quattro</image:title>
     </image:image>
   </url>
   <url>
@@ -2795,246 +3035,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/2027-Kia-EV9-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>The 2027 Kia EV9 costs $90 more, but at least you get a few extras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/whats-your-most-ill-suited-automotive-experience/</loc>
-    <lastmod>2026-10-27T15:09:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-most-ill-suited-automotive-experience/l-intro-1793113606.jpg</image:loc>
-      <image:title>What&#x27;s Your Most Ill-Suited Automotive Experience?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/whats-your-most-ill-suited-automotive-experience/</loc>
-    <lastmod>2026-10-27T15:09:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-most-ill-suited-automotive-experience/l-intro-1793113606.jpg</image:loc>
-      <image:title>What&#x27;s Your Most Ill-Suited Automotive Experience?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-role-friday-practice-played-in-hamilton-failing-to-achieve-a-/</loc>
-    <lastmod>2026-10-27T15:00:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-1.motorsport.com/images/amp/YP74yNe2/s6/lewis-hamilton-ferrari-2.jpg</image:loc>
-      <image:title>The role Friday practice played in Hamilton failing to achieve a podium at the US GP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-role-friday-practice-played-in-hamilton-failing-to-achieve-a-/</loc>
-    <lastmod>2026-10-27T15:00:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-1.motorsport.com/images/amp/YP74yNe2/s6/lewis-hamilton-ferrari-2.jpg</image:loc>
-      <image:title>The role Friday practice played in Hamilton failing to achieve a podium at the US GP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-/</loc>
-    <lastmod>2026-10-27T14:51:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1600,1067</image:loc>
-      <image:title>Ford Fathom will be the cheapest American EV capable of powering a house</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-/</loc>
-    <lastmod>2026-10-27T14:51:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1600,1067</image:loc>
-      <image:title>Ford Fathom will be the cheapest American EV capable of powering a house</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-workers-dont-love-the-audi-trump-alliance/</loc>
-    <lastmod>2026-10-27T14:27:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/volkswagen-workers-dont-love-the-audi-trump-alliance/l-intro-1793111079.jpg</image:loc>
-      <image:title>Volkswagen Workers Don&#x27;t Love The Audi-Trump Alliance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/volkswagen-workers-dont-love-the-audi-trump-alliance/</loc>
-    <lastmod>2026-10-27T14:27:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/volkswagen-workers-dont-love-the-audi-trump-alliance/l-intro-1793111079.jpg</image:loc>
-      <image:title>Volkswagen Workers Don&#x27;t Love The Audi-Trump Alliance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/musk-declares-tesla-robotaxi-win-over-waymo-but-waymo-still-drive/</loc>
-    <lastmod>2026-10-27T14:21:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/image_9eb965.png?w=1600</image:loc>
-      <image:title>Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/musk-declares-tesla-robotaxi-win-over-waymo-but-waymo-still-drive/</loc>
-    <lastmod>2026-10-27T14:21:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/image_9eb965.png?w=1600</image:loc>
-      <image:title>Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/every-rookie-to-drive-in-fp1-in-f1-2026/</loc>
-    <lastmod>2026-10-27T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/07/XPB_1416822_HiRes.jpg</image:loc>
-      <image:title>Every rookie to drive in FP1 in F1 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/every-rookie-to-drive-in-fp1-in-f1-2026/</loc>
-    <lastmod>2026-10-27T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/07/XPB_1416822_HiRes.jpg</image:loc>
-      <image:title>Every rookie to drive in FP1 in F1 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-names-its-ultra-luxury-ev-and-it-could-be-a-game-changer-next/</loc>
-    <lastmod>2026-10-27T13:34:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Yangwang-Altior-flagship-EV-name.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD names its ultra-luxury EV, and it could be a game changer next week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-names-its-ultra-luxury-ev-and-it-could-be-a-game-changer-next/</loc>
-    <lastmod>2026-10-27T13:34:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Yangwang-Altior-flagship-EV-name.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD names its ultra-luxury EV, and it could be a game changer next week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fords-new-sub-30k-electric-truck-can-power-your-home-for-a-lot-le/</loc>
-    <lastmod>2026-10-27T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/09/Ford-Fathom-closer-look-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Ford’s new sub-$30K electric truck can power your home for a lot less</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fords-new-sub-30k-electric-truck-can-power-your-home-for-a-lot-le/</loc>
-    <lastmod>2026-10-27T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/09/Ford-Fathom-closer-look-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Ford’s new sub-$30K electric truck can power your home for a lot less</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lectric-launches-xp-lite3-e-bike-the-new-best-low-cost-model-in-t/</loc>
-    <lastmod>2026-10-27T12:30:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/XP-lite3-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Lectric launches XP Lite3 e-bike, the new best low-cost model in the US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/lectric-launches-xp-lite3-e-bike-the-new-best-low-cost-model-in-t/</loc>
-    <lastmod>2026-10-27T12:30:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/XP-lite3-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Lectric launches XP Lite3 e-bike, the new best low-cost model in the US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-alonsos-harsh-f1-driver-claim-justified/</loc>
-    <lastmod>2026-10-27T10:51:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/USA-Sunday-Thumb-005.jpg</image:loc>
-      <image:title>Is Alonso&#x27;s harsh F1 driver claim justified?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/is-alonsos-harsh-f1-driver-claim-justified/</loc>
-    <lastmod>2026-10-27T10:51:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/USA-Sunday-Thumb-005.jpg</image:loc>
-      <image:title>Is Alonso&#x27;s harsh F1 driver claim justified?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/red-bull-explains-why-verstappen-and-hadjars-silly-problems-wont-/</loc>
-    <lastmod>2026-10-27T09:46:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-7.motorsport.com/images/amp/6b8ZNKw2/s6/max-verstappen-red-bull-racing-2.jpg</image:loc>
-      <image:title>Red Bull explains why Verstappen and Hadjar&#x27;s &#x27;silly&#x27; problems won&#x27;t all be fixed in 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/red-bull-explains-why-verstappen-and-hadjars-silly-problems-wont-/</loc>
-    <lastmod>2026-10-27T09:46:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-7.motorsport.com/images/amp/6b8ZNKw2/s6/max-verstappen-red-bull-racing-2.jpg</image:loc>
-      <image:title>Red Bull explains why Verstappen and Hadjar&#x27;s &#x27;silly&#x27; problems won&#x27;t all be fixed in 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-the-us-gp-really-exposed-about-where-ferrari-is-lacking/</loc>
-    <lastmod>2026-10-27T08:26:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/261024_R18_USA_DP_VA2_3599_a6a93266-e6fb-4fa2-8f3e-b981cc16fba7-1.jpg</image:loc>
-      <image:title>What the US GP really exposed about where Ferrari is lacking</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-the-us-gp-really-exposed-about-where-ferrari-is-lacking/</loc>
-    <lastmod>2026-10-27T08:26:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/261024_R18_USA_DP_VA2_3599_a6a93266-e6fb-4fa2-8f3e-b981cc16fba7-1.jpg</image:loc>
-      <image:title>What the US GP really exposed about where Ferrari is lacking</image:title>
     </image:image>
   </url>
 </urlset>

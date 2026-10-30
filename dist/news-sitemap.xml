@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/the-zombie-engine-how-brussels-bureaucrats-are-breathing-false-li/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T01:32:43+00:00</news:publication_date>
+      <news:title>The Zombie Engine: How Brussels Bureaucrats Are Breathing False Life Into Combustion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/10/biofuels.jpg</image:loc>
+      <image:title>The Zombie Engine: How Brussels Bureaucrats Are Breathing False Life Into Combustion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/misconceptions-about-mobility-growth/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T01:22:18+00:00</news:publication_date>
+      <news:title>Misconceptions about Mobility Growth</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/20191112_paris-train-station-transit-KYLE-scaled-1.jpg</image:loc>
+      <image:title>Misconceptions about Mobility Growth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/its-not-enough-to-electrify-more-we-must-electrify-better/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T01:03:38+00:00</news:publication_date>
+      <news:title>It’s Not Enough To Electrify More. We Must Electrify Better.</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/06/Electric-Home-Show-Hawaii-electric-bus-2.png</image:loc>
+      <image:title>It’s Not Enough To Electrify More. We Must Electrify Better.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:50:45+00:00</news:publication_date>
+      <news:title>This Odd Subaru WRX Prototype Looks Like A Wacky Longtail</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/l-intro-1793321340.jpg</image:loc>
+      <image:title>This Odd Subaru WRX Prototype Looks Like A Wacky Longtail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/everything-we-learned-on-day-one-of-f1s-mexican-gp/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T23:45:54+00:00</news:publication_date>
+      <news:title>Everything we learned on day one of F1&#x27;s Mexican GP</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/28OCT26SBCheco-004.jpg</image:loc>
+      <image:title>Everything we learned on day one of F1&#x27;s Mexican GP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-q3-loss-largest-since-dieselgate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T23:44:37+00:00</news:publication_date>
+      <news:title>Volkswagen Q3 Loss Largest Since Dieselgate</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/VW-computer-architecture-China.jpg</image:loc>
+      <image:title>Volkswagen Q3 Loss Largest Since Dieselgate</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-bmw-3-series-drive-not-just-different-but-better/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T23:01:00+00:00</news:publication_date>
+      <news:title>2027 BMW 3-Series Drive: Not Just Different but Better</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/8a6efedf-9c45-44fa-a5f2-57fcbdf0af67.jpg?crop=0.694xw:0.521xh;0.232xw,0.249xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 BMW 3-Series Drive: Not Just Different but Better</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/volkswagen-warns-owners-not-to-charge-their-id-4-or-audi-q4-e-tro/</loc>
     <news:news>
       <news:publication>
@@ -30,6 +135,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448198_HiRes.jpg</image:loc>
       <image:title>Rivals reject Alonso&#x27;s brutal &#x27;low quality&#x27; F1 drivers claim</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-wants-utilities-to-help-make-bidirectional-ev-charging-cheap/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T21:32:02+00:00</news:publication_date>
+      <news:title>Ford Wants Utilities To Help Make Bidirectional EV Charging Cheaper For Everyone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM-1.png</image:loc>
+      <image:title>Ford Wants Utilities To Help Make Bidirectional EV Charging Cheaper For Everyone</image:title>
     </image:image>
   </url>
   <url>
@@ -150,6 +270,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/Toyota-EV-sales-gas-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-r2-suv-is-already-rivians-best-selling-vehicle/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T20:02:03+00:00</news:publication_date>
+      <news:title>The R2 SUV is already Rivian’s best-selling vehicle</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1600,1067</image:loc>
+      <image:title>The R2 SUV is already Rivian’s best-selling vehicle</image:title>
     </image:image>
   </url>
   <url>
@@ -288,6 +423,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/ford-launches-a-special-mustang-mach-e-but-its-only-for-police/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:08:11+00:00</news:publication_date>
+      <news:title>Ford Launches A Special Mustang Mach-E, But It&#x27;s Only For Police</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/ford-launches-a-special-mustang-mach-e-but-its-only-for-police/l-intro-1793297173.jpg</image:loc>
+      <image:title>Ford Launches A Special Mustang Mach-E, But It&#x27;s Only For Police</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/antonelli-skips-f1-mexico-gp-media-day-due-to-illness/</loc>
     <news:news>
       <news:publication>
@@ -330,6 +480,36 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/792cb57b-dea8-4a19-a036-acf6db3a9b61.jpg</image:loc>
       <image:title>Pay to Play: 2026 Audi A6 Tested</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2026-audi-a6-quattro/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:45:22+00:00</news:publication_date>
+      <news:title>View Exterior Photos of the 2026 Audi A6 Quattro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/4afe7da0-3585-46b2-99b5-780a1a1e596c.jpg?crop=0.6xw:0.45xh;0.242xw,0.312xh&amp;resize=1200:*</image:loc>
+      <image:title>View Exterior Photos of the 2026 Audi A6 Quattro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2026-audi-a6-quattro/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:43:24+00:00</news:publication_date>
+      <news:title>View Interior Photos of the 2026 Audi A6 Quattro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/9a3402fa-0cb3-4fd1-884b-c7c39e04fd71.jpg?crop=0.984xw:0.738xh;0,0.200xh&amp;resize=1200:*</image:loc>
+      <image:title>View Interior Photos of the 2026 Audi A6 Quattro</image:title>
     </image:image>
   </url>
   <url>
@@ -1560,111 +1740,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/New-Waymo-Ojai-2.jpg</image:loc>
       <image:title>Waymo Growing Further</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/connecticut-advocates-elected-officials-public-health-experts-spe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T02:06:12+00:00</news:publication_date>
-      <news:title>Connecticut Advocates, Elected Officials, &amp; Public Health Experts Speak Out Against High Asthma Rates</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Connecticut Advocates, Elected Officials, &amp; Public Health Experts Speak Out Against High Asthma Rates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/central-heat-pump-water-heaters-are-on-the-up-up/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T01:16:20+00:00</news:publication_date>
-      <news:title>Central Heat Pump Water Heaters Are On The Up &amp; Up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Water-Drop-Central-HPWH.png</image:loc>
-      <image:title>Central Heat Pump Water Heaters Are On The Up &amp; Up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2028-aston-martin-valhalla-spider/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00+00:00</news:publication_date>
-      <news:title>View Interior Photos of the 2028 Aston Martin Valhalla Spider</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b4e4c3bf-18d4-467d-bbda-a5e39d34790a.jpg?crop=1xw:0.333xh;0xw,0.209xh&amp;resize=1200:*</image:loc>
-      <image:title>View Interior Photos of the 2028 Aston Martin Valhalla Spider</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bstrongaston-martins-1064-hp-valhalla-hypercar-goes-rooflessstron/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00+00:00</news:publication_date>
-      <news:title>&lt;b&gt;&lt;strong&gt;Aston Martin’s 1064-HP Valhalla Hypercar Goes Roofless&lt;/strong&gt;&lt;/b&gt;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c4fa45a-9c5b-4252-b4fe-edbac2d838f2.jpg</image:loc>
-      <image:title>&lt;b&gt;&lt;strong&gt;Aston Martin’s 1064-HP Valhalla Hypercar Goes Roofless&lt;/strong&gt;&lt;/b&gt;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2028-aston-martin-valhalla/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00+00:00</news:publication_date>
-      <news:title>2028 Aston Martin Valhalla</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6441221a-42cf-48a5-9997-f514d8df387b.jpg?crop=0.672xw:0.487xh;0.188xw,0.32xh&amp;resize=1200:*</image:loc>
-      <image:title>2028 Aston Martin Valhalla</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2028-aston-martin-valhalla-spider/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00+00:00</news:publication_date>
-      <news:title>View Exterior Photos of the 2028 Aston Martin Valhalla Spider</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/790009b1-3140-4607-8beb-e377e4050543.jpg?crop=0.726xw:0.527xh;0.076xw,0.285xh&amp;resize=1200:*</image:loc>
-      <image:title>View Exterior Photos of the 2028 Aston Martin Valhalla Spider</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/aston-martin-valhalla-spider-wants-you-to-go-topless-at-217-mph/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00+00:00</news:publication_date>
-      <news:title>Aston Martin Valhalla Spider Wants You To Go Topless At 217 MPH</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/aston-martin-valhalla-spider-wants-you-to-go-topless-at-217-mph/l-intro-1793133257.jpg</image:loc>
-      <image:title>Aston Martin Valhalla Spider Wants You To Go Topless At 217 MPH</image:title>
     </image:image>
   </url>
 </urlset>
