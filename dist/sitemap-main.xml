@@ -3,39 +3,299 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-30T12:11:04Z</lastmod>
+    <lastmod>2026-10-30T16:08:49Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-30T12:11:04Z</lastmod>
+    <lastmod>2026-10-30T16:08:49Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-30T12:11:04Z</lastmod>
+    <lastmod>2026-10-30T16:08:49Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-30T12:11:04Z</lastmod>
+    <lastmod>2026-10-30T16:08:49Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-30T12:11:04Z</lastmod>
+    <lastmod>2026-10-30T16:08:49Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-30T12:11:04Z</lastmod>
+    <lastmod>2026-10-30T16:08:49Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mclaren-confirms-next-supercar-will-be-called-mcl-820-and-have-80/</loc>
+    <lastmod>2026-10-30T16:03:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/32c614f5-0a93-473c-90b3-148cf77342af.jpg</image:loc>
+      <image:title>McLaren Confirms Next Supercar Will Be Called McL 820 and Have 809 HP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mclaren-confirms-next-supercar-will-be-called-mcl-820-and-have-80/</loc>
+    <lastmod>2026-10-30T16:03:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/32c614f5-0a93-473c-90b3-148cf77342af.jpg</image:loc>
+      <image:title>McLaren Confirms Next Supercar Will Be Called McL 820 and Have 809 HP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-ineos-grenadier-quartermaster/</loc>
+    <lastmod>2026-10-30T15:56:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-ineos-grenadier-quartermaster-117-68c05dfdafeae.jpg?crop=0.573xw:0.43xh;0.197xw,0.494xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Ineos Grenadier Quartermaster</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-ineos-grenadier-quartermaster/</loc>
+    <lastmod>2026-10-30T15:56:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-ineos-grenadier-quartermaster-117-68c05dfdafeae.jpg?crop=0.573xw:0.43xh;0.197xw,0.494xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Ineos Grenadier Quartermaster</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/evs-sales-are-rising-and-another-gasmobile-bites-the-dust/</loc>
+    <lastmod>2026-10-30T14:46:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/ford-escape.png</image:loc>
+      <image:title>EVs Sales Are Rising And Another Gasmobile Bites The Dust</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/evs-sales-are-rising-and-another-gasmobile-bites-the-dust/</loc>
+    <lastmod>2026-10-30T14:46:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/ford-escape.png</image:loc>
+      <image:title>EVs Sales Are Rising And Another Gasmobile Bites The Dust</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-hits-pause-on-the-golf-ev-as-it-faces-an-urgent-need-f/</loc>
+    <lastmod>2026-10-30T14:29:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Volkswagen-electric-ID-GTI-2.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen hits pause on the Golf EV as it faces an ‘urgent need for action’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagen-hits-pause-on-the-golf-ev-as-it-faces-an-urgent-need-f/</loc>
+    <lastmod>2026-10-30T14:29:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Volkswagen-electric-ID-GTI-2.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen hits pause on the Golf EV as it faces an ‘urgent need for action’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-the-cars-youre-always-surprised-to-see-people-actually-/</loc>
+    <lastmod>2026-10-30T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-cars-youre-always-surprised-to-see-people-actually-bought/l-intro-1793318102.jpg</image:loc>
+      <image:title>These Are The Cars You&#x27;re Always Surprised To See People Actually Bought</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-are-the-cars-youre-always-surprised-to-see-people-actually-/</loc>
+    <lastmod>2026-10-30T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-cars-youre-always-surprised-to-see-people-actually-bought/l-intro-1793318102.jpg</image:loc>
+      <image:title>These Are The Cars You&#x27;re Always Surprised To See People Actually Bought</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/drive-forward-or-turn-back-four-reasons-to-vote-for-a-strong-auto/</loc>
+    <lastmod>2026-10-30T14:06:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Volkswagen-ID-Polo-Cupra-Raval-Skoda-Epiq-Volkswagen-ID-Cross.jpg</image:loc>
+      <image:title>Drive Forward or Turn Back? Four Reasons to Vote for a Strong Automotive Package</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/drive-forward-or-turn-back-four-reasons-to-vote-for-a-strong-auto/</loc>
+    <lastmod>2026-10-30T14:06:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Volkswagen-ID-Polo-Cupra-Raval-Skoda-Epiq-Volkswagen-ID-Cross.jpg</image:loc>
+      <image:title>Drive Forward or Turn Back? Four Reasons to Vote for a Strong Automotive Package</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-driver/</loc>
+    <lastmod>2026-10-30T14:04:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-drivers-privacy-for-profit/l-intro-1793368893.jpg</image:loc>
+      <image:title>GM Pays $220 Million To Settle Lawsuit Alleging It Violated Drivers&#x27; Privacy For Profit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-driver/</loc>
+    <lastmod>2026-10-30T14:04:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-drivers-privacy-for-profit/l-intro-1793368893.jpg</image:loc>
+      <image:title>GM Pays $220 Million To Settle Lawsuit Alleging It Violated Drivers&#x27; Privacy For Profit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tes-response-to-the-european-commissions-review-of-the-eu-ets-and/</loc>
+    <lastmod>2026-10-30T14:03:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Business-Research-Market-Research-Computer-Chart-Graph-CleanTechnica-Watermark-1.png</image:loc>
+      <image:title>T&amp;E’s Response to the European Commission’s Review of the EU ETS and MSR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tes-response-to-the-european-commissions-review-of-the-eu-ets-and/</loc>
+    <lastmod>2026-10-30T14:03:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Business-Research-Market-Research-Computer-Chart-Graph-CleanTechnica-Watermark-1.png</image:loc>
+      <image:title>T&amp;E’s Response to the European Commission’s Review of the EU ETS and MSR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-ignorance-is-a-superpower-for-antonelli-in-f1/</loc>
+    <lastmod>2026-10-30T13:30:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/0kZXN3o6/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
+      <image:title>Why “ignorance is a superpower” for Antonelli in F1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-ignorance-is-a-superpower-for-antonelli-in-f1/</loc>
+    <lastmod>2026-10-30T13:30:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/0kZXN3o6/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
+      <image:title>Why “ignorance is a superpower” for Antonelli in F1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-car-would-you-lease-but-never-buy/</loc>
+    <lastmod>2026-10-30T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-car-would-you-lease-but-never-buy/l-intro-1793305811.jpg</image:loc>
+      <image:title>What Car Would You Lease But Never Buy?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-car-would-you-lease-but-never-buy/</loc>
+    <lastmod>2026-10-30T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-car-would-you-lease-but-never-buy/l-intro-1793305811.jpg</image:loc>
+      <image:title>What Car Would You Lease But Never Buy?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/waymo-picks-toyota-bz4x-as-its-next-robotaxi-starting-in-japan-in/</loc>
+    <lastmod>2026-10-30T13:22:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Waymo-Toyota-Bz4x.webp?w=1600</image:loc>
+      <image:title>Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/waymo-picks-toyota-bz4x-as-its-next-robotaxi-starting-in-japan-in/</loc>
+    <lastmod>2026-10-30T13:22:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Waymo-Toyota-Bz4x.webp?w=1600</image:loc>
+      <image:title>Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fu/</loc>
+    <lastmod>2026-10-30T12:42:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/image_a598cf.png?w=964</image:loc>
+      <image:title>Jasion Poki review: The Electric Minibike that packs heavy-duty fun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fu/</loc>
+    <lastmod>2026-10-30T12:42:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/image_a598cf.png?w=964</image:loc>
+      <image:title>Jasion Poki review: The Electric Minibike that packs heavy-duty fun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/</loc>
+    <lastmod>2026-10-30T12:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/l-intro-1793296032.jpg</image:loc>
+      <image:title>At $22,995, Would You Plug Into This 2024 Polestar 2 Long Range?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/</loc>
+    <lastmod>2026-10-30T12:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/l-intro-1793296032.jpg</image:loc>
+      <image:title>At $22,995, Would You Plug Into This 2024 Polestar 2 Long Range?</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
@@ -175,6 +435,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357860_HiRes.jpg</image:loc>
       <image:title>Why &#x27;motocross&#x27; Sepang wasn&#x27;t fixed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/key-sauber-era-figure-to-leave-audi-f1-team/</loc>
+    <lastmod>2026-10-30T10:03:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_895881_HiRes.jpg</image:loc>
+      <image:title>Key Sauber-era figure to leave Audi F1 team</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/key-sauber-era-figure-to-leave-audi-f1-team/</loc>
+    <lastmod>2026-10-30T10:03:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_895881_HiRes.jpg</image:loc>
+      <image:title>Key Sauber-era figure to leave Audi F1 team</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Panoz-Roadster-8.jpg</image:loc>
       <image:title>A Rare 1993 Panoz Roadster V8 – An American-Made Caterham Killer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-recalls-228000-siennas-over-second-row-seat-backs-that-cou/</loc>
-    <lastmod>2026-10-28T03:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/toyota-recalls-228000-siennas-over-second-row-seat-backs-that-could-move-around-in-a-crash/l-intro-1793121065.jpg</image:loc>
-      <image:title>Toyota Recalls 228,000 Siennas Over Second-Row Seat Backs That Could Move Around In A Crash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-recalls-228000-siennas-over-second-row-seat-backs-that-cou/</loc>
-    <lastmod>2026-10-28T03:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/toyota-recalls-228000-siennas-over-second-row-seat-backs-that-could-move-around-in-a-crash/l-intro-1793121065.jpg</image:loc>
-      <image:title>Toyota Recalls 228,000 Siennas Over Second-Row Seat Backs That Could Move Around In A Crash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/waymo-growing-further/</loc>
-    <lastmod>2026-10-28T02:39:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/New-Waymo-Ojai-2.jpg</image:loc>
-      <image:title>Waymo Growing Further</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/waymo-growing-further/</loc>
-    <lastmod>2026-10-28T02:39:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/New-Waymo-Ojai-2.jpg</image:loc>
-      <image:title>Waymo Growing Further</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/connecticut-advocates-elected-officials-public-health-experts-spe/</loc>
-    <lastmod>2026-10-28T02:06:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Connecticut Advocates, Elected Officials, &amp; Public Health Experts Speak Out Against High Asthma Rates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/connecticut-advocates-elected-officials-public-health-experts-spe/</loc>
-    <lastmod>2026-10-28T02:06:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Connecticut Advocates, Elected Officials, &amp; Public Health Experts Speak Out Against High Asthma Rates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/central-heat-pump-water-heaters-are-on-the-up-up/</loc>
-    <lastmod>2026-10-28T01:16:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Water-Drop-Central-HPWH.png</image:loc>
-      <image:title>Central Heat Pump Water Heaters Are On The Up &amp; Up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/central-heat-pump-water-heaters-are-on-the-up-up/</loc>
-    <lastmod>2026-10-28T01:16:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Water-Drop-Central-HPWH.png</image:loc>
-      <image:title>Central Heat Pump Water Heaters Are On The Up &amp; Up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2028-aston-martin-valhalla-spider/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b4e4c3bf-18d4-467d-bbda-a5e39d34790a.jpg?crop=1xw:0.333xh;0xw,0.209xh&amp;resize=1200:*</image:loc>
-      <image:title>View Interior Photos of the 2028 Aston Martin Valhalla Spider</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2028-aston-martin-valhalla-spider/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b4e4c3bf-18d4-467d-bbda-a5e39d34790a.jpg?crop=1xw:0.333xh;0xw,0.209xh&amp;resize=1200:*</image:loc>
-      <image:title>View Interior Photos of the 2028 Aston Martin Valhalla Spider</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bstrongaston-martins-1064-hp-valhalla-hypercar-goes-rooflessstron/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c4fa45a-9c5b-4252-b4fe-edbac2d838f2.jpg</image:loc>
-      <image:title>&lt;b&gt;&lt;strong&gt;Aston Martin’s 1064-HP Valhalla Hypercar Goes Roofless&lt;/strong&gt;&lt;/b&gt;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bstrongaston-martins-1064-hp-valhalla-hypercar-goes-rooflessstron/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c4fa45a-9c5b-4252-b4fe-edbac2d838f2.jpg</image:loc>
-      <image:title>&lt;b&gt;&lt;strong&gt;Aston Martin’s 1064-HP Valhalla Hypercar Goes Roofless&lt;/strong&gt;&lt;/b&gt;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2028-aston-martin-valhalla/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6441221a-42cf-48a5-9997-f514d8df387b.jpg?crop=0.672xw:0.487xh;0.188xw,0.32xh&amp;resize=1200:*</image:loc>
-      <image:title>2028 Aston Martin Valhalla</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2028-aston-martin-valhalla/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6441221a-42cf-48a5-9997-f514d8df387b.jpg?crop=0.672xw:0.487xh;0.188xw,0.32xh&amp;resize=1200:*</image:loc>
-      <image:title>2028 Aston Martin Valhalla</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2028-aston-martin-valhalla-spider/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/790009b1-3140-4607-8beb-e377e4050543.jpg?crop=0.726xw:0.527xh;0.076xw,0.285xh&amp;resize=1200:*</image:loc>
-      <image:title>View Exterior Photos of the 2028 Aston Martin Valhalla Spider</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2028-aston-martin-valhalla-spider/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/790009b1-3140-4607-8beb-e377e4050543.jpg?crop=0.726xw:0.527xh;0.076xw,0.285xh&amp;resize=1200:*</image:loc>
-      <image:title>View Exterior Photos of the 2028 Aston Martin Valhalla Spider</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/aston-martin-valhalla-spider-wants-you-to-go-topless-at-217-mph/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/aston-martin-valhalla-spider-wants-you-to-go-topless-at-217-mph/l-intro-1793133257.jpg</image:loc>
-      <image:title>Aston Martin Valhalla Spider Wants You To Go Topless At 217 MPH</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/aston-martin-valhalla-spider-wants-you-to-go-topless-at-217-mph/</loc>
-    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/aston-martin-valhalla-spider-wants-you-to-go-topless-at-217-mph/l-intro-1793133257.jpg</image:loc>
-      <image:title>Aston Martin Valhalla Spider Wants You To Go Topless At 217 MPH</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/renewables-to-reach-40-of-total-generating-capacity-beat-gas-with/</loc>
-    <lastmod>2026-10-27T22:24:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/09/Orsted-Revolution-Wind.jpg?quality=82&amp;strip=all&amp;w=1200</image:loc>
-      <image:title>Renewables to reach 40% of total generating capacity, beat gas within a year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/renewables-to-reach-40-of-total-generating-capacity-beat-gas-with/</loc>
-    <lastmod>2026-10-27T22:24:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/09/Orsted-Revolution-Wind.jpg?quality=82&amp;strip=all&amp;w=1200</image:loc>
-      <image:title>Renewables to reach 40% of total generating capacity, beat gas within a year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-triumph-tiger-1200-aims-for-the-bmw-gss-do-everything-crown/</loc>
-    <lastmod>2026-10-27T22:15:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2027-triumph-tiger-1200-aims-for-the-bmw-gss-do-everything-crown/l-intro-1793138870.jpg</image:loc>
-      <image:title>2027 Triumph Tiger 1200 Aims For The BMW GS&#x27;s Do-Everything Crown</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-triumph-tiger-1200-aims-for-the-bmw-gss-do-everything-crown/</loc>
-    <lastmod>2026-10-27T22:15:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2027-triumph-tiger-1200-aims-for-the-bmw-gss-do-everything-crown/l-intro-1793138870.jpg</image:loc>
-      <image:title>2027 Triumph Tiger 1200 Aims For The BMW GS&#x27;s Do-Everything Crown</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gm-is-embracing-hybrids-now/</loc>
-    <lastmod>2026-10-27T21:47:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1600,1067</image:loc>
-      <image:title>GM is embracing hybrids now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gm-is-embracing-hybrids-now/</loc>
-    <lastmod>2026-10-27T21:47:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1600,1067</image:loc>
-      <image:title>GM is embracing hybrids now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-10000-ev-blows-a-tire-at-nearly-90-mph-watch-what-happens/</loc>
-    <lastmod>2026-10-27T21:30:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Seagull-high-speed-tire-blowout.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD’s $10,000 EV blows a tire at nearly 90 mph — Watch what happens</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byds-10000-ev-blows-a-tire-at-nearly-90-mph-watch-what-happens/</loc>
-    <lastmod>2026-10-27T21:30:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Seagull-high-speed-tire-blowout.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD’s $10,000 EV blows a tire at nearly 90 mph — Watch what happens</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/chevy-traverse-will-reportedly-get-gms-new-hybrid-powertrain/</loc>
-    <lastmod>2026-10-27T20:37:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/10808dc5-231d-4e20-a561-fe6a4f443907.jpg</image:loc>
-      <image:title>Chevy Traverse Will Reportedly Get GM’s New Hybrid Powertrain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/chevy-traverse-will-reportedly-get-gms-new-hybrid-powertrain/</loc>
-    <lastmod>2026-10-27T20:37:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/10808dc5-231d-4e20-a561-fe6a4f443907.jpg</image:loc>
-      <image:title>Chevy Traverse Will Reportedly Get GM’s New Hybrid Powertrain</image:title>
     </image:image>
   </url>
 </urlset>

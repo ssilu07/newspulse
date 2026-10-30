@@ -3,6 +3,201 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/mclaren-confirms-next-supercar-will-be-called-mcl-820-and-have-80/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:03:20+00:00</news:publication_date>
+      <news:title>McLaren Confirms Next Supercar Will Be Called McL 820 and Have 809 HP</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/32c614f5-0a93-473c-90b3-148cf77342af.jpg</image:loc>
+      <image:title>McLaren Confirms Next Supercar Will Be Called McL 820 and Have 809 HP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-ineos-grenadier-quartermaster/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:56:16+00:00</news:publication_date>
+      <news:title>2027 Ineos Grenadier Quartermaster</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-ineos-grenadier-quartermaster-117-68c05dfdafeae.jpg?crop=0.573xw:0.43xh;0.197xw,0.494xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Ineos Grenadier Quartermaster</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/evs-sales-are-rising-and-another-gasmobile-bites-the-dust/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:46:19+00:00</news:publication_date>
+      <news:title>EVs Sales Are Rising And Another Gasmobile Bites The Dust</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/ford-escape.png</image:loc>
+      <image:title>EVs Sales Are Rising And Another Gasmobile Bites The Dust</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-hits-pause-on-the-golf-ev-as-it-faces-an-urgent-need-f/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:29:23+00:00</news:publication_date>
+      <news:title>Volkswagen hits pause on the Golf EV as it faces an ‘urgent need for action’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Volkswagen-electric-ID-GTI-2.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen hits pause on the Golf EV as it faces an ‘urgent need for action’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-the-cars-youre-always-surprised-to-see-people-actually-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:25:00+00:00</news:publication_date>
+      <news:title>These Are The Cars You&#x27;re Always Surprised To See People Actually Bought</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-cars-youre-always-surprised-to-see-people-actually-bought/l-intro-1793318102.jpg</image:loc>
+      <image:title>These Are The Cars You&#x27;re Always Surprised To See People Actually Bought</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/drive-forward-or-turn-back-four-reasons-to-vote-for-a-strong-auto/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:06:49+00:00</news:publication_date>
+      <news:title>Drive Forward or Turn Back? Four Reasons to Vote for a Strong Automotive Package</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Volkswagen-ID-Polo-Cupra-Raval-Skoda-Epiq-Volkswagen-ID-Cross.jpg</image:loc>
+      <image:title>Drive Forward or Turn Back? Four Reasons to Vote for a Strong Automotive Package</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-driver/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:04:23+00:00</news:publication_date>
+      <news:title>GM Pays $220 Million To Settle Lawsuit Alleging It Violated Drivers&#x27; Privacy For Profit</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-drivers-privacy-for-profit/l-intro-1793368893.jpg</image:loc>
+      <image:title>GM Pays $220 Million To Settle Lawsuit Alleging It Violated Drivers&#x27; Privacy For Profit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tes-response-to-the-european-commissions-review-of-the-eu-ets-and/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:03:37+00:00</news:publication_date>
+      <news:title>T&amp;E’s Response to the European Commission’s Review of the EU ETS and MSR</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Business-Research-Market-Research-Computer-Chart-Graph-CleanTechnica-Watermark-1.png</image:loc>
+      <image:title>T&amp;E’s Response to the European Commission’s Review of the EU ETS and MSR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-ignorance-is-a-superpower-for-antonelli-in-f1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:30:04+00:00</news:publication_date>
+      <news:title>Why “ignorance is a superpower” for Antonelli in F1</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/0kZXN3o6/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
+      <image:title>Why “ignorance is a superpower” for Antonelli in F1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-car-would-you-lease-but-never-buy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:25:00+00:00</news:publication_date>
+      <news:title>What Car Would You Lease But Never Buy?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-car-would-you-lease-but-never-buy/l-intro-1793305811.jpg</image:loc>
+      <image:title>What Car Would You Lease But Never Buy?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/waymo-picks-toyota-bz4x-as-its-next-robotaxi-starting-in-japan-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:22:30+00:00</news:publication_date>
+      <news:title>Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Waymo-Toyota-Bz4x.webp?w=1600</image:loc>
+      <image:title>Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:42:10+00:00</news:publication_date>
+      <news:title>Jasion Poki review: The Electric Minibike that packs heavy-duty fun</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/image_a598cf.png?w=964</image:loc>
+      <image:title>Jasion Poki review: The Electric Minibike that packs heavy-duty fun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:25:00+00:00</news:publication_date>
+      <news:title>At $22,995, Would You Plug Into This 2024 Polestar 2 Long Range?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/l-intro-1793296032.jpg</image:loc>
+      <image:title>At $22,995, Would You Plug Into This 2024 Polestar 2 Long Range?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
     <news:news>
       <news:publication>
@@ -105,6 +300,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357860_HiRes.jpg</image:loc>
       <image:title>Why &#x27;motocross&#x27; Sepang wasn&#x27;t fixed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/key-sauber-era-figure-to-leave-audi-f1-team/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T10:03:12+00:00</news:publication_date>
+      <news:title>Key Sauber-era figure to leave Audi F1 team</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_895881_HiRes.jpg</image:loc>
+      <image:title>Key Sauber-era figure to leave Audi F1 team</image:title>
     </image:image>
   </url>
   <url>
@@ -1635,276 +1845,6 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/5f03e23f-7c96-4e9d-baa4-ac4b2257e087.jpg</image:loc>
       <image:title>Comparison Test: 2027 BMW iX3 vs. Mercedes-Benz GLC400</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-bmw-x3-m50-adds-horsepower-and-a-sinister-appearance-package/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:00:00+00:00</news:publication_date>
-      <news:title>2027 BMW X3 M50 Adds Horsepower and a Sinister Appearance Package</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b9cd41df-90dd-46d1-8245-b49349a0a63f.jpg</image:loc>
-      <image:title>2027 BMW X3 M50 Adds Horsepower and a Sinister Appearance Package</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-snowhunter-concepts-ready-to-conquer-the-inevitable-ai-ind/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:41:58+00:00</news:publication_date>
-      <news:title>Toyota Snowhunter Concepts Ready To Conquer The Inevitable A.I.-Induced Nuclear Winter</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyota-snowhunter-concepts-ready-to-conquer-the-inevitable-a-i-induced-nuclear-winter/l-intro-1793201684.jpg</image:loc>
-      <image:title>Toyota Snowhunter Concepts Ready To Conquer The Inevitable A.I.-Induced Nuclear Winter</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-lexus-tx-hybrid/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:32:38+00:00</news:publication_date>
-      <news:title>2027 Lexus TX Hybrid</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a47e42cf-e8a1-4323-9bc3-f1ae1de61251.jpg?crop=0.557xw:0.418xh;0.292xw,0.392xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Lexus TX Hybrid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-publishes-first-social-impact-report-key-student-scholarship-r/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:26:42+00:00</news:publication_date>
-      <news:title>F1 publishes first Social Impact Report; key student scholarship renewed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn-2.motorsport.com/images/amp/0arE7LG2/s6/stem-racing-world-final-2026-s.jpg</image:loc>
-      <image:title>F1 publishes first Social Impact Report; key student scholarship renewed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-kia-ev9-gets-more-standard-features-with-minimal-price-incre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:26:39+00:00</news:publication_date>
-      <news:title>2027 Kia EV9 Gets More Standard Features with Minimal Price Increases</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f1ffa015-f44a-486c-b4b0-b66f54a264f0.jpg</image:loc>
-      <image:title>2027 Kia EV9 Gets More Standard Features with Minimal Price Increases</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/teslas-rocket-shaped-robotaxi-map-in-houston-is-partly-fake/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:18:25+00:00</news:publication_date>
-      <news:title>Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-robotaxi-houston-geofence-rocket-map.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/china-steps-back-from-promoting-second-life-ev-batteries/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:15:36+00:00</news:publication_date>
-      <news:title>China Steps Back From Promoting Second-Life EV Batteries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/TFIE_China_Second_Life_Batteries_Hero_1600x900.png</image:loc>
-      <image:title>China Steps Back From Promoting Second-Life EV Batteries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/catl-pushes-ahead-with-20-ah-solid-state-ev-batteries-with-500-wh/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:12:41+00:00</news:publication_date>
-      <news:title>CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/CATL-20-Ah-solid-state-battery.jpeg?quality=82&amp;strip=all&amp;resize=1200,628</image:loc>
-      <image:title>CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-renews-scholarships-as-first-social-impact-report-published/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:12:01+00:00</news:publication_date>
-      <news:title>F1 renews scholarships as first social impact report published</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1447423_HiRes-1.jpg</image:loc>
-      <image:title>F1 renews scholarships as first social impact report published</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gm-will-finally-make-hybrid-crossovers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T14:36:31+00:00</news:publication_date>
-      <news:title>GM Will Finally Make Hybrid Crossovers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/gm-will-finally-make-hybrid-crossovers/l-intro-1793198013.jpg</image:loc>
-      <image:title>GM Will Finally Make Hybrid Crossovers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-confirms-vietnam-entry-to-take-on-vinfast-and-its-36-market/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T14:28:21+00:00</news:publication_date>
-      <news:title>Tesla confirms Vietnam entry to take on VinFast and its 36% market share</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Vietnam.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla confirms Vietnam entry to take on VinFast and its 36% market share</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-dumb-decisions-previous-owners-made-with-our-readers-cars/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T14:25:00+00:00</news:publication_date>
-      <news:title>The Dumb Decisions Previous Owners Made With Our Readers&#x27; Cars</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-dumb-decisions-previous-owners-made-with-our-readers-cars/l-intro-1793191304.jpg</image:loc>
-      <image:title>The Dumb Decisions Previous Owners Made With Our Readers&#x27; Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-casts-5000-unicastings-for-fathom-ev-truck-in-tesla-style-sh/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:56:15+00:00</news:publication_date>
-      <news:title>Ford casts 5,000 ‘unicastings’ for Fathom EV truck in Tesla-style shift</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/ford-fathom-unicasting-inspection.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Ford casts 5,000 ‘unicastings’ for Fathom EV truck in Tesla-style shift</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-retro-electric-motorcycle-to-debut-at-eicma-with-a-novel-feat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:48:00+00:00</news:publication_date>
-      <news:title>New retro electric motorcycle to debut at EICMA with a novel feature: a second gear</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/e-motiv-electric-motorcycle-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>New retro electric motorcycle to debut at EICMA with a novel feature: a second gear</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-need-for-maintaining-renewable-energy-directive-stability-in-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:36:08+00:00</news:publication_date>
-      <news:title>The Need for Maintaining Renewable Energy Directive Stability in the Post-2030 Energy Framework</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Solar-Power-Battery-Energy-Storage-CleanTechnica-Watermark.png</image:loc>
-      <image:title>The Need for Maintaining Renewable Energy Directive Stability in the Post-2030 Energy Framework</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-car-are-you-always-surprised-to-see-someone-actually-bought/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:25:00+00:00</news:publication_date>
-      <news:title>What Car Are You Always Surprised To See Someone Actually Bought?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-car-are-you-always-surprised-to-see-someone-actually-bought/l-intro-1793189773.jpg</image:loc>
-      <image:title>What Car Are You Always Surprised To See Someone Actually Bought?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-semi-catches-fire-on-i-880-with-no-crash-closes-freeway-for/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:34:10+00:00</news:publication_date>
-      <news:title>Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-semi-fire-i-880-hayward-chp.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/at-23950-would-you-become-a-cars-coffee-legend-in-this-2012-roush/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:25:00+00:00</news:publication_date>
-      <news:title>At $23,950, Would You Become A Cars &amp; Coffee Legend In This 2012 Roush Stage 2 Mustang GT?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-23950-would-you-become-a-cars-coffee-legend-in-this-2012-roush-stage-2-mustang-gt/l-intro-1793120266.jpg</image:loc>
-      <image:title>At $23,950, Would You Become A Cars &amp; Coffee Legend In This 2012 Roush Stage 2 Mustang GT?</image:title>
     </image:image>
   </url>
 </urlset>
