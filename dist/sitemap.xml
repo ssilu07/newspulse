@@ -3,39 +3,259 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-30T02:11:07Z</lastmod>
+    <lastmod>2026-10-30T08:48:24Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-30T02:11:07Z</lastmod>
+    <lastmod>2026-10-30T08:48:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-30T02:11:07Z</lastmod>
+    <lastmod>2026-10-30T08:48:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-30T02:11:07Z</lastmod>
+    <lastmod>2026-10-30T08:48:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-30T02:11:07Z</lastmod>
+    <lastmod>2026-10-30T08:48:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-30T02:11:07Z</lastmod>
+    <lastmod>2026-10-30T08:48:24Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/marquez-quickest-again-martin-done-after-three-laps/</loc>
+    <lastmod>2026-10-30T08:12:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357963_HiRes.jpg</image:loc>
+      <image:title>Marquez quickest again, Martin done after three laps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/marquez-quickest-again-martin-done-after-three-laps/</loc>
+    <lastmod>2026-10-30T08:12:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357963_HiRes.jpg</image:loc>
+      <image:title>Marquez quickest again, Martin done after three laps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-/</loc>
+    <lastmod>2026-10-30T08:10:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/08/livewire-header-image.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Harley-Davidson’s electric motorcycle brand LiveWire warns it may not survive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-/</loc>
+    <lastmod>2026-10-30T08:10:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/08/livewire-header-image.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Harley-Davidson’s electric motorcycle brand LiveWire warns it may not survive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/waymo-taps-toyota-to-supply-robotaxis-for-japan-and-the-uk/</loc>
+    <lastmod>2026-10-30T07:01:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1600,1067</image:loc>
+      <image:title>Waymo taps Toyota to supply robotaxis for Japan and the U.K.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/waymo-taps-toyota-to-supply-robotaxis-for-japan-and-the-uk/</loc>
+    <lastmod>2026-10-30T07:01:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1600,1067</image:loc>
+      <image:title>Waymo taps Toyota to supply robotaxis for Japan and the U.K.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-thing/</loc>
+    <lastmod>2026-10-30T06:51:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/also-ebike-low-battery-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-thing/</loc>
+    <lastmod>2026-10-30T06:51:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/also-ebike-low-battery-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/injured-martin-cleared-to-race-in-malaysia-after-first-practice/</loc>
+    <lastmod>2026-10-30T03:47:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357741_HiRes.jpg</image:loc>
+      <image:title>Injured Martin cleared to race in Malaysia after first practice</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/injured-martin-cleared-to-race-in-malaysia-after-first-practice/</loc>
+    <lastmod>2026-10-30T03:47:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357741_HiRes.jpg</image:loc>
+      <image:title>Injured Martin cleared to race in Malaysia after first practice</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/off-grid-power-in-a-briefcase-the-goal-zero-boulder-100/</loc>
+    <lastmod>2026-10-30T03:30:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/100-Solar-Briefcase-Goal-Zero.jpg</image:loc>
+      <image:title>Off-Grid Power In A Briefcase: The Goal Zero Boulder 100</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/off-grid-power-in-a-briefcase-the-goal-zero-boulder-100/</loc>
+    <lastmod>2026-10-30T03:30:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/100-Solar-Briefcase-Goal-Zero.jpg</image:loc>
+      <image:title>Off-Grid Power In A Briefcase: The Goal Zero Boulder 100</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-photos-of-the-honda-passport-baja-spec-trophy-truck/</loc>
+    <lastmod>2026-10-30T03:30:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/37e7a98d-12de-47c9-8b0f-35034d17dc08.jpg?crop=1xw:0.75xh;0xw,0.144xh&amp;resize=1200:*</image:loc>
+      <image:title>View Photos of the Honda Passport Baja Spec Trophy Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-photos-of-the-honda-passport-baja-spec-trophy-truck/</loc>
+    <lastmod>2026-10-30T03:30:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/37e7a98d-12de-47c9-8b0f-35034d17dc08.jpg?crop=1xw:0.75xh;0xw,0.144xh&amp;resize=1200:*</image:loc>
+      <image:title>View Photos of the Honda Passport Baja Spec Trophy Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hrcs-1300-hp-trophy-truck-is-the-most-badass-honda-passport-ever/</loc>
+    <lastmod>2026-10-30T03:30:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/89cd7d40-50c3-49ef-bfd1-f8c24b351a7e.jpg</image:loc>
+      <image:title>HRC’s 1300-HP Trophy Truck Is the Most Badass Honda Passport Ever</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hrcs-1300-hp-trophy-truck-is-the-most-badass-honda-passport-ever/</loc>
+    <lastmod>2026-10-30T03:30:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/89cd7d40-50c3-49ef-bfd1-f8c24b351a7e.jpg</image:loc>
+      <image:title>HRC’s 1300-HP Trophy Truck Is the Most Badass Honda Passport Ever</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/big-oil-cashes-in-on-trump-campaign-investment-doubles-earnings-c/</loc>
+    <lastmod>2026-10-30T03:25:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Fossil-Fuels-Oil-CleanTechnica-Watermark.png</image:loc>
+      <image:title>Big Oil Cashes in on Trump Campaign Investment, Doubles Earnings Compared to Last Year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/big-oil-cashes-in-on-trump-campaign-investment-doubles-earnings-c/</loc>
+    <lastmod>2026-10-30T03:25:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Fossil-Fuels-Oil-CleanTechnica-Watermark.png</image:loc>
+      <image:title>Big Oil Cashes in on Trump Campaign Investment, Doubles Earnings Compared to Last Year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/eugene-becomes-5th-oregon-city-to-adopt-home-energy-score-require/</loc>
+    <lastmod>2026-10-30T03:22:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
+      <image:title>Eugene Becomes 5th Oregon City to Adopt Home Energy Score Requirement</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/eugene-becomes-5th-oregon-city-to-adopt-home-energy-score-require/</loc>
+    <lastmod>2026-10-30T03:22:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
+      <image:title>Eugene Becomes 5th Oregon City to Adopt Home Energy Score Requirement</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-racing-unleashes-a-1300-hp-hybrid-passport-trophy-truck/</loc>
+    <lastmod>2026-10-30T03:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/honda-racing-unleashes-a-1300-hp-hybrid-passport-trophy-truck/l-intro-1793306100.jpg</image:loc>
+      <image:title>Honda Racing Unleashes A 1,300+ HP Hybrid Passport Trophy Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-racing-unleashes-a-1300-hp-hybrid-passport-trophy-truck/</loc>
+    <lastmod>2026-10-30T03:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/honda-racing-unleashes-a-1300-hp-hybrid-passport-trophy-truck/l-intro-1793306100.jpg</image:loc>
+      <image:title>Honda Racing Unleashes A 1,300+ HP Hybrid Passport Trophy Truck</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/the-zombie-engine-how-brussels-bureaucrats-are-breathing-false-li/</loc>
@@ -478,6 +698,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/xpeng-l05-offers-a-bit-more/</loc>
+    <lastmod>2026-10-29T19:30:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/pic_20261012093802_52987-scaled.jpg</image:loc>
+      <image:title>XPENG L05 Offers A Bit More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/xpeng-l05-offers-a-bit-more/</loc>
+    <lastmod>2026-10-29T19:30:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/pic_20261012093802_52987-scaled.jpg</image:loc>
+      <image:title>XPENG L05 Offers A Bit More</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon/</loc>
     <lastmod>2026-10-29T19:13:18+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -635,6 +875,26 @@
     <image:image>
       <image:loc>https://cdn-8.motorsport.com/images/amp/YBVjm5KY/s6/andrea-kimi-antonelli-mercedes.jpg</image:loc>
       <image:title>Antonelli skips F1 Mexico GP media day due to illness</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/father-and-son-allegedly-sold-nearly-500000-in-title-washed-cars-/</loc>
+    <lastmod>2026-10-29T16:59:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/father-and-son-allegedly-sold-nearly-500000-in-vin-washed-cars-on-facebook-marketplace/l-intro-1793291447.jpg</image:loc>
+      <image:title>Father And Son Allegedly Sold Nearly $500,000 In Title-Washed Cars On Facebook Marketplace</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/father-and-son-allegedly-sold-nearly-500000-in-title-washed-cars-/</loc>
+    <lastmod>2026-10-29T16:59:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/father-and-son-allegedly-sold-nearly-500000-in-vin-washed-cars-on-facebook-marketplace/l-intro-1793291447.jpg</image:loc>
+      <image:title>Father And Son Allegedly Sold Nearly $500,000 In Title-Washed Cars On Facebook Marketplace</image:title>
     </image:image>
   </url>
   <url>
@@ -2775,266 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/this-mid-engine-v8-geo-metro-is-the-ultimate-evolution-of-ls-swap-all-the-things/l-intro-1793121439.jpg</image:loc>
       <image:title>This Mid-Engine V8 Geo Metro Is The Ultimate Evolution Of &#x27;LS Swap All The Things</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/worlds-largest-electric-ferry-enters-service-in-buenos-aires/</loc>
-    <lastmod>2026-10-27T18:16:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Incat-Hull-096.jpg</image:loc>
-      <image:title>World’s Largest Electric Ferry Enters Service In Buenos Aires</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/worlds-largest-electric-ferry-enters-service-in-buenos-aires/</loc>
-    <lastmod>2026-10-27T18:16:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Incat-Hull-096.jpg</image:loc>
-      <image:title>World’s Largest Electric Ferry Enters Service In Buenos Aires</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-is-going-upscale-with-its-first-3-row-ev-the-ix7/</loc>
-    <lastmod>2026-10-27T18:10:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-iX7-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BMW is going upscale with its first 3-row EV, the iX7</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-is-going-upscale-with-its-first-3-row-ev-the-ix7/</loc>
-    <lastmod>2026-10-27T18:10:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-iX7-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BMW is going upscale with its first 3-row EV, the iX7</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/flock-cameras-are-being-covered-with-garbage-bags-as-contracts-wi/</loc>
-    <lastmod>2026-10-27T17:55:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/flock-cameras-are-being-covered-with-garbage-bags-as-contracts-with-the-wildly-unpopular-mass-surveillance-company-are-terminated/l-intro-1793123122.jpg</image:loc>
-      <image:title>Flock Cameras Are Being Covered With Garbage Bags As Contracts With The Wildly Unpopular Mass Surveillance Company Are Terminated</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/flock-cameras-are-being-covered-with-garbage-bags-as-contracts-wi/</loc>
-    <lastmod>2026-10-27T17:55:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/flock-cameras-are-being-covered-with-garbage-bags-as-contracts-with-the-wildly-unpopular-mass-surveillance-company-are-terminated/l-intro-1793123122.jpg</image:loc>
-      <image:title>Flock Cameras Are Being Covered With Garbage Bags As Contracts With The Wildly Unpopular Mass Surveillance Company Are Terminated</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-teases-new-trophy-truck-that-uses-the-passport-name/</loc>
-    <lastmod>2026-10-27T17:09:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/08d881b5-f6b6-4b5f-9dbf-fc04783e4148.png</image:loc>
-      <image:title>Honda Teases New Trophy Truck That Uses the Passport Name</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-teases-new-trophy-truck-that-uses-the-passport-name/</loc>
-    <lastmod>2026-10-27T17:09:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/08d881b5-f6b6-4b5f-9dbf-fc04783e4148.png</image:loc>
-      <image:title>Honda Teases New Trophy Truck That Uses the Passport Name</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibi/</loc>
-    <lastmod>2026-10-27T16:57:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-9.motorsport.com/images/amp/0JXRr4RY/s6/george-russell-mercedes.jpg</image:loc>
-      <image:title>Mercedes has a Russell-sized problem and it is sharing responsibility</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibi/</loc>
-    <lastmod>2026-10-27T16:57:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-9.motorsport.com/images/amp/0JXRr4RY/s6/george-russell-mercedes.jpg</image:loc>
-      <image:title>Mercedes has a Russell-sized problem and it is sharing responsibility</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-photos-of-the-1976-renault-17-gordini/</loc>
-    <lastmod>2026-10-27T16:39:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/4719617f-1a4f-42c5-a9e3-7f7d007283b2.jpg</image:loc>
-      <image:title>View Photos of the 1976 Renault 17 Gordini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-photos-of-the-1976-renault-17-gordini/</loc>
-    <lastmod>2026-10-27T16:39:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/4719617f-1a4f-42c5-a9e3-7f7d007283b2.jpg</image:loc>
-      <image:title>View Photos of the 1976 Renault 17 Gordini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/joie-de-vivre-instead-of-ennui-we-test-the-1976-renault-17-gordin/</loc>
-    <lastmod>2026-10-27T16:39:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/689c90cb-6a7c-4096-9874-03149de9269a.jpg?crop=0.854xw:0.64xh;0.099xw,0.184xh&amp;resize=1200:*</image:loc>
-      <image:title>Joie de Vivre Instead of Ennui: We Test the 1976 Renault 17 Gordini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/joie-de-vivre-instead-of-ennui-we-test-the-1976-renault-17-gordin/</loc>
-    <lastmod>2026-10-27T16:39:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/689c90cb-6a7c-4096-9874-03149de9269a.jpg?crop=0.854xw:0.64xh;0.099xw,0.184xh&amp;resize=1200:*</image:loc>
-      <image:title>Joie de Vivre Instead of Ennui: We Test the 1976 Renault 17 Gordini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-jeep-gladiator-loses-base-model-adds-35-inch-tire-option/</loc>
-    <lastmod>2026-10-27T16:28:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1ce9b4db-9904-497c-8408-b9520d7dd00b.jpg</image:loc>
-      <image:title>2027 Jeep Gladiator Loses Base Model, Adds 35-Inch Tire Option</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-jeep-gladiator-loses-base-model-adds-35-inch-tire-option/</loc>
-    <lastmod>2026-10-27T16:28:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1ce9b4db-9904-497c-8408-b9520d7dd00b.jpg</image:loc>
-      <image:title>2027 Jeep Gladiator Loses Base Model, Adds 35-Inch Tire Option</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-just-put-all-its-trucks-on-snow-tracks/</loc>
-    <lastmod>2026-10-27T16:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/toyota-just-put-all-its-trucks-on-snow-tracks/l-intro-1793116230.jpg</image:loc>
-      <image:title>Toyota Just Put All Its Trucks On Snow Tracks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-just-put-all-its-trucks-on-snow-tracks/</loc>
-    <lastmod>2026-10-27T16:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/toyota-just-put-all-its-trucks-on-snow-tracks/l-intro-1793116230.jpg</image:loc>
-      <image:title>Toyota Just Put All Its Trucks On Snow Tracks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/sykeruns-x7-electric-dirt-bike-review-a-lot-of-power-for-surprisi/</loc>
-    <lastmod>2026-10-27T15:56:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/sykeruns-e-moto-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Sykeruns X7 electric dirt bike review: A lot of power for surprisingly little money</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/sykeruns-x7-electric-dirt-bike-review-a-lot-of-power-for-surprisi/</loc>
-    <lastmod>2026-10-27T15:56:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/sykeruns-e-moto-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Sykeruns X7 electric dirt bike review: A lot of power for surprisingly little money</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/korean-police-book-80-tesla-drivers-over-illegal-fsd-unlock-devic/</loc>
-    <lastmod>2026-10-27T15:43:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Korean police book 80 Tesla drivers over illegal FSD unlock devices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/korean-police-book-80-tesla-drivers-over-illegal-fsd-unlock-devic/</loc>
-    <lastmod>2026-10-27T15:43:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Korean police book 80 Tesla drivers over illegal FSD unlock devices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/audis-new-digital-matrix-lights-project-turn-signals-onto-the-roa/</loc>
-    <lastmod>2026-10-27T15:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/audi-new-digital-matrix-led-headlights-q9-sq9-technology-review/l-intro-1793124048.jpg</image:loc>
-      <image:title>Audi&#x27;s New Digital Matrix Lights Project Turn Signals Onto The Road And Won&#x27;t Blind Other Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/audis-new-digital-matrix-lights-project-turn-signals-onto-the-roa/</loc>
-    <lastmod>2026-10-27T15:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/audi-new-digital-matrix-led-headlights-q9-sq9-technology-review/l-intro-1793124048.jpg</image:loc>
-      <image:title>Audi&#x27;s New Digital Matrix Lights Project Turn Signals Onto The Road And Won&#x27;t Blind Other Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-2027-kia-ev9-costs-90-more-but-at-least-you-get-a-few-extras/</loc>
-    <lastmod>2026-10-27T15:20:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/2027-Kia-EV9-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>The 2027 Kia EV9 costs $90 more, but at least you get a few extras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-2027-kia-ev9-costs-90-more-but-at-least-you-get-a-few-extras/</loc>
-    <lastmod>2026-10-27T15:20:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/2027-Kia-EV9-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>The 2027 Kia EV9 costs $90 more, but at least you get a few extras</image:title>
     </image:image>
   </url>
 </urlset>
