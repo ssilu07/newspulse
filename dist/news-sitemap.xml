@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/homepower-1000-plus-v2-portable-power-put-to-use/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T01:27:32+00:00</news:publication_date>
+      <news:title>HomePower 1000 Plus v2: Portable Power Put To Use</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/PXL_20260831_162517813-scaled.jpg</image:loc>
+      <image:title>HomePower 1000 Plus v2: Portable Power Put To Use</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/electric-vehicle-council-celebrating-10-years-of-ev-progress-in-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T01:22:45+00:00</news:publication_date>
+      <news:title>Electric Vehicle Council Celebrating 10 Years of EV Progress in Australia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/shopping-car-park.jpg</image:loc>
+      <image:title>Electric Vehicle Council Celebrating 10 Years of EV Progress in Australia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/verstappen-collides-with-lawson-as-leclerc-tops-mexico-fp2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T23:09:09+00:00</news:publication_date>
+      <news:title>Verstappen collides with Lawson as Leclerc tops Mexico FP2</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448903_HiRes.jpg</image:loc>
+      <image:title>Verstappen collides with Lawson as Leclerc tops Mexico FP2</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mate-rimac-chased-down-a-guy-who-stole-his-bugatti-chiron-in-croa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T22:43:10+00:00</news:publication_date>
+      <news:title>Mate Rimac Chased Down A Guy Who Stole His Bugatti Chiron In Croatia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/mate-rimac-chased-down-a-guy-who-stole-his-bugatti-chiron-in-croatia/l-intro-1793399508.jpg</image:loc>
+      <image:title>Mate Rimac Chased Down A Guy Who Stole His Bugatti Chiron In Croatia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-hertas-actually-still-one-point-off-f1-superlicence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T22:38:54+00:00</news:publication_date>
+      <news:title>Why Herta&#x27;s actually still one point off F1 superlicence</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448550_HiRes.jpg</image:loc>
+      <image:title>Why Herta&#x27;s actually still one point off F1 superlicence</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-bmw-i3/</loc>
     <news:news>
       <news:publication>
@@ -45,6 +120,21 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/0fab9470-88f9-4a36-a8c6-823504ddb6f0.jpg</image:loc>
       <image:title>An Uncompromising Fraternal Twin: We Drive the All-Electric 2027 BMW i3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-wed-spec-it-2027-bmw-3-series/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T21:45:46+00:00</news:publication_date>
+      <news:title>How We’d Spec It: 2027 BMW 3-Series</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/dd826d25-50cd-449a-b607-277e9e71ef45.gif</image:loc>
+      <image:title>How We’d Spec It: 2027 BMW 3-Series</image:title>
     </image:image>
   </url>
   <url>
@@ -105,6 +195,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-luxury-EV-suicide-doors.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>BYD reveals a flashy new feature on its upcoming luxury EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rivian-r2-sales-are-so-strong-its-outselling-both-r1-models-combi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T19:56:38+00:00</news:publication_date>
+      <news:title>Rivian R2 Sales Are So Strong It’s Outselling Both R1 Models Combined</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ee99b08d-139b-4b3e-aa01-702123b6d518.jpg</image:loc>
+      <image:title>Rivian R2 Sales Are So Strong It’s Outselling Both R1 Models Combined</image:title>
     </image:image>
   </url>
   <url>
@@ -318,6 +423,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/a-british-marque-is-building-a-new-audi-quattro-with-a-10000-rpm-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:00:00+00:00</news:publication_date>
+      <news:title>A British Marque Is Building a New Audi Quattro with a 10,000-RPM V-8</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/3fc4aade-485d-4e6d-8618-27bb427a0b3b.jpg</image:loc>
+      <image:title>A British Marque Is Building a New Audi Quattro with a 10,000-RPM V-8</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/how-well-would-the-new-dodge-charger-work-on-the-dukes-of-hazzard/</loc>
     <news:news>
       <news:publication>
@@ -393,6 +513,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/even-the-electric-golf-couldnt-survive-vws-financial-meltdown/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:11:09+00:00</news:publication_date>
+      <news:title>Even The Electric Golf Couldn&#x27;t Survive VW&#x27;s Financial Meltdown</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/even-the-electric-golf-couldnt-survive-vws-financial-meltdown/l-intro-1793372872.jpg</image:loc>
+      <image:title>Even The Electric Golf Couldn&#x27;t Survive VW&#x27;s Financial Meltdown</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-crazed-ktm-x-bow-is-finally-coming-to-us-roads/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:53:33+00:00</news:publication_date>
+      <news:title>The Crazed KTM X-Bow Is Finally Coming To US Roads</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-crazed-ktm-x-bow-is-finally-coming-to-u-s-roads/l-intro-1793371849.jpg</image:loc>
+      <image:title>The Crazed KTM X-Bow Is Finally Coming To US Roads</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/evs-sales-are-rising-and-another-gasmobile-bites-the-dust/</loc>
     <news:news>
       <news:publication>
@@ -405,6 +555,21 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/ford-escape.png</image:loc>
       <image:title>EVs Sales Are Rising And Another Gasmobile Bites The Dust</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/europes-coty-shortlist-is-an-ev-clean-sweep-but-china-can-only-wa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:36:24+00:00</news:publication_date>
+      <news:title>Europe&#x27;s COTY Shortlist Is An EV Clean Sweep, But China Can Only Watch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/europes-coty-shortlist-is-an-ev-clean-sweep-but-china-can-only-watch/l-intro-1793370648.jpg</image:loc>
+      <image:title>Europe&#x27;s COTY Shortlist Is An EV Clean Sweep, But China Can Only Watch</image:title>
     </image:image>
   </url>
   <url>
@@ -480,6 +645,21 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Business-Research-Market-Research-Computer-Chart-Graph-CleanTechnica-Watermark-1.png</image:loc>
       <image:title>T&amp;E’s Response to the European Commission’s Review of the EU ETS and MSR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-bmw-3-series/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:48:44+00:00</news:publication_date>
+      <news:title>2027 BMW 3-Series</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f7f09290-27ff-4d9d-a51e-dcb6a1f8c792.jpg?crop=0.524xw:0.393xh;0.401xw,0.366xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 BMW 3-Series</image:title>
     </image:image>
   </url>
   <url>
@@ -1785,171 +1965,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357511_HiRes.jpg</image:loc>
       <image:title>Martin cleared to ride with broken wrist as he tries to stay in title hunt</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/construction-materials-stand-out-at-greenbuild-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T01:25:59+00:00</news:publication_date>
-      <news:title>Construction Materials Stand Out At Greenbuild 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/PXL_20261022_194755366-scaled.jpg</image:loc>
-      <image:title>Construction Materials Stand Out At Greenbuild 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nearly-half-of-eu-cities-do-not-yet-meet-new-clean-air-standards-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:46:19+00:00</news:publication_date>
-      <news:title>Nearly Half of EU Cities Do Not Yet Meet New Clean Air Standards: Report Shows Collaboration Is Key</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/11/66386246687__1498090D-156B-412B-A731-6D5624607CFF-e1642411238640-1-e1793233387111.jpg</image:loc>
-      <image:title>Nearly Half of EU Cities Do Not Yet Meet New Clean Air Standards: Report Shows Collaboration Is Key</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trump-rolling-back-methane-pollution-safeguards/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:42:54+00:00</news:publication_date>
-      <news:title>Trump Rolling Back Methane Pollution Safeguards</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/04/Methane-gas-flare-North-Dakota.jpeg</image:loc>
-      <image:title>Trump Rolling Back Methane Pollution Safeguards</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-now-has-102-million-workers-more-than-toyota-gm-ford-and-tesl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:41:17+00:00</news:publication_date>
-      <news:title>BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/BYD-EV-demand-gas-prices-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/waymo-for-business-ramp/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:37:38+00:00</news:publication_date>
-      <news:title>Waymo for Business</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-for-Business-Ramp.jpeg</image:loc>
-      <image:title>Waymo for Business</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-truth-about-renewable-electricity-your-questions-answered/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:26:56+00:00</news:publication_date>
-      <news:title>The Truth About Renewable Electricity: Your Questions, Answered</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/03/solar-panels-renewable-energy-nrel.jpg</image:loc>
-      <image:title>The Truth About Renewable Electricity: Your Questions, Answered</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/after-years-long-community-objection-dairyland-power-pulls-the-pl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:25:58+00:00</news:publication_date>
-      <news:title>After Years-Long Community Objection, Dairyland Power Pulls the Plug on NTEC Gas Plant</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/02/124adce3-d113-477f-956b-fb4bfdecfa11Original-scaled-e1707526673549.jpg</image:loc>
-      <image:title>After Years-Long Community Objection, Dairyland Power Pulls the Plug on NTEC Gas Plant</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/louisiana-deq-issues-rushed-controversial-air-permit-to-proposed-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T23:57:53+00:00</news:publication_date>
-      <news:title>Louisiana DEQ Issues Rushed, Controversial Air Permit to Proposed Hyundai Steel Facility</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Louisiana DEQ Issues Rushed, Controversial Air Permit to Proposed Hyundai Steel Facility</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/teslas-full-self-driving-has-now-dramatically-reduced-the-number-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T23:48:19+00:00</news:publication_date>
-      <news:title>Tesla’s Full Self Driving Has Now Dramatically Reduced the Number of Reasons to Intervene or Complain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/3683.-Full-Self-Driving-V14-Nav-Screen.-2026-Tesla-Model-Y.-Camp-Hasler.-Three-Lakes-Wisconsin.-June-11-2026.-Fritz-Hasler-Photo-scaled.jpg</image:loc>
-      <image:title>Tesla’s Full Self Driving Has Now Dramatically Reduced the Number of Reasons to Intervene or Complain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jetson-launches-fixed-price-heat-pump-water-heater-with-installat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:40:31+00:00</news:publication_date>
-      <news:title>Jetson Launches Fixed Price Heat Pump Water Heater with Installation Included</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/06-Jetson_Water-Lifestyle.png</image:loc>
-      <image:title>Jetson Launches Fixed Price Heat Pump Water Heater with Installation Included</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:34:30+00:00</news:publication_date>
-      <news:title>Dutch startup Elysian says electric flight may be closer than you think</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/elysian_MAIN.png?w=1600</image:loc>
-      <image:title>Dutch startup Elysian says electric flight may be closer than you think</image:title>
     </image:image>
   </url>
 </urlset>
