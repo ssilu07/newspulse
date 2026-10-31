@@ -1,5 +1,626 @@
 [
   {
+    "id": "art_1793483060_5",
+    "slug": "youtuber-invents-device-that-hides-license-plates-from-flock-came",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "YouTuber Invents Device That Hides License Plates From Flock Cameras",
+    "title": "YouTuber Invents Device That Hides License Plates From Flock Cameras",
+    "raw_summary": "Flock cameras take an unimaginably huge number of pictures of cars and license plates, creating a searchable database of times and locations that can be used to track your movements. If you don't care to participate, you can use apps like MapQuest to avoid these cameras , or FlockHopper to automatically route around them. Or you can do as YouTuber Studio Hotrods did, and design a system to make your license plate invisible, but only near a Flock camera. What Studio Hotrods came up with is a clever system that obscures your plate only when you're in view of a Flock camera. The video goes into detail, but basically, an Arduino computer controls a piece of smart glass that's clear when it receives power but turns opaque when the power shuts off. This smart glass goes over the license plate.",
+    "summary": "Flock cameras take an unimaginably huge number of pictures of cars and license plates, creating a searchable database of times and locations that can be used to track your movements. If you don't care to participate, you can use apps like MapQuest to avoid these cameras , or FlockHopper to automatically route around them.",
+    "image_url": "https://www.jalopnik.com/img/gallery/youtuber-invents-device-that-hides-license-plates-from-flock-cameras/l-intro-1793304318.jpg",
+    "original_url": "https://www.jalopnik.com/2301648/youtuber-invents-device-that-hides-license-plate-flock-cameras/",
+    "published_at": "2026-10-31T21:05:00+00:00",
+    "time_ago": "39m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Flock cameras take an unimaginably huge number of pictures of cars and license plates, creating a searchable database of times and locations that can be used to track your movements. If you don't care to participate, you can use apps like MapQuest to avoid these cameras , or FlockHopper to automatically route around them. Or you can do as YouTuber Studio Hotrods did, and design a system to make your license plate invisible, but only near a Flock camera.",
+      "What Studio Hotrods came up with is a clever system that obscures your plate only when you're in view of a Flock camera. The video goes into detail, but basically, an Arduino computer controls a piece of smart glass that's clear when it receives power but turns opaque when the power shuts off. This smart glass goes over the license plate.",
+      "The Arduino is also connected to a GPS antenna and module that tells it the vehicle's location, which it cross-references with an SD card containing a database of Flock camera locations, likely by the DeFlock mapping project . Under normal driving conditions, the smart glass receives power and remains clear, keeping the license plate visible as is legally required. When the vehicle passes a Flock camera, however, it briefly turns the smart glass opaque, just long enough to prevent the camera from scanning the plate.",
+      "This seems like a pretty neat idea. Unless a cop is looking right at your license plate at the moment you pass a Flock camera, they're still going to see your plate, so there shouldn't be a problem, right? Unfortunately, it's not as simple as that.",
+      "According to Allowed Here , every state has some kind of restriction on license plate covers. They are illegal in eight states, including Illinois, where the car used for testing in this video is registered. States that haven't banned covers outright still require the plate to be legible, and they may not obscure the plate in any way. Depending on where you live, you could still get pulled over just for having a cover on your license plate, even if it's as clear as glass at the time.",
+      "States are already cracking down on license plate flippers , which obscure plates both from cops and automatic toll cameras. Studio Hotrods' \"Flock-O-Matic\" system recognizes these valid reasons, which is why it keeps the plate visible unless you're in direct view of a Flock camera. But the law doesn't care what your intentions are, only that the plate can't be obscured. Plus, it's easy to skip the Arduino and turn the smart glass clear and opaque manually, blocking your plate anytime you want. Cops don't generally like that.",
+      "While Studio Hotrods is designing, testing, and even working on a patent for this device, it's not selling it at this time. A hobbyist with some programming skill could probably figure out how to make something similar — for testing purposes only, of course. In many places, using it on the street is likely to get you the very attention you're trying to avoid."
+    ],
+    "bullet_points": [
+      "Flock cameras take an unimaginably huge number of pictures of cars and license plates, creating a searchable database of times and locations that can be used to track your movements.",
+      "If you don't care to participate, you can use apps like MapQuest to avoid these cameras , or FlockHopper to automatically route around them.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "YouTuber Invents Device That Hides License Plates From Flock Cameras",
+        "badge": "Breaking",
+        "text": "Flock cameras take an unimaginably huge number of pictures of cars and license plates, creating a searchable database of times and locations that can be used to track your movements.",
+        "image": "https://www.jalopnik.com/img/gallery/youtuber-invents-device-that-hides-license-plates-from-flock-cameras/l-intro-1793304318.jpg",
+        "alt": "YouTuber Invents Device That Hides License Plates From Flock Cameras cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "If you don't care to participate, you can use apps like MapQuest to avoid these cameras , or FlockHopper to automatically route around them.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Flock cameras take an unimaginably huge number of pictures of cars and license plates, creating a searchable database of times and locations that can be used to track your movements.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "If you don't care to participate, you can use apps like MapQuest to avoid these cameras , or FlockHopper to automatically route around them.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 54
+  },
+  {
+    "id": "art_1793483060_6",
+    "slug": "these-are-the-reasons-you-are-keeping-old-cars-on-the-road",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "These Are The Reasons You Are Keeping Old Cars On The Road",
+    "title": "These Are The Reasons You Are Keeping Old Cars On The Road",
+    "raw_summary": "When times are tough the Jalopnik commenter section toughens up. With the economic future of this country, perhaps the world, up in the air, it's getting more and more difficult to justify the expense of a new car and the related payments and high insurance costs. Last weekend I asked all of you to chime in with your stories of keeping an old car on the road to avoid the costs of a new car. I guess I shouldn't have been surprised that many of you have chosen to keep old cars on the road for non-economic reasons as well. Most of the responses boiled down to not being able to afford a new car, or being able to afford one but unwilling to buy for a variety of reasons. Lately I've seen quite a lot of chatter on the internet about a preference for older automobiles. Whether it's for cost, simplicity, maintenance, driving enjoyment, or tactile non-touch-screen interiors, it's become a common refrain. \"Buy a pre-financial crisis car and maintain it for the rest of your life,\" the peanut gallery mumbles. I've always been a fan of older cars, whether out of economic necessity, or a desire for something with a sense of occasion, so I find myself agreeing with them.",
+    "summary": "When times are tough the Jalopnik commenter section toughens up. With the economic future of this country, perhaps the world, up in the air, it's getting more and more difficult to justify the expense of a new car and the related payments and high insurance costs.",
+    "image_url": "https://www.jalopnik.com/img/gallery/jalopnik-readers-are-keeping-old-cars-on-the-road-for-a-lot-of-different-reasons/l-intro-1793208427.jpg",
+    "original_url": "https://www.jalopnik.com/2299999/are-you-keeping-an-old-car-on-the-road-new-cars-too-expensive-reader-answers/",
+    "published_at": "2026-10-31T20:45:00+00:00",
+    "time_ago": "59m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "When times are tough the Jalopnik commenter section toughens up. With the economic future of this country, perhaps the world, up in the air, it's getting more and more difficult to justify the expense of a new car and the related payments and high insurance costs. Last weekend I asked all of you to chime in with your stories of keeping an old car on the road to avoid the costs of a new car. I guess I shouldn't have been surprised that many of you have chosen to keep old cars on the road for non-economic reasons as well. Most of the responses boiled down to not being able to afford a new car, or being able to afford one but unwilling to buy for a variety of reasons.",
+      "Lately I've seen quite a lot of chatter on the internet about a preference for older automobiles. Whether it's for cost, simplicity, maintenance, driving enjoyment, or tactile non-touch-screen interiors, it's become a common refrain. \"Buy a pre-financial crisis car and maintain it for the rest of your life,\" the peanut gallery mumbles. I've always been a fan of older cars, whether out of economic necessity, or a desire for something with a sense of occasion, so I find myself agreeing with them.",
+      "Let's dig into the answers from the Jalopnik commentariat — why don't we? I picked a few of my favorite answers from last week's post and compiled them here for your viewing. And if you didn't get a chance to weigh in last week, here's your opportunity. Drop a few additional ideas in the comments below. And if you have bought a new car recently, why?",
+      "I am not keeping an old car on the road, per se, but I am keeping a paid off car that I really do not like because new cars are too expensive. Even if they were cheaper, I'd still keep this POS because everything else in the world is more expensive and I can't afford to be spending so much BS money.",
+      "There's something to be said for a paid off car , even one that you don't like. I like all of my cars, and don't envy someone who doesn't. If you can't be with the one you love, love the one you're with, I guess?",
+      "I'm keeping an old car on the road because New cars are too expensive and I'm too poor to afford newer one",
+      "I've entertained replacing my 2019 GTI, but every time I look at a new vehicle, the numbers don't make sense. In 2019, my GTI was $26k before trade. It has physical buttons, physical gauges, and a stick, which are all things the current GTI lacks. Even the GLI is losing the stick option for 2027. Any comparable replacement is either $40k, like the WRX, or sells before it even hits the lot, like the Elantra N.",
+      "And the insane car prices are exacerbated by the insane insurance prices. Not only would I be forking over a larger chunk of money to buy the car, but the cost to insure a new car has skyrocketed. Hell, even my 2019 GTI's insurance has almost doubled from where it was 5 years ago, and every time I have quoted out a potential replacement vehicle, the price is even higher."
+    ],
+    "bullet_points": [
+      "When times are tough the Jalopnik commenter section toughens up.",
+      "With the economic future of this country, perhaps the world, up in the air, it's getting more and more difficult to justify the expense of a new car and the related payments and high insurance costs.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "These Are The Reasons You Are Keeping Old Cars On The Road",
+        "badge": "Breaking",
+        "text": "When times are tough the Jalopnik commenter section toughens up.",
+        "image": "https://www.jalopnik.com/img/gallery/jalopnik-readers-are-keeping-old-cars-on-the-road-for-a-lot-of-different-reasons/l-intro-1793208427.jpg",
+        "alt": "These Are The Reasons You Are Keeping Old Cars On The Road cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "With the economic future of this country, perhaps the world, up in the air, it's getting more and more difficult to justify the expense of a new car and the related payments and high insurance costs.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "When times are tough the Jalopnik commenter section toughens up.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "With the economic future of this country, perhaps the world, up in the air, it's getting more and more difficult to justify the expense of a new car and the related payments and high insurance costs.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 46
+  },
+  {
+    "id": "art_1793483060_9",
+    "slug": "these-are-10-of-the-most-notable-ford-f-150-changes",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Jalopnik",
+    "raw_title": "These Are 10 Of The Most Notable Ford F-150 Changes",
+    "title": "These Are 10 Of The Most Notable Ford F-150 Changes",
+    "raw_summary": "The Ford F-150 just got a mild refresh for 2027 , and the changes are quite minimal compared to the current model. This has not always been the case, since the Blue Oval company has not exactly shied away from experimentation with the F-150 in the past. Ford had been making trucks for a long time, but in the period after the Second World War, the company branded its light-duty trucks as the \"F-series\" from 1948. Initially, the Ford truck lineup was broken down into the F-1, F-2, and F-3, to represent the half-ton, three-quarter-ton, and one-ton units, respectively. Ford also made progressively heavier trucks right up until the F-8 designation. In '53, the naming for the light trucks was changed to the F-100, F-250, and F-350 for the half-ton, three-quarter-ton, and one-ton rigs, respectively. The F-150 name wouldn't arrive till 1975. Additionally, Ford transitioned the truck line from the legendary flathead engines to the Y-block overhead valve (OHV) V8s between 1953 and 1954, starting with the 239-cubic-inch V8, followed by a 272-cubic-inch V8 from 1956 onward. The trucks were then redesigned in 1957, 1961, 1967, and 1973 – during this time, the F-series lineup gradually began losing its curves and adopting a squarer, flatter design and fascia. As part of these changes, Ford bounced around between chassis redevelopments and styling updates, offered creature comforts, and introduced new engine choices. For one model year (1956), we also got a fully wrap-around windshield. In 1965, a new trim called the \"Ranger\" was also introduced, and the I-beam suspension was also introduced that year.",
+    "summary": "The Ford F-150 just got a mild refresh for 2027 , and the changes are quite minimal compared to the current model. This has not always been the case, since the Blue Oval company has not exactly shied away from experimentation with the F-150 in the past.",
+    "image_url": "https://www.jalopnik.com/img/gallery/these-are-10-of-the-most-notable-ford-f-150-changes/l-intro-1793299114.jpg",
+    "original_url": "https://www.jalopnik.com/2301459/notable-ford-f-150-changes-over-generations/",
+    "published_at": "2026-10-31T20:45:00+00:00",
+    "time_ago": "59m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "The Ford F-150 just got a mild refresh for 2027 , and the changes are quite minimal compared to the current model. This has not always been the case, since the Blue Oval company has not exactly shied away from experimentation with the F-150 in the past. Ford had been making trucks for a long time, but in the period after the Second World War, the company branded its light-duty trucks as the \"F-series\" from 1948. Initially, the Ford truck lineup was broken down into the F-1, F-2, and F-3, to represent the half-ton, three-quarter-ton, and one-ton units, respectively. Ford also made progressively heavier trucks right up until the F-8 designation. In '53, the naming for the light trucks was changed to the F-100, F-250, and F-350 for the half-ton, three-quarter-ton, and one-ton rigs, respectively. The F-150 name wouldn't arrive till 1975.",
+      "Additionally, Ford transitioned the truck line from the legendary flathead engines to the Y-block overhead valve (OHV) V8s between 1953 and 1954, starting with the 239-cubic-inch V8, followed by a 272-cubic-inch V8 from 1956 onward. The trucks were then redesigned in 1957, 1961, 1967, and 1973 – during this time, the F-series lineup gradually began losing its curves and adopting a squarer, flatter design and fascia. As part of these changes, Ford bounced around between chassis redevelopments and styling updates, offered creature comforts, and introduced new engine choices. For one model year (1956), we also got a fully wrap-around windshield. In 1965, a new trim called the \"Ranger\" was also introduced, and the I-beam suspension was also introduced that year.",
+      "In 1975, Ford came out with the F-150 (1976 model pictured above), which had a heavier gross vehicle weight rating (GVWR) than FoMoCo's other half-ton truck, the F-100. This let the F-150 skirt around emission loopholes, allowing the half-ton truck to be sold without catalytic converters, which the F-100 needed to have. You see, in 1975, the U.S. Environmental Protection Agency (EPA) used to classify vehicles with a GVWR of under 6,000 pounds as being \"light-duty\" trucks, and in 1975, light duty trucks had to use unleaded fuel and needed cats.",
+      "Ford opted to equip the then-new F-150 with beefier components, giving it a GVWR of 6,050 pounds, compared to the F-100's 5,700 maximum, pushing it past the 6,000-pound threshold by a hair. Additionally, it's worth noting that the original 1975 F-150 only came as a 2WD vehicle, though 4WD was added just a year later, in 1976. And yes, the F-100 doggedly remained on as a model all the way until the 1983 year, which meant that for the better part of a decade, Ford was offering two half-ton trucks.",
+      "In '83, the Ford Ranger was introduced (as its own model, not as a trim like it was earlier), and thus, the F-150 completely replaced the F-100 – by then, the F-150 had taken on most of that classic square body shape that we all know and love. The rest, as they say, is history, with the Ford F-150 eventually becoming the best-selling new vehicle in 20 states .",
+      "In 1980, the entire lineup got an overhaul. Fun fact: The Ford trucks from 1980 were called \"Bullnose\" models by some, because of the grille's taper. During the 1980 redesign of the lineup, FoMoCo completely reworked the chassis, making the new trucks lighter. One of the ways in which this was accomplished was by drilling holes into the chassis. However, this \"Swiss cheese frame\" would later revert to a solid chassis from 1982. Furthermore, the 1980 redesign gave the 4WD models twin traction beam suspension. Essentially, there were two traction beams running inward — one from each wheel (hence, \"twin\") — while each wheel had a coil for suspension.",
+      "The differential was mounted on the driver side traction beam, and not in the middle like on solid axle units. The 2WD models retained the twin I-beam suspensions in the front, and a solid axle at the rear. That twin I-beam setup had roots going all the way back to 1965, which is when the system was first introduced. For the 1980 redesign, the F-150s continued to use Ford's 9-inch rear axle, while the twin traction beam was from Dana. From 1980 to 1982, the 9-incher was standard, but the 8.8 began making its way into the F-150 from '83. To figure out which axle your truck has, look at the differential cover – 9-inch axles have no cover, whereas 8.8s have a 10-bolt one. It's a shame, because the Ford 9-Inch rear end really still is America's favorite axle .",
+      "Starting in 1985, Ford began offering electronic fuel injection — EFI, for short — on the F-150. Initially, EFI tech was offered on the 302-cubic-inch (or 5.0 liter) V8, which bumped power to about 225 horsepower on the high-output version of that engine. By around 1987, the F-150 ditched carbs across the lineup. For trucks made during the period, the F-150 received a few aesthetic changes, chief of which included rounding out of the wheel arches — which were formerly square-ish — and the headlights now sitting flush with the grille."
+    ],
+    "bullet_points": [
+      "The Ford F-150 just got a mild refresh for 2027 , and the changes are quite minimal compared to the current model.",
+      "This has not always been the case, since the Blue Oval company has not exactly shied away from experimentation with the F-150 in the past.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "These Are 10 Of The Most Notable Ford F-150 Changes",
+        "badge": "Breaking",
+        "text": "The Ford F-150 just got a mild refresh for 2027 , and the changes are quite minimal compared to the current model.",
+        "image": "https://www.jalopnik.com/img/gallery/these-are-10-of-the-most-notable-ford-f-150-changes/l-intro-1793299114.jpg",
+        "alt": "These Are 10 Of The Most Notable Ford F-150 Changes cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "This has not always been the case, since the Blue Oval company has not exactly shied away from experimentation with the F-150 in the past.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The Ford F-150 just got a mild refresh for 2027 , and the changes are quite minimal compared to the current model.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "This has not always been the case, since the Blue Oval company has not exactly shied away from experimentation with the F-150 in the past.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 47
+  },
+  {
+    "id": "art_1793483060_10",
+    "slug": "could-the-original-jaguar-e-type-really-do-150-mph",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Jalopnik",
+    "raw_title": "Could The Original Jaguar E-Type Really Do 150 MPH?",
+    "title": "Could The Original Jaguar E-Type Really Do 150 MPH?",
+    "raw_summary": "A top speed of 150 miles per hour is achievable by many reasonably powerful cars these days. If we consider EVs, it gets more absurd. Even the seven-seat Lucid Gravity SUV can do the 0 to 150 mph run three seconds quicker than a Corvette Z06 . However, in the 1960s, a 150 mph run meant something entirely different — think of the 1968 Dodge Charger R/T Hemi or the Shelby Cobra 427. Even among sports cars and exotics, the 1960 Ferrari 250 GT Coupé maxed out at 140 mph, while the Aston Martin DB4GT topped out at 153 mph, and the 1960s Porsche 911T reached 124 mph. At the top end of the market, the fastest cars, like the Lamborghini Miura or the Ferrari 365 GTB/4, could hit about 174 mph. The absolute top end belonged to the 1969 Dodge Charger Daytona, which lapped Talladega at over 200 mph in 1970, though the car that did it was a Chrysler development test car. The Jaguar E-Type, one of the most alluring cars from the 1960s, is cited as a 150 mph car from the factory, but is that really the case?",
+    "summary": "A top speed of 150 miles per hour is achievable by many reasonably powerful cars these days. If we consider EVs, it gets more absurd. Even the seven-seat Lucid Gravity SUV can do the 0 to 150 mph run three seconds quicker than a Corvette Z06 .",
+    "image_url": "https://www.jalopnik.com/img/gallery/could-the-original-jaguar-e-type-really-do-150-mph/l-intro-1793012561.jpg",
+    "original_url": "https://www.jalopnik.com/2296906/could-factory-original-jaguar-e-type-xk-e-reach-150-mph/",
+    "published_at": "2026-10-31T20:05:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "A top speed of 150 miles per hour is achievable by many reasonably powerful cars these days. If we consider EVs, it gets more absurd. Even the seven-seat Lucid Gravity SUV can do the 0 to 150 mph run three seconds quicker than a Corvette Z06 . However, in the 1960s, a 150 mph run meant something entirely different — think of the 1968 Dodge Charger R/T Hemi or the Shelby Cobra 427.",
+      "Even among sports cars and exotics, the 1960 Ferrari 250 GT Coupé maxed out at 140 mph, while the Aston Martin DB4GT topped out at 153 mph, and the 1960s Porsche 911T reached 124 mph. At the top end of the market, the fastest cars, like the Lamborghini Miura or the Ferrari 365 GTB/4, could hit about 174 mph. The absolute top end belonged to the 1969 Dodge Charger Daytona, which lapped Talladega at over 200 mph in 1970, though the car that did it was a Chrysler development test car. The Jaguar E-Type, one of the most alluring cars from the 1960s, is cited as a 150 mph car from the factory, but is that really the case?",
+      "According to Autocar , the 150 mph figure came from press cars, not showroom ones. The coupé Autocar tested (9600 HP) recorded 150 mph at Jabbeke, Belgium. Another publication, The Motor (which later became part of Autocar), drove a roadster (77 RW) and managed it in one direction only. Autocar's retrospective notes 9600 HP's gas-flowed head and states: \"Not that standard E-types would have reached 150.\" So the claim is real, but the story is complicated.",
+      "Autocar's 9600 HP recorded 150.4 mph and a 0 to 60 mph time of 6.9 seconds, while The Motor's roadster (77 RW) managed 149 mph and 7.1 seconds. Both ran on Dunlop R5 racing tires and, most importantly, Autocar 's own history says 9600 HP was \"most likely specially prepared for those tests.\"",
+      "So, what does \"specially prepared\" mean in this case? Well, 9600 HP's XK150S engine had a gas-flowed head, adding about 20 to 25 bhp. In 1994, Motor Sport Magazine 's Bill Boddy, who had also tested the car, reported a claim that 9600 HP had a \"D-type racing cylinder head, valve gear and breathers.\"",
+      "Later cars followed a similar pattern. As recounted by AROnline , The Motor's 4.2-liter E-Type coupé (ARW 732B) reached only 148 mph in its 1964 test. Jaguar then took the car back, and the published figure became 150 mph. On that same car, 5,000 rpm equaled 130 mph, so 150 mph would have needed close to 6,000 rpm. In May 1965, Autocar took another coupé (AWK 349B) to 153 mph on Dunlop R6 racing tires.",
+      "So what could a normal car do? Maurice Smith, one of the Autocar testers of 9600 HP, later owned a 3.8 roadster and put its best speed at 137 mph. Motor Sport writer Denis Jenkinson's 4.2 coupé reached 143 mph on an Italian autostrada, though with a lower-compression engine. In 2015, a driver took a restored production coupé (chassis 860001) to 146.49 mph on a German autobahn. In the real world, a standard E-Type would top out at around 137 to 146 mph.",
+      "Nowadays, Jaguar is busy with cars like the 2028 Jaguar Type 01 , a fully electric four-door GT with up to 1,015 horsepower and a clear goal of being noticed. Back in the 1960s, things were a little different. The E-Type was introduced at the Geneva Motor Show in 1961, and the moment it came out, it captivated the industry. Rumor has it that Enzo Ferrari himself called it the most beautiful car ever made."
+    ],
+    "bullet_points": [
+      "A top speed of 150 miles per hour is achievable by many reasonably powerful cars these days.",
+      "If we consider EVs, it gets more absurd.",
+      "Even the seven-seat Lucid Gravity SUV can do the 0 to 150 mph run three seconds quicker than a Corvette Z06 ."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Could The Original Jaguar E-Type Really Do 150 MPH?",
+        "badge": "Breaking",
+        "text": "A top speed of 150 miles per hour is achievable by many reasonably powerful cars these days.",
+        "image": "https://www.jalopnik.com/img/gallery/could-the-original-jaguar-e-type-really-do-150-mph/l-intro-1793012561.jpg",
+        "alt": "Could The Original Jaguar E-Type Really Do 150 MPH? cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "If we consider EVs, it gets more absurd.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Even the seven-seat Lucid Gravity SUV can do the 0 to 150 mph run three seconds quicker than a Corvette Z06 .",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "If we consider EVs, it gets more absurd.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 47
+  },
+  {
+    "id": "art_1793483060_4",
+    "slug": "why-you-might-need-to-use-neutral-on-an-automatic-transmission",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Carscoops",
+    "raw_title": "Why You Might Need To Use Neutral On An Automatic Transmission",
+    "title": "Why You Might Need To Use Neutral On An Automatic Transmission",
+    "raw_summary": "Automatic transmissions may not be the enthusiast choice , but they are good at removing some of the stress and confusion from driving. There's no tricky clutch to balance, and no mystery over which gear you should select for that upcoming curve. Sure, some have manual modes with paddles and a Sport setting. But their use is optional. Most drivers likely just drop the shifter into drive, and away they go. There is though, one feature on automatic transmissions that might cause confusion, even now, more than 70 years after clutch pedals began to disappear from American cars. Why do automatic shifters have a neutral position, and when would you ever need to use it? Conventional automatics are built from sets of planetary gears, and use a fluid coupling called a torque converter to multiply engine torque and transfer it to the wheels.",
+    "summary": "Automatic transmissions may not be the enthusiast choice , but they are good at removing some of the stress and confusion from driving. There's no tricky clutch to balance, and no mystery over which gear you should select for that upcoming curve. Sure, some have manual modes with paddles and a Sport setting.",
+    "image_url": "https://www.carscoops.com/img/gallery/why-you-might-need-to-use-neutral-on-an-automatic-transmission/l-intro-1793113963.jpg",
+    "original_url": "https://www.carscoops.com/2298319/why-neutral-automatic-transmission/",
+    "published_at": "2026-10-31T20:00:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Automatic transmissions may not be the enthusiast choice , but they are good at removing some of the stress and confusion from driving. There's no tricky clutch to balance, and no mystery over which gear you should select for that upcoming curve. Sure, some have manual modes with paddles and a Sport setting. But their use is optional. Most drivers likely just drop the shifter into drive, and away they go.",
+      "There is though, one feature on automatic transmissions that might cause confusion, even now, more than 70 years after clutch pedals began to disappear from American cars. Why do automatic shifters have a neutral position, and when would you ever need to use it? Conventional automatics are built from sets of planetary gears, and use a fluid coupling called a torque converter to multiply engine torque and transfer it to the wheels.",
+      "Dual-clutch automatics are more like traditional manual transmissions, but with two electronically-controlled clutches, one for odd gears, and another for evens. A continuously variable transmission (CVT) — which is not as bad as everyone thinks — relies on a belt running between two cone-shaped pulleys to create an almost infinite number of gear ratios. You can't stall any of them in normal driving when the powertrain is working correctly, but shifting to neutral has the same effect it would in a manual car. It fully disconnects the engine torque from the driven wheels.",
+      "That ability to separate the engine from the wheels can be useful if you need to move an automatic car around a workshop when the engine won't fire up. Or if you need to tow it out of a ditch. But you should never tow a traditional automatic car too far with the engine off and the drive wheels on the ground. The transmission relies on a flow of fluid to protect its components from wear, and if the engine isn't running, the transmission pump isn't either.",
+      "You might also find yourself grateful for that neutral position if your throttle jams wide open , a thankfully rare occurrence. Shifting to N means you could regain some control because the brakes aren't battling against the powertrain's determination to rendezvous with the horizon. Switching the engine off is an option too, but then you could lose the brake booster and steering assistance, which sounds even worse.",
+      "What about shifting to neutral when idling? Engineers say there's no point. It saves almost no fuel and the additional shifts between drive and neutral can add unnecessary wear. Same applies when you're going downhill. You'll save little gas, and have less control over the car. Another Neutral no-no is when parking. Experts say you should always use park, instead of slotting neutral and relying on the parking brake. Park engages a pawl that locks the transmission's output shaft, and provides an extra layer of protection against rollaway accidents. All of which means neutral is somewhere most of us will only spend time on our way from drive to reverse and back again."
+    ],
+    "bullet_points": [
+      "Automatic transmissions may not be the enthusiast choice , but they are good at removing some of the stress and confusion from driving.",
+      "There's no tricky clutch to balance, and no mystery over which gear you should select for that upcoming curve.",
+      "Sure, some have manual modes with paddles and a Sport setting."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Why You Might Need To Use Neutral On An Automatic Transmission",
+        "badge": "Breaking",
+        "text": "Automatic transmissions may not be the enthusiast choice , but they are good at removing some of the stress and confusion from driving.",
+        "image": "https://www.carscoops.com/img/gallery/why-you-might-need-to-use-neutral-on-an-automatic-transmission/l-intro-1793113963.jpg",
+        "alt": "Why You Might Need To Use Neutral On An Automatic Transmission cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "There's no tricky clutch to balance, and no mystery over which gear you should select for that upcoming curve.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Sure, some have manual modes with paddles and a Sport setting.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "There's no tricky clutch to balance, and no mystery over which gear you should select for that upcoming curve.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Carscoops.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 53
+  },
+  {
+    "id": "art_1793483060_7",
+    "slug": "what-happened-in-f1-mexican-gp-final-practice",
+    "category": "sports",
+    "category_name": "Motorsport & F1 Tech",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🏁",
+    "source": "The Race",
+    "raw_title": "What happened in F1 Mexican GP final practice",
+    "title": "What happened in F1 Mexican GP final practice",
+    "raw_summary": "Lando Norris and Kimi Antonelli were near-inseparable in final practice for Formula 1's Mexican Grand Prix as Ferrari's pace faltered ahead of qualifying. Friday pacesetter Charles Leclerc ultimately ended up third for Ferrari, but only at the end of the session following aborted attempts at his qualifying simulation on soft tyres.",
+    "summary": "Lando Norris and Kimi Antonelli were near-inseparable in final practice for Formula 1's Mexican Grand Prix as Ferrari's pace faltered ahead of qualifying. Friday pacesetter Charles Leclerc ultimately ended up third for Ferrari, but only at the end of the session following aborted attempts at his qualifying simulation on soft tyres.",
+    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449453_HiRes.jpg",
+    "original_url": "https://www.the-race.com/formula-1/f1-mexican-gp-final-practice-what-happened/",
+    "published_at": "2026-10-31T18:53:23+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Lando Norris and Kimi Antonelli were near-inseparable in final practice for Formula 1's Mexican Grand Prix as Ferrari's pace faltered ahead of qualifying.",
+      "Friday pacesetter Charles Leclerc ultimately ended up third for Ferrari, but only at the end of the session following aborted attempts at his qualifying simulation on soft tyres.",
+      "He and team-mate Lewis Hamilton - whose session played out in a similar way - had traded fastest times at the beginning of FP3 as the top teams all chose to start the session on medium tyres.",
+      "Mercedes was among the first of the frontrunners to switch to softs and while George Russell pondered whether a double-prep lap was necessary, telling the team to consider telling Antonelli to push after a single warm-up lap, Antonelli did complete two prep laps and duly went fastest with a 1m17.601s.",
+      "That looked as though it would stand as the session's best time until Norris improved with two minutes left of the hour-long session, going one thousandth quicker for McLaren.",
+      "Leclerc was 0.117s back in third, suggesting the Ferrari will remain a contender for pole in qualifying, while Oscar Piastri ended the session within two tenths of his pacesetting McLaren team-mate in fourth.",
+      "Max Verstappen complained of brake issues late on and was three and a half tenths down in fifth ahead of Hamilton, with less than seven hundredths covering the Ferrari in sixth and Arvid Lindblad at the back of the top 10, as Racing Bulls again had both drivers inside the theoretical Q3 cutoff.",
+      "Lindblad and ninth-fastest Lawson were well clear of their midfield rivals, with Nico Hulkenberg four tenths further back for Audi ahead of Alpine duo Franco Colapinto and Pierre Gasly and Fernando Alonso's Aston Martin."
+    ],
+    "bullet_points": [
+      "Lando Norris and Kimi Antonelli were near-inseparable in final practice for Formula 1's Mexican Grand Prix as Ferrari's pace faltered ahead of qualifying.",
+      "Friday pacesetter Charles Leclerc ultimately ended up third for Ferrari, but only at the end of the session following aborted attempts at his qualifying simulation on soft tyres.",
+      "Official reporting verified via The Race news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "What happened in F1 Mexican GP final practice",
+        "badge": "Breaking",
+        "text": "Lando Norris and Kimi Antonelli were near-inseparable in final practice for Formula 1's Mexican Grand Prix as Ferrari's pace faltered ahead of qualifying.",
+        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449453_HiRes.jpg",
+        "alt": "What happened in F1 Mexican GP final practice cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Friday pacesetter Charles Leclerc ultimately ended up third for Ferrari, but only at the end of the session following aborted attempts at his qualifying simulation on soft tyres.",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Lando Norris and Kimi Antonelli were near-inseparable in final practice for Formula 1's Mexican Grand Prix as Ferrari's pace faltered ahead of qualifying.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Motorsport & F1 Tech",
+        "text": "Friday pacesetter Charles Leclerc ultimately ended up third for Ferrari, but only at the end of the session following aborted attempts at his qualifying simulation on soft tyres.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from The Race.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 51
+  },
+  {
+    "id": "art_1793483060_1",
+    "slug": "record-demand-catches-some-oems-with-their-pants-down-europe-sept",
+    "category": "world",
+    "category_name": "EVs & Clean Mobility",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "CleanTechnica",
+    "raw_title": "Record Demand Catches (Some) OEMs with Their Pants Down — Europe September 2026",
+    "title": "Record Demand Catches (Some) OEMs with Their Pants Down — Europe September 2026",
+    "raw_summary": "BEVs remain in high demand in Europe, with pure electrics reaching a record 31% share last month thanks to a record 422,000 fully electric passenger cars being registered in Europe, which is not only a 63%(!) increase year over year (YoY), but is also the fastest growth rate in over three years! Overall, plugin vehicles were up 49% YoY, dragged down by plugin hybrids, which grew only 23%, to 167,000 units, which was also a new record high for plugin hybrids in Europe, thus placing September’s total plugin volume at a best ever 590,000 units and its share at 43% (31% for BEVs only).",
+    "summary": "BEVs remain in high demand in Europe, with pure electrics reaching a record 31% share last month thanks to a record 422,000 fully electric passenger cars being registered in Europe, which is not only a 63%(!) increase year over year (YoY), but is also the fastest growth rate in over three years!",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/10/2026-09-Europe-EV-Sales-Report-September.png",
+    "original_url": "https://cleantechnica.com/2026/10/31/record-demand-catches-some-oems-with-their-pants-down-europe-september-2026/",
+    "published_at": "2026-10-31T18:43:17+00:00",
+    "time_ago": "3h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "BEVs remain in high demand in Europe, with pure electrics reaching a record 31% share last month thanks to a record 422,000 fully electric passenger cars being registered in Europe, which is not only a 63%(!) increase year over year (YoY), but is also the fastest growth rate in over three years!",
+      "Overall, plugin vehicles were up 49% YoY, dragged down by plugin hybrids, which grew only 23%, to 167,000 units, which was also a new record high for plugin hybrids in Europe, thus placing September’s total plugin volume at a best ever 590,000 units and its share at 43% (31% for BEVs only).",
+      "With BEVs pulling the market upwards, the year-to-date share for BEVs is now at 25% (36% for PHEVs and BEVs combined) , which is already higher than the 2025 final result (20% BEV share, 29% adding PHEVs). This is an encouraging sign if we want to be close to 100% PEV share by the mid-2030s.",
+      "Looking at other powertrains, while petrol (18% share in September, down 21% YoY) and diesel (4%, down 28% YoY) continue their downward trend into irrelevance, the main news is the fact that we could have already passed the point of peak HEV — in September, plugless hybrids still grew, albeit less (+5% YoY) than the overall market (+10%, to 1.4 million units).",
+      "More important than that, if we compare the 34% share earned by HEVs in September 2026 with the share they had 12 months ago (36% then), we might be witnessing the beginning of plugless hybrids’ downward slope. So … if 2026 is the year of peak HEVs , how far are we from peak PHEVs ?",
+      "Looking at the best sellers in several size categories , the EV push is starting to get visible. While we are far from the EV domination we see in China, things are indeed evolving in Europe.",
+      "Before, the only EVs that we saw on the overall podiums were Teslas. Now, besides those two usual suspects , the 3rd placed model in the midsize category, the Mercedes GLC, is also heavily electrified, with 59% of all its sales coming from either its new BEV model (representing 44% of its total sales) or the PHEV versions (15% of sales), leaving the ICE versions representing just 41% of total sales.",
+      "The A-segment has the Renault Twingo as the 2nd placed model. Like in China before, expect this category to be quickly electrified. Firstly, the ICE competition is shrinking. Secondly, not only do we have the Renault Twingo already on the podium, but the new Dacia Spring is set to become a success, so expect it to join the Renault sibling on the podium. As a third musketeer, the VW ID.Up is set to land sometime next year, which is another strong bet from the German brand — and nothing shorter than a podium position would do."
+    ],
+    "bullet_points": [
+      "BEVs remain in high demand in Europe, with pure electrics reaching a record 31% share last month thanks to a record 422,000 fully electric passenger cars being registered in Europe, which is not only a 63%(!) increase year over year (YoY), but is also the fastest growth rate in over three years!",
+      "Details monitored as developments unfold.",
+      "Verified coverage from CleanTechnica."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Record Demand Catches (Some) OEMs with Their Pants Down — Europe September 2026",
+        "badge": "Breaking",
+        "text": "BEVs remain in high demand in Europe, with pure electrics reaching a record 31% share last month thanks to a record 422,000 fully electric passenger cars being registered in Europe, which is not only a 63%(!) increase year over year (YoY), but is also the fastest growth rate in over three years!",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/10/2026-09-Europe-EV-Sales-Report-September.png",
+        "alt": "Record Demand Catches (Some) OEMs with Their Pants Down — Europe September 2026 cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "BEVs remain in high demand in Europe, with pure electrics reaching a record 31% share last month thanks to a record 422,000 fully electric passenger cars being registered in Europe, which is not only a 63%(!) increase year over year (YoY), but is also the fastest growth rate in over three years!",
+        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "BEVs remain in high demand in Europe, with pure electrics reaching a record 31% share last month thanks to a record 422,000 fully electric passenger cars being registered in Europe, which is not only a 63%(!) increase year over year (YoY), but is also the fastest growth rate in over three years!",
+        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "EVs & Clean Mobility",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 52
+  },
+  {
+    "id": "art_1793483060_2",
+    "slug": "elon-musks-attack-ads-are-backfiring-as-midterms-near",
+    "category": "world",
+    "category_name": "EVs & Clean Mobility",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "CleanTechnica",
+    "raw_title": "Elon Musk’s Attack Ads Are Backfiring As Midterms Near",
+    "title": "Elon Musk’s Attack Ads Are Backfiring As Midterms Near",
+    "raw_summary": "US Federal Election Commission data revealed this week that Elon Musk has donated at least $445 million into Republican-aligned political action committees and groups since last year. Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried. If Democrats win big on Tuesday in midterm elections, Musk insists US democracy will come to an “end.”",
+    "summary": "US Federal Election Commission data revealed this week that Elon Musk has donated at least $445 million into Republican-aligned political action committees and groups since last year. Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried. If Democrats win big on Tuesday in midterm elections, Musk insists US democracy will come to an “end.”",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/10/Trump-and-Musk-sign.jpg",
+    "original_url": "https://cleantechnica.com/2026/10/31/elon-musks-attack-ads-are-backfiring-as-midterms-near/",
+    "published_at": "2026-10-31T17:54:23+00:00",
+    "time_ago": "3h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "US Federal Election Commission data revealed this week that Elon Musk has donated at least $445 million into Republican-aligned political action committees and groups since last year. Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried.",
+      "If Democrats win big on Tuesday in midterm elections, Musk insists US democracy will come to an “end.”",
+      "“This would result in America becoming a permanent one-party state and the end of democracy in any meaningful sense of the word,” Musk wrote Friday on X. “All that is needed to ensure this doesn’t happen is 51 Republican senators in 2029.”",
+      "The Tesla and SpaceX CEO has a long track record of engaging in political quid pro quo. His companies receive billions in federal contracts. The once climate-is-all advocate now weighs heavily on the side of oil/fossil fuels. His DOGE actions may have forced labor shortages in regulatory agencies that were scrutinizing his businesses.",
+      "But now Musk seems distraught that newfound Democratic Congressional power could make him a target of investigations after the midterms.",
+      "And his fears may have merit. Musk’s blatant attempts to influence election results are getting a lot of recent analysis and condemnation.",
+      "“I worry about what Musk’s impulsive bullying is doing and has done to others more vulnerable than I am,” former Secretary of Labor Robert Reich wrote earlier this month after Musk exclaimed, “Prison for Reich.” Such extreme comments are part of Musk lifelong pattern, Reich continued, in which “he’s threatened and racially denigrated and pushed around (people) his whole life.”",
+      "Reich added that he is worried for that voters whom Musk has been “deluging with TV ads for Republican candidates” as well as for “federal workers who have been hurt by his so-called Department of Government Efficiency, Americans who have been harmed by his wanton destruction of public services, and people around the globe who are worse off because of cuts to USAID pushed by Elon’s DOGE.”"
+    ],
+    "bullet_points": [
+      "US Federal Election Commission data revealed this week that Elon Musk has donated at least $445 million into Republican-aligned political action committees and groups since last year.",
+      "Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried.",
+      "If Democrats win big on Tuesday in midterm elections, Musk insists US democracy will come to an “end.”"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Elon Musk’s Attack Ads Are Backfiring As Midterms Near",
+        "badge": "Breaking",
+        "text": "US Federal Election Commission data revealed this week that Elon Musk has donated at least $445 million into Republican-aligned political action committees and groups since last year.",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/10/Trump-and-Musk-sign.jpg",
+        "alt": "Elon Musk’s Attack Ads Are Backfiring As Midterms Near cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried.",
+        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "If Democrats win big on Tuesday in midterm elections, Musk insists US democracy will come to an “end.”",
+        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "EVs & Clean Mobility",
+        "text": "Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 58
+  },
+  {
     "id": "art_1793469413_2",
     "slug": "the-karma-eximius-1-is-a-one-off-hybrid-packing-a-62-liter-v-8",
     "category": "tech",
@@ -141,6 +762,75 @@
     ],
     "ai_generated": false,
     "word_count": 31
+  },
+  {
+    "id": "art_1793483060_3",
+    "slug": "upward-mobility-1997-30k-luxury-sedans-compared",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Car and Driver",
+    "raw_title": "Upward Mobility: 1997 $30K Luxury Sedans Compared",
+    "title": "Upward Mobility: 1997 $30K Luxury Sedans Compared",
+    "raw_summary": "Nine ways—Acura 3.2TL, Cadillac Catera, Ford Taurus SHO, Infiniti I30, Lexus ES300, Mazda Millenia, Mitsubishi Diamante, Saab 900SE, Volvo 850GLT—to express yourself on the way to the top.",
+    "summary": "Nine ways—Acura 3.2TL, Cadillac Catera, Ford Taurus SHO, Infiniti I30, Lexus ES300, Mazda Millenia, Mitsubishi Diamante, Saab 900SE, Volvo 850GLT—to express yourself on the way to the top.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/2fc59465-5e12-4ad6-aabd-59f28cdae752.jpg",
+    "original_url": "https://www.caranddriver.com/reviews/a74207759/1997-30k-luxury-sedans-archive-comparison-test/",
+    "published_at": "2026-10-31T17:25:59+00:00",
+    "time_ago": "4h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [],
+    "bullet_points": [
+      "Nine ways—Acura 3.2TL, Cadillac Catera, Ford Taurus SHO, Infiniti I30, Lexus ES300, Mazda Millenia, Mitsubishi Diamante, Saab 900SE, Volvo 850GLT—to express yourself on the way to the top.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from Car and Driver."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Upward Mobility: 1997 $30K Luxury Sedans Compared",
+        "badge": "Breaking",
+        "text": "Nine ways—Acura 3.2TL, Cadillac Catera, Ford Taurus SHO, Infiniti I30, Lexus ES300, Mazda Millenia, Mitsubishi Diamante, Saab 900SE, Volvo 850GLT—to express yourself on the way to the top.",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2fc59465-5e12-4ad6-aabd-59f28cdae752.jpg",
+        "alt": "Upward Mobility: 1997 $30K Luxury Sedans Compared cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Nine ways—Acura 3.2TL, Cadillac Catera, Ford Taurus SHO, Infiniti I30, Lexus ES300, Mazda Millenia, Mitsubishi Diamante, Saab 900SE, Volvo 850GLT—to express yourself on the way to the top.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Nine ways—Acura 3.2TL, Cadillac Catera, Ford Taurus SHO, Infiniti I30, Lexus ES300, Mazda Millenia, Mitsubishi Diamante, Saab 900SE, Volvo 850GLT—to express yourself on the way to the top.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Car and Driver.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 28
   },
   {
     "id": "art_1793469413_5",
@@ -1930,6 +2620,84 @@
     ],
     "ai_generated": false,
     "word_count": 75
+  },
+  {
+    "id": "art_1793483060_8",
+    "slug": "martin-out-of-sepang-motogp-weekend-alex-marquez-on-pole",
+    "category": "sports",
+    "category_name": "Motorsport & F1 Tech",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🏁",
+    "source": "The Race",
+    "raw_title": "Martin out of Sepang MotoGP weekend, Alex Marquez on pole",
+    "title": "Martin out of Sepang MotoGP weekend, Alex Marquez on pole",
+    "raw_summary": "Alex Marquez took pole position for MotoGP's Malaysian Grand Prix and the sprint, as title hopeful Jorge Martin withdrew from the Sepang weekend. Martin, who fractured his wrist a week ago at Phillip Island, did three runs totalling eight laps in the 30-minute practice session before qualifying, and had to concede defeat in terms of continuing with the weekend.",
+    "summary": "Alex Marquez took pole position for MotoGP's Malaysian Grand Prix and the sprint, as title hopeful Jorge Martin withdrew from the Sepang weekend. Martin, who fractured his wrist a week ago at Phillip Island, did three runs totalling eight laps in the 30-minute practice session before qualifying, and had to concede defeat in terms of continuing with the weekend.",
+    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358567_HiRes.jpg",
+    "original_url": "https://www.the-race.com/motogp/martin-out-of-sepang-motogp-weekend-alex-marquez-on-pole/",
+    "published_at": "2026-10-31T03:41:49+00:00",
+    "time_ago": "18h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Alex Marquez took pole position for MotoGP's Malaysian Grand Prix and the sprint, as title hopeful Jorge Martin withdrew from the Sepang weekend.",
+      "Martin, who fractured his wrist a week ago at Phillip Island, did three runs totalling eight laps in the 30-minute practice session before qualifying, and had to concede defeat in terms of continuing with the weekend.",
+      "\"His feeling was better, to be honest, compared with yesterday, but he was not able to force in the braking,\" Aprilia team manager Paolo Bonora told MotoGP.com.",
+      "\"The plan is to come back to Spain as soon as possible and to push on the recovery and to do his best to recover the situation. Coming back to Spain immediately, and then we check all together, during all the days, the situation, how it is improving, and we focus to have him in Qatar.\"",
+      "With Martin now consigned to a non-score at Sepang, points leader Marc Marquez was close to maximising his qualifying, ultimately just 0.070s short of beating his brother.",
+      "Alex Marquez had been the leader after the initial Q2 runs already, but was shuffled down to fifth by the end of the session - only to respond with a 1m56.493s that snatched pole from Marc.",
+      "Pedro Acosta on the KTM will join the pair on the front row, having followed the elder Marquez very closely on both Q2 runs.",
+      "Aprilia pair Ai Ogura and Marco Bezzecchi completed a top five covered by just 0.175s, with Fabio Di Giannantonio in sixth another 0.174s back from Bezzecchi."
+    ],
+    "bullet_points": [
+      "Alex Marquez took pole position for MotoGP's Malaysian Grand Prix and the sprint, as title hopeful Jorge Martin withdrew from the Sepang weekend.",
+      "Martin, who fractured his wrist a week ago at Phillip Island, did three runs totalling eight laps in the 30-minute practice session before qualifying, and had to concede defeat in terms of continuing with the weekend.",
+      "Official reporting verified via The Race news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Martin out of Sepang MotoGP weekend, Alex Marquez on pole",
+        "badge": "Breaking",
+        "text": "Alex Marquez took pole position for MotoGP's Malaysian Grand Prix and the sprint, as title hopeful Jorge Martin withdrew from the Sepang weekend.",
+        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358567_HiRes.jpg",
+        "alt": "Martin out of Sepang MotoGP weekend, Alex Marquez on pole cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Martin, who fractured his wrist a week ago at Phillip Island, did three runs totalling eight laps in the 30-minute practice session before qualifying, and had to concede defeat in terms of continuing with the weekend.",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Alex Marquez took pole position for MotoGP's Malaysian Grand Prix and the sprint, as title hopeful Jorge Martin withdrew from the Sepang weekend.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Motorsport & F1 Tech",
+        "text": "Martin, who fractured his wrist a week ago at Phillip Island, did three runs totalling eight laps in the 30-minute practice session before qualifying, and had to concede defeat in terms of continuing with the weekend.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from The Race.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 59
   },
   {
     "id": "art_1793435734_1",
@@ -10670,770 +11438,5 @@
     ],
     "ai_generated": false,
     "word_count": 11
-  },
-  {
-    "id": "art_1793326255_12",
-    "slug": "view-interior-photos-of-the-2026-audi-a6-quattro",
-    "category": "entertainment",
-    "category_name": "Car Culture & Restomods",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-    "category_icon": "🎬",
-    "source": "Car and Driver",
-    "raw_title": "View Interior Photos of the 2026 Audi A6 Quattro",
-    "title": "View Interior Photos of the 2026 Audi A6 Quattro",
-    "raw_summary": "See the interior of the 2026 Audi A6 from every angle.",
-    "summary": "See the interior of the 2026 Audi A6 from every angle.",
-    "image_url": "https://hips.hearstapps.com/hmg-prod/images/9a3402fa-0cb3-4fd1-884b-c7c39e04fd71.jpg?crop=0.984xw:0.738xh;0,0.200xh&resize=1200:*",
-    "original_url": "https://www.caranddriver.com/photos/g73355030/2026-audi-a6-quattro-test-interior-gallery/",
-    "published_at": "2026-10-29T16:43:24+00:00",
-    "time_ago": "9h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [],
-    "bullet_points": [
-      "See the interior of the 2026 Audi A6 from every angle.",
-      "Details monitored as developments unfold.",
-      "Verified coverage from Car and Driver."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "View Interior Photos of the 2026 Audi A6 Quattro",
-        "badge": "Breaking",
-        "text": "See the interior of the 2026 Audi A6 from every angle.",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/9a3402fa-0cb3-4fd1-884b-c7c39e04fd71.jpg?crop=0.984xw:0.738xh;0,0.200xh&resize=1200:*",
-        "alt": "View Interior Photos of the 2026 Audi A6 Quattro cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "See the interior of the 2026 Audi A6 from every angle.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "See the interior of the 2026 Audi A6 from every angle.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Car Culture & Restomods",
-        "text": "Public updates continue.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Car and Driver.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 11
-  },
-  {
-    "id": "art_1793290748_1",
-    "slug": "ex-tesla-autopilot-head-calls-vision-only-a-weird-religious-stanc",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
-    "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
-    "raw_summary": "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious stance that ignores physics.” It’s the bluntest rebuke of Tesla’s vision-only bet yet from someone who helped build the original Autopilot. And it lands while Tesla is pushing camera-only Cybercabs into driverless service in Austin.",
-    "summary": "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious stance that ignores physics.” It’s the bluntest rebuke of Tesla’s vision-only bet yet from someone who helped build the original Autopilot.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Night-Street_-Camera-vs-Lidar.png?w=1600",
-    "original_url": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
-    "published_at": "2026-10-29T16:10:00+00:00",
-    "time_ago": "9m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious stance that ignores physics.”",
-      "It’s the bluntest rebuke of Tesla’s vision-only bet yet from someone who helped build the original Autopilot. And it lands while Tesla is pushing camera-only Cybercabs into driverless service in Austin.",
-      "Anderson made the comments in an interview with The Verge published October 27, after GM’s technology event in New York the week before. Asked whether GM could eventually move to a vision-only approach like Tesla’s, he didn’t leave much room for interpretation.",
-      "“If you scale back to vision-only, physics suggests you’ll be in trouble in certain situations,” Anderson said. He added that radar is so cheap that removing it makes no sense, and that “cameras can’t see through dense fog or measure instantaneous velocity like radar can.”",
-      "He also said lidar helps camera systems improve faster when the two are trained together. That’s a direct counter to Tesla’s argument that cameras plus fleet data are all you need.",
-      "Anderson isn’t a lidar startup CEO talking his book. He led the Model X program at Tesla, then directed Autopilot during its formative years before co-founding self-driving company Aurora. GM hired him as chief product officer in 2025, and Bloomberg reported last year that Mary Barra sees him as a frontrunner to become GM’s next CEO .",
-      "His roadmap at GM goes the other way from Tesla’s. The Cadillac Escalade IQ is due to debut GM’s “eyes-off” system in 2028 , with lidar, radar, and cameras.",
-      "He took a shot at another Tesla habit in the same interview. Anderson said he avoids “eyes off” marketing language altogether, arguing that a driver-assist system that feels very capable already pushes drivers into complacency. That’s the core problem with selling “Full Self-Driving (Supervised).”"
-    ],
-    "bullet_points": [
-      "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious stance that ignores physics.” It’s the bluntest rebuke of Tesla’s vision-only bet yet from someone who helped build the original Autopilot.",
-      "Details monitored as developments unfold.",
-      "Verified coverage from Electrek."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
-        "badge": "Breaking",
-        "text": "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious stance that ignores physics.” It’s the bluntest rebuke of Tesla’s vision-only bet yet from someone who helped build the original Autopilot.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Night-Street_-Camera-vs-Lidar.png?w=1600",
-        "alt": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’ cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious stance that ignores physics.” It’s the bluntest rebuke of Tesla’s vision-only bet yet from someone who helped build the original Autopilot.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious stance that ignores physics.” It’s the bluntest rebuke of Tesla’s vision-only bet yet from someone who helped build the original Autopilot.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "Public updates continue.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 48
-  },
-  {
-    "id": "art_1793290748_12",
-    "slug": "why-ricciardo-would-consider-a-comeback-at-le-mans",
-    "category": "sports",
-    "category_name": "Motorsport & F1 Tech",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🏁",
-    "source": "Autosport",
-    "raw_title": "Why Ricciardo would consider a comeback at Le Mans",
-    "title": "Why Ricciardo would consider a comeback at Le Mans",
-    "raw_summary": "Last month marked two years since Daniel Ricciardo ’s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 – but is his career over? Ricciardo admits it likely is, having come to terms with the way his F1 stint ended – “I’m not 100% there, but I’m 90%,” he said of his quest of closure – but he might still be interested in further opportunities, as long as they don’t require a season-long commitment.",
-    "summary": "Last month marked two years since Daniel Ricciardo ’s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 – but is his career over?",
-    "image_url": "https://cdn-5.motorsport.com/images/amp/Y99DKwAY/s6/daniel-ricciardo-visa-cash-app-2.jpg",
-    "original_url": "https://www.autosport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-    "published_at": "2026-10-29T16:00:04+00:00",
-    "time_ago": "19m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Last month marked two years since Daniel Ricciardo ’s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 – but is his career over?",
-      "Ricciardo admits it likely is, having come to terms with the way his F1 stint ended – “I’m not 100% there, but I’m 90%,” he said of his quest of closure – but he might still be interested in further opportunities, as long as they don’t require a season-long commitment.",
-      "“A year ago, I would have said, ‘I will never put a helmet on again, I’m done, that’s it’,” Ricciardo told the Beyond The Grid podcast. “But there is something there where I’m like, it would be nice to finish a racing career a bit more on my terms; to do something that, when I take the helmet off, I’m smiling and happy. Maybe that’s the last bit of closure I need.",
-      "“The thought of doing a full championship still doesn’t really sound that exciting. Probably a one-off, like a one-off Le Mans.",
-      "“F1 is so selfish – in a necessary way. Yes, you have team-mates, but that’s your first opponent and all that. I think to share a car with other drivers and to actually have real team-mates to share data and help out, I think it would be – especially now, at this point where that insane fire and whatever ruthlessness, that has faded to a degree. I think I’ll just enjoy it. It would be the form of driving and kind of companionship that I would really enjoy, and I think it would make me smile and feel good about the art of competition again.”",
-      "Ricciardo explained he never enjoyed driving all that much and mostly revelled in competition, though his last few years in F1 dampened his enthusiasm. Le Mans could be a new way to find fulfillment, but the Australian – who hasn’t been training the way he used to – is cautious about that prospect.",
-      "“Do I need to open the box again? I don’t know,” Ricciardo pondered. “That’s why I haven’t rushed into making a decision on anything, because, again, I want to make sure I’m not doing it for ego or for some fairy-tale ending. It has to be because it’s right inside me and I really want to do it, and it’s not to please others.",
-      "“I’m not going to lie, there’s a part of me which would love to do it for all the people that cared and supported and loved me over the years and also hated the way it ended. So, yes, there is certainly a part of me which feels for the fans, but it has obviously to be for me and my reasons first and foremost."
-    ],
-    "bullet_points": [
-      "Last month marked two years since Daniel Ricciardo ’s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 – but is his career over?",
-      "Details monitored as developments unfold.",
-      "Verified coverage from Autosport."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Why Ricciardo would consider a comeback at Le Mans",
-        "badge": "Breaking",
-        "text": "Last month marked two years since Daniel Ricciardo ’s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 – but is his career over?",
-        "image": "https://cdn-5.motorsport.com/images/amp/Y99DKwAY/s6/daniel-ricciardo-visa-cash-app-2.jpg",
-        "alt": "Why Ricciardo would consider a comeback at Le Mans cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Last month marked two years since Daniel Ricciardo ’s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 – but is his career over?",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Last month marked two years since Daniel Ricciardo ’s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 – but is his career over?",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Motorsport & F1 Tech",
-        "text": "Public updates continue.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Autosport.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 34
-  },
-  {
-    "id": "art_1793290748_3",
-    "slug": "want-a-real-video-game-car-ebay-motors-is-auctioning-four-of-them",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Car and Driver",
-    "raw_title": "Want a Real Video Game Car? eBay Motors Is Auctioning Four of Them",
-    "title": "Want a Real Video Game Car? eBay Motors Is Auctioning Four of Them",
-    "raw_summary": "We’ve been there too. It’s late, and you’re swiping through your Gran Turismo or Forza garage while fantasizing about owning your video game cars in real life. Well, eBay has a solution for you, assuming your wallet can handle the expense. The auction site is bringing what it’s calling the Most Wanted Collection to SEMA next week. The group is being touted as a fleet of four cars “inspired by some of gaming culture’s most recognizable rides.” See all results for used 2022 Chevrolet Corvette Stingray / Grand Sport for sale near 14201",
-    "summary": "It’s late, and you’re swiping through your Gran Turismo or Forza garage while fantasizing about owning your video game cars in real life. Well, eBay has a solution for you, assuming your wallet can handle the expense. The auction site is bringing what it’s calling the Most Wanted Collection to SEMA next week.",
-    "image_url": "https://hips.hearstapps.com/hmg-prod/images/bb958845-7450-4e56-b66d-cbd40bd68489.jpg",
-    "original_url": "https://www.caranddriver.com/news/a74283443/ebay-most-wanted-vehicle-chevy-corvette-doge-viper-auction/",
-    "published_at": "2026-10-29T15:35:27+00:00",
-    "time_ago": "43m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "We’ve been there too. It’s late, and you’re swiping through your Gran Turismo or Forza garage while fantasizing about owning your video game cars in real life. Well, eBay has a solution for you, assuming your wallet can handle the expense. The auction site is bringing what it’s calling the Most Wanted Collection to SEMA next week. The group is being touted as a fleet of four cars “inspired by some of gaming culture’s most recognizable rides.”",
-      "See all results for used 2022 Chevrolet Corvette Stingray / Grand Sport for sale near 14201",
-      "The collection includes a 1975 Chevrolet Nova, dubbed “The Hot Pink Hi-riser,” a 1992 BMW 325i convertible labeled “The Classic Getaway,” a 2006 Dodge Viper named “The Street Icon,” and a 2022 Chevy Corvette called “The South Beach Supercar.”",
-      "As far as we’re aware, none of the four cars headed for the auction block have played any significant roles in automotive video game history. So, we’re not exactly sure what makes these cars “gaming-inspired,” but with 100 percent of the proceeds going to the Susan G. Komen Breast Cancer Research Foundation, we’ll let the oddity slide.",
-      "Each car was sourced from eBay and then modified with parts from the online auction site. Bidding for each car will start at $6 when the auctions go live on November 5. The event will be co-hosted by Sung Kang of Fast and Furious fame and Hertrech “Hert” Eugene Jr., who will apparently tell the stories of each car throughout the auction."
-    ],
-    "bullet_points": [
-      "It’s late, and you’re swiping through your Gran Turismo or Forza garage while fantasizing about owning your video game cars in real life.",
-      "Well, eBay has a solution for you, assuming your wallet can handle the expense.",
-      "The auction site is bringing what it’s calling the Most Wanted Collection to SEMA next week."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Want a Real Video Game Car? eBay Motors Is Auctioning Four of Them",
-        "badge": "Breaking",
-        "text": "It’s late, and you’re swiping through your Gran Turismo or Forza garage while fantasizing about owning your video game cars in real life.",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/bb958845-7450-4e56-b66d-cbd40bd68489.jpg",
-        "alt": "Want a Real Video Game Car? eBay Motors Is Auctioning Four of Them cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Well, eBay has a solution for you, assuming your wallet can handle the expense.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The auction site is bringing what it’s calling the Most Wanted Collection to SEMA next week.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "Well, eBay has a solution for you, assuming your wallet can handle the expense.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Car and Driver.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 53
-  },
-  {
-    "id": "art_1793290748_11",
-    "slug": "williams-launches-w50-expo-to-celebrate-f1-milestone",
-    "category": "sports",
-    "category_name": "Motorsport & F1 Tech",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🏁",
-    "source": "The Race",
-    "raw_title": "Williams launches 'W50' expo to celebrate F1 milestone",
-    "title": "Williams launches 'W50' expo to celebrate F1 milestone",
-    "raw_summary": "Williams F1 Team will celebrate its 50th anniversary with a two-week fan experience in London, offering fans a look at its five decades of Formula 1 history. W50 Live will be open at Leake Street across February 11 - 28, 2027, bringing together iconic cars, historic memorabilia and installations that will tell the story of one of the sport’s most successful teams.",
-    "summary": "Williams F1 Team will celebrate its 50th anniversary with a two-week fan experience in London, offering fans a look at its five decades of Formula 1 history. W50 Live will be open at Leake Street across February 11 - 28, 2027, bringing together iconic cars, historic memorabilia and installations that will tell the story of one of the sport’s most successful teams.",
-    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/2250102035.jpg",
-    "original_url": "https://www.the-race.com/extra/williams-launches-w50-expo-to-celebrate-50-years-in-f1/",
-    "published_at": "2026-10-29T15:18:36+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Williams F1 Team will celebrate its 50th anniversary with a two-week fan experience in London, offering fans a look at its five decades of Formula 1 history.",
-      "W50 Live will be open at Leake Street across February 11 - 28, 2027, bringing together iconic cars, historic memorabilia and installations that will tell the story of one of the sport’s most successful teams.",
-      "Visitors will have the opportunity to see several of Williams’ most significant cars, including the FW06, the first car produced by Williams Grand Prix Engineering, and the FW11B, which Nelson Piquet drove to the 1987 drivers’ championship.",
-      "Other highlights include the FW14B, which helped Nigel Mansell secure the 1992 world title, the FW19 from Jacques Villeneuve’s championship-winning 1997 campaign, the FW25 driven by Juan Pablo Montoya in 2003, and the FW38, associated with Valtteri Bottas’ record speed of 378kph.",
-      "The event will also look towards the future, with a show car representing Williams’ 2027 challenger, the FW50. The name marks the team’s half-century milestone and follows a similar approach to its 40th anniversary, when it moved from the FW38 designation to the FW40.",
-      "Williams’ 50th anniversary celebrations will reflect a remarkable record in F1, including nine constructors’ championship titles, seven drivers’ championship titles and 114 grand prix victories. The team will become only the third in the sport, after Ferrari and McLaren, to reach 50 consecutive years of competition.",
-      "The choice of Leake Street also carries historical significance. The venue’s railway arches reflect the setting where team founder Frank Williams discovered co-founder Patrick Head working in a garage, bringing the anniversary celebration back to London’s industrial roots.",
-      "Marcus Prosser, marketing director of Williams F1 Team, said the event would provide a new way to connect with supporters."
-    ],
-    "bullet_points": [
-      "Williams F1 Team will celebrate its 50th anniversary with a two-week fan experience in London, offering fans a look at its five decades of Formula 1 history.",
-      "W50 Live will be open at Leake Street across February 11 - 28, 2027, bringing together iconic cars, historic memorabilia and installations that will tell the story of one of the sport’s most successful teams.",
-      "Official reporting verified via The Race news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Williams launches 'W50' expo to celebrate F1 milestone",
-        "badge": "Breaking",
-        "text": "Williams F1 Team will celebrate its 50th anniversary with a two-week fan experience in London, offering fans a look at its five decades of Formula 1 history.",
-        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/2250102035.jpg",
-        "alt": "Williams launches 'W50' expo to celebrate F1 milestone cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "W50 Live will be open at Leake Street across February 11 - 28, 2027, bringing together iconic cars, historic memorabilia and installations that will tell the story of one of the sport’s most successful teams.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Williams F1 Team will celebrate its 50th anniversary with a two-week fan experience in London, offering fans a look at its five decades of Formula 1 history.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Motorsport & F1 Tech",
-        "text": "W50 Live will be open at Leake Street across February 11 - 28, 2027, bringing together iconic cars, historic memorabilia and installations that will tell the story of one of the sport’s most successful teams.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from The Race.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 62
-  },
-  {
-    "id": "art_1793362256_4",
-    "slug": "toyotas-signia-gt-s-looks-the-part-but-doesnt-have-the-power-to-m",
-    "category": "business",
-    "category_name": "Auto Industry & Deals",
-    "category_color": "#10b981",
-    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-    "category_icon": "📈",
-    "source": "Carscoops",
-    "raw_title": "Toyota's Signia GT-S Looks The Part, But Doesn't Have The Power To Match",
-    "title": "Toyota's Signia GT-S Looks The Part, But Doesn't Have The Power To Match",
-    "raw_summary": "The Crown Signia, which is being refreshed for 2027 , is already one of Toyota's most striking models. Now, the automaker has used it as the basis for a special one-off concept premiering at next week's SEMA Show in Las Vegas to go with its wild Snowhunter truck and SUV concepts . With dramatic bodywork and several chassis modifications, it makes a bold statement, though it doesn't back that up with any powertrain modifications. Toyota says the idea behind the Crown Signia GT-S Concept was to create a family vehicle that's just as well-versed at transporting kids to school as it is at cruising along a canyon road. One of the most important upgrades is a set of MCS coilovers that drop the ride height by 5 inches while improving handling. With the lowered ride height, this Crown now looks like a proper performance car rather than a bloated crossover. Toyota Motorsports Garage, which handled this special project, did more than upgrade the Crown's suspension. A custom body kit has been designed for the SEMA show car with flared front and rear fenders and a large front lip. The grille has been blacked out, and red accents have been added around the headlights.",
-    "summary": "The Crown Signia, which is being refreshed for 2027 , is already one of Toyota's most striking models. Now, the automaker has used it as the basis for a special one-off concept premiering at next week's SEMA Show in Las Vegas to go with its wild Snowhunter truck and SUV concepts .",
-    "image_url": "https://www.carscoops.com/img/gallery/toyotas-signia-gt-s-looks-the-part-but-doesnt-have-the-power-to-match/l-intro-1793284786.jpg",
-    "original_url": "https://www.carscoops.com/2300911/toyota-crown-signia-sema-2026-concept/",
-    "published_at": "2026-10-29T14:43:18+00:00",
-    "time_ago": "21h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "The Crown Signia, which is being refreshed for 2027 , is already one of Toyota's most striking models. Now, the automaker has used it as the basis for a special one-off concept premiering at next week's SEMA Show in Las Vegas to go with its wild Snowhunter truck and SUV concepts . With dramatic bodywork and several chassis modifications, it makes a bold statement, though it doesn't back that up with any powertrain modifications. Toyota says the idea behind the Crown Signia GT-S Concept was to create a family vehicle that's just as well-versed at transporting kids to school as it is at cruising along a canyon road.",
-      "One of the most important upgrades is a set of MCS coilovers that drop the ride height by 5 inches while improving handling. With the lowered ride height, this Crown now looks like a proper performance car rather than a bloated crossover. Toyota Motorsports Garage, which handled this special project, did more than upgrade the Crown's suspension. A custom body kit has been designed for the SEMA show car with flared front and rear fenders and a large front lip. The grille has been blacked out, and red accents have been added around the headlights.",
-      "The crew behind the project may have taken inspiration from cars like the Porsche 911 GT3 RS, adding louvers on the front fenders. Though whether they serve any aerodynamic or brake-cooling effect in this application remains to be seen. Among the other upgrades are extended rocker panels and a new rear end with a bold diffuser and tailpipes.",
-      "A distinctive shade of dark gray metallic has been applied to the Crown with more clear coats than usual to give it a particularly glossy finish. The brakes from a Lexus RX 500h F Sport have been adapted for use here, and are positioned behind 21-inch HRE wheels. Rounding out the upgrades are minor interior tweaks, including new seats appointed in black leather with GT-S branding. The electronic shifter also has a bright red GT-S logo.",
-      "Toyota's standard Crown Signia — which has seen other wild customizations — is sold in the U.S. with a hybrid 2.5-liter inline-4 and an electronically-controlled CVT. With 238 horsepower, it offers solid performance, although it's certainly not a raging machine like, say, the GR Corolla. Had Toyota really wanted to transform the Crown into a particularly crazy creation for SEMA, perhaps swapping out the hybrid setup for its turbocharged 1.6-liter GR three-cylinder would have been a wise idea."
-    ],
-    "bullet_points": [
-      "The Crown Signia, which is being refreshed for 2027 , is already one of Toyota's most striking models.",
-      "Now, the automaker has used it as the basis for a special one-off concept premiering at next week's SEMA Show in Las Vegas to go with its wild Snowhunter truck and SUV concepts .",
-      "Official reporting verified via Carscoops news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Toyota's Signia GT-S Looks The Part, But Doesn't Have The Power To Match",
-        "badge": "Breaking",
-        "text": "The Crown Signia, which is being refreshed for 2027 , is already one of Toyota's most striking models.",
-        "image": "https://www.carscoops.com/img/gallery/toyotas-signia-gt-s-looks-the-part-but-doesnt-have-the-power-to-match/l-intro-1793284786.jpg",
-        "alt": "Toyota's Signia GT-S Looks The Part, But Doesn't Have The Power To Match cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Now, the automaker has used it as the basis for a special one-off concept premiering at next week's SEMA Show in Las Vegas to go with its wild Snowhunter truck and SUV concepts .",
-        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The Crown Signia, which is being refreshed for 2027 , is already one of Toyota's most striking models.",
-        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Auto Industry & Deals",
-        "text": "Now, the automaker has used it as the basis for a special one-off concept premiering at next week's SEMA Show in Las Vegas to go with its wild Snowhunter truck and SUV concepts .",
-        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Carscoops.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 52
-  },
-  {
-    "id": "art_1793290748_5",
-    "slug": "sure-looks-like-trump-loves-evs-after-all",
-    "category": "ai-future",
-    "category_name": "Robo-Taxis & Autonomous",
-    "category_color": "#8b5cf6",
-    "category_gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
-    "category_icon": "🤖",
-    "source": "CleanTechnica",
-    "raw_title": "Sure Looks Like Trump Loves EVs After All",
-    "title": "Sure Looks Like Trump Loves EVs After All",
-    "raw_summary": "Jaws dropped to the floor last year when the US Department of Energy handed US automaker Rivian a $4.5 billion loan guarantee to build an EV factory Georgia. So much for the President’s heroic efforts to stop the vehicle electrification movement in its tracks. To ice the decarbonization cake, federal laboratories have just brewed up a vast, scientific conspiracy to help private sector partners develop next-gen batteries that will help make EVs more affordable for the masses. Hold on to your hats… If Georgia seems an unlikely spot for an EV ecosystem to arise, guess again. Despite his red-state status, Georgia Governor Brian Kemp has embraced the vehicle electrification movement as a critical economic development strategy for his state.",
-    "summary": "Jaws dropped to the floor last year when the US Department of Energy handed US automaker Rivian a $4.5 billion loan guarantee to build an EV factory Georgia. So much for the President’s heroic efforts to stop the vehicle electrification movement in its tracks. To ice the decarbonization cake, federal laboratories have just brewed up a vast, scientific conspiracy to help private sector partners develop next-gen batteries that will help make EVs more affordable for the masses.",
-    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/10/pnnl-batteries-evs.jpg",
-    "original_url": "https://cleantechnica.com/2026/10/29/battman-batteries-evs-energy-storage-us-trump/",
-    "published_at": "2026-10-29T14:25:06+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Jaws dropped to the floor last year when the US Department of Energy handed US automaker Rivian a $4.5 billion loan guarantee to build an EV factory Georgia. So much for the President’s heroic efforts to stop the vehicle electrification movement in its tracks. To ice the decarbonization cake, federal laboratories have just brewed up a vast, scientific conspiracy to help private sector partners develop next-gen batteries that will help make EVs more affordable for the masses. Hold on to your hats…",
-      "If Georgia seems an unlikely spot for an EV ecosystem to arise, guess again. Despite his red-state status, Georgia Governor Brian Kemp has embraced the vehicle electrification movement as a critical economic development strategy for his state.",
-      "“Georgia leads the nation in EV battery and vehicle manufacturing investments, totaling over $31 billion and creating over 38,000 jobs since 2015 — outpacing even Michigan by over $10 billion in investments over the same decade,” noted the Georgia Network for Electric Mobility at the University of Georgia in a report last year.",
-      "Georgia’s electrification ambitions earned a fresh wave of publicity during the last months of the Biden administration, when Rivian nailed down plans to build a new factory in the state with a $6.57 conditional loan guarantee in its pocket from the Loan Programs Office of the US Department of Energy.",
-      "After Trump took office he promptly shut down the LPO, allowing all but a scarce few decarbonization projects to move ahead ( here’s one example). Somehow the Rivian factory loan also survived the Trump chopper, though at the lesser amount of $4.5 billion, and a groundbreaking ceremony took place last year.",
-      "If all goes according to plan, Rivian will soon join electric bus maker Bluebird on Georgia’s roster of EV makers. Another potential opportunity surfaced last Saturday, when Audi CEO Gernot Döllner took to the campaign trail with US President Donald Trump.",
-      "That was not a typo. Last Saturday, Döllner appeared on stage at a campaign rally in Georgia with US President Donald Trump, during which the two of them announced the culmination of a years-long plan to build Audi’s first ever factory in the US, a $4 billion facility to be constructed in Peach County, Georgia.",
-      "The new factory announcement was somewhat premature, to put it kindly. The supervisory board of parent company Volkswagen has yet to sign off on the deal, and the news blew up in Audi’s hometown, Germany, where Volkswagen is laying off workers."
-    ],
-    "bullet_points": [
-      "Jaws dropped to the floor last year when the US Department of Energy handed US automaker Rivian a $4.5 billion loan guarantee to build an EV factory Georgia.",
-      "So much for the President’s heroic efforts to stop the vehicle electrification movement in its tracks.",
-      "To ice the decarbonization cake, federal laboratories have just brewed up a vast, scientific conspiracy to help private sector partners develop next-gen batteries that will help make EVs more affordable for the masses."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Sure Looks Like Trump Loves EVs After All",
-        "badge": "Breaking",
-        "text": "Jaws dropped to the floor last year when the US Department of Energy handed US automaker Rivian a $4.5 billion loan guarantee to build an EV factory Georgia.",
-        "image": "https://cleantechnica.com/wp-content/uploads/2026/10/pnnl-batteries-evs.jpg",
-        "alt": "Sure Looks Like Trump Loves EVs After All cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "So much for the President’s heroic efforts to stop the vehicle electrification movement in its tracks.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "To ice the decarbonization cake, federal laboratories have just brewed up a vast, scientific conspiracy to help private sector partners develop next-gen batteries that will help make EVs more affordable for the masses.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Robo-Taxis & Autonomous",
-        "text": "So much for the President’s heroic efforts to stop the vehicle electrification movement in its tracks.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from CleanTechnica.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 77
-  },
-  {
-    "id": "art_1793290748_9",
-    "slug": "these-were-your-most-ill-suited-automotive-experiences",
-    "category": "trending",
-    "category_name": "Viral Drives & Concepts",
-    "category_color": "#f43f5e",
-    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
-    "category_icon": "🔥",
-    "source": "Jalopnik",
-    "raw_title": "These Were Your Most Ill-Suited Automotive Experiences",
-    "title": "These Were Your Most Ill-Suited Automotive Experiences",
-    "raw_summary": "They say the best camera is the one you have on you, and the same goes for cars — no matter what you need to do, you're probably best served by the car you already have rather than jumping through hoops to swap it out. But, sometimes, even we automotive adventurers are forced to concede: We simply have the wrong tool for the job. Now, because we're automotive adventurers, that's not likely to stop us. We're often going to just use the wrong vehicle for the wrong purpose, and so earlier this week I asked you all for your best tales of doing just that . Today, we look through your answers, many of which had to do with driving incredibly unsuited cars on unsuitable tires through deep snow and ice. Godspeed, you beautiful fellow Northerners. As a former daily driver of a Scion FR-S through upstate New York lake effect snow, I feel an instant camaraderie with you.",
-    "summary": "They say the best camera is the one you have on you, and the same goes for cars — no matter what you need to do, you're probably best served by the car you already have rather than jumping through hoops to swap it out.",
-    "image_url": "https://www.jalopnik.com/img/gallery/these-were-your-most-ill-suited-automotive-experiences/l-intro-1793276763.jpg",
-    "original_url": "https://www.jalopnik.com/2300747/most-ill-suited-automotive-experiences-reader-answers/",
-    "published_at": "2026-10-29T14:25:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "They say the best camera is the one you have on you, and the same goes for cars — no matter what you need to do, you're probably best served by the car you already have rather than jumping through hoops to swap it out. But, sometimes, even we automotive adventurers are forced to concede: We simply have the wrong tool for the job.",
-      "Now, because we're automotive adventurers, that's not likely to stop us. We're often going to just use the wrong vehicle for the wrong purpose, and so earlier this week I asked you all for your best tales of doing just that . Today, we look through your answers, many of which had to do with driving incredibly unsuited cars on unsuitable tires through deep snow and ice. Godspeed, you beautiful fellow Northerners. As a former daily driver of a Scion FR-S through upstate New York lake effect snow, I feel an instant camaraderie with you.",
-      "I used to drive my Camaro 50 miles through Michigan winters to go snowboarding. With a good set of skinny snow tires, it drove just fine. Fit myself, a passenger, 2 boards, and our snow gear in the car without a problem. In a parking lot full of small SUV's and Subaru's, the Camaro really stood out.",
-      "One morning, it was in the upper 60's, so I figured it would be fine to ride my motorcycle to class. I was wearing an unlined leather jacket and leather gloves with my helmet.",
-      "I got to school and everything was fine. I got out of my first class, and it had started raining. Getting cooler, too.",
-      "I got out of my second class, and it's snowing. The temp has REALLY dropped, too. Greaaaaat.",
-      "When I got out of my third and final class, I went to my bike, and there was 2\" snow on the seat. I cleared it off as best I could, fired it up, and rode out of the slushy parking lot.",
-      "As soon as I pulled onto the road outside my community college, bike died. Outta gas."
-    ],
-    "bullet_points": [
-      "They say the best camera is the one you have on you, and the same goes for cars — no matter what you need to do, you're probably best served by the car you already have rather than jumping through hoops to swap it out.",
-      "Details monitored as developments unfold.",
-      "Verified coverage from Jalopnik."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "These Were Your Most Ill-Suited Automotive Experiences",
-        "badge": "Breaking",
-        "text": "They say the best camera is the one you have on you, and the same goes for cars — no matter what you need to do, you're probably best served by the car you already have rather than jumping through hoops to swap it out.",
-        "image": "https://www.jalopnik.com/img/gallery/these-were-your-most-ill-suited-automotive-experiences/l-intro-1793276763.jpg",
-        "alt": "These Were Your Most Ill-Suited Automotive Experiences cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "They say the best camera is the one you have on you, and the same goes for cars — no matter what you need to do, you're probably best served by the car you already have rather than jumping through hoops to swap it out.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "They say the best camera is the one you have on you, and the same goes for cars — no matter what you need to do, you're probably best served by the car you already have rather than jumping through hoops to swap it out.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Viral Drives & Concepts",
-        "text": "Public updates continue.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 45
-  },
-  {
-    "id": "art_1793301303_1",
-    "slug": "the-ford-escape-may-return-as-an-ev-based-on-the-uev-platform-upd",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "The Ford Escape may return as an EV based on the UEV platform [Update]",
-    "title": "The Ford Escape may return as an EV based on the UEV platform [Update]",
-    "raw_summary": "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV could return as an EV on the new UEV platform. While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what could be its second UEV-based model.",
-    "summary": "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV could return as an EV on the new UEV platform. While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what could be its second UEV-based model.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Escape-EV.jpeg?quality=82&strip=all&w=1400",
-    "original_url": "https://electrek.co/2026/10/29/ford-escape-ev-uev-platform-update/",
-    "published_at": "2026-10-29T14:13:42+00:00",
-    "time_ago": "5h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV could return as an EV on the new UEV platform.",
-      "While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what could be its second UEV-based model.",
-      "The last gas-powered Escape models rolled off the production line at Ford’s Louisville Assembly Plant as it retooled the facility to prepare for the new Fathom electric pickup.",
-      "Typically, when Ford retires a model, its landing page says something like “we’re discontinuing” it, or “it’s the end of the road,” such as with the Edge SUV.",
-      "Meanwhile, the Escape landing page says the “SUV may be taking a breather for now,” declaring the “Ford Escape is tapping the brakes,” with no mention of it being discontinued. Instead, the site directs you to check out Ford’s other vehicles while it’s on hiatus.",
-      "According to Ford Authority , the Escape will return as an all-electric crossover SUV based on the UEV platform.",
-      "Update 10/29/2026: A Ford spokesperson told Electrek that the Ford Authority report is pure speculation and the company has not announced the Escape will return as an EV or that it will be based on the UEV platform.",
-      "If it does come to life, the Ford Escape EV would likely remain close in size to the outgoing gas model, which measures 180.1″ long, 74.1″ wide (without mirrors), and 66.1″ tall, with a 106.7″ wheelbase. That’s about the size of other compact SUVs like the Toyota RAV4 and Hyundai Tucson."
-    ],
-    "bullet_points": [
-      "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV could return as an EV on the new UEV platform.",
-      "While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what could be its second UEV-based model.",
-      "Official reporting verified via Electrek news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "The Ford Escape may return as an EV based on the UEV platform [Update]",
-        "badge": "Breaking",
-        "text": "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV could return as an EV on the new UEV platform.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Escape-EV.jpeg?quality=82&strip=all&w=1400",
-        "alt": "The Ford Escape may return as an EV based on the UEV platform [Update] cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what could be its second UEV-based model.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV could return as an EV on the new UEV platform.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what could be its second UEV-based model.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 61
-  },
-  {
-    "id": "art_1793290748_2",
-    "slug": "the-ford-escape-will-return-as-an-ev-based-on-the-uev-platform",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "The Ford Escape will return as an EV based on the UEV platform",
-    "title": "The Ford Escape will return as an EV based on the UEV platform",
-    "raw_summary": "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV is set to return as an EV based on the new UEV platform. While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what’s expected to be its second UEV-based model.",
-    "summary": "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV is set to return as an EV based on the new UEV platform. While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what’s expected to be its second UEV-based model.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Escape-EV.jpeg?quality=82&strip=all&w=1400",
-    "original_url": "https://electrek.co/2026/10/29/ford-escape-ev-uev-platform/",
-    "published_at": "2026-10-29T14:13:42+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV is set to return as an EV based on the new UEV platform.",
-      "While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what’s expected to be its second UEV-based model.",
-      "The last gas-powered Escape models rolled off the production line at Ford’s Louisville Assembly Plant as it retooled the facility to prepare for the new Fathom electric pickup.",
-      "Typically, when Ford retires a model, its landing page says something like “we’re discontinuing” it, or “it’s the end of the road,” such as with the Edge SUV.",
-      "Meanwhile, the Escape landing page says the “SUV may be taking a breather for now,” declaring the “Ford Escape is tapping the brakes,” with no mention of it being discontinued. Instead, the site directs you to check out Ford’s other vehicles while it’s on hiatus.",
-      "According to Ford Authority , the Escape will return as an all-electric crossover SUV based on the UEV platform.",
-      "The Ford Escape EV is expected to remain close in size to the outgoing gas model, which measures 180.1″ long, 74.1″ wide (without mirrors), and 66.1″ tall, with a 106.7″ wheelbase. That’s about the size of other compact SUVs like the Toyota RAV4 and Hyundai Tucson.",
-      "The electric Escape is expected to go into production at Ford’s Louisville Assembly Plant in 2029, possibly making it the second vehicle based on its UEV platform, following the Fathom pickup."
-    ],
-    "bullet_points": [
-      "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV is set to return as an EV based on the new UEV platform.",
-      "While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what’s expected to be its second UEV-based model.",
-      "Official reporting verified via Electrek news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "The Ford Escape will return as an EV based on the UEV platform",
-        "badge": "Breaking",
-        "text": "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV is set to return as an EV based on the new UEV platform.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Escape-EV.jpeg?quality=82&strip=all&w=1400",
-        "alt": "The Ford Escape will return as an EV based on the UEV platform cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what’s expected to be its second UEV-based model.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV is set to return as an EV based on the new UEV platform.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "While Ford is preparing to launch the Fathom, its first vehicle based on the Universal Electric Vehicle (UEV) platform in 2027, the company is already hinting at what’s expected to be its second UEV-based model.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 65
   }
 ]
