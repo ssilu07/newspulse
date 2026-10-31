@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T11:05:00+00:00</news:publication_date>
+      <news:title>The Pros And Cons Of Getting Multiple Car Insurance Quotes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/l-intro-1793309239.jpg</image:loc>
+      <image:title>The Pros And Cons Of Getting Multiple Car Insurance Quotes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/winners-and-losers-from-motogps-sepang-sprint/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T11:00:51+00:00</news:publication_date>
+      <news:title>Winners and losers from MotoGP&#x27;s Sepang sprint</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358938_HiRes.jpg</image:loc>
+      <image:title>Winners and losers from MotoGP&#x27;s Sepang sprint</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburet/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T09:25:00+00:00</news:publication_date>
+      <news:title>Why I Converted My 1979 Volvo 245 From Fuel Injection To Carburetion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburetion/l-intro-1793023093.jpg</image:loc>
+      <image:title>Why I Converted My 1979 Volvo 245 From Fuel Injection To Carburetion</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/inside-hertas-cadillac-f1-audition/</loc>
     <news:news>
       <news:publication>
@@ -30,6 +75,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358821_HiRes.jpg</image:loc>
       <image:title>Acosta wins chaotic Sepang MotoGP sprint</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/martin-admits-motogp-title-already-lost-after-sepang-withdrawal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T04:27:01+00:00</news:publication_date>
+      <news:title>Martin admits MotoGP title &#x27;already lost&#x27; after Sepang withdrawal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358672_HiRes.jpg</image:loc>
+      <image:title>Martin admits MotoGP title &#x27;already lost&#x27; after Sepang withdrawal</image:title>
     </image:image>
   </url>
   <url>
@@ -915,6 +975,21 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/l-intro-1793296032.jpg</image:loc>
       <image:title>At $22,995, Would You Plug Into This 2024 Polestar 2 Long Range?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/subaru-will-only-sell-evs-in-europe-after-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:12:02+00:00</news:publication_date>
+      <news:title>Subaru Will Only Sell EVs In Europe After 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/subaru-will-only-sell-evs-in-europe-after-2027/l-intro-1793362170.jpg</image:loc>
+      <image:title>Subaru Will Only Sell EVs In Europe After 2027</image:title>
     </image:image>
   </url>
   <url>
@@ -2055,51 +2130,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/trek-marlin-emtb-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>New Trek e-bike is first to get Bosch’s new motor with a major power upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyotas-next-electric-suv-is-hiding-under-this-sliced-and-diced-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:22:28+00:00</news:publication_date>
-      <news:title>Toyota&#x27;s Next Electric SUV Is Hiding Under This Sliced And Diced Corolla Cross</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-electric-suv-is-hiding-under-this-sliced-and-diced-corolla-cross/l-intro-1793272175.jpg</image:loc>
-      <image:title>Toyota&#x27;s Next Electric SUV Is Hiding Under This Sliced And Diced Corolla Cross</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-vehicles-are-dead-for-2027/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T10:00:00+00:00</news:publication_date>
-      <news:title>These Vehicles Are Dead for 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg</image:loc>
-      <image:title>These Vehicles Are Dead for 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/crunch-time-for-motogp-as-qatar-talks-ramp-up/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:07:42+00:00</news:publication_date>
-      <news:title>Crunch time for MotoGP as Qatar talks ramp up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1218165_HiRes.jpg</image:loc>
-      <image:title>Crunch time for MotoGP as Qatar talks ramp up</image:title>
     </image:image>
   </url>
 </urlset>

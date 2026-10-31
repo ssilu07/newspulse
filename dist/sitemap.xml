@@ -3,39 +3,99 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-10-31T08:35:44Z</lastmod>
+    <lastmod>2026-10-31T11:43:55Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-10-31T08:35:44Z</lastmod>
+    <lastmod>2026-10-31T11:43:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-10-31T08:35:44Z</lastmod>
+    <lastmod>2026-10-31T11:43:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-10-31T08:35:44Z</lastmod>
+    <lastmod>2026-10-31T11:43:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-10-31T08:35:44Z</lastmod>
+    <lastmod>2026-10-31T11:43:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-10-31T08:35:44Z</lastmod>
+    <lastmod>2026-10-31T11:43:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/</loc>
+    <lastmod>2026-10-31T11:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/l-intro-1793309239.jpg</image:loc>
+      <image:title>The Pros And Cons Of Getting Multiple Car Insurance Quotes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/</loc>
+    <lastmod>2026-10-31T11:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/l-intro-1793309239.jpg</image:loc>
+      <image:title>The Pros And Cons Of Getting Multiple Car Insurance Quotes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/winners-and-losers-from-motogps-sepang-sprint/</loc>
+    <lastmod>2026-10-31T11:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358938_HiRes.jpg</image:loc>
+      <image:title>Winners and losers from MotoGP&#x27;s Sepang sprint</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/winners-and-losers-from-motogps-sepang-sprint/</loc>
+    <lastmod>2026-10-31T11:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358938_HiRes.jpg</image:loc>
+      <image:title>Winners and losers from MotoGP&#x27;s Sepang sprint</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburet/</loc>
+    <lastmod>2026-10-31T09:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburetion/l-intro-1793023093.jpg</image:loc>
+      <image:title>Why I Converted My 1979 Volvo 245 From Fuel Injection To Carburetion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburet/</loc>
+    <lastmod>2026-10-31T09:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburetion/l-intro-1793023093.jpg</image:loc>
+      <image:title>Why I Converted My 1979 Volvo 245 From Fuel Injection To Carburetion</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/inside-hertas-cadillac-f1-audition/</loc>
@@ -75,6 +135,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358821_HiRes.jpg</image:loc>
       <image:title>Acosta wins chaotic Sepang MotoGP sprint</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/martin-admits-motogp-title-already-lost-after-sepang-withdrawal/</loc>
+    <lastmod>2026-10-31T04:27:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358672_HiRes.jpg</image:loc>
+      <image:title>Martin admits MotoGP title &#x27;already lost&#x27; after Sepang withdrawal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/martin-admits-motogp-title-already-lost-after-sepang-withdrawal/</loc>
+    <lastmod>2026-10-31T04:27:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358672_HiRes.jpg</image:loc>
+      <image:title>Martin admits MotoGP title &#x27;already lost&#x27; after Sepang withdrawal</image:title>
     </image:image>
   </url>
   <url>
@@ -1255,6 +1335,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/l-intro-1793296032.jpg</image:loc>
       <image:title>At $22,995, Would You Plug Into This 2024 Polestar 2 Long Range?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/subaru-will-only-sell-evs-in-europe-after-2027/</loc>
+    <lastmod>2026-10-30T12:12:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/subaru-will-only-sell-evs-in-europe-after-2027/l-intro-1793362170.jpg</image:loc>
+      <image:title>Subaru Will Only Sell EVs In Europe After 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/subaru-will-only-sell-evs-in-europe-after-2027/</loc>
+    <lastmod>2026-10-30T12:12:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/subaru-will-only-sell-evs-in-europe-after-2027/l-intro-1793362170.jpg</image:loc>
+      <image:title>Subaru Will Only Sell EVs In Europe After 2027</image:title>
     </image:image>
   </url>
   <url>
@@ -2935,106 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/11/66386246687__1498090D-156B-412B-A731-6D5624607CFF-e1642411238640-1-e1793233387111.jpg</image:loc>
       <image:title>Nearly Half of EU Cities Do Not Yet Meet New Clean Air Standards: Report Shows Collaboration Is Key</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trump-rolling-back-methane-pollution-safeguards/</loc>
-    <lastmod>2026-10-29T00:42:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/04/Methane-gas-flare-North-Dakota.jpeg</image:loc>
-      <image:title>Trump Rolling Back Methane Pollution Safeguards</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/trump-rolling-back-methane-pollution-safeguards/</loc>
-    <lastmod>2026-10-29T00:42:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/04/Methane-gas-flare-North-Dakota.jpeg</image:loc>
-      <image:title>Trump Rolling Back Methane Pollution Safeguards</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-now-has-102-million-workers-more-than-toyota-gm-ford-and-tesl/</loc>
-    <lastmod>2026-10-29T00:41:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/BYD-EV-demand-gas-prices-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-now-has-102-million-workers-more-than-toyota-gm-ford-and-tesl/</loc>
-    <lastmod>2026-10-29T00:41:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/BYD-EV-demand-gas-prices-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/waymo-for-business-ramp/</loc>
-    <lastmod>2026-10-29T00:37:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-for-Business-Ramp.jpeg</image:loc>
-      <image:title>Waymo for Business</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/waymo-for-business-ramp/</loc>
-    <lastmod>2026-10-29T00:37:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-for-Business-Ramp.jpeg</image:loc>
-      <image:title>Waymo for Business</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-truth-about-renewable-electricity-your-questions-answered/</loc>
-    <lastmod>2026-10-29T00:26:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/03/solar-panels-renewable-energy-nrel.jpg</image:loc>
-      <image:title>The Truth About Renewable Electricity: Your Questions, Answered</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-truth-about-renewable-electricity-your-questions-answered/</loc>
-    <lastmod>2026-10-29T00:26:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/03/solar-panels-renewable-energy-nrel.jpg</image:loc>
-      <image:title>The Truth About Renewable Electricity: Your Questions, Answered</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/after-years-long-community-objection-dairyland-power-pulls-the-pl/</loc>
-    <lastmod>2026-10-29T00:25:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/02/124adce3-d113-477f-956b-fb4bfdecfa11Original-scaled-e1707526673549.jpg</image:loc>
-      <image:title>After Years-Long Community Objection, Dairyland Power Pulls the Plug on NTEC Gas Plant</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/after-years-long-community-objection-dairyland-power-pulls-the-pl/</loc>
-    <lastmod>2026-10-29T00:25:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/02/124adce3-d113-477f-956b-fb4bfdecfa11Original-scaled-e1707526673549.jpg</image:loc>
-      <image:title>After Years-Long Community Objection, Dairyland Power Pulls the Plug on NTEC Gas Plant</image:title>
     </image:image>
   </url>
 </urlset>
