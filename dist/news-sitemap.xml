@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/bottas-escapes-injury-in-race-stopping-crash/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T22:08:00+00:00</news:publication_date>
+      <news:title>Bottas escapes injury in race-stopping crash</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449680_HiRes.jpg</image:loc>
+      <image:title>Bottas escapes injury in race-stopping crash</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/steve-mcqueens-ferrari-275-nart-spider-is-heading-to-auction-so-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T22:05:00+00:00</news:publication_date>
+      <news:title>Steve McQueen&#x27;s Ferrari 275 NART Spider Is Heading To Auction, So Start Saving Your Nickels</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/steve-mcqueens-ferrari-275-nart-spider-is-heading-to-auction-so-start-saving-your-nickels/l-intro-1793124448.jpg</image:loc>
+      <image:title>Steve McQueen&#x27;s Ferrari 275 NART Spider Is Heading To Auction, So Start Saving Your Nickels</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/corvette-skidpad-grip-ranked-best-to-worst-across-generations/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T21:45:00+00:00</news:publication_date>
+      <news:title>Corvette Skidpad Grip Ranked Best To Worst Across Generations</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/corvette-skidpad-grip-ranked-best-to-worst-across-generations/l-intro-1793309980.jpg</image:loc>
+      <image:title>Corvette Skidpad Grip Ranked Best To Worst Across Generations</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fia-explains-controversial-leclerc-penalty-decision/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T21:30:46+00:00</news:publication_date>
+      <news:title>FIA explains controversial Leclerc penalty decision</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450160_HiRes.jpg</image:loc>
+      <image:title>FIA explains controversial Leclerc penalty decision</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/dodge-entered-the-us-compact-truck-market-late-with-a-rebadged-mi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T21:05:00+00:00</news:publication_date>
+      <news:title>Dodge Entered The US Compact Truck Market Late With A Rebadged Mitsubishi Forte</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/dodge-entered-the-us-compact-truck-market-late-with-a-rebadged-mitsubishi-forte/l-intro-1793115271.jpg</image:loc>
+      <image:title>Dodge Entered The US Compact Truck Market Late With A Rebadged Mitsubishi Forte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-the-e-on-a-manual-gear-shift-means-and-when-to-use-it/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T21:00:00+00:00</news:publication_date>
+      <news:title>What The &#x27;E&#x27; On A Manual Gear Shift Means (And When To Use It)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/what-the-e-on-a-manual-gear-shift-means-and-when-to-use-it/l-intro-1793118816.jpg</image:loc>
+      <image:title>What The &#x27;E&#x27; On A Manual Gear Shift Means (And When To Use It)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/batteries-beat-norways-hydrogen-bulk-carriers-on-cost-in-two-mode/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T20:52:23+00:00</news:publication_date>
+      <news:title>Batteries Beat Norway&#x27;s Hydrogen Bulk Carriers on Cost in Two Modeled Routes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/GMI_Hero_From_Published_Briefing_1600x900.png</image:loc>
+      <image:title>Batteries Beat Norway&#x27;s Hydrogen Bulk Carriers on Cost in Two Modeled Routes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hackers-figured-out-how-flock-camera-systems-actually-work-by-pul/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T20:25:00+00:00</news:publication_date>
+      <news:title>Hackers Figured Out How Flock Camera Systems Actually Work By Pulling One Apart</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/hackers-figured-out-how-flock-camera-systems-actually-work-by-pulling-one-apart/l-intro-1793097495.jpg</image:loc>
+      <image:title>Hackers Figured Out How Flock Camera Systems Actually Work By Pulling One Apart</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/eli-teases-the-launch-of-a-much-faster-electric-microcar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T19:32:34+00:00</news:publication_date>
+      <news:title>Eli teases the launch of a much faster electric microcar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/05/eli-zero-microcar-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Eli teases the launch of a much faster electric microcar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/relaunched-mitsubishi-pajero-is-already-stealing-land-cruiser-cus/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T19:25:00+00:00</news:publication_date>
+      <news:title>Relaunched Mitsubishi Pajero Is Already Stealing Land Cruiser Customers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/relaunched-mitsubishi-pajero-is-already-stealing-land-cruiser-customers/l-intro-1793380375.jpg</image:loc>
+      <image:title>Relaunched Mitsubishi Pajero Is Already Stealing Land Cruiser Customers</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/yes-electric-motorcycles-will-replace-gasoline-motorcycles-but-no/</loc>
     <news:news>
       <news:publication>
@@ -1320,216 +1470,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448550_HiRes.jpg</image:loc>
       <image:title>Why Herta&#x27;s actually still one point off F1 superlicence</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-bmw-i3/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T22:04:51+00:00</news:publication_date>
-      <news:title>First Look Inside: The 2027 BMW i3 Cabin</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2359a57e-8022-431e-acb7-09d192b6ee6f.jpg?crop=1xw:0.749906261717xh;center,top&amp;resize=1200:*</image:loc>
-      <image:title>First Look Inside: The 2027 BMW i3 Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-bmw-i3/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T22:04:42+00:00</news:publication_date>
-      <news:title>First Look: Aggressive Exterior Styling Of The 2027 BMW i3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/70db50f4-e165-487e-a906-0b517688f02e.jpg?crop=0.692xw:0.519xh;0.308xw,0.312xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2027 BMW i3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/an-uncompromising-fraternal-twin-we-drive-the-all-electric-2027-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T22:04:39+00:00</news:publication_date>
-      <news:title>First Drive Review: Can The All-Electric 2027 BMW i3 Dethrone The Model 3?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0fab9470-88f9-4a36-a8c6-823504ddb6f0.jpg</image:loc>
-      <image:title>First Drive Review: Can The All-Electric 2027 BMW i3 Dethrone The Model 3?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-wed-spec-it-2027-bmw-3-series/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:45:46+00:00</news:publication_date>
-      <news:title>The Ultimate Build Spec: 2027 BMW 3-Series In-Depth Breakdown</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/dd826d25-50cd-449a-b607-277e9e71ef45.gif</image:loc>
-      <image:title>The Ultimate Build Spec: 2027 BMW 3-Series In-Depth Breakdown</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/wild-hrc-civic-type-r-is-in-development-for-us-honda-says/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:06:33+00:00</news:publication_date>
-      <news:title>Wild HRC Civic Type R Is In Development For US, Honda Says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/wild-hrc-civic-type-r-is-in-development-for-us-honda-says/l-intro-1793394378.jpg</image:loc>
-      <image:title>Wild HRC Civic Type R Is In Development For US, Honda Says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/faa-finally-certifies-boeing-737-max-10-for-commercial-delivery-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:45:00+00:00</news:publication_date>
-      <news:title>FAA Finally Certifies Boeing 737 Max 10 For Commercial Delivery, Bringing The Entire 737 Family Into Service</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/faa-finally-certifies-boeing-737-max-10-for-commercial-delivery-bringing-the-entire-737-family-into-service/l-intro-1793216959.jpg</image:loc>
-      <image:title>FAA Finally Certifies Boeing 737 Max 10 For Commercial Delivery, Bringing The Entire 737 Family Into Service</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/xpengs-g9l-lands-as-a-threat-to-the-european-establishment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:35:45+00:00</news:publication_date>
-      <news:title>Xpeng&#x27;s G9L Lands As A Threat To The European Establishment</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/xpengs-g9l-lands-as-a-threat-to-the-european-establishment/l-intro-1793392508.jpg</image:loc>
-      <image:title>Xpeng&#x27;s G9L Lands As A Threat To The European Establishment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-reveals-a-flashy-new-feature-on-its-upcoming-luxury-ev/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:19:39+00:00</news:publication_date>
-      <news:title>BYD reveals a flashy new feature on its upcoming luxury EV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-luxury-EV-suicide-doors.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD reveals a flashy new feature on its upcoming luxury EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rivian-r2-sales-are-so-strong-its-outselling-both-r1-models-combi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:56:38+00:00</news:publication_date>
-      <news:title>Rivian R2 Sales Are So Strong It&#x27;s Outselling Both R1 Models Combined</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ee99b08d-139b-4b3e-aa01-702123b6d518.jpg</image:loc>
-      <image:title>Rivian R2 Sales Are So Strong It&#x27;s Outselling Both R1 Models Combined</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-happened-in-mexican-gp-fp1-with-10-rookies/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:49:08+00:00</news:publication_date>
-      <news:title>Rookie Mayhem: What Happened When 10 Newbies Took Over Mexican GP FP1</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448601_HiRes.jpg</image:loc>
-      <image:title>Rookie Mayhem: What Happened When 10 Newbies Took Over Mexican GP FP1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-2026-mexican-grand-prix-practice-results/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:32:55+00:00</news:publication_date>
-      <news:title>Mexican Grand Prix Practice Shock: Full Lap Times &amp; Standings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448513_HiRes.jpg</image:loc>
-      <image:title>Mexican Grand Prix Practice Shock: Full Lap Times &amp; Standings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mate-rimac-chased-his-stolen-bugatti-chiron-across-the-border-in-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:28:40+00:00</news:publication_date>
-      <news:title>911 Pursuit: How Mate Rimac Tracked Down His Stolen Bugatti Across The Border</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/mate-rimac-chased-his-stolen-bugatti-chiron-across-the-border-in-his-911-after-it-was-nabbed-from-rimac-hq/l-intro-1793388370.jpg</image:loc>
-      <image:title>911 Pursuit: How Mate Rimac Tracked Down His Stolen Bugatti Across The Border</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-bmw-alpina-b7-will-have-a-great-sounding-v8/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:08:53+00:00</news:publication_date>
-      <news:title>New BMW Alpina B7 Will Have A Great-Sounding V8</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/new-bmw-alpina-b7-will-have-a-great-sounding-v8/l-intro-1793387227.jpg</image:loc>
-      <image:title>New BMW Alpina B7 Will Have A Great-Sounding V8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fuel-from-bamboo-costs-just-275-per-gallon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:04:48+00:00</news:publication_date>
-      <news:title>Fuel From Bamboo Costs Just $2.75 Per Gallon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Bamboo-fuel.jpg</image:loc>
-      <image:title>Fuel From Bamboo Costs Just $2.75 Per Gallon</image:title>
     </image:image>
   </url>
 </urlset>
