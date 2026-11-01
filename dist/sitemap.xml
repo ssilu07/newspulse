@@ -3,39 +3,119 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-01T09:48:14Z</lastmod>
+    <lastmod>2026-11-01T12:42:54Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-01T09:48:14Z</lastmod>
+    <lastmod>2026-11-01T12:42:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-01T09:48:14Z</lastmod>
+    <lastmod>2026-11-01T12:42:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-01T09:48:14Z</lastmod>
+    <lastmod>2026-11-01T12:42:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-01T09:48:14Z</lastmod>
+    <lastmod>2026-11-01T12:42:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-01T09:48:14Z</lastmod>
+    <lastmod>2026-11-01T12:42:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-its-hard-to-pin-down-what-kinds-of-cars-actually-qualify-as-e/</loc>
+    <lastmod>2026-11-01T12:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-its-hard-to-pin-down-what-kinds-of-cars-actually-qualify-as-exotics/l-intro-1793032273.jpg</image:loc>
+      <image:title>Why It&#x27;s Hard To Pin Down What Kinds Of Cars Actually Qualify As &#x27;Exotics</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-its-hard-to-pin-down-what-kinds-of-cars-actually-qualify-as-e/</loc>
+    <lastmod>2026-11-01T12:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-its-hard-to-pin-down-what-kinds-of-cars-actually-qualify-as-exotics/l-intro-1793032273.jpg</image:loc>
+      <image:title>Why It&#x27;s Hard To Pin Down What Kinds Of Cars Actually Qualify As &#x27;Exotics</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/heres-how-much-2022-volkswagen-taos-models-have-depreciated-in-4-/</loc>
+    <lastmod>2026-11-01T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/heres-how-much-2022-volkswagen-taos-models-have-depreciated-in-4-years/l-intro-1792574571.jpg</image:loc>
+      <image:title>Here&#x27;s How Much 2022 Volkswagen Taos Models Have Depreciated In 4 Years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/heres-how-much-2022-volkswagen-taos-models-have-depreciated-in-4-/</loc>
+    <lastmod>2026-11-01T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/heres-how-much-2022-volkswagen-taos-models-have-depreciated-in-4-years/l-intro-1792574571.jpg</image:loc>
+      <image:title>Here&#x27;s How Much 2022 Volkswagen Taos Models Have Depreciated In 4 Years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/yamaha-pulls-out-of-qatar-gp-motogp-threatens-penalties/</loc>
+    <lastmod>2026-11-01T10:08:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359925_HiRes.jpg</image:loc>
+      <image:title>Yamaha pulls out of Qatar GP, MotoGP threatens penalties</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/yamaha-pulls-out-of-qatar-gp-motogp-threatens-penalties/</loc>
+    <lastmod>2026-11-01T10:08:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359925_HiRes.jpg</image:loc>
+      <image:title>Yamaha pulls out of Qatar GP, MotoGP threatens penalties</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1s-attempt-to-prevent-a-repeat-of-mexico-turn-1-antics/</loc>
+    <lastmod>2026-11-01T09:54:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1382584_HiRes.jpg</image:loc>
+      <image:title>F1&#x27;s attempt to prevent a repeat of Mexico Turn 1 antics</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1s-attempt-to-prevent-a-repeat-of-mexico-turn-1-antics/</loc>
+    <lastmod>2026-11-01T09:54:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1382584_HiRes.jpg</image:loc>
+      <image:title>F1&#x27;s attempt to prevent a repeat of Mexico Turn 1 antics</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/alex-marquez-withdraws-from-qatar-gp-for-surgery/</loc>
@@ -2955,206 +3035,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivian-electric-commercial-van.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Rivian Unleashes AWD Electric Delivery Van With 30% More Range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyotas-ev-sales-more-than-doubled-in-a-year-but-gas-cars-are-get/</loc>
-    <lastmod>2026-10-29T20:02:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/Toyota-EV-sales-gas-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Toyota EV Sales Double, But Gas Cars Face Brutal Slump In China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyotas-ev-sales-more-than-doubled-in-a-year-but-gas-cars-are-get/</loc>
-    <lastmod>2026-10-29T20:02:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/Toyota-EV-sales-gas-prices.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Toyota EV Sales Double, But Gas Cars Face Brutal Slump In China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-r2-suv-is-already-rivians-best-selling-vehicle/</loc>
-    <lastmod>2026-10-29T20:02:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1600,1067</image:loc>
-      <image:title>Rivian R2 Smashes Records: Already The Brand&#x27;s Best-Selling EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-r2-suv-is-already-rivians-best-selling-vehicle/</loc>
-    <lastmod>2026-10-29T20:02:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1600,1067</image:loc>
-      <image:title>Rivian R2 Smashes Records: Already The Brand&#x27;s Best-Selling EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rivian-rivn-q3-2026-earnings-revenue-up-38-r2-now-its-best-seller/</loc>
-    <lastmod>2026-10-29T20:02:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/rivian-r2-exterior.jpg?quality=82&amp;strip=all&amp;w=1500</image:loc>
-      <image:title>Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rivian-rivn-q3-2026-earnings-revenue-up-38-r2-now-its-best-seller/</loc>
-    <lastmod>2026-10-29T20:02:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/rivian-r2-exterior.jpg?quality=82&amp;strip=all&amp;w=1500</image:loc>
-      <image:title>Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-fiat-topolino-finally-earns-street-legal-status-in-the-state/</loc>
-    <lastmod>2026-10-29T19:57:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c4fca2f-d92d-4972-bc1c-78618ec112d7.jpg</image:loc>
-      <image:title>2027 Fiat Topolino Finally Earns Street-Legal Status in the States</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-fiat-topolino-finally-earns-street-legal-status-in-the-state/</loc>
-    <lastmod>2026-10-29T19:57:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c4fca2f-d92d-4972-bc1c-78618ec112d7.jpg</image:loc>
-      <image:title>2027 Fiat Topolino Finally Earns Street-Legal Status in the States</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/republican-anti-flock-bill-might-ban-all-automated-traffic-enforc/</loc>
-    <lastmod>2026-10-29T19:34:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/republican-anti-flock-bill-might-ban-all-automated-traffic-enforcement/l-intro-1793301697.jpg</image:loc>
-      <image:title>Republican Anti-Flock Bill Might Ban All Automated Traffic Enforcement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/republican-anti-flock-bill-might-ban-all-automated-traffic-enforc/</loc>
-    <lastmod>2026-10-29T19:34:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/republican-anti-flock-bill-might-ban-all-automated-traffic-enforcement/l-intro-1793301697.jpg</image:loc>
-      <image:title>Republican Anti-Flock Bill Might Ban All Automated Traffic Enforcement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/xpeng-l05-offers-a-bit-more/</loc>
-    <lastmod>2026-10-29T19:30:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/pic_20261012093802_52987-scaled.jpg</image:loc>
-      <image:title>Xpeng Unveils Sleek L05 EV Sedan To Challenge Tesla Model 3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/xpeng-l05-offers-a-bit-more/</loc>
-    <lastmod>2026-10-29T19:30:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/pic_20261012093802_52987-scaled.jpg</image:loc>
-      <image:title>Xpeng Unveils Sleek L05 EV Sedan To Challenge Tesla Model 3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon/</loc>
-    <lastmod>2026-10-29T19:13:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon-enough/l-intro-1793300580.jpg</image:loc>
-      <image:title>Toyota&#x27;s Next Hybrids Will Sip 15% Less Gas, And They Can&#x27;t Come Soon Enough</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon/</loc>
-    <lastmod>2026-10-29T19:13:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon-enough/l-intro-1793300580.jpg</image:loc>
-      <image:title>Toyota&#x27;s Next Hybrids Will Sip 15% Less Gas, And They Can&#x27;t Come Soon Enough</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tested-1991-bmw-318i-has-a-case-of-the-wiggles/</loc>
-    <lastmod>2026-10-29T18:37:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7ef6f540-059e-40f1-9bf6-ee1d9d8db5df.jpg?crop=0.77xw:0.577xh;0.134xw,0.235xh&amp;resize=1200:*</image:loc>
-      <image:title>Retro Road Test: How The 1991 BMW 318i Handles Modern Roads 35 Years Later</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tested-1991-bmw-318i-has-a-case-of-the-wiggles/</loc>
-    <lastmod>2026-10-29T18:37:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7ef6f540-059e-40f1-9bf6-ee1d9d8db5df.jpg?crop=0.77xw:0.577xh;0.134xw,0.235xh&amp;resize=1200:*</image:loc>
-      <image:title>Retro Road Test: How The 1991 BMW 318i Handles Modern Roads 35 Years Later</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely/</loc>
-    <lastmod>2026-10-29T18:28:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely-make-gas-less-expensive/l-intro-1793297893.jpg</image:loc>
-      <image:title>Oil Shock: Three Tankers Hit By Mines In Strait Of Hormuz Threaten Gas Price Surge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely/</loc>
-    <lastmod>2026-10-29T18:28:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely-make-gas-less-expensive/l-intro-1793297893.jpg</image:loc>
-      <image:title>Oil Shock: Three Tankers Hit By Mines In Strait Of Hormuz Threaten Gas Price Surge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-somethin/</loc>
-    <lastmod>2026-10-29T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-something-fun-what-should-i-buy/l-intro-1793294070.jpg</image:loc>
-      <image:title>Upgrading From A Reliable Beater: The Best Fun Driver&#x27;s Cars Under $35K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-somethin/</loc>
-    <lastmod>2026-10-29T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-something-fun-what-should-i-buy/l-intro-1793294070.jpg</image:loc>
-      <image:title>Upgrading From A Reliable Beater: The Best Fun Driver&#x27;s Cars Under $35K</image:title>
     </image:image>
   </url>
 </urlset>
