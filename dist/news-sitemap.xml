@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/7-naturally-aspirated-4-cylinder-engines-that-pump-out-v6-and-eve/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T01:25:00+00:00</news:publication_date>
+      <news:title>7 Naturally Aspirated 4-Cylinder Engines That Pump Out V6 And Even V8 Power</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-naturally-aspirated-4-cylinder-engines-that-pump-out-v6-and-even-v8-power/l-intro-1792759019.jpg</image:loc>
+      <image:title>7 Naturally Aspirated 4-Cylinder Engines That Pump Out V6 And Even V8 Power</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/winners-and-losers-from-mexican-grand-prix-f1-qualifying-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T01:17:35+00:00</news:publication_date>
+      <news:title>Winners and losers from Mexican Grand Prix F1 qualifying 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449759_HiRes.jpg</image:loc>
+      <image:title>Winners and losers from Mexican Grand Prix F1 qualifying 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lawson-thrown-out-of-mexican-gp-qualifying-results/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T01:10:00+00:00</news:publication_date>
+      <news:title>Lawson thrown out of Mexican GP qualifying results</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449795_HiRes.jpg</image:loc>
+      <image:title>Lawson thrown out of Mexican GP qualifying results</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-v8s-with-a-reputation-for-being-nearly-indestructible/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T23:50:00+00:00</news:publication_date>
+      <news:title>7 V8s With A Reputation For Being Nearly Indestructible</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-v8s-with-a-reputation-for-being-nearly-indestructible/l-intro-1792701990.jpg</image:loc>
+      <image:title>7 V8s With A Reputation For Being Nearly Indestructible</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-the-hyundai-tucson-loses-almost-7-cubic-feet-of-cargo-space-i/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T23:25:00+00:00</news:publication_date>
+      <news:title>Why The Hyundai Tucson Loses Almost 7 Cubic Feet Of Cargo Space In PHEV Form</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-the-hyundai-tucson-loses-almost-7-cubic-feet-of-cargo-space-in-phev-form/l-intro-1793025995.jpg</image:loc>
+      <image:title>Why The Hyundai Tucson Loses Almost 7 Cubic Feet Of Cargo Space In PHEV Form</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/semi-truck-fleets-looking-to-fight-high-diesel-prices-have-a-new-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T22:25:00+00:00</news:publication_date>
+      <news:title>Semi-Truck Fleets Looking To Fight High Diesel Prices Have A New Aerodynamic Aid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/semi-truck-fleets-looking-to-fight-high-diesel-prices-have-a-new-aerodynamic-aid/l-intro-1792697604.jpg</image:loc>
+      <image:title>Semi-Truck Fleets Looking To Fight High Diesel Prices Have A New Aerodynamic Aid</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/youtuber-invents-device-that-hides-license-plates-from-flock-came/</loc>
     <news:news>
       <news:publication>
@@ -75,6 +165,36 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/why-you-might-need-to-use-neutral-on-an-automatic-transmission/l-intro-1793113963.jpg</image:loc>
       <image:title>Why You Might Need To Use Neutral On An Automatic Transmission</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-we-as-enthusiasts-accept-the-risk-of-driving-old-unsafe-cars/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T19:25:00+00:00</news:publication_date>
+      <news:title>Why We As Enthusiasts Accept The Risk Of Driving Old, Unsafe Cars</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-we-as-enthusiasts-accept-the-risk-of-driving-old-unsafe-cars/l-intro-1792690641.jpg</image:loc>
+      <image:title>Why We As Enthusiasts Accept The Risk Of Driving Old, Unsafe Cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2026-audi-q3-and-toyota-rav4-phev-underperform-in-iihs-updated-mo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T19:05:00+00:00</news:publication_date>
+      <news:title>2026 Audi Q3 And Toyota RAV4 PHEV Underperform In IIHS Updated Moderate Overlap Crash Test</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2026-audi-q3-and-toyota-rav4-phev-underperform-in-iihs-updated-moderate-overlap-crash-test/l-intro-1793219586.jpg</image:loc>
+      <image:title>2026 Audi Q3 And Toyota RAV4 PHEV Underperform In IIHS Updated Moderate Overlap Crash Test</image:title>
     </image:image>
   </url>
   <url>
@@ -1740,126 +1860,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/10/biofuels.jpg</image:loc>
       <image:title>The Zombie Engine: How Brussels Bureaucrats Are Breathing False Life Into Combustion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/misconceptions-about-mobility-growth/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T01:22:18+00:00</news:publication_date>
-      <news:title>Misconceptions about Mobility Growth</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/20191112_paris-train-station-transit-KYLE-scaled-1.jpg</image:loc>
-      <image:title>Misconceptions about Mobility Growth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/its-not-enough-to-electrify-more-we-must-electrify-better/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T01:03:38+00:00</news:publication_date>
-      <news:title>It’s Not Enough To Electrify More. We Must Electrify Better.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/06/Electric-Home-Show-Hawaii-electric-bus-2.png</image:loc>
-      <image:title>It’s Not Enough To Electrify More. We Must Electrify Better.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T00:50:45+00:00</news:publication_date>
-      <news:title>This Odd Subaru WRX Prototype Looks Like A Wacky Longtail</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/l-intro-1793321340.jpg</image:loc>
-      <image:title>This Odd Subaru WRX Prototype Looks Like A Wacky Longtail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/everything-we-learned-on-day-one-of-f1s-mexican-gp/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T23:45:54+00:00</news:publication_date>
-      <news:title>Everything we learned on day one of F1&#x27;s Mexican GP</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/28OCT26SBCheco-004.jpg</image:loc>
-      <image:title>Everything we learned on day one of F1&#x27;s Mexican GP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-q3-loss-largest-since-dieselgate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T23:44:37+00:00</news:publication_date>
-      <news:title>Volkswagen Q3 Loss Largest Since Dieselgate</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/VW-computer-architecture-China.jpg</image:loc>
-      <image:title>Volkswagen Q3 Loss Largest Since Dieselgate</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-bmw-3-series-drive-not-just-different-but-better/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T23:01:00+00:00</news:publication_date>
-      <news:title>2027 BMW 3-Series Drive: Not Just Different but Better</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/8a6efedf-9c45-44fa-a5f2-57fcbdf0af67.jpg?crop=0.694xw:0.521xh;0.232xw,0.249xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 BMW 3-Series Drive: Not Just Different but Better</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-warns-owners-not-to-charge-their-id-4-or-audi-q4-e-tro/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T22:02:32+00:00</news:publication_date>
-      <news:title>Volkswagen Warns Owners Not To Charge Their ID 4 Or Audi Q4 E-Trons Over 80% Or Risk Fire</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/volkswagen-warns-owners-not-to-charge-their-id-4-or-audi-q4-e-trons-over-80-or-risk-fire/l-intro-1793310871.jpg</image:loc>
-      <image:title>Volkswagen Warns Owners Not To Charge Their ID 4 Or Audi Q4 E-Trons Over 80% Or Risk Fire</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rivals-reject-alonsos-brutal-low-quality-f1-drivers-claim/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T21:50:32+00:00</news:publication_date>
-      <news:title>Rivals reject Alonso&#x27;s brutal &#x27;low quality&#x27; F1 drivers claim</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448198_HiRes.jpg</image:loc>
-      <image:title>Rivals reject Alonso&#x27;s brutal &#x27;low quality&#x27; F1 drivers claim</image:title>
     </image:image>
   </url>
 </urlset>
