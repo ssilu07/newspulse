@@ -3,39 +3,259 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-01T16:13:33Z</lastmod>
+    <lastmod>2026-11-01T18:36:36Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-01T16:13:33Z</lastmod>
+    <lastmod>2026-11-01T18:36:36Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-01T16:13:33Z</lastmod>
+    <lastmod>2026-11-01T18:36:36Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-01T16:13:33Z</lastmod>
+    <lastmod>2026-11-01T18:36:36Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-01T16:13:33Z</lastmod>
+    <lastmod>2026-11-01T18:36:36Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-01T16:13:33Z</lastmod>
+    <lastmod>2026-11-01T18:36:36Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/yes-electric-motorcycles-will-replace-gasoline-motorcycles-but-no/</loc>
+    <lastmod>2026-11-01T18:26:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/04/flying-flea-royal-enfield-motorcycle-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/yes-electric-motorcycles-will-replace-gasoline-motorcycles-but-no/</loc>
+    <lastmod>2026-11-01T18:26:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/04/flying-flea-royal-enfield-motorcycle-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-cars-and-long-scarves-dont-mix/</loc>
+    <lastmod>2026-11-01T18:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-cars-and-long-scarves-dont-mix/l-intro-1793050927.jpg</image:loc>
+      <image:title>Why Cars And Long Scarves Don&#x27;t Mix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-cars-and-long-scarves-dont-mix/</loc>
+    <lastmod>2026-11-01T18:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-cars-and-long-scarves-dont-mix/l-intro-1793050927.jpg</image:loc>
+      <image:title>Why Cars And Long Scarves Don&#x27;t Mix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/are-kia-and-hyundais-engines-the-same/</loc>
+    <lastmod>2026-11-01T18:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/are-kia-and-hyundais-engines-the-same/l-intro-1793217198.jpg</image:loc>
+      <image:title>Are Kia And Hyundai&#x27;s Engines The Same?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/are-kia-and-hyundais-engines-the-same/</loc>
+    <lastmod>2026-11-01T18:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/are-kia-and-hyundais-engines-the-same/l-intro-1793217198.jpg</image:loc>
+      <image:title>Are Kia And Hyundai&#x27;s Engines The Same?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/peterbilt-makes-it-easier-than-ever-for-government-fleets-to-go-e/</loc>
+    <lastmod>2026-11-01T17:48:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/PB_EV-Family-Lineup_1_Hi-Res.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Peterbilt makes it easier than ever for government fleets to go electric</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/peterbilt-makes-it-easier-than-ever-for-government-fleets-to-go-e/</loc>
+    <lastmod>2026-11-01T17:48:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/PB_EV-Family-Lineup_1_Hi-Res.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Peterbilt makes it easier than ever for government fleets to go electric</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/10-of-the-most-influential-concept-cars-ever-made/</loc>
+    <lastmod>2026-11-01T17:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/10-of-the-most-influential-concept-cars-ever-made/l-intro-1793041945.jpg</image:loc>
+      <image:title>10 Of The Most Influential Concept Cars Ever Made</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/10-of-the-most-influential-concept-cars-ever-made/</loc>
+    <lastmod>2026-11-01T17:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/10-of-the-most-influential-concept-cars-ever-made/l-intro-1793041945.jpg</image:loc>
+      <image:title>10 Of The Most Influential Concept Cars Ever Made</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-to-tell-your-cars-oil-pump-is-going-bad/</loc>
+    <lastmod>2026-11-01T17:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-to-tell-your-cars-oil-pump-is-going-bad/l-intro-1793048291.jpg</image:loc>
+      <image:title>How To Tell Your Car&#x27;s Oil Pump Is Going Bad</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-to-tell-your-cars-oil-pump-is-going-bad/</loc>
+    <lastmod>2026-11-01T17:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-to-tell-your-cars-oil-pump-is-going-bad/l-intro-1793048291.jpg</image:loc>
+      <image:title>How To Tell Your Car&#x27;s Oil Pump Is Going Bad</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/everything-trump-touches-dies-a-warning-for-america/</loc>
+    <lastmod>2026-11-01T17:17:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/09/Trump-the-Fool.jpg</image:loc>
+      <image:title>Everything Trump Touches Dies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/everything-trump-touches-dies-a-warning-for-america/</loc>
+    <lastmod>2026-11-01T17:17:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/09/Trump-the-Fool.jpg</image:loc>
+      <image:title>Everything Trump Touches Dies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gen-zers-have-an-uphill-battle-for-automotive-enthusiasm-but-here/</loc>
+    <lastmod>2026-11-01T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/gen-zers-have-an-uphill-battle-for-automotive-enthusiasm-but-heres-the-silver-lining/l-intro-1793047658.jpg</image:loc>
+      <image:title>Gen-Zers Have An Uphill Battle For Automotive Enthusiasm, But Here&#x27;s The Silver Lining</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gen-zers-have-an-uphill-battle-for-automotive-enthusiasm-but-here/</loc>
+    <lastmod>2026-11-01T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/gen-zers-have-an-uphill-battle-for-automotive-enthusiasm-but-heres-the-silver-lining/l-intro-1793047658.jpg</image:loc>
+      <image:title>Gen-Zers Have An Uphill Battle For Automotive Enthusiasm, But Here&#x27;s The Silver Lining</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/techcrunch-mobility-a-new-bigger-av-boom-is-here/</loc>
+    <lastmod>2026-11-01T17:04:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/robotaxi-illustration.jpg?resize=1600,1067</image:loc>
+      <image:title>TechCrunch Mobility: A new, bigger AV boom is here</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/techcrunch-mobility-a-new-bigger-av-boom-is-here/</loc>
+    <lastmod>2026-11-01T17:04:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/robotaxi-illustration.jpg?resize=1600,1067</image:loc>
+      <image:title>TechCrunch Mobility: A new, bigger AV boom is here</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/westward-ho-first-trip-cross-country-with-our-new-2026-tesla-mode/</loc>
+    <lastmod>2026-11-01T17:02:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/4863.-Mary-and-2026-Tesla.-Supercharger.-Wall-South-Dakota.-October-19-2026.-Fritz-Hasler-Photo-scaled.jpg</image:loc>
+      <image:title>Westward Ho! First Trip Cross Country with Our New 2026 Tesla Model Y &amp; Full Self Driving V14</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/westward-ho-first-trip-cross-country-with-our-new-2026-tesla-mode/</loc>
+    <lastmod>2026-11-01T17:02:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/4863.-Mary-and-2026-Tesla.-Supercharger.-Wall-South-Dakota.-October-19-2026.-Fritz-Hasler-Photo-scaled.jpg</image:loc>
+      <image:title>Westward Ho! First Trip Cross Country with Our New 2026 Tesla Model Y &amp; Full Self Driving V14</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bigger-badder-section-179-tax-deduction-could-power-up-fleet-elec/</loc>
+    <lastmod>2026-11-01T16:50:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/10/einride_tesla.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Bigger, badder Section 179 tax deduction could POWER UP fleet electrification [update]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bigger-badder-section-179-tax-deduction-could-power-up-fleet-elec/</loc>
+    <lastmod>2026-11-01T16:50:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/10/einride_tesla.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Bigger, badder Section 179 tax deduction could POWER UP fleet electrification [update]</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/speeders-just-got-lucky-the-new-chevy-police-silverado-is-not-ele/</loc>
@@ -138,6 +358,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/f1-2026-mexican-grand-prix-starting-grid-with-four-penalties/</loc>
+    <lastmod>2026-11-01T14:09:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449867_HiRes.jpg</image:loc>
+      <image:title>F1 2026 Mexican Grand Prix starting grid with four penalties</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1-2026-mexican-grand-prix-starting-grid-with-four-penalties/</loc>
+    <lastmod>2026-11-01T14:09:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449867_HiRes.jpg</image:loc>
+      <image:title>F1 2026 Mexican Grand Prix starting grid with four penalties</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bad-flock-info-leads-police-to-tow-wrong-car-then-towing-company-/</loc>
     <lastmod>2026-11-01T14:05:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -175,6 +415,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Balloon-deflating-pexels-aurore-murguet.jpg</image:loc>
       <image:title>AI Balloon in China Deflates by Half a Trillion Dollars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/11-of-the-most-powerful-pony-cars-ever-to-leave-the-factory/</loc>
+    <lastmod>2026-11-01T13:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/11-of-the-most-powerful-pony-cars-ever-to-leave-the-factory/l-intro-1793366017.jpg</image:loc>
+      <image:title>11 Of The Most Powerful Pony Cars Ever To Leave The Factory</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/11-of-the-most-powerful-pony-cars-ever-to-leave-the-factory/</loc>
+    <lastmod>2026-11-01T13:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/11-of-the-most-powerful-pony-cars-ever-to-leave-the-factory/l-intro-1793366017.jpg</image:loc>
+      <image:title>11 Of The Most Powerful Pony Cars Ever To Leave The Factory</image:title>
     </image:image>
   </url>
   <url>
@@ -455,6 +715,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-ever-built/l-intro-1792678835.jpg</image:loc>
       <image:title>Why The Toyota Hilux Is One Of The Most Legendary Compact Trucks Ever Built</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-decided-mexico-pole-fight-before-final-laps-even-started/</loc>
+    <lastmod>2026-11-01T02:40:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449481_HiRes.jpg</image:loc>
+      <image:title>What decided Mexico pole fight before final laps even started</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-decided-mexico-pole-fight-before-final-laps-even-started/</loc>
+    <lastmod>2026-11-01T02:40:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449481_HiRes.jpg</image:loc>
+      <image:title>What decided Mexico pole fight before final laps even started</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/08/livewire-header-image.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Harley-Davidson&#x27;s LiveWire EV Brand Warns It May Face Complete Collapse</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/waymo-taps-toyota-to-supply-robotaxis-for-japan-and-the-uk/</loc>
-    <lastmod>2026-10-30T07:01:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1600,1067</image:loc>
-      <image:title>Waymo taps Toyota to supply robotaxis for Japan and the U.K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/waymo-taps-toyota-to-supply-robotaxis-for-japan-and-the-uk/</loc>
-    <lastmod>2026-10-30T07:01:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1600,1067</image:loc>
-      <image:title>Waymo taps Toyota to supply robotaxis for Japan and the U.K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-thing/</loc>
-    <lastmod>2026-10-30T06:51:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/also-ebike-low-battery-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Rivian&#x27;s E-Bike Battery Died Mid-Ride And Things Got Chaotic</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-thing/</loc>
-    <lastmod>2026-10-30T06:51:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/also-ebike-low-battery-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Rivian&#x27;s E-Bike Battery Died Mid-Ride And Things Got Chaotic</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/injured-martin-cleared-to-race-in-malaysia-after-first-practice/</loc>
-    <lastmod>2026-10-30T03:47:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357741_HiRes.jpg</image:loc>
-      <image:title>Injured Martin cleared to race in Malaysia after first practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/injured-martin-cleared-to-race-in-malaysia-after-first-practice/</loc>
-    <lastmod>2026-10-30T03:47:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1357741_HiRes.jpg</image:loc>
-      <image:title>Injured Martin cleared to race in Malaysia after first practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/off-grid-power-in-a-briefcase-the-goal-zero-boulder-100/</loc>
-    <lastmod>2026-10-30T03:30:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/100-Solar-Briefcase-Goal-Zero.jpg</image:loc>
-      <image:title>Off-Grid Power In A Briefcase: The Goal Zero Boulder 100</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/off-grid-power-in-a-briefcase-the-goal-zero-boulder-100/</loc>
-    <lastmod>2026-10-30T03:30:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/100-Solar-Briefcase-Goal-Zero.jpg</image:loc>
-      <image:title>Off-Grid Power In A Briefcase: The Goal Zero Boulder 100</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-photos-of-the-honda-passport-baja-spec-trophy-truck/</loc>
-    <lastmod>2026-10-30T03:30:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/37e7a98d-12de-47c9-8b0f-35034d17dc08.jpg?crop=1xw:0.75xh;0xw,0.144xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: The Honda Passport Baja Spec Trophy Truck Revealed In Stunning Detail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-photos-of-the-honda-passport-baja-spec-trophy-truck/</loc>
-    <lastmod>2026-10-30T03:30:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/37e7a98d-12de-47c9-8b0f-35034d17dc08.jpg?crop=1xw:0.75xh;0xw,0.144xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: The Honda Passport Baja Spec Trophy Truck Revealed In Stunning Detail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hrcs-1300-hp-trophy-truck-is-the-most-badass-honda-passport-ever/</loc>
-    <lastmod>2026-10-30T03:30:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/89cd7d40-50c3-49ef-bfd1-f8c24b351a7e.jpg</image:loc>
-      <image:title>HRC&#x27;s 1,300-HP Monster Is The Most Badass Honda Passport Ever Built</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hrcs-1300-hp-trophy-truck-is-the-most-badass-honda-passport-ever/</loc>
-    <lastmod>2026-10-30T03:30:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/89cd7d40-50c3-49ef-bfd1-f8c24b351a7e.jpg</image:loc>
-      <image:title>HRC&#x27;s 1,300-HP Monster Is The Most Badass Honda Passport Ever Built</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/big-oil-cashes-in-on-trump-campaign-investment-doubles-earnings-c/</loc>
-    <lastmod>2026-10-30T03:25:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Fossil-Fuels-Oil-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Big Oil Cashes in on Trump Campaign Investment, Doubles Earnings Compared to Last Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/big-oil-cashes-in-on-trump-campaign-investment-doubles-earnings-c/</loc>
-    <lastmod>2026-10-30T03:25:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Fossil-Fuels-Oil-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Big Oil Cashes in on Trump Campaign Investment, Doubles Earnings Compared to Last Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/eugene-becomes-5th-oregon-city-to-adopt-home-energy-score-require/</loc>
-    <lastmod>2026-10-30T03:22:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Energy Mandate: Oregon City Enforces Strict Home Energy Scoring Rules</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/eugene-becomes-5th-oregon-city-to-adopt-home-energy-score-require/</loc>
-    <lastmod>2026-10-30T03:22:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Energy Mandate: Oregon City Enforces Strict Home Energy Scoring Rules</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-racing-unleashes-a-1300-hp-hybrid-passport-trophy-truck/</loc>
-    <lastmod>2026-10-30T03:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/honda-racing-unleashes-a-1300-hp-hybrid-passport-trophy-truck/l-intro-1793306100.jpg</image:loc>
-      <image:title>Honda Racing Unleashes Insane 1,300+ HP Hybrid Passport Trophy Truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-racing-unleashes-a-1300-hp-hybrid-passport-trophy-truck/</loc>
-    <lastmod>2026-10-30T03:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/honda-racing-unleashes-a-1300-hp-hybrid-passport-trophy-truck/l-intro-1793306100.jpg</image:loc>
-      <image:title>Honda Racing Unleashes Insane 1,300+ HP Hybrid Passport Trophy Truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-zombie-engine-how-brussels-bureaucrats-are-breathing-false-li/</loc>
-    <lastmod>2026-10-30T01:32:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/10/biofuels.jpg</image:loc>
-      <image:title>The Zombie Engine: How Brussels Bureaucrats Are Breathing False Life Into Combustion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-zombie-engine-how-brussels-bureaucrats-are-breathing-false-li/</loc>
-    <lastmod>2026-10-30T01:32:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/10/biofuels.jpg</image:loc>
-      <image:title>The Zombie Engine: How Brussels Bureaucrats Are Breathing False Life Into Combustion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/misconceptions-about-mobility-growth/</loc>
-    <lastmod>2026-10-30T01:22:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/20191112_paris-train-station-transit-KYLE-scaled-1.jpg</image:loc>
-      <image:title>Misconceptions about Mobility Growth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/misconceptions-about-mobility-growth/</loc>
-    <lastmod>2026-10-30T01:22:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/20191112_paris-train-station-transit-KYLE-scaled-1.jpg</image:loc>
-      <image:title>Misconceptions about Mobility Growth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/its-not-enough-to-electrify-more-we-must-electrify-better/</loc>
-    <lastmod>2026-10-30T01:03:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/06/Electric-Home-Show-Hawaii-electric-bus-2.png</image:loc>
-      <image:title>The Mobility Crisis: Why Simply Building More EVs Won&#x27;t Save Us</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/its-not-enough-to-electrify-more-we-must-electrify-better/</loc>
-    <lastmod>2026-10-30T01:03:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/06/Electric-Home-Show-Hawaii-electric-bus-2.png</image:loc>
-      <image:title>The Mobility Crisis: Why Simply Building More EVs Won&#x27;t Save Us</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/</loc>
-    <lastmod>2026-10-30T00:50:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/l-intro-1793321340.jpg</image:loc>
-      <image:title>This Odd Subaru WRX Prototype Looks Like A Wacky Longtail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/</loc>
-    <lastmod>2026-10-30T00:50:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-odd-subaru-wrx-prototype-looks-like-a-wacky-longtail/l-intro-1793321340.jpg</image:loc>
-      <image:title>This Odd Subaru WRX Prototype Looks Like A Wacky Longtail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/everything-we-learned-on-day-one-of-f1s-mexican-gp/</loc>
-    <lastmod>2026-10-29T23:45:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/28OCT26SBCheco-004.jpg</image:loc>
-      <image:title>5 Shocking Revelations From Day One At F1&#x27;s Mexican GP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/everything-we-learned-on-day-one-of-f1s-mexican-gp/</loc>
-    <lastmod>2026-10-29T23:45:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/28OCT26SBCheco-004.jpg</image:loc>
-      <image:title>5 Shocking Revelations From Day One At F1&#x27;s Mexican GP</image:title>
     </image:image>
   </url>
 </urlset>
