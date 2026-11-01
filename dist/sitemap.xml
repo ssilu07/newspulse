@@ -3,39 +3,139 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-01T08:42:32Z</lastmod>
+    <lastmod>2026-11-01T09:26:57Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-01T08:42:32Z</lastmod>
+    <lastmod>2026-11-01T09:26:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-01T08:42:32Z</lastmod>
+    <lastmod>2026-11-01T09:26:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-01T08:42:32Z</lastmod>
+    <lastmod>2026-11-01T09:26:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-01T08:42:32Z</lastmod>
+    <lastmod>2026-11-01T09:26:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-01T08:42:32Z</lastmod>
+    <lastmod>2026-11-01T09:26:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/alex-marquez-withdraws-from-qatar-gp-for-surgery/</loc>
+    <lastmod>2026-11-01T09:03:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359658_HiRes.jpg</image:loc>
+      <image:title>Alex Marquez withdraws from Qatar GP for surgery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/alex-marquez-withdraws-from-qatar-gp-for-surgery/</loc>
+    <lastmod>2026-11-01T09:03:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359658_HiRes.jpg</image:loc>
+      <image:title>Alex Marquez withdraws from Qatar GP for surgery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-has-dominated-motorcycles-for-decades-electric-bikes-are-ch/</loc>
+    <lastmod>2026-11-01T08:17:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/honda-super-cub-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Honda has dominated motorcycles for decades. Electric bikes are changing that</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-has-dominated-motorcycles-for-decades-electric-bikes-are-ch/</loc>
+    <lastmod>2026-11-01T08:17:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/honda-super-cub-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Honda has dominated motorcycles for decades. Electric bikes are changing that</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/marquez-takes-complete-control-of-title-fight-with-sepang-win/</loc>
+    <lastmod>2026-11-01T07:56:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359663_HiRes.jpg</image:loc>
+      <image:title>Marquez takes complete control of title fight with Sepang win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/marquez-takes-complete-control-of-title-fight-with-sepang-win/</loc>
+    <lastmod>2026-11-01T07:56:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359663_HiRes.jpg</image:loc>
+      <image:title>Marquez takes complete control of title fight with Sepang win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/australian-icon-a-1963-holden-eh-special/</loc>
+    <lastmod>2026-11-01T03:30:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Holden-EH-Special-Sedan-Car-5.jpg</image:loc>
+      <image:title>Australian Icon: A 1963 Holden EH “Special”</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/australian-icon-a-1963-holden-eh-special/</loc>
+    <lastmod>2026-11-01T03:30:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Holden-EH-Special-Sedan-Car-5.jpg</image:loc>
+      <image:title>Australian Icon: A 1963 Holden EH “Special”</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-/</loc>
+    <lastmod>2026-11-01T03:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-ever-built/l-intro-1792678835.jpg</image:loc>
+      <image:title>Why The Toyota Hilux Is One Of The Most Legendary Compact Trucks Ever Built</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-/</loc>
+    <lastmod>2026-11-01T03:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-ever-built/l-intro-1792678835.jpg</image:loc>
+      <image:title>Why The Toyota Hilux Is One Of The Most Legendary Compact Trucks Ever Built</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/7-naturally-aspirated-4-cylinder-engines-that-pump-out-v6-and-eve/</loc>
@@ -335,6 +435,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/2026-09-Europe-EV-Sales-Report-September.png</image:loc>
       <image:title>Record Demand Catches (Some) OEMs with Their Pants Down — Europe September 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/compact-trucks-were-everywhere-in-the-70s-and-they-might-be-makin/</loc>
+    <lastmod>2026-10-31T18:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/compact-trucks-were-everywhere-in-the-70s-and-they-might-be-making-a-comeback/l-intro-1792763654.jpg</image:loc>
+      <image:title>Compact Trucks Were Everywhere In The &#x27;70s, And They Might Be Making A Comeback</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/compact-trucks-were-everywhere-in-the-70s-and-they-might-be-makin/</loc>
+    <lastmod>2026-10-31T18:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/compact-trucks-were-everywhere-in-the-70s-and-they-might-be-making-a-comeback/l-intro-1792763654.jpg</image:loc>
+      <image:title>Compact Trucks Were Everywhere In The &#x27;70s, And They Might Be Making A Comeback</image:title>
     </image:image>
   </url>
   <url>
@@ -2915,126 +3035,6 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c4fca2f-d92d-4972-bc1c-78618ec112d7.jpg</image:loc>
       <image:title>2027 Fiat Topolino Finally Earns Street-Legal Status in the States</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/republican-anti-flock-bill-might-ban-all-automated-traffic-enforc/</loc>
-    <lastmod>2026-10-29T19:34:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/republican-anti-flock-bill-might-ban-all-automated-traffic-enforcement/l-intro-1793301697.jpg</image:loc>
-      <image:title>Republican Anti-Flock Bill Might Ban All Automated Traffic Enforcement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/republican-anti-flock-bill-might-ban-all-automated-traffic-enforc/</loc>
-    <lastmod>2026-10-29T19:34:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/republican-anti-flock-bill-might-ban-all-automated-traffic-enforcement/l-intro-1793301697.jpg</image:loc>
-      <image:title>Republican Anti-Flock Bill Might Ban All Automated Traffic Enforcement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/xpeng-l05-offers-a-bit-more/</loc>
-    <lastmod>2026-10-29T19:30:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/pic_20261012093802_52987-scaled.jpg</image:loc>
-      <image:title>XPENG L05 Offers A Bit More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/xpeng-l05-offers-a-bit-more/</loc>
-    <lastmod>2026-10-29T19:30:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/pic_20261012093802_52987-scaled.jpg</image:loc>
-      <image:title>XPENG L05 Offers A Bit More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon/</loc>
-    <lastmod>2026-10-29T19:13:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon-enough/l-intro-1793300580.jpg</image:loc>
-      <image:title>Toyota&#x27;s Next Hybrids Will Sip 15% Less Gas, And They Can&#x27;t Come Soon Enough</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon/</loc>
-    <lastmod>2026-10-29T19:13:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyotas-next-hybrids-will-sip-15-less-gas-and-they-cant-come-soon-enough/l-intro-1793300580.jpg</image:loc>
-      <image:title>Toyota&#x27;s Next Hybrids Will Sip 15% Less Gas, And They Can&#x27;t Come Soon Enough</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tested-1991-bmw-318i-has-a-case-of-the-wiggles/</loc>
-    <lastmod>2026-10-29T18:37:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7ef6f540-059e-40f1-9bf6-ee1d9d8db5df.jpg?crop=0.77xw:0.577xh;0.134xw,0.235xh&amp;resize=1200:*</image:loc>
-      <image:title>Tested: 1991 BMW 318i Has a Case of the Wiggles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tested-1991-bmw-318i-has-a-case-of-the-wiggles/</loc>
-    <lastmod>2026-10-29T18:37:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7ef6f540-059e-40f1-9bf6-ee1d9d8db5df.jpg?crop=0.77xw:0.577xh;0.134xw,0.235xh&amp;resize=1200:*</image:loc>
-      <image:title>Tested: 1991 BMW 318i Has a Case of the Wiggles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely/</loc>
-    <lastmod>2026-10-29T18:28:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely-make-gas-less-expensive/l-intro-1793297893.jpg</image:loc>
-      <image:title>Three Tankers Hit Mines In Strait Of Hormuz, Which Will Definitely Make Gas Less Expensive</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely/</loc>
-    <lastmod>2026-10-29T18:28:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/three-tankers-hit-mines-in-strait-of-hormuz-which-will-definitely-make-gas-less-expensive/l-intro-1793297893.jpg</image:loc>
-      <image:title>Three Tankers Hit Mines In Strait Of Hormuz, Which Will Definitely Make Gas Less Expensive</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-somethin/</loc>
-    <lastmod>2026-10-29T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-something-fun-what-should-i-buy/l-intro-1793294070.jpg</image:loc>
-      <image:title>I Just Graduated Law School, Time To Upgrade My Toyota To Something Fun! What Should I Buy?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-somethin/</loc>
-    <lastmod>2026-10-29T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/i-just-graduated-law-school-time-to-upgrade-my-toyota-to-something-fun-what-should-i-buy/l-intro-1793294070.jpg</image:loc>
-      <image:title>I Just Graduated Law School, Time To Upgrade My Toyota To Something Fun! What Should I Buy?</image:title>
     </image:image>
   </url>
 </urlset>
