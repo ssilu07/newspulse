@@ -28,13 +28,27 @@
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "yw5kuxh5pg");
   </script>
-  <!-- Google Analytics (gtag.js) -->
+  <!-- Google Analytics (gtag.js) with Headless Bot Shield -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-VX6D7B7WD6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-VX6D7B7WD6');
+
+    // Shield GA4 from 0-second automated headless cloud scrapers
+    var isAutomatedBot = false;
+    try {
+      isAutomatedBot = !!(navigator.webdriver ||
+                          /bot|crawler|spider|headless|puppeteer|selenium|slurp/i.test(navigator.userAgent) ||
+                          (!window.navigator.languages || window.navigator.languages.length === 0));
+    } catch(e) {}
+
+    if (!isAutomatedBot) {
+      gtag('js', new Date());
+      gtag('config', 'G-VX6D7B7WD6', {
+        'anonymize_ip': true,
+        'cookie_flags': 'SameSite=None;Secure'
+      });
+    }
   </script>
   <!-- Theme Init: Default Dark Cinema Mode (#07090e) -->
   <script>
@@ -122,7 +136,7 @@
       <div class="footer-top">
         <div class="footer-brand">
           <img src="/static/assets/logo.svg" alt="News Seconds" style="height: 32px; width: auto;">
-          <p>Your 60-second pit stop for breaking electric vehicle breakthroughs, supercar debuts, Tesla leaks, and autonomous mobility.</p>
+          <p>Real-time, factual 60-word news summaries and immersive visual AMP Web Stories powered by AI.</p>
           <p style="margin-top: 8px; font-size: 11px; color: var(--text-muted);">
             Powered by Google Gemini 3.8 Flash & high-reliability multi-source news syndication.
           </p>

@@ -50,13 +50,27 @@ def get_tracking_head_tags() -> str:
 
     ga_id = getattr(config, "GA_MEASUREMENT_ID", "").strip()
     if ga_id:
-        tags.append(f"""  <!-- Google Analytics (gtag.js) -->
+        tags.append(f"""  <!-- Google Analytics (gtag.js) with Headless Bot Shield -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={ga_id}"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){{dataLayer.push(arguments);}}
-    gtag('js', new Date());
-    gtag('config', '{ga_id}');
+
+    // Shield GA4 from 0-second automated headless cloud scrapers
+    var isAutomatedBot = false;
+    try {{
+      isAutomatedBot = !!(navigator.webdriver ||
+                          /bot|crawler|spider|headless|puppeteer|selenium|slurp/i.test(navigator.userAgent) ||
+                          (!window.navigator.languages || window.navigator.languages.length === 0));
+    }} catch(e) {{}}
+
+    if (!isAutomatedBot) {{
+      gtag('js', new Date());
+      gtag('config', '{ga_id}', {{
+        'anonymize_ip': true,
+        'cookie_flags': 'SameSite=None;Secure'
+      }});
+    }}
   </script>""")
 
     # Default Theme Enforcer: guarantees dark/black theme (#07090e) unless explicitly set to light
@@ -1981,6 +1995,150 @@ def generate_sitemap_xml(articles: list, dist_dir: Path):
     print(f"[OK] Generated sitemap.xml ({len(articles)} total stories), news-sitemap.xml ({news_stories_count} fresh stories <= {max_news_age_hours}h), and sitemap_index.xml.")
 
 
+
+def generate_rss_feed(articles: list, dist_dir: Path):
+    """
+    Generates 100% Google News, Publisher Center, and RSS 2.0 compliant feed.xml and rss.xml.
+    Features:
+    - RFC 822 publication dates
+    - Full CDATA description and rich content:encoded with photography
+    - Media RSS <media:content> and <enclosure> tags for instant Discover/Publisher thumbnails
+    - Atom self-link and Google WebSub pubsubhubbub hub declarations
+    """
+    import email.utils
+    now_rfc822 = email.utils.format_datetime(datetime.now(timezone.utc))
+
+    items_xml = []
+    # Include up to top 60 fresh articles for optimal feed performance
+    for art in articles[:60]:
+        slug = art.get("slug", "")
+        if not slug:
+            continue
+        title = art.get("title", "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        summary = art.get("summary", "")
+        lead = summary
+        paras = art.get("article_paragraphs", [])
+        sec1 = paras[0] if paras else summary
+        sec2 = paras[1] if len(paras) > 1 else ""
+
+        page_url = f"{config.SITE_URL}/news/{slug}/"
+        raw_img = art.get("image_url", "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&fit=crop")
+        esc_img = escape(raw_img)
+        esc_page = escape(page_url)
+        cat_slug = art.get("category", "trending")
+        cat_name = art.get("category_name", config.CATEGORIES.get(cat_slug, {}).get("name", "News"))
+        author = AUTHORS.get(cat_slug, AUTHORS["trending"])
+
+        # Parse published_at date to RFC 822
+        pub_raw = art.get("published_at")
+        try:
+            if pub_raw:
+                dt = datetime.fromisoformat(pub_raw.replace("Z", "+00:00"))
+            else:
+                dt = datetime.now(timezone.utc)
+            item_rfc822 = email.utils.format_datetime(dt)
+        except Exception:
+            item_rfc822 = now_rfc822
+
+        content_html = f"""<p><img src="{esc_img}" alt="{title}" style="max-width:100%; height:auto; border-radius:8px;" /></p>
+<p><strong>Briefing:</strong> {summary}</p>
+<p>{sec1}</p>
+{f"<p>{sec2}</p>" if sec2 else ""}
+<p><a href="{esc_page}">Read full in-depth mobility reporting on News Seconds &rarr;</a></p>"""
+
+        item_xml = f"""    <item>
+      <title><![CDATA[{art.get("title", "")}]]></title>
+      <link>{esc_page}</link>
+      <guid isPermaLink="true">{esc_page}</guid>
+      <pubDate>{item_rfc822}</pubDate>
+      <dc:creator><![CDATA[{author['name']}]]></dc:creator>
+      <category><![CDATA[{cat_name}]]></category>
+      <description><![CDATA[{summary}]]></description>
+      <content:encoded><![CDATA[{content_html}]]></content:encoded>
+      <enclosure url="{esc_img}" length="150000" type="image/jpeg" />
+      <media:content url="{esc_img}" medium="image" type="image/jpeg" width="1200" height="800">
+        <media:title><![CDATA[{art.get("title", "")}]]></media:title>
+      </media:content>
+    </item>"""
+        items_xml.append(item_xml)
+
+    feed_body = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{config.SITE_NAME} - Bite-Sized EVs, Supercars &amp; Future Mobility</title>
+    <link>{config.SITE_URL}/</link>
+    <description>{config.SITE_DESCRIPTION}</description>
+    <language>en-us</language>
+    <lastBuildDate>{now_rfc822}</lastBuildDate>
+    <atom:link href="{config.SITE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <image>
+      <url>{config.SITE_URL}/static/assets/logo.svg</url>
+      <title>{config.SITE_NAME}</title>
+      <link>{config.SITE_URL}/</link>
+    </image>
+{chr(10).join(items_xml)}
+  </channel>
+</rss>"""
+
+    with open(dist_dir / "feed.xml", "w", encoding="utf-8") as f:
+        f.write(feed_body)
+    with open(dist_dir / "rss.xml", "w", encoding="utf-8") as f:
+        f.write(feed_body)
+    print(f"[OK] Generated Google News compliant feed.xml and rss.xml with {len(items_xml)} stories.")
+
+
+def generate_404_page(dist_dir: Path):
+    """
+    Generates a branded, self-healing 404.html page that gracefully redirects
+    search engine crawlers and users to trending mobility stories without bouncing.
+    """
+    html_404 = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Story Relocated | {config.SITE_NAME}</title>
+  <meta name="robots" content="noindex, follow">
+  <link rel="stylesheet" href="/static/css/style.css">
+  {get_tracking_head_tags()}
+</head>
+<body>
+  {get_base_header()}
+  <main class="container" style="max-width: 680px; margin: 80px auto; text-align: center; padding: 40px 20px;">
+    <div style="font-size: 68px; margin-bottom: 20px;">🏎️💨</div>
+    <h1 style="font-size: 32px; font-weight: 800; color: #ffffff; margin-bottom: 14px; letter-spacing: -0.02em;">Story Relocated in Newsroom Archive</h1>
+    <p style="font-size: 16px; color: var(--text-secondary); line-height: 1.6; margin-bottom: 30px;">
+      This wire dispatch has been updated or moved to our dedicated <strong>EVs, Supercars &amp; Future Mobility</strong> portal. Redirecting you to fresh breaking stories in <span id="countdown" style="color: #38bdf8; font-weight: 800; font-size: 18px;">3</span> seconds...
+    </p>
+    <div style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
+      <a href="/" class="full-article-link" style="padding: 12px 28px; font-size: 14px; font-weight: 700; background: var(--accent-gradient); color: #fff; border-radius: 9999px; text-decoration: none;">Explore Breaking News &rarr;</a>
+      <a href="/#interactiveGarage" class="web-story-link" style="padding: 12px 24px; font-size: 14px; text-decoration: none;">🏎️ Pit Stop Drag Battle</a>
+    </div>
+  </main>
+  {get_base_footer()}
+  <script>
+    var sec = 3;
+    var t = setInterval(function() {{
+      sec--;
+      var el = document.getElementById('countdown');
+      if (el) el.textContent = sec;
+      if (sec <= 0) {{
+        clearInterval(t);
+        window.location.replace('/');
+      }}
+    }}, 1000);
+  </script>
+</body>
+</html>"""
+    with open(dist_dir / "404.html", "w", encoding="utf-8") as f:
+        f.write(html_404)
+    print("[OK] Generated self-healing 404.html page.")
+
 def generate_robots_txt(dist_dir: Path):
     """Generates standard robots.txt directing search engines to sitemaps."""
     content = f"""User-agent: Mediapartners-Google
@@ -1996,6 +2154,7 @@ Sitemap: {config.SITE_URL}/sitemap_index.xml
 Sitemap: {config.SITE_URL}/sitemap.xml
 Sitemap: {config.SITE_URL}/sitemap-main.xml
 Sitemap: {config.SITE_URL}/news-sitemap.xml
+Sitemap: {config.SITE_URL}/feed.xml
 """
     with open(dist_dir / "robots.txt", "w", encoding="utf-8") as f:
         f.write(content)
@@ -2169,11 +2328,21 @@ def build_static_site(articles: list, dist_dir: Path = None):
     # 6. Build Compliance Pages
     generate_compliance_pages(dist_dir)
 
-    # 7. Build SEO & Monetization files (sitemap, robots, manifest, ads.txt)
+    # 7. Build SEO, RSS Feeds & Monetization files
     generate_sitemap_xml(all_articles, dist_dir)
+    generate_rss_feed(all_articles, dist_dir)
+    generate_404_page(dist_dir)
     generate_robots_txt(dist_dir)
     generate_manifest_json(dist_dir)
     generate_ads_txt(dist_dir)
+
+    # Copy IndexNow key verification files directly to root
+    for key_code in ["79624caa6fca40dfbc227ab2ed0f7f42", "b4f910a2d3e54c7b89f0123456789abc"]:
+        k_file = f"{key_code}.txt"
+        with open(dist_dir / k_file, "w", encoding="utf-8") as kf:
+            kf.write(key_code)
+        with open(config.STATIC_DIR / k_file, "w", encoding="utf-8") as kf:
+            kf.write(key_code)
 
     # 7. Persist updated archive JSON cache
     data_dir = config.DATA_DIR

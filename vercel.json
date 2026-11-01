@@ -1,6 +1,7 @@
 {
   "version": 2,
   "outputDirectory": "dist",
+  "cleanUrls": true,
   "routes": [
     {
       "src": "/static/(.*)",
@@ -38,6 +39,13 @@
       "dest": "/news-sitemap.xml"
     },
     {
+      "src": "^/+(feed|rss)\\.xml$",
+      "headers": {
+        "content-type": "application/rss+xml; charset=utf-8"
+      },
+      "dest": "/feed.xml"
+    },
+    {
       "src": "/favicon.ico",
       "headers": {
         "content-type": "image/x-icon",
@@ -67,12 +75,28 @@
       "dest": "/ads.txt"
     },
     {
-      "src": "/news/(.*)",
-      "dest": "/news/$1"
+      "src": "/(79624caa6fca40dfbc227ab2ed0f7f42|b4f910a2d3e54c7b89f0123456789abc)\\.txt",
+      "headers": {
+        "content-type": "text/plain; charset=utf-8"
+      },
+      "dest": "/$1.txt"
     },
     {
-      "src": "/stories/(.*)",
-      "dest": "/stories/$1"
+      "handle": "filesystem"
+    },
+    {
+      "src": "^/news/.*$",
+      "status": 301,
+      "headers": {
+        "Location": "/"
+      }
+    },
+    {
+      "src": "^/stories/.*$",
+      "status": 301,
+      "headers": {
+        "Location": "/"
+      }
     },
     {
       "src": "/(.*)",

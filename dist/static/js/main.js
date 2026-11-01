@@ -6,9 +6,12 @@
 (function () {
   'use strict';
 
-  // Google Analytics 4 Safe Event Dispatcher
+  // Google Analytics 4 Safe Event Dispatcher with Bot Guard
   function trackGAEvent(eventName, params = {}) {
     try {
+      if (navigator.webdriver || /bot|crawler|spider|headless/i.test(navigator.userAgent) || (!window.navigator.languages || window.navigator.languages.length === 0)) {
+        return;
+      }
       if (typeof window.gtag === 'function') {
         window.gtag('event', eventName, params);
       }

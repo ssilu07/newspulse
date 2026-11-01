@@ -19,7 +19,7 @@ if hasattr(sys.stdout, "reconfigure"):
 import config
 
 
-def ping_websub_hub(feed_url: str = f"{config.SITE_URL}/news-sitemap.xml") -> bool:
+def ping_websub_hub(feed_url: str = f"{config.SITE_URL}/feed.xml") -> bool:
     """
     Pings the official Google WebSub hub (pubsubhubbub.appspot.com)
     to notify search engines that fresh news content has been published.
@@ -62,7 +62,7 @@ def ping_pingomatic() -> bool:
     params = {
         "title": config.SITE_NAME,
         "blogurl": f"{config.SITE_URL}/",
-        "rssurl": f"{config.SITE_URL}/news-sitemap.xml",
+        "rssurl": f"{config.SITE_URL}/feed.xml",
         "chk_weblogscom": "on",
         "chk_blogs": "on",
         "chk_feedburner": "on",
@@ -91,10 +91,12 @@ def ping_pingomatic() -> bool:
 
 
 def ping_all_search_engines():
-    """Pings both Google WebSub and global syndication hubs."""
+    """Pings Google WebSub, Ping-O-Matic and search aggregators."""
     print("\n[⚡] Broadcasting instant updates to Google WebSub & Search Aggregators...")
+    ping_websub_hub(f"{config.SITE_URL}/feed.xml")
+    ping_websub_hub(f"{config.SITE_URL}/rss.xml")
     ping_websub_hub(f"{config.SITE_URL}/news-sitemap.xml")
-    ping_websub_hub(f"{config.SITE_URL}/sitemap.xml")
+    ping_websub_hub(f"{config.SITE_URL}/sitemap_index.xml")
     ping_pingomatic()
 
 
