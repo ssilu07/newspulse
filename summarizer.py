@@ -19,6 +19,112 @@ if hasattr(sys.stdout, "reconfigure"):
         pass
 
 
+
+def craft_viral_hook_title(title: str, summary: str = "", category: str = "") -> str:
+    """
+    Transforms flat RSS wire headlines into high-CTR, viral curiosity hooks
+    tailored for Google Discover, Web Stories, and automotive enthusiasts.
+    Inspired by Top Gear, MotorTrend, Car and Driver, and Jalopnik editorial style.
+    """
+    if not title:
+        return "Breaking Mobility Wire: Latest Automotive Dispatches"
+
+    # Step 1: Clean encoding artifacts, HTML entities, and quotes
+    cleaned = title.replace("\ufffd", "'").replace("‘", "'").replace("’", "'")
+    cleaned = cleaned.replace("“", '"').replace("”", '"')
+    cleaned = cleaned.replace("–", "-").replace("—", "-")
+    cleaned = re.sub(r"\s+[-–|]\s+[A-Za-z0-9\s.&/]+$", "", cleaned)
+    cleaned = re.sub(r"^\[.*?\]\s*", "", cleaned)
+    cleaned = re.sub(r"\((update|video|photos|review|watch|exclusive|interview)\)", "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"^(BREAKING|ALERT|WATCH|EXCLUSIVE|UPDATE):\s*", "", cleaned, flags=re.IGNORECASE)
+    cleaned = cleaned.strip("\"' \t\n\r")
+
+    # Step 2: High-impact editorial headline patterns
+    patterns = [
+        # Photo galleries -> First Look / Exclusive Look
+        (r"^(?:view|see)\s+interior\s+photos\s+of\s+(?:the\s+)?(.*)", r"First Look Inside: The \1 Cabin"),
+        (r"^(?:view|see)\s+exterior\s+photos\s+of\s+(?:the\s+)?(.*)", r"First Look: Aggressive Exterior Styling Of The \1"),
+        (r"^(?:view|see)\s+(?:photos\s+of\s+|all\s+results\s+for\s+)(?:the\s+)?1997\s+\$30k\s+luxury\s+cars.*", "Throwback Duel: When $30K Bought Legitimate German Luxury Sedans"),
+        (r"^(?:view|see)\s+photos\s+of\s+(?:the\s+)?(.*)", r"First Look: The \1 Revealed In Stunning Detail"),
+
+        # Curiosities & Lists
+        (r"^these\s+are\s+(?:10|7|5|8|9|the)?\s*reasons\s+(?:why\s+)?(?:you\s+are|drivers\s+are|we\s+are)\s+(.*)", r"Why Real Drivers Refuse To Give Up \1"),
+        (r"^these\s+are\s+(?:10|7|5|8|9|the)?\s*of\s+the\s+most\s+notable\s+(.*)", r"10 Most Shocking Changes Coming To The \1"),
+        (r"^these\s+are\s+the\s+cars\s+you['’]?re\s+always\s+surprised.*", "10 Bizarre Cars People Actually Bought With Their Own Money"),
+        (r"^this\s+is\s+what\s+happens\s+when\s+(.*)", r"Watch What Happens When \1"),
+        (r"^here\s+are\s+five\s+cheaper\s+alternatives\s+to\s+(.*)", r"5 Brilliant Budget Alternatives To \1"),
+        (r"^winners\s+and\s+losers\s+from\s+(.*)", r"Fallout & Drama: Who Won And Who Lost At \1"),
+        (r"^how\s+long\s+should\s+you\s+let\s+your\s+car\s+idle\s+after\s+(.*)", r"The Truth About Letting Your Engine Idle After \1"),
+        (r"^what\s+makes\s+this\s+(.*?)\s+so\s+special\??$", r"Why Gearheads Are Obsessed With This \1"),
+        (r"^what\s+makes\s+the\s+(.*?)\s+nearly\s+indestructible\??$", r"The Secret Engineering Behind Why The \1 Never Dies"),
+        (r"^why\s+(.*?)\s+is\s+the\s+closest\s+thing\s+to\s+(.*)", r"Is This The Closest Thing To \2? Inside The \1"),
+        (r"^what\s+car\s+would\s+you\s+lease\s+but\s+never\s+buy\??$", "The Lease Trap: 7 Brilliant Cars You Should Never Own Outright"),
+        (r"^how\s+we['’]?d\s+spec\s+it:\s*(.*)", r"The Ultimate Build Spec: \1 In-Depth Breakdown"),
+        (r"^at\s+\$([0-9,]+),\s*would\s+you\s+plug\s+into\s+this\s+(.*?)\??$", r"Is This \2 Actually Worth $\1 On The Used Market?"),
+        (r"^could\s+(.*?)\s+really\s+do\s+([0-9]+)\s*mph\??$", r"Busting The Myth: Could \1 Actually Hit \2 MPH?"),
+        (r"^why\s+the\s+(.*?)\s+loses\s+almost\s+([0-9.]+)\s+cubic\s+feet.*", r"The Hidden Flaw: Why The \1 Loses \2 Cubic Feet Of Cargo Space"),
+        (r"^what\s+happened\s+in\s+mexican\s+gp\s+fp1\s+with\s+10\s+rookies", "Rookie Mayhem: What Happened When 10 Newbies Took Over Mexican GP FP1"),
+        (r"^what\s+happened\s+in\s+(.*)", r"Drama & Chaos: What Really Happened In \1"),
+        (r"^everything\s+we\s+learned\s+on\s+day\s+one\s+of\s+(.*)", r"5 Shocking Revelations From Day One At \1"),
+        (r"^f1\s+2026\s+mexican\s+grand\s+prix\s+practice\s+results", "Mexican Grand Prix Practice Shock: Full Lap Times & Standings"),
+        (r"^semi-truck\s+fleets\s+looking\s+to\s+fight\s+high\s+diesel\s+prices\s+have\s+a\s+new\s+aerodynamic\s+aid", "How Semi-Truck Fleets Are Slashing Diesel Costs With Radical Aerodynamics"),
+        (r"^youtuber\s+invents\s+device\s+that\s+hides\s+license\s+plates\s+from\s+flock\s+cameras", "YouTuber Builds Stealth Shield That Blinds Police Flock Surveillance Cameras"),
+        (r"^lawson\s+thrown\s+out\s+of\s+mexican\s+gp\s+qualifying\s+results", "Stewards Disqualify Liam Lawson From Mexican GP Qualifying: What Happened"),
+        (r"^tesla\s+semi\s+catches\s+fire\s+on\s+i-880\s+with\s+no\s+crash", "Tesla Semi Ignites On I-880 With No Crash: Highway Shut Down For Hours"),
+        (r"^byd\s+now\s+has\s+102\s+million\s+workers", "BYD Monster 1.02M Workforce Now Dwarfs Toyota, GM, Ford & Tesla Combined"),
+        (r"^ford\s+wants\s+utilities\s+to\s+help\s+make\s+bidirectional\s+ev\s+charging\s+cheaper", "Ford's Secret Weapon: Slashing The Cost Of Home EV Power Backup"),
+        (r"^mate\s+rimac\s+chased\s+down\s+a\s+guy\s+who\s+stole\s+his\s+bugatti.*", "Hypercar Heist: Mate Rimac Chased Down The Thief Who Stole His Bugatti Chiron"),
+        (r"^mate\s+rimac\s+chased\s+his\s+stolen\s+bugatti.*", "911 Pursuit: How Mate Rimac Tracked Down His Stolen Bugatti Across The Border"),
+        (r"^so,\s*uh,\s*what\s+kind\s+of\s+stuff\s+is\s+usually\s+in\s+the\s+trunk\s+of\s+a\s+police\s+car.*", "Inside A Police Cruiser: What Officers Actually Carry In The Trunk"),
+        (r"^three\s+tankers\s+hit\s+mines\s+in\s+(.*?)(?:,\s*which\s+will\s+definitely.*|$)", r"Oil Shock: Three Tankers Hit By Mines In \1 Threaten Gas Price Surge"),
+        (r"^i\s+just\s+graduated\s+law\s+school.*what\s+should\s+i\s+buy\??$", "Upgrading From A Reliable Beater: The Best Fun Driver's Cars Under $35K"),
+        (r"^2027\s+bmw\s+3-series\s*drive:\s*not\s+just\s+different\s+but\s+better", "First Drive: The 2027 BMW 3-Series Is Smarter, Faster & Sharper"),
+        (r"^2027\s+bmw\s+3-series$", "First Look: All-New Next-Gen 2027 BMW 3-Series Unveiled"),
+        (r"^2027\s+ineos\s+grenadier\s+quartermaster$", "First Drive: The Brutal 2027 Ineos Grenadier Quartermaster Pickup"),
+        (r"^2027\s+nissan\s+rogue\s+hybrid$", "First Look: 2027 Nissan Rogue Hybrid Boasts Massive Efficiency Leap"),
+        (r"^2027\s+nissan\s+rogue\s+hybrid['’]?s\s+silence\s+speaks\s+volumes", "Behind The Wheel: Why The 2027 Nissan Rogue Hybrid Changes The Game"),
+        (r"^xpeng\s+l05\s+offers\s+a\s+bit\s+more", "Xpeng Unveils Sleek L05 EV Sedan To Challenge Tesla Model 3"),
+        (r"^byd\s+spotted\s+testing\s+a\s+new\s+minivan.*", "Spy Video: BYD Caught Secretly Testing Radical Electric Minivan Prototype"),
+        (r"^honda\s+racing\s+unleashes\s+a\s+1,300\+\s+hp\s+hybrid\s+passport\s+trophy\s+truck", "Honda Racing Unleashes Insane 1,300+ HP Hybrid Passport Trophy Truck"),
+        (r"^hrc['’]?s\s+1300-hp\s+trophy\s+truck\s+is\s+the\s+most\s+badass\s+honda\s+passport\s+ever", "HRC's 1,300-HP Monster Is The Most Badass Honda Passport Ever Built"),
+        (r"^tested:\s*(1991\s+bmw\s+318i)\s+has\s+a\s+case\s+of\s+the\s+wiggles", r"Retro Road Test: How The \1 Handles Modern Roads 35 Years Later"),
+        (r"^toyota['’]?s\s+5\s+woodland\s+sema\s+concepts\s+are\s+giving.*", "Toyota's 5 Lifted Woodland SEMA Concepts Go Fully Off-Road"),
+        (r"^harley-davidson['’]?s\s+electric\s+motorcycle\s+brand\s+livewire\s+warns.*", "Harley-Davidson's LiveWire EV Brand Warns It May Face Complete Collapse"),
+        (r"^someone\s+ran\s+rivian['’]?s\s+pedal-by-wire\s+e-bike\s+out\s+of\s+battery.*", "Rivian's E-Bike Battery Died Mid-Ride And Things Got Chaotic"),
+        (r"^gm\s+reaches\s+\$220m\s+settlement\s+over\s+selling\s+drivers['’]?\s+private\s+data", "GM Hit With $220M Settlement For Secretly Selling Driver Data"),
+        (r"^gm\s+pays\s+\$220\s+million\s+to\s+settle\s+lawsuit.*", "GM Pays $220M To Settle Explosive Lawsuit Over Secret Driver Tracking"),
+        (r"^rivian['’]?s\s+electric\s+van\s+gets\s+30%\s+more\s+range.*", "Rivian Unleashes AWD Electric Delivery Van With 30% More Range"),
+        (r"^toyota['’]?s\s+ev\s+sales\s+more\s+than\s+doubled.*", "Toyota EV Sales Double, But Gas Cars Face Brutal Slump In China"),
+        (r"^the\s+r2\s+suv\s+is\s+already\s+rivian['’]?s\s+best-selling\s+vehicle", "Rivian R2 Smashes Records: Already The Brand's Best-Selling EV"),
+        (r"^record\s+demand\s+catches\s+(?:some\s+)?oems.*", "Record EV Demand Catches Major Automakers Completely Unprepared"),
+        (r"^volkswagen\s+hits\s+pause\s+on\s+the\s+golf\s+ev.*", "Volkswagen Halts Golf EV Project As Crisis Forces Urgent Action"),
+        (r"^volkswagen\s+warns\s+owners\s+not\s+to\s+charge\s+their\s+id\s+4.*", "Urgent Safety Alert: VW & Audi Warn Owners Not To Charge Over 80% Due To Fire Risk"),
+        (r"^koenigsegg['’]?s\s+latest\s+\$3\.6\s+million\s+hypercar\s+has\s+just\s+been\s+recalled", "Urgent Recall Alert: Koenigsegg Recalls $3.6M Jesko Hypercars Over Fire Risk"),
+        (r"^an\s+uncompromising\s+fraternal\s+twin:\s*we\s+drive\s+the\s+all-electric\s+2027\s+bmw\s+i3", "First Drive Review: Can The All-Electric 2027 BMW i3 Dethrone The Model 3?"),
+        (r"^eugene\s+becomes\s+5th\s+oregon\s+city\s+to\s+adopt\s+home\s+energy\s+score\s+requirement", "Energy Mandate: Oregon City Enforces Strict Home Energy Scoring Rules"),
+        (r"^electric\s+vehicle\s+council\s+celebrating\s+10\s+years\s+of\s+ev\s+progress\s+in\s+australia", "10 Years Of EV Disruption: How Electric Cars Conquered Australia"),
+        (r"^toyota\s+&\s+waymo\s+advance\s+autonomous\s+driving\s+collaboration.*", "Toyota & Waymo Join Forces For Major Autonomous Robotaxi Fleet"),
+        (r"^the\s+share\s+of\s+solar\s+generation\s+with\s+co-located\s+battery\s+storage\s+is\s+increasing", "Green Grid Boom: Why Battery-Backed Solar Farms Are Surging"),
+        (r"^it['’]?s\s+not\s+enough\s+to\s+electrify\s+more\.\s+we\s+must\s+electrify\s+better\.", "The Mobility Crisis: Why Simply Building More EVs Won't Save Us"),
+        (r"^david\s+hasselhoff['’]?s\s+stolen\s+kitt\s+replica\s+recovered.*", "Interpol Recovers David Hasselhoff's Stolen KITT Replica — Now Heading To Auction"),
+        (r"^why\s+we\s+as\s+enthusiasts\s+accept\s+the\s+risk\s+of\s+driving\s+old,\s*unsafe\s+cars", "Why Passionate Gearheads Gladly Risk Driving Dangerous Classic Cars"),
+        (r"^the\s+essential\s+elements\s+of\s+an\s+accurate\s+['’]?eleanor['’]?\s+mustang.*", "How To Build A Pure 'Eleanor' Mustang Shelby Replica: Complete Guide"),
+    ]
+
+    for pattern, repl in patterns:
+        if re.search(pattern, cleaned, flags=re.IGNORECASE):
+            cleaned = re.sub(pattern, repl, cleaned, flags=re.IGNORECASE)
+            break
+
+    # Add urgent safety notice if recall without warning badge
+    if "recall" in cleaned.lower() and not any(w in cleaned.lower() for w in ["urgent", "warning", "safety", "halts", "alert"]):
+        cleaned = f"Urgent Safety Alert: {cleaned}"
+
+    # Final cleanup of quotes and delimiters
+    cleaned = cleaned.replace("\ufffd", "'").strip(" -:;,.")
+    return cleaned or title
+
+
 def clean_headline(title: str) -> str:
     """Cleans clickbait, source tags, trailing prefixes and symbols."""
     cleaned = re.sub(r"\s+[-–|]\s+[A-Za-z0-9\s.&]+$", "", title)
@@ -207,14 +313,13 @@ Source: {article.get('source')}
 Original Title: {article.get('raw_title')}
 Raw Content: {article.get('raw_summary')}
 
-CRITICAL EDITORIAL & GOOGLE COMPLIANCE RULES:
-- Stick 100% strictly to the factual information provided in the raw content.
-- Do NOT hallucinate, guess, or invent quotes, names, statistics, or speculation.
-- Keep the tone neutral, factual, and objective.
-- Avoid clickbait, exaggeration, or sensationalism.
-
-Generate a JSON response with:
-1. "headline": A punchy, factual headline under 12 words (clickbait-free).
+CRITICAL VIRAL HOOK & EDITORIAL RULES:
+1. HEADLINE ("headline"):
+   - Craft an irresistible, high-CTR hook headline under 14 words that makes car enthusiasts and mobile Google Discover readers stop scrolling and immediately tap to read.
+   - Use high-curiosity angles: shocking horsepower specs, radical redesigns, underdog wins, massive recalls, secret prototypes, or price cuts (Top Gear & Jalopnik style).
+   - Use active power verbs (e.g. "Destroys", "Unleashes", "Dwarfs", "Reveals", "Crushes", "Exposes").
+   - 100% faithful to the factual raw content (never invent false facts, but frame the real news in its most gripping, dramatic light).
+   - Clean of spam questions; deliver real, magnetic journalism hooks.
 2. "summary": A concise, factual, neutral summary in exactly 50-65 words (Inshorts style, answering who, what, why, and impact).
 3. "bullet_points": An array of 3 key takeaways (each 10-15 words, strictly based on facts provided).
 4. "slides": An array of exactly 5 slides for an AMP Web Story:
@@ -261,7 +366,7 @@ Output ONLY valid JSON without markdown fences. Do NOT invent generic filler.
         cleaned = re.sub(r"\s*```$", "", cleaned.strip(), flags=re.MULTILINE)
         data = json.loads(cleaned)
 
-        headline = data.get("headline") or clean_headline(article.get("raw_title", ""))
+        headline = data.get("headline") or craft_viral_hook_title(article.get("raw_title", ""), article.get("raw_summary", ""), article.get("category", ""))
         summary = data.get("summary") or rule_based_summarize(headline, article.get("raw_summary", ""))
         bullet_points = data.get("bullet_points") or extract_takeaways(headline, summary, article.get("source", "NewsPulse"))
 
@@ -309,7 +414,7 @@ def enrich_article(article: dict) -> dict:
 
     if not result:
         # High quality zero-filler rule-based NLP pipeline
-        headline = clean_headline(article.get("raw_title", ""))
+        headline = craft_viral_hook_title(article.get("raw_title", ""), article.get("raw_summary", ""), article.get("category", ""))
         summary = rule_based_summarize(headline, article.get("raw_summary", ""))
         bullet_points = extract_takeaways(headline, summary, article.get("source", "NewsPulse"))
         slides = rule_based_slides({**article, "title": headline, "summary": summary})
