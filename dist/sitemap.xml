@@ -3,39 +3,299 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-02T09:42:18Z</lastmod>
+    <lastmod>2026-11-02T14:49:17Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-02T09:42:18Z</lastmod>
+    <lastmod>2026-11-02T14:49:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-02T09:42:18Z</lastmod>
+    <lastmod>2026-11-02T14:49:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-02T09:42:18Z</lastmod>
+    <lastmod>2026-11-02T14:49:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-02T09:42:18Z</lastmod>
+    <lastmod>2026-11-02T14:49:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-02T09:42:18Z</lastmod>
+    <lastmod>2026-11-02T14:49:17Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-f1-champion-antonelli-made-everyone-look-silly/</loc>
+    <lastmod>2026-11-02T14:45:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450752_HiRes.jpg</image:loc>
+      <image:title>New F1 champion Antonelli &#x27;made everyone look silly</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-f1-champion-antonelli-made-everyone-look-silly/</loc>
+    <lastmod>2026-11-02T14:45:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450752_HiRes.jpg</image:loc>
+      <image:title>New F1 champion Antonelli &#x27;made everyone look silly</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/electric-trucks-hit-50-of-chinas-heavy-truck-sales-diesel-demand-/</loc>
+    <lastmod>2026-11-02T14:44:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/byd-truck_no-door-logo-web1-scaled-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Electric trucks hit 50% of China&#x27;s heavy truck sales, diesel demand falls</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/electric-trucks-hit-50-of-chinas-heavy-truck-sales-diesel-demand-/</loc>
+    <lastmod>2026-11-02T14:44:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/byd-truck_no-door-logo-web1-scaled-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Electric trucks hit 50% of China&#x27;s heavy truck sales, diesel demand falls</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/cybertruck-could-get-trick-suspension-based-loading-ramp/</loc>
+    <lastmod>2026-11-02T14:43:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/cybertruck-could-get-trick-suspension-based-loading-ramp/l-intro-1793630476.jpg</image:loc>
+      <image:title>Cybertruck Could Get Trick Suspension-Based Loading Ramp</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cybertruck-could-get-trick-suspension-based-loading-ramp/</loc>
+    <lastmod>2026-11-02T14:43:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/cybertruck-could-get-trick-suspension-based-loading-ramp/l-intro-1793630476.jpg</image:loc>
+      <image:title>Cybertruck Could Get Trick Suspension-Based Loading Ramp</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/which-automaker-has-the-coolest-model-names/</loc>
+    <lastmod>2026-11-02T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/which-automaker-has-the-coolest-model-names/l-intro-1793401678.jpg</image:loc>
+      <image:title>Which Automaker Has The Coolest Model Names?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/which-automaker-has-the-coolest-model-names/</loc>
+    <lastmod>2026-11-02T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/which-automaker-has-the-coolest-model-names/l-intro-1793401678.jpg</image:loc>
+      <image:title>Which Automaker Has The Coolest Model Names?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bestselling-us-e-bike-lectric-xp4-relaunched-in-limited-edition-w/</loc>
+    <lastmod>2026-11-02T14:05:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/lectric-xp4-special-edition-header-e-bike.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Bestselling US e-bike Lectric XP4 relaunched in limited-edition with new colors and gear</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bestselling-us-e-bike-lectric-xp4-relaunched-in-limited-edition-w/</loc>
+    <lastmod>2026-11-02T14:05:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/lectric-xp4-special-edition-header-e-bike.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Bestselling US e-bike Lectric XP4 relaunched in limited-edition with new colors and gear</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kimi-antonelli-becomes-youngest-ever-f1-world-champion/</loc>
+    <lastmod>2026-11-02T13:57:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/kimi-antonelli-becomes-youngest-ever-f1-world-champion/l-intro-1793627671.jpg</image:loc>
+      <image:title>Kimi Antonelli Becomes Youngest-Ever F1 World Champion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kimi-antonelli-becomes-youngest-ever-f1-world-champion/</loc>
+    <lastmod>2026-11-02T13:57:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/kimi-antonelli-becomes-youngest-ever-f1-world-champion/l-intro-1793627671.jpg</image:loc>
+      <image:title>Kimi Antonelli Becomes Youngest-Ever F1 World Champion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/giugiaro-revisits-the-baby-lambo-he-invented/</loc>
+    <lastmod>2026-11-02T13:49:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/giugiaro-revisits-the-baby-lambo-he-invented/l-intro-1793627044.jpg</image:loc>
+      <image:title>Giugiaro Revisits The Baby Lambo He Invented</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/giugiaro-revisits-the-baby-lambo-he-invented/</loc>
+    <lastmod>2026-11-02T13:49:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/giugiaro-revisits-the-baby-lambo-he-invented/l-intro-1793627044.jpg</image:loc>
+      <image:title>Giugiaro Revisits The Baby Lambo He Invented</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/</loc>
+    <lastmod>2026-11-02T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/l-intro-1793376613.jpg</image:loc>
+      <image:title>At $7,500, Will This 2003 Jeep Wrangler Sahara Get Its Just Dessert?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/</loc>
+    <lastmod>2026-11-02T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/l-intro-1793376613.jpg</image:loc>
+      <image:title>At $7,500, Will This 2003 Jeep Wrangler Sahara Get Its Just Dessert?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/after-471625-miles-this-chevy-bolt-is-doing-better-than-you-think/</loc>
+    <lastmod>2026-11-02T13:02:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/471625.png?w=1600</image:loc>
+      <image:title>After 471,625 miles, this Chevy Bolt is doing better than you think [video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/after-471625-miles-this-chevy-bolt-is-doing-better-than-you-think/</loc>
+    <lastmod>2026-11-02T13:02:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/471625.png?w=1600</image:loc>
+      <image:title>After 471,625 miles, this Chevy Bolt is doing better than you think [video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-the-ultimate-nissan-pathfinders-for-the-track-and-the-t/</loc>
+    <lastmod>2026-11-02T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/nismo-nick-built-the-ultimate-pathfinders-for-the-track-and-the-trail/l-intro-1793623583.jpg</image:loc>
+      <image:title>These Are The Ultimate Nissan Pathfinders For The Track And The Trail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-are-the-ultimate-nissan-pathfinders-for-the-track-and-the-t/</loc>
+    <lastmod>2026-11-02T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/nismo-nick-built-the-ultimate-pathfinders-for-the-track-and-the-trail/l-intro-1793623583.jpg</image:loc>
+      <image:title>These Are The Ultimate Nissan Pathfinders For The Track And The Trail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/edd-straws-f1-2026-mexican-grand-prix-tier-list-driver-rankings/</loc>
+    <lastmod>2026-11-02T12:02:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450564_HiRes.jpg</image:loc>
+      <image:title>Edd Straw&#x27;s F1 2026 Mexican Grand Prix tier list driver rankings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/edd-straws-f1-2026-mexican-grand-prix-tier-list-driver-rankings/</loc>
+    <lastmod>2026-11-02T12:02:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450564_HiRes.jpg</image:loc>
+      <image:title>Edd Straw&#x27;s F1 2026 Mexican Grand Prix tier list driver rankings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-/</loc>
+    <lastmod>2026-11-02T11:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/02/ford-blue-cruise.jpeg?resize=1600,1067</image:loc>
+      <image:title>Ford launches a &#x27;privacy promise&#x27; and explains how and why it uses customer data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-/</loc>
+    <lastmod>2026-11-02T11:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/02/ford-blue-cruise.jpeg?resize=1600,1067</image:loc>
+      <image:title>Ford launches a &#x27;privacy promise&#x27; and explains how and why it uses customer data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhe/</loc>
+    <lastmod>2026-11-02T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhere/l-intro-1793194366.jpg</image:loc>
+      <image:title>Why Checking CarMax Makes Sense (Even If You End Up Buying Elsewhere)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhe/</loc>
+    <lastmod>2026-11-02T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhere/l-intro-1793194366.jpg</image:loc>
+      <image:title>Why Checking CarMax Makes Sense (Even If You End Up Buying Elsewhere)</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/how-europes-battery-passport-could-have-a-big-impact-on-us-e-bike/</loc>
@@ -2775,266 +3035,6 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/32c614f5-0a93-473c-90b3-148cf77342af.jpg</image:loc>
       <image:title>McLaren Confirms Next Supercar Will Be Called McL 820 and Have 809 HP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-ineos-grenadier-quartermaster/</loc>
-    <lastmod>2026-10-30T15:56:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-ineos-grenadier-quartermaster-117-68c05dfdafeae.jpg?crop=0.573xw:0.43xh;0.197xw,0.494xh&amp;resize=1200:*</image:loc>
-      <image:title>First Drive: The Brutal 2027 Ineos Grenadier Quartermaster Pickup</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-ineos-grenadier-quartermaster/</loc>
-    <lastmod>2026-10-30T15:56:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-ineos-grenadier-quartermaster-117-68c05dfdafeae.jpg?crop=0.573xw:0.43xh;0.197xw,0.494xh&amp;resize=1200:*</image:loc>
-      <image:title>First Drive: The Brutal 2027 Ineos Grenadier Quartermaster Pickup</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/even-the-electric-golf-couldnt-survive-vws-financial-meltdown/</loc>
-    <lastmod>2026-10-30T15:11:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/even-the-electric-golf-couldnt-survive-vws-financial-meltdown/l-intro-1793372872.jpg</image:loc>
-      <image:title>Even The Electric Golf Couldn&#x27;t Survive VW&#x27;s Financial Meltdown</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/even-the-electric-golf-couldnt-survive-vws-financial-meltdown/</loc>
-    <lastmod>2026-10-30T15:11:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/even-the-electric-golf-couldnt-survive-vws-financial-meltdown/l-intro-1793372872.jpg</image:loc>
-      <image:title>Even The Electric Golf Couldn&#x27;t Survive VW&#x27;s Financial Meltdown</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-crazed-ktm-x-bow-is-finally-coming-to-us-roads/</loc>
-    <lastmod>2026-10-30T14:53:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/the-crazed-ktm-x-bow-is-finally-coming-to-u-s-roads/l-intro-1793371849.jpg</image:loc>
-      <image:title>The Crazed KTM X-Bow Is Finally Coming To US Roads</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-crazed-ktm-x-bow-is-finally-coming-to-us-roads/</loc>
-    <lastmod>2026-10-30T14:53:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/the-crazed-ktm-x-bow-is-finally-coming-to-u-s-roads/l-intro-1793371849.jpg</image:loc>
-      <image:title>The Crazed KTM X-Bow Is Finally Coming To US Roads</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/evs-sales-are-rising-and-another-gasmobile-bites-the-dust/</loc>
-    <lastmod>2026-10-30T14:46:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/ford-escape.png</image:loc>
-      <image:title>EVs Sales Are Rising And Another Gasmobile Bites The Dust</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/evs-sales-are-rising-and-another-gasmobile-bites-the-dust/</loc>
-    <lastmod>2026-10-30T14:46:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/ford-escape.png</image:loc>
-      <image:title>EVs Sales Are Rising And Another Gasmobile Bites The Dust</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/europes-coty-shortlist-is-an-ev-clean-sweep-but-china-can-only-wa/</loc>
-    <lastmod>2026-10-30T14:36:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/europes-coty-shortlist-is-an-ev-clean-sweep-but-china-can-only-watch/l-intro-1793370648.jpg</image:loc>
-      <image:title>Europe&#x27;s COTY Shortlist Is An EV Clean Sweep, But China Can Only Watch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/europes-coty-shortlist-is-an-ev-clean-sweep-but-china-can-only-wa/</loc>
-    <lastmod>2026-10-30T14:36:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/europes-coty-shortlist-is-an-ev-clean-sweep-but-china-can-only-watch/l-intro-1793370648.jpg</image:loc>
-      <image:title>Europe&#x27;s COTY Shortlist Is An EV Clean Sweep, But China Can Only Watch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-hits-pause-on-the-golf-ev-as-it-faces-an-urgent-need-f/</loc>
-    <lastmod>2026-10-30T14:29:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Volkswagen-electric-ID-GTI-2.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Volkswagen Halts Golf EV Project As Crisis Forces Urgent Action</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/volkswagen-hits-pause-on-the-golf-ev-as-it-faces-an-urgent-need-f/</loc>
-    <lastmod>2026-10-30T14:29:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Volkswagen-electric-ID-GTI-2.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Volkswagen Halts Golf EV Project As Crisis Forces Urgent Action</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-the-cars-youre-always-surprised-to-see-people-actually-/</loc>
-    <lastmod>2026-10-30T14:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-cars-youre-always-surprised-to-see-people-actually-bought/l-intro-1793318102.jpg</image:loc>
-      <image:title>10 Bizarre Cars People Actually Bought With Their Own Money</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-are-the-cars-youre-always-surprised-to-see-people-actually-/</loc>
-    <lastmod>2026-10-30T14:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-cars-youre-always-surprised-to-see-people-actually-bought/l-intro-1793318102.jpg</image:loc>
-      <image:title>10 Bizarre Cars People Actually Bought With Their Own Money</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lapd-shuts-down-two-takeovers-before-they-start/</loc>
-    <lastmod>2026-10-30T14:23:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/lapd-shuts-down-two-takeovers-before-they-start/l-intro-1793370075.jpg</image:loc>
-      <image:title>LAPD Shuts Down Two Takeovers Before They Start</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/lapd-shuts-down-two-takeovers-before-they-start/</loc>
-    <lastmod>2026-10-30T14:23:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/lapd-shuts-down-two-takeovers-before-they-start/l-intro-1793370075.jpg</image:loc>
-      <image:title>LAPD Shuts Down Two Takeovers Before They Start</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/drive-forward-or-turn-back-four-reasons-to-vote-for-a-strong-auto/</loc>
-    <lastmod>2026-10-30T14:06:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Volkswagen-ID-Polo-Cupra-Raval-Skoda-Epiq-Volkswagen-ID-Cross.jpg</image:loc>
-      <image:title>Drive Forward or Turn Back? Four Reasons to Vote for a Strong Automotive Package</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/drive-forward-or-turn-back-four-reasons-to-vote-for-a-strong-auto/</loc>
-    <lastmod>2026-10-30T14:06:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Volkswagen-ID-Polo-Cupra-Raval-Skoda-Epiq-Volkswagen-ID-Cross.jpg</image:loc>
-      <image:title>Drive Forward or Turn Back? Four Reasons to Vote for a Strong Automotive Package</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-driver/</loc>
-    <lastmod>2026-10-30T14:04:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-drivers-privacy-for-profit/l-intro-1793368893.jpg</image:loc>
-      <image:title>GM Pays $220M To Settle Explosive Lawsuit Over Secret Driver Tracking</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-driver/</loc>
-    <lastmod>2026-10-30T14:04:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/gm-pays-220-million-to-settle-lawsuit-alleging-it-violated-drivers-privacy-for-profit/l-intro-1793368893.jpg</image:loc>
-      <image:title>GM Pays $220M To Settle Explosive Lawsuit Over Secret Driver Tracking</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tes-response-to-the-european-commissions-review-of-the-eu-ets-and/</loc>
-    <lastmod>2026-10-30T14:03:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Business-Research-Market-Research-Computer-Chart-Graph-CleanTechnica-Watermark-1.png</image:loc>
-      <image:title>T&amp;E&#x27;s Response to the European Commission&#x27;s Review of the EU ETS and MSR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tes-response-to-the-european-commissions-review-of-the-eu-ets-and/</loc>
-    <lastmod>2026-10-30T14:03:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Business-Research-Market-Research-Computer-Chart-Graph-CleanTechnica-Watermark-1.png</image:loc>
-      <image:title>T&amp;E&#x27;s Response to the European Commission&#x27;s Review of the EU ETS and MSR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-bmw-3-series/</loc>
-    <lastmod>2026-10-30T13:48:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f7f09290-27ff-4d9d-a51e-dcb6a1f8c792.jpg?crop=0.524xw:0.393xh;0.401xw,0.366xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: All-New Next-Gen 2027 BMW 3-Series Unveiled</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-bmw-3-series/</loc>
-    <lastmod>2026-10-30T13:48:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f7f09290-27ff-4d9d-a51e-dcb6a1f8c792.jpg?crop=0.524xw:0.393xh;0.401xw,0.366xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: All-New Next-Gen 2027 BMW 3-Series Unveiled</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/david-hasselhoffs-stolen-kitt-replica-recovered-by-interpol-now-i/</loc>
-    <lastmod>2026-10-30T13:42:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/david-hasselhoffs-stolen-kitt-replica-recovered-by-interpol-now-it-could-be-yours/l-intro-1793200865.jpg</image:loc>
-      <image:title>Interpol Recovers David Hasselhoff&#x27;s Stolen KITT Replica — Now Heading To Auction</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/david-hasselhoffs-stolen-kitt-replica-recovered-by-interpol-now-i/</loc>
-    <lastmod>2026-10-30T13:42:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/david-hasselhoffs-stolen-kitt-replica-recovered-by-interpol-now-it-could-be-yours/l-intro-1793200865.jpg</image:loc>
-      <image:title>Interpol Recovers David Hasselhoff&#x27;s Stolen KITT Replica — Now Heading To Auction</image:title>
     </image:image>
   </url>
 </urlset>

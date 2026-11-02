@@ -3,6 +3,201 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/new-f1-champion-antonelli-made-everyone-look-silly/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T14:45:17+00:00</news:publication_date>
+      <news:title>New F1 champion Antonelli &#x27;made everyone look silly</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450752_HiRes.jpg</image:loc>
+      <image:title>New F1 champion Antonelli &#x27;made everyone look silly</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/electric-trucks-hit-50-of-chinas-heavy-truck-sales-diesel-demand-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T14:44:40+00:00</news:publication_date>
+      <news:title>Electric trucks hit 50% of China&#x27;s heavy truck sales, diesel demand falls</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/byd-truck_no-door-logo-web1-scaled-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Electric trucks hit 50% of China&#x27;s heavy truck sales, diesel demand falls</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/cybertruck-could-get-trick-suspension-based-loading-ramp/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T14:43:52+00:00</news:publication_date>
+      <news:title>Cybertruck Could Get Trick Suspension-Based Loading Ramp</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/cybertruck-could-get-trick-suspension-based-loading-ramp/l-intro-1793630476.jpg</image:loc>
+      <image:title>Cybertruck Could Get Trick Suspension-Based Loading Ramp</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/which-automaker-has-the-coolest-model-names/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T14:25:00+00:00</news:publication_date>
+      <news:title>Which Automaker Has The Coolest Model Names?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/which-automaker-has-the-coolest-model-names/l-intro-1793401678.jpg</image:loc>
+      <image:title>Which Automaker Has The Coolest Model Names?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bestselling-us-e-bike-lectric-xp4-relaunched-in-limited-edition-w/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T14:05:31+00:00</news:publication_date>
+      <news:title>Bestselling US e-bike Lectric XP4 relaunched in limited-edition with new colors and gear</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/lectric-xp4-special-edition-header-e-bike.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Bestselling US e-bike Lectric XP4 relaunched in limited-edition with new colors and gear</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kimi-antonelli-becomes-youngest-ever-f1-world-champion/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T13:57:42+00:00</news:publication_date>
+      <news:title>Kimi Antonelli Becomes Youngest-Ever F1 World Champion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/kimi-antonelli-becomes-youngest-ever-f1-world-champion/l-intro-1793627671.jpg</image:loc>
+      <image:title>Kimi Antonelli Becomes Youngest-Ever F1 World Champion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/giugiaro-revisits-the-baby-lambo-he-invented/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T13:49:02+00:00</news:publication_date>
+      <news:title>Giugiaro Revisits The Baby Lambo He Invented</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/giugiaro-revisits-the-baby-lambo-he-invented/l-intro-1793627044.jpg</image:loc>
+      <image:title>Giugiaro Revisits The Baby Lambo He Invented</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T13:25:00+00:00</news:publication_date>
+      <news:title>At $7,500, Will This 2003 Jeep Wrangler Sahara Get Its Just Dessert?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/l-intro-1793376613.jpg</image:loc>
+      <image:title>At $7,500, Will This 2003 Jeep Wrangler Sahara Get Its Just Dessert?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/after-471625-miles-this-chevy-bolt-is-doing-better-than-you-think/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T13:02:41+00:00</news:publication_date>
+      <news:title>After 471,625 miles, this Chevy Bolt is doing better than you think [video]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/471625.png?w=1600</image:loc>
+      <image:title>After 471,625 miles, this Chevy Bolt is doing better than you think [video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-the-ultimate-nissan-pathfinders-for-the-track-and-the-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T13:00:00+00:00</news:publication_date>
+      <news:title>These Are The Ultimate Nissan Pathfinders For The Track And The Trail</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/nismo-nick-built-the-ultimate-pathfinders-for-the-track-and-the-trail/l-intro-1793623583.jpg</image:loc>
+      <image:title>These Are The Ultimate Nissan Pathfinders For The Track And The Trail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/edd-straws-f1-2026-mexican-grand-prix-tier-list-driver-rankings/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T12:02:55+00:00</news:publication_date>
+      <news:title>Edd Straw&#x27;s F1 2026 Mexican Grand Prix tier list driver rankings</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450564_HiRes.jpg</image:loc>
+      <image:title>Edd Straw&#x27;s F1 2026 Mexican Grand Prix tier list driver rankings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T11:00:00+00:00</news:publication_date>
+      <news:title>Ford launches a &#x27;privacy promise&#x27; and explains how and why it uses customer data</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/02/ford-blue-cruise.jpeg?resize=1600,1067</image:loc>
+      <image:title>Ford launches a &#x27;privacy promise&#x27; and explains how and why it uses customer data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:25:00+00:00</news:publication_date>
+      <news:title>Why Checking CarMax Makes Sense (Even If You End Up Buying Elsewhere)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhere/l-intro-1793194366.jpg</image:loc>
+      <image:title>Why Checking CarMax Makes Sense (Even If You End Up Buying Elsewhere)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/how-europes-battery-passport-could-have-a-big-impact-on-us-e-bike/</loc>
     <news:news>
       <news:publication>
@@ -1275,156 +1470,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/2302753280-470.jpg</image:loc>
       <image:title>Ocon suddenly replaced at Haas for rest of Mexico F1 weekend</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-f1-teams-are-tackling-mexicos-altitude-challenge-in-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T14:06:54+00:00</news:publication_date>
-      <news:title>How F1 teams are tackling Mexico&#x27;s altitude challenge in 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/comaparison-cooling-louvres-top-teams-Mexico--1-.jpg</image:loc>
-      <image:title>How F1 teams are tackling Mexico&#x27;s altitude challenge in 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-toyota-models-that-hold-their-value-best-after-five-years/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T14:05:00+00:00</news:publication_date>
-      <news:title>7 Toyota Models That Hold Their Value Best After Five Years</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-toyota-models-that-hold-their-value-best-after-five-years/l-intro-1792690717.jpg</image:loc>
-      <image:title>7 Toyota Models That Hold Their Value Best After Five Years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/renault-and-peugeot-revived-group-b-rally-legends-as-evs-but-whic/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T14:00:00+00:00</news:publication_date>
-      <news:title>Renault And Peugeot Revived Group B Rally Legends As EVs, But Which Did It Better?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/renault-and-peugeot-revived-group-b-rally-legends-as-evs-but-which-did-it-better/l-intro-1793108854.jpg</image:loc>
-      <image:title>Renault And Peugeot Revived Group B Rally Legends As EVs, But Which Did It Better?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-will-transportation-look-like-in-the-us-in-2050/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T13:25:00+00:00</news:publication_date>
-      <news:title>What Will Transportation Look Like In The U.S. In 2050?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-will-transportation-look-like-in-the-u-s-in-2050/l-intro-1793042061.jpg</image:loc>
-      <image:title>What Will Transportation Look Like In The U.S. In 2050?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/can-silicon-valley-build-a-safe-class-8-truck-early-ev-semi-fires/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:55:58+00:00</news:publication_date>
-      <news:title>Can Silicon Valley Build A Safe Class 8 Truck? Early EV Semi Fires Expose The Experience Gap</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/Tesla-Semi.jpg</image:loc>
-      <image:title>Can Silicon Valley Build A Safe Class 8 Truck? Early EV Semi Fires Expose The Experience Gap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/9-of-the-most-popular-japanese-performance-cars-to-import-and-why/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:45:00+00:00</news:publication_date>
-      <news:title>9 Of The Most Popular Japanese Performance Cars To Import (And Why Enthusiasts Love Them)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/9-of-the-most-popular-japanese-performance-cars-to-import-and-why-enthusiasts-love-them/l-intro-1793126714.jpg</image:loc>
-      <image:title>9 Of The Most Popular Japanese Performance Cars To Import (And Why Enthusiasts Love Them)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-the-bird-on-the-pontiac-trans-ams-hood-is-actually-called/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:00:00+00:00</news:publication_date>
-      <news:title>What The Bird On The Pontiac Trans Am&#x27;s Hood Is Actually Called</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-the-bird-on-the-pontiac-trans-ams-hood-is-actually-called/l-intro-1793026702.jpg</image:loc>
-      <image:title>What The Bird On The Pontiac Trans Am&#x27;s Hood Is Actually Called</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-f1s-2026-cars-are-unusually-quick-in-mexico/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T11:49:19+00:00</news:publication_date>
-      <news:title>Why F1&#x27;s 2026 cars are unusually quick in Mexico</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449189_HiRes-1.jpg</image:loc>
-      <image:title>Why F1&#x27;s 2026 cars are unusually quick in Mexico</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T11:05:00+00:00</news:publication_date>
-      <news:title>The Pros And Cons Of Getting Multiple Car Insurance Quotes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/l-intro-1793309239.jpg</image:loc>
-      <image:title>The Pros And Cons Of Getting Multiple Car Insurance Quotes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/winners-and-losers-from-motogps-sepang-sprint/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T11:00:51+00:00</news:publication_date>
-      <news:title>Fallout &amp; Drama: Who Won And Who Lost At MotoGP&#x27;s Sepang sprint</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358938_HiRes.jpg</image:loc>
-      <image:title>Fallout &amp; Drama: Who Won And Who Lost At MotoGP&#x27;s Sepang sprint</image:title>
     </image:image>
   </url>
 </urlset>
