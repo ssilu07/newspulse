@@ -3,39 +3,99 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-02T01:49:40Z</lastmod>
+    <lastmod>2026-11-02T09:42:18Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-02T01:49:40Z</lastmod>
+    <lastmod>2026-11-02T09:42:18Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-02T01:49:40Z</lastmod>
+    <lastmod>2026-11-02T09:42:18Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-02T01:49:40Z</lastmod>
+    <lastmod>2026-11-02T09:42:18Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-02T01:49:40Z</lastmod>
+    <lastmod>2026-11-02T09:42:18Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-02T01:49:40Z</lastmod>
+    <lastmod>2026-11-02T09:42:18Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-europes-battery-passport-could-have-a-big-impact-on-us-e-bike/</loc>
+    <lastmod>2026-11-02T09:21:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/04/velotric-battery-e-bike-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>How Europe&#x27;s battery passport could have a big impact on US e-bikes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-europes-battery-passport-could-have-a-big-impact-on-us-e-bike/</loc>
+    <lastmod>2026-11-02T09:21:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/04/velotric-battery-e-bike-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>How Europe&#x27;s battery passport could have a big impact on US e-bikes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/malaysian-grand-prix-2026-motogp-rider-rankings/</loc>
+    <lastmod>2026-11-02T08:50:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359629_HiRes.jpg</image:loc>
+      <image:title>Malaysian Grand Prix 2026 MotoGP rider rankings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/malaysian-grand-prix-2026-motogp-rider-rankings/</loc>
+    <lastmod>2026-11-02T08:50:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359629_HiRes.jpg</image:loc>
+      <image:title>Malaysian Grand Prix 2026 MotoGP rider rankings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-rival-verstappen-needs-our-verdict-on-antonellis-f1-title/</loc>
+    <lastmod>2026-11-02T08:19:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450444_HiRes.jpg</image:loc>
+      <image:title>The rival Verstappen needs - our verdict on Antonelli&#x27;s F1 title</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-rival-verstappen-needs-our-verdict-on-antonellis-f1-title/</loc>
+    <lastmod>2026-11-02T08:19:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450444_HiRes.jpg</image:loc>
+      <image:title>The rival Verstappen needs - our verdict on Antonelli&#x27;s F1 title</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-en/</loc>
@@ -2975,66 +3035,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/david-hasselhoffs-stolen-kitt-replica-recovered-by-interpol-now-it-could-be-yours/l-intro-1793200865.jpg</image:loc>
       <image:title>Interpol Recovers David Hasselhoff&#x27;s Stolen KITT Replica — Now Heading To Auction</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-ignorance-is-a-superpower-for-antonelli-in-f1/</loc>
-    <lastmod>2026-10-30T13:30:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-1.motorsport.com/images/amp/0kZXN3o6/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
-      <image:title>Why &quot;ignorance is a superpower&quot; for Antonelli in F1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-ignorance-is-a-superpower-for-antonelli-in-f1/</loc>
-    <lastmod>2026-10-30T13:30:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-1.motorsport.com/images/amp/0kZXN3o6/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
-      <image:title>Why &quot;ignorance is a superpower&quot; for Antonelli in F1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/used-evs-are-selling-faster-than-gas-cars-or-hybrids/</loc>
-    <lastmod>2026-10-30T13:30:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-audi-q4-sportback-55-etron-quattro-133-66465ba7c1702.jpg</image:loc>
-      <image:title>Used EVs Are Selling Faster Than Gas Cars or Hybrids</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/used-evs-are-selling-faster-than-gas-cars-or-hybrids/</loc>
-    <lastmod>2026-10-30T13:30:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-audi-q4-sportback-55-etron-quattro-133-66465ba7c1702.jpg</image:loc>
-      <image:title>Used EVs Are Selling Faster Than Gas Cars or Hybrids</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/updated-ford-edge-l-is-the-sharper-explorer-alternative-we-cant-h/</loc>
-    <lastmod>2026-10-30T13:26:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/updated-ford-edge-l-is-the-sharper-explorer-alternative-we-cant-have/l-intro-1793366616.jpg</image:loc>
-      <image:title>Updated Ford Edge L Is The Sharper Explorer Alternative We Can&#x27;t Have</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/updated-ford-edge-l-is-the-sharper-explorer-alternative-we-cant-h/</loc>
-    <lastmod>2026-10-30T13:26:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/updated-ford-edge-l-is-the-sharper-explorer-alternative-we-cant-have/l-intro-1793366616.jpg</image:loc>
-      <image:title>Updated Ford Edge L Is The Sharper Explorer Alternative We Can&#x27;t Have</image:title>
     </image:image>
   </url>
 </urlset>
