@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-01T22:12:08Z</lastmod>
+    <lastmod>2026-11-02T01:49:40Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-01T22:12:08Z</lastmod>
+    <lastmod>2026-11-02T01:49:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-01T22:12:08Z</lastmod>
+    <lastmod>2026-11-02T01:49:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-01T22:12:08Z</lastmod>
+    <lastmod>2026-11-02T01:49:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-01T22:12:08Z</lastmod>
+    <lastmod>2026-11-02T01:49:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-01T22:12:08Z</lastmod>
+    <lastmod>2026-11-02T01:49:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-en/</loc>
+    <lastmod>2026-11-02T00:50:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-engines/l-intro-1793133938.jpg</image:loc>
+      <image:title>7 Luxury Vehicles From Throughout History That Used 4-Cylinder Engines</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-en/</loc>
+    <lastmod>2026-11-02T00:50:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-engines/l-intro-1793133938.jpg</image:loc>
+      <image:title>7 Luxury Vehicles From Throughout History That Used 4-Cylinder Engines</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/piastri-punished-for-lindblad-collision/</loc>
+    <lastmod>2026-11-02T00:25:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450181_HiRes.jpg</image:loc>
+      <image:title>Piastri punished for Lindblad collision</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/piastri-punished-for-lindblad-collision/</loc>
+    <lastmod>2026-11-02T00:25:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450181_HiRes.jpg</image:loc>
+      <image:title>Piastri punished for Lindblad collision</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find/</loc>
+    <lastmod>2026-11-02T00:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find-out/l-intro-1793132615.jpg</image:loc>
+      <image:title>Can One Tire Really Do It All? 8 All-Weather Tires Compete To Find Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find/</loc>
+    <lastmod>2026-11-02T00:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find-out/l-intro-1793132615.jpg</image:loc>
+      <image:title>Can One Tire Really Do It All? 8 All-Weather Tires Compete To Find Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hamilton-demands-serious-talks-after-latest-leclerc-incident/</loc>
+    <lastmod>2026-11-01T23:28:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450299_HiRes.jpg</image:loc>
+      <image:title>Hamilton demands &#x27;serious talks&#x27; after latest Leclerc incident</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hamilton-demands-serious-talks-after-latest-leclerc-incident/</loc>
+    <lastmod>2026-11-01T23:28:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450299_HiRes.jpg</image:loc>
+      <image:title>Hamilton demands &#x27;serious talks&#x27; after latest Leclerc incident</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-/</loc>
+    <lastmod>2026-11-01T23:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-how-to-name-this-sort-of-thing/l-intro-1793198357.jpg</image:loc>
+      <image:title>Mitsubishi Outlander Diamond Trail Edition Is A Great Example Of How To Name This Sort Of Thing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-/</loc>
+    <lastmod>2026-11-01T23:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-how-to-name-this-sort-of-thing/l-intro-1793198357.jpg</image:loc>
+      <image:title>Mitsubishi Outlander Diamond Trail Edition Is A Great Example Of How To Name This Sort Of Thing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-/</loc>
+    <lastmod>2026-11-01T23:17:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-hybrid-v8/l-intro-1793574538.jpg</image:loc>
+      <image:title>Karma&#x27;s Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-/</loc>
+    <lastmod>2026-11-01T23:17:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-hybrid-v8/l-intro-1793574538.jpg</image:loc>
+      <image:title>Karma&#x27;s Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phan/</loc>
+    <lastmod>2026-11-01T23:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phantom-badger/l-intro-1793131447.jpg</image:loc>
+      <image:title>Boeing Once Developed A Vehicle For The Navy Called, Adorably, &#x27;Phantom Badger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phan/</loc>
+    <lastmod>2026-11-01T23:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phantom-badger/l-intro-1793131447.jpg</image:loc>
+      <image:title>Boeing Once Developed A Vehicle For The Navy Called, Adorably, &#x27;Phantom Badger</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/bottas-escapes-injury-in-race-stopping-crash/</loc>
@@ -675,6 +815,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1448490_HiRes.jpg</image:loc>
       <image:title>Where Antonelli&#x27;s 2026 will stand out among first-time F1 titles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-almost-no-rental-car-company-will-let-you-drive-this-road-in-/</loc>
+    <lastmod>2026-11-01T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-almost-no-rental-car-company-will-let-you-drive-this-road-in-alaska/l-intro-1793033547.jpg</image:loc>
+      <image:title>Why Almost No Rental Car Company Will Let You Drive This Road In Alaska</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-almost-no-rental-car-company-will-let-you-drive-this-road-in-/</loc>
+    <lastmod>2026-11-01T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-almost-no-rental-car-company-will-let-you-drive-this-road-in-alaska/l-intro-1793033547.jpg</image:loc>
+      <image:title>Why Almost No Rental Car Company Will Let You Drive This Road In Alaska</image:title>
     </image:image>
   </url>
   <url>
@@ -2875,166 +3035,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/updated-ford-edge-l-is-the-sharper-explorer-alternative-we-cant-have/l-intro-1793366616.jpg</image:loc>
       <image:title>Updated Ford Edge L Is The Sharper Explorer Alternative We Can&#x27;t Have</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-car-would-you-lease-but-never-buy/</loc>
-    <lastmod>2026-10-30T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-car-would-you-lease-but-never-buy/l-intro-1793305811.jpg</image:loc>
-      <image:title>The Lease Trap: 7 Brilliant Cars You Should Never Own Outright</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-car-would-you-lease-but-never-buy/</loc>
-    <lastmod>2026-10-30T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-car-would-you-lease-but-never-buy/l-intro-1793305811.jpg</image:loc>
-      <image:title>The Lease Trap: 7 Brilliant Cars You Should Never Own Outright</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/waymo-picks-toyota-bz4x-as-its-next-robotaxi-starting-in-japan-in/</loc>
-    <lastmod>2026-10-30T13:22:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Waymo-Toyota-Bz4x.webp?w=1600</image:loc>
-      <image:title>Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/waymo-picks-toyota-bz4x-as-its-next-robotaxi-starting-in-japan-in/</loc>
-    <lastmod>2026-10-30T13:22:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Waymo-Toyota-Bz4x.webp?w=1600</image:loc>
-      <image:title>Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-nissan-rogue-hybrid/</loc>
-    <lastmod>2026-10-30T13:21:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/de8ddd89-99df-402a-b7df-b15af8ae6418.jpg?crop=1xw:0.667xh;0xw,0.221xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: 2027 Nissan Rogue Hybrid Boasts Massive Efficiency Leap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-nissan-rogue-hybrid/</loc>
-    <lastmod>2026-10-30T13:21:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/de8ddd89-99df-402a-b7df-b15af8ae6418.jpg?crop=1xw:0.667xh;0xw,0.221xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: 2027 Nissan Rogue Hybrid Boasts Massive Efficiency Leap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mclarens-next-supercar-is-the-809-hp-mcl-820-a-not-so-little-bird/</loc>
-    <lastmod>2026-10-30T13:04:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mclarens-next-supercar-is-the-809-hp-mcl-820-a-not-so-little-bird-told-us/l-intro-1793365138.jpg</image:loc>
-      <image:title>McLaren&#x27;s Next Supercar Is The 809 HP McL 820, A Not So Little Bird Told Us</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mclarens-next-supercar-is-the-809-hp-mcl-820-a-not-so-little-bird/</loc>
-    <lastmod>2026-10-30T13:04:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mclarens-next-supercar-is-the-809-hp-mcl-820-a-not-so-little-bird-told-us/l-intro-1793365138.jpg</image:loc>
-      <image:title>McLaren&#x27;s Next Supercar Is The 809 HP McL 820, A Not So Little Bird Told Us</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fu/</loc>
-    <lastmod>2026-10-30T12:42:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/image_a598cf.png?w=964</image:loc>
-      <image:title>Jasion Poki review: The Electric Minibike that packs heavy-duty fun</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fu/</loc>
-    <lastmod>2026-10-30T12:42:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/image_a598cf.png?w=964</image:loc>
-      <image:title>Jasion Poki review: The Electric Minibike that packs heavy-duty fun</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/</loc>
-    <lastmod>2026-10-30T12:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/l-intro-1793296032.jpg</image:loc>
-      <image:title>Is This 2024 Polestar 2 Long Range Actually Worth $22,995 On The Used Market?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/</loc>
-    <lastmod>2026-10-30T12:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-22995-would-you-plug-into-this-2024-polestar-2-long-range/l-intro-1793296032.jpg</image:loc>
-      <image:title>Is This 2024 Polestar 2 Long Range Actually Worth $22,995 On The Used Market?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/subaru-will-only-sell-evs-in-europe-after-2027/</loc>
-    <lastmod>2026-10-30T12:12:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/subaru-will-only-sell-evs-in-europe-after-2027/l-intro-1793362170.jpg</image:loc>
-      <image:title>Subaru Will Only Sell EVs In Europe After 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/subaru-will-only-sell-evs-in-europe-after-2027/</loc>
-    <lastmod>2026-10-30T12:12:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/subaru-will-only-sell-evs-in-europe-after-2027/l-intro-1793362170.jpg</image:loc>
-      <image:title>Subaru Will Only Sell EVs In Europe After 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
-    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/fc319356-94a0-4387-a707-b47632a8ab1e.jpg</image:loc>
-      <image:title>First Look Inside: The 2027 Nissan Rogue Hybrid Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2027-nissan-rogue-hybrid/</loc>
-    <lastmod>2026-10-30T12:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/fc319356-94a0-4387-a707-b47632a8ab1e.jpg</image:loc>
-      <image:title>First Look Inside: The 2027 Nissan Rogue Hybrid Cabin</image:title>
     </image:image>
   </url>
 </urlset>

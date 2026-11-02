@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-en/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T00:50:00+00:00</news:publication_date>
+      <news:title>7 Luxury Vehicles From Throughout History That Used 4-Cylinder Engines</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-engines/l-intro-1793133938.jpg</image:loc>
+      <image:title>7 Luxury Vehicles From Throughout History That Used 4-Cylinder Engines</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/piastri-punished-for-lindblad-collision/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T00:25:26+00:00</news:publication_date>
+      <news:title>Piastri punished for Lindblad collision</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450181_HiRes.jpg</image:loc>
+      <image:title>Piastri punished for Lindblad collision</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T00:25:00+00:00</news:publication_date>
+      <news:title>Can One Tire Really Do It All? 8 All-Weather Tires Compete To Find Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find-out/l-intro-1793132615.jpg</image:loc>
+      <image:title>Can One Tire Really Do It All? 8 All-Weather Tires Compete To Find Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hamilton-demands-serious-talks-after-latest-leclerc-incident/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T23:28:23+00:00</news:publication_date>
+      <news:title>Hamilton demands &#x27;serious talks&#x27; after latest Leclerc incident</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450299_HiRes.jpg</image:loc>
+      <image:title>Hamilton demands &#x27;serious talks&#x27; after latest Leclerc incident</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T23:25:00+00:00</news:publication_date>
+      <news:title>Mitsubishi Outlander Diamond Trail Edition Is A Great Example Of How To Name This Sort Of Thing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-how-to-name-this-sort-of-thing/l-intro-1793198357.jpg</image:loc>
+      <image:title>Mitsubishi Outlander Diamond Trail Edition Is A Great Example Of How To Name This Sort Of Thing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T23:17:38+00:00</news:publication_date>
+      <news:title>Karma&#x27;s Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-hybrid-v8/l-intro-1793574538.jpg</image:loc>
+      <image:title>Karma&#x27;s Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T23:05:00+00:00</news:publication_date>
+      <news:title>Boeing Once Developed A Vehicle For The Navy Called, Adorably, &#x27;Phantom Badger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phantom-badger/l-intro-1793131447.jpg</image:loc>
+      <image:title>Boeing Once Developed A Vehicle For The Navy Called, Adorably, &#x27;Phantom Badger</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bottas-escapes-injury-in-race-stopping-crash/</loc>
     <news:news>
       <news:publication>
@@ -480,6 +585,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1448490_HiRes.jpg</image:loc>
       <image:title>Where Antonelli&#x27;s 2026 will stand out among first-time F1 titles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-almost-no-rental-car-company-will-let-you-drive-this-road-in-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T13:05:00+00:00</news:publication_date>
+      <news:title>Why Almost No Rental Car Company Will Let You Drive This Road In Alaska</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-almost-no-rental-car-company-will-let-you-drive-this-road-in-alaska/l-intro-1793033547.jpg</image:loc>
+      <image:title>Why Almost No Rental Car Company Will Let You Drive This Road In Alaska</image:title>
     </image:image>
   </url>
   <url>
@@ -1395,81 +1515,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Solar-capacity-growth-USA-with-batteries.png</image:loc>
       <image:title>Green Grid Boom: Why Battery-Backed Solar Farms Are Surging</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/homepower-1000-plus-v2-portable-power-put-to-use/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T01:27:32+00:00</news:publication_date>
-      <news:title>HomePower 1000 Plus v2: Portable Power Put To Use</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/PXL_20260831_162517813-scaled.jpg</image:loc>
-      <image:title>HomePower 1000 Plus v2: Portable Power Put To Use</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/electric-vehicle-council-celebrating-10-years-of-ev-progress-in-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T01:22:45+00:00</news:publication_date>
-      <news:title>10 Years Of EV Disruption: How Electric Cars Conquered Australia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/shopping-car-park.jpg</image:loc>
-      <image:title>10 Years Of EV Disruption: How Electric Cars Conquered Australia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/verstappen-collides-with-lawson-as-leclerc-tops-mexico-fp2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T23:09:09+00:00</news:publication_date>
-      <news:title>Verstappen collides with Lawson as Leclerc tops Mexico FP2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448903_HiRes.jpg</image:loc>
-      <image:title>Verstappen collides with Lawson as Leclerc tops Mexico FP2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mate-rimac-chased-down-a-guy-who-stole-his-bugatti-chiron-in-croa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T22:43:10+00:00</news:publication_date>
-      <news:title>Hypercar Heist: Mate Rimac Chased Down The Thief Who Stole His Bugatti Chiron</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mate-rimac-chased-down-a-guy-who-stole-his-bugatti-chiron-in-croatia/l-intro-1793399508.jpg</image:loc>
-      <image:title>Hypercar Heist: Mate Rimac Chased Down The Thief Who Stole His Bugatti Chiron</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-hertas-actually-still-one-point-off-f1-superlicence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T22:38:54+00:00</news:publication_date>
-      <news:title>Why Herta&#x27;s actually still one point off F1 superlicence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448550_HiRes.jpg</image:loc>
-      <image:title>Why Herta&#x27;s actually still one point off F1 superlicence</image:title>
     </image:image>
   </url>
 </urlset>
