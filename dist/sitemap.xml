@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-03T13:40:32Z</lastmod>
+    <lastmod>2026-11-03T17:18:28Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-03T13:40:32Z</lastmod>
+    <lastmod>2026-11-03T17:18:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-03T13:40:32Z</lastmod>
+    <lastmod>2026-11-03T17:18:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-03T13:40:32Z</lastmod>
+    <lastmod>2026-11-03T17:18:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-03T13:40:32Z</lastmod>
+    <lastmod>2026-11-03T17:18:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-03T13:40:32Z</lastmod>
+    <lastmod>2026-11-03T17:18:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-mid-90s-austrian-car-company-cobbled-together-a-lineup-with-/</loc>
+    <lastmod>2026-11-03T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/austrians-could-enjoy-mid-90s-american-cars-thanks-to-a-short-lived-brand-called-sauber/l-intro-1793648991.jpg</image:loc>
+      <image:title>This Mid-90s Austrian Car Company Cobbled Together A Lineup With A Lightly Rebadged Ford, Mercury, Saturn And Dodge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-mid-90s-austrian-car-company-cobbled-together-a-lineup-with-/</loc>
+    <lastmod>2026-11-03T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/austrians-could-enjoy-mid-90s-american-cars-thanks-to-a-short-lived-brand-called-sauber/l-intro-1793648991.jpg</image:loc>
+      <image:title>This Mid-90s Austrian Car Company Cobbled Together A Lineup With A Lightly Rebadged Ford, Mercury, Saturn And Dodge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fords-frostwarden-bronco-is-a-one-off-rescue-vehicle-with-1200-hp/</loc>
+    <lastmod>2026-11-03T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b4ffe35a-6b45-4949-a340-0373e15b3d31.jpg</image:loc>
+      <image:title>Ford&#x27;s Frostwarden Bronco Is a One-Off Rescue Vehicle with 1200 HP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/fords-frostwarden-bronco-is-a-one-off-rescue-vehicle-with-1200-hp/</loc>
+    <lastmod>2026-11-03T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b4ffe35a-6b45-4949-a340-0373e15b3d31.jpg</image:loc>
+      <image:title>Ford&#x27;s Frostwarden Bronco Is a One-Off Rescue Vehicle with 1200 HP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rivian-spinout-also-was-working-on-an-e-moto-project-in-kenya-unt/</loc>
+    <lastmod>2026-11-03T16:49:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/10/Also-portal-screen.jpeg?resize=1600,1067</image:loc>
+      <image:title>Rivian spinout Also was working on an e-moto project in Kenya</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rivian-spinout-also-was-working-on-an-e-moto-project-in-kenya-unt/</loc>
+    <lastmod>2026-11-03T16:49:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/10/Also-portal-screen.jpeg?resize=1600,1067</image:loc>
+      <image:title>Rivian spinout Also was working on an e-moto project in Kenya</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/</loc>
+    <lastmod>2026-11-03T16:48:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg</image:loc>
+      <image:title>McLaren to bring upgrades to Brazil GP with F1 2027 in mind</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/</loc>
+    <lastmod>2026-11-03T16:48:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg</image:loc>
+      <image:title>McLaren to bring upgrades to Brazil GP with F1 2027 in mind</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/i-only-want-the-gorgeous-mid-engine-bmw-sports-car-because-i-care/</loc>
+    <lastmod>2026-11-03T16:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/i-only-want-the-gorgeous-mid-engine-bmw-sports-car-because-i-care-about-saving-the-planet-sir-i-promise/l-intro-1793650084.jpg</image:loc>
+      <image:title>I Only Want The Gorgeous Mid-Engine BMW Sports Car Because I Care About Saving The Planet, Sir, I Promise</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/i-only-want-the-gorgeous-mid-engine-bmw-sports-car-because-i-care/</loc>
+    <lastmod>2026-11-03T16:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/i-only-want-the-gorgeous-mid-engine-bmw-sports-car-because-i-care-about-saving-the-planet-sir-i-promise/l-intro-1793650084.jpg</image:loc>
+      <image:title>I Only Want The Gorgeous Mid-Engine BMW Sports Car Because I Care About Saving The Planet, Sir, I Promise</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/dixon-set-to-replace-mir-in-qatar-motogp-round/</loc>
+    <lastmod>2026-11-03T16:20:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1358229_HiRes.jpg</image:loc>
+      <image:title>Dixon set to replace Mir in Qatar MotoGP round</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/dixon-set-to-replace-mir-in-qatar-motogp-round/</loc>
+    <lastmod>2026-11-03T16:20:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1358229_HiRes.jpg</image:loc>
+      <image:title>Dixon set to replace Mir in Qatar MotoGP round</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-confirms-the-celicas-return-as-a-rally-race-car-for-2027/</loc>
+    <lastmod>2026-11-03T16:10:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e3f4b4d6-80d3-4cc8-bfbc-008339041ab6.jpg</image:loc>
+      <image:title>Toyota Confirms the Celica&#x27;s Return as a Rally Race Car for 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-confirms-the-celicas-return-as-a-rally-race-car-for-2027/</loc>
+    <lastmod>2026-11-03T16:10:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e3f4b4d6-80d3-4cc8-bfbc-008339041ab6.jpg</image:loc>
+      <image:title>Toyota Confirms the Celica&#x27;s Return as a Rally Race Car for 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-jaguar-type-01s-us-spec-bumper-is-fantastically-well-integrat/</loc>
+    <lastmod>2026-11-03T15:45:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-jaguar-type-01s-u-s-spec-bumper-is-fantastically-well-integrated/l-intro-1793720647.jpg</image:loc>
+      <image:title>The Jaguar Type 01&#x27;s U.S.-Spec Bumper Is Fantastically Well Integrated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-jaguar-type-01s-us-spec-bumper-is-fantastically-well-integrat/</loc>
+    <lastmod>2026-11-03T15:45:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-jaguar-type-01s-u-s-spec-bumper-is-fantastically-well-integrated/l-intro-1793720647.jpg</image:loc>
+      <image:title>The Jaguar Type 01&#x27;s U.S.-Spec Bumper Is Fantastically Well Integrated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/zero-motorcycles-unveils-8k-electric-motorcycle-street-legal-dirt/</loc>
+    <lastmod>2026-11-03T15:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/zero-ventura-motorcycle-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Zero Motorcycles unveils $8K electric motorcycle, street-legal dirt bike, and much more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/zero-motorcycles-unveils-8k-electric-motorcycle-street-legal-dirt/</loc>
+    <lastmod>2026-11-03T15:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/zero-ventura-motorcycle-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Zero Motorcycles unveils $8K electric motorcycle, street-legal dirt bike, and much more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-the-cars-youd-lease-but-never-buy/</loc>
+    <lastmod>2026-11-03T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-cars-youd-lease-but-never-buy/l-intro-1793660718.jpg</image:loc>
+      <image:title>These Are The Cars You&#x27;d Lease But Never Buy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-are-the-cars-youd-lease-but-never-buy/</loc>
+    <lastmod>2026-11-03T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-cars-youd-lease-but-never-buy/l-intro-1793660718.jpg</image:loc>
+      <image:title>These Are The Cars You&#x27;d Lease But Never Buy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/i-checked-out-teslas-new-model-yl-standard-y-model-3-in-person-he/</loc>
+    <lastmod>2026-11-03T15:07:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/IMG_9142-scaled.jpeg</image:loc>
+      <image:title>I Checked Out Tesla&#x27;s New Model YL, Standard Y, Model 3 In Person - Here&#x27;s What Surprised Me</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/i-checked-out-teslas-new-model-yl-standard-y-model-3-in-person-he/</loc>
+    <lastmod>2026-11-03T15:07:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/IMG_9142-scaled.jpeg</image:loc>
+      <image:title>I Checked Out Tesla&#x27;s New Model YL, Standard Y, Model 3 In Person - Here&#x27;s What Surprised Me</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-electric-microcar-just-got-a-50-mph-upgrade-plus-a-secret-tu/</loc>
+    <lastmod>2026-11-03T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/eli-zero-mx-microcar-quadricycle-italy-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>This electric microcar just got a 50 mph upgrade, plus a secret Turbo mode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-electric-microcar-just-got-a-50-mph-upgrade-plus-a-secret-tu/</loc>
+    <lastmod>2026-11-03T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/eli-zero-mx-microcar-quadricycle-italy-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>This electric microcar just got a 50 mph upgrade, plus a secret Turbo mode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-racks-up-another-record-month-as-its-new-30k-electric-suv-hit/</loc>
+    <lastmod>2026-11-03T14:56:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-record-US-sales-EV3.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Kia racks up another record month as its new $30K electric SUV hits dealers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-racks-up-another-record-month-as-its-new-30k-electric-suv-hit/</loc>
+    <lastmod>2026-11-03T14:56:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-record-US-sales-EV3.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Kia racks up another record month as its new $30K electric SUV hits dealers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-wins-trade-zone-status-for-texas-megapacks-but-china-tariff/</loc>
+    <lastmod>2026-11-03T14:15:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Megapack-3-Megablock.webp?w=1600</image:loc>
+      <image:title>Tesla wins trade zone status for Texas Megapacks, but China tariffs stay</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-wins-trade-zone-status-for-texas-megapacks-but-china-tariff/</loc>
+    <lastmod>2026-11-03T14:15:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Megapack-3-Megablock.webp?w=1600</image:loc>
+      <image:title>Tesla wins trade zone status for Texas Megapacks, but China tariffs stay</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/bmw-alpina-teases-its-next-model-but-we-already-know-what-it-is/</loc>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359925_HiRes.jpg</image:loc>
       <image:title>Yamaha pulls out of Qatar GP, MotoGP threatens penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1s-attempt-to-prevent-a-repeat-of-mexico-turn-1-antics/</loc>
-    <lastmod>2026-11-01T09:54:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1382584_HiRes.jpg</image:loc>
-      <image:title>F1&#x27;s attempt to prevent a repeat of Mexico Turn 1 antics</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1s-attempt-to-prevent-a-repeat-of-mexico-turn-1-antics/</loc>
-    <lastmod>2026-11-01T09:54:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1382584_HiRes.jpg</image:loc>
-      <image:title>F1&#x27;s attempt to prevent a repeat of Mexico Turn 1 antics</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-ocons-replacement-is-really-faring-on-his-shock-f1-debut/</loc>
-    <lastmod>2026-11-01T09:50:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449647_HiRes.jpg</image:loc>
-      <image:title>How Ocon&#x27;s replacement is really faring on his shock F1 debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-ocons-replacement-is-really-faring-on-his-shock-f1-debut/</loc>
-    <lastmod>2026-11-01T09:50:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449647_HiRes.jpg</image:loc>
-      <image:title>How Ocon&#x27;s replacement is really faring on his shock F1 debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/alex-marquez-withdraws-from-qatar-gp-for-surgery/</loc>
-    <lastmod>2026-11-01T09:03:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359658_HiRes.jpg</image:loc>
-      <image:title>Alex Marquez withdraws from Qatar GP for surgery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/alex-marquez-withdraws-from-qatar-gp-for-surgery/</loc>
-    <lastmod>2026-11-01T09:03:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359658_HiRes.jpg</image:loc>
-      <image:title>Alex Marquez withdraws from Qatar GP for surgery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-has-dominated-motorcycles-for-decades-electric-bikes-are-ch/</loc>
-    <lastmod>2026-11-01T08:17:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/honda-super-cub-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Honda has dominated motorcycles for decades. Electric bikes are changing that</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-has-dominated-motorcycles-for-decades-electric-bikes-are-ch/</loc>
-    <lastmod>2026-11-01T08:17:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/honda-super-cub-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Honda has dominated motorcycles for decades. Electric bikes are changing that</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/marquez-takes-complete-control-of-title-fight-with-sepang-win/</loc>
-    <lastmod>2026-11-01T07:56:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359663_HiRes.jpg</image:loc>
-      <image:title>Marquez takes complete control of title fight with Sepang win</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/marquez-takes-complete-control-of-title-fight-with-sepang-win/</loc>
-    <lastmod>2026-11-01T07:56:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359663_HiRes.jpg</image:loc>
-      <image:title>Marquez takes complete control of title fight with Sepang win</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/australian-icon-a-1963-holden-eh-special/</loc>
-    <lastmod>2026-11-01T03:30:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Holden-EH-Special-Sedan-Car-5.jpg</image:loc>
-      <image:title>Australian Icon: A 1963 Holden EH “Special”</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/australian-icon-a-1963-holden-eh-special/</loc>
-    <lastmod>2026-11-01T03:30:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Holden-EH-Special-Sedan-Car-5.jpg</image:loc>
-      <image:title>Australian Icon: A 1963 Holden EH “Special”</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-/</loc>
-    <lastmod>2026-11-01T03:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-ever-built/l-intro-1792678835.jpg</image:loc>
-      <image:title>Why The Toyota Hilux Is One Of The Most Legendary Compact Trucks Ever Built</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-/</loc>
-    <lastmod>2026-11-01T03:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-ever-built/l-intro-1792678835.jpg</image:loc>
-      <image:title>Why The Toyota Hilux Is One Of The Most Legendary Compact Trucks Ever Built</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-decided-mexico-pole-fight-before-final-laps-even-started/</loc>
-    <lastmod>2026-11-01T02:40:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449481_HiRes.jpg</image:loc>
-      <image:title>What decided Mexico pole fight before final laps even started</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-decided-mexico-pole-fight-before-final-laps-even-started/</loc>
-    <lastmod>2026-11-01T02:40:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449481_HiRes.jpg</image:loc>
-      <image:title>What decided Mexico pole fight before final laps even started</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-naturally-aspirated-4-cylinder-engines-that-pump-out-v6-and-eve/</loc>
-    <lastmod>2026-11-01T01:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-naturally-aspirated-4-cylinder-engines-that-pump-out-v6-and-even-v8-power/l-intro-1792759019.jpg</image:loc>
-      <image:title>7 Naturally Aspirated 4-Cylinder Engines That Pump Out V6 And Even V8 Power</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-naturally-aspirated-4-cylinder-engines-that-pump-out-v6-and-eve/</loc>
-    <lastmod>2026-11-01T01:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-naturally-aspirated-4-cylinder-engines-that-pump-out-v6-and-even-v8-power/l-intro-1792759019.jpg</image:loc>
-      <image:title>7 Naturally Aspirated 4-Cylinder Engines That Pump Out V6 And Even V8 Power</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/winners-and-losers-from-mexican-grand-prix-f1-qualifying-2026/</loc>
-    <lastmod>2026-11-01T01:17:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449759_HiRes.jpg</image:loc>
-      <image:title>Fallout &amp; Drama: Who Won And Who Lost At Mexican Grand Prix F1 qualifying 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/winners-and-losers-from-mexican-grand-prix-f1-qualifying-2026/</loc>
-    <lastmod>2026-11-01T01:17:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449759_HiRes.jpg</image:loc>
-      <image:title>Fallout &amp; Drama: Who Won And Who Lost At Mexican Grand Prix F1 qualifying 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lawson-thrown-out-of-mexican-gp-qualifying-results/</loc>
-    <lastmod>2026-11-01T01:10:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449795_HiRes.jpg</image:loc>
-      <image:title>Stewards Disqualify Liam Lawson From Mexican GP Qualifying: What Happened</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/lawson-thrown-out-of-mexican-gp-qualifying-results/</loc>
-    <lastmod>2026-11-01T01:10:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449795_HiRes.jpg</image:loc>
-      <image:title>Stewards Disqualify Liam Lawson From Mexican GP Qualifying: What Happened</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-v8s-with-a-reputation-for-being-nearly-indestructible/</loc>
-    <lastmod>2026-10-31T23:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-v8s-with-a-reputation-for-being-nearly-indestructible/l-intro-1792701990.jpg</image:loc>
-      <image:title>7 V8s With A Reputation For Being Nearly Indestructible</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-v8s-with-a-reputation-for-being-nearly-indestructible/</loc>
-    <lastmod>2026-10-31T23:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-v8s-with-a-reputation-for-being-nearly-indestructible/l-intro-1792701990.jpg</image:loc>
-      <image:title>7 V8s With A Reputation For Being Nearly Indestructible</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-the-hyundai-tucson-loses-almost-7-cubic-feet-of-cargo-space-i/</loc>
-    <lastmod>2026-10-31T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-the-hyundai-tucson-loses-almost-7-cubic-feet-of-cargo-space-in-phev-form/l-intro-1793025995.jpg</image:loc>
-      <image:title>The Hidden Flaw: Why The Hyundai Tucson Loses 7 Cubic Feet Of Cargo Space</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-the-hyundai-tucson-loses-almost-7-cubic-feet-of-cargo-space-i/</loc>
-    <lastmod>2026-10-31T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-the-hyundai-tucson-loses-almost-7-cubic-feet-of-cargo-space-in-phev-form/l-intro-1793025995.jpg</image:loc>
-      <image:title>The Hidden Flaw: Why The Hyundai Tucson Loses 7 Cubic Feet Of Cargo Space</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/semi-truck-fleets-looking-to-fight-high-diesel-prices-have-a-new-/</loc>
-    <lastmod>2026-10-31T22:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/semi-truck-fleets-looking-to-fight-high-diesel-prices-have-a-new-aerodynamic-aid/l-intro-1792697604.jpg</image:loc>
-      <image:title>How Semi-Truck Fleets Are Slashing Diesel Costs With Radical Aerodynamics</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/semi-truck-fleets-looking-to-fight-high-diesel-prices-have-a-new-/</loc>
-    <lastmod>2026-10-31T22:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/semi-truck-fleets-looking-to-fight-high-diesel-prices-have-a-new-aerodynamic-aid/l-intro-1792697604.jpg</image:loc>
-      <image:title>How Semi-Truck Fleets Are Slashing Diesel Costs With Radical Aerodynamics</image:title>
     </image:image>
   </url>
 </urlset>
