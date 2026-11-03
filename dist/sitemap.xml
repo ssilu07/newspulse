@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-03T09:45:58Z</lastmod>
+    <lastmod>2026-11-03T13:40:32Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-03T09:45:58Z</lastmod>
+    <lastmod>2026-11-03T13:40:32Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-03T09:45:58Z</lastmod>
+    <lastmod>2026-11-03T13:40:32Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-03T09:45:58Z</lastmod>
+    <lastmod>2026-11-03T13:40:32Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-03T09:45:58Z</lastmod>
+    <lastmod>2026-11-03T13:40:32Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-03T09:45:58Z</lastmod>
+    <lastmod>2026-11-03T13:40:32Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bmw-alpina-teases-its-next-model-but-we-already-know-what-it-is/</loc>
+    <lastmod>2026-11-03T13:28:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/bmw-alpina-teases-its-next-model-but-we-already-know-what-it-is/l-intro-1793712339.jpg</image:loc>
+      <image:title>BMW Alpina Teases Its Next Model But We Already Know What It Is</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bmw-alpina-teases-its-next-model-but-we-already-know-what-it-is/</loc>
+    <lastmod>2026-11-03T13:28:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/bmw-alpina-teases-its-next-model-but-we-already-know-what-it-is/l-intro-1793712339.jpg</image:loc>
+      <image:title>BMW Alpina Teases Its Next Model But We Already Know What It Is</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-7450-could-this-clean-2001-audi-a4-avant-quattro-be-the-one-fo/</loc>
+    <lastmod>2026-11-03T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-7450-could-this-clean-2001-audi-a4-avant-quattro-be-the-one-for-you/l-intro-1793641241.jpg</image:loc>
+      <image:title>At $7,450, Could This Clean 2001 Audi A4 Avant Quattro Be The One For You?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-7450-could-this-clean-2001-audi-a4-avant-quattro-be-the-one-fo/</loc>
+    <lastmod>2026-11-03T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-7450-could-this-clean-2001-audi-a4-avant-quattro-be-the-one-for-you/l-intro-1793641241.jpg</image:loc>
+      <image:title>At $7,450, Could This Clean 2001 Audi A4 Avant Quattro Be The One For You?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rejoice-2027-mazda-3-still-available-with-manual-transmission/</loc>
+    <lastmod>2026-11-03T13:13:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/rejoice-2027-mazda-3-still-available-with-manual-transmission/l-intro-1793711420.jpg</image:loc>
+      <image:title>Rejoice! 2027 Mazda 3 Still Available With Manual Transmission</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rejoice-2027-mazda-3-still-available-with-manual-transmission/</loc>
+    <lastmod>2026-11-03T13:13:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/rejoice-2027-mazda-3-still-available-with-manual-transmission/l-intro-1793711420.jpg</image:loc>
+      <image:title>Rejoice! 2027 Mazda 3 Still Available With Manual Transmission</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-antonelli-demolished-russell-in-the-same-car/</loc>
+    <lastmod>2026-11-03T13:05:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-MXGP-01-11-26-6430.jpg</image:loc>
+      <image:title>How Antonelli demolished Russell in the same car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-antonelli-demolished-russell-in-the-same-car/</loc>
+    <lastmod>2026-11-03T13:05:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-MXGP-01-11-26-6430.jpg</image:loc>
+      <image:title>How Antonelli demolished Russell in the same car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/xiaomi-su7-ultra-loses-the-wing-for-a-stealthier-nürburgring-test/</loc>
+    <lastmod>2026-11-03T12:50:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/xiaomi-su7-ultra-loses-the-wing-for-a-stealthier-nurburgring-test/l-intro-1793709594.jpg</image:loc>
+      <image:title>Xiaomi SU7 Ultra Loses The Wing For A Stealthier Nürburgring Test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/xiaomi-su7-ultra-loses-the-wing-for-a-stealthier-nürburgring-test/</loc>
+    <lastmod>2026-11-03T12:50:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/xiaomi-su7-ultra-loses-the-wing-for-a-stealthier-nurburgring-test/l-intro-1793709594.jpg</image:loc>
+      <image:title>Xiaomi SU7 Ultra Loses The Wing For A Stealthier Nürburgring Test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/maximo-milestone-friendly-robot-robot-has-completed-300000-tasks/</loc>
+    <lastmod>2026-11-03T12:32:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/maximo_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Maximo milestone: friendly robot robot has completed 300,000 tasks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/maximo-milestone-friendly-robot-robot-has-completed-300000-tasks/</loc>
+    <lastmod>2026-11-03T12:32:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/maximo_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Maximo milestone: friendly robot robot has completed 300,000 tasks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/red-bulls-key-strategy-call-behind-verstappens-mexico-win/</loc>
+    <lastmod>2026-11-03T12:04:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/Y9lNZvb2/s6/max-verstappen-red-bull-racing-3.jpg</image:loc>
+      <image:title>Red Bull&#x27;s key strategy call behind Verstappen&#x27;s Mexico win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/red-bulls-key-strategy-call-behind-verstappens-mexico-win/</loc>
+    <lastmod>2026-11-03T12:04:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/Y9lNZvb2/s6/max-verstappen-red-bull-racing-3.jpg</image:loc>
+      <image:title>Red Bull&#x27;s key strategy call behind Verstappen&#x27;s Mexico win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/yamaha-unveils-new-nmax-e-bringing-electric-power-to-its-popular-/</loc>
+    <lastmod>2026-11-03T11:28:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/cs-xmax-header-email-1-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Yamaha unveils new NMAX E, bringing electric power to its popular motorbike lineup</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/yamaha-unveils-new-nmax-e-bringing-electric-power-to-its-popular-/</loc>
+    <lastmod>2026-11-03T11:28:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/cs-xmax-header-email-1-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Yamaha unveils new NMAX E, bringing electric power to its popular motorbike lineup</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/what-time-is-f1s-2026-brazilian-grand-prix-full-weekend-schedule/</loc>
@@ -915,6 +1075,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450748_HiRes.jpg</image:loc>
       <image:title>Why Antonelli&#x27;s rejecting #1 for 2027 F1 season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/acura-needs-to-build-and-sell-a-wild-adx-just-like-this/</loc>
+    <lastmod>2026-11-02T18:06:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/acura-needs-to-build-and-sell-a-wild-adx-just-like-this/l-intro-1793642617.jpg</image:loc>
+      <image:title>Acura Needs To Build And Sell A Wild ADX Just Like This</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/acura-needs-to-build-and-sell-a-wild-adx-just-like-this/</loc>
+    <lastmod>2026-11-02T18:06:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/acura-needs-to-build-and-sell-a-wild-adx-just-like-this/l-intro-1793642617.jpg</image:loc>
+      <image:title>Acura Needs To Build And Sell A Wild ADX Just Like This</image:title>
     </image:image>
   </url>
   <url>
@@ -2038,6 +2218,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/how-to-choose-the-best-car-battery/</loc>
+    <lastmod>2026-11-01T18:20:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ecomm-battery-top-1612980961.jpg</image:loc>
+      <image:title>How to Choose the Best Car Battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-to-choose-the-best-car-battery/</loc>
+    <lastmod>2026-11-01T18:20:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ecomm-battery-top-1612980961.jpg</image:loc>
+      <image:title>How to Choose the Best Car Battery</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/are-kia-and-hyundais-engines-the-same/</loc>
     <lastmod>2026-11-01T18:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -2835,206 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/semi-truck-fleets-looking-to-fight-high-diesel-prices-have-a-new-aerodynamic-aid/l-intro-1792697604.jpg</image:loc>
       <image:title>How Semi-Truck Fleets Are Slashing Diesel Costs With Radical Aerodynamics</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/youtuber-invents-device-that-hides-license-plates-from-flock-came/</loc>
-    <lastmod>2026-10-31T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/youtuber-invents-device-that-hides-license-plates-from-flock-cameras/l-intro-1793304318.jpg</image:loc>
-      <image:title>YouTuber Builds Stealth Shield That Blinds Police Flock Surveillance Cameras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/youtuber-invents-device-that-hides-license-plates-from-flock-came/</loc>
-    <lastmod>2026-10-31T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/youtuber-invents-device-that-hides-license-plates-from-flock-cameras/l-intro-1793304318.jpg</image:loc>
-      <image:title>YouTuber Builds Stealth Shield That Blinds Police Flock Surveillance Cameras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-the-reasons-you-are-keeping-old-cars-on-the-road/</loc>
-    <lastmod>2026-10-31T20:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/jalopnik-readers-are-keeping-old-cars-on-the-road-for-a-lot-of-different-reasons/l-intro-1793208427.jpg</image:loc>
-      <image:title>Why Real Drivers Refuse To Give Up Keeping Old Cars On The Road</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-are-the-reasons-you-are-keeping-old-cars-on-the-road/</loc>
-    <lastmod>2026-10-31T20:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/jalopnik-readers-are-keeping-old-cars-on-the-road-for-a-lot-of-different-reasons/l-intro-1793208427.jpg</image:loc>
-      <image:title>Why Real Drivers Refuse To Give Up Keeping Old Cars On The Road</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-10-of-the-most-notable-ford-f-150-changes/</loc>
-    <lastmod>2026-10-31T20:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-10-of-the-most-notable-ford-f-150-changes/l-intro-1793299114.jpg</image:loc>
-      <image:title>10 Most Shocking Changes Coming To The Ford F-150 Changes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-are-10-of-the-most-notable-ford-f-150-changes/</loc>
-    <lastmod>2026-10-31T20:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-10-of-the-most-notable-ford-f-150-changes/l-intro-1793299114.jpg</image:loc>
-      <image:title>10 Most Shocking Changes Coming To The Ford F-150 Changes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/could-the-original-jaguar-e-type-really-do-150-mph/</loc>
-    <lastmod>2026-10-31T20:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/could-the-original-jaguar-e-type-really-do-150-mph/l-intro-1793012561.jpg</image:loc>
-      <image:title>Busting The Myth: Could The Original Jaguar E-Type Actually Hit 150 MPH?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/could-the-original-jaguar-e-type-really-do-150-mph/</loc>
-    <lastmod>2026-10-31T20:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/could-the-original-jaguar-e-type-really-do-150-mph/l-intro-1793012561.jpg</image:loc>
-      <image:title>Busting The Myth: Could The Original Jaguar E-Type Actually Hit 150 MPH?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-you-might-need-to-use-neutral-on-an-automatic-transmission/</loc>
-    <lastmod>2026-10-31T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/why-you-might-need-to-use-neutral-on-an-automatic-transmission/l-intro-1793113963.jpg</image:loc>
-      <image:title>Why You Might Need To Use Neutral On An Automatic Transmission</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-you-might-need-to-use-neutral-on-an-automatic-transmission/</loc>
-    <lastmod>2026-10-31T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/why-you-might-need-to-use-neutral-on-an-automatic-transmission/l-intro-1793113963.jpg</image:loc>
-      <image:title>Why You Might Need To Use Neutral On An Automatic Transmission</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-we-as-enthusiasts-accept-the-risk-of-driving-old-unsafe-cars/</loc>
-    <lastmod>2026-10-31T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-we-as-enthusiasts-accept-the-risk-of-driving-old-unsafe-cars/l-intro-1792690641.jpg</image:loc>
-      <image:title>Why Passionate Gearheads Gladly Risk Driving Dangerous Classic Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-we-as-enthusiasts-accept-the-risk-of-driving-old-unsafe-cars/</loc>
-    <lastmod>2026-10-31T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-we-as-enthusiasts-accept-the-risk-of-driving-old-unsafe-cars/l-intro-1792690641.jpg</image:loc>
-      <image:title>Why Passionate Gearheads Gladly Risk Driving Dangerous Classic Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2026-audi-q3-and-toyota-rav4-phev-underperform-in-iihs-updated-mo/</loc>
-    <lastmod>2026-10-31T19:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2026-audi-q3-and-toyota-rav4-phev-underperform-in-iihs-updated-moderate-overlap-crash-test/l-intro-1793219586.jpg</image:loc>
-      <image:title>2026 Audi Q3 And Toyota RAV4 PHEV Underperform In IIHS Updated Moderate Overlap Crash Test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2026-audi-q3-and-toyota-rav4-phev-underperform-in-iihs-updated-mo/</loc>
-    <lastmod>2026-10-31T19:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2026-audi-q3-and-toyota-rav4-phev-underperform-in-iihs-updated-moderate-overlap-crash-test/l-intro-1793219586.jpg</image:loc>
-      <image:title>2026 Audi Q3 And Toyota RAV4 PHEV Underperform In IIHS Updated Moderate Overlap Crash Test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-happened-in-f1-mexican-gp-final-practice/</loc>
-    <lastmod>2026-10-31T18:53:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449453_HiRes.jpg</image:loc>
-      <image:title>Drama &amp; Chaos: What Really Happened In F1 Mexican GP final practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-happened-in-f1-mexican-gp-final-practice/</loc>
-    <lastmod>2026-10-31T18:53:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449453_HiRes.jpg</image:loc>
-      <image:title>Drama &amp; Chaos: What Really Happened In F1 Mexican GP final practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/record-demand-catches-some-oems-with-their-pants-down-europe-sept/</loc>
-    <lastmod>2026-10-31T18:43:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/2026-09-Europe-EV-Sales-Report-September.png</image:loc>
-      <image:title>Record Demand Catches (Some) OEMs with Their Pants Down</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/record-demand-catches-some-oems-with-their-pants-down-europe-sept/</loc>
-    <lastmod>2026-10-31T18:43:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/2026-09-Europe-EV-Sales-Report-September.png</image:loc>
-      <image:title>Record Demand Catches (Some) OEMs with Their Pants Down</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/compact-trucks-were-everywhere-in-the-70s-and-they-might-be-makin/</loc>
-    <lastmod>2026-10-31T18:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/compact-trucks-were-everywhere-in-the-70s-and-they-might-be-making-a-comeback/l-intro-1792763654.jpg</image:loc>
-      <image:title>Compact Trucks Were Everywhere In The &#x27;70s, And They Might Be Making A Comeback</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/compact-trucks-were-everywhere-in-the-70s-and-they-might-be-makin/</loc>
-    <lastmod>2026-10-31T18:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/compact-trucks-were-everywhere-in-the-70s-and-they-might-be-making-a-comeback/l-intro-1792763654.jpg</image:loc>
-      <image:title>Compact Trucks Were Everywhere In The &#x27;70s, And They Might Be Making A Comeback</image:title>
     </image:image>
   </url>
 </urlset>
