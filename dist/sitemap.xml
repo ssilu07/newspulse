@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-02T22:29:10Z</lastmod>
+    <lastmod>2026-11-03T01:05:06Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-02T22:29:10Z</lastmod>
+    <lastmod>2026-11-03T01:05:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-02T22:29:10Z</lastmod>
+    <lastmod>2026-11-03T01:05:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-02T22:29:10Z</lastmod>
+    <lastmod>2026-11-03T01:05:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-02T22:29:10Z</lastmod>
+    <lastmod>2026-11-03T01:05:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-02T22:29:10Z</lastmod>
+    <lastmod>2026-11-03T01:05:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/more-of-the-same-expensive-dependence-on-fossil-fuels-in-tep-and-/</loc>
+    <lastmod>2026-11-03T00:52:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
+      <image:title>More of the Same Expensive Dependence on Fossil Fuels in TEP and APS 2026 Energy Plans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/more-of-the-same-expensive-dependence-on-fossil-fuels-in-tep-and-/</loc>
+    <lastmod>2026-11-03T00:52:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
+      <image:title>More of the Same Expensive Dependence on Fossil Fuels in TEP and APS 2026 Energy Plans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-ets-investment-engine-scaling-europes-strategic-e-fuel-market/</loc>
+    <lastmod>2026-11-03T00:36:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-7.31.27-PM.png</image:loc>
+      <image:title>The ETS Investment Engine: Scaling Europe&#x27;s Strategic E-fuel Market for Shipping &amp; Aviation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-ets-investment-engine-scaling-europes-strategic-e-fuel-market/</loc>
+    <lastmod>2026-11-03T00:36:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-7.31.27-PM.png</image:loc>
+      <image:title>The ETS Investment Engine: Scaling Europe&#x27;s Strategic E-fuel Market for Shipping &amp; Aviation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bp-pulse-makes-850-ev-fast-chargers-easier-to-use-in-the-us/</loc>
+    <lastmod>2026-11-03T00:10:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/bp_pulse_resized.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>bp pulse makes 850+ EV fast chargers easier to use in the US</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bp-pulse-makes-850-ev-fast-chargers-easier-to-use-in-the-us/</loc>
+    <lastmod>2026-11-03T00:10:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/bp_pulse_resized.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>bp pulse makes 850+ EV fast chargers easier to use in the US</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/as-diesel-costs-surge-for-farmers-rural-businesses-solar-offers-a/</loc>
+    <lastmod>2026-11-02T23:38:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/download.png</image:loc>
+      <image:title>As Diesel Costs Surge for Farmers &amp; Rural Businesses, Solar Offers a Lifeline</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/as-diesel-costs-surge-for-farmers-rural-businesses-solar-offers-a/</loc>
+    <lastmod>2026-11-02T23:38:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/download.png</image:loc>
+      <image:title>As Diesel Costs Surge for Farmers &amp; Rural Businesses, Solar Offers a Lifeline</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/paganis-bespoke-huayra-70-anima-debuts-with-a-manual/</loc>
+    <lastmod>2026-11-02T22:42:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/paganis-bespoke-huayra-70-anima-debuts-with-a-manual/l-intro-1793659136.jpg</image:loc>
+      <image:title>Pagani&#x27;s Bespoke Huayra 70 Anima Debuts With A Manual</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/paganis-bespoke-huayra-70-anima-debuts-with-a-manual/</loc>
+    <lastmod>2026-11-02T22:42:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/paganis-bespoke-huayra-70-anima-debuts-with-a-manual/l-intro-1793659136.jpg</image:loc>
+      <image:title>Pagani&#x27;s Bespoke Huayra 70 Anima Debuts With A Manual</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-bmw-ix-is-sold-out-but-you-might-like-what-takes-its-place-ev/</loc>
+    <lastmod>2026-11-02T22:35:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX5-side-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The BMW iX is sold out, but you might like what takes its place even more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-bmw-ix-is-sold-out-but-you-might-like-what-takes-its-place-ev/</loc>
+    <lastmod>2026-11-02T22:35:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX5-side-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The BMW iX is sold out, but you might like what takes its place even more</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/2027-harley-davidson-sprint-440-harkens-back-to-a-simpler-time/</loc>
@@ -238,6 +358,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/yamaha-refuses-to-race-in-qatar-despite-motogps-penalty-threats/</loc>
+    <lastmod>2026-11-02T20:20:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/yamaha-refuses-to-race-in-qatar-despite-motogps-penalty-threats/l-intro-1793650277.jpg</image:loc>
+      <image:title>Yamaha Refuses To Race In Qatar Despite MotoGP&#x27;s Penalty Threats</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/yamaha-refuses-to-race-in-qatar-despite-motogps-penalty-threats/</loc>
+    <lastmod>2026-11-02T20:20:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/yamaha-refuses-to-race-in-qatar-despite-motogps-penalty-threats/l-intro-1793650277.jpg</image:loc>
+      <image:title>Yamaha Refuses To Race In Qatar Despite MotoGP&#x27;s Penalty Threats</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/swarm-of-electric-trucks-coming-to-us-battery-swapping-included/</loc>
     <lastmod>2026-11-02T19:52:31+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -298,6 +438,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/view-photos-of-the-1979-datsun-310-gx/</loc>
+    <lastmod>2026-11-02T19:33:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6721f31c-7836-43d4-8184-a0b20444ce5b.jpg</image:loc>
+      <image:title>First Look: The 1979 Datsun 310-GX Revealed In Stunning Detail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-photos-of-the-1979-datsun-310-gx/</loc>
+    <lastmod>2026-11-02T19:33:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6721f31c-7836-43d4-8184-a0b20444ce5b.jpg</image:loc>
+      <image:title>First Look: The 1979 Datsun 310-GX Revealed In Stunning Detail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/track-optimized-fluidity-we-drive-the-2027-ariel-atom-4rr/</loc>
+    <lastmod>2026-11-02T19:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/10913f4b-df99-4e2b-8439-3fc8c0dc0221.jpg</image:loc>
+      <image:title>Track-Optimized Fluidity: We Drive the 2027 Ariel Atom 4RR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/track-optimized-fluidity-we-drive-the-2027-ariel-atom-4rr/</loc>
+    <lastmod>2026-11-02T19:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/10913f4b-df99-4e2b-8439-3fc8c0dc0221.jpg</image:loc>
+      <image:title>Track-Optimized Fluidity: We Drive the 2027 Ariel Atom 4RR</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/driving-a-43-horsepower-geo-metro-convertible-from-new-york-to-lo/</loc>
     <lastmod>2026-11-02T19:25:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -335,6 +515,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Corolla-Cross-electric-spotted.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Toyota&#x27;s Corolla Cross EV spotted for the first time [Images]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/billie-is-a-650-hp-modified-pontiac-gto-from-ringbrothers/</loc>
+    <lastmod>2026-11-02T18:47:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/521afb82-e7cb-45a6-bcc3-00e50bfd0739.jpg</image:loc>
+      <image:title>Billie&#x27; Is a 650-HP Modified Pontiac GTO from Ringbrothers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/billie-is-a-650-hp-modified-pontiac-gto-from-ringbrothers/</loc>
+    <lastmod>2026-11-02T18:47:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/521afb82-e7cb-45a6-bcc3-00e50bfd0739.jpg</image:loc>
+      <image:title>Billie&#x27; Is a 650-HP Modified Pontiac GTO from Ringbrothers</image:title>
     </image:image>
   </url>
   <url>
@@ -478,6 +678,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-/</loc>
+    <lastmod>2026-11-02T15:59:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver-2.jpg</image:loc>
+      <image:title>What was Antonelli&#x27;s best moment of his F1 title-winning campaign? Our writers have their say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-/</loc>
+    <lastmod>2026-11-02T15:59:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver-2.jpg</image:loc>
+      <image:title>What was Antonelli&#x27;s best moment of his F1 title-winning campaign? Our writers have their say</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/read-jim-farleys-lips-no-boring-fords/</loc>
     <lastmod>2026-11-02T15:38:16+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +715,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/read-jim-farleys-lips-no-boring-fords/l-intro-1793633727.jpg</image:loc>
       <image:title>Read Jim Farley&#x27;s Lips: No Boring Fords</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-the-most-haunted-cars-youve-ever-bought/</loc>
+    <lastmod>2026-11-02T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-most-haunted-cars-youve-ever-bought/l-intro-1793628418.jpg</image:loc>
+      <image:title>These Are The Most Haunted Cars You&#x27;ve Ever Bought</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-are-the-most-haunted-cars-youve-ever-bought/</loc>
+    <lastmod>2026-11-02T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-most-haunted-cars-youve-ever-bought/l-intro-1793628418.jpg</image:loc>
+      <image:title>These Are The Most Haunted Cars You&#x27;ve Ever Bought</image:title>
     </image:image>
   </url>
   <url>
@@ -858,6 +1098,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/car-design-has-gone-downhill-since-the-plymouth-prowler/</loc>
+    <lastmod>2026-11-02T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/car-design-has-gone-downhill-since-the-plymouth-prowler/l-intro-1793188473.jpg</image:loc>
+      <image:title>Car Design Has Gone Downhill Since The Plymouth Prowler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/car-design-has-gone-downhill-since-the-plymouth-prowler/</loc>
+    <lastmod>2026-11-02T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/car-design-has-gone-downhill-since-the-plymouth-prowler/l-intro-1793188473.jpg</image:loc>
+      <image:title>Car Design Has Gone Downhill Since The Plymouth Prowler</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/f1-2026-mexican-grand-prix-race-result-after-multiple-penalties/</loc>
     <lastmod>2026-11-02T02:23:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -895,6 +1155,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450581_HiRes.jpg</image:loc>
       <image:title>Double penalty costs Alpine all its Mexican GP points</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mercedes-explains-distraught-russells-post-race-absence-after-fin/</loc>
+    <lastmod>2026-11-02T01:52:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450411_HiRes.jpg</image:loc>
+      <image:title>Mercedes explains &#x27;distraught&#x27; Russell&#x27;s post-race absence after fine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mercedes-explains-distraught-russells-post-race-absence-after-fin/</loc>
+    <lastmod>2026-11-02T01:52:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450411_HiRes.jpg</image:loc>
+      <image:title>Mercedes explains &#x27;distraught&#x27; Russell&#x27;s post-race absence after fine</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburetion/l-intro-1793023093.jpg</image:loc>
       <image:title>Why I Converted My 1979 Volvo 245 From Fuel Injection To Carburetion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/inside-hertas-cadillac-f1-audition/</loc>
-    <lastmod>2026-10-31T08:08:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448809_HiRes.jpg</image:loc>
-      <image:title>Inside Herta&#x27;s Cadillac F1 audition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/inside-hertas-cadillac-f1-audition/</loc>
-    <lastmod>2026-10-31T08:08:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448809_HiRes.jpg</image:loc>
-      <image:title>Inside Herta&#x27;s Cadillac F1 audition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/acosta-wins-chaotic-sepang-motogp-sprint/</loc>
-    <lastmod>2026-10-31T07:39:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358821_HiRes.jpg</image:loc>
-      <image:title>Acosta wins chaotic Sepang MotoGP sprint</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/acosta-wins-chaotic-sepang-motogp-sprint/</loc>
-    <lastmod>2026-10-31T07:39:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358821_HiRes.jpg</image:loc>
-      <image:title>Acosta wins chaotic Sepang MotoGP sprint</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/martin-admits-motogp-title-already-lost-after-sepang-withdrawal/</loc>
-    <lastmod>2026-10-31T04:27:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358672_HiRes.jpg</image:loc>
-      <image:title>Martin admits MotoGP title &#x27;already lost&#x27; after Sepang withdrawal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/martin-admits-motogp-title-already-lost-after-sepang-withdrawal/</loc>
-    <lastmod>2026-10-31T04:27:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358672_HiRes.jpg</image:loc>
-      <image:title>Martin admits MotoGP title &#x27;already lost&#x27; after Sepang withdrawal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/martin-out-of-sepang-motogp-weekend-alex-marquez-on-pole/</loc>
-    <lastmod>2026-10-31T03:41:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358567_HiRes.jpg</image:loc>
-      <image:title>Martin out of Sepang MotoGP weekend, Alex Marquez on pole</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/martin-out-of-sepang-motogp-weekend-alex-marquez-on-pole/</loc>
-    <lastmod>2026-10-31T03:41:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358567_HiRes.jpg</image:loc>
-      <image:title>Martin out of Sepang MotoGP weekend, Alex Marquez on pole</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-ioniq-3-named-european-car-of-the-year-2027-finalist/</loc>
-    <lastmod>2026-10-31T03:30:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Hyundai-IONIQ-3.jpeg</image:loc>
-      <image:title>Hyundai IONIQ 3 Named European Car of the Year 2027 Finalist</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundai-ioniq-3-named-european-car-of-the-year-2027-finalist/</loc>
-    <lastmod>2026-10-31T03:30:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Hyundai-IONIQ-3.jpeg</image:loc>
-      <image:title>Hyundai IONIQ 3 Named European Car of the Year 2027 Finalist</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/forgotten-australian-supercar-the-1988-giocattolo-group-b/</loc>
-    <lastmod>2026-10-31T03:30:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Giocattolo-Group-B.jpg</image:loc>
-      <image:title>Forgotten Australian Supercar: The 1988 Giocattolo Group B</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/forgotten-australian-supercar-the-1988-giocattolo-group-b/</loc>
-    <lastmod>2026-10-31T03:30:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/10/Giocattolo-Group-B.jpg</image:loc>
-      <image:title>Forgotten Australian Supercar: The 1988 Giocattolo Group B</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-s/</loc>
-    <lastmod>2026-10-31T03:08:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-Toyota-UK.jpeg</image:loc>
-      <image:title>Toyota &amp; Waymo Join Forces For Major Autonomous Robotaxi Fleet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-waymo-advance-autonomous-driving-collaboration-for-safer-s/</loc>
-    <lastmod>2026-10-31T03:08:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Waymo-Toyota-UK.jpeg</image:loc>
-      <image:title>Toyota &amp; Waymo Join Forces For Major Autonomous Robotaxi Fleet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-share-of-solar-generation-with-co-located-battery-storage-is-/</loc>
-    <lastmod>2026-10-31T02:27:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Solar-capacity-growth-USA-with-batteries.png</image:loc>
-      <image:title>Green Grid Boom: Why Battery-Backed Solar Farms Are Surging</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-share-of-solar-generation-with-co-located-battery-storage-is-/</loc>
-    <lastmod>2026-10-31T02:27:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Solar-capacity-growth-USA-with-batteries.png</image:loc>
-      <image:title>Green Grid Boom: Why Battery-Backed Solar Farms Are Surging</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/homepower-1000-plus-v2-portable-power-put-to-use/</loc>
-    <lastmod>2026-10-31T01:27:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/PXL_20260831_162517813-scaled.jpg</image:loc>
-      <image:title>HomePower 1000 Plus v2: Portable Power Put To Use</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/homepower-1000-plus-v2-portable-power-put-to-use/</loc>
-    <lastmod>2026-10-31T01:27:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/PXL_20260831_162517813-scaled.jpg</image:loc>
-      <image:title>HomePower 1000 Plus v2: Portable Power Put To Use</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/electric-vehicle-council-celebrating-10-years-of-ev-progress-in-a/</loc>
-    <lastmod>2026-10-31T01:22:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/shopping-car-park.jpg</image:loc>
-      <image:title>10 Years Of EV Disruption: How Electric Cars Conquered Australia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/electric-vehicle-council-celebrating-10-years-of-ev-progress-in-a/</loc>
-    <lastmod>2026-10-31T01:22:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/shopping-car-park.jpg</image:loc>
-      <image:title>10 Years Of EV Disruption: How Electric Cars Conquered Australia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/verstappen-collides-with-lawson-as-leclerc-tops-mexico-fp2/</loc>
-    <lastmod>2026-10-30T23:09:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448903_HiRes.jpg</image:loc>
-      <image:title>Verstappen collides with Lawson as Leclerc tops Mexico FP2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/verstappen-collides-with-lawson-as-leclerc-tops-mexico-fp2/</loc>
-    <lastmod>2026-10-30T23:09:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448903_HiRes.jpg</image:loc>
-      <image:title>Verstappen collides with Lawson as Leclerc tops Mexico FP2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mate-rimac-chased-down-a-guy-who-stole-his-bugatti-chiron-in-croa/</loc>
-    <lastmod>2026-10-30T22:43:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mate-rimac-chased-down-a-guy-who-stole-his-bugatti-chiron-in-croatia/l-intro-1793399508.jpg</image:loc>
-      <image:title>Hypercar Heist: Mate Rimac Chased Down The Thief Who Stole His Bugatti Chiron</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mate-rimac-chased-down-a-guy-who-stole-his-bugatti-chiron-in-croa/</loc>
-    <lastmod>2026-10-30T22:43:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mate-rimac-chased-down-a-guy-who-stole-his-bugatti-chiron-in-croatia/l-intro-1793399508.jpg</image:loc>
-      <image:title>Hypercar Heist: Mate Rimac Chased Down The Thief Who Stole His Bugatti Chiron</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-hertas-actually-still-one-point-off-f1-superlicence/</loc>
-    <lastmod>2026-10-30T22:38:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448550_HiRes.jpg</image:loc>
-      <image:title>Why Herta&#x27;s actually still one point off F1 superlicence</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-hertas-actually-still-one-point-off-f1-superlicence/</loc>
-    <lastmod>2026-10-30T22:38:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1448550_HiRes.jpg</image:loc>
-      <image:title>Why Herta&#x27;s actually still one point off F1 superlicence</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-bmw-i3/</loc>
-    <lastmod>2026-10-30T22:04:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2359a57e-8022-431e-acb7-09d192b6ee6f.jpg?crop=1xw:0.749906261717xh;center,top&amp;resize=1200:*</image:loc>
-      <image:title>First Look Inside: The 2027 BMW i3 Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2027-bmw-i3/</loc>
-    <lastmod>2026-10-30T22:04:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2359a57e-8022-431e-acb7-09d192b6ee6f.jpg?crop=1xw:0.749906261717xh;center,top&amp;resize=1200:*</image:loc>
-      <image:title>First Look Inside: The 2027 BMW i3 Cabin</image:title>
     </image:image>
   </url>
 </urlset>
