@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-03T01:05:06Z</lastmod>
+    <lastmod>2026-11-03T03:44:01Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-03T01:05:06Z</lastmod>
+    <lastmod>2026-11-03T03:44:01Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-03T01:05:06Z</lastmod>
+    <lastmod>2026-11-03T03:44:01Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-03T01:05:06Z</lastmod>
+    <lastmod>2026-11-03T03:44:01Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-03T01:05:06Z</lastmod>
+    <lastmod>2026-11-03T03:44:01Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-03T01:05:06Z</lastmod>
+    <lastmod>2026-11-03T03:44:01Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/crate-engine-the-580-bhp-ford-aluminator-v8/</loc>
+    <lastmod>2026-11-03T03:30:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Ford-Aluminator-Crate-Engine.jpg</image:loc>
+      <image:title>Crate Engine: The 580 BHP Ford &quot;Aluminator&quot; V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/crate-engine-the-580-bhp-ford-aluminator-v8/</loc>
+    <lastmod>2026-11-03T03:30:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Ford-Aluminator-Crate-Engine.jpg</image:loc>
+      <image:title>Crate Engine: The 580 BHP Ford &quot;Aluminator&quot; V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/turtle-wax-is-concerned-about-your-love-life-and-claims-messy-car/</loc>
+    <lastmod>2026-11-03T03:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/turtle-wax-is-concerned-about-your-love-life-and-claims-messy-cars-impact-dating/l-intro-1793196106.jpg</image:loc>
+      <image:title>Turtle Wax Is Concerned About Your Love Life, And Claims Messy Cars Impact Dating</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/turtle-wax-is-concerned-about-your-love-life-and-claims-messy-car/</loc>
+    <lastmod>2026-11-03T03:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/turtle-wax-is-concerned-about-your-love-life-and-claims-messy-cars-impact-dating/l-intro-1793196106.jpg</image:loc>
+      <image:title>Turtle Wax Is Concerned About Your Love Life, And Claims Messy Cars Impact Dating</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/dodge-is-returning-to-nascar-after-a-14-year-hiatus/</loc>
+    <lastmod>2026-11-03T02:22:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/dodge-is-returning-to-nascar-after-a-14-year-hiatus/l-intro-1793672352.jpg</image:loc>
+      <image:title>Dodge Is Returning To NASCAR After A 14-Year Hiatus</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/dodge-is-returning-to-nascar-after-a-14-year-hiatus/</loc>
+    <lastmod>2026-11-03T02:22:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/dodge-is-returning-to-nascar-after-a-14-year-hiatus/l-intro-1793672352.jpg</image:loc>
+      <image:title>Dodge Is Returning To NASCAR After A 14-Year Hiatus</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-future-of-buildings-in-illinois-is-electric/</loc>
+    <lastmod>2026-11-03T01:58:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Chicago-Illinois-pexels-diego-alberto-martinez-mendoza-2151149994-31657678-scaled.jpg</image:loc>
+      <image:title>The Future of Buildings in Illinois Is Electric</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-future-of-buildings-in-illinois-is-electric/</loc>
+    <lastmod>2026-11-03T01:58:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Chicago-Illinois-pexels-diego-alberto-martinez-mendoza-2151149994-31657678-scaled.jpg</image:loc>
+      <image:title>The Future of Buildings in Illinois Is Electric</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jeeps-wrangler-scrambler-srt-concept-previews-the-future-of-the-b/</loc>
+    <lastmod>2026-11-03T01:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6822fb64-2375-4f43-993b-02b5c6cbd704.jpg</image:loc>
+      <image:title>Jeep&#x27;s Wrangler Scrambler SRT Concept Previews the Future of the Brand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jeeps-wrangler-scrambler-srt-concept-previews-the-future-of-the-b/</loc>
+    <lastmod>2026-11-03T01:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6822fb64-2375-4f43-993b-02b5c6cbd704.jpg</image:loc>
+      <image:title>Jeep&#x27;s Wrangler Scrambler SRT Concept Previews the Future of the Brand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/see-the-jeep-wrangler-scrambler-srt-concept-from-all-angles/</loc>
+    <lastmod>2026-11-03T01:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a4897fa7-5ebc-488b-b045-3cf87b2e0aa9.jpg</image:loc>
+      <image:title>See the Jeep Wrangler Scrambler SRT Concept from All Angles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/see-the-jeep-wrangler-scrambler-srt-concept-from-all-angles/</loc>
+    <lastmod>2026-11-03T01:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a4897fa7-5ebc-488b-b045-3cf87b2e0aa9.jpg</image:loc>
+      <image:title>See the Jeep Wrangler Scrambler SRT Concept from All Angles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/they-are-trying-to-silence-us/</loc>
+    <lastmod>2026-11-03T01:08:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Judge-Gavel-Court-CleanTechnica-Watermark.png</image:loc>
+      <image:title>They Are Trying to Silence Us</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/they-are-trying-to-silence-us/</loc>
+    <lastmod>2026-11-03T01:08:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Judge-Gavel-Court-CleanTechnica-Watermark.png</image:loc>
+      <image:title>They Are Trying to Silence Us</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/more-of-the-same-expensive-dependence-on-fossil-fuels-in-tep-and-/</loc>
@@ -255,6 +395,46 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/gm-agrees-to-220-million-settlement-after-illegally-selling-your-driving-data/l-intro-1793653178.jpg</image:loc>
       <image:title>GM Agrees To $220 Million Settlement After Illegally Selling Your Driving Data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-restomod-audi-quattro-has-a-screaming-10000-rpm-v8/</loc>
+    <lastmod>2026-11-02T20:56:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-restomod-audi-quattro-has-a-screaming-10000-rpm-v8/l-intro-1793652822.jpg</image:loc>
+      <image:title>This Restomod Audi Quattro Has A Screaming 10,000 RPM V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-restomod-audi-quattro-has-a-screaming-10000-rpm-v8/</loc>
+    <lastmod>2026-11-02T20:56:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-restomod-audi-quattro-has-a-screaming-10000-rpm-v8/l-intro-1793652822.jpg</image:loc>
+      <image:title>This Restomod Audi Quattro Has A Screaming 10,000 RPM V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-is-developing-ai-specifically-for-heavy-duty-towing-and-r/</loc>
+    <lastmod>2026-11-02T20:54:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/hyundai-is-developing-ai-specifically-for-heavy-duty-towing-and-rugged-off-roading/l-intro-1793652824.jpg</image:loc>
+      <image:title>Hyundai Is Developing AI Specifically For Heavy-Duty Towing And Rugged Off-Roading</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-is-developing-ai-specifically-for-heavy-duty-towing-and-r/</loc>
+    <lastmod>2026-11-02T20:54:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/hyundai-is-developing-ai-specifically-for-heavy-duty-towing-and-rugged-off-roading/l-intro-1793652824.jpg</image:loc>
+      <image:title>Hyundai Is Developing AI Specifically For Heavy-Duty Towing And Rugged Off-Roading</image:title>
     </image:image>
   </url>
   <url>
@@ -618,6 +798,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/tested-best-home-ev-chargers-for-2026/</loc>
+    <lastmod>2026-11-02T17:02:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/02e97ebb-eff6-49ec-ae38-cd4ab01f27b8.jpg</image:loc>
+      <image:title>Tested: Best Home EV Chargers for 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tested-best-home-ev-chargers-for-2026/</loc>
+    <lastmod>2026-11-02T17:02:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/02e97ebb-eff6-49ec-ae38-cd4ab01f27b8.jpg</image:loc>
+      <image:title>Tested: Best Home EV Chargers for 2026</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/rivian-is-doing-the-damn-thing/</loc>
     <lastmod>2026-11-02T16:41:31+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -978,6 +1178,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-cla/</loc>
+    <lastmod>2026-11-02T12:40:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg</image:loc>
+      <image:title>Hamilton slams Leclerc for &quot;do or die&quot; attitude after Mexico GP clash</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-cla/</loc>
+    <lastmod>2026-11-02T12:40:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg</image:loc>
+      <image:title>Hamilton slams Leclerc for &quot;do or die&quot; attitude after Mexico GP clash</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/edd-straws-f1-2026-mexican-grand-prix-tier-list-driver-rankings/</loc>
     <lastmod>2026-11-02T12:02:55+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1135,6 +1355,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450562_HiRes.jpg</image:loc>
       <image:title>F1 2026 Mexican Grand Prix race result after multiple penalties</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/piastri-out-of-f1-mexico-gp-points-after-post-race-penalty-for-li/</loc>
+    <lastmod>2026-11-02T02:19:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-7.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg</image:loc>
+      <image:title>Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/piastri-out-of-f1-mexico-gp-points-after-post-race-penalty-for-li/</loc>
+    <lastmod>2026-11-02T02:19:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-7.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg</image:loc>
+      <image:title>Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash</image:title>
     </image:image>
   </url>
   <url>
@@ -2795,246 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/6-of-the-most-powerful-engines-ever-put-in-a-motorcycle/l-intro-1792686209.jpg</image:loc>
       <image:title>6 Of The Most Powerful Engines Ever Put In A Motorcycle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ocon-suddenly-replaced-at-haas-for-rest-of-mexico-f1-weekend/</loc>
-    <lastmod>2026-10-31T14:58:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/2302753280-470.jpg</image:loc>
-      <image:title>Ocon suddenly replaced at Haas for rest of Mexico F1 weekend</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ocon-suddenly-replaced-at-haas-for-rest-of-mexico-f1-weekend/</loc>
-    <lastmod>2026-10-31T14:58:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/2302753280-470.jpg</image:loc>
-      <image:title>Ocon suddenly replaced at Haas for rest of Mexico F1 weekend</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-f1-teams-are-tackling-mexicos-altitude-challenge-in-2026/</loc>
-    <lastmod>2026-10-31T14:06:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/comaparison-cooling-louvres-top-teams-Mexico--1-.jpg</image:loc>
-      <image:title>How F1 teams are tackling Mexico&#x27;s altitude challenge in 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-f1-teams-are-tackling-mexicos-altitude-challenge-in-2026/</loc>
-    <lastmod>2026-10-31T14:06:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/comaparison-cooling-louvres-top-teams-Mexico--1-.jpg</image:loc>
-      <image:title>How F1 teams are tackling Mexico&#x27;s altitude challenge in 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-toyota-models-that-hold-their-value-best-after-five-years/</loc>
-    <lastmod>2026-10-31T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-toyota-models-that-hold-their-value-best-after-five-years/l-intro-1792690717.jpg</image:loc>
-      <image:title>7 Toyota Models That Hold Their Value Best After Five Years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-toyota-models-that-hold-their-value-best-after-five-years/</loc>
-    <lastmod>2026-10-31T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-toyota-models-that-hold-their-value-best-after-five-years/l-intro-1792690717.jpg</image:loc>
-      <image:title>7 Toyota Models That Hold Their Value Best After Five Years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/renault-and-peugeot-revived-group-b-rally-legends-as-evs-but-whic/</loc>
-    <lastmod>2026-10-31T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/renault-and-peugeot-revived-group-b-rally-legends-as-evs-but-which-did-it-better/l-intro-1793108854.jpg</image:loc>
-      <image:title>Renault And Peugeot Revived Group B Rally Legends As EVs, But Which Did It Better?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/renault-and-peugeot-revived-group-b-rally-legends-as-evs-but-whic/</loc>
-    <lastmod>2026-10-31T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/renault-and-peugeot-revived-group-b-rally-legends-as-evs-but-which-did-it-better/l-intro-1793108854.jpg</image:loc>
-      <image:title>Renault And Peugeot Revived Group B Rally Legends As EVs, But Which Did It Better?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-will-transportation-look-like-in-the-us-in-2050/</loc>
-    <lastmod>2026-10-31T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-will-transportation-look-like-in-the-u-s-in-2050/l-intro-1793042061.jpg</image:loc>
-      <image:title>What Will Transportation Look Like In The U.S. In 2050?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-will-transportation-look-like-in-the-us-in-2050/</loc>
-    <lastmod>2026-10-31T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-will-transportation-look-like-in-the-u-s-in-2050/l-intro-1793042061.jpg</image:loc>
-      <image:title>What Will Transportation Look Like In The U.S. In 2050?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/can-silicon-valley-build-a-safe-class-8-truck-early-ev-semi-fires/</loc>
-    <lastmod>2026-10-31T12:55:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/Tesla-Semi.jpg</image:loc>
-      <image:title>Can Silicon Valley Build A Safe Class 8 Truck? Early EV Semi Fires Expose The Experience Gap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/can-silicon-valley-build-a-safe-class-8-truck-early-ev-semi-fires/</loc>
-    <lastmod>2026-10-31T12:55:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/Tesla-Semi.jpg</image:loc>
-      <image:title>Can Silicon Valley Build A Safe Class 8 Truck? Early EV Semi Fires Expose The Experience Gap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/9-of-the-most-popular-japanese-performance-cars-to-import-and-why/</loc>
-    <lastmod>2026-10-31T12:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/9-of-the-most-popular-japanese-performance-cars-to-import-and-why-enthusiasts-love-them/l-intro-1793126714.jpg</image:loc>
-      <image:title>9 Of The Most Popular Japanese Performance Cars To Import (And Why Enthusiasts Love Them)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/9-of-the-most-popular-japanese-performance-cars-to-import-and-why/</loc>
-    <lastmod>2026-10-31T12:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/9-of-the-most-popular-japanese-performance-cars-to-import-and-why-enthusiasts-love-them/l-intro-1793126714.jpg</image:loc>
-      <image:title>9 Of The Most Popular Japanese Performance Cars To Import (And Why Enthusiasts Love Them)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-the-bird-on-the-pontiac-trans-ams-hood-is-actually-called/</loc>
-    <lastmod>2026-10-31T12:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-the-bird-on-the-pontiac-trans-ams-hood-is-actually-called/l-intro-1793026702.jpg</image:loc>
-      <image:title>What The Bird On The Pontiac Trans Am&#x27;s Hood Is Actually Called</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-the-bird-on-the-pontiac-trans-ams-hood-is-actually-called/</loc>
-    <lastmod>2026-10-31T12:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-the-bird-on-the-pontiac-trans-ams-hood-is-actually-called/l-intro-1793026702.jpg</image:loc>
-      <image:title>What The Bird On The Pontiac Trans Am&#x27;s Hood Is Actually Called</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-f1s-2026-cars-are-unusually-quick-in-mexico/</loc>
-    <lastmod>2026-10-31T11:49:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449189_HiRes-1.jpg</image:loc>
-      <image:title>Why F1&#x27;s 2026 cars are unusually quick in Mexico</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-f1s-2026-cars-are-unusually-quick-in-mexico/</loc>
-    <lastmod>2026-10-31T11:49:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449189_HiRes-1.jpg</image:loc>
-      <image:title>Why F1&#x27;s 2026 cars are unusually quick in Mexico</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/</loc>
-    <lastmod>2026-10-31T11:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/l-intro-1793309239.jpg</image:loc>
-      <image:title>The Pros And Cons Of Getting Multiple Car Insurance Quotes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/</loc>
-    <lastmod>2026-10-31T11:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-pros-and-cons-of-getting-multiple-car-insurance-quotes/l-intro-1793309239.jpg</image:loc>
-      <image:title>The Pros And Cons Of Getting Multiple Car Insurance Quotes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/winners-and-losers-from-motogps-sepang-sprint/</loc>
-    <lastmod>2026-10-31T11:00:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358938_HiRes.jpg</image:loc>
-      <image:title>Fallout &amp; Drama: Who Won And Who Lost At MotoGP&#x27;s Sepang sprint</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/winners-and-losers-from-motogps-sepang-sprint/</loc>
-    <lastmod>2026-10-31T11:00:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/GnG_1358938_HiRes.jpg</image:loc>
-      <image:title>Fallout &amp; Drama: Who Won And Who Lost At MotoGP&#x27;s Sepang sprint</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburet/</loc>
-    <lastmod>2026-10-31T09:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburetion/l-intro-1793023093.jpg</image:loc>
-      <image:title>Why I Converted My 1979 Volvo 245 From Fuel Injection To Carburetion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburet/</loc>
-    <lastmod>2026-10-31T09:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-i-converted-my-1979-volvo-245-from-fuel-injection-to-carburetion/l-intro-1793023093.jpg</image:loc>
-      <image:title>Why I Converted My 1979 Volvo 245 From Fuel Injection To Carburetion</image:title>
     </image:image>
   </url>
 </urlset>

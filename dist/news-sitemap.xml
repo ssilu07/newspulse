@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/crate-engine-the-580-bhp-ford-aluminator-v8/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T03:30:16+00:00</news:publication_date>
+      <news:title>Crate Engine: The 580 BHP Ford &quot;Aluminator&quot; V8</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Ford-Aluminator-Crate-Engine.jpg</image:loc>
+      <image:title>Crate Engine: The 580 BHP Ford &quot;Aluminator&quot; V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/turtle-wax-is-concerned-about-your-love-life-and-claims-messy-car/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T03:25:00+00:00</news:publication_date>
+      <news:title>Turtle Wax Is Concerned About Your Love Life, And Claims Messy Cars Impact Dating</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/turtle-wax-is-concerned-about-your-love-life-and-claims-messy-cars-impact-dating/l-intro-1793196106.jpg</image:loc>
+      <image:title>Turtle Wax Is Concerned About Your Love Life, And Claims Messy Cars Impact Dating</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/dodge-is-returning-to-nascar-after-a-14-year-hiatus/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T02:22:32+00:00</news:publication_date>
+      <news:title>Dodge Is Returning To NASCAR After A 14-Year Hiatus</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/dodge-is-returning-to-nascar-after-a-14-year-hiatus/l-intro-1793672352.jpg</image:loc>
+      <image:title>Dodge Is Returning To NASCAR After A 14-Year Hiatus</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-future-of-buildings-in-illinois-is-electric/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T01:58:27+00:00</news:publication_date>
+      <news:title>The Future of Buildings in Illinois Is Electric</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Chicago-Illinois-pexels-diego-alberto-martinez-mendoza-2151149994-31657678-scaled.jpg</image:loc>
+      <image:title>The Future of Buildings in Illinois Is Electric</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jeeps-wrangler-scrambler-srt-concept-previews-the-future-of-the-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T01:30:00+00:00</news:publication_date>
+      <news:title>Jeep&#x27;s Wrangler Scrambler SRT Concept Previews the Future of the Brand</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6822fb64-2375-4f43-993b-02b5c6cbd704.jpg</image:loc>
+      <image:title>Jeep&#x27;s Wrangler Scrambler SRT Concept Previews the Future of the Brand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/see-the-jeep-wrangler-scrambler-srt-concept-from-all-angles/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T01:30:00+00:00</news:publication_date>
+      <news:title>See the Jeep Wrangler Scrambler SRT Concept from All Angles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a4897fa7-5ebc-488b-b045-3cf87b2e0aa9.jpg</image:loc>
+      <image:title>See the Jeep Wrangler Scrambler SRT Concept from All Angles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/they-are-trying-to-silence-us/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T01:08:05+00:00</news:publication_date>
+      <news:title>They Are Trying to Silence Us</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Judge-Gavel-Court-CleanTechnica-Watermark.png</image:loc>
+      <image:title>They Are Trying to Silence Us</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/more-of-the-same-expensive-dependence-on-fossil-fuels-in-tep-and-/</loc>
     <news:news>
       <news:publication>
@@ -165,6 +270,36 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/gm-agrees-to-220-million-settlement-after-illegally-selling-your-driving-data/l-intro-1793653178.jpg</image:loc>
       <image:title>GM Agrees To $220 Million Settlement After Illegally Selling Your Driving Data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-restomod-audi-quattro-has-a-screaming-10000-rpm-v8/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T20:56:02+00:00</news:publication_date>
+      <news:title>This Restomod Audi Quattro Has A Screaming 10,000 RPM V8</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-restomod-audi-quattro-has-a-screaming-10000-rpm-v8/l-intro-1793652822.jpg</image:loc>
+      <image:title>This Restomod Audi Quattro Has A Screaming 10,000 RPM V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-is-developing-ai-specifically-for-heavy-duty-towing-and-r/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T20:54:00+00:00</news:publication_date>
+      <news:title>Hyundai Is Developing AI Specifically For Heavy-Duty Towing And Rugged Off-Roading</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/hyundai-is-developing-ai-specifically-for-heavy-duty-towing-and-rugged-off-roading/l-intro-1793652824.jpg</image:loc>
+      <image:title>Hyundai Is Developing AI Specifically For Heavy-Duty Towing And Rugged Off-Roading</image:title>
     </image:image>
   </url>
   <url>
@@ -438,6 +573,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/tested-best-home-ev-chargers-for-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T17:02:00+00:00</news:publication_date>
+      <news:title>Tested: Best Home EV Chargers for 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/02e97ebb-eff6-49ec-ae38-cd4ab01f27b8.jpg</image:loc>
+      <image:title>Tested: Best Home EV Chargers for 2026</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/rivian-is-doing-the-damn-thing/</loc>
     <news:news>
       <news:publication>
@@ -708,6 +858,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-cla/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T12:40:22+00:00</news:publication_date>
+      <news:title>Hamilton slams Leclerc for &quot;do or die&quot; attitude after Mexico GP clash</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg</image:loc>
+      <image:title>Hamilton slams Leclerc for &quot;do or die&quot; attitude after Mexico GP clash</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/edd-straws-f1-2026-mexican-grand-prix-tier-list-driver-rankings/</loc>
     <news:news>
       <news:publication>
@@ -825,6 +990,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450562_HiRes.jpg</image:loc>
       <image:title>F1 2026 Mexican Grand Prix race result after multiple penalties</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/piastri-out-of-f1-mexico-gp-points-after-post-race-penalty-for-li/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T02:19:42+00:00</news:publication_date>
+      <news:title>Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-7.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg</image:loc>
+      <image:title>Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash</image:title>
     </image:image>
   </url>
   <url>
@@ -1605,96 +1785,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359663_HiRes.jpg</image:loc>
       <image:title>Marquez takes complete control of title fight with Sepang win</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/australian-icon-a-1963-holden-eh-special/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T03:30:58+00:00</news:publication_date>
-      <news:title>Australian Icon: A 1963 Holden EH “Special”</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Holden-EH-Special-Sedan-Car-5.jpg</image:loc>
-      <image:title>Australian Icon: A 1963 Holden EH “Special”</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T03:25:00+00:00</news:publication_date>
-      <news:title>Why The Toyota Hilux Is One Of The Most Legendary Compact Trucks Ever Built</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-the-toyota-hilux-is-one-of-the-most-legendary-compact-trucks-ever-built/l-intro-1792678835.jpg</image:loc>
-      <image:title>Why The Toyota Hilux Is One Of The Most Legendary Compact Trucks Ever Built</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-decided-mexico-pole-fight-before-final-laps-even-started/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T02:40:24+00:00</news:publication_date>
-      <news:title>What decided Mexico pole fight before final laps even started</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449481_HiRes.jpg</image:loc>
-      <image:title>What decided Mexico pole fight before final laps even started</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-naturally-aspirated-4-cylinder-engines-that-pump-out-v6-and-eve/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T01:25:00+00:00</news:publication_date>
-      <news:title>7 Naturally Aspirated 4-Cylinder Engines That Pump Out V6 And Even V8 Power</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-naturally-aspirated-4-cylinder-engines-that-pump-out-v6-and-even-v8-power/l-intro-1792759019.jpg</image:loc>
-      <image:title>7 Naturally Aspirated 4-Cylinder Engines That Pump Out V6 And Even V8 Power</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/winners-and-losers-from-mexican-grand-prix-f1-qualifying-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T01:17:35+00:00</news:publication_date>
-      <news:title>Fallout &amp; Drama: Who Won And Who Lost At Mexican Grand Prix F1 qualifying 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449759_HiRes.jpg</image:loc>
-      <image:title>Fallout &amp; Drama: Who Won And Who Lost At Mexican Grand Prix F1 qualifying 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lawson-thrown-out-of-mexican-gp-qualifying-results/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T01:10:00+00:00</news:publication_date>
-      <news:title>Stewards Disqualify Liam Lawson From Mexican GP Qualifying: What Happened</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449795_HiRes.jpg</image:loc>
-      <image:title>Stewards Disqualify Liam Lawson From Mexican GP Qualifying: What Happened</image:title>
     </image:image>
   </url>
 </urlset>
