@@ -143,6 +143,7 @@ def get_base_footer() -> str:
             <li><a href="/#trending">🔥 Viral Drives & Concepts</a></li>
             <li><a href="/#sports">🏁 Motorsport & F1 Tech</a></li>
             <li><a href="/#entertainment">🎬 Car Culture & Restomods</a></li>
+            <li><a href="/#india">🚙 India Drives & SUVs</a></li>
           </ul>
         </div>
 
@@ -973,6 +974,14 @@ AUTHORS = {
         "color": "#ec4899",
         "bio": "Chloe chronicles bespoke V8 restomod builds, million-dollar Monterey Car Week auctions, cinematic chase vehicles, and classic automotive preservation.",
         "email": "chloe.adams@newsseconds.com"
+    },
+    "india": {
+        "name": "Kabir Sharma",
+        "role": "Indian Automotive & SUV Specialist",
+        "initials": "KS",
+        "color": "#ea580c",
+        "bio": "Kabir specializes in the Indian passenger vehicle market, tracking Tata Motors, Mahindra 4x4s, Maruti Suzuki hybrids, Bharat NCAP crash safety ratings, and mass-market EV adoption.",
+        "email": "kabir.sharma@newsseconds.com"
     }
 }
 
@@ -1032,6 +1041,13 @@ def generate_editorial_take(article: dict, author: dict) -> dict:
             f"of internal combustion while adopting carbon fiber composites and precision craftsmanship."
         )
         big_picture = "Auction hammer prices and enthusiast demand indicate sustained historical appreciation for rare, analog driver's vehicles."
+    elif cat == "india":
+        takeaway_title = "Bharat NCAP Safety Standards & Indian Road Readiness"
+        takeaway_body = (
+            f"In India's rapidly evolving automotive landscape, crashworthiness and real-world durability are driving consumer purchase decisions like never before. "
+            f"As reported by {source}, indigenous automakers like Tata Motors and Mahindra are setting global safety benchmarks while optimizing suspension and ground clearance for unpredictable road conditions."
+        )
+        big_picture = "Upcoming monthly FADA retail delivery reports and Bharat NCAP rating scorecards will reveal which domestic models capture mass-market dominance."
     else:
         takeaway_title = "Automotive Innovation & Market Feasibility"
         takeaway_body = (

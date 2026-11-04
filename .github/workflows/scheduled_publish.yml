@@ -65,7 +65,7 @@ jobs:
           TUMBLR_OAUTH_SECRET: ${{ secrets.TUMBLR_OAUTH_SECRET }}
           TUMBLR_BLOG_NAME: ${{ secrets.TUMBLR_BLOG_NAME || 'newsseconds' }}
         run: |
-          python fetch_and_generate.py --count 2 --max-fresh 14 --skip-val
+          python fetch_and_generate.py --count 2 --max-fresh 16 --skip-val
 
       - name: Prune Old Vercel Deployments
         if: always()

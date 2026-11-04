@@ -42,7 +42,7 @@ GEMINI_PACING_DELAY_SECONDS = float(os.getenv("GEMINI_PACING_DELAY_SECONDS", "0.
 
 # Google-Compliant Ingestion & Anti-Spam Rate Limits (Scaled Content Prevention)
 MAX_ARTICLES_PER_CATEGORY = int(os.getenv("MAX_ARTICLES_PER_CATEGORY", "2"))
-MAX_TOTAL_FRESH_ARTICLES = int(os.getenv("MAX_TOTAL_FRESH_ARTICLES", "14"))
+MAX_TOTAL_FRESH_ARTICLES = int(os.getenv("MAX_TOTAL_FRESH_ARTICLES", "16"))
 MAX_ARCHIVE_ARTICLES = int(os.getenv("MAX_ARCHIVE_ARTICLES", "150"))
 MAX_LOCAL_POSTER_STORIES = int(os.getenv("MAX_LOCAL_POSTER_STORIES", "30"))
 MAX_ARTICLE_AGE_HOURS = int(os.getenv("MAX_ARTICLE_AGE_HOURS", "48"))
@@ -79,6 +79,22 @@ ADSENSE_PUB_ID = os.getenv("ADSENSE_PUB_ID", "")
 
 # Categories and High-Reliability RSS Feeds
 CATEGORIES = {
+    "india": {
+        "name": "India Drives & SUVs",
+        "slug": "india",
+        "color": "#ea580c",
+        "gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+        "icon": "🚙",
+        "description": "Tata Motors, Mahindra Thar & Scorpio, Maruti Suzuki, Hyundai India, Bharat NCAP crash safety ratings, and mass-market SUV launches.",
+        "feeds": [
+            "https://www.rushlane.com/feed",
+            "https://www.motorbeam.com/feed/",
+            "https://gaadiwaadi.com/feed/",
+            "https://www.carblogindia.com/feed/",
+            "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop"
+    },
     "world": {
         "name": "EVs & Clean Mobility",
         "slug": "world",
@@ -175,11 +191,34 @@ CATEGORIES = {
             "https://www.caranddriver.com/rss/all.xml"
         ],
         "default_image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop"
+    },
+    "india": {
+        "name": "India Drives & SUVs",
+        "slug": "india",
+        "color": "#ea580c",
+        "gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+        "icon": "🚙",
+        "description": "Tata Motors, Mahindra Thar & Scorpio, Maruti Suzuki, Hyundai India, Bharat NCAP crash safety ratings, and mass-market SUV launches.",
+        "feeds": [
+            "https://www.rushlane.com/feed",
+            "https://www.motorbeam.com/feed/",
+            "https://gaadiwaadi.com/feed/",
+            "https://www.carblogindia.com/feed/",
+            "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop"
     }
 }
 
 # Curated High-Definition Story Background Images per category for AMP slide sequencing
 SLIDE_IMAGE_COLLECTIONS = {
+    "india": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop"
+    ],
     "world": [
         "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",

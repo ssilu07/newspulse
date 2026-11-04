@@ -47,6 +47,15 @@ def craft_viral_hook_title(title: str, summary: str = "", category: str = "") ->
         (r"^(?:view|see)\s+(?:photos\s+of\s+|all\s+results\s+for\s+)(?:the\s+)?1997\s+\$30k\s+luxury\s+cars.*", "Throwback Duel: When $30K Bought Legitimate German Luxury Sedans"),
         (r"^(?:view|see)\s+photos\s+of\s+(?:the\s+)?(.*)", r"First Look: The \1 Revealed In Stunning Detail"),
 
+        # Indian Automotive Viral Hooks (Tata, Mahindra, Maruti, Hyundai, MoRTH, Bharat NCAP)
+        (r"^(?:new\s+)?(tata|mahindra|maruti\s+suzuki|maruti|hyundai|toyota)\s+(.*?)\s+(?:price\s+cut|price\s+slashed|price\s+drop)\s+(?:by\s+|of\s+|up\s+to\s+)?(rs\.?\s*[0-9.]+\s*(?:lakh|k)?).*", r"Price Shock: \1 \2 Gets Massive \3 Price Cut"),
+        (r"^(?:new\s+)?(tata|mahindra|maruti\s+suzuki|maruti|hyundai|toyota)\s+(.*?)\s+price\s+hike\s+(?:up\s+to\s+)?(rs\.?\s*[0-9.]+\s*(?:lakh|k)?).*", r"Price Alert: \1 \2 Becomes More Expensive By \3"),
+        (r"^(?:latest\s+)?(.*?)\s+crash\s+defies\s+ncap.*", r"Bharat NCAP Safety Drama: Inside The Shocking Crash Test Of \1"),
+        (r"^(?:is\s+)?aeb\s+to\s+become\s+mandatory\s+in\s+all\s+cars.*", "Major Safety Mandate: MoRTH Proposes Mandatory AEB For All Indian Cars"),
+        (r"^vinfast\s+(.*?)\s+price\s+cut\s+(?:rs\.?\s*[0-9.]+\s*lakh).*", r"EV Price War: VinFast Slashes \1 Price In India By Lakhs"),
+        (r"^(tata|mahindra|maruti)\s+(.*?)\s+waiting\s+period.*", r"Delivery Crisis: Waiting Period On \1 \2 Stretches To Months"),
+        (r"^(tata|mahindra|maruti)\s+(.*?)\s+spotted\s+(?:undisguised|testing).*", r"First Clear Look: \1 \2 Caught Undisguised On Indian Roads"),
+
         # Curiosities & Lists
         (r"^these\s+are\s+(?:10|7|5|8|9|the)?\s*reasons\s+(?:why\s+)?(?:you\s+are|drivers\s+are|we\s+are)\s+(.*)", r"Why Real Drivers Refuse To Give Up \1"),
         (r"^these\s+are\s+(?:10|7|5|8|9|the)?\s*of\s+the\s+most\s+notable\s+(.*)", r"10 Most Shocking Changes Coming To The \1"),

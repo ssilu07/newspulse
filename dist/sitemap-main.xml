@@ -3,37 +3,37 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-04T02:43:06Z</lastmod>
+    <lastmod>2026-11-04T04:49:54Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-04T02:43:06Z</lastmod>
+    <lastmod>2026-11-04T04:49:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-04T02:43:06Z</lastmod>
+    <lastmod>2026-11-04T04:49:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-04T02:43:06Z</lastmod>
+    <lastmod>2026-11-04T04:49:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-04T02:43:06Z</lastmod>
+    <lastmod>2026-11-04T04:49:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-04T02:43:06Z</lastmod>
+    <lastmod>2026-11-04T04:49:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -138,6 +138,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/honda-is-building-a-racier-civic-type-r-for-the-us/</loc>
+    <lastmod>2026-11-03T22:55:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/honda-is-building-a-racier-civic-type-r-for-the-u-s/l-intro-1793735526.jpg</image:loc>
+      <image:title>Honda Is Building A Racier Civic Type R For The U.S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-is-building-a-racier-civic-type-r-for-the-us/</loc>
+    <lastmod>2026-11-03T22:55:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/honda-is-building-a-racier-civic-type-r-for-the-u-s/l-intro-1793735526.jpg</image:loc>
+      <image:title>Honda Is Building A Racier Civic Type R For The U.S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-hero-vida-ubx-electric-motorcycle-debuts-over-150-kms-range/</loc>
+    <lastmod>2026-11-03T22:39:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/New-Hero-VIDA-UBX-Electric-Motorcycle-launch-price-range-1.jpg</image:loc>
+      <image:title>New Hero VIDA UBX Electric Motorcycle Debuts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-hero-vida-ubx-electric-motorcycle-debuts-over-150-kms-range/</loc>
+    <lastmod>2026-11-03T22:39:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/New-Hero-VIDA-UBX-Electric-Motorcycle-launch-price-range-1.jpg</image:loc>
+      <image:title>New Hero VIDA UBX Electric Motorcycle Debuts</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/herta-gets-another-cadillac-f1-practice-to-earn-superlicence/</loc>
     <lastmod>2026-11-03T22:36:12+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -155,6 +195,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1448586_HiRes.jpg</image:loc>
       <image:title>Herta gets another Cadillac F1 practice to earn superlicence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-crysta-price-hike-nov-2026-up-to-rs-33k-details/</loc>
+    <lastmod>2026-11-03T22:33:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/06/new-toyota-innova-crysta-facelift-top-zx-20.jpg</image:loc>
+      <image:title>Toyota Innova Crysta Price Hike Nov 2026 Up To Rs 33k</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-innova-crysta-price-hike-nov-2026-up-to-rs-33k-details/</loc>
+    <lastmod>2026-11-03T22:33:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/06/new-toyota-innova-crysta-facelift-top-zx-20.jpg</image:loc>
+      <image:title>Toyota Innova Crysta Price Hike Nov 2026 Up To Rs 33k</image:title>
     </image:image>
   </url>
   <url>
@@ -195,6 +255,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Great-Han-EV-front.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>BYD&#x27;s flagship luxury EV with 1,000+ km of range hits 4,000 sales in just 19 days</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nios-october-sales-meh-but-2026-sales-up-385/</loc>
+    <lastmod>2026-11-03T22:10:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/NIO-vehicle-sales-monthly-deliveries-October-2026-logo.png</image:loc>
+      <image:title>NIO&#x27;s October Sales Meh, But 2026 Sales Up 38.5%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nios-october-sales-meh-but-2026-sales-up-385/</loc>
+    <lastmod>2026-11-03T22:10:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/NIO-vehicle-sales-monthly-deliveries-October-2026-logo.png</image:loc>
+      <image:title>NIO&#x27;s October Sales Meh, But 2026 Sales Up 38.5%</image:title>
     </image:image>
   </url>
   <url>
@@ -255,6 +335,26 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/acura-begins-selling-3000-nsx-restoration-parts-in-the-united-states/l-intro-1793740203.jpg</image:loc>
       <image:title>Acura Begins Selling 3,000 NSX Restoration Parts In The United States</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/xpeng-sales-soar/</loc>
+    <lastmod>2026-11-03T21:08:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/XPENG-vehicle-sales-monthly-deliveries-October-2026-logo.png</image:loc>
+      <image:title>XPENG Sales Soar!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/xpeng-sales-soar/</loc>
+    <lastmod>2026-11-03T21:08:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/XPENG-vehicle-sales-monthly-deliveries-October-2026-logo.png</image:loc>
+      <image:title>XPENG Sales Soar!</image:title>
     </image:image>
   </url>
   <url>
@@ -798,6 +898,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/gms-hybrid-onslaught-will-start-with-its-big-suvs/</loc>
+    <lastmod>2026-11-03T15:36:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/gms-hybrid-onslaught-will-start-with-its-big-suvs/l-intro-1793739893.jpg</image:loc>
+      <image:title>GM&#x27;s Hybrid Onslaught Will Start With Its Big SUVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gms-hybrid-onslaught-will-start-with-its-big-suvs/</loc>
+    <lastmod>2026-11-03T15:36:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/gms-hybrid-onslaught-will-start-with-its-big-suvs/l-intro-1793739893.jpg</image:loc>
+      <image:title>GM&#x27;s Hybrid Onslaught Will Start With Its Big SUVs</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/2027-genesis-gv60-gv60-magma/</loc>
     <lastmod>2026-11-03T15:34:50+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -918,6 +1038,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/waymos-next-driverless-taxi-is-a-factory-built-toyota-bz/</loc>
+    <lastmod>2026-11-03T14:58:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/waymos-next-driverless-taxi-is-a-factory-built-toyota-bz/l-intro-1793737599.jpg</image:loc>
+      <image:title>Waymo&#x27;s Next Driverless Taxi Is A Factory-Built Toyota bZ</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/waymos-next-driverless-taxi-is-a-factory-built-toyota-bz/</loc>
+    <lastmod>2026-11-03T14:58:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/waymos-next-driverless-taxi-is-a-factory-built-toyota-bz/l-intro-1793737599.jpg</image:loc>
+      <image:title>Waymo&#x27;s Next Driverless Taxi Is A Factory-Built Toyota bZ</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/kia-racks-up-another-record-month-as-its-new-30k-electric-suv-hit/</loc>
     <lastmod>2026-11-03T14:56:21+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -955,6 +1095,26 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/0a08e9c0-ecd2-466a-bab6-3e96ae2a8098.jpg</image:loc>
       <image:title>Genesis GV60 Magma Doesn&#x27;t Sacrifice Speed for Faux-Shift Fun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fat-fenders-800-hp-ford-f-100-is-the-work-of-over-15000-hours/</loc>
+    <lastmod>2026-11-03T14:41:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/fat-fenders-800-hp-ford-f-100-is-the-work-of-over-15000-hours/l-intro-1793736479.jpg</image:loc>
+      <image:title>Fat Fender&#x27;s 800 HP Ford F-100 Is The Work Of Over 15,000 Hours</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/fat-fenders-800-hp-ford-f-100-is-the-work-of-over-15000-hours/</loc>
+    <lastmod>2026-11-03T14:41:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/fat-fenders-800-hp-ford-f-100-is-the-work-of-over-15000-hours/l-intro-1793736479.jpg</image:loc>
+      <image:title>Fat Fender&#x27;s 800 HP Ford F-100 Is The Work Of Over 15,000 Hours</image:title>
     </image:image>
   </url>
   <url>
@@ -1198,6 +1358,66 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/2977-hp-u9-xtreme-destroyed-as-byd-aims-for-311-mph/</loc>
+    <lastmod>2026-11-03T13:01:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/2977-hp-u9-xtreme-destroyed-as-byd-aims-for-311-mph/l-intro-1793730853.jpg</image:loc>
+      <image:title>2,977 HP U9 Xtreme Destroyed As BYD Aims For 311 MPH</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2977-hp-u9-xtreme-destroyed-as-byd-aims-for-311-mph/</loc>
+    <lastmod>2026-11-03T13:01:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/2977-hp-u9-xtreme-destroyed-as-byd-aims-for-311-mph/l-intro-1793730853.jpg</image:loc>
+      <image:title>2,977 HP U9 Xtreme Destroyed As BYD Aims For 311 MPH</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/it-took-5500-hours-for-ringbrothers-to-build-this-wild-pontiac-gt/</loc>
+    <lastmod>2026-11-03T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/it-took-5500-hours-for-ringbrothers-to-build-this-wild-pontiac-gto/l-intro-1793723014.jpg</image:loc>
+      <image:title>It Took 5,500 Hours For Ringbrothers To Build This Wild Pontiac GTO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/it-took-5500-hours-for-ringbrothers-to-build-this-wild-pontiac-gt/</loc>
+    <lastmod>2026-11-03T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/it-took-5500-hours-for-ringbrothers-to-build-this-wild-pontiac-gto/l-intro-1793723014.jpg</image:loc>
+      <image:title>It Took 5,500 Hours For Ringbrothers To Build This Wild Pontiac GTO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/police-in-texas-could-hunt-criminals-in-this-dodge-durango-hellca/</loc>
+    <lastmod>2026-11-03T12:59:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/police-in-texas-could-hunt-criminals-in-this-dodge-durango-hellcat/l-intro-1793730437.jpg</image:loc>
+      <image:title>Police In Texas Could Hunt Criminals In This Dodge Durango Hellcat</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/police-in-texas-could-hunt-criminals-in-this-dodge-durango-hellca/</loc>
+    <lastmod>2026-11-03T12:59:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/police-in-texas-could-hunt-criminals-in-this-dodge-durango-hellcat/l-intro-1793730437.jpg</image:loc>
+      <image:title>Police In Texas Could Hunt Criminals In This Dodge Durango Hellcat</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/xiaomi-su7-ultra-loses-the-wing-for-a-stealthier-nürburgring-test/</loc>
     <lastmod>2026-11-03T12:50:13+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1295,6 +1515,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1385594_HiRes.jpg</image:loc>
       <image:title>What time is F1&#x27;s 2026 Brazilian Grand Prix? Full weekend schedule</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tested-2027-genesis-gv60-magma-is-a-riot/</loc>
+    <lastmod>2026-11-03T08:54:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/063da7e7-9a46-4bf2-a123-ab2c6e0c5831.jpg</image:loc>
+      <image:title>Tested: 2027 Genesis GV60 Magma Is a Riot</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tested-2027-genesis-gv60-magma-is-a-riot/</loc>
+    <lastmod>2026-11-03T08:54:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/063da7e7-9a46-4bf2-a123-ab2c6e0c5831.jpg</image:loc>
+      <image:title>Tested: 2027 Genesis GV60 Magma Is a Riot</image:title>
     </image:image>
   </url>
   <url>
@@ -2795,246 +3035,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359629_HiRes.jpg</image:loc>
       <image:title>Malaysian Grand Prix 2026 MotoGP rider rankings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-rival-verstappen-needs-our-verdict-on-antonellis-f1-title/</loc>
-    <lastmod>2026-11-02T08:19:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450444_HiRes.jpg</image:loc>
-      <image:title>The rival Verstappen needs - our verdict on Antonelli&#x27;s F1 title</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-rival-verstappen-needs-our-verdict-on-antonellis-f1-title/</loc>
-    <lastmod>2026-11-02T08:19:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450444_HiRes.jpg</image:loc>
-      <image:title>The rival Verstappen needs - our verdict on Antonelli&#x27;s F1 title</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/car-design-has-gone-downhill-since-the-plymouth-prowler/</loc>
-    <lastmod>2026-11-02T04:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/car-design-has-gone-downhill-since-the-plymouth-prowler/l-intro-1793188473.jpg</image:loc>
-      <image:title>Car Design Has Gone Downhill Since The Plymouth Prowler</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/car-design-has-gone-downhill-since-the-plymouth-prowler/</loc>
-    <lastmod>2026-11-02T04:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/car-design-has-gone-downhill-since-the-plymouth-prowler/l-intro-1793188473.jpg</image:loc>
-      <image:title>Car Design Has Gone Downhill Since The Plymouth Prowler</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-2026-mexican-grand-prix-race-result-after-multiple-penalties/</loc>
-    <lastmod>2026-11-02T02:23:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450562_HiRes.jpg</image:loc>
-      <image:title>F1 2026 Mexican Grand Prix race result after multiple penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1-2026-mexican-grand-prix-race-result-after-multiple-penalties/</loc>
-    <lastmod>2026-11-02T02:23:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450562_HiRes.jpg</image:loc>
-      <image:title>F1 2026 Mexican Grand Prix race result after multiple penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/piastri-out-of-f1-mexico-gp-points-after-post-race-penalty-for-li/</loc>
-    <lastmod>2026-11-02T02:19:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-7.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg</image:loc>
-      <image:title>Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/piastri-out-of-f1-mexico-gp-points-after-post-race-penalty-for-li/</loc>
-    <lastmod>2026-11-02T02:19:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-7.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg</image:loc>
-      <image:title>Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/double-penalty-costs-alpine-all-its-mexican-gp-points/</loc>
-    <lastmod>2026-11-02T02:09:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450581_HiRes.jpg</image:loc>
-      <image:title>Double penalty costs Alpine all its Mexican GP points</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/double-penalty-costs-alpine-all-its-mexican-gp-points/</loc>
-    <lastmod>2026-11-02T02:09:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450581_HiRes.jpg</image:loc>
-      <image:title>Double penalty costs Alpine all its Mexican GP points</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mercedes-explains-distraught-russells-post-race-absence-after-fin/</loc>
-    <lastmod>2026-11-02T01:52:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450411_HiRes.jpg</image:loc>
-      <image:title>Mercedes explains &#x27;distraught&#x27; Russell&#x27;s post-race absence after fine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mercedes-explains-distraught-russells-post-race-absence-after-fin/</loc>
-    <lastmod>2026-11-02T01:52:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450411_HiRes.jpg</image:loc>
-      <image:title>Mercedes explains &#x27;distraught&#x27; Russell&#x27;s post-race absence after fine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-en/</loc>
-    <lastmod>2026-11-02T00:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-engines/l-intro-1793133938.jpg</image:loc>
-      <image:title>7 Luxury Vehicles From Throughout History That Used 4-Cylinder Engines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-en/</loc>
-    <lastmod>2026-11-02T00:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-engines/l-intro-1793133938.jpg</image:loc>
-      <image:title>7 Luxury Vehicles From Throughout History That Used 4-Cylinder Engines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/piastri-punished-for-lindblad-collision/</loc>
-    <lastmod>2026-11-02T00:25:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450181_HiRes.jpg</image:loc>
-      <image:title>Piastri punished for Lindblad collision</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/piastri-punished-for-lindblad-collision/</loc>
-    <lastmod>2026-11-02T00:25:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450181_HiRes.jpg</image:loc>
-      <image:title>Piastri punished for Lindblad collision</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find/</loc>
-    <lastmod>2026-11-02T00:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find-out/l-intro-1793132615.jpg</image:loc>
-      <image:title>Can One Tire Really Do It All? 8 All-Weather Tires Compete To Find Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find/</loc>
-    <lastmod>2026-11-02T00:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find-out/l-intro-1793132615.jpg</image:loc>
-      <image:title>Can One Tire Really Do It All? 8 All-Weather Tires Compete To Find Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hamilton-demands-serious-talks-after-latest-leclerc-incident/</loc>
-    <lastmod>2026-11-01T23:28:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450299_HiRes.jpg</image:loc>
-      <image:title>Hamilton demands &#x27;serious talks&#x27; after latest Leclerc incident</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hamilton-demands-serious-talks-after-latest-leclerc-incident/</loc>
-    <lastmod>2026-11-01T23:28:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450299_HiRes.jpg</image:loc>
-      <image:title>Hamilton demands &#x27;serious talks&#x27; after latest Leclerc incident</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-/</loc>
-    <lastmod>2026-11-01T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-how-to-name-this-sort-of-thing/l-intro-1793198357.jpg</image:loc>
-      <image:title>Mitsubishi Outlander Diamond Trail Edition Is A Great Example Of How To Name This Sort Of Thing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-/</loc>
-    <lastmod>2026-11-01T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/mitsubishi-outlander-diamond-trail-edition-is-a-great-example-of-how-to-name-this-sort-of-thing/l-intro-1793198357.jpg</image:loc>
-      <image:title>Mitsubishi Outlander Diamond Trail Edition Is A Great Example Of How To Name This Sort Of Thing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-/</loc>
-    <lastmod>2026-11-01T23:17:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-hybrid-v8/l-intro-1793574538.jpg</image:loc>
-      <image:title>Karma&#x27;s Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-/</loc>
-    <lastmod>2026-11-01T23:17:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-hybrid-v8/l-intro-1793574538.jpg</image:loc>
-      <image:title>Karma&#x27;s Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8</image:title>
     </image:image>
   </url>
 </urlset>
