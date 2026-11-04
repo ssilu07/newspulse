@@ -3,39 +3,119 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-04T04:49:54Z</lastmod>
+    <lastmod>2026-11-04T09:32:08Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-04T04:49:54Z</lastmod>
+    <lastmod>2026-11-04T09:32:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-04T04:49:54Z</lastmod>
+    <lastmod>2026-11-04T09:32:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-04T04:49:54Z</lastmod>
+    <lastmod>2026-11-04T09:32:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-04T04:49:54Z</lastmod>
+    <lastmod>2026-11-04T09:32:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-04T04:49:54Z</lastmod>
+    <lastmod>2026-11-04T09:32:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/our-verdict-on-ocons-permanent-haas-exit/</loc>
+    <lastmod>2026-11-04T09:26:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449311_HiRes.jpg</image:loc>
+      <image:title>Our verdict on Ocon&#x27;s permanent Haas exit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/our-verdict-on-ocons-permanent-haas-exit/</loc>
+    <lastmod>2026-11-04T09:26:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449311_HiRes.jpg</image:loc>
+      <image:title>Our verdict on Ocon&#x27;s permanent Haas exit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nissan-magnite-gravite-free-cng-kits-worth-up-to-rs-86k-festive-o/</loc>
+    <lastmod>2026-11-04T07:16:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/10/nissan-magnite-new-sales.jpg</image:loc>
+      <image:title>Nissan Magnite, Gravite Free CNG Kits Worth Up To Rs 86k</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nissan-magnite-gravite-free-cng-kits-worth-up-to-rs-86k-festive-o/</loc>
+    <lastmod>2026-11-04T07:16:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/10/nissan-magnite-new-sales.jpg</image:loc>
+      <image:title>Nissan Magnite, Gravite Free CNG Kits Worth Up To Rs 86k</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ferraris-engine-weakness-hides-biggest-vasseur-success/</loc>
+    <lastmod>2026-11-04T07:06:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-MXGP-01-11-26-7504.jpg</image:loc>
+      <image:title>Ferrari&#x27;s engine weakness hides biggest Vasseur success</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ferraris-engine-weakness-hides-biggest-vasseur-success/</loc>
+    <lastmod>2026-11-04T07:06:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-MXGP-01-11-26-7504.jpg</image:loc>
+      <image:title>Ferrari&#x27;s engine weakness hides biggest Vasseur success</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-tvs-iqube-with-android-auto-debuts-at-eicma-2026/</loc>
+    <lastmod>2026-11-04T05:36:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-iqube-with-android-auto-announced.jpg</image:loc>
+      <image:title>New TVS iQube With Android Auto Debuts At EICMA 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-tvs-iqube-with-android-auto-debuts-at-eicma-2026/</loc>
+    <lastmod>2026-11-04T05:36:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-iqube-with-android-auto-announced.jpg</image:loc>
+      <image:title>New TVS iQube With Android Auto Debuts At EICMA 2026</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/how-does-oahu-get-to-an-economically-resilient-100-clean-energy-f/</loc>
@@ -738,6 +818,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/the-carbon-body-is-the-least-interesting-thing-about-this-ford-mu/</loc>
+    <lastmod>2026-11-03T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-carbon-body-is-the-least-interesting-thing-about-this-ford-mustang/l-intro-1793656696.jpg</image:loc>
+      <image:title>The Carbon Body Is The Least Interesting Thing About This Ford Mustang</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-carbon-body-is-the-least-interesting-thing-about-this-ford-mu/</loc>
+    <lastmod>2026-11-03T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-carbon-body-is-the-least-interesting-thing-about-this-ford-mustang/l-intro-1793656696.jpg</image:loc>
+      <image:title>The Carbon Body Is The Least Interesting Thing About This Ford Mustang</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/fords-frostwarden-bronco-is-a-one-off-rescue-vehicle-with-1200-hp/</loc>
     <lastmod>2026-11-03T17:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -858,6 +958,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/the-homeschooled-crowd-just-figured-out-lunch-tray-drifting/</loc>
+    <lastmod>2026-11-03T15:58:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-homeschooled-crowd-just-figured-out-lunch-tray-drifting/l-intro-1793721203.jpg</image:loc>
+      <image:title>The Homeschooled Crowd Just Figured Out Lunch Tray Drifting</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-homeschooled-crowd-just-figured-out-lunch-tray-drifting/</loc>
+    <lastmod>2026-11-03T15:58:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-homeschooled-crowd-just-figured-out-lunch-tray-drifting/l-intro-1793721203.jpg</image:loc>
+      <image:title>The Homeschooled Crowd Just Figured Out Lunch Tray Drifting</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/dodge-confirms-it-will-return-to-the-nascar-cup-championship-in-2/</loc>
     <lastmod>2026-11-03T15:47:19+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -895,6 +1015,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/the-jaguar-type-01s-u-s-spec-bumper-is-fantastically-well-integrated/l-intro-1793720647.jpg</image:loc>
       <image:title>The Jaguar Type 01&#x27;s U.S.-Spec Bumper Is Fantastically Well Integrated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/united-states-sets-election-day-record-for-gas-prices/</loc>
+    <lastmod>2026-11-03T15:44:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/united-states-sets-election-day-record-for-gas-prices/l-intro-1793720460.jpg</image:loc>
+      <image:title>United States Sets Election Day Record For Gas Prices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/united-states-sets-election-day-record-for-gas-prices/</loc>
+    <lastmod>2026-11-03T15:44:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/united-states-sets-election-day-record-for-gas-prices/l-intro-1793720460.jpg</image:loc>
+      <image:title>United States Sets Election Day Record For Gas Prices</image:title>
     </image:image>
   </url>
   <url>
@@ -1218,6 +1358,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/jeep-scrambler-returns-with-v8-power-and-independent-front-suspen/</loc>
+    <lastmod>2026-11-03T14:00:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/jeep-scrambler-returns-with-v8-power-and-independent-front-suspension-but-you-cant-buy-it-yet/l-intro-1793714304.jpg</image:loc>
+      <image:title>Jeep Scrambler Returns With V8 Power And Independent Front Suspension, But You Can&#x27;t Buy It Yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jeep-scrambler-returns-with-v8-power-and-independent-front-suspen/</loc>
+    <lastmod>2026-11-03T14:00:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/jeep-scrambler-returns-with-v8-power-and-independent-front-suspension-but-you-cant-buy-it-yet/l-intro-1793714304.jpg</image:loc>
+      <image:title>Jeep Scrambler Returns With V8 Power And Independent Front Suspension, But You Can&#x27;t Buy It Yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-palisade-xrt-pro-first-drive-the-skid-plate-isnt-just-for/</loc>
+    <lastmod>2026-11-03T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/hyundai-palisade-xrt-pro-first-drive-the-skid-plate-isnt-just-for-show/l-intro-1793653626.jpg</image:loc>
+      <image:title>Hyundai Palisade XRT Pro First Drive: The Skid Plate Isn&#x27;t Just For Show</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-palisade-xrt-pro-first-drive-the-skid-plate-isnt-just-for/</loc>
+    <lastmod>2026-11-03T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/hyundai-palisade-xrt-pro-first-drive-the-skid-plate-isnt-just-for-show/l-intro-1793653626.jpg</image:loc>
+      <image:title>Hyundai Palisade XRT Pro First Drive: The Skid Plate Isn&#x27;t Just For Show</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-be/</loc>
     <lastmod>2026-11-03T14:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1455,6 +1635,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/03/maximo_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Maximo milestone: friendly robot robot has completed 300,000 tasks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-incredible-plymouth-fireball-500-from-1966/</loc>
+    <lastmod>2026-11-03T12:30:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2027/01/Fireball-500-Car.jpg</image:loc>
+      <image:title>The Incredible Plymouth &quot;Fireball 500&quot; From 1966</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-incredible-plymouth-fireball-500-from-1966/</loc>
+    <lastmod>2026-11-03T12:30:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2027/01/Fireball-500-Car.jpg</image:loc>
+      <image:title>The Incredible Plymouth &quot;Fireball 500&quot; From 1966</image:title>
     </image:image>
   </url>
   <url>
@@ -2835,206 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/kimi-antonelli-becomes-youngest-ever-f1-world-champion/l-intro-1793627671.jpg</image:loc>
       <image:title>Kimi Antonelli Becomes Youngest-Ever F1 World Champion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/giugiaro-revisits-the-baby-lambo-he-invented/</loc>
-    <lastmod>2026-11-02T13:49:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/giugiaro-revisits-the-baby-lambo-he-invented/l-intro-1793627044.jpg</image:loc>
-      <image:title>Giugiaro Revisits The Baby Lambo He Invented</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/giugiaro-revisits-the-baby-lambo-he-invented/</loc>
-    <lastmod>2026-11-02T13:49:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/giugiaro-revisits-the-baby-lambo-he-invented/l-intro-1793627044.jpg</image:loc>
-      <image:title>Giugiaro Revisits The Baby Lambo He Invented</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/</loc>
-    <lastmod>2026-11-02T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/l-intro-1793376613.jpg</image:loc>
-      <image:title>At $7,500, Will This 2003 Jeep Wrangler Sahara Get Its Just Dessert?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/</loc>
-    <lastmod>2026-11-02T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-7500-will-this-2003-jeep-wrangler-sahara-get-its-just-dessert/l-intro-1793376613.jpg</image:loc>
-      <image:title>At $7,500, Will This 2003 Jeep Wrangler Sahara Get Its Just Dessert?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/after-471625-miles-this-chevy-bolt-is-doing-better-than-you-think/</loc>
-    <lastmod>2026-11-02T13:02:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/471625.png?w=1600</image:loc>
-      <image:title>After 471,625 miles, this Chevy Bolt is doing better than you think [video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/after-471625-miles-this-chevy-bolt-is-doing-better-than-you-think/</loc>
-    <lastmod>2026-11-02T13:02:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/471625.png?w=1600</image:loc>
-      <image:title>After 471,625 miles, this Chevy Bolt is doing better than you think [video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-the-ultimate-nissan-pathfinders-for-the-track-and-the-t/</loc>
-    <lastmod>2026-11-02T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/nismo-nick-built-the-ultimate-pathfinders-for-the-track-and-the-trail/l-intro-1793623583.jpg</image:loc>
-      <image:title>These Are The Ultimate Nissan Pathfinders For The Track And The Trail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-are-the-ultimate-nissan-pathfinders-for-the-track-and-the-t/</loc>
-    <lastmod>2026-11-02T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/nismo-nick-built-the-ultimate-pathfinders-for-the-track-and-the-trail/l-intro-1793623583.jpg</image:loc>
-      <image:title>These Are The Ultimate Nissan Pathfinders For The Track And The Trail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-cla/</loc>
-    <lastmod>2026-11-02T12:40:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg</image:loc>
-      <image:title>Hamilton slams Leclerc for &quot;do or die&quot; attitude after Mexico GP clash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-cla/</loc>
-    <lastmod>2026-11-02T12:40:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg</image:loc>
-      <image:title>Hamilton slams Leclerc for &quot;do or die&quot; attitude after Mexico GP clash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/edd-straws-f1-2026-mexican-grand-prix-tier-list-driver-rankings/</loc>
-    <lastmod>2026-11-02T12:02:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450564_HiRes.jpg</image:loc>
-      <image:title>Edd Straw&#x27;s F1 2026 Mexican Grand Prix tier list driver rankings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/edd-straws-f1-2026-mexican-grand-prix-tier-list-driver-rankings/</loc>
-    <lastmod>2026-11-02T12:02:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450564_HiRes.jpg</image:loc>
-      <image:title>Edd Straw&#x27;s F1 2026 Mexican Grand Prix tier list driver rankings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-/</loc>
-    <lastmod>2026-11-02T11:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2024/02/ford-blue-cruise.jpeg?resize=1600,1067</image:loc>
-      <image:title>Ford launches a &#x27;privacy promise&#x27; and explains how and why it uses customer data</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-/</loc>
-    <lastmod>2026-11-02T11:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2024/02/ford-blue-cruise.jpeg?resize=1600,1067</image:loc>
-      <image:title>Ford launches a &#x27;privacy promise&#x27; and explains how and why it uses customer data</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhe/</loc>
-    <lastmod>2026-11-02T10:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhere/l-intro-1793194366.jpg</image:loc>
-      <image:title>Why Checking CarMax Makes Sense (Even If You End Up Buying Elsewhere)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhe/</loc>
-    <lastmod>2026-11-02T10:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-checking-carmax-makes-sense-even-if-you-end-up-buying-elsewhere/l-intro-1793194366.jpg</image:loc>
-      <image:title>Why Checking CarMax Makes Sense (Even If You End Up Buying Elsewhere)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-europes-battery-passport-could-have-a-big-impact-on-us-e-bike/</loc>
-    <lastmod>2026-11-02T09:21:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/04/velotric-battery-e-bike-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>How Europe&#x27;s battery passport could have a big impact on US e-bikes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-europes-battery-passport-could-have-a-big-impact-on-us-e-bike/</loc>
-    <lastmod>2026-11-02T09:21:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/04/velotric-battery-e-bike-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>How Europe&#x27;s battery passport could have a big impact on US e-bikes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/malaysian-grand-prix-2026-motogp-rider-rankings/</loc>
-    <lastmod>2026-11-02T08:50:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359629_HiRes.jpg</image:loc>
-      <image:title>Malaysian Grand Prix 2026 MotoGP rider rankings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/malaysian-grand-prix-2026-motogp-rider-rankings/</loc>
-    <lastmod>2026-11-02T08:50:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1359629_HiRes.jpg</image:loc>
-      <image:title>Malaysian Grand Prix 2026 MotoGP rider rankings</image:title>
     </image:image>
   </url>
 </urlset>
