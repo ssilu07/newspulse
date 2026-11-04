@@ -1,5 +1,393 @@
 [
   {
+    "id": "art_1793760178_1",
+    "slug": "how-does-oahu-get-to-an-economically-resilient-100-clean-energy-f",
+    "category": "world",
+    "category_name": "EVs & Clean Mobility",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "CleanTechnica",
+    "raw_title": "How does Oahu get to an economically resilient, 100% clean energy future?",
+    "title": "How does Oahu get to an economically resilient, 100% clean energy future?",
+    "raw_summary": "Oahu is a unique place. It’s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason. Exorbitantly high electricity rates combined with ample natural resources make it an incredible laboratory to bring clean tech solutions to market. Rapid investment for WWII created a grid that was dependent on foreign oil. Path dependency (the idea that “what you know” becomes what you continue to do) hampered innovation and resulted in the creation of infrastructure (multiple power plants across multiple islands) that still, today, burns diesel fuel as large generators, to produce electricity for the island. Throw in a dependence on imported fuels that must come at least 3,000 miles to arrive, being the strategic hub for the entire Pacific theater of the U.S. military, one of the wildest weather years and hurricane seasons the island chain has ever seen AND the state’s economic dependency on tourism dollars, high cost of living, and low wages, and and wow – you’ve got yourself a puzzle and a half to solve in order to get the place to a sustainable future. Analyst Mike Barnard loves a challenge, so he set forth to put together a roadmap to help Oahu get to 100% clean energy , which helps recirculate money in the state, lower costs, create jobs and foster economic resiliency.",
+    "summary": "Oahu is a unique place. It’s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason. Exorbitantly high electricity rates combined with ample natural resources make it an incredible laboratory to bring clean tech solutions to market.",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/03/Adjusted-electrified-Oahu.png",
+    "original_url": "https://cleantechnica.com/2026/11/03/how-does-oahu-get-to-an-economically-resilient-100-clean-energy-future/",
+    "published_at": "2026-11-04T01:47:05+00:00",
+    "time_ago": "55m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Oahu is a unique place. It’s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason. Exorbitantly high electricity rates combined with ample natural resources make it an incredible laboratory to bring clean tech solutions to market. Rapid investment for WWII created a grid that was dependent on foreign oil. Path dependency (the idea that “what you know” becomes what you continue to do) hampered innovation and resulted in the creation of infrastructure (multiple power plants across multiple islands) that still, today, burns diesel fuel as large generators, to produce electricity for the island. Throw in a dependence on imported fuels that must come at least 3,000 miles to arrive, being the strategic hub for the entire Pacific theater of the U.S. military, one of the wildest weather years and hurricane seasons the island chain has ever seen AND the state’s economic dependency on tourism dollars, high cost of living, and low wages, and and wow – you’ve got yourself a puzzle and a half to solve in order to get the place to a sustainable future.",
+      "Analyst Mike Barnard loves a challenge, so he set forth to put together a roadmap to help Oahu get to 100% clean energy , which helps recirculate money in the state, lower costs, create jobs and foster economic resiliency.",
+      "Recently I gave a talk at Hawaii Tech Week in which I summarized this report, added in my own experience running an energy efficiency service that has now greened more than 20,000 homes and is saving Hawaii residents over $10 million a year on their utility bills, and then compiled the new and coming technologies that can help the island get off fossil fuels.",
+      "Mike’s report did something very important. The state’s own reporting and strategy looks at the big picture, a very difficult mountain to climb. Mike looked at that mountain and removed some of the false summits and unachievable viewpoints, resulting in a much more achievable and strategic pathway. What he did was eliminate the things we simply cannot fix right now – long distance flights, maritime bunkering, and military fuels – and tackled the problem of Oahu’s actual energy consumption for its residents. The result was that it was achievable, and there are technologies right now today that can be deployed in what he refers to as a “no regret stack” first and foremost.",
+      "I combined that with my approach, which was to showcase the economic resilience it creates. Case in point, an LED bulb saves so much money on Oahu that it pays for itself in 18 days. Every day after that, it is like change plinking in a piggy bank for the person who put it in. That builds economic resiliency for those who need it most. From LEDs to e-bikes to heat pump water heaters to balcony solar – it all adds up – fast payback periods, and financial independence.",
+      "Mike comes back to the things we simply can’t fix right now and argues that the tech will come – but for the duration of the 2020s and into the 2030s, we should be installing parking lot solar canopies, agrivoltaics, heat pump water heaters, and more."
+    ],
+    "bullet_points": [
+      "Oahu is a unique place.",
+      "It’s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason.",
+      "Exorbitantly high electricity rates combined with ample natural resources make it an incredible laboratory to bring clean tech solutions to market."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "How does Oahu get to an economically resilient, 100% clean energy future?",
+        "badge": "Breaking",
+        "text": "Oahu is a unique place.",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/03/Adjusted-electrified-Oahu.png",
+        "alt": "How does Oahu get to an economically resilient, 100% clean energy future? cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "It’s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason.",
+        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Exorbitantly high electricity rates combined with ample natural resources make it an incredible laboratory to bring clean tech solutions to market.",
+        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "EVs & Clean Mobility",
+        "text": "It’s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 45
+  },
+  {
+    "id": "art_1793760178_2",
+    "slug": "china-truck-sales-now-majority-electric-whats-next",
+    "category": "world",
+    "category_name": "EVs & Clean Mobility",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "CleanTechnica",
+    "raw_title": "China Truck Sales Now Majority Electric. What’s Next?",
+    "title": "China Truck Sales Now Majority Electric. What's Next?",
+    "raw_summary": "EV heavy trucks hit 50.3% market share in China for September, with sales up 34% from a year ago. Long-haul big rig market share hit 64.5%. China is on track to have over 40% EV market share for the entire year, reaching their 2030 goal in a matter of months. This is not the first time China’s heavy truck market share topped 50%, but that previous blip in December last year was prior to subsidies ending, followed by a dip in January. Current sales rates are not bolstered by the subsidy and are now on a much more stable upward trajectory. The speed of EV adoption for heavy trucks in China has recently grown much faster than for cars, having risen from just 13.6% in 2024. When I visited Guangzhou in November of last year and again in April of this year, I noticed a lot more green plates on trucks, indicating that they were electric. It seems that my perception is backed by sales data.",
+    "summary": "EV heavy trucks hit 50.3% market share in China for September, with sales up 34% from a year ago. Long-haul big rig market share hit 64.5%. China is on track to have over 40% EV market share for the entire year, reaching their 2030 goal in a matter of months.",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/f7f62ee4907c9809b921500494b88b19_compress.webp",
+    "original_url": "https://cleantechnica.com/2026/11/03/china-truck-sales-now-majority-electric-whats-next/",
+    "published_at": "2026-11-04T00:38:20+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "EV heavy trucks hit 50.3% market share in China for September, with sales up 34% from a year ago. Long-haul big rig market share hit 64.5%. China is on track to have over 40% EV market share for the entire year, reaching their 2030 goal in a matter of months. This is not the first time China’s heavy truck market share topped 50%, but that previous blip in December last year was prior to subsidies ending, followed by a dip in January. Current sales rates are not bolstered by the subsidy and are now on a much more stable upward trajectory.",
+      "The speed of EV adoption for heavy trucks in China has recently grown much faster than for cars, having risen from just 13.6% in 2024. When I visited Guangzhou in November of last year and again in April of this year, I noticed a lot more green plates on trucks, indicating that they were electric. It seems that my perception is backed by sales data.",
+      "With the addition of LNG trucks, diesel’s share of heavy trucks has dropped to roughly 40%. While LNG sales have also declined with the rate of EV adoption, diesel trucks could soon make up less than 1/3 of sales and decline further from there. China could feasibly double its 2030 goal and hit 80% EV penetration, by which point many diesel models are likely to be discontinued.",
+      "With these levels of market penetration, in addition to retirements, China’s diesel demand is on track to fall by about 230,000 barrels per day this year, despite increased freight movement. Every additional electric truck that replaces a diesel truck then builds on that reduction. Due to their duty cycle, each electric truck sold has a much greater impact on fuel consumption than each car sold. And the price of fuel combined with the duty cycle has a much greater impact on overall truck economics.",
+      "To be clear, these improving results are not due to subsidies, as they appear in the year after subsidies were cut. They are also not due to mandates, as the 2030 goals were met before the ink was dry on their announcement. EV trucks are now more affordable to own and operate than diesel trucks in China. The increase in diesel prices has only increased the cost gap.",
+      "Last year, roughly 90% of all electric truck sales globally were in China. That percentage is set to expand this year, despite rising sales in some other countries. Those sales are simply not rising fast enough outside of China to keep pace with China. In comparison, the EU is looking at 2.5% EV market share this year. China is on pace to average roughly as many electric trucks sold per week as Europe sells per year. The US EV truck market looks like a rounding error in comparison at less than one percent.",
+      "In addition, China has rapidly been building out heavy truck charging infrastructure as part of the 28 million charging facilities planned to be in operation by the end of 2027, up from 21 million last March. This not only focuses on the major cities but also extends into more rural areas that have been slower to adopt electrification. In addition, several companies are building out battery swap stations. While we have yet to see if battery swap or MW+ charging wins in the truck market, expect the competition between the two approaches to be fierce.",
+      "Within Tier 1 cities, I could see a potential phase out of diesel trucks in the near future. Hainan province is already planning to end ICE passenger car sales by 2030 , and I expect that to extend to diesel trucks as well. Although rural areas have been slower to adopt, they also tend to be less wealthy and thus more impacted by the changing economics. If diesel prices stay elevated while charging becomes convenient, many rural businesses will not be able to afford to buy new diesel trucks. With the end of diesel truck sales, strict emissions standards and a potential return of scrappage incentives could take remaining diesel vehicles off the road at an accelerated rate."
+    ],
+    "bullet_points": [
+      "EV heavy trucks hit 50.3% market share in China for September, with sales up 34% from a year ago.",
+      "Long-haul big rig market share hit 64.5%.",
+      "China is on track to have over 40% EV market share for the entire year, reaching their 2030 goal in a matter of months."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "China Truck Sales Now Majority Electric. What's Next?",
+        "badge": "Breaking",
+        "text": "EV heavy trucks hit 50.3% market share in China for September, with sales up 34% from a year ago.",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/f7f62ee4907c9809b921500494b88b19_compress.webp",
+        "alt": "China Truck Sales Now Majority Electric. What's Next? cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Long-haul big rig market share hit 64.5%.",
+        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "China is on track to have over 40% EV market share for the entire year, reaching their 2030 goal in a matter of months.",
+        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "EVs & Clean Mobility",
+        "text": "Long-haul big rig market share hit 64.5%.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 50
+  },
+  {
+    "id": "art_1793760178_5",
+    "slug": "stratos-data-center-will-emit-air-pollution-thats-linked-to-prema",
+    "category": "ai-future",
+    "category_name": "Robo-Taxis & Autonomous",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
+    "category_icon": "🤖",
+    "source": "CleanTechnica",
+    "raw_title": "Stratos Data Center Will Emit Air Pollution That’s Linked to Premature Deaths and Health Economic Damages for Utah & States Downwind",
+    "title": "Stratos Data Center Will Emit Air Pollution That's Linked to Premature Deaths and Health Economic Damages for Utah & States Downwind",
+    "raw_summary": "A new report models emissions from different on-site methane generation power scenarios to show potential impacts on the people of Utah and residents of multiple downwind states. Canadian businessman and television personality “Mr. Wonderful” (aka Kevin O’Leary) and his businesses have proposed the Stratos data center in Box Elder County, Utah, near Salt Lake City, that will be one of the largest data centers in the world, requiring as much as 9 gigawatts (GW) of on-site power from burning methane gas. The Box Elder County Commission approved the project in May— under highly contentious circumstances and under a highly unusual arrangement within a project area created by Utah’s Military Installation Development Authority.",
+    "summary": "A new report models emissions from different on-site methane generation power scenarios to show potential impacts on the people of Utah and residents of multiple downwind states. Canadian businessman and television personality “Mr.",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/Utah-Salt-Lake-City-pexels-stephen-leonardi-scaled.jpg",
+    "original_url": "https://cleantechnica.com/2026/11/03/stratos-data-center-will-emit-air-pollution-thats-linked-to-premature-deaths-and-health-economic-damages-for-utah-states-downwind/",
+    "published_at": "2026-11-04T00:31:10+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "A new report models emissions from different on-site methane generation power scenarios to show potential impacts on the people of Utah and residents of multiple downwind states.",
+      "Canadian businessman and television personality “Mr. Wonderful” (aka Kevin O’Leary) and his businesses have proposed the Stratos data center in Box Elder County, Utah, near Salt Lake City, that will be one of the largest data centers in the world, requiring as much as 9 gigawatts (GW) of on-site power from burning methane gas. The Box Elder County Commission approved the project in May— under highly contentious circumstances and under a highly unusual arrangement within a project area created by Utah’s Military Installation Development Authority.",
+      "A new report prepared by EmPower Analytics Group for NRDC estimates that the air pollution, health harms, and economic damages from the proposed Stratos data center would be substantial: “[a]t the potential 9 GW full build-out, air pollution from Stratos’s methane-gas power generation is estimated to cause approximately 5–45 additional premature deaths and $75–$690 million in health-related economic damages every year.” The report also discusses additional health harms that extend beyond premature deaths and include new asthma cases, nonfatal heart attacks, hospital visits, and lost work and school days.",
+      "These ranges reflect scenarios that model the health harms and economic damage caused by air pollution from two possible methane-gas primary power generating technologies: modern combined-cycle combustion turbines and methane gas–fired reciprocating internal combustion engines (RICE). The primary harmful air pollution consists of tiny soot particles— particulate matter of 2.5 microns or less (PM2.5) —about 30 times smaller than the width of an average human hair.",
+      "The report further finds that over a 30-year period, at the potential 9 GW full build-out, the health and economic harms from this PM2.5 air pollution “could accumulate to approximately 856–1,350 premature deaths and $13.5–$20.7 billion under gas-fired RICE, compared with 145–253 premature deaths and $2.3–$3.8 billion under combined-cycle gas.”",
+      "Of the two methane-gas primary power generation technologies evaluated in the report, one uses a smaller number of large gas combustion turbines, while the RICE scenario reflected electricity generated by many individual engines operating in parallel. Indeed, the RICE scenario is patterned on a methane gas–powered data center with 69 RICE generators that the Utah Division of Air Quality permitted in Millard County in early 2026. RICE generators produce higher emissions than combined-cycle gas at the same generation capacity. Accordingly, the report finds that “[t]he technology used to power Stratos could make a five- to sixfold difference in its estimated health harms.”",
+      "Importantly, the modeled combined-cycle gas scenario does not estimate the emissions from the use of on-site diesel generators for backup power because those plans by Stratos remain unknown. (The report modeled diesel backup generators for the RICE scenario, scaled from the Millard County permit example.) Diesel generators are significantly dirtier than comparably sized methane gas generators, emitting 95 percent more smog-forming nitrogen oxides than an equivalent gas generator as well as 98 percent more non-methane hydrocarbons and 59 percent more carbon monoxide. Harmful PM2.5 emissions will be even higher from any data center employing diesel generators (the scale of that additional pollution would depend on whether they were truly used for “emergency conditions” versus being run more frequently; state permitting parameters for backup diesels is a critical issue for all data center developments).",
+      "The highest concentrations of harmful air pollution from the Stratos data center will occur near the facility in Box Elder County, neighboring areas of northern Utah (including Salt Lake City), and southern Idaho. But the health harms and economic damage from Stratos would extend well beyond these areas: The report finds that more than 80 percent of health harms and health-related economic damages occur outside the state, reaching downwind populations in Colorado, Wyoming, and as far away as Illinois. The report appendix identifies the full list of potentially impacted states."
+    ],
+    "bullet_points": [
+      "A new report models emissions from different on-site methane generation power scenarios to show potential impacts on the people of Utah and residents of multiple downwind states.",
+      "Canadian businessman and television personality “Mr.",
+      "Official reporting verified via CleanTechnica news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Stratos Data Center Will Emit Air Pollution That's Linked to Premature Deaths and Health Economic Damages for Utah & States Downwind",
+        "badge": "Breaking",
+        "text": "A new report models emissions from different on-site methane generation power scenarios to show potential impacts on the people of Utah and residents of multiple downwind states.",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/Utah-Salt-Lake-City-pexels-stephen-leonardi-scaled.jpg",
+        "alt": "Stratos Data Center Will Emit Air Pollution That's Linked to Premature Deaths and Health Economic Damages for Utah & States Downwind cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Canadian businessman and television personality “Mr.",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "A new report models emissions from different on-site methane generation power scenarios to show potential impacts on the people of Utah and residents of multiple downwind states.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Robo-Taxis & Autonomous",
+        "text": "Canadian businessman and television personality “Mr.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 33
+  },
+  {
+    "id": "art_1793760178_6",
+    "slug": "overshoot-demands-a-new-era-of-adaptation-loss-damage-and-climate",
+    "category": "ai-future",
+    "category_name": "Robo-Taxis & Autonomous",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
+    "category_icon": "🤖",
+    "source": "CleanTechnica",
+    "raw_title": "Overshoot Demands a New Era of Adaptation, Loss & Damage, and Climate Justice",
+    "title": "Overshoot Demands a New Era of Adaptation, Loss & Damage, and Climate Justice",
+    "raw_summary": "As the world is on track to exceed 1.5 degrees Celsius of global warming, climate action must double down but also go beyond emissions cuts to prioritize adaptation, respond to loss and damage, and confront growing inequality. For decades, climate policy has been dominated by a central question: How do we avoid exceeding 1.5 degrees Celsius of global warming above preindustrial levels? An overshoot world—where warming exceeds 1.5 degrees Celsius before potentially declining—means more than higher temperatures; it means escalating risks to the communities, ecosystems, and species already bearing the brunt of climate change, with catastrophic consequences for many coastal regions and small island states.",
+    "summary": "As the world is on track to exceed 1.5 degrees Celsius of global warming, climate action must double down but also go beyond emissions cuts to prioritize adaptation, respond to loss and damage, and confront growing inequality. For decades, climate policy has been dominated by a central question: How do we avoid exceeding 1.5 degrees Celsius of global warming above preindustrial levels?",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/climate-destruction-pexels.jpg",
+    "original_url": "https://cleantechnica.com/2026/11/03/overshoot-demands-a-new-era-of-adaptation-loss-damage-and-climate-justice/",
+    "published_at": "2026-11-03T23:56:16+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "As the world is on track to exceed 1.5 degrees Celsius of global warming, climate action must double down but also go beyond emissions cuts to prioritize adaptation, respond to loss and damage, and confront growing inequality.",
+      "For decades, climate policy has been dominated by a central question: How do we avoid exceeding 1.5 degrees Celsius of global warming above preindustrial levels? An overshoot world—where warming exceeds 1.5 degrees Celsius before potentially declining—means more than higher temperatures; it means escalating risks to the communities, ecosystems, and species already bearing the brunt of climate change, with catastrophic consequences for many coastal regions and small island states.",
+      "The United Nations Environment Programme (UNEP) report on climate overshoot challenges us to confront a reality that many policymakers have been reluctant to fully acknowledge: The world will exceed 1.5 degrees Celsius. Decades of insufficient climate action have placed us in this predicament.",
+      "Aggressive emissions reductions can limit how far and for how long global warming exceeds that threshold. However, a future decline in global temperatures would not erase the losses experienced along the way. That reality should sharpen global climate ambition and broaden our understanding of what climate action requires. It is equally important to prepare for and respond to the escalating impacts that communities and ecosystems will experience in the decades between crossing 1.5 degrees Celsius and hopefully returning to a temperature below it.",
+      "One of the UNEP report’s central messages is that mitigation and adaptation are fundamentally intertwined, and both will be essential in navigating an overshoot world. The report also emphasizes the growing need for transformational adaptation : actions that go beyond incremental adjustments to fundamentally reshape systems, institutions, and development pathways in response to escalating climate risks.",
+      "Yet there is an alarming disconnect between the scale of adaptation that is needed and the reality on the ground. Many countries are still struggling to finance and implement basic adaptation measures. Adaptation finance remains grossly inadequate, national adaptation plans are underfunded, and frontline communities continue to lack the resources needed to prepare for worsening risks. The Adaptation Gap Report 2025 estimated adaptation finance needs in developing countries at up to US$365 billion per year by 2035, while international adaptation finance flows from developed countries reached just US$35 billion in 2024 , only around 10 percent of what is needed.",
+      "There is reason for optimism. After decades of advocacy, adaptation is finally receiving greater recognition as a core pillar of climate action. Negotiations on the global goal on adaptation (GGA)—which aims to enhance adaptive capacity, strengthen resilience, and reduce vulnerability—have elevated adaptation within international climate discussions. Initiatives such as the Fostering Investable National Implementation (FINI) are also helping to mobilize public and private investments to scale adaptation efforts.",
+      "What happens when livelihoods—particularly those connected to our food system—become untenable because of chronic drought, extreme heat, or repeated disasters? What happens when infrastructure designed for one climate must function in a dramatically different one; when transit and energy hubs become inoperable due to heat? What happens when fundamental changes in land use become unavoidable, and our forests and farmlands can’t keep up with those changes?"
+    ],
+    "bullet_points": [
+      "As the world is on track to exceed 1.5 degrees Celsius of global warming, climate action must double down but also go beyond emissions cuts to prioritize adaptation, respond to loss and damage, and confront growing inequality.",
+      "For decades, climate policy has been dominated by a central question: How do we avoid exceeding 1.5 degrees Celsius of global warming above preindustrial levels?",
+      "Official reporting verified via CleanTechnica news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Overshoot Demands a New Era of Adaptation, Loss & Damage, and Climate Justice",
+        "badge": "Breaking",
+        "text": "As the world is on track to exceed 1.5 degrees Celsius of global warming, climate action must double down but also go beyond emissions cuts to prioritize adaptation, respond to loss and damage, and confront growing inequality.",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/climate-destruction-pexels.jpg",
+        "alt": "Overshoot Demands a New Era of Adaptation, Loss & Damage, and Climate Justice cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "For decades, climate policy has been dominated by a central question: How do we avoid exceeding 1.5 degrees Celsius of global warming above preindustrial levels?",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "As the world is on track to exceed 1.5 degrees Celsius of global warming, climate action must double down but also go beyond emissions cuts to prioritize adaptation, respond to loss and damage, and confront growing inequality.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Robo-Taxis & Autonomous",
+        "text": "For decades, climate policy has been dominated by a central question: How do we avoid exceeding 1.5 degrees Celsius of global warming above preindustrial levels?",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 62
+  },
+  {
+    "id": "art_1793760178_7",
+    "slug": "if-the-us-department-of-defense-gets-solar-power-why-cant-we",
+    "category": "business",
+    "category_name": "Auto Industry & Deals",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "📈",
+    "source": "CleanTechnica",
+    "raw_title": "If The US Department Of Defense Gets Solar Power, Why Can’t We?",
+    "title": "If The US Department Of Defense Gets Solar Power, Why Can't We?",
+    "raw_summary": "In the topsy-turvy world of today’s federal energy policy, solar power is a bad thing. Various members of the President’s cabinet have advised that solar is “unreliable,” and that solar power plants routinely experience “catastrophic failure” with every sunset . So why does the US Department of Defense continue to pursue solar-enabled microgrids at its facilities? Asking for a friend… Though some solar projects at military facilities are relatively small, they are stamped with the seal of approval from the Defense Department, and that can have an outsized influence on public perceptions about the reliability, security, and durability of photovoltaic systems.",
+    "summary": "In the topsy-turvy world of today’s federal energy policy, solar power is a bad thing. Various members of the President’s cabinet have advised that solar is “unreliable,” and that solar power plants routinely experience “catastrophic failure” with every sunset . So why does the US Department of Defense continue to pursue solar-enabled microgrids at its facilities?",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/Cantsink-solar-at-white-sands-2025.jpeg",
+    "original_url": "https://cleantechnica.com/2026/11/03/us-military-solar-power-microgrid-fortress-america/",
+    "published_at": "2026-11-03T23:29:09+00:00",
+    "time_ago": "3h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "In the topsy-turvy world of today’s federal energy policy, solar power is a bad thing. Various members of the President’s cabinet have advised that solar is “unreliable,” and that solar power plants routinely experience “catastrophic failure” with every sunset . So why does the US Department of Defense continue to pursue solar-enabled microgrids at its facilities? Asking for a friend…",
+      "Though some solar projects at military facilities are relatively small, they are stamped with the seal of approval from the Defense Department, and that can have an outsized influence on public perceptions about the reliability, security, and durability of photovoltaic systems.",
+      "The history-making White Sands Missile Range in New Mexico is a case in point. In February of 2025 the facility celebrated the launch of a new, 700-kilowatt solar array designed and built by the joint venture HSGS-Ameresco.",
+      "At 700 kW, the new array is peanuts compared to the megawatt scale common among modern solar power plants. However, a little can go a long way in some cases, particularly when solar is integrated with other energy resources in a microgrid that can operate independently, without interruption, if the local distribution grid goes down.",
+      "“The innovative microgrid system, which integrates a 700kW solar photovoltaic array, a 500kW natural gas generator, and a 500kW lithium-ion battery system, will provide backup power to four groundwater wells on the range,” Ameresco explained in a press statement last year, in which it described the White Sands project.",
+      "The four wells are the primary source of potable water to the main post at White Sands. The new microgrid meets a US Army requirement for up to 14 days of independent water and power delivery to the post in case of a grid outage.",
+      "“This self-sufficient energy system, designed to serve a specific geographic area, helps ensure that critical missions at WSMR can proceed without interruption,” Ameresco elaborates, adding that the microgrid underscores White Sands’s commitment to building more resilient energy systems into its future construction projects.",
+      "Ameresco also indicated that the now-familiar combineation of solar power and BESS (battery energy storage systems) will do most of the heavy lifting, with the gas generator playing a back-up role if necessary."
+    ],
+    "bullet_points": [
+      "In the topsy-turvy world of today’s federal energy policy, solar power is a bad thing.",
+      "Various members of the President’s cabinet have advised that solar is “unreliable,” and that solar power plants routinely experience “catastrophic failure” with every sunset .",
+      "So why does the US Department of Defense continue to pursue solar-enabled microgrids at its facilities?"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "If The US Department Of Defense Gets Solar Power, Why Can't We?",
+        "badge": "Breaking",
+        "text": "In the topsy-turvy world of today’s federal energy policy, solar power is a bad thing.",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/Cantsink-solar-at-white-sands-2025.jpeg",
+        "alt": "If The US Department Of Defense Gets Solar Power, Why Can't We? cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Various members of the President’s cabinet have advised that solar is “unreliable,” and that solar power plants routinely experience “catastrophic failure” with every sunset .",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "So why does the US Department of Defense continue to pursue solar-enabled microgrids at its facilities?",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Auto Industry & Deals",
+        "text": "Various members of the President’s cabinet have advised that solar is “unreliable,” and that solar power plants routinely experience “catastrophic failure” with every sunset .",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 56
+  },
+  {
     "id": "art_1793748661_10",
     "slug": "herta-gets-another-cadillac-f1-practice-to-earn-superlicence",
     "category": "sports",
@@ -382,6 +770,162 @@
     ],
     "ai_generated": false,
     "word_count": 60
+  },
+  {
+    "id": "art_1793760178_8",
+    "slug": "acura-begins-selling-3000-nsx-restoration-parts-in-the-united-sta",
+    "category": "business",
+    "category_name": "Auto Industry & Deals",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "📈",
+    "source": "Carscoops",
+    "raw_title": "Acura Begins Selling 3,000 NSX Restoration Parts In The United States",
+    "title": "Acura Begins Selling 3,000 NSX Restoration Parts In The United States",
+    "raw_summary": "Why get a new NSX when you can just factory restore the best one? Honda wants to keep as many original NSXs on U.S. roads as possible and has just begun selling more than 3,000 reproduction parts to owners nationwide through the Honda Heritage Parts program . Honda announced the program earlier this year, and it first launched in Japan.",
+    "summary": "Why get a new NSX when you can just factory restore the best one? Honda wants to keep as many original NSXs on U.S. roads as possible and has just begun selling more than 3,000 reproduction parts to owners nationwide through the Honda Heritage Parts program .",
+    "image_url": "https://www.carscoops.com/img/gallery/acura-begins-selling-3000-nsx-restoration-parts-in-the-united-states/l-intro-1793740203.jpg",
+    "original_url": "https://www.carscoops.com/2305957/acura-restoration-parts-nsx/",
+    "published_at": "2026-11-03T21:12:37+00:00",
+    "time_ago": "5h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Why get a new NSX when you can just factory restore the best one?",
+      "Honda wants to keep as many original NSXs on U.S. roads as possible and has just begun selling more than 3,000 reproduction parts to owners nationwide through the Honda Heritage Parts program . Honda announced the program earlier this year, and it first launched in Japan.",
+      "Honda's Heritage Parts program includes two categories. The first is Genuine Honda Reproduction Parts, where parts are reproduced using the same methods and materials as the originals, as is the case with the NSX parts. The second is Honda Compatible Parts, which manufactures newly developed parts to replace original ones. The 1991-2005 NSX is the first model Honda is focusing on with its new parts division, and it's expected to grow to include other models in the future.",
+      "American owners can purchase reproduced parts from Acura dealerships nationwide and through the Honda DreamShop. A dizzying array of parts is available. So, whether you're completely restoring an NSX in your garage or simply need to service it and replace some aging parts, the Japanese car manufacturer has you covered.",
+      "The parts available depend on the specific NSX year, model, trim, and transmission type. For a 1994 NSX with a four-speed automatic transmission, available engine parts include fuel injectors, a new throttle body, exhaust manifold components, an oil cooler, an alternator, clamps, cylinder head covers, camshafts, timing belts, and pretty much anything else you can think of.",
+      "The same goes for the automatic and manual transmissions the NSX was sold with. New transmission cases are available, as are gear shafts, bolts, shift forks, and shift levers. Honda also offers reproduced exhaust parts, radiators, electrical connectors, headlights, taillights, and interior gauges. You can also order reproduced wheels, brakes, and shock absorbers. An abundance of interior trimmings and parts can also be ordered online or through an Acura dealership. Chipped your NSX's original windshield? Honda now sells a genuine replacement. Owners can also order easy service items like spark plugs, wiper blades, fuel pumps, and genuine oil filters.",
+      "\"Honda Heritage Parts was created to help our customers enjoy their classic Acura and Honda performance models, and it's appropriate that we begin with an iconic model like the first-generation Acura NSX,\" executive vice president at American Honda Motor, Mamadou Diallo, commented. \"By supporting our customers in preserving the legacy of the NSX, we're celebrating our shared passion for these iconic sports cars and keeping them on the road for today's enthusiasts and future generations.\"",
+      "It's not just reproduced and new parts that will keep classic NSXs on the roads for years to come. Earlier this year, the Japanese carmaker launched the Honda Restoration Service . It is currently only available in Japan for JDM first-generation NSX models and offers full restoration packages for owners, using the reproduced parts."
+    ],
+    "bullet_points": [
+      "Why get a new NSX when you can just factory restore the best one?",
+      "Honda wants to keep as many original NSXs on U.S.",
+      "roads as possible and has just begun selling more than 3,000 reproduction parts to owners nationwide through the Honda Heritage Parts program ."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Acura Begins Selling 3,000 NSX Restoration Parts In The United States",
+        "badge": "Breaking",
+        "text": "Why get a new NSX when you can just factory restore the best one?",
+        "image": "https://www.carscoops.com/img/gallery/acura-begins-selling-3000-nsx-restoration-parts-in-the-united-states/l-intro-1793740203.jpg",
+        "alt": "Acura Begins Selling 3,000 NSX Restoration Parts In The United States cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Honda wants to keep as many original NSXs on U.S.",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "roads as possible and has just begun selling more than 3,000 reproduction parts to owners nationwide through the Honda Heritage Parts program .",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Auto Industry & Deals",
+        "text": "Honda wants to keep as many original NSXs on U.S.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Carscoops.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 47
+  },
+  {
+    "id": "art_1793760178_11",
+    "slug": "rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas",
+    "category": "sports",
+    "category_name": "Motorsport & F1 Tech",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🏁",
+    "source": "Autosport",
+    "raw_title": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
+    "title": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
+    "raw_summary": "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafa Camara getting an early debut this weekend on home soil. Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman. Reserve driver and Toyota protege Ryo Hirakawa replaced Ocon from Saturday onwards in Mexico, going on to score a point on debut in 10th place. The team has now confirmed Ocon, who is a free agent next year, will not return.",
+    "summary": "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafa Camara getting an early debut this weekend on home soil. Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman.",
+    "image_url": "https://cdn-3.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
+    "original_url": "https://www.autosport.com/f1/news/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/10871378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+    "published_at": "2026-11-03T20:47:12+00:00",
+    "time_ago": "5h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafa Camara getting an early debut this weekend on home soil.",
+      "Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman. Reserve driver and Toyota protege Ryo Hirakawa replaced Ocon from Saturday onwards in Mexico, going on to score a point on debut in 10th place. The team has now confirmed Ocon, who is a free agent next year, will not return.",
+      "\"We have now notified Esteban Ocon that he will not return to a race seat with TGR Haas F1 Team this season,\" Komatsu explained.",
+      "\"Such decisions are never made lightly, as was the case in Mexico City - but then, as now, we feel this is firmly in the best interest of the team moving forward. The conversations that ultimately unfolded between the team and Esteban remain an internal matter, and we will continue to respect the private nature of closed-door situations.\"",
+      "Ferrari junior Camara, who had already been signed by Haas to replace Ocon for 2027, will take the wheel of the VF-26 at Interlagos. The Brazilian, who currently leads the Formula 2 standings and made a stellar impression on Haas in private testing, will have the opportunity to begin his F1 career several months ahead of schedule.",
+      "The final green light came on Tuesday afternoon, although Camara had already been placed on standby during the Mexican Grand Prix weekend following Ocon's sudden removal from the Haas line-up. At the Autodromo Hermanos Rodríguez, the American team fielded Ryo Hirakawa as a temporary replacement while assessing its options for the remaining races of the season.",
+      "It is not yet confirmed whether Camara or Hirakawa will race for the team in the remaining rounds at Las Vegas, Qatar and Abu Dhabi, with it likely being a combination of both drivers.",
+      "Rafa Camara has conducted private testing in older machinery with both Ferrari and Haas."
+    ],
+    "bullet_points": [
+      "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafa Camara getting an early debut this weekend on home soil.",
+      "Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman.",
+      "Official reporting verified via Autosport news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
+        "badge": "Breaking",
+        "text": "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafa Camara getting an early debut this weekend on home soil.",
+        "image": "https://cdn-3.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
+        "alt": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman.",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafa Camara getting an early debut this weekend on home soil.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Motorsport & F1 Tech",
+        "text": "Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Autosport.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 58
   },
   {
     "id": "art_1793748661_11",
@@ -2394,6 +2938,83 @@
     "word_count": 52
   },
   {
+    "id": "art_1793760178_3",
+    "slug": "2027-genesis-gv60-gv60-magma",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Car and Driver",
+    "raw_title": "2027 Genesis GV60 / GV60 Magma",
+    "title": "2027 Genesis GV60 / GV60 Magma",
+    "raw_summary": "See all results for new 2027 Genesis GV60 for sale near 92620 Genesis’s smallest SUV is the electric GV60, which is offered in a variety of flavors from the tame rear-wheel drive base model to the wild, 641-hp Magma performance trim. While the standard model is set up primarily for comfort, the GV60 Magma adds plenty of aggression to the formula.",
+    "summary": "See all results for new 2027 Genesis GV60 for sale near 92620 Genesis’s smallest SUV is the electric GV60, which is offered in a variety of flavors from the tame rear-wheel drive base model to the wild, 641-hp Magma performance trim. While the standard model is set up primarily for comfort, the GV60 Magma adds plenty of aggression to the formula.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/cf4c9165-0362-44b0-a129-cb7e47f40df1.jpg?crop=1xw:0.750187546887xh;center,top&resize=1200:*",
+    "original_url": "https://www.caranddriver.com/genesis/gv60",
+    "published_at": "2026-11-03T15:34:50+00:00",
+    "time_ago": "11h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "See all results for new 2027 Genesis GV60 for sale near 92620",
+      "Genesis’s smallest SUV is the electric GV60, which is offered in a variety of flavors from the tame rear-wheel drive base model to the wild, 641-hp Magma performance trim. While the standard model is set up primarily for comfort, the GV60 Magma adds plenty of aggression to the formula.",
+      "Driving range for the base rear-wheel-drive model is highest in the bunch at 306 miles per charge. Going with all-wheel drive or the Magma trim reduces driving range dramatically, but all models offer quick charging times thanks to a robust 800-volt architecture.",
+      "Expert Tip: Genesis makes it clear that the ultimate goal of the GV60 Magma is to offer a sophisticated take on performance, melded with plenty of luxury rather than rip-your-guts-out performance; if EV ferocity is your sole desire, check out the Ioniq 5 N .",
+      "Compare the 2027 Genesis GV60 with the top vehicles in this segment with our new compare tool.",
+      "The GV60 Magma is a new variant this year, spearheading the GV60’s push into the performance EV class. It replaces last year’s Performance trim. 2027 also sees the introduction of an all-wheel-drive Prestige trim that bridges the gap between the base GV60 model and the new Magma.",
+      "If this year's model is largely unchanged and you're comfortable with a lightly used car, you may want to consider shopping previous model years. A one-to-three-year-old model will likely have a warranty and it'll cost less than buying new."
+    ],
+    "bullet_points": [
+      "See all results for new 2027 Genesis GV60 for sale near 92620 Genesis’s smallest SUV is the electric GV60, which is offered in a variety of flavors from the tame rear-wheel drive base model to the wild, 641-hp Magma performance trim.",
+      "While the standard model is set up primarily for comfort, the GV60 Magma adds plenty of aggression to the formula.",
+      "Official reporting verified via Car and Driver news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "2027 Genesis GV60 / GV60 Magma",
+        "badge": "Breaking",
+        "text": "See all results for new 2027 Genesis GV60 for sale near 92620 Genesis’s smallest SUV is the electric GV60, which is offered in a variety of flavors from the tame rear-wheel drive base model to the wild, 641-hp Magma performance trim.",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/cf4c9165-0362-44b0-a129-cb7e47f40df1.jpg?crop=1xw:0.750187546887xh;center,top&resize=1200:*",
+        "alt": "2027 Genesis GV60 / GV60 Magma cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "While the standard model is set up primarily for comfort, the GV60 Magma adds plenty of aggression to the formula.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "See all results for new 2027 Genesis GV60 for sale near 92620 Genesis’s smallest SUV is the electric GV60, which is offered in a variety of flavors from the tame rear-wheel drive base model to the wild, 641-hp Magma performance trim.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "While the standard model is set up primarily for comfort, the GV60 Magma adds plenty of aggression to the formula.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Car and Driver.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 61
+  },
+  {
     "id": "art_1793726294_1",
     "slug": "zero-motorcycles-unveils-8k-electric-motorcycle-street-legal-dirt",
     "category": "world",
@@ -2862,6 +3483,307 @@
     "word_count": 61
   },
   {
+    "id": "art_1793760178_4",
+    "slug": "genesis-gv60-magma-doesnt-sacrifice-speed-for-faux-shift-fun",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Car and Driver",
+    "raw_title": "Genesis GV60 Magma Doesn’t Sacrifice Speed for Faux-Shift Fun",
+    "title": "Genesis GV60 Magma Doesn't Sacrifice Speed for Faux-Shift Fun",
+    "raw_summary": "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers. We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ). When the Hyundai Ioniq 5 N arrived on the scene back in 2023, it introduced simulated shifting to electric vehicles. We were so enthralled by its combustion-engine cosplay that it played a major part in the 5 N being named our 2024 EV of the Year . As fun as it is to bang through gears in a vehicle without an engine, our testing proved that the 5 N’s acceleration times significantly suffered in “N e-Shift” mode compared with its standard drive mode. Like the Ioniq 5 N, the new Genesis GV60 Magma—the luxury brand’s first entry in its performance-focused Magma sub-brand—features a “Virtual Gear Shift” mode that mimics the sensations of an eight-speed dual-clutch automatic paired to an internal-combustion engine. But this time, it doesn’t come at a performance cost.",
+    "summary": "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers. We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ). When the Hyundai Ioniq 5 N arrived on the scene back in 2023, it introduced simulated shifting to electric vehicles.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/0a08e9c0-ecd2-466a-bab6-3e96ae2a8098.jpg",
+    "original_url": "https://www.caranddriver.com/news/a74287501/2027-genesis-gv60-magma-faux-shift-acceleration-test/",
+    "published_at": "2026-11-03T14:51:45+00:00",
+    "time_ago": "11h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers. We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ).",
+      "When the Hyundai Ioniq 5 N arrived on the scene back in 2023, it introduced simulated shifting to electric vehicles. We were so enthralled by its combustion-engine cosplay that it played a major part in the 5 N being named our 2024 EV of the Year . As fun as it is to bang through gears in a vehicle without an engine, our testing proved that the 5 N’s acceleration times significantly suffered in “N e-Shift” mode compared with its standard drive mode. Like the Ioniq 5 N, the new Genesis GV60 Magma—the luxury brand’s first entry in its performance-focused Magma sub-brand—features a “Virtual Gear Shift” mode that mimics the sensations of an eight-speed dual-clutch automatic paired to an internal-combustion engine. But this time, it doesn’t come at a performance cost.",
+      "See all results for new 2027 Genesis GV60 Magma for sale near 94112",
+      "Beneath the surface, the Ioniq 5 N and the GV60 Magma feature nearly identical hardware. Both are built on Hyundai Motor Group's E-GMP electric vehicle platform, feature a dual-motor all-wheel drive powertrain that produces up to 641 horsepower, make use of an 84-kWh battery pack, and both roll on 275/35R-21 Pirelli P Zero Elect tires, although the Magma gets newer PZ5-spec rubber versus the Ioniq 5 N’s PZ4 Pirellis. Besides the GV60 Magma’s nearly four-inch-shorter wheelbase and 91-pound-heavier curb weight, the differences between the pair are primarily software-related or matters of styling and design.",
+      "Some of those discrepancies are superficial—the 5 N’s faux-engine soundtrack mimics a 7750-rpm inline-four while the Magma’s aural signature is based on a 9000-rpm V-6, for example—but others have an impact on performance. Both models can only access their max power output with a time-limited Boost mode, and while the Hyundai can maintain its 641-hp peak in 10-second bursts, the Genesis can continue at full tilt in 15-second increments. That longer duration of peak output allows the Magma to walk away from the 5 N as they approach their Vmax—for example, the Genesis beats the Hyundai to 150 mph by almost two seconds—but otherwise the two were bumper-to-bumper up to 120 mph. The real delta between the Hyundai and Genesis’s straight-line capabilities only surfaces once both are switched into their simulated-shift drive modes.",
+      "See all results for new 2027 Genesis GV60 Magma for sale near 94112",
+      "The last time we had an Ioniq 5 N at our test track , we performed two separate acceleration runs, once without N e-Shift and once with it activated. Importantly, N e-Shift mode disables the 5 N’s N Grin Boost and launch-control features, essentially robbing it of 40 horsepower and an optimized start, so we conducted the first run without launch control to even the playing field a bit. Still, the 5 N proved to be significantly quicker when it wasn’t hammering through make-believe gears, silently rocketing to 60 mph in 3.1 seconds, reaching 100 mph in 7.2 seconds, and crossing the quarter-mile marker in 11.3 seconds. With N e-Shift activated, it took the Ioniq 5 N 3.5 seconds to reach 60 mph (a four-tenth increase), 8.3 seconds to hit 100 mph (a whopping 1.1 seconds slower than in its standard drive mode), and 11.8 seconds to clear the quarter-mile (five-tenths behind our non-N e-Shift run).",
+      "When we conducted the same experiment in the GV60 Magma, we got very different results. During our testing, the Magma achieved nearly identical acceleration figures regardless of its drive mode. In both of its runs, the Genesis managed a 3.0-second sprint to 60 mph, a 6.8-second dash to 100 mph, and a quarter-mile time of 11.0 seconds. (The 0.1-second difference between our reported quarter-mile time of 11.1 seconds for the Magma and the 11.0-second figure quoted here is that, in this case, we were comparing two runs in the same direction, while all of our official acceleration figures are an average of a run in each direction.)"
+    ],
+    "bullet_points": [
+      "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers.",
+      "We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ).",
+      "When the Hyundai Ioniq 5 N arrived on the scene back in 2023, it introduced simulated shifting to electric vehicles."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Genesis GV60 Magma Doesn't Sacrifice Speed for Faux-Shift Fun",
+        "badge": "Breaking",
+        "text": "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers.",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/0a08e9c0-ecd2-466a-bab6-3e96ae2a8098.jpg",
+        "alt": "Genesis GV60 Magma Doesn't Sacrifice Speed for Faux-Shift Fun cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ).",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "When the Hyundai Ioniq 5 N arrived on the scene back in 2023, it introduced simulated shifting to electric vehicles.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ).",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Car and Driver.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 63
+  },
+  {
+    "id": "art_1793760178_9",
+    "slug": "what-recessionmobile-should-automakers-build",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "What Recessionmobile Should Automakers Build?",
+    "title": "What Recessionmobile Should Automakers Build?",
+    "raw_summary": "Folks, it certainly feels like there's a recession right around the corner. The AI stocks are tumbling , nothing else in the economy is doing anything, we're teetering on the edge of an auto debt crisis — things are bad. But, no matter how broke we all get, we all still have to get to work. That brings us to the topic of today's question: What recession-mobiles should automakers start building? A good recessionmobile should be practical, reliable, and most importantly economical. Think the Cruze and Focus of the post-recession era, cars that just get you from point A to poitn B without pretending to do anything more. We've all got places to get to, and we all want to do that for as little cash as possible — especially with fuel prices where they are. What should automakers start designing now, so they're ready to hit the market with new cost-effective products when everything hits the fan?",
+    "summary": "Folks, it certainly feels like there's a recession right around the corner. The AI stocks are tumbling , nothing else in the economy is doing anything, we're teetering on the edge of an auto debt crisis — things are bad. But, no matter how broke we all get, we all still have to get to work.",
+    "image_url": "https://www.jalopnik.com/img/gallery/what-recessionmobile-should-automakers-build/l-intro-1793712143.jpg",
+    "original_url": "https://www.jalopnik.com/2305112/what-recessionmobile-automakers-build-reader-question/",
+    "published_at": "2026-11-03T14:25:00+00:00",
+    "time_ago": "12h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Folks, it certainly feels like there's a recession right around the corner. The AI stocks are tumbling , nothing else in the economy is doing anything, we're teetering on the edge of an auto debt crisis — things are bad. But, no matter how broke we all get, we all still have to get to work. That brings us to the topic of today's question: What recession-mobiles should automakers start building?",
+      "A good recessionmobile should be practical, reliable, and most importantly economical. Think the Cruze and Focus of the post-recession era, cars that just get you from point A to poitn B without pretending to do anything more. We've all got places to get to, and we all want to do that for as little cash as possible — especially with fuel prices where they are. What should automakers start designing now, so they're ready to hit the market with new cost-effective products when everything hits the fan?",
+      "I think, for this try at a recession, we've got to give it up on the whole idea of four-wheeled transportation. We've tried it, and cars are just too much to move around for the one or two people aboard. Plus, when we're all broke, we won't exactly be making Costco hauls — who needs all the cargo space of a Traverse? The Honda Cub is the vehicle we all need, but other companies should try their hand at it too. Give us a Suzuki, a Triumph, a Toyota version of tiny, efficient transportation.",
+      "I think more companies should make Super Cubs for the recession, but what do you think? Leave your responses in the comments below, and I'll pick my favorites out later this week. Bonus points for some real in-depth reasoning as to why you think your pick would be the ideal vehicle for getting us all through the next once-in-a-lifetime financial crisis."
+    ],
+    "bullet_points": [
+      "Folks, it certainly feels like there's a recession right around the corner.",
+      "The AI stocks are tumbling , nothing else in the economy is doing anything, we're teetering on the edge of an auto debt crisis — things are bad.",
+      "But, no matter how broke we all get, we all still have to get to work."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "What Recessionmobile Should Automakers Build?",
+        "badge": "Breaking",
+        "text": "Folks, it certainly feels like there's a recession right around the corner.",
+        "image": "https://www.jalopnik.com/img/gallery/what-recessionmobile-should-automakers-build/l-intro-1793712143.jpg",
+        "alt": "What Recessionmobile Should Automakers Build? cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The AI stocks are tumbling , nothing else in the economy is doing anything, we're teetering on the edge of an auto debt crisis — things are bad.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "But, no matter how broke we all get, we all still have to get to work.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "The AI stocks are tumbling , nothing else in the economy is doing anything, we're teetering on the edge of an auto debt crisis — things are bad.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 56
+  },
+  {
+    "id": "art_1793760178_12",
+    "slug": "view-interior-photos-of-the-2027-genesis-gv60-magma",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Car and Driver",
+    "raw_title": "View Interior Photos of the 2027 Genesis GV60 Magma",
+    "title": "First Look Inside: The 2027 Genesis GV60 Magma Cabin",
+    "raw_summary": "The Magma has several special touches to distinguish it from the regular GV60. This Magma button is actually a dial, which scrolls through the different drive modes.",
+    "summary": "The Magma has several special touches to distinguish it from the regular GV60. This Magma button is actually a dial, which scrolls through the different drive modes.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/0e04a721-1420-4b64-a287-6dce728984c7.jpg",
+    "original_url": "https://www.caranddriver.com/photos/a74249801/2027-genesis-gv60-magma-test-interior-gallery/",
+    "published_at": "2026-11-03T14:24:49+00:00",
+    "time_ago": "12h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "The Magma has several special touches to distinguish it from the regular GV60.",
+      "This Magma button is actually a dial, which scrolls through the different drive modes.",
+      "Pushing the Boost button actives Boost mode, a 15-second burst of maximum motor output, although simply flooring the accelerator does the same thing.",
+      "See all results for all Genesis GV60 Magma for sale near 92620"
+    ],
+    "bullet_points": [
+      "The Magma has several special touches to distinguish it from the regular GV60.",
+      "This Magma button is actually a dial, which scrolls through the different drive modes.",
+      "Official reporting verified via Car and Driver news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "First Look Inside: The 2027 Genesis GV60 Magma Cabin",
+        "badge": "Breaking",
+        "text": "The Magma has several special touches to distinguish it from the regular GV60.",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/0e04a721-1420-4b64-a287-6dce728984c7.jpg",
+        "alt": "First Look Inside: The 2027 Genesis GV60 Magma Cabin cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "This Magma button is actually a dial, which scrolls through the different drive modes.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The Magma has several special touches to distinguish it from the regular GV60.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "This Magma button is actually a dial, which scrolls through the different drive modes.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Car and Driver.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 27
+  },
+  {
+    "id": "art_1793760178_13",
+    "slug": "view-exterior-photos-of-the-2027-genesis-gv60-magma",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Car and Driver",
+    "raw_title": "View Exterior Photos of the 2027 Genesis GV60 Magma",
+    "title": "First Look: Aggressive Exterior Styling Of The 2027 Genesis GV60 Magma",
+    "raw_summary": "The Magma is the red-hot—or make that orange-hot—version of the GV60 EV. The 641-hp GV60 Magma is the Genesis brand’s take on the Hyundai Ioniq 5 N.",
+    "summary": "The Magma is the red-hot—or make that orange-hot—version of the GV60 EV. The 641-hp GV60 Magma is the Genesis brand’s take on the Hyundai Ioniq 5 N.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/7d9e4551-1d20-48df-8f73-f266764d046d.jpg",
+    "original_url": "https://www.caranddriver.com/photos/a74249775/2027-genesis-gv60-magma-test-exterior-gallery/",
+    "published_at": "2026-11-03T14:24:46+00:00",
+    "time_ago": "12h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "The Magma is the red-hot—or make that orange-hot—version of the GV60 EV.",
+      "The 641-hp GV60 Magma is the Genesis brand’s take on the Hyundai Ioniq 5 N.",
+      "Like the Ioniq 5 N, the GV60 Magma streaks to 60 mph in 3.0 seconds.",
+      "We can’t help seeing devil’s horns in the upturned ends of the rear spoiler.",
+      "See all results for all Genesis GV60 Magma for sale near 82001"
+    ],
+    "bullet_points": [
+      "The Magma is the red-hot—or make that orange-hot—version of the GV60 EV.",
+      "The 641-hp GV60 Magma is the Genesis brand’s take on the Hyundai Ioniq 5 N.",
+      "Official reporting verified via Car and Driver news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "First Look: Aggressive Exterior Styling Of The 2027 Genesis GV60 Magma",
+        "badge": "Breaking",
+        "text": "The Magma is the red-hot—or make that orange-hot—version of the GV60 EV.",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/7d9e4551-1d20-48df-8f73-f266764d046d.jpg",
+        "alt": "First Look: Aggressive Exterior Styling Of The 2027 Genesis GV60 Magma cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The 641-hp GV60 Magma is the Genesis brand’s take on the Hyundai Ioniq 5 N.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The Magma is the red-hot—or make that orange-hot—version of the GV60 EV.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "The 641-hp GV60 Magma is the Genesis brand’s take on the Hyundai Ioniq 5 N.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Car and Driver.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 27
+  },
+  {
     "id": "art_1793726294_8",
     "slug": "tesla-wins-trade-zone-status-for-texas-megapacks-but-china-tariff",
     "category": "business",
@@ -3016,6 +3938,84 @@
     ],
     "ai_generated": false,
     "word_count": 66
+  },
+  {
+    "id": "art_1793760178_10",
+    "slug": "hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-be",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "Hyundai's XRT Off-Road Division Is On The Right Path But A Step Behind",
+    "title": "Hyundai's XRT Off-Road Division Is On The Right Path But A Step Behind",
+    "raw_summary": "There's nothing more in vogue right now than automakers soft-roader-ing their crossovers for weekend warrior types who enjoy a bit of camping or a dirt road every once in a while. Honda has TrailSport, Subaru has Wilderness, Toyota has TRD, GMC has AT4, and so on and so forth. Of course one of the largest automakers in the U.S. would want to get in on the action, so Hyundai spun up its own off-road sub-brand a few years back: XRT, which stands for Extreme Rugged Terrain. What started out as more of a trim and appearance package on vehicles like the first-gen Palisade and fourth-gen Tucson and Santa Fe has evolved into offering styling changes with a bit of added capability when the going gets bumpy. With the introduction of Hyundai's XRT Pro trim on the Palisade and upcoming fifth-gen Tucson , that idea gets taken up another notch. However, after spending a day with both the 2026 Santa Fe XRT and 2026 Palisade XRT Pro off-roading in rural Missouri, I'm not totally sure Hyundai is all the way there yet. That's not to say the Korean automaker isn't on the right path and won't keep improving expeditiously, but as it stands right now, it may be just a step or two behind.",
+    "summary": "There's nothing more in vogue right now than automakers soft-roader-ing their crossovers for weekend warrior types who enjoy a bit of camping or a dirt road every once in a while. Honda has TrailSport, Subaru has Wilderness, Toyota has TRD, GMC has AT4, and so on and so forth.",
+    "image_url": "https://www.jalopnik.com/img/gallery/hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-behind/l-intro-1793648151.jpg",
+    "original_url": "https://www.jalopnik.com/2304547/2026-hyundai-santa-fe-xrt-palisade-xrt-pro-off-roading-review/",
+    "published_at": "2026-11-03T14:00:00+00:00",
+    "time_ago": "12h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "There's nothing more in vogue right now than automakers soft-roader-ing their crossovers for weekend warrior types who enjoy a bit of camping or a dirt road every once in a while. Honda has TrailSport, Subaru has Wilderness, Toyota has TRD, GMC has AT4, and so on and so forth. Of course one of the largest automakers in the U.S. would want to get in on the action, so Hyundai spun up its own off-road sub-brand a few years back: XRT, which stands for Extreme Rugged Terrain.",
+      "What started out as more of a trim and appearance package on vehicles like the first-gen Palisade and fourth-gen Tucson and Santa Fe has evolved into offering styling changes with a bit of added capability when the going gets bumpy. With the introduction of Hyundai's XRT Pro trim on the Palisade and upcoming fifth-gen Tucson , that idea gets taken up another notch. However, after spending a day with both the 2026 Santa Fe XRT and 2026 Palisade XRT Pro off-roading in rural Missouri, I'm not totally sure Hyundai is all the way there yet. That's not to say the Korean automaker isn't on the right path and won't keep improving expeditiously, but as it stands right now, it may be just a step or two behind.",
+      "Full Disclosure: Hyundai flew me out to Bentonville, Arkansas, put me up in a very nice hotel and fed me, all so I could sample the 2026 Santa Fe XRT and 2026 Palisade XRT Pro.",
+      "It can be sort of tricky to evaluate the capability of a soft-roader like Hyundai's XRT fleet. Technically, both the Palisade XRT Pro and Santa Fe XRT were able to do everything that was thrown at them on this program, but they both lacked a bit of the sure-footedness I just experienced in Honda's Passport TrailSport , and that was on a far more technical and challenging course. That being said, what I did with the XRT siblings is probably 10 times as grueling as what the average Hyundai owner will do with their SUVs. There's also the issue of tires. While the Passport TrailSport is fitted with beefy General Grabber A/T Sport all-terrain rubber, the Santa Fe XRT makes do with less-aggressive Continental TerrainContact A/Ts, which leads to a good bit of wheel slippage.",
+      "Still, both XRTs do an admirable job of tackling trails, though rock crawlers they are not. The Palisade XRT Pro I drove was certainly the more capable of the two, thanks to its electronic limited-slip differential in the rear and a 360-degree camera that helped overcome its sheer size, but it never felt particularly at home, even if it did tackle every obstacle without much protest.",
+      "I say much protest because, while the car didn't get stuck at any point, the 4,575-pound crossover didn't exactly seem happy, and that especially goes for its Hyundai-built 8-speed transmission. While the naturally aspirated 3.5-liter V6 provided enough power (287 horsepower and 260 pound-feet of torque) to get up just about anything despite a lack of low-end oomph, I could tell that the 8-speed was none too pleased. I couldn't hear it on the road, but when switching to the Sand setting in its Trail drive mode, there was a noticeable whine coming from it on the throttle. A temperature readout in the gauge cluster also served as a constant reminder it was, uh, hot, and when I got out of the car, there was an unmistakable smell of hot transmission wafting through the air. From a functional standpoint, the XRT Pro didn't skip a beat, which is certainly a testament to the rest of the Palisade's drivetrain and its 8.4 inches of ground clearance; it bottomed out far less than I expected it to.",
+      "It's a similar story with the Santa Fe XRT. It may lack the e-LSD and all-out grunt of the Palisade , but it does make up for that somewhat with more low-end grunt courtesy of a torquey turbocharged 2.5-liter inline-4 that pumps out 277 hp and 311 lb-ft of torque. This drivetrain lent itself far better to the old-school way of getting yourself unstuck: give 'er some gas. Sure, there are 10 fewer horses than the Palisade's V6, but an extra 51 torques is massive.",
+      "Still, you can tell the Santa Fe is a far less luxury-oriented product than the Palisade , and I got bumped around a hell of a lot more than I did in the Palisade. Obviously, there's a price delta to consider, as the Santa Fe XRT starts at $43,940 including destination, and the Palisade XRT Pro has a far more costly $51,820 entrance price."
+    ],
+    "bullet_points": [
+      "There's nothing more in vogue right now than automakers soft-roader-ing their crossovers for weekend warrior types who enjoy a bit of camping or a dirt road every once in a while.",
+      "Honda has TrailSport, Subaru has Wilderness, Toyota has TRD, GMC has AT4, and so on and so forth.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Hyundai's XRT Off-Road Division Is On The Right Path But A Step Behind",
+        "badge": "Breaking",
+        "text": "There's nothing more in vogue right now than automakers soft-roader-ing their crossovers for weekend warrior types who enjoy a bit of camping or a dirt road every once in a while.",
+        "image": "https://www.jalopnik.com/img/gallery/hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-behind/l-intro-1793648151.jpg",
+        "alt": "Hyundai's XRT Off-Road Division Is On The Right Path But A Step Behind cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Honda has TrailSport, Subaru has Wilderness, Toyota has TRD, GMC has AT4, and so on and so forth.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "There's nothing more in vogue right now than automakers soft-roader-ing their crossovers for weekend warrior types who enjoy a bit of camping or a dirt road every once in a while.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "Honda has TrailSport, Subaru has Wilderness, Toyota has TRD, GMC has AT4, and so on and so forth.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 49
   },
   {
     "id": "art_1793748661_6",
@@ -10514,1012 +11514,5 @@
     ],
     "ai_generated": false,
     "word_count": 64
-  },
-  {
-    "id": "art_1793584171_7",
-    "slug": "boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phan",
-    "category": "entertainment",
-    "category_name": "Car Culture & Restomods",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-    "category_icon": "🎬",
-    "source": "Jalopnik",
-    "raw_title": "Boeing Once Developed A Vehicle For The Navy Called, Adorably, 'Phantom Badger'",
-    "title": "Boeing Once Developed A Vehicle For The Navy Called, Adorably, 'Phantom Badger",
-    "raw_summary": "Sometimes, people will give serious things unserious names. A velvet ant, for example, may sound like a tiny critter that's covered in the sort of material you'd find in an old Land Rover's interior, but it actually has one of the most painful stings in the animal kingdom. Then there's the panhandle hooker: though it sounds like a questionably frisky profession, it actually refers to a dangerous storm that develops in the panhandles of Texas and Oklahoma. Or how about the Phantom Badger? We'd have thought it was a mischievous weasel that has a mask-like face, but no. It's actually the name of a military vehicle that was built by Boeing, in partnership with MSI Defense Solutions, starting in 2013. The Phantom Badger was designed to assist U.S. Marine and Air Force squads with a variety of tasks, including, but not limited to, casualty evacuation, reconnaissance missions, and search and rescue.",
-    "summary": "Sometimes, people will give serious things unserious names. A velvet ant, for example, may sound like a tiny critter that's covered in the sort of material you'd find in an old Land Rover's interior, but it actually has one of the most painful stings in the animal kingdom.",
-    "image_url": "https://www.jalopnik.com/img/gallery/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phantom-badger/l-intro-1793131447.jpg",
-    "original_url": "https://www.jalopnik.com/2298930/boeing-developed-navy-vehicle-phantom-badger/",
-    "published_at": "2026-11-01T23:05:00+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Sometimes, people will give serious things unserious names. A velvet ant, for example, may sound like a tiny critter that's covered in the sort of material you'd find in an old Land Rover's interior, but it actually has one of the most painful stings in the animal kingdom. Then there's the panhandle hooker: though it sounds like a questionably frisky profession, it actually refers to a dangerous storm that develops in the panhandles of Texas and Oklahoma.",
-      "Or how about the Phantom Badger? We'd have thought it was a mischievous weasel that has a mask-like face, but no. It's actually the name of a military vehicle that was built by Boeing, in partnership with MSI Defense Solutions, starting in 2013. The Phantom Badger was designed to assist U.S. Marine and Air Force squads with a variety of tasks, including, but not limited to, casualty evacuation, reconnaissance missions, and search and rescue.",
-      "This versatility is owed to its modular rear section, which allows the Phantom Badger to be quickly repurposed for different roles. It was also built to be easily transported in a Bell-Boeing V-22 Osprey, which is a popular aircraft used by the military.",
-      "The Phantom Badger's unclear fate makes exploring its specs even more interesting. While the Navy certified that the Phantom Badger could be transported inside a V-22, the vehicle was not selected for the U.S. Special Operations Command contract it was designed for. Records appear to show no evidence of the Phantom Badger being mass-produced for widespread military service.",
-      "As you might be led to believe, the Phantom Badger isn't powered by earthworms and vegetation. Instead, it uses a 3.0-liter multi-fuel V6 turbocharged engine producing up to 240 horsepower and 420 pound-feet of torque. Though we don't really know its 0-60 mph time, we can confirm it hit a maximum of 80 mph on paved surfaces. Its fuel tank is also big enough to provide around 450 miles of range, returning an estimated fuel economy of 21 miles per gallon.",
-      "In truth, those are respectable figures. Obviously, it's not quite as fast as a Ford GT Mk IV, the fastest American car to lap the Nürburgring , nor as comfortable as the Rolls-Royce Spectre Series II . But can either of those skip through waters up to three feet deep? We think not. Thanks to the Phantom Badger's height-adjustable suspension and 35-inch tires, not even a mountain of badgers wearing actual phantom masks could stop it.",
-      "It is both shorter than a Tesla Model S (180 inches versus 197 inches) and narrower (60 inches versus 86 inches). Now, we're not saying this thing will handle like an Integra R-swapped, left-hand drive Series 1 Lotus Elise , but its turning radius is solid at 24 feet. Staying true to its military makings, it weighs in at a beastly 7,850 pounds and boasts a 3,356-pound maximum payload.",
-      "The Phantom Badger has room for five soldiers: two at the front, two at the rear, and one in the middle. Plus, since it's an open-top vehicle, passengers aren't lacking headroom. Let's not forget that the Phantom Badger can hold a 12.7mm machine gun or a 40mm grenade launcher on its weapon mount. The rear hull sits between a pair of swivel stations too, so there are extra places for machine guns up to 7.62mm. Could the infamous honey badger have met its match with the Phantom Badger?"
-    ],
-    "bullet_points": [
-      "Sometimes, people will give serious things unserious names.",
-      "A velvet ant, for example, may sound like a tiny critter that's covered in the sort of material you'd find in an old Land Rover's interior, but it actually has one of the most painful stings in the animal kingdom.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Boeing Once Developed A Vehicle For The Navy Called, Adorably, 'Phantom Badger",
-        "badge": "Breaking",
-        "text": "Sometimes, people will give serious things unserious names.",
-        "image": "https://www.jalopnik.com/img/gallery/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phantom-badger/l-intro-1793131447.jpg",
-        "alt": "Boeing Once Developed A Vehicle For The Navy Called, Adorably, 'Phantom Badger cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "A velvet ant, for example, may sound like a tiny critter that's covered in the sort of material you'd find in an old Land Rover's interior, but it actually has one of the most painful stings in the animal kingdom.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Sometimes, people will give serious things unserious names.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Car Culture & Restomods",
-        "text": "A velvet ant, for example, may sound like a tiny critter that's covered in the sort of material you'd find in an old Land Rover's interior, but it actually has one of the most painful stings in the animal kingdom.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 48
-  },
-  {
-    "id": "art_1793571116_7",
-    "slug": "bottas-escapes-injury-in-race-stopping-crash",
-    "category": "sports",
-    "category_name": "Motorsport & F1 Tech",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🏁",
-    "source": "The Race",
-    "raw_title": "Bottas escapes injury in race-stopping crash",
-    "title": "Bottas escapes injury in race-stopping crash",
-    "raw_summary": "Valtteri Bottas has been released from the medical centre having had precautionary checks following a crash that caused Formula 1's Mexican Grand Prix to be red-flagged. The left front suspension on Bottas's Cadillac dramatically failed as he approached Turn 1 on lap 45 of the 71-lap race, sending him spinning backwards into the barriers.",
-    "summary": "Valtteri Bottas has been released from the medical centre having had precautionary checks following a crash that caused Formula 1's Mexican Grand Prix to be red-flagged. The left front suspension on Bottas's Cadillac dramatically failed as he approached Turn 1 on lap 45 of the 71-lap race, sending him spinning backwards into the barriers.",
-    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449680_HiRes.jpg",
-    "original_url": "https://www.the-race.com/formula-1/bottas-taken-for-medical-checks-after-race-stopping-crash/",
-    "published_at": "2026-11-01T22:08:00+00:00",
-    "time_ago": "4m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Valtteri Bottas has been released from the medical centre having had precautionary checks following a crash that caused Formula 1's Mexican Grand Prix to be red-flagged.",
-      "The left front suspension on Bottas's Cadillac dramatically failed as he approached Turn 1 on lap 45 of the 71-lap race, sending him spinning backwards into the barriers.",
-      "The race was stopped for the barriers to be repaired, with the medical team also spending a long time talking to Bottas in the cockpit before he eventually emerged and walked away unaided.",
-      "Onboard with Valtteri Bottas for a sizeable crash at Turn 1 😱💥 He is out of the car and ok #F1 #MexicoGP pic.twitter.com/XLqppzQCnL",
-      "An initial Cadillac statement said Bottas was \"responsive\" on team radio and was going to the medical centre for \"further medical assessments as a precaution\". Shortly afterwards the team issued an update saying he \"has been released and is OK\" but would miss post-race media duties.",
-      "Asked on team radio if he was OK as the crash unfolded, Bottas replied \"no. F**k!\"."
-    ],
-    "bullet_points": [
-      "Valtteri Bottas has been released from the medical centre having had precautionary checks following a crash that caused Formula 1's Mexican Grand Prix to be red-flagged.",
-      "The left front suspension on Bottas's Cadillac dramatically failed as he approached Turn 1 on lap 45 of the 71-lap race, sending him spinning backwards into the barriers.",
-      "Official reporting verified via The Race news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Bottas escapes injury in race-stopping crash",
-        "badge": "Breaking",
-        "text": "Valtteri Bottas has been released from the medical centre having had precautionary checks following a crash that caused Formula 1's Mexican Grand Prix to be red-flagged.",
-        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449680_HiRes.jpg",
-        "alt": "Bottas escapes injury in race-stopping crash cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The left front suspension on Bottas's Cadillac dramatically failed as he approached Turn 1 on lap 45 of the 71-lap race, sending him spinning backwards into the barriers.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Valtteri Bottas has been released from the medical centre having had precautionary checks following a crash that caused Formula 1's Mexican Grand Prix to be red-flagged.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Motorsport & F1 Tech",
-        "text": "The left front suspension on Bottas's Cadillac dramatically failed as he approached Turn 1 on lap 45 of the 71-lap race, sending him spinning backwards into the barriers.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from The Race.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 54
-  },
-  {
-    "id": "art_1793571116_4",
-    "slug": "steve-mcqueens-ferrari-275-nart-spider-is-heading-to-auction-so-s",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Jalopnik",
-    "raw_title": "Steve McQueen's Ferrari 275 NART Spider Is Heading To Auction, So Start Saving Your Nickels",
-    "title": "Steve McQueen's Ferrari 275 NART Spider Is Heading To Auction, So Start Saving Your Nickels",
-    "raw_summary": "Many celebrities and cultural icons claim to love cars and their engineering, but they don't know the first thing about either. McQueen, though, was different. Dubbed the \"King of Cool,\" McQueen was a hugely talented presence on-screen and unquestionably suave off it. He also had a genuine appreciation for cars and motorcycles. McQueen competed in various levels of motorsport throughout his years and was once even a road tester for Sports Illustrated. As you can imagine, his personal garage was pretty insane, with five vehicles selling for over $1 million at major auction houses.",
-    "summary": "Many celebrities and cultural icons claim to love cars and their engineering, but they don't know the first thing about either. Dubbed the \"King of Cool,\" McQueen was a hugely talented presence on-screen and unquestionably suave off it. He also had a genuine appreciation for cars and motorcycles.",
-    "image_url": "https://www.jalopnik.com/img/gallery/steve-mcqueens-ferrari-275-nart-spider-is-heading-to-auction-so-start-saving-your-nickels/l-intro-1793124448.jpg",
-    "original_url": "https://www.jalopnik.com/2298699/steve-mcqueen-ferrari-275-nart-spider-gooding-christies-auction/",
-    "published_at": "2026-11-01T22:05:00+00:00",
-    "time_ago": "6m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Many celebrities and cultural icons claim to love cars and their engineering, but they don't know the first thing about either. McQueen, though, was different.",
-      "Dubbed the \"King of Cool,\" McQueen was a hugely talented presence on-screen and unquestionably suave off it. He also had a genuine appreciation for cars and motorcycles. McQueen competed in various levels of motorsport throughout his years and was once even a road tester for Sports Illustrated. As you can imagine, his personal garage was pretty insane, with five vehicles selling for over $1 million at major auction houses.",
-      "One of McQueen's cars, his old Ferrari 275 GTB/4*S NART Spider, is heading to auction at Gooding Christie's upcoming New York event, which takes place from November 20 to 21 at the Javits Center in Midtown Manhattan. The Spider is projected to sell for anywhere between $15 million and $20 million, which actually isn't so insane considering the most expensive car ever sold at $143 million .",
-      "Ferrari built 10 examples of the NART Spider, and this car, number six, is one of only two finished in 'Blu Sera' (Evening Blue). McQueen purchased it sometime in 1967 and made several modifications soon after, including a darker metallic blue paint finish and reupholstered seat patterns. He also added a smaller motorsport-esque rearview mirror and a quick-fill gas cap, among other things.",
-      "It was already a true one-of-one car, but following an accident along the Pacific Coast Highway, which badly damaged the front and rear, McQueen saw further opportunity to customize. He took the car to famed automotive restorer and master painter, Hershel Conway of Junior's House of Color, who flared the fenders a little further and added the 'flip tail' upward-facing rear spoiler.",
-      "Oh, and if you're wondering about performance at this point, this diminutive drop-top beauty has around 300 hp in stock form courtesy of a 3.3-liter V12. That's the Ferrari 'Colombo' V12, to be specific, which is considered by many as one of the best engines of all time . If you get the changes right on the five-speed manual shifter, you'll hit 60 mph in just 6.7 seconds and pass a quarter-mile in 14.7 seconds. Remember: this car is almost six decades old.",
-      "McQueen sold the Spider in 1971 to designer, inventor, machinist, and amateur racer J. David Kopf, who sold it to NYC's Ferrari specialist, Grand Prix SSR, in 1985. There, the team reverted the Spider to its original Blu Sera paint and completed any other vital work necessary before it found a new home with collector and tech businessman Anthony Wang. It has been with him ever since, and is believed to have only been showcased twice — once in 1996, and another time in 2003.",
-      "This car has reached mythical status, given its rarity, history, and condition. We fully expect it to reach the estimated auction price, and then some. McQueen's Porsche 917K from \"Le Mans\" was previously sold for ... a lot of money, as did the 1926 Excelsior Super X motorcycle he used to ride around his ranch . So, what's stopping this one from landing an eye-watering hammer price? After all, who doesn't want such a significant piece of automotive history floating around their home?"
-    ],
-    "bullet_points": [
-      "Many celebrities and cultural icons claim to love cars and their engineering, but they don't know the first thing about either.",
-      "Dubbed the \"King of Cool,\" McQueen was a hugely talented presence on-screen and unquestionably suave off it.",
-      "He also had a genuine appreciation for cars and motorcycles."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Steve McQueen's Ferrari 275 NART Spider Is Heading To Auction, So Start Saving Your Nickels",
-        "badge": "Breaking",
-        "text": "Many celebrities and cultural icons claim to love cars and their engineering, but they don't know the first thing about either.",
-        "image": "https://www.jalopnik.com/img/gallery/steve-mcqueens-ferrari-275-nart-spider-is-heading-to-auction-so-start-saving-your-nickels/l-intro-1793124448.jpg",
-        "alt": "Steve McQueen's Ferrari 275 NART Spider Is Heading To Auction, So Start Saving Your Nickels cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Dubbed the \"King of Cool,\" McQueen was a hugely talented presence on-screen and unquestionably suave off it.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "He also had a genuine appreciation for cars and motorcycles.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "Dubbed the \"King of Cool,\" McQueen was a hugely talented presence on-screen and unquestionably suave off it.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 48
-  },
-  {
-    "id": "art_1793571116_5",
-    "slug": "corvette-skidpad-grip-ranked-best-to-worst-across-generations",
-    "category": "trending",
-    "category_name": "Viral Drives & Concepts",
-    "category_color": "#f43f5e",
-    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
-    "category_icon": "🔥",
-    "source": "Jalopnik",
-    "raw_title": "Corvette Skidpad Grip Ranked Best To Worst Across Generations",
-    "title": "Corvette Skidpad Grip Ranked Best To Worst Across Generations",
-    "raw_summary": "The Chevrolet Corvette has been Detroit's answer to the European sports car for more than seventy years. Since 1953, it has gone through eight distinct generations. The idea behind the Corvette came from Harley Earl, former head of design at General Motors, who envisioned an affordable two-seat roadster that could stand beside the imports returning stateside with World War II veterans. The first Corvette shipped with a six-cylinder engine, and it was Zora Arkus-Duntov (later nicknamed the \" Father of the Corvette \") who pushed the car towards the V8 power it would become known for. From there, the Corvette never stopped evolving. The front-engine layout that defined the nameplate for decades was finally abandoned when the eighth generation arrived with its engine behind the driver, a change that purists argued about — and the stopwatch quietly settled. What makes the Corvette so interesting is that it has always been judged by two audiences. One cares about straight-line muscle and badge pride. The other, which is usually more critical, cares about how a car handles when the road bends. And for a car built to take on Porsche, Jaguar, and Ferrari, that second audience matters just as much as the first — if not more.",
-    "summary": "The Chevrolet Corvette has been Detroit's answer to the European sports car for more than seventy years. Since 1953, it has gone through eight distinct generations. The idea behind the Corvette came from Harley Earl, former head of design at General Motors, who envisioned an affordable two-seat roadster that could stand beside the imports returning stateside with World War II veterans.",
-    "image_url": "https://www.jalopnik.com/img/gallery/corvette-skidpad-grip-ranked-best-to-worst-across-generations/l-intro-1793309980.jpg",
-    "original_url": "https://www.jalopnik.com/2301787/chevrolet-corvette-skidpad-grip-ranked-best-to-worst/",
-    "published_at": "2026-11-01T21:45:00+00:00",
-    "time_ago": "27m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "The Chevrolet Corvette has been Detroit's answer to the European sports car for more than seventy years. Since 1953, it has gone through eight distinct generations. The idea behind the Corvette came from Harley Earl, former head of design at General Motors, who envisioned an affordable two-seat roadster that could stand beside the imports returning stateside with World War II veterans. The first Corvette shipped with a six-cylinder engine, and it was Zora Arkus-Duntov (later nicknamed the \" Father of the Corvette \") who pushed the car towards the V8 power it would become known for.",
-      "From there, the Corvette never stopped evolving. The front-engine layout that defined the nameplate for decades was finally abandoned when the eighth generation arrived with its engine behind the driver, a change that purists argued about — and the stopwatch quietly settled. What makes the Corvette so interesting is that it has always been judged by two audiences. One cares about straight-line muscle and badge pride. The other, which is usually more critical, cares about how a car handles when the road bends. And for a car built to take on Porsche, Jaguar, and Ferrari, that second audience matters just as much as the first — if not more.",
-      "That is where skidpad grip comes in. Measured in g-force, it shows how hard a car can corner before the tires let go of the road. This measurement largely sidesteps horsepower and driver skill (as you'll see throughout this article), instead mostly being affected by tires, suspension, and chassis balance. To keep the numbers easier to digest, this article leans on Car and Driver 's skidpad, which is 300 feet across in its modern tests and 200 feet in older ones. Other testers will be relied on only where necessary.",
-      "In terms of available and credible test results online, the C7 is where the front-engine Corvette actually peaked. On Car and Driver's 300-foot skidpad, the 2015 Z06 with the Z07 package \"scorched the skidpad with 1.19 g.\" At the time, no production car had logged a higher figure on that pad. The Z06 also managed to stop in 128 feet from 70 mph to 0, cross the quarter mile in just 11 seconds at 126 mph, and do a 0 to 60 mph run in just 2.9 seconds.",
-      "Behind that number sat a supercharged 6.2-liter V8 rated at 650 horsepower, as well as Michelin Pilot Sport Cup 2 ZP tires. Weight-wise, the car itself is rated at 3,558 pounds. Car and Driver also posted impressive numbers with the 2017 Corvette Grand Sport, which managed to hold 1.18 g even with 190 fewer horsepower than the Z06, showing how engine strength doesn't matter as much as other factors for grip. Braking from 70 mph took 129 feet, the quarter-mile took 12.2 seconds, and 60 mph arrived in 3.8 seconds. And the Grand Sport is only slightly lighter than the Z06, tipping the scales at 3,452 pounds.",
-      "Interestingly, the Z06's 1.19 g is also higher than anything the C8 posted in Car and Driver's tests. Even the 1,064-horsepower 2025 Chevrolet Corvette ZR1 managed a curiously low 1.13 g. In other words, the C7 Z06's 1.19 g is a measurement that no other Corvette generation could match.",
-      "The mid-engine C8 had every reason to beat the C7 here. It is the newer car, it has the newer rubber, and it has more horsepower across the board. The Z06's 5.5-liter flat-plane-crank V8 makes 670 horsepower, and the Z07 package has the car riding on Michelin Pilot Sport Cup 2 R tires. But on Car and Driver 's 300-foot skidpad, the Z07-equipped Z06 recorded 1.16 g. Chevrolet's own number for the car was 1.22 g, and Car and Driver noted that this result was \"well below the company's estimate.\" The publication later explained that the Z07's tires had been inflated to the door-placard pressure rather than Chevrolet's lower track recommendation, potentially limiting its measured grip.",
-      "Regardless, even if we look at the rest of the lineup, the C8 failed to match the C7 in Car and Driver's tests. The non-Z07 version of the Z06 convertible hit 1.12 g, and the Stingray reached just 1.03 g. Later Car and Driver tests didn't move the number; as mentioned, the ZR1 reached 1.13 g, while the 1,250-horsepower ZR1X came in at 1.15 g. That leaves the C8 0.03 g behind the C7 Z06's result in Car and Driver's testing."
-    ],
-    "bullet_points": [
-      "The Chevrolet Corvette has been Detroit's answer to the European sports car for more than seventy years.",
-      "Since 1953, it has gone through eight distinct generations.",
-      "The idea behind the Corvette came from Harley Earl, former head of design at General Motors, who envisioned an affordable two-seat roadster that could stand beside the imports returning stateside with World War II veterans."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Corvette Skidpad Grip Ranked Best To Worst Across Generations",
-        "badge": "Breaking",
-        "text": "The Chevrolet Corvette has been Detroit's answer to the European sports car for more than seventy years.",
-        "image": "https://www.jalopnik.com/img/gallery/corvette-skidpad-grip-ranked-best-to-worst-across-generations/l-intro-1793309980.jpg",
-        "alt": "Corvette Skidpad Grip Ranked Best To Worst Across Generations cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Since 1953, it has gone through eight distinct generations.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The idea behind the Corvette came from Harley Earl, former head of design at General Motors, who envisioned an affordable two-seat roadster that could stand beside the imports returning stateside with World War II veterans.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Viral Drives & Concepts",
-        "text": "Since 1953, it has gone through eight distinct generations.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 61
-  },
-  {
-    "id": "art_1793571116_8",
-    "slug": "fia-explains-controversial-leclerc-penalty-decision",
-    "category": "sports",
-    "category_name": "Motorsport & F1 Tech",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🏁",
-    "source": "The Race",
-    "raw_title": "FIA explains controversial Leclerc penalty decision",
-    "title": "FIA explains controversial Leclerc penalty decision",
-    "raw_summary": "The FIA Formula 1 stewards have explained why Charles Leclerc was only given a five-second penalty for cutting the track and passing Lewis Hamilton for the lead of the Mexico Grand Prix on the opening lap. The Ferrari team-mates were duelling for the front spot from the start, having already gone side by side through the opening sequence of corners when Leclerc made a move on the outside of Turn 4.",
-    "summary": "The FIA Formula 1 stewards have explained why Charles Leclerc was only given a five-second penalty for cutting the track and passing Lewis Hamilton for the lead of the Mexico Grand Prix on the opening lap. The Ferrari team-mates were duelling for the front spot from the start, having already gone side by side through the opening sequence of corners when Leclerc made a move on the outside of Turn 4.",
-    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450160_HiRes.jpg",
-    "original_url": "https://www.the-race.com/formula-1/fia-explains-controversial-leclerc-penalty-decision/",
-    "published_at": "2026-11-01T21:30:46+00:00",
-    "time_ago": "41m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "The FIA Formula 1 stewards have explained why Charles Leclerc was only given a five-second penalty for cutting the track and passing Lewis Hamilton for the lead of the Mexico Grand Prix on the opening lap.",
-      "The Ferrari team-mates were duelling for the front spot from the start, having already gone side by side through the opening sequence of corners when Leclerc made a move on the outside of Turn 4.",
-      "Both drivers braked as late as possible, with Leclerc running wide and cutting across the grass before rejoining at the front after Turn 5.",
-      "Behind him Hamilton, in his attempt to defend by braking late, had run slightly wide - costing him momentum which allowed the pursuing Max Verstappen to make a move and snatch second spot.",
-      "This area of the track was, like the first corners, subject to a special rule to avoid shenanigans on opening laps of drivers cutting across the grass to gain positions.",
-      "In a note sent to teams ahead of the race, following discussions in the drivers' briefing, the FIA said: \"Any car leaving the track in these areas and maintaining a position to a car or cars within close proximity behind (as determined by the stewards) may be considered as gaining a lasting advantage, unless such position is yielded by Turn 4 [in the case of a car leaving the track in the area of Turns 1 to 3], or by Turn 12 [in the case of a car leaving the track in the area of Turns 4 to 6.]”",
-      "With Leclerc having not given up the place to Hamilton, he was therefore put under investigation for gaining an advantage – and it was decided that he would get a five-second penalty.",
-      "That proved controversial though with Hamilton in particular feeling that, with the advantage that Leclerc gained from having clean air which allowed him to build up a buffer, the sanction should have been the standard 10 seconds."
-    ],
-    "bullet_points": [
-      "The FIA Formula 1 stewards have explained why Charles Leclerc was only given a five-second penalty for cutting the track and passing Lewis Hamilton for the lead of the Mexico Grand Prix on the opening lap.",
-      "The Ferrari team-mates were duelling for the front spot from the start, having already gone side by side through the opening sequence of corners when Leclerc made a move on the outside of Turn 4.",
-      "Official reporting verified via The Race news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "FIA explains controversial Leclerc penalty decision",
-        "badge": "Breaking",
-        "text": "The FIA Formula 1 stewards have explained why Charles Leclerc was only given a five-second penalty for cutting the track and passing Lewis Hamilton for the lead of the Mexico Grand Prix on the opening lap.",
-        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450160_HiRes.jpg",
-        "alt": "FIA explains controversial Leclerc penalty decision cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The Ferrari team-mates were duelling for the front spot from the start, having already gone side by side through the opening sequence of corners when Leclerc made a move on the outside of Turn 4.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The FIA Formula 1 stewards have explained why Charles Leclerc was only given a five-second penalty for cutting the track and passing Lewis Hamilton for the lead of the Mexico Grand Prix on the opening lap.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Motorsport & F1 Tech",
-        "text": "The Ferrari team-mates were duelling for the front spot from the start, having already gone side by side through the opening sequence of corners when Leclerc made a move on the outside of Turn 4.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from The Race.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 71
-  },
-  {
-    "id": "art_1793571116_6",
-    "slug": "dodge-entered-the-us-compact-truck-market-late-with-a-rebadged-mi",
-    "category": "trending",
-    "category_name": "Viral Drives & Concepts",
-    "category_color": "#f43f5e",
-    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
-    "category_icon": "🔥",
-    "source": "Jalopnik",
-    "raw_title": "Dodge Entered The US Compact Truck Market Late With A Rebadged Mitsubishi Forte",
-    "title": "Dodge Entered The US Compact Truck Market Late With A Rebadged Mitsubishi Forte",
-    "raw_summary": "Heading into the 1960s, Detroit's Big Three had begun to realize some folks preferred cars that were more agile and more efficient than the typically massive machines they were producing. Their response was to introduce a wave of home-grown compacts in 1960, led by GM's Chevrolet Corvair, the Chrysler Valiant, and the Ford Falcon. On the truck side of the ledger, though, things played out differently. Datsun had been exporting compact trucks to the West Coast since the first half of the 1960s, with Toyota following soon after. The Big Three at the time offered car-based trucks like the Corvair forward-control models and the Falcon-based ute-style Ranchero, but they didn't look like the real deal the way the Japanese mini-trucks did. So when the mini-truck segment began taking off, the U.S. automakers went straight to the easiest option. Ford rebadged Mazda's B-series truck to sell as the Courier for 1972. The same year saw GM give that treatment to the Isuzu Faster, with the result being the Chevy LUV — a truck way ahead of its time .",
-    "summary": "Heading into the 1960s, Detroit's Big Three had begun to realize some folks preferred cars that were more agile and more efficient than the typically massive machines they were producing. Their response was to introduce a wave of home-grown compacts in 1960, led by GM's Chevrolet Corvair, the Chrysler Valiant, and the Ford Falcon.",
-    "image_url": "https://www.jalopnik.com/img/gallery/dodge-entered-the-us-compact-truck-market-late-with-a-rebadged-mitsubishi-forte/l-intro-1793115271.jpg",
-    "original_url": "https://www.jalopnik.com/2298355/dodge-ram-50-compact-truck-rebadged-mitsubishi-forte/",
-    "published_at": "2026-11-01T21:05:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Heading into the 1960s, Detroit's Big Three had begun to realize some folks preferred cars that were more agile and more efficient than the typically massive machines they were producing. Their response was to introduce a wave of home-grown compacts in 1960, led by GM's Chevrolet Corvair, the Chrysler Valiant, and the Ford Falcon.",
-      "On the truck side of the ledger, though, things played out differently. Datsun had been exporting compact trucks to the West Coast since the first half of the 1960s, with Toyota following soon after. The Big Three at the time offered car-based trucks like the Corvair forward-control models and the Falcon-based ute-style Ranchero, but they didn't look like the real deal the way the Japanese mini-trucks did. So when the mini-truck segment began taking off, the U.S. automakers went straight to the easiest option. Ford rebadged Mazda's B-series truck to sell as the Courier for 1972. The same year saw GM give that treatment to the Isuzu Faster, with the result being the Chevy LUV — a truck way ahead of its time .",
-      "As a result, the Courier and LUV, and their Japanese-branded rivals, were in the right place at the right time when the fuel crises of 1970s hit, starting in 1973. Chrysler's entry, though, was way behind. Based on the Mitsubishi Forte, the Dodge D-50 didn't debut until 1979, some seven years after the Courier and LUV. (To be clear, the D-50 would be renamed the Dodge Ram 50 in 1981, and Mitsubishi's Forte is unrelated to Kia's former compact sedan of the same name.)",
-      "Unlike today, compact pickups of the past were literally compact. So the 1979 Dodge D-50 pickup had a slightly smaller footprint than a 2026 Honda Civic sedan. The D-50 is 184.6 inches in length and 65 inches wide, while the Civic is 0.2 inches longer and 5.9 inches wider. As for a modern \"compact\" pickup, the Ford Maverick is 15.2 inches longer, 7.6 inches wider, and 8 inches taller.",
-      "The D-50's power train was likewise fairly small. The standard mill was a 2.0-liter overhead-cam inline-4 capable of 93 horsepower and 108 pound-feet of torque, and it was paired with a four-speed manual transmission. For the D-50 Sport, a 2.6-liter I4 with 105 horses and 139 lb-ft was standard with a five-speed automatic with overdrive. A three-speed automatic was optional with both versions.",
-      "More impressive was the D-50's maximum payload of 1,400 pounds. By 1981, when the D-50's payload rating reached 1,525 pounds, it could out-carry the '26 Maverick, which has a 1,500-pound payload.",
-      "The year 1981 further marked two other milestones for the Dodge. The first was a marketing change. Ram and Dodge aren't the same brand anymore , having split up in 2009, but they were still connected at the time. And in 1981, when Chrysler was readying its new truck lineup for the year, the decision was made to add the Ram name to the roster – transforming its compact into the Dodge Ram 50. The next year saw the Ram 50 welcome its first 4x4 configuration, complete with another new marketing move that positioned the truck as the Power Ram 50. The truck even offered a diesel power plant from 1983 to 1985.",
-      "The Dodge Ram 50 would go on to get a second generation in 1987, and that model would remain in production until 1994. Yet not only wasn't it the smallest Dodge pickup ever produced, it wasn't even the smallest Dodge pickup of its era. That honor goes to the Dodge Rampage."
-    ],
-    "bullet_points": [
-      "Heading into the 1960s, Detroit's Big Three had begun to realize some folks preferred cars that were more agile and more efficient than the typically massive machines they were producing.",
-      "Their response was to introduce a wave of home-grown compacts in 1960, led by GM's Chevrolet Corvair, the Chrysler Valiant, and the Ford Falcon.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Dodge Entered The US Compact Truck Market Late With A Rebadged Mitsubishi Forte",
-        "badge": "Breaking",
-        "text": "Heading into the 1960s, Detroit's Big Three had begun to realize some folks preferred cars that were more agile and more efficient than the typically massive machines they were producing.",
-        "image": "https://www.jalopnik.com/img/gallery/dodge-entered-the-us-compact-truck-market-late-with-a-rebadged-mitsubishi-forte/l-intro-1793115271.jpg",
-        "alt": "Dodge Entered The US Compact Truck Market Late With A Rebadged Mitsubishi Forte cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Their response was to introduce a wave of home-grown compacts in 1960, led by GM's Chevrolet Corvair, the Chrysler Valiant, and the Ford Falcon.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Heading into the 1960s, Detroit's Big Three had begun to realize some folks preferred cars that were more agile and more efficient than the typically massive machines they were producing.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Viral Drives & Concepts",
-        "text": "Their response was to introduce a wave of home-grown compacts in 1960, led by GM's Chevrolet Corvair, the Chrysler Valiant, and the Ford Falcon.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 54
-  },
-  {
-    "id": "art_1793571116_3",
-    "slug": "what-the-e-on-a-manual-gear-shift-means-and-when-to-use-it",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Carscoops",
-    "raw_title": "What The 'E' On A Manual Gear Shift Means (And When To Use It)",
-    "title": "What The 'E' On A Manual Gear Shift Means (And When To Use It)",
-    "raw_summary": "Long before our cars got fancy drive mode selectors, trick cylinder deactivation tech, and varying levels of hybrid assistance , automakers had to get creative with their engineering approach to satisfy the tightening fuel economy standards that arrived during the oil crisis of the late '70s and early '80s. Volkswagen's solution was a special manual gearbox design where the final shift gate was marked with a capital 'E'. The '3+E' and '4+E' setups found in the original VW Golf , Jetta, and the U.S.-spec Rabbit models had nothing to do with electrification. Many drivers at the time understandably assumed that the letter stood for 'Economy' or an 'Extra' gear. However, Volkswagen documents confirm that the magic word is 'Efficiency'. Rather than being a new designation for the fourth or fifth gears, the 'E' slot engaged an overdrive designed to lower engine speeds, minimize wear, and improve the fuel economy ratings at highway speeds.",
-    "summary": "Long before our cars got fancy drive mode selectors, trick cylinder deactivation tech, and varying levels of hybrid assistance , automakers had to get creative with their engineering approach to satisfy the tightening fuel economy standards that arrived during the oil crisis of the late '70s and early '80s.",
-    "image_url": "https://www.carscoops.com/img/gallery/what-the-e-on-a-manual-gear-shift-means-and-when-to-use-it/l-intro-1793118816.jpg",
-    "original_url": "https://www.carscoops.com/2298486/e-on-manual-gearshift-meaning/",
-    "published_at": "2026-11-01T21:00:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Long before our cars got fancy drive mode selectors, trick cylinder deactivation tech, and varying levels of hybrid assistance , automakers had to get creative with their engineering approach to satisfy the tightening fuel economy standards that arrived during the oil crisis of the late '70s and early '80s. Volkswagen's solution was a special manual gearbox design where the final shift gate was marked with a capital 'E'.",
-      "The '3+E' and '4+E' setups found in the original VW Golf , Jetta, and the U.S.-spec Rabbit models had nothing to do with electrification. Many drivers at the time understandably assumed that the letter stood for 'Economy' or an 'Extra' gear. However, Volkswagen documents confirm that the magic word is 'Efficiency'. Rather than being a new designation for the fourth or fifth gears, the 'E' slot engaged an overdrive designed to lower engine speeds, minimize wear, and improve the fuel economy ratings at highway speeds.",
-      "The concept of overdrive wasn't new. Earlier British and European cars often relied on external electro-hydraulic units like the Laycock de Normanville system, which bolted onto the back of a conventional gearbox and was triggered by a dash switch or column stalk. Volkswagen's approach was different, integrating the tall overdrive ratio directly inside the transaxle's gear casing of its front-wheel-drive platform, and putting control on the manual shift lever. The '3+E' gearbox of the 1981 VW Rabbit LS was effectively a four-speed casing with wider spacing.",
-      "First, second, and third gears covered roughly 90% of all urban and B-road driving scenarios, while the 'E' gear was ideal for highway use thanks to its 0.70:1 overdrive ratio, running through a 3.89:1 final drive. While not a fuel economy record-breaking car by modern standards, when slipping the Rabbit into 'E', engine revs dropped to 2,500 rpm at 60 mph, boosting fuel efficiency from 24 mpg on the older four-speed up to 28 mpg, with highway figures reaching 42 mpg. However, this gear was best for holding a certain speed, meaning that drivers had to downshift in order to gain access to the full engine power.",
-      "In Europe, Volkswagen went a step further by introducing a special trim known as 'Formula E' (Formel E in German) across its entire lineup between 1981 and 1985. Not to be confused with modern battery-powered Formula E race cars , VW's system was instead focused on improving efficiency. It was available in the Polo, Golf, Jetta, Scirocco, Passat, and Santana, as well as the Audi 80 and 100 of the same era. The '4+E' transmission was combined with subtle aerodynamic tweaks and an early form of driver coaching.",
-      "An electro-vacuum computer monitored engine load against RPM and illuminated an amber arrow on the instrument cluster signaling the driver to upshift for optimum efficiency. After 1985, the introduction of electronic multi-point fuel injection, variable valve timing, and standardized five- and six-speed manual transmissions rendered these '3+E' and '4+E' setups obsolete. Engineers found ways to achieve superior real-world fuel economy without compromising drivability or forcing drivers to navigate massive gear gaps."
-    ],
-    "bullet_points": [
-      "Long before our cars got fancy drive mode selectors, trick cylinder deactivation tech, and varying levels of hybrid assistance , automakers had to get creative with their engineering approach to satisfy the tightening fuel economy standards that arrived during the oil crisis of the late '70s and early '80s.",
-      "Details monitored as developments unfold.",
-      "Verified coverage from Carscoops."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "What The 'E' On A Manual Gear Shift Means (And When To Use It)",
-        "badge": "Breaking",
-        "text": "Long before our cars got fancy drive mode selectors, trick cylinder deactivation tech, and varying levels of hybrid assistance , automakers had to get creative with their engineering approach to satisfy the tightening fuel economy standards that arrived during the oil crisis of the late '70s and early '80s.",
-        "image": "https://www.carscoops.com/img/gallery/what-the-e-on-a-manual-gear-shift-means-and-when-to-use-it/l-intro-1793118816.jpg",
-        "alt": "What The 'E' On A Manual Gear Shift Means (And When To Use It) cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Long before our cars got fancy drive mode selectors, trick cylinder deactivation tech, and varying levels of hybrid assistance , automakers had to get creative with their engineering approach to satisfy the tightening fuel economy standards that arrived during the oil crisis of the late '70s and early '80s.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Long before our cars got fancy drive mode selectors, trick cylinder deactivation tech, and varying levels of hybrid assistance , automakers had to get creative with their engineering approach to satisfy the tightening fuel economy standards that arrived during the oil crisis of the late '70s and early '80s.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "Public updates continue.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Carscoops.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 49
-  },
-  {
-    "id": "art_1793571116_2",
-    "slug": "batteries-beat-norways-hydrogen-bulk-carriers-on-cost-in-two-mode",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "CleanTechnica",
-    "raw_title": "Batteries Beat Norway’s Hydrogen Bulk Carriers on Cost in Two Modeled Routes",
-    "title": "Batteries Beat Norway's Hydrogen Bulk Carriers on Cost in Two Modeled Routes",
-    "raw_summary": "Norwegian shipping company GMI Group is moving ahead with four hydrogen-electric bulk carriers for coastal freight. In October 2026, PowerCell confirmed a follow-up order that brings the program to 24 marine fuel-cell units with 5.4 MW of combined installed capacity. The first two ships, rated at 4,000 deadweight tonnes, are planned for 2027, while two additional 3,000-tonne vessels are expected in 2029. The project has real shipbuilding commitments and substantial public support. The question is whether hydrogen makes economic sense for the freight services these vessels will provide.",
-    "summary": "Norwegian shipping company GMI Group is moving ahead with four hydrogen-electric bulk carriers for coastal freight. In October 2026, PowerCell confirmed a follow-up order that brings the program to 24 marine fuel-cell units with 5.4 MW of combined installed capacity. The first two ships, rated at 4,000 deadweight tonnes, are planned for 2027, while two additional 3,000-tonne vessels are expected in 2029.",
-    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/GMI_Hero_From_Published_Briefing_1600x900.png",
-    "original_url": "https://cleantechnica.com/2026/11/01/norway-hydrogen-bulk-carriers-battery-cost-test/",
-    "published_at": "2026-11-01T20:52:23+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Norwegian shipping company GMI Group is moving ahead with four hydrogen-electric bulk carriers for coastal freight. In October 2026, PowerCell confirmed a follow-up order that brings the program to 24 marine fuel-cell units with 5.4 MW of combined installed capacity. The first two ships, rated at 4,000 deadweight tonnes, are planned for 2027, while two additional 3,000-tonne vessels are expected in 2029.",
-      "The project has real shipbuilding commitments and substantial public support. The question is whether hydrogen makes economic sense for the freight services these vessels will provide.",
-      "GMI says its design can deliver lifetime costs 9–10% below conventional ships. Its argument combines fuel cells, batteries, an efficient hull and wind assistance. Those are useful engineering features, but most are not exclusive to hydrogen propulsion. A diesel or battery-electric ship can have a similarly efficient hull and sails. The fuel and energy systems still need to be compared on equivalent terms.",
-      "I modeled two hypothetical 3,000-tonne coastal bulk services, covering 80 and 55 nautical miles, using comparable hull performance and operating requirements. Over fifteen years, hydrogen propulsion came out 50–58% more expensive than conventional diesel, even after assuming approximately €13.1 million in public vessel support was received upfront. Battery-electric alternatives were €11.64–14.13 million cheaper than the subsidized hydrogen vessels. These are scenario results, not estimates of GMI’s actual operating contracts.",
-      "The company has not published the route and commercial data needed for a direct assessment, and the model’s vessel acquisition prices remain important uncertainties. The battery alternatives were not the cheapest option under every assumption. In the central cases they cost somewhat more than diesel over fifteen years. Their advantage was the much smaller gap to conventional operation compared with hydrogen. Battery-electric propulsion also requires adequate grid connections, charging equipment and berth time, which cannot be assumed available at every Norwegian port.",
-      "Hydrogen has a different set of requirements. Renewable electricity must be converted into hydrogen, compressed, stored, delivered to the vessel and converted back to electricity in fuel cells. Those additional processes introduce energy losses and capital costs that efficient hulls and sails cannot erase. They matter particularly for short coastal voyages where a practical charging arrangement may be possible.",
-      "Norway is using substantial public funding to support the hydrogen ships. Norsk Hydrogenforum reports Enova awards totaling roughly €42.9 million for the four vessels. Additional public support has been awarded to GreenH hydrogen production projects. Announced grants are not necessarily fully paid, and a subsidy changes the allocation of costs rather than eliminating the equipment and energy required.",
-      "There may be coastal services where voyage length, available berth time or grid limitations favour hydrogen over batteries. That needs to be established through engineering and commercial comparisons, rather than inferred from the existence of a funded shipbuilding program."
-    ],
-    "bullet_points": [
-      "Norwegian shipping company GMI Group is moving ahead with four hydrogen-electric bulk carriers for coastal freight.",
-      "In October 2026, PowerCell confirmed a follow-up order that brings the program to 24 marine fuel-cell units with 5.4 MW of combined installed capacity.",
-      "The first two ships, rated at 4,000 deadweight tonnes, are planned for 2027, while two additional 3,000-tonne vessels are expected in 2029."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Batteries Beat Norway's Hydrogen Bulk Carriers on Cost in Two Modeled Routes",
-        "badge": "Breaking",
-        "text": "Norwegian shipping company GMI Group is moving ahead with four hydrogen-electric bulk carriers for coastal freight.",
-        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/GMI_Hero_From_Published_Briefing_1600x900.png",
-        "alt": "Batteries Beat Norway's Hydrogen Bulk Carriers on Cost in Two Modeled Routes cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "In October 2026, PowerCell confirmed a follow-up order that brings the program to 24 marine fuel-cell units with 5.4 MW of combined installed capacity.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The first two ships, rated at 4,000 deadweight tonnes, are planned for 2027, while two additional 3,000-tonne vessels are expected in 2029.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "In October 2026, PowerCell confirmed a follow-up order that brings the program to 24 marine fuel-cell units with 5.4 MW of combined installed capacity.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from CleanTechnica.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 62
-  },
-  {
-    "id": "art_1793571116_9",
-    "slug": "hackers-figured-out-how-flock-camera-systems-actually-work-by-pul",
-    "category": "entertainment",
-    "category_name": "Car Culture & Restomods",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-    "category_icon": "🎬",
-    "source": "Jalopnik",
-    "raw_title": "Hackers Figured Out How Flock Camera Systems Actually Work By Pulling One Apart",
-    "title": "Hackers Figured Out How Flock Camera Systems Actually Work By Pulling One Apart",
-    "raw_summary": "If you've ever wondered exactly how easy it is to hack Flock cameras , the results are in, and it seems they're pretty darn vulnerable to hacking attempts. For the past couple years, several hacking groups have targeted Flock cameras and other Fourth Amendment-breaking automatic license plate readers (ALPRs) and proven their security vulnerabilities time and again. In some cases, Flock cameras have been found to be streaming live and archived video over the open internet, and in others, it took only about 30 seconds to gain access to a camera's stored footage after getting the box open. Another recent hacking attempt has caught the public's attention, revealing the extent of the cameras' so-called encryption (spoiler: it's not good) and showing how much data ALPRs capture daily. The initial report of this hacking attempt — covered together by Wired and 404Media — details how the hackers acquired a Flock camera, cracked open its shell, and made a nearly perfect copy of the data inside.",
-    "summary": "If you've ever wondered exactly how easy it is to hack Flock cameras , the results are in, and it seems they're pretty darn vulnerable to hacking attempts. For the past couple years, several hacking groups have targeted Flock cameras and other Fourth Amendment-breaking automatic license plate readers (ALPRs) and proven their security vulnerabilities time and again.",
-    "image_url": "https://www.jalopnik.com/img/gallery/hackers-figured-out-how-flock-camera-systems-actually-work-by-pulling-one-apart/l-intro-1793097495.jpg",
-    "original_url": "https://www.jalopnik.com/2297988/hackers-figured-out-how-flock-camera-systems-work/",
-    "published_at": "2026-11-01T20:25:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "If you've ever wondered exactly how easy it is to hack Flock cameras , the results are in, and it seems they're pretty darn vulnerable to hacking attempts. For the past couple years, several hacking groups have targeted Flock cameras and other Fourth Amendment-breaking automatic license plate readers (ALPRs) and proven their security vulnerabilities time and again. In some cases, Flock cameras have been found to be streaming live and archived video over the open internet, and in others, it took only about 30 seconds to gain access to a camera's stored footage after getting the box open.",
-      "Another recent hacking attempt has caught the public's attention, revealing the extent of the cameras' so-called encryption (spoiler: it's not good) and showing how much data ALPRs capture daily. The initial report of this hacking attempt — covered together by Wired and 404Media — details how the hackers acquired a Flock camera, cracked open its shell, and made a nearly perfect copy of the data inside.",
-      "The hacking collective behind this recent hacking attempt is known as stegan0gram, and the members represent just a small fraction of the people around the United States who keep vandalizing these ALPRs tracking our every move . Stegan0gram is taking things a step further, though. In an interview with 404Media, one of the hackers discussed \"liberating\" the hardware and reverse engineering it. The anonymous agent laid our their philosophy, asking \"Why just destroy them when we can reverse engineer them and find the secrets of those spying on us?\"",
-      "A good question, indeed, stegan0gram. With cities all over the country ditching the ALPR laughing stock that is Flock Safety in favor of companies like Axon, which collect similar data and give law enforcement agencies unfettered, warrantless access to it, such secrets are well worth uncovering.",
-      "Flock cameras and cameras from companies like Axon are called ALPRs, which would imply that what they do is, you know, automatically read license plates. However, the term is something of a misnomer. Despite Flock Safety's claims that their network of over 100,000 spy cameras doesn't track individuals or any information other than a car's \"signature,\" it's been known for some time that these privacy-eroding cameras are capturing more than just plates . The recent hack by sten0gram shows that ALPRs are capable of surveilling the public in much scarier ways.",
-      "When the hackers opened up their camera and looked inside, they found some data unencrypted, including a section of the camera's memory bank titled \"media,\" inside which was stored an encryption key that opened up previously encrypted data. In effect, a company that sells your location, driving patterns, and life story to law enforcement, including Immigration and Customs Enforcement, hid the key to their house under the welcome mat.",
-      "With the newly decrypted data, the hackers had access to records of over 50,000 vehicles, including over 1.5 million images. The camera's highlights also clearly showed that the technology knows how to detect individuals, license plates, and bicycles, in addition to motor vehicles. The collective also found that the camera had logged bumper stickers, license plate frames, and other graphics, likely misidentifying them as plates.",
-      "What doesn't seem to happen inside the camera is also notable. From when stegan0gram could determine, Flock cameras don't actually read license plates locally. Nor do they build a car's signature, using data like make, model, color, and identifying features. Instead, these operations are likely done on Flock's own servers after the data is transferred from the camera."
-    ],
-    "bullet_points": [
-      "If you've ever wondered exactly how easy it is to hack Flock cameras , the results are in, and it seems they're pretty darn vulnerable to hacking attempts.",
-      "For the past couple years, several hacking groups have targeted Flock cameras and other Fourth Amendment-breaking automatic license plate readers (ALPRs) and proven their security vulnerabilities time and again.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Hackers Figured Out How Flock Camera Systems Actually Work By Pulling One Apart",
-        "badge": "Breaking",
-        "text": "If you've ever wondered exactly how easy it is to hack Flock cameras , the results are in, and it seems they're pretty darn vulnerable to hacking attempts.",
-        "image": "https://www.jalopnik.com/img/gallery/hackers-figured-out-how-flock-camera-systems-actually-work-by-pulling-one-apart/l-intro-1793097495.jpg",
-        "alt": "Hackers Figured Out How Flock Camera Systems Actually Work By Pulling One Apart cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "For the past couple years, several hacking groups have targeted Flock cameras and other Fourth Amendment-breaking automatic license plate readers (ALPRs) and proven their security vulnerabilities time and again.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "If you've ever wondered exactly how easy it is to hack Flock cameras , the results are in, and it seems they're pretty darn vulnerable to hacking attempts.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Car Culture & Restomods",
-        "text": "For the past couple years, several hacking groups have targeted Flock cameras and other Fourth Amendment-breaking automatic license plate readers (ALPRs) and proven their security vulnerabilities time and again.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 57
-  },
-  {
-    "id": "art_1793571116_1",
-    "slug": "eli-teases-the-launch-of-a-much-faster-electric-microcar",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "Eli teases the launch of a much faster electric microcar",
-    "title": "Eli teases the launch of a much faster electric microcar",
-    "raw_summary": "Eli Electric Vehicles is getting ready to reveal a new version of its tiny electric microcar, and this one could expand its usefulness beyond the slow lane. In an Instagram teaser ahead of EICMA in Milan, the company announced the upcoming Eli ZERO MX, describing it as a new L7e vehicle joining its lineup. Eli also teased a special Race Edition, with promotional artwork showing a dark, sporty-looking ZERO with red accents and a visibly open-sided cabin.",
-    "summary": "Eli Electric Vehicles is getting ready to reveal a new version of its tiny electric microcar, and this one could expand its usefulness beyond the slow lane. In an Instagram teaser ahead of EICMA in Milan, the company announced the upcoming Eli ZERO MX, describing it as a new L7e vehicle joining its lineup.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/05/eli-zero-microcar-header.jpg?quality=82&strip=all&w=1600",
-    "original_url": "https://electrek.co/2026/11/01/eli-teases-the-launch-of-a-much-faster-electric-microcar/",
-    "published_at": "2026-11-01T19:32:34+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Eli Electric Vehicles is getting ready to reveal a new version of its tiny electric microcar, and this one could expand its usefulness beyond the slow lane.",
-      "In an Instagram teaser ahead of EICMA in Milan, the company announced the upcoming Eli ZERO MX, describing it as a new L7e vehicle joining its lineup. Eli also teased a special Race Edition, with promotional artwork showing a dark, sporty-looking ZERO with red accents and a visibly open-sided cabin.",
-      "The teaser doesn’t give us much to go on in terms of hard and fast details, but the L7e designation is the biggest clue here.",
-      "The familiar European Eli ZERO that we test-drove a few years ago is an L6e light quadricycle, with a top speed of 45 km/h (28 mph). Its compact two-seat layout makes it an appealing urban runabout, though that speed ceiling limits its usefulness on faster roads. But L7e vehicles can typically travel at speeds of up to 80-90 km/h (50-56 mph).",
-      "A faster version could make the little EV practical for considerably more trips. And there’s already a tantalizing hint: Eli’s Italian website lists an L7e ZERO capable of 85 km/h (53 mph), with a claimed range of up to 200 km (124 miles). Whether those specifications directly describe the upcoming ZERO MX remains unconfirmed by the teaser.",
-      "If they do, that would suggest a much more versatile commuter while retaining the tiny footprint that makes these vehicles so easy to park.",
-      "The Race Edition raises a different set of questions. The new vehicle could feature a sportier design, such as race seats and alternative doors. That could point toward a playful or more tuned vehicle, though we’ll have to wait to learn whether “Race” means additional performance or primarily a styling package.",
-      "It’s also unclear how closely the Race Edition and ZERO MX are related. The caption presents them separately, while the artwork additionally points towards a second-generation ZERO."
-    ],
-    "bullet_points": [
-      "Eli Electric Vehicles is getting ready to reveal a new version of its tiny electric microcar, and this one could expand its usefulness beyond the slow lane.",
-      "In an Instagram teaser ahead of EICMA in Milan, the company announced the upcoming Eli ZERO MX, describing it as a new L7e vehicle joining its lineup.",
-      "Official reporting verified via Electrek news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Eli teases the launch of a much faster electric microcar",
-        "badge": "Breaking",
-        "text": "Eli Electric Vehicles is getting ready to reveal a new version of its tiny electric microcar, and this one could expand its usefulness beyond the slow lane.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/05/eli-zero-microcar-header.jpg?quality=82&strip=all&w=1600",
-        "alt": "Eli teases the launch of a much faster electric microcar cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "In an Instagram teaser ahead of EICMA in Milan, the company announced the upcoming Eli ZERO MX, describing it as a new L7e vehicle joining its lineup.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Eli Electric Vehicles is getting ready to reveal a new version of its tiny electric microcar, and this one could expand its usefulness beyond the slow lane.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "In an Instagram teaser ahead of EICMA in Milan, the company announced the upcoming Eli ZERO MX, describing it as a new L7e vehicle joining its lineup.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 54
-  },
-  {
-    "id": "art_1793571116_10",
-    "slug": "relaunched-mitsubishi-pajero-is-already-stealing-land-cruiser-cus",
-    "category": "entertainment",
-    "category_name": "Car Culture & Restomods",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-    "category_icon": "🎬",
-    "source": "Jalopnik",
-    "raw_title": "Relaunched Mitsubishi Pajero Is Already Stealing Land Cruiser Customers",
-    "title": "Relaunched Mitsubishi Pajero Is Already Stealing Land Cruiser Customers",
-    "raw_summary": "It's been less than two months since the Mitsubishi Pajero officially re-entered the off-road-focused SUV scene , and it's already making waves. Long-beleaguered Mitsubishi says that a whopping 80% of the Pajero's customers in Japan are coming from competitors as it looks to move upmarket with a $39,000 base price — primed to challenge the mighty Toyota Land Cruiser. Of course, a great deal of that 80% number makes sense, considering Mitsubishi doesn't really make anything all that compelling right now, and hasn't for some time. Honestly, I'd assume the other 20% of non-conquest buyers are just folks coming from old Pajeros. In any case, Mitsu' unveiled domestic pricing and specs for its new flagship this week, adding that it had already received 5,500 orders in Japan for the Japan-built body-on-frame SUV — 1,500 more than what was expected, according to Automotive News . It puts the seven-seater well on its way to hitting Mitsubishi's goal of 10,000 sales through March of 2027. Sales are officially slated to begin in Japan on December 17, with the Australian market getting theirs the following month. It's already on sale in Thailand, with 1,500 orders so far.",
-    "summary": "It's been less than two months since the Mitsubishi Pajero officially re-entered the off-road-focused SUV scene , and it's already making waves. Long-beleaguered Mitsubishi says that a whopping 80% of the Pajero's customers in Japan are coming from competitors as it looks to move upmarket with a $39,000 base price — primed to challenge the mighty Toyota Land Cruiser.",
-    "image_url": "https://www.jalopnik.com/img/gallery/relaunched-mitsubishi-pajero-is-already-stealing-land-cruiser-customers/l-intro-1793380375.jpg",
-    "original_url": "https://www.jalopnik.com/2302556/relaunched-mitsubishi-pajero-stealing-toyota-land-cruiser-customers/",
-    "published_at": "2026-11-01T19:25:00+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "It's been less than two months since the Mitsubishi Pajero officially re-entered the off-road-focused SUV scene , and it's already making waves. Long-beleaguered Mitsubishi says that a whopping 80% of the Pajero's customers in Japan are coming from competitors as it looks to move upmarket with a $39,000 base price — primed to challenge the mighty Toyota Land Cruiser. Of course, a great deal of that 80% number makes sense, considering Mitsubishi doesn't really make anything all that compelling right now, and hasn't for some time. Honestly, I'd assume the other 20% of non-conquest buyers are just folks coming from old Pajeros.",
-      "In any case, Mitsu' unveiled domestic pricing and specs for its new flagship this week, adding that it had already received 5,500 orders in Japan for the Japan-built body-on-frame SUV — 1,500 more than what was expected, according to Automotive News . It puts the seven-seater well on its way to hitting Mitsubishi's goal of 10,000 sales through March of 2027. Sales are officially slated to begin in Japan on December 17, with the Australian market getting theirs the following month. It's already on sale in Thailand, with 1,500 orders so far.",
-      "Mitsubishi clearly had its sights set on the Toyota Land Cruiser lineup when designing, engineering and pricing the new Pajero . In Japan, it's priced at the equivalent of $39,212, which places it slightly above the entry point of the Land Cruiser 250 ($36,596) and directly in line with the base-level utilitarian version of the twin-turbo Land Cruiser 300 ($39,890). Volume versions of the LC300 start at a far higher $55,406, according to Automotive News, and they go all the way up to $64,586 for the top-end GR Sport hybrid. Stateside, the only Land Cruiser we get is the smaller 250 , and it starts at $59,775, including destination. If the Pajero/Montero were to come here, I wouldn't be shocked if it were to cost somewhere in that neighborhood.",
-      "In any case, Mitsubishi has to be feeling good about what the Pajero is already bringing to the table. That 80% conquest number is nothing to sneeze at, and the company says many former Pajero owners who left the brand when the company dropped the nameplate globally in 2020 are returning, Automotive News reports. Those buyers are also going for big options — ignoring the bargain-basement attitude Mitsubishi has cultivated in the past years. About 70% of Japanese orders are for vehicles equipped with premium packages, which has to be amazing news for a company looking to switch up its image in a major way.",
-      "Despite all of this, there's still no word on whether we're going to get our Montero stateside , but by all that's holy, I want it. Mitsubishi says it's evaluating other markets and plans other power trains beyond the current diesel, but I won't hold my breath."
-    ],
-    "bullet_points": [
-      "It's been less than two months since the Mitsubishi Pajero officially re-entered the off-road-focused SUV scene , and it's already making waves.",
-      "Long-beleaguered Mitsubishi says that a whopping 80% of the Pajero's customers in Japan are coming from competitors as it looks to move upmarket with a $39,000 base price — primed to challenge the mighty Toyota Land Cruiser.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Relaunched Mitsubishi Pajero Is Already Stealing Land Cruiser Customers",
-        "badge": "Breaking",
-        "text": "It's been less than two months since the Mitsubishi Pajero officially re-entered the off-road-focused SUV scene , and it's already making waves.",
-        "image": "https://www.jalopnik.com/img/gallery/relaunched-mitsubishi-pajero-is-already-stealing-land-cruiser-customers/l-intro-1793380375.jpg",
-        "alt": "Relaunched Mitsubishi Pajero Is Already Stealing Land Cruiser Customers cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Long-beleaguered Mitsubishi says that a whopping 80% of the Pajero's customers in Japan are coming from competitors as it looks to move upmarket with a $39,000 base price — primed to challenge the mighty Toyota Land Cruiser.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "It's been less than two months since the Mitsubishi Pajero officially re-entered the off-road-focused SUV scene , and it's already making waves.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Car Culture & Restomods",
-        "text": "Long-beleaguered Mitsubishi says that a whopping 80% of the Pajero's customers in Japan are coming from competitors as it looks to move upmarket with a $39,000 base price — primed to challenge the mighty Toyota Land Cruiser.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 59
-  },
-  {
-    "id": "art_1793558184_1",
-    "slug": "yes-electric-motorcycles-will-replace-gasoline-motorcycles-but-no",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think",
-    "title": "Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think",
-    "raw_summary": "For years, the conventional wisdom surrounding electric motorcycles has been fairly straightforward: Build an electric motorcycle that’s just as good as a gasoline-powered motorcycle, make it affordable enough, and eventually riders will switch. It’s essentially the same playbook that electric cars have followed. Make the electric version competitive enough, and eventually the market will move in that direction.",
-    "summary": "For years, the conventional wisdom surrounding electric motorcycles has been fairly straightforward: Build an electric motorcycle that’s just as good as a gasoline-powered motorcycle, make it affordable enough, and eventually riders will switch. It’s essentially the same playbook that electric cars have followed. Make the electric version competitive enough, and eventually the market will move in that direction.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/04/flying-flea-royal-enfield-motorcycle-header.jpg?quality=82&strip=all&w=1600",
-    "original_url": "https://electrek.co/2026/11/01/yes-electric-motorcycles-will-replace-gasoline-motorcycles-but-not-the-way-you-think/",
-    "published_at": "2026-11-01T18:26:33+00:00",
-    "time_ago": "9m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "For years, the conventional wisdom surrounding electric motorcycles has been fairly straightforward: Build an electric motorcycle that’s just as good as a gasoline-powered motorcycle, make it affordable enough, and eventually riders will switch.",
-      "It’s essentially the same playbook that electric cars have followed. Make the electric version competitive enough, and eventually the market will move in that direction.",
-      "But I think we’ve been looking at electric motorcycles all wrong. Because the future of electric motorcycles isn’t necessarily about convincing today’s gasoline motorcycle riders to switch. It’s about the next generation of riders who won’t have any reason to start with gasoline in the first place.",
-      "And that’s a much bigger deal than it might sound. In fact, it’s the entire key to the puzzle. Because make no mistake, the future of motorcycling is electric. It just won’t happen the way most people think.",
-      "The problem with applying the electric car playbook to motorcycles is that motorcycles aren’t cars.",
-      "For most people, a car is a tool. It’s transportation. Sure, some drivers are deeply passionate about their cars, but they are a minority. The vast majority simply want something comfortable, reliable, affordable, and convenient to get them from point A to point B.",
-      "Motorcycles, especially in markets like the US and Europe, are different. In fact, it’s the complete opposite of the car situation. For a minority of Western riders, and especially American riders, a motorcycle is a tool. For the vast majority, it’s a passion. People generally buy motorcycles because they love motorcycles. And for many riders, that love is deeply intertwined with the gasoline engine itself.",
-      "The sound, the vibration, the shifting, the mechanical character. These aren’t necessarily flaws to be engineered away. They’re part of the experience for traditional riders."
-    ],
-    "bullet_points": [
-      "For years, the conventional wisdom surrounding electric motorcycles has been fairly straightforward: Build an electric motorcycle that’s just as good as a gasoline-powered motorcycle, make it affordable enough, and eventually riders will switch.",
-      "It’s essentially the same playbook that electric cars have followed.",
-      "Make the electric version competitive enough, and eventually the market will move in that direction."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think",
-        "badge": "Breaking",
-        "text": "For years, the conventional wisdom surrounding electric motorcycles has been fairly straightforward: Build an electric motorcycle that’s just as good as a gasoline-powered motorcycle, make it affordable enough, and eventually riders will switch.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/flying-flea-royal-enfield-motorcycle-header.jpg?quality=82&strip=all&w=1600",
-        "alt": "Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "It’s essentially the same playbook that electric cars have followed.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Make the electric version competitive enough, and eventually the market will move in that direction.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "It’s essentially the same playbook that electric cars have followed.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 58
-  },
-  {
-    "id": "art_1793558184_4",
-    "slug": "why-cars-and-long-scarves-dont-mix",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Jalopnik",
-    "raw_title": "Why Cars And Long Scarves Don't Mix",
-    "title": "Why Cars And Long Scarves Don't Mix",
-    "raw_summary": "Cars are dangerous. There's no shortage of studies reiterating that fact, from the frequent running down of pedestrians over the last century to the not-so-obvious deaths outside of traffic crashes . It's why many of today's cars are inundated with those darn safety features we'd sacrifice if given the option. And yet another danger lurks in an unexpected place: the closet. Caution the fashionistas in your life, because your car and a scarf could be a deadly combination. Death by scarf via the automobile became a phenomenon nearly 100 years ago, when in 1927, famous American dancer Isadora Duncan met her tragic end from the combination of the two in France. The New York Times wrote that on the night of the accident, she wore an \"immense iridescent silk scarf wrapped about her neck and streaming in long folds, part of which was swathed about her body with part trailing behind.\"",
-    "summary": "There's no shortage of studies reiterating that fact, from the frequent running down of pedestrians over the last century to the not-so-obvious deaths outside of traffic crashes . It's why many of today's cars are inundated with those darn safety features we'd sacrifice if given the option.",
-    "image_url": "https://www.jalopnik.com/img/gallery/why-cars-and-long-scarves-dont-mix/l-intro-1793050927.jpg",
-    "original_url": "https://www.jalopnik.com/2297776/why-cars-long-scarf-bad-combination-injuries-danger/",
-    "published_at": "2026-11-01T18:25:00+00:00",
-    "time_ago": "11m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Cars are dangerous. There's no shortage of studies reiterating that fact, from the frequent running down of pedestrians over the last century to the not-so-obvious deaths outside of traffic crashes . It's why many of today's cars are inundated with those darn safety features we'd sacrifice if given the option. And yet another danger lurks in an unexpected place: the closet. Caution the fashionistas in your life, because your car and a scarf could be a deadly combination.",
-      "Death by scarf via the automobile became a phenomenon nearly 100 years ago, when in 1927, famous American dancer Isadora Duncan met her tragic end from the combination of the two in France. The New York Times wrote that on the night of the accident, she wore an \"immense iridescent silk scarf wrapped about her neck and streaming in long folds, part of which was swathed about her body with part trailing behind.\"",
-      "The story continues that after a walk along the promenade in Nice, she hopped into a rented car and neither she nor the driver had realized one of the ends of her massive scarf had fallen outside of the car. The stray piece caught in the rear wheel and wound around enough that it then pulled Duncan from out of the car where she was dragged behind it for several feet. The driver stopped the car, but it was too late. When aid arrived on scene, they stated she had been killed instantly from strangulation.",
-      "Duncan's death became so well-known that similar occurrences were deemed Isadora Duncan syndrome (also referred to as long-scarf syndrome ). These are typically accidental strangulations with trauma injuries sustained to the larynx and trachea (the airway), and potentially the carotid arteries (delicate mainlines of blood to the brain). Damage to either of these throughways for vital resources could starve the brain of oxygen and lead to death, like it tragically did for Duncan.",
-      "Scarf-induced deaths do still happen in modern times , and they're more likely to happen when the mode of transportation is wide open to the elements — something like an auto-rickshaw or a convertible is a dangerous place to wear a long scarf. The prevalence of modern scarf incidents actually inspired an Indian study which specifically looked at scarf deaths from 2013 to 2015 within a Level 1 trauma center. Over the nearly two years the study was conducted, 76 injuries were recorded, and approximately three of those individuals died from related injuries.",
-      "Other recent instances outside of India include two women who were maimed by scarves worn for special occasions just this month. The first, a Dallas woman , opted to wear a long dress with a scarf to a wedding. Post-wedding, with friends, they got into a car to go to dinner. Her scarf became stuck in the door, and trailed off enough to get caught in the tire. It pulled on her neck hard enough to cause a nasty friction burn across the lower part of her neck and shoulder.",
-      "A video account of the Dallas event was stitched by another woman who also had a physically scarring scarf experience . She shared that she too had been \"nearly killed by fashion\" when she wore the scarf part of her newly purchased dress for a gala. Caught in the seatbelt and the door of a rideshare vehicle, the woman's scarf was eventually pulled by the tire, which led to an eventual trip to the emergency room.",
-      "Both women were somewhat lucky to have only suffered deep burns to their neck and not more serious injuries, or death like Duncan. The lesson here: If you're going to wear a scarf, be vigilant about where that scarf is when you get into a vehicle."
-    ],
-    "bullet_points": [
-      "There's no shortage of studies reiterating that fact, from the frequent running down of pedestrians over the last century to the not-so-obvious deaths outside of traffic crashes .",
-      "It's why many of today's cars are inundated with those darn safety features we'd sacrifice if given the option.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Why Cars And Long Scarves Don't Mix",
-        "badge": "Breaking",
-        "text": "There's no shortage of studies reiterating that fact, from the frequent running down of pedestrians over the last century to the not-so-obvious deaths outside of traffic crashes .",
-        "image": "https://www.jalopnik.com/img/gallery/why-cars-and-long-scarves-dont-mix/l-intro-1793050927.jpg",
-        "alt": "Why Cars And Long Scarves Don't Mix cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "It's why many of today's cars are inundated with those darn safety features we'd sacrifice if given the option.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "There's no shortage of studies reiterating that fact, from the frequent running down of pedestrians over the last century to the not-so-obvious deaths outside of traffic crashes .",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "It's why many of today's cars are inundated with those darn safety features we'd sacrifice if given the option.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 47
   }
 ]

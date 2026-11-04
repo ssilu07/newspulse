@@ -3,39 +3,139 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-03T23:31:11Z</lastmod>
+    <lastmod>2026-11-04T02:43:06Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-03T23:31:11Z</lastmod>
+    <lastmod>2026-11-04T02:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-03T23:31:11Z</lastmod>
+    <lastmod>2026-11-04T02:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-03T23:31:11Z</lastmod>
+    <lastmod>2026-11-04T02:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-03T23:31:11Z</lastmod>
+    <lastmod>2026-11-04T02:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-03T23:31:11Z</lastmod>
+    <lastmod>2026-11-04T02:43:06Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-does-oahu-get-to-an-economically-resilient-100-clean-energy-f/</loc>
+    <lastmod>2026-11-04T01:47:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/03/Adjusted-electrified-Oahu.png</image:loc>
+      <image:title>How does Oahu get to an economically resilient, 100% clean energy future?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-does-oahu-get-to-an-economically-resilient-100-clean-energy-f/</loc>
+    <lastmod>2026-11-04T01:47:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/03/Adjusted-electrified-Oahu.png</image:loc>
+      <image:title>How does Oahu get to an economically resilient, 100% clean energy future?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/china-truck-sales-now-majority-electric-whats-next/</loc>
+    <lastmod>2026-11-04T00:38:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/f7f62ee4907c9809b921500494b88b19_compress.webp</image:loc>
+      <image:title>China Truck Sales Now Majority Electric. What&#x27;s Next?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/china-truck-sales-now-majority-electric-whats-next/</loc>
+    <lastmod>2026-11-04T00:38:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/f7f62ee4907c9809b921500494b88b19_compress.webp</image:loc>
+      <image:title>China Truck Sales Now Majority Electric. What&#x27;s Next?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/stratos-data-center-will-emit-air-pollution-thats-linked-to-prema/</loc>
+    <lastmod>2026-11-04T00:31:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Utah-Salt-Lake-City-pexels-stephen-leonardi-scaled.jpg</image:loc>
+      <image:title>Stratos Data Center Will Emit Air Pollution That&#x27;s Linked to Premature Deaths and Health Economic Damages for Utah &amp; States Downwind</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/stratos-data-center-will-emit-air-pollution-thats-linked-to-prema/</loc>
+    <lastmod>2026-11-04T00:31:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Utah-Salt-Lake-City-pexels-stephen-leonardi-scaled.jpg</image:loc>
+      <image:title>Stratos Data Center Will Emit Air Pollution That&#x27;s Linked to Premature Deaths and Health Economic Damages for Utah &amp; States Downwind</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/overshoot-demands-a-new-era-of-adaptation-loss-damage-and-climate/</loc>
+    <lastmod>2026-11-03T23:56:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/climate-destruction-pexels.jpg</image:loc>
+      <image:title>Overshoot Demands a New Era of Adaptation, Loss &amp; Damage, and Climate Justice</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/overshoot-demands-a-new-era-of-adaptation-loss-damage-and-climate/</loc>
+    <lastmod>2026-11-03T23:56:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/climate-destruction-pexels.jpg</image:loc>
+      <image:title>Overshoot Demands a New Era of Adaptation, Loss &amp; Damage, and Climate Justice</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/if-the-us-department-of-defense-gets-solar-power-why-cant-we/</loc>
+    <lastmod>2026-11-03T23:29:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Cantsink-solar-at-white-sands-2025.jpeg</image:loc>
+      <image:title>If The US Department Of Defense Gets Solar Power, Why Can&#x27;t We?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/if-the-us-department-of-defense-gets-solar-power-why-cant-we/</loc>
+    <lastmod>2026-11-03T23:29:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Cantsink-solar-at-white-sands-2025.jpeg</image:loc>
+      <image:title>If The US Department Of Defense Gets Solar Power, Why Can&#x27;t We?</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/herta-gets-another-cadillac-f1-practice-to-earn-superlicence/</loc>
@@ -135,6 +235,46 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/mid-air-helicopter-collision-near-everest-base-camp-kills-tourist-injures-2-others/l-intro-1793742554.jpg</image:loc>
       <image:title>Mid-Air Helicopter Collision Near Everest Base Camp Kills Tourist, Injures 2 Others</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/acura-begins-selling-3000-nsx-restoration-parts-in-the-united-sta/</loc>
+    <lastmod>2026-11-03T21:12:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/acura-begins-selling-3000-nsx-restoration-parts-in-the-united-states/l-intro-1793740203.jpg</image:loc>
+      <image:title>Acura Begins Selling 3,000 NSX Restoration Parts In The United States</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/acura-begins-selling-3000-nsx-restoration-parts-in-the-united-sta/</loc>
+    <lastmod>2026-11-03T21:12:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/acura-begins-selling-3000-nsx-restoration-parts-in-the-united-states/l-intro-1793740203.jpg</image:loc>
+      <image:title>Acura Begins Selling 3,000 NSX Restoration Parts In The United States</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/</loc>
+    <lastmod>2026-11-03T20:47:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-3.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg</image:loc>
+      <image:title>Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/</loc>
+    <lastmod>2026-11-03T20:47:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-3.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg</image:loc>
+      <image:title>Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas</image:title>
     </image:image>
   </url>
   <url>
@@ -658,6 +798,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/2027-genesis-gv60-gv60-magma/</loc>
+    <lastmod>2026-11-03T15:34:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cf4c9165-0362-44b0-a129-cb7e47f40df1.jpg?crop=1xw:0.750187546887xh;center,top&amp;resize=1200:*</image:loc>
+      <image:title>2027 Genesis GV60 / GV60 Magma</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-genesis-gv60-gv60-magma/</loc>
+    <lastmod>2026-11-03T15:34:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cf4c9165-0362-44b0-a129-cb7e47f40df1.jpg?crop=1xw:0.750187546887xh;center,top&amp;resize=1200:*</image:loc>
+      <image:title>2027 Genesis GV60 / GV60 Magma</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/zero-motorcycles-unveils-8k-electric-motorcycle-street-legal-dirt/</loc>
     <lastmod>2026-11-03T15:30:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -778,6 +938,86 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/genesis-gv60-magma-doesnt-sacrifice-speed-for-faux-shift-fun/</loc>
+    <lastmod>2026-11-03T14:51:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0a08e9c0-ecd2-466a-bab6-3e96ae2a8098.jpg</image:loc>
+      <image:title>Genesis GV60 Magma Doesn&#x27;t Sacrifice Speed for Faux-Shift Fun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/genesis-gv60-magma-doesnt-sacrifice-speed-for-faux-shift-fun/</loc>
+    <lastmod>2026-11-03T14:51:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0a08e9c0-ecd2-466a-bab6-3e96ae2a8098.jpg</image:loc>
+      <image:title>Genesis GV60 Magma Doesn&#x27;t Sacrifice Speed for Faux-Shift Fun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-recessionmobile-should-automakers-build/</loc>
+    <lastmod>2026-11-03T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-recessionmobile-should-automakers-build/l-intro-1793712143.jpg</image:loc>
+      <image:title>What Recessionmobile Should Automakers Build?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-recessionmobile-should-automakers-build/</loc>
+    <lastmod>2026-11-03T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-recessionmobile-should-automakers-build/l-intro-1793712143.jpg</image:loc>
+      <image:title>What Recessionmobile Should Automakers Build?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-genesis-gv60-magma/</loc>
+    <lastmod>2026-11-03T14:24:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0e04a721-1420-4b64-a287-6dce728984c7.jpg</image:loc>
+      <image:title>First Look Inside: The 2027 Genesis GV60 Magma Cabin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2027-genesis-gv60-magma/</loc>
+    <lastmod>2026-11-03T14:24:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0e04a721-1420-4b64-a287-6dce728984c7.jpg</image:loc>
+      <image:title>First Look Inside: The 2027 Genesis GV60 Magma Cabin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-genesis-gv60-magma/</loc>
+    <lastmod>2026-11-03T14:24:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7d9e4551-1d20-48df-8f73-f266764d046d.jpg</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Genesis GV60 Magma</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2027-genesis-gv60-magma/</loc>
+    <lastmod>2026-11-03T14:24:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7d9e4551-1d20-48df-8f73-f266764d046d.jpg</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Genesis GV60 Magma</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tesla-wins-trade-zone-status-for-texas-megapacks-but-china-tariff/</loc>
     <lastmod>2026-11-03T14:15:23+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -815,6 +1055,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/lincoln-memorial-reflecting-pool-nps.jpg</image:loc>
       <image:title>Trump Wants More Attention For His New Algae Biofuel Showcase</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-be/</loc>
+    <lastmod>2026-11-03T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-behind/l-intro-1793648151.jpg</image:loc>
+      <image:title>Hyundai&#x27;s XRT Off-Road Division Is On The Right Path But A Step Behind</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-be/</loc>
+    <lastmod>2026-11-03T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-behind/l-intro-1793648151.jpg</image:loc>
+      <image:title>Hyundai&#x27;s XRT Off-Road Division Is On The Right Path But A Step Behind</image:title>
     </image:image>
   </url>
   <url>
@@ -2775,266 +3035,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/karmas-track-weapon-has-four-seats-and-the-most-powerful-plug-in-hybrid-v8/l-intro-1793574538.jpg</image:loc>
       <image:title>Karma&#x27;s Track Weapon Has Four Seats And The Most Powerful Plug-In Hybrid V8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phan/</loc>
-    <lastmod>2026-11-01T23:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phantom-badger/l-intro-1793131447.jpg</image:loc>
-      <image:title>Boeing Once Developed A Vehicle For The Navy Called, Adorably, &#x27;Phantom Badger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phan/</loc>
-    <lastmod>2026-11-01T23:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/boeing-once-developed-a-vehicle-for-the-navy-called-adorably-phantom-badger/l-intro-1793131447.jpg</image:loc>
-      <image:title>Boeing Once Developed A Vehicle For The Navy Called, Adorably, &#x27;Phantom Badger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bottas-escapes-injury-in-race-stopping-crash/</loc>
-    <lastmod>2026-11-01T22:08:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449680_HiRes.jpg</image:loc>
-      <image:title>Bottas escapes injury in race-stopping crash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bottas-escapes-injury-in-race-stopping-crash/</loc>
-    <lastmod>2026-11-01T22:08:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449680_HiRes.jpg</image:loc>
-      <image:title>Bottas escapes injury in race-stopping crash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/steve-mcqueens-ferrari-275-nart-spider-is-heading-to-auction-so-s/</loc>
-    <lastmod>2026-11-01T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/steve-mcqueens-ferrari-275-nart-spider-is-heading-to-auction-so-start-saving-your-nickels/l-intro-1793124448.jpg</image:loc>
-      <image:title>Steve McQueen&#x27;s Ferrari 275 NART Spider Is Heading To Auction, So Start Saving Your Nickels</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/steve-mcqueens-ferrari-275-nart-spider-is-heading-to-auction-so-s/</loc>
-    <lastmod>2026-11-01T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/steve-mcqueens-ferrari-275-nart-spider-is-heading-to-auction-so-start-saving-your-nickels/l-intro-1793124448.jpg</image:loc>
-      <image:title>Steve McQueen&#x27;s Ferrari 275 NART Spider Is Heading To Auction, So Start Saving Your Nickels</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/corvette-skidpad-grip-ranked-best-to-worst-across-generations/</loc>
-    <lastmod>2026-11-01T21:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/corvette-skidpad-grip-ranked-best-to-worst-across-generations/l-intro-1793309980.jpg</image:loc>
-      <image:title>Corvette Skidpad Grip Ranked Best To Worst Across Generations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/corvette-skidpad-grip-ranked-best-to-worst-across-generations/</loc>
-    <lastmod>2026-11-01T21:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/corvette-skidpad-grip-ranked-best-to-worst-across-generations/l-intro-1793309980.jpg</image:loc>
-      <image:title>Corvette Skidpad Grip Ranked Best To Worst Across Generations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fia-explains-controversial-leclerc-penalty-decision/</loc>
-    <lastmod>2026-11-01T21:30:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450160_HiRes.jpg</image:loc>
-      <image:title>FIA explains controversial Leclerc penalty decision</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fia-explains-controversial-leclerc-penalty-decision/</loc>
-    <lastmod>2026-11-01T21:30:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450160_HiRes.jpg</image:loc>
-      <image:title>FIA explains controversial Leclerc penalty decision</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/dodge-entered-the-us-compact-truck-market-late-with-a-rebadged-mi/</loc>
-    <lastmod>2026-11-01T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/dodge-entered-the-us-compact-truck-market-late-with-a-rebadged-mitsubishi-forte/l-intro-1793115271.jpg</image:loc>
-      <image:title>Dodge Entered The US Compact Truck Market Late With A Rebadged Mitsubishi Forte</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/dodge-entered-the-us-compact-truck-market-late-with-a-rebadged-mi/</loc>
-    <lastmod>2026-11-01T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/dodge-entered-the-us-compact-truck-market-late-with-a-rebadged-mitsubishi-forte/l-intro-1793115271.jpg</image:loc>
-      <image:title>Dodge Entered The US Compact Truck Market Late With A Rebadged Mitsubishi Forte</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-the-e-on-a-manual-gear-shift-means-and-when-to-use-it/</loc>
-    <lastmod>2026-11-01T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-the-e-on-a-manual-gear-shift-means-and-when-to-use-it/l-intro-1793118816.jpg</image:loc>
-      <image:title>What The &#x27;E&#x27; On A Manual Gear Shift Means (And When To Use It)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-the-e-on-a-manual-gear-shift-means-and-when-to-use-it/</loc>
-    <lastmod>2026-11-01T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-the-e-on-a-manual-gear-shift-means-and-when-to-use-it/l-intro-1793118816.jpg</image:loc>
-      <image:title>What The &#x27;E&#x27; On A Manual Gear Shift Means (And When To Use It)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/batteries-beat-norways-hydrogen-bulk-carriers-on-cost-in-two-mode/</loc>
-    <lastmod>2026-11-01T20:52:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/GMI_Hero_From_Published_Briefing_1600x900.png</image:loc>
-      <image:title>Batteries Beat Norway&#x27;s Hydrogen Bulk Carriers on Cost in Two Modeled Routes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/batteries-beat-norways-hydrogen-bulk-carriers-on-cost-in-two-mode/</loc>
-    <lastmod>2026-11-01T20:52:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/GMI_Hero_From_Published_Briefing_1600x900.png</image:loc>
-      <image:title>Batteries Beat Norway&#x27;s Hydrogen Bulk Carriers on Cost in Two Modeled Routes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hackers-figured-out-how-flock-camera-systems-actually-work-by-pul/</loc>
-    <lastmod>2026-11-01T20:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/hackers-figured-out-how-flock-camera-systems-actually-work-by-pulling-one-apart/l-intro-1793097495.jpg</image:loc>
-      <image:title>Hackers Figured Out How Flock Camera Systems Actually Work By Pulling One Apart</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hackers-figured-out-how-flock-camera-systems-actually-work-by-pul/</loc>
-    <lastmod>2026-11-01T20:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/hackers-figured-out-how-flock-camera-systems-actually-work-by-pulling-one-apart/l-intro-1793097495.jpg</image:loc>
-      <image:title>Hackers Figured Out How Flock Camera Systems Actually Work By Pulling One Apart</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/eli-teases-the-launch-of-a-much-faster-electric-microcar/</loc>
-    <lastmod>2026-11-01T19:32:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/05/eli-zero-microcar-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Eli teases the launch of a much faster electric microcar</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/eli-teases-the-launch-of-a-much-faster-electric-microcar/</loc>
-    <lastmod>2026-11-01T19:32:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/05/eli-zero-microcar-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Eli teases the launch of a much faster electric microcar</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/relaunched-mitsubishi-pajero-is-already-stealing-land-cruiser-cus/</loc>
-    <lastmod>2026-11-01T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/relaunched-mitsubishi-pajero-is-already-stealing-land-cruiser-customers/l-intro-1793380375.jpg</image:loc>
-      <image:title>Relaunched Mitsubishi Pajero Is Already Stealing Land Cruiser Customers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/relaunched-mitsubishi-pajero-is-already-stealing-land-cruiser-cus/</loc>
-    <lastmod>2026-11-01T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/relaunched-mitsubishi-pajero-is-already-stealing-land-cruiser-customers/l-intro-1793380375.jpg</image:loc>
-      <image:title>Relaunched Mitsubishi Pajero Is Already Stealing Land Cruiser Customers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/yes-electric-motorcycles-will-replace-gasoline-motorcycles-but-no/</loc>
-    <lastmod>2026-11-01T18:26:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/04/flying-flea-royal-enfield-motorcycle-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/yes-electric-motorcycles-will-replace-gasoline-motorcycles-but-no/</loc>
-    <lastmod>2026-11-01T18:26:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/04/flying-flea-royal-enfield-motorcycle-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-cars-and-long-scarves-dont-mix/</loc>
-    <lastmod>2026-11-01T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-cars-and-long-scarves-dont-mix/l-intro-1793050927.jpg</image:loc>
-      <image:title>Why Cars And Long Scarves Don&#x27;t Mix</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-cars-and-long-scarves-dont-mix/</loc>
-    <lastmod>2026-11-01T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-cars-and-long-scarves-dont-mix/l-intro-1793050927.jpg</image:loc>
-      <image:title>Why Cars And Long Scarves Don&#x27;t Mix</image:title>
     </image:image>
   </url>
 </urlset>

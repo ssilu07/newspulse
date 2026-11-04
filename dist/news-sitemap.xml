@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/how-does-oahu-get-to-an-economically-resilient-100-clean-energy-f/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T01:47:05+00:00</news:publication_date>
+      <news:title>How does Oahu get to an economically resilient, 100% clean energy future?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/03/Adjusted-electrified-Oahu.png</image:loc>
+      <image:title>How does Oahu get to an economically resilient, 100% clean energy future?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/china-truck-sales-now-majority-electric-whats-next/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T00:38:20+00:00</news:publication_date>
+      <news:title>China Truck Sales Now Majority Electric. What&#x27;s Next?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/f7f62ee4907c9809b921500494b88b19_compress.webp</image:loc>
+      <image:title>China Truck Sales Now Majority Electric. What&#x27;s Next?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/stratos-data-center-will-emit-air-pollution-thats-linked-to-prema/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T00:31:10+00:00</news:publication_date>
+      <news:title>Stratos Data Center Will Emit Air Pollution That&#x27;s Linked to Premature Deaths and Health Economic Damages for Utah &amp; States Downwind</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Utah-Salt-Lake-City-pexels-stephen-leonardi-scaled.jpg</image:loc>
+      <image:title>Stratos Data Center Will Emit Air Pollution That&#x27;s Linked to Premature Deaths and Health Economic Damages for Utah &amp; States Downwind</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/overshoot-demands-a-new-era-of-adaptation-loss-damage-and-climate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T23:56:16+00:00</news:publication_date>
+      <news:title>Overshoot Demands a New Era of Adaptation, Loss &amp; Damage, and Climate Justice</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/climate-destruction-pexels.jpg</image:loc>
+      <image:title>Overshoot Demands a New Era of Adaptation, Loss &amp; Damage, and Climate Justice</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/if-the-us-department-of-defense-gets-solar-power-why-cant-we/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T23:29:09+00:00</news:publication_date>
+      <news:title>If The US Department Of Defense Gets Solar Power, Why Can&#x27;t We?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Cantsink-solar-at-white-sands-2025.jpeg</image:loc>
+      <image:title>If The US Department Of Defense Gets Solar Power, Why Can&#x27;t We?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/herta-gets-another-cadillac-f1-practice-to-earn-superlicence/</loc>
     <news:news>
       <news:publication>
@@ -75,6 +150,36 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/mid-air-helicopter-collision-near-everest-base-camp-kills-tourist-injures-2-others/l-intro-1793742554.jpg</image:loc>
       <image:title>Mid-Air Helicopter Collision Near Everest Base Camp Kills Tourist, Injures 2 Others</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/acura-begins-selling-3000-nsx-restoration-parts-in-the-united-sta/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T21:12:37+00:00</news:publication_date>
+      <news:title>Acura Begins Selling 3,000 NSX Restoration Parts In The United States</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/acura-begins-selling-3000-nsx-restoration-parts-in-the-united-states/l-intro-1793740203.jpg</image:loc>
+      <image:title>Acura Begins Selling 3,000 NSX Restoration Parts In The United States</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T20:47:12+00:00</news:publication_date>
+      <news:title>Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-3.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg</image:loc>
+      <image:title>Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas</image:title>
     </image:image>
   </url>
   <url>
@@ -468,6 +573,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/2027-genesis-gv60-gv60-magma/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T15:34:50+00:00</news:publication_date>
+      <news:title>2027 Genesis GV60 / GV60 Magma</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cf4c9165-0362-44b0-a129-cb7e47f40df1.jpg?crop=1xw:0.750187546887xh;center,top&amp;resize=1200:*</image:loc>
+      <image:title>2027 Genesis GV60 / GV60 Magma</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/zero-motorcycles-unveils-8k-electric-motorcycle-street-legal-dirt/</loc>
     <news:news>
       <news:publication>
@@ -558,6 +678,66 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/genesis-gv60-magma-doesnt-sacrifice-speed-for-faux-shift-fun/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T14:51:45+00:00</news:publication_date>
+      <news:title>Genesis GV60 Magma Doesn&#x27;t Sacrifice Speed for Faux-Shift Fun</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0a08e9c0-ecd2-466a-bab6-3e96ae2a8098.jpg</image:loc>
+      <image:title>Genesis GV60 Magma Doesn&#x27;t Sacrifice Speed for Faux-Shift Fun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-recessionmobile-should-automakers-build/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T14:25:00+00:00</news:publication_date>
+      <news:title>What Recessionmobile Should Automakers Build?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-recessionmobile-should-automakers-build/l-intro-1793712143.jpg</image:loc>
+      <image:title>What Recessionmobile Should Automakers Build?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-genesis-gv60-magma/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T14:24:49+00:00</news:publication_date>
+      <news:title>First Look Inside: The 2027 Genesis GV60 Magma Cabin</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0e04a721-1420-4b64-a287-6dce728984c7.jpg</image:loc>
+      <image:title>First Look Inside: The 2027 Genesis GV60 Magma Cabin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-genesis-gv60-magma/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T14:24:46+00:00</news:publication_date>
+      <news:title>First Look: Aggressive Exterior Styling Of The 2027 Genesis GV60 Magma</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7d9e4551-1d20-48df-8f73-f266764d046d.jpg</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Genesis GV60 Magma</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tesla-wins-trade-zone-status-for-texas-megapacks-but-china-tariff/</loc>
     <news:news>
       <news:publication>
@@ -585,6 +765,21 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/lincoln-memorial-reflecting-pool-nps.jpg</image:loc>
       <image:title>Trump Wants More Attention For His New Algae Biofuel Showcase</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-be/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T14:00:00+00:00</news:publication_date>
+      <news:title>Hyundai&#x27;s XRT Off-Road Division Is On The Right Path But A Step Behind</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/hyundais-xrt-off-road-division-is-on-the-right-path-but-a-step-behind/l-intro-1793648151.jpg</image:loc>
+      <image:title>Hyundai&#x27;s XRT Off-Road Division Is On The Right Path But A Step Behind</image:title>
     </image:image>
   </url>
   <url>
@@ -1905,111 +2100,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/car-design-has-gone-downhill-since-the-plymouth-prowler/l-intro-1793188473.jpg</image:loc>
       <image:title>Car Design Has Gone Downhill Since The Plymouth Prowler</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-2026-mexican-grand-prix-race-result-after-multiple-penalties/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T02:23:00+00:00</news:publication_date>
-      <news:title>F1 2026 Mexican Grand Prix race result after multiple penalties</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450562_HiRes.jpg</image:loc>
-      <image:title>F1 2026 Mexican Grand Prix race result after multiple penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/piastri-out-of-f1-mexico-gp-points-after-post-race-penalty-for-li/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T02:19:42+00:00</news:publication_date>
-      <news:title>Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn-7.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg</image:loc>
-      <image:title>Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/double-penalty-costs-alpine-all-its-mexican-gp-points/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T02:09:22+00:00</news:publication_date>
-      <news:title>Double penalty costs Alpine all its Mexican GP points</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450581_HiRes.jpg</image:loc>
-      <image:title>Double penalty costs Alpine all its Mexican GP points</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mercedes-explains-distraught-russells-post-race-absence-after-fin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T01:52:25+00:00</news:publication_date>
-      <news:title>Mercedes explains &#x27;distraught&#x27; Russell&#x27;s post-race absence after fine</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450411_HiRes.jpg</image:loc>
-      <image:title>Mercedes explains &#x27;distraught&#x27; Russell&#x27;s post-race absence after fine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-en/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T00:50:00+00:00</news:publication_date>
-      <news:title>7 Luxury Vehicles From Throughout History That Used 4-Cylinder Engines</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-luxury-vehicles-from-throughout-history-that-used-4-cylinder-engines/l-intro-1793133938.jpg</image:loc>
-      <image:title>7 Luxury Vehicles From Throughout History That Used 4-Cylinder Engines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/piastri-punished-for-lindblad-collision/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T00:25:26+00:00</news:publication_date>
-      <news:title>Piastri punished for Lindblad collision</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450181_HiRes.jpg</image:loc>
-      <image:title>Piastri punished for Lindblad collision</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T00:25:00+00:00</news:publication_date>
-      <news:title>Can One Tire Really Do It All? 8 All-Weather Tires Compete To Find Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/can-one-tire-really-do-it-all-8-all-weather-tires-compete-to-find-out/l-intro-1793132615.jpg</image:loc>
-      <image:title>Can One Tire Really Do It All? 8 All-Weather Tires Compete To Find Out</image:title>
     </image:image>
   </url>
 </urlset>
