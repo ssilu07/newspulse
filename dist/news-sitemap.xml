@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/dangerous-but-also-brilliant/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:24:10+00:00</news:publication_date>
+      <news:title>Dangerous&#x27; but also &#x27;brilliant</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451516_HiRes.jpg</image:loc>
+      <image:title>Dangerous&#x27; but also &#x27;brilliant</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-kia-telluride-x-pro-review-the-looks-get-your-attention-the-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:12:54+00:00</news:publication_date>
+      <news:title>2027 Kia Telluride X-Pro Review: The Looks Get Your Attention, The Cabin Wins You Over</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/2027-kia-telluride-x-pro-review-the-looks-get-your-attention-the-cabin-wins-you-over/l-intro-1794003142.jpg</image:loc>
+      <image:title>2027 Kia Telluride X-Pro Review: The Looks Get Your Attention, The Cabin Wins You Over</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/apollos-newest-electric-scooter-is-also-its-lowest-cost-yet/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T21:46:19+00:00</news:publication_date>
+      <news:title>Apollo&#x27;s newest electric scooter is also its lowest-cost yet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/apollo-scooter-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Apollo&#x27;s newest electric scooter is also its lowest-cost yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-dealer-sued-for-obnoxious-ai-robocalls-to-a-guy-who-didnt-w/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T21:45:00+00:00</news:publication_date>
+      <news:title>Honda Dealer Sued For &#x27;Obnoxious&#x27; AI Robocalls To A Guy Who Didn&#x27;t Want To Sell Them His Car</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/honda-dealer-sued-for-obnoxious-ai-robocalls-to-a-guy-who-didnt-want-to-sell-them-his-car/l-intro-1793905630.jpg</image:loc>
+      <image:title>Honda Dealer Sued For &#x27;Obnoxious&#x27; AI Robocalls To A Guy Who Didn&#x27;t Want To Sell Them His Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/porsche-launches-espresso-machine-with-a-ducktail-spoiler/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T21:11:59+00:00</news:publication_date>
+      <news:title>Porsche Launches Espresso Machine With A Ducktail Spoiler</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/porsche-launches-espresso-machine-with-a-ducktail-spoiler/l-intro-1793999026.jpg</image:loc>
+      <image:title>Porsche Launches Espresso Machine With A Ducktail Spoiler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-yangwang-u9-xtreme-just-set-two-guinness-world-speed-records/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T21:01:57+00:00</news:publication_date>
+      <news:title>The Yangwang U9 Xtreme Just Set Two Guinness World Speed Records</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a665391b-6c49-4723-a971-f17a144bba21.jpeg</image:loc>
+      <image:title>The Yangwang U9 Xtreme Just Set Two Guinness World Speed Records</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/evgo-opens-its-first-tesla-superchargers-with-hundreds-more-plann/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:44:43+00:00</news:publication_date>
+      <news:title>EVgo opens its first Tesla Superchargers, with hundreds more planned</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/EVGo-supercharger-site-Chicago.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>EVgo opens its first Tesla Superchargers, with hundreds more planned</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-is-launching-this-5-seat-luxury-electric-suv-next-week-with-o/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:32:41+00:00</news:publication_date>
+      <news:title>BYD is launching this 5-seat luxury electric SUV next week with over 1,000 km of range</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-launch.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD is launching this 5-seat luxury electric SUV next week with over 1,000 km of range</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/wolff-backs-motogps-handling-of-calendar-dissent/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:20:20+00:00</news:publication_date>
+      <news:title>Wolff backs MotoGP&#x27;s handling of calendar dissent</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1447156_HiRes.jpg</image:loc>
+      <image:title>Wolff backs MotoGP&#x27;s handling of calendar dissent</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2028-subaru-getaway/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:13:55+00:00</news:publication_date>
+      <news:title>2028 Subaru Getaway</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cd212b86-7f22-4eb0-90eb-49ee4864a234.jpg?crop=0.787xw:0.590xh;0.170xw,0.238xh&amp;resize=1200:*</image:loc>
+      <image:title>2028 Subaru Getaway</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-2027-karma-gyesera-is-a-stylish-curiosity/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:13:48+00:00</news:publication_date>
+      <news:title>The 2027 Karma Gyesera Is a Stylish Curiosity</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/dc0d92a0-c63f-484c-84a9-560be2afdde1.jpg</image:loc>
+      <image:title>The 2027 Karma Gyesera Is a Stylish Curiosity</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-karma-gyesera-grand-coupe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:13:42+00:00</news:publication_date>
+      <news:title>First Look: Aggressive Exterior Styling Of The 2027 Karma Gyesera Grand Coupe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d9ac2ae8-352e-454e-86ff-193a86d0c487.jpg</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Karma Gyesera Grand Coupe</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/alas-poor-cybertruck-we-hardly-knew-thee/</loc>
     <news:news>
       <news:publication>
@@ -633,6 +813,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/new-renault-duster-strong-hybrid-customer-deliveries-begin-in-ind/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:00:25+00:00</news:publication_date>
+      <news:title>New Renault Duster Strong Hybrid Customer Deliveries Begin In India</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Renault-Duster-Hybrid-8.jpg</image:loc>
+      <image:title>New Renault Duster Strong Hybrid Customer Deliveries Begin In India</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/energica-rises-from-the-ashes-with-plans-for-cheaper-electric-mot/</loc>
     <news:news>
       <news:publication>
@@ -660,6 +855,21 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-honda-rebel-300-india-specs-reveal-official-7.jpg</image:loc>
       <image:title>Honda Rebel 300 India Specs Revealed - 27.6 PS, 24.5 Nm, 173 Kg, 11.2 L Tank, 690 mm Seat Ht</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/heros-vida-delivers-600-vx2-scooters-in-a-single-day-sets-new-rec/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T08:30:20+00:00</news:publication_date>
+      <news:title>Hero&#x27;s Vida Delivers 600+ VX2 Scooters In A Single Day, Sets New Record</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/vida-vx2-plus-4.4-kwh.jpg.jpeg</image:loc>
+      <image:title>Hero&#x27;s Vida Delivers 600+ VX2 Scooters In A Single Day, Sets New Record</image:title>
     </image:image>
   </url>
   <url>
@@ -2040,216 +2250,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Hyundai-Inster-2.jpg</image:loc>
       <image:title>Hyundai Ioniq P Name Trademarked, To Likely Be Used For Upcoming Small EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/latin-america-ev-sales-report-with-over-200000-units-sold-in-q3-e/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T04:57:51+00:00</news:publication_date>
-      <news:title>Latin America EV Sales Report: With Over 200,000 Units Sold in Q3, EVs Now Stand at 12% Market Share!</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/latin_america_ev_sales_report_q3_2026_featured_1600x890.png</image:loc>
-      <image:title>Latin America EV Sales Report: With Over 200,000 Units Sold in Q3, EVs Now Stand at 12% Market Share!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/elon-musk-threw-away-474-million-or-more-but-may-benefit-from-fai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T04:53:03+00:00</news:publication_date>
-      <news:title>Elon Musk Threw Away $474 Million (Or More) … But May Benefit From Failing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/04/Elon-Musk-thinking-Kyle-Field-CleanTechnica-watermark.jpeg</image:loc>
-      <image:title>Elon Musk Threw Away $474 Million (Or More) … But May Benefit From Failing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/who-controls-the-battery-in-your-driveway/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T04:51:54+00:00</news:publication_date>
-      <news:title>Who Controls the Battery in Your Driveway?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/Tesla-Model-3-Home-Charging-Mini-Tesla-CleanTechnica-Watermark-Logo.jpeg</image:loc>
-      <image:title>Who Controls the Battery in Your Driveway?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bay-area-air-district-moves-forward-with-nations-strongest-water-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T04:50:05+00:00</news:publication_date>
-      <news:title>Bay Area Air District Moves Forward with Nation&#x27;s Strongest Water Heater Standards</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/01/heat-pump-water-heater-tour.jpg</image:loc>
-      <image:title>Bay Area Air District Moves Forward with Nation&#x27;s Strongest Water Heater Standards</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/sierra-club-releases-post-election-congressional-policy-blueprint/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T04:47:27+00:00</news:publication_date>
-      <news:title>Sierra Club Releases Post-Election Congressional Policy Blueprint to Reduce Costs, Preserve Public Lands, and Make Polluters Pay</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/05/US-Capitol-Building-US-Congress-Zach-Shahan.jpeg</image:loc>
-      <image:title>Sierra Club Releases Post-Election Congressional Policy Blueprint to Reduce Costs, Preserve Public Lands, and Make Polluters Pay</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-volkswagen-virtus-facelift-first-official-teaser-is-out/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T03:56:18+00:00</news:publication_date>
-      <news:title>New Volkswagen Virtus Facelift First Official Teaser Is Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-vw-virtus-teaser-blue-foglamps-removed.jpg</image:loc>
-      <image:title>New Volkswagen Virtus Facelift First Official Teaser Is Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/retro-1970s-survivor-a-1977-honda-z50a-monkey-bike/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T03:30:38+00:00</news:publication_date>
-      <news:title>Retro 1970s Survivor: A 1977 Honda Z50A &quot;Monkey Bike</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/12/Honda-Z50A-Mini-Bike.jpg</image:loc>
-      <image:title>Retro 1970s Survivor: A 1977 Honda Z50A &quot;Monkey Bike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/locally-made-mercedes-benz-electric-glc-launched-at-rs-7850-lakh/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T02:30:16+00:00</news:publication_date>
-      <news:title>Locally-Made Mercedes-Benz Electric GLC Launched At Rs. 78.50 Lakh</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Mercedes-Benz-GLC-400-EV.jpg</image:loc>
-      <image:title>Locally-Made Mercedes-Benz Electric GLC Launched At Rs. 78.50 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bluettis-flexible-1099-apex-200-backs-up-your-home-and-powers-you/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T02:00:00+00:00</news:publication_date>
-      <news:title>BLUETTI&#x27;s flexible $1,099 Apex 200 backs up your home</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BLUETTI-Apex-200-Portable-Power-Station-5.jpg?quality=82&amp;strip=all&amp;resize=1200,628</image:loc>
-      <image:title>BLUETTI&#x27;s flexible $1,099 Apex 200 backs up your home</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/high-gas-prices-are-pumping-up-used-ev-sales-these-are-flying-off/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T01:13:53+00:00</news:publication_date>
-      <news:title>High gas prices are pumping up used EV sales: these are FLYING off the lot</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/bmw_i4_used.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>High gas prices are pumping up used EV sales: these are FLYING off the lot</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/first-volvo-ce-electric-equipment-does-the-work-without-disturbin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T23:23:15+00:00</news:publication_date>
-      <news:title>First: Volvo CE Electric equipment does the work, without disturbing the wildlife</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/volvo-l25-electric-compact-wheel-loader.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>First: Volvo CE Electric equipment does the work, without disturbing the wildlife</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nasas-swift-space-telescope-re-enters-atmosphere-with-five-times-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T23:23:13+00:00</news:publication_date>
-      <news:title>NASA&#x27;s Swift Space Telescope Re-Enters Atmosphere With Five Times More Risk Of Casualties Than Anticipated</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/nasas-swift-space-telescope-re-enters-atmosphere-with-five-times-more-risk-of-casualties-than-it-was-meant-to/l-intro-1793834432.jpg</image:loc>
-      <image:title>NASA&#x27;s Swift Space Telescope Re-Enters Atmosphere With Five Times More Risk Of Casualties Than Anticipated</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/chinas-buick-electra-gs-is-a-stylish-hybrid-america-cant-have/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T23:02:39+00:00</news:publication_date>
-      <news:title>China&#x27;s Buick Electra GS Is A Stylish Hybrid America Can&#x27;t Have</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/chinas-buick-electra-gs-is-a-stylish-hybrid-america-cant-have/l-intro-1793832542.jpg</image:loc>
-      <image:title>China&#x27;s Buick Electra GS Is A Stylish Hybrid America Can&#x27;t Have</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gm-is-recalling-more-than-67000-cadillac-and-chevy-evs-over-a-bra/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:15:04+00:00</news:publication_date>
-      <news:title>Urgent Safety Alert: GM is recalling more than 67,000 Cadillac and Chevy EVs over a brake software defect</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Chevy-Blazer-EV-2027-prices-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Urgent Safety Alert: GM is recalling more than 67,000 Cadillac and Chevy EVs over a brake software defect</image:title>
     </image:image>
   </url>
 </urlset>
