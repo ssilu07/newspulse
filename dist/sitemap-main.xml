@@ -3,39 +3,279 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-06T13:46:39Z</lastmod>
+    <lastmod>2026-11-06T16:52:56Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-06T13:46:39Z</lastmod>
+    <lastmod>2026-11-06T16:52:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-06T13:46:39Z</lastmod>
+    <lastmod>2026-11-06T16:52:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-06T13:46:39Z</lastmod>
+    <lastmod>2026-11-06T16:52:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-06T13:46:39Z</lastmod>
+    <lastmod>2026-11-06T16:52:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-06T13:46:39Z</lastmod>
+    <lastmod>2026-11-06T16:52:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-toyota-rav4-raises-prices-and-ride-height-phev-model-adds-na/</loc>
+    <lastmod>2026-11-06T16:50:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e2a453fd-8b49-43e3-b204-cc3928957c04.jpg</image:loc>
+      <image:title>2027 Toyota RAV4 Raises Prices and Ride Height, PHEV Model Adds NACS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-toyota-rav4-raises-prices-and-ride-height-phev-model-adds-na/</loc>
+    <lastmod>2026-11-06T16:50:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e2a453fd-8b49-43e3-b204-cc3928957c04.jpg</image:loc>
+      <image:title>2027 Toyota RAV4 Raises Prices and Ride Height, PHEV Model Adds NACS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-happened-in-brazil-fp1/</loc>
+    <lastmod>2026-11-06T16:42:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451401_HiRes.jpg</image:loc>
+      <image:title>Drama &amp; Chaos: What Really Happened In Brazil FP1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-happened-in-brazil-fp1/</loc>
+    <lastmod>2026-11-06T16:42:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451401_HiRes.jpg</image:loc>
+      <image:title>Drama &amp; Chaos: What Really Happened In Brazil FP1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1-2026-brazilian-grand-prix-practice-results/</loc>
+    <lastmod>2026-11-06T16:36:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451388_HiRes.jpg</image:loc>
+      <image:title>F1 2026 Brazilian Grand Prix practice results</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1-2026-brazilian-grand-prix-practice-results/</loc>
+    <lastmod>2026-11-06T16:36:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451388_HiRes.jpg</image:loc>
+      <image:title>F1 2026 Brazilian Grand Prix practice results</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mattel-brick-shop-launches-hot-wheelssized-model-car-sets/</loc>
+    <lastmod>2026-11-06T16:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7e24b279-2671-410d-ac38-3701158d8aa1.jpeg</image:loc>
+      <image:title>Mattel Brick Shop Launches Hot Wheels-Sized Model Car Sets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mattel-brick-shop-launches-hot-wheelssized-model-car-sets/</loc>
+    <lastmod>2026-11-06T16:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7e24b279-2671-410d-ac38-3701158d8aa1.jpeg</image:loc>
+      <image:title>Mattel Brick Shop Launches Hot Wheels-Sized Model Car Sets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/as-jackery-inventory-sells-out-are-portable-batteries-set-to-take/</loc>
+    <lastmod>2026-11-06T16:22:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/PXL_20261023_174130281-a-scaled.jpg</image:loc>
+      <image:title>As Jackery Inventory Sells Out, Are Portable Batteries Set To Take Off?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/as-jackery-inventory-sells-out-are-portable-batteries-set-to-take/</loc>
+    <lastmod>2026-11-06T16:22:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/PXL_20261023_174130281-a-scaled.jpg</image:loc>
+      <image:title>As Jackery Inventory Sells Out, Are Portable Batteries Set To Take Off?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/americas-new-shipbuilding-orders-are-expensive-bets-on-fossil-fre/</loc>
+    <lastmod>2026-11-06T15:58:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/shipbuilding_orderbook_hero_1600x900.png</image:loc>
+      <image:title>America&#x27;s New Shipbuilding Orders Are Expensive Bets on Fossil Freight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/americas-new-shipbuilding-orders-are-expensive-bets-on-fossil-fre/</loc>
+    <lastmod>2026-11-06T15:58:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/shipbuilding_orderbook_hero_1600x900.png</image:loc>
+      <image:title>America&#x27;s New Shipbuilding Orders Are Expensive Bets on Fossil Freight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kias-pv7-electric-van-stretches-over-17-feet-and-seats-9/</loc>
+    <lastmod>2026-11-06T15:30:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-PV7-EV-van.jpeg?quality=82&amp;strip=all&amp;w=1500</image:loc>
+      <image:title>Kia&#x27;s PV7 electric van stretches over 17 feet and seats 9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kias-pv7-electric-van-stretches-over-17-feet-and-seats-9/</loc>
+    <lastmod>2026-11-06T15:30:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-PV7-EV-van.jpeg?quality=82&amp;strip=all&amp;w=1500</image:loc>
+      <image:title>Kia&#x27;s PV7 electric van stretches over 17 feet and seats 9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ferrari-is-unstoppable-right-now/</loc>
+    <lastmod>2026-11-06T15:23:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/ferrari-is-unstoppable-right-now/l-intro-1793978539.jpg</image:loc>
+      <image:title>Ferrari Is Unstoppable Right Now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ferrari-is-unstoppable-right-now/</loc>
+    <lastmod>2026-11-06T15:23:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/ferrari-is-unstoppable-right-now/l-intro-1793978539.jpg</image:loc>
+      <image:title>Ferrari Is Unstoppable Right Now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lincoln-is-bringing-back-the-plug-in-hybrid-aviator-in-china/</loc>
+    <lastmod>2026-11-06T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/da75926a-7cae-4702-9e5c-88cbdae0772c.jpg</image:loc>
+      <image:title>Lincoln Is Bringing Back the Plug-In Hybrid Aviator in China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lincoln-is-bringing-back-the-plug-in-hybrid-aviator-in-china/</loc>
+    <lastmod>2026-11-06T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/da75926a-7cae-4702-9e5c-88cbdae0772c.jpg</image:loc>
+      <image:title>Lincoln Is Bringing Back the Plug-In Hybrid Aviator in China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-car-screams-im-divorced/</loc>
+    <lastmod>2026-11-06T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-car-screams-im-divorced/l-intro-1793912061.jpg</image:loc>
+      <image:title>What Car Screams &#x27;I&#x27;m Divorced&#x27;?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-car-screams-im-divorced/</loc>
+    <lastmod>2026-11-06T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-car-screams-im-divorced/l-intro-1793912061.jpg</image:loc>
+      <image:title>What Car Screams &#x27;I&#x27;m Divorced&#x27;?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/too-much-motion-in-the-ocean-we-test-the-2027-mercedes-benz-gls45/</loc>
+    <lastmod>2026-11-06T14:13:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d1175134-4ab7-40ad-9dbe-d419a14f1d0c.jpg</image:loc>
+      <image:title>Too Much Motion in the Ocean: We Test the 2027 Mercedes-Benz GLS450</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/too-much-motion-in-the-ocean-we-test-the-2027-mercedes-benz-gls45/</loc>
+    <lastmod>2026-11-06T14:13:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d1175134-4ab7-40ad-9dbe-d419a14f1d0c.jpg</image:loc>
+      <image:title>Too Much Motion in the Ocean: We Test the 2027 Mercedes-Benz GLS450</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-hikes-cybertruck-prices-up-to-10-after-announcing-it-will-k/</loc>
+    <lastmod>2026-11-06T14:03:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla hikes Cybertruck prices up to 10% after announcing it will kill production</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-hikes-cybertruck-prices-up-to-10-after-announcing-it-will-k/</loc>
+    <lastmod>2026-11-06T14:03:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla hikes Cybertruck prices up to 10% after announcing it will kill production</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/lucid-teases-its-cheaper-sub-50000-cosmos-ev-in-new-video-and-ima/</loc>
@@ -295,6 +535,86 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYDs-Yangwang-U9-Xtreme-just-reached-503.17-kmh-312.66-mph.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>BYD&#x27;s electric hypercar hits 312 mph, first production car over 500 km/h</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-to-end-cybertruck-production-as-sales-stall-at-10-of-plan/</loc>
+    <lastmod>2026-11-06T11:33:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla to end Cybertruck production as sales stall at ~10% of plan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-to-end-cybertruck-production-as-sales-stall-at-10-of-plan/</loc>
+    <lastmod>2026-11-06T11:33:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla to end Cybertruck production as sales stall at ~10% of plan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-xuv3xo-zng-crash-test-5-star-bharat-ncap-safety-rating/</loc>
+    <lastmod>2026-11-06T10:54:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-xuv3xo-zng-bharat-ncap-results.jpg</image:loc>
+      <image:title>Mahindra XUV3XO ZNG Crash Test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-xuv3xo-zng-crash-test-5-star-bharat-ncap-safety-rating/</loc>
+    <lastmod>2026-11-06T10:54:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-xuv3xo-zng-bharat-ncap-results.jpg</image:loc>
+      <image:title>Mahindra XUV3XO ZNG Crash Test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hero-xtreme-125r-stealth-edition-launch-price-rs-116-l-tft-tpms-c/</loc>
+    <lastmod>2026-11-06T10:37:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Hero-Xtreme-125R-Stealth-Edition-tft-cruise-tpms-launch-8.jpg</image:loc>
+      <image:title>Hero Xtreme 125R Stealth Edition Launch Price Rs 1.16 L - TFT, TPMS, Cruise Control</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hero-xtreme-125r-stealth-edition-launch-price-rs-116-l-tft-tpms-c/</loc>
+    <lastmod>2026-11-06T10:37:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Hero-Xtreme-125R-Stealth-Edition-tft-cruise-tpms-launch-8.jpg</image:loc>
+      <image:title>Hero Xtreme 125R Stealth Edition Launch Price Rs 1.16 L - TFT, TPMS, Cruise Control</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/energica-rises-from-the-ashes-with-plans-for-cheaper-electric-mot/</loc>
+    <lastmod>2026-11-06T09:50:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/energica-revival-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Energica rises from the ashes with plans for cheaper electric motorcycles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/energica-rises-from-the-ashes-with-plans-for-cheaper-electric-mot/</loc>
+    <lastmod>2026-11-06T09:50:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/energica-revival-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Energica rises from the ashes with plans for cheaper electric motorcycles</image:title>
     </image:image>
   </url>
   <url>
@@ -2715,326 +3035,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Range-Rover-cheapest-SUVs-discontinued.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Range Rover is axing its two cheapest SUVs, making way for a new entry-level EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/germanys-ev-share-hits-record-37-as-bevs-beat-gas-and-diesel-comb/</loc>
-    <lastmod>2026-11-04T18:20:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?w=1600</image:loc>
-      <image:title>Germany&#x27;s EV share hits record 37% as BEVs beat gas and diesel combined</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/germanys-ev-share-hits-record-37-as-bevs-beat-gas-and-diesel-comb/</loc>
-    <lastmod>2026-11-04T18:20:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?w=1600</image:loc>
-      <image:title>Germany&#x27;s EV share hits record 37% as BEVs beat gas and diesel combined</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-20/</loc>
-    <lastmod>2026-11-04T18:12:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1600,1067</image:loc>
-      <image:title>Waymo confirms it&#x27;s shaking up its Uber relationship in January 2028</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-20/</loc>
-    <lastmod>2026-11-04T18:12:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1600,1067</image:loc>
-      <image:title>Waymo confirms it&#x27;s shaking up its Uber relationship in January 2028</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-says-even-the-fathom-evs-fanciest-trims-will-stay-under-40k/</loc>
-    <lastmod>2026-11-04T17:57:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/52484e15-9a72-4b16-baf8-8470bd98f328.jpg</image:loc>
-      <image:title>Ford Says Even the Fathom EV&#x27;s Fanciest Trims Will Stay Under $40K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ford-says-even-the-fathom-evs-fanciest-trims-will-stay-under-40k/</loc>
-    <lastmod>2026-11-04T17:57:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/52484e15-9a72-4b16-baf8-8470bd98f328.jpg</image:loc>
-      <image:title>Ford Says Even the Fathom EV&#x27;s Fanciest Trims Will Stay Under $40K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/last-nights-blue-tomic-bomb-probably-blasted-away-musks-tesla-spa/</loc>
-    <lastmod>2026-11-04T17:51:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/last-nights-blue-tomic-bomb-was-probably-the-nail-in-the-coffin-for-musks-tesla-spacex-merger-dreams/l-intro-1793819675.jpg</image:loc>
-      <image:title>Last Night&#x27;s Blue-Tomic Bomb Probably Blasted Away Musk&#x27;s Tesla-SpaceX Merger Dreams</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/last-nights-blue-tomic-bomb-probably-blasted-away-musks-tesla-spa/</loc>
-    <lastmod>2026-11-04T17:51:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/last-nights-blue-tomic-bomb-was-probably-the-nail-in-the-coffin-for-musks-tesla-spacex-merger-dreams/l-intro-1793819675.jpg</image:loc>
-      <image:title>Last Night&#x27;s Blue-Tomic Bomb Probably Blasted Away Musk&#x27;s Tesla-SpaceX Merger Dreams</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ferrari-luce-sold-out-through-2027-in-another-win-for-the-liberal/</loc>
-    <lastmod>2026-11-04T17:37:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/ferrari-luce-sold-out-through-2027-in-another-win-for-the-liberal-agenda/l-intro-1793813580.jpg</image:loc>
-      <image:title>Ferrari Luce Sold Out Through 2027 In Another Win For The Liberal Agenda</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ferrari-luce-sold-out-through-2027-in-another-win-for-the-liberal/</loc>
-    <lastmod>2026-11-04T17:37:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/ferrari-luce-sold-out-through-2027-in-another-win-for-the-liberal-agenda/l-intro-1793813580.jpg</image:loc>
-      <image:title>Ferrari Luce Sold Out Through 2027 In Another Win For The Liberal Agenda</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/war-secretary-pete-hegseth-endorses-15-minute-city-model/</loc>
-    <lastmod>2026-11-04T17:29:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Rutgers-15-minute-neighborhoods.png</image:loc>
-      <image:title>War&quot; Secretary Pete Hegseth Endorses 15 Minute City Model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/war-secretary-pete-hegseth-endorses-15-minute-city-model/</loc>
-    <lastmod>2026-11-04T17:29:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Rutgers-15-minute-neighborhoods.png</image:loc>
-      <image:title>War&quot; Secretary Pete Hegseth Endorses 15 Minute City Model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/blue-wave-not-climate-related-but-critical-to-clean-energy-electr/</loc>
-    <lastmod>2026-11-04T17:25:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Blue-Wave-scaled.jpg</image:loc>
-      <image:title>Blue Wave Not Climate Related, But Critical To Clean Energy &amp; Electric Vehicles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/blue-wave-not-climate-related-but-critical-to-clean-energy-electr/</loc>
-    <lastmod>2026-11-04T17:25:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Blue-Wave-scaled.jpg</image:loc>
-      <image:title>Blue Wave Not Climate Related, But Critical To Clean Energy &amp; Electric Vehicles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-new-luxury-electric-suv-has-one-big-problem-it-weighs-over-8/</loc>
-    <lastmod>2026-11-04T17:14:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N9-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD&#x27;s new luxury electric SUV has one big problem: It weighs over 8,200 lbs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byds-new-luxury-electric-suv-has-one-big-problem-it-weighs-over-8/</loc>
-    <lastmod>2026-11-04T17:14:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N9-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD&#x27;s new luxury electric SUV has one big problem: It weighs over 8,200 lbs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/spacex-starship-will-need-to-re-fuel-22-times-in-space-to-make-it/</loc>
-    <lastmod>2026-11-04T16:57:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/how-many-spacex-starships-in-orbit-could-a-starship-refuel-in-orbit-if-a-starship-could-refuel-in-orbit/l-intro-1793810898.jpg</image:loc>
-      <image:title>SpaceX Starship Will Need To Re-Fuel 22 Times In Space To Make It To The Moon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/spacex-starship-will-need-to-re-fuel-22-times-in-space-to-make-it/</loc>
-    <lastmod>2026-11-04T16:57:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/how-many-spacex-starships-in-orbit-could-a-starship-refuel-in-orbit-if-a-starship-could-refuel-in-orbit/l-intro-1793810898.jpg</image:loc>
-      <image:title>SpaceX Starship Will Need To Re-Fuel 22 Times In Space To Make It To The Moon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/car-body-styles-and-sizes-explained-from-compact-sedans-to-full-s/</loc>
-    <lastmod>2026-11-04T16:55:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-body-styles-explained-lead-102-681901387ed0c.jpg</image:loc>
-      <image:title>Car Body Styles and Sizes Explained, from Compact Sedans to Full-Size SUVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/car-body-styles-and-sizes-explained-from-compact-sedans-to-full-s/</loc>
-    <lastmod>2026-11-04T16:55:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-body-styles-explained-lead-102-681901387ed0c.jpg</image:loc>
-      <image:title>Car Body Styles and Sizes Explained, from Compact Sedans to Full-Size SUVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/xiaomis-humanoid-robots-work-a-full-8-hour-shift-in-its-ev-factor/</loc>
-    <lastmod>2026-11-04T16:23:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Xiaomi-humanoid-robot.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Xiaomi&#x27;s humanoid robots work a full 8-hour shift in its EV factory</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/xiaomis-humanoid-robots-work-a-full-8-hour-shift-in-its-ev-factor/</loc>
-    <lastmod>2026-11-04T16:23:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Xiaomi-humanoid-robot.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Xiaomi&#x27;s humanoid robots work a full 8-hour shift in its EV factory</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/puerto-rico-tapped-sunruns-home-batteries-for-18-straight-days/</loc>
-    <lastmod>2026-11-04T16:21:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/05/sunrun-tesla-battery-storage1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Puerto Rico tapped Sunrun&#x27;s home batteries for 18 straight days</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/puerto-rico-tapped-sunruns-home-batteries-for-18-straight-days/</loc>
-    <lastmod>2026-11-04T16:21:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2025/05/sunrun-tesla-battery-storage1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Puerto Rico tapped Sunrun&#x27;s home batteries for 18 straight days</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-alpinas-first-production-car-glides-during-high-speed-testing/</loc>
-    <lastmod>2026-11-04T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/de66b0d3-c237-4716-b6ef-bf7d2f36450e.jpg</image:loc>
-      <image:title>BMW Alpina&#x27;s First Production Car Glides During High-Speed Testing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-alpinas-first-production-car-glides-during-high-speed-testing/</loc>
-    <lastmod>2026-11-04T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/de66b0d3-c237-4716-b6ef-bf7d2f36450e.jpg</image:loc>
-      <image:title>BMW Alpina&#x27;s First Production Car Glides During High-Speed Testing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/democrats-big-win-could-complicate-trumps-emissions-plans/</loc>
-    <lastmod>2026-11-04T15:34:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/democrats-win-big-complicating-trumps-emissions-plans/l-intro-1793808326.jpg</image:loc>
-      <image:title>Democrats Big Win Could Complicate Trump&#x27;s Emissions Plans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/democrats-big-win-could-complicate-trumps-emissions-plans/</loc>
-    <lastmod>2026-11-04T15:34:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/democrats-win-big-complicating-trumps-emissions-plans/l-intro-1793808326.jpg</image:loc>
-      <image:title>Democrats Big Win Could Complicate Trump&#x27;s Emissions Plans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-automakers-have-the-coolest-model-names-according-to-our-re/</loc>
-    <lastmod>2026-11-04T15:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-automakers-have-the-coolest-model-names-according-to-our-readers/l-intro-1793751054.jpg</image:loc>
-      <image:title>These Automakers Have The Coolest Model Names According To Our Readers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-automakers-have-the-coolest-model-names-according-to-our-re/</loc>
-    <lastmod>2026-11-04T15:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-automakers-have-the-coolest-model-names-according-to-our-readers/l-intro-1793751054.jpg</image:loc>
-      <image:title>These Automakers Have The Coolest Model Names According To Our Readers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-ev7-revealed-as-an-upcoming-midsize-electric-suv/</loc>
-    <lastmod>2026-11-04T15:15:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV7-electric-SUV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Kia EV7 revealed as an upcoming midsize electric SUV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/kia-ev7-revealed-as-an-upcoming-midsize-electric-suv/</loc>
-    <lastmod>2026-11-04T15:15:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV7-electric-SUV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Kia EV7 revealed as an upcoming midsize electric SUV</image:title>
     </image:image>
   </url>
 </urlset>
