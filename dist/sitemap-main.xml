@@ -3,39 +3,259 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-06T16:52:56Z</lastmod>
+    <lastmod>2026-11-06T20:06:33Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-06T16:52:56Z</lastmod>
+    <lastmod>2026-11-06T20:06:33Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-06T16:52:56Z</lastmod>
+    <lastmod>2026-11-06T20:06:33Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-06T16:52:56Z</lastmod>
+    <lastmod>2026-11-06T20:06:33Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-06T16:52:56Z</lastmod>
+    <lastmod>2026-11-06T20:06:33Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-06T16:52:56Z</lastmod>
+    <lastmod>2026-11-06T20:06:33Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/alas-poor-cybertruck-we-hardly-knew-thee/</loc>
+    <lastmod>2026-11-06T19:57:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Cybertruck.jpg</image:loc>
+      <image:title>Alas, Poor Cybertruck, We Hardly Knew Thee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/alas-poor-cybertruck-we-hardly-knew-thee/</loc>
+    <lastmod>2026-11-06T19:57:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Cybertruck.jpg</image:loc>
+      <image:title>Alas, Poor Cybertruck, We Hardly Knew Thee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-/</loc>
+    <lastmod>2026-11-06T19:40:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-civic-hybrid/l-intro-1793993936.jpg</image:loc>
+      <image:title>This Modified Fiat Topolino Could Cost You More Than A New Honda Civic Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-/</loc>
+    <lastmod>2026-11-06T19:40:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-civic-hybrid/l-intro-1793993936.jpg</image:loc>
+      <image:title>This Modified Fiat Topolino Could Cost You More Than A New Honda Civic Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-/</loc>
+    <lastmod>2026-11-06T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-from-the-past/l-intro-1793830195.jpg</image:loc>
+      <image:title>This Shocking 1997 Ford Ranger EV On Bring A Trailer Is A Splash From The Past</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-/</loc>
+    <lastmod>2026-11-06T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-from-the-past/l-intro-1793830195.jpg</image:loc>
+      <image:title>This Shocking 1997 Ford Ranger EV On Bring A Trailer Is A Splash From The Past</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-r/</loc>
+    <lastmod>2026-11-06T19:24:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-rogue-hybrid/l-intro-1793992902.jpg</image:loc>
+      <image:title>Nissan Will Pay Toyota RAV4 Owners To Trade Their Car For A New Rogue Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-r/</loc>
+    <lastmod>2026-11-06T19:24:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-rogue-hybrid/l-intro-1793992902.jpg</image:loc>
+      <image:title>Nissan Will Pay Toyota RAV4 Owners To Trade Their Car For A New Rogue Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bmw-is-throwing-in-500-in-free-public-charging-with-its-new-2027-/</loc>
+    <lastmod>2026-11-06T18:50:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX3-charging-credit.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BMW is throwing in $500 in free public charging with its new 2027 iX3, i5, and i7 EVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bmw-is-throwing-in-500-in-free-public-charging-with-its-new-2027-/</loc>
+    <lastmod>2026-11-06T18:50:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX3-charging-credit.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BMW is throwing in $500 in free public charging with its new 2027 iX3, i5, and i7 EVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-ford-mustang-gtd/</loc>
+    <lastmod>2026-11-06T17:39:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-ford-mustang-gtd-103-copy-6902326adbe93.jpg?crop=0.568xw:0.426xh;0.136xw,0.366xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Ford Mustang GTD</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-ford-mustang-gtd/</loc>
+    <lastmod>2026-11-06T17:39:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-ford-mustang-gtd-103-copy-6902326adbe93.jpg?crop=0.568xw:0.426xh;0.136xw,0.366xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Ford Mustang GTD</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-jeep-recon-ev/</loc>
+    <lastmod>2026-11-06T17:34:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cf7c1e48-f45b-41de-8fea-c76e5b52a45f.jpg?crop=0.492xw:0.369xh;0.331xw,0.363xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Jeep Recon EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-jeep-recon-ev/</loc>
+    <lastmod>2026-11-06T17:34:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cf7c1e48-f45b-41de-8fea-c76e5b52a45f.jpg?crop=0.492xw:0.369xh;0.331xw,0.363xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Jeep Recon EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-buick-envista/</loc>
+    <lastmod>2026-11-06T17:31:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-buick-envista-avenir-118-68d54b042265f.jpg?crop=0.53xw:0.398xh;0.25xw,0.433xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Buick Envista</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-buick-envista/</loc>
+    <lastmod>2026-11-06T17:31:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-buick-envista-avenir-118-68d54b042265f.jpg?crop=0.53xw:0.398xh;0.25xw,0.433xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Buick Envista</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-spacex-lost-420-billion-in-market-cap-this-week-didnt-have-/</loc>
+    <lastmod>2026-11-06T17:27:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/12/Tesla-Cybertruck-unveiling-event-truck-KYLE-Elon-Musk-CleanTechnica.jpg</image:loc>
+      <image:title>Tesla &amp; SpaceX Lost $420 Billion In Market Cap This Week - Didn&#x27;t Have To Be This Way</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-spacex-lost-420-billion-in-market-cap-this-week-didnt-have-/</loc>
+    <lastmod>2026-11-06T17:27:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/12/Tesla-Cybertruck-unveiling-event-truck-KYLE-Elon-Musk-CleanTechnica.jpg</image:loc>
+      <image:title>Tesla &amp; SpaceX Lost $420 Billion In Market Cap This Week - Didn&#x27;t Have To Be This Way</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-bmw-ix3-smashed-its-epa-range-rating-driving-well-over-400-mi/</loc>
+    <lastmod>2026-11-06T17:11:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX3-real-world-range.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>The BMW iX3 smashed its EPA range rating, driving well over 400 miles in a real-world test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-bmw-ix3-smashed-its-epa-range-rating-driving-well-over-400-mi/</loc>
+    <lastmod>2026-11-06T17:11:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX3-real-world-range.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>The BMW iX3 smashed its EPA range rating, driving well over 400 miles in a real-world test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/surprise-ducati-pacesetter-on-qatar-motogp-friday/</loc>
+    <lastmod>2026-11-06T17:08:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1360201_HiRes.jpg</image:loc>
+      <image:title>Surprise Ducati pacesetter on Qatar MotoGP Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/surprise-ducati-pacesetter-on-qatar-motogp-friday/</loc>
+    <lastmod>2026-11-06T17:08:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1360201_HiRes.jpg</image:loc>
+      <image:title>Surprise Ducati pacesetter on Qatar MotoGP Friday</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/2027-toyota-rav4-raises-prices-and-ride-height-phev-model-adds-na/</loc>
@@ -178,6 +398,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/these-risky-car-purchases-ended-up-being-way-more-reliable-for-ou/</loc>
+    <lastmod>2026-11-06T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-risky-car-purchases-ended-up-being-reliable-reader-answers/l-intro-1793929811.jpg</image:loc>
+      <image:title>These Risky Car Purchases Ended Up Being Way More Reliable For Our Readers Than Most People Would Assume</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-risky-car-purchases-ended-up-being-way-more-reliable-for-ou/</loc>
+    <lastmod>2026-11-06T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-risky-car-purchases-ended-up-being-reliable-reader-answers/l-intro-1793929811.jpg</image:loc>
+      <image:title>These Risky Car Purchases Ended Up Being Way More Reliable For Our Readers Than Most People Would Assume</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ferrari-is-unstoppable-right-now/</loc>
     <lastmod>2026-11-06T15:23:53+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -275,6 +515,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Tesla hikes Cybertruck prices up to 10% after announcing it will kill production</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trump-is-gonna-cave-on-offshore-wind-in-543/</loc>
+    <lastmod>2026-11-06T13:45:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/01/coastal-virginia-offshore-wind-project-.png</image:loc>
+      <image:title>Trump Is Gonna Cave On Offshore Wind In 5…4…3…</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-is-gonna-cave-on-offshore-wind-in-543/</loc>
+    <lastmod>2026-11-06T13:45:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/01/coastal-virginia-offshore-wind-project-.png</image:loc>
+      <image:title>Trump Is Gonna Cave On Offshore Wind In 5…4…3…</image:title>
     </image:image>
   </url>
   <url>
@@ -558,6 +818,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/russell-to-take-grid-penalty-at-f1s-brazilian-gp/</loc>
+    <lastmod>2026-11-06T11:13:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-MXGP-31-10-26-0289-1.jpg</image:loc>
+      <image:title>Russell to take grid penalty at F1&#x27;s Brazilian GP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/russell-to-take-grid-penalty-at-f1s-brazilian-gp/</loc>
+    <lastmod>2026-11-06T11:13:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-MXGP-31-10-26-0289-1.jpg</image:loc>
+      <image:title>Russell to take grid penalty at F1&#x27;s Brazilian GP</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/mahindra-xuv3xo-zng-crash-test-5-star-bharat-ncap-safety-rating/</loc>
     <lastmod>2026-11-06T10:54:24+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -678,6 +958,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/triumph-tracker-400-to-get-tft-screen-cruise-control-from-bonnie-/</loc>
+    <lastmod>2026-11-06T07:06:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-triumph-tracker-400-tft-variant-spied.jpg</image:loc>
+      <image:title>Triumph Tracker 400 To Get TFT Screen, Cruise Control From Bonnie T40</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/triumph-tracker-400-to-get-tft-screen-cruise-control-from-bonnie-/</loc>
+    <lastmod>2026-11-06T07:06:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-triumph-tracker-400-tft-variant-spied.jpg</image:loc>
+      <image:title>Triumph Tracker 400 To Get TFT Screen, Cruise Control From Bonnie T40</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/how-can-europe-accelerate-electric-trucking/</loc>
     <lastmod>2026-11-06T04:57:12+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -735,6 +1035,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/XPENG-physical-AI-image.jpg</image:loc>
       <image:title>XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tvs-m1-s-debuts-at-eicma-prod-spec-escooter-7-tft-120-km-range/</loc>
+    <lastmod>2026-11-06T03:51:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-tvs-m1-s-electric-scooter-debuts.jpg</image:loc>
+      <image:title>TVS M1-S Debuts At EICMA - Prod-Spec eScooter, 7″ TFT, 120 km Range</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tvs-m1-s-debuts-at-eicma-prod-spec-escooter-7-tft-120-km-range/</loc>
+    <lastmod>2026-11-06T03:51:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-tvs-m1-s-electric-scooter-debuts.jpg</image:loc>
+      <image:title>TVS M1-S Debuts At EICMA - Prod-Spec eScooter, 7″ TFT, 120 km Range</image:title>
     </image:image>
   </url>
   <url>
@@ -2715,326 +3035,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Chevy-Blazer-EV-2027-prices-1.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Urgent Safety Alert: GM is recalling more than 67,000 Cadillac and Chevy EVs over a brake software defect</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/which-custom-chevy-is-your-favorite-this-sema-pair-has-the-crowd-/</loc>
-    <lastmod>2026-11-04T22:01:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f4066d8b-a9a5-45ca-ade5-5cff49a9a83b.jpeg</image:loc>
-      <image:title>Which Custom Chevy Is Your Favorite? This SEMA Pair Has the Crowd Voting</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/which-custom-chevy-is-your-favorite-this-sema-pair-has-the-crowd-/</loc>
-    <lastmod>2026-11-04T22:01:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f4066d8b-a9a5-45ca-ade5-5cff49a9a83b.jpeg</image:loc>
-      <image:title>Which Custom Chevy Is Your Favorite? This SEMA Pair Has the Crowd Voting</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</loc>
-    <lastmod>2026-11-04T21:56:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1600,1067</image:loc>
-      <image:title>Almost no one uses AI agents to book their Uber, company says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</loc>
-    <lastmod>2026-11-04T21:56:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1600,1067</image:loc>
-      <image:title>Almost no one uses AI agents to book their Uber, company says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mercedes-smart-rear-window-delivers-passive-aggressive-messages-t/</loc>
-    <lastmod>2026-11-04T21:31:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mercedes-smart-rear-window-delivers-passive-aggressive-messages-to-the-people-behind-you/l-intro-1793827844.jpg</image:loc>
-      <image:title>Mercedes&#x27; Smart Rear Window Delivers Passive Aggressive Messages To The People Behind You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mercedes-smart-rear-window-delivers-passive-aggressive-messages-t/</loc>
-    <lastmod>2026-11-04T21:31:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mercedes-smart-rear-window-delivers-passive-aggressive-messages-to-the-people-behind-you/l-intro-1793827844.jpg</image:loc>
-      <image:title>Mercedes&#x27; Smart Rear Window Delivers Passive Aggressive Messages To The People Behind You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nabrawinds-crane-free-wind-towers-face-a-supplier-test/</loc>
-    <lastmod>2026-11-04T21:27:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/nabrawind_tfie_briefing_hero.png</image:loc>
-      <image:title>Nabrawind&#x27;s Crane-Free Wind Towers Face a Supplier Test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/nabrawinds-crane-free-wind-towers-face-a-supplier-test/</loc>
-    <lastmod>2026-11-04T21:27:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/nabrawind_tfie_briefing_hero.png</image:loc>
-      <image:title>Nabrawind&#x27;s Crane-Free Wind Towers Face a Supplier Test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rimac-is-helping-bmw-create-two-new-mystery-models/</loc>
-    <lastmod>2026-11-04T21:09:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/rimac-is-helping-bmw-create-two-new-mystery-models/l-intro-1793826447.jpg</image:loc>
-      <image:title>Rimac Is Helping BMW Create Two New Mystery Models</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rimac-is-helping-bmw-create-two-new-mystery-models/</loc>
-    <lastmod>2026-11-04T21:09:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/rimac-is-helping-bmw-create-two-new-mystery-models/l-intro-1793826447.jpg</image:loc>
-      <image:title>Rimac Is Helping BMW Create Two New Mystery Models</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mercedes-delays-us-glc-production-leaving-the-model-vulnerable-to/</loc>
-    <lastmod>2026-11-04T21:00:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-mercedes-benz-glc-class-112-1654031498.jpg</image:loc>
-      <image:title>Mercedes Delays U.S. GLC Production, Leaving the Model Vulnerable to Tariffs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mercedes-delays-us-glc-production-leaving-the-model-vulnerable-to/</loc>
-    <lastmod>2026-11-04T21:00:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-mercedes-benz-glc-class-112-1654031498.jpg</image:loc>
-      <image:title>Mercedes Delays U.S. GLC Production, Leaving the Model Vulnerable to Tariffs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-fathom-ev-pickup-prices-will-range-from-28350-to-the-high-30/</loc>
-    <lastmod>2026-11-04T20:53:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Fathom-EV-spotted-again.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Ford Fathom EV pickup prices will range from $28,350 to the high $30Ks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ford-fathom-ev-pickup-prices-will-range-from-28350-to-the-high-30/</loc>
-    <lastmod>2026-11-04T20:53:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Ford-Fathom-EV-spotted-again.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Ford Fathom EV pickup prices will range from $28,350 to the high $30Ks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bay-to-la-takeovers-end-with-22-arrests-and-7-cars-impounded/</loc>
-    <lastmod>2026-11-04T20:44:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/bay-to-la-takeovers-end-with-22-arrests-and-7-cars-impounded/l-intro-1793824992.jpg</image:loc>
-      <image:title>Bay To LA&#x27; Takeovers End With 22 Arrests And 7 Cars Impounded</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bay-to-la-takeovers-end-with-22-arrests-and-7-cars-impounded/</loc>
-    <lastmod>2026-11-04T20:44:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/bay-to-la-takeovers-end-with-22-arrests-and-7-cars-impounded/l-intro-1793824992.jpg</image:loc>
-      <image:title>Bay To LA&#x27; Takeovers End With 22 Arrests And 7 Cars Impounded</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-lamborghini-temerario/</loc>
-    <lastmod>2026-11-04T20:29:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5dbb366d-ab43-434c-9245-c7577b97159f.jpg?crop=0.775xw:0.581xh;0.128xw,0.227xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Lamborghini Temerario</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-lamborghini-temerario/</loc>
-    <lastmod>2026-11-04T20:29:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5dbb366d-ab43-434c-9245-c7577b97159f.jpg?crop=0.775xw:0.581xh;0.128xw,0.227xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Lamborghini Temerario</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-kia-ev4-gt-is-made-of-actual-tennis-court-clay/</loc>
-    <lastmod>2026-11-04T20:01:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-kia-ev4-gt-is-made-of-actual-tennis-court-clay/l-intro-1793822367.jpg</image:loc>
-      <image:title>This Kia EV4 GT Is Made Of Actual Tennis Court Clay</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-kia-ev4-gt-is-made-of-actual-tennis-court-clay/</loc>
-    <lastmod>2026-11-04T20:01:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-kia-ev4-gt-is-made-of-actual-tennis-court-clay/l-intro-1793822367.jpg</image:loc>
-      <image:title>This Kia EV4 GT Is Made Of Actual Tennis Court Clay</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-allegedly-misled-thousands-of-south-korean-customers-about-/</loc>
-    <lastmod>2026-11-04T19:54:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/tesla-allegedly-misled-thousands-of-south-korean-customers-about-full-self-driving/l-intro-1793821912.jpg</image:loc>
-      <image:title>Tesla Allegedly Misled Thousands Of South Korean Customers About &#x27;Full Self-Driving</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-allegedly-misled-thousands-of-south-korean-customers-about-/</loc>
-    <lastmod>2026-11-04T19:54:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/tesla-allegedly-misled-thousands-of-south-korean-customers-about-full-self-driving/l-intro-1793821912.jpg</image:loc>
-      <image:title>Tesla Allegedly Misled Thousands Of South Korean Customers About &#x27;Full Self-Driving</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-the-coolest-and-craziest-cars-we-saw-at-sema-2026/</loc>
-    <lastmod>2026-11-04T19:51:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f183b881-b9d9-491c-80bf-2e18fd46f9af.jpeg</image:loc>
-      <image:title>These Are the Coolest and Craziest Cars We Saw at SEMA 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-are-the-coolest-and-craziest-cars-we-saw-at-sema-2026/</loc>
-    <lastmod>2026-11-04T19:51:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f183b881-b9d9-491c-80bf-2e18fd46f9af.jpeg</image:loc>
-      <image:title>These Are the Coolest and Craziest Cars We Saw at SEMA 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gm-recalls-over-67000-chevy-blazer-evs-and-cadillac-lyriqs-vistiq/</loc>
-    <lastmod>2026-11-04T19:40:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/gm-recalls-over-67000-chevy-blazer-evs-and-cadillac-lyriqs-vistiqs-and-even-celestiqs-for-temporary-loss-of-braking/l-intro-1793821022.jpg</image:loc>
-      <image:title>Urgent Safety Alert: GM Recalls Over 67,000 Chevy Blazer EVs And Cadillac Lyriqs, Vistiqs, And Even Celestiqs For Temporary Loss Of Braking</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gm-recalls-over-67000-chevy-blazer-evs-and-cadillac-lyriqs-vistiq/</loc>
-    <lastmod>2026-11-04T19:40:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/gm-recalls-over-67000-chevy-blazer-evs-and-cadillac-lyriqs-vistiqs-and-even-celestiqs-for-temporary-loss-of-braking/l-intro-1793821022.jpg</image:loc>
-      <image:title>Urgent Safety Alert: GM Recalls Over 67,000 Chevy Blazer EVs And Cadillac Lyriqs, Vistiqs, And Even Celestiqs For Temporary Loss Of Braking</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/stacking-super-duty-trucks-and-a-lamborghini-huracan-sto-is-the-u/</loc>
-    <lastmod>2026-11-04T19:30:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/stacking-super-duty-trucks-and-a-lamborghini-huracan-sto-is-the-ultimate-sema-flex/l-intro-1793820573.jpg</image:loc>
-      <image:title>Stacking Super Duty Trucks And A Lamborghini Huracan STO Is The Ultimate SEMA Flex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/stacking-super-duty-trucks-and-a-lamborghini-huracan-sto-is-the-u/</loc>
-    <lastmod>2026-11-04T19:30:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/stacking-super-duty-trucks-and-a-lamborghini-huracan-sto-is-the-ultimate-sema-flex/l-intro-1793820573.jpg</image:loc>
-      <image:title>Stacking Super Duty Trucks And A Lamborghini Huracan STO Is The Ultimate SEMA Flex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-just-went-186-mph-in-the-new-alpina-7-series/</loc>
-    <lastmod>2026-11-04T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/bmw-just-went-186-mph-in-the-new-alpina-7-series/l-intro-1793754134.jpg</image:loc>
-      <image:title>BMW Just Went 186 MPH In The New Alpina 7 Series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-just-went-186-mph-in-the-new-alpina-7-series/</loc>
-    <lastmod>2026-11-04T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/bmw-just-went-186-mph-in-the-new-alpina-7-series/l-intro-1793754134.jpg</image:loc>
-      <image:title>BMW Just Went 186 MPH In The New Alpina 7 Series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/range-rover-is-axing-its-two-cheapest-suvs-making-way-for-a-new-e/</loc>
-    <lastmod>2026-11-04T18:46:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Range-Rover-cheapest-SUVs-discontinued.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Range Rover is axing its two cheapest SUVs, making way for a new entry-level EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/range-rover-is-axing-its-two-cheapest-suvs-making-way-for-a-new-e/</loc>
-    <lastmod>2026-11-04T18:46:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Range-Rover-cheapest-SUVs-discontinued.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Range Rover is axing its two cheapest SUVs, making way for a new entry-level EV</image:title>
     </image:image>
   </url>
 </urlset>
