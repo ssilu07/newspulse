@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/bmw-pitches-free-ev-charging-and-you-aint-seen-nothing-yet/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T21:56:33+00:00</news:publication_date>
+      <news:title>BMW Pitches Free EV Charging And You Ain&#x27;t Seen Nothing Yet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/bmw-free-ev-charging.png</image:loc>
+      <image:title>BMW Pitches Free EV Charging And You Ain&#x27;t Seen Nothing Yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-the-engine-swaps-you-dream-about/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T21:45:00+00:00</news:publication_date>
+      <news:title>These Are The Engine Swaps You Dream About</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-engine-swaps-you-dream-about/l-intro-1793739399.jpg</image:loc>
+      <image:title>These Are The Engine Swaps You Dream About</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1-2026-brazilian-grand-prix-starting-grid-with-five-penalties/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T21:05:20+00:00</news:publication_date>
+      <news:title>F1 2026 Brazilian Grand Prix starting grid with five penalties</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452874_HiRes.jpg</image:loc>
+      <image:title>F1 2026 Brazilian Grand Prix starting grid with five penalties</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/consumer-reports-three-most-reliable-used-sub-25k-3-row-suvs/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T21:05:00+00:00</news:publication_date>
+      <news:title>Consumer Reports&#x27; Three Most Reliable Used Sub-$25K 3-Row SUVs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/consumer-reports-three-most-reliable-used-sub-25k-3-row-suvs-and-minivans/l-intro-1793639419.jpg</image:loc>
+      <image:title>Consumer Reports&#x27; Three Most Reliable Used Sub-$25K 3-Row SUVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/your-next-car-could-be-software-defined-heres-what-that-means/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T21:00:00+00:00</news:publication_date>
+      <news:title>Your Next Car Could Be Software-Defined. Here&#x27;s What That Means</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/your-next-car-could-be-software-defined-heres-what-that-means/l-intro-1793390078.jpg</image:loc>
+      <image:title>Your Next Car Could Be Software-Defined. Here&#x27;s What That Means</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/norris-on-brazilian-gp-pole-as-russell-rages-at-mercedes-over-abo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T20:48:57+00:00</news:publication_date>
+      <news:title>Norris on Brazilian GP pole as Russell rages at Mercedes over aborted lap</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452772_HiRes.jpg</image:loc>
+      <image:title>Norris on Brazilian GP pole as Russell rages at Mercedes over aborted lap</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/redd-picking-up-our-new-tesla-model-y/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T20:42:56+00:00</news:publication_date>
+      <news:title>REDD</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/New-Tesla-Model-Y-Australia-David-Waterworth.jpg</image:loc>
+      <image:title>REDD</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/you-officially-missed-your-chance-to-buy-a-new-toyota-supra-or-bm/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T20:05:00+00:00</news:publication_date>
+      <news:title>You Officially Missed Your Chance To Buy A New Toyota Supra Or BMW Z4</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/you-officially-missed-your-chance-to-buy-a-new-toyota-supra-or-bmw-z4/l-intro-1793980955.jpg</image:loc>
+      <image:title>You Officially Missed Your Chance To Buy A New Toyota Supra Or BMW Z4</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/saving-the-manuals-porsches-mechanical-mecosa-vs-ferraris-electro/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T19:05:00+00:00</news:publication_date>
+      <news:title>Saving The Manuals: Porsche&#x27;s Mechanical MECOSA Vs. Ferrari&#x27;s Electronic Manuale Tech</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/saving-the-manuals-porsches-mechanical-mecosa-vs-ferraris-electronic-manuale-tech/l-intro-1793383774.jpg</image:loc>
+      <image:title>Saving The Manuals: Porsche&#x27;s Mechanical MECOSA Vs. Ferrari&#x27;s Electronic Manuale Tech</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-velotric-gomad-electric-utility-ebike-cleantechnica-tested/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T18:59:48+00:00</news:publication_date>
+      <news:title>The Velotric GoMad Electric Utility eBike</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026.11-velotric-gomad-ebike-electric-bicycle-california-sunset-KYLE-19.jpg</image:loc>
+      <image:title>The Velotric GoMad Electric Utility eBike</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/brazilian-gp-qualifying-red-flagged-almost-immediately-due-to-rai/</loc>
     <news:news>
       <news:publication>
@@ -453,6 +603,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/new-maruti-electric-mpv-to-be-unveiled-in-february-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:24+00:00</news:publication_date>
+      <news:title>New Maruti Electric MPV To Be Unveiled In February 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/06/New-Maruti-MPV-Rendering-2.jpg</image:loc>
+      <image:title>New Maruti Electric MPV To Be Unveiled In February 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/mahindra-be-7-spied-in-bkc-mumbai-with-gnss-receiver-on-roof/</loc>
     <news:news>
       <news:publication>
@@ -480,6 +645,21 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/10/hyundai-india-pune-plant-venue-10.jpg</image:loc>
       <image:title>Car Retail Sales Oct 2026 - Maruti, Tata, Mahindra, Hyundai, Kia, Toyota, Skoda VW, MG, Honda</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-confirms-5-new-vehicle-launches-in-h1-2027-key-details/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T07:00:30+00:00</news:publication_date>
+      <news:title>Mahindra Confirms 5 New Vehicle Launches In H1 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/08/Mahindra-Vision-S-3.jpg</image:loc>
+      <image:title>Mahindra Confirms 5 New Vehicle Launches In H1 2027</image:title>
     </image:image>
   </url>
   <url>
@@ -1263,6 +1443,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/tesla-swears-cybercab-meets-federal-safety-standards-but-doesnt-w/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T16:46:59+00:00</news:publication_date>
+      <news:title>Tesla Swears Cybercab Meets Federal Safety Standards, But Doesn&#x27;t Want You To Know How</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/tesla-swears-cybercab-meets-federal-safety-standards-but-doesnt-want-you-to-know-how/l-intro-1793982936.jpg</image:loc>
+      <image:title>Tesla Swears Cybercab Meets Federal Safety Standards, But Doesn&#x27;t Want You To Know How</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/what-happened-in-brazil-fp1/</loc>
     <news:news>
       <news:publication>
@@ -1305,6 +1500,36 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/7e24b279-2671-410d-ac38-3701158d8aa1.jpeg</image:loc>
       <image:title>Mattel Brick Shop Launches Hot Wheels-Sized Model Car Sets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mercedes-may-delay-us-production-of-the-glc-until-2030/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T16:29:08+00:00</news:publication_date>
+      <news:title>Mercedes May Delay U.S. Production Of The GLC Until 2030</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/mercedes-may-delay-u-s-production-of-the-glc-until-2030/l-intro-1793982374.jpg</image:loc>
+      <image:title>Mercedes May Delay U.S. Production Of The GLC Until 2030</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/if-you-love-ferrari-then-you-need-its-customer-spec-le-mans-racer/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T16:27:40+00:00</news:publication_date>
+      <news:title>If You Love Ferrari, Then You Need Its Customer-Spec Le Mans Racer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/if-you-love-ferrari-then-you-need-its-customer-spec-le-mans-racer/l-intro-1793982331.jpg</image:loc>
+      <image:title>If You Love Ferrari, Then You Need Its Customer-Spec Le Mans Racer</image:title>
     </image:image>
   </url>
   <url>
@@ -2025,231 +2250,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Hyundai-Motor-Group-outlines-future-mobility-technology-roadmap-at-fisita-world-mobility-summit-2026.jpg</image:loc>
       <image:title>Hyundai Motor Group Outlines Future Mobility Technology Roadmap at FISITA World Mobility Summit 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/two-new-commissioners-headed-to-the-arizona-corporation-commissio/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T00:21:27+00:00</news:publication_date>
-      <news:title>Two New Commissioners Headed to the Arizona Corporation Commission</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/11/New-CleanTechnica-Solar-Panel-Farm-1-Watermark.jpeg</image:loc>
-      <image:title>Two New Commissioners Headed to the Arizona Corporation Commission</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/e-quipment-highlight-jungheinrich-launches-new-forklift-for-asian/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T23:08:44+00:00</news:publication_date>
-      <news:title>E-quipment highlight: Jungheinrich launches new forklift for Asian markets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/jungheinrich-electric-forklift_MAIN.jpg?quality=82&amp;strip=all&amp;w=1568</image:loc>
-      <image:title>E-quipment highlight: Jungheinrich launches new forklift for Asian markets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fords-electric-pickup-is-suddenly-selling-like-hotcakes-at-50-off/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T22:17:39+00:00</news:publication_date>
-      <news:title>Ford&#x27;s electric pickup is suddenly selling like hotcakes at 50% off used</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-UAW-Discount-2025.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Ford&#x27;s electric pickup is suddenly selling like hotcakes at 50% off used</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmws-smallest-suv-getting-neue-klasse-treatment-as-2028-ix2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T22:12:37+00:00</news:publication_date>
-      <news:title>BMW&#x27;s Smallest SUV Getting Neue Klasse Treatment As 2028 iX2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/bmws-smallest-suv-getting-neue-klasse-treatment-as-2028-ix2/l-intro-1793916217.jpg</image:loc>
-      <image:title>BMW&#x27;s Smallest SUV Getting Neue Klasse Treatment As 2028 iX2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/suzuki-gsx-10r-and-sv-7s-put-new-twists-on-old-classics/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T21:39:59+00:00</news:publication_date>
-      <news:title>Suzuki GSX-10R And SV-7S Put New Twists On Old Classics</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/suzuki-gsx-10r-and-sv-7s-put-new-twists-on-old-classics/l-intro-1793914644.jpg</image:loc>
-      <image:title>Suzuki GSX-10R And SV-7S Put New Twists On Old Classics</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-we-learned-from-day-one-of-f1s-brazilian-grand-prix/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T21:34:17+00:00</news:publication_date>
-      <news:title>What we learned from day one of F1&#x27;s Brazilian Grand Prix</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451219_HiRes.jpg</image:loc>
-      <image:title>What we learned from day one of F1&#x27;s Brazilian Grand Prix</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/us-acura-dealers-are-now-selling-3000-factory-reproduction-parts-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T21:25:00+00:00</news:publication_date>
-      <news:title>U.S. Acura Dealers Are Now Selling 3,000 Factory Reproduction Parts For Your OG NSX</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/us-acura-dealers-are-now-selling-3000-factory-reproduction-parts-for-your-og-nsx/l-intro-1793822154.jpg</image:loc>
-      <image:title>U.S. Acura Dealers Are Now Selling 3,000 Factory Reproduction Parts For Your OG NSX</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/serve-robotics-launches-new-business-to-become-the-aws-for-robots/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T21:15:00+00:00</news:publication_date>
-      <news:title>Serve Robotics launches new business to become the AWS for robots</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1600,1067</image:loc>
-      <image:title>Serve Robotics launches new business to become the AWS for robots</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/harley-davidsons-sprint-440-is-a-27-hp-single-cylinder-hoglet-for/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T21:07:13+00:00</news:publication_date>
-      <news:title>Harley-Davidson&#x27;s Sprint 440 Is A 27 HP, Single Cylinder Hoglet For $6,000</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/harley-davidsons-sprint-440-is-a-27-hp-single-cylinder-hoglet-for-6000/l-intro-1793912672.jpg</image:loc>
-      <image:title>Harley-Davidson&#x27;s Sprint 440 Is A 27 HP, Single Cylinder Hoglet For $6,000</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/another-city-is-shutting-down-all-of-its-flock-cameras/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T21:01:31+00:00</news:publication_date>
-      <news:title>Another City Is Shutting Down All Of Its Flock Cameras</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/another-city-is-shutting-down-all-of-its-flock-cameras/l-intro-1793912341.jpg</image:loc>
-      <image:title>Another City Is Shutting Down All Of Its Flock Cameras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kias-ev5-spotted-with-an-updated-design-and-a-huge-new-infotainme/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T20:55:44+00:00</news:publication_date>
-      <news:title>Kia&#x27;s EV5 spotted with an updated design and a huge new infotainment display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-updated-EV5-spotted.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Kia&#x27;s EV5 spotted with an updated design and a huge new infotainment display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/chevy-dealer-wants-to-sell-a-corvette-zr1x-with-a-400000-markup/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T20:51:52+00:00</news:publication_date>
-      <news:title>Chevy Dealer Wants To Sell A Corvette ZR1X With A $400,000 Markup</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-dealer-wants-to-sell-a-corvette-zr1x-with-a-400000-markup/l-intro-1793911129.jpg</image:loc>
-      <image:title>Chevy Dealer Wants To Sell A Corvette ZR1X With A $400,000 Markup</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-fiat-ceo-says-killing-the-punto-was-a-mistake-wants-its-back/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T20:50:30+00:00</news:publication_date>
-      <news:title>New Fiat CEO Says Killing The Punto Was A Mistake, Wants Its Back</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/new-fiat-ceo-says-killing-the-punto-was-a-mistake-wants-its-back/l-intro-1793911140.jpg</image:loc>
-      <image:title>New Fiat CEO Says Killing The Punto Was A Mistake, Wants Its Back</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-2027-chevy-traxs-facelift-comes-with-a-2000-price-increase/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T20:32:33+00:00</news:publication_date>
-      <news:title>The 2027 Chevy Trax&#x27;s Facelift Comes with a $2000 Price Increase</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c5f0492-8595-4738-8f2f-f5e3059aecd4.jpg</image:loc>
-      <image:title>The 2027 Chevy Trax&#x27;s Facelift Comes with a $2000 Price Increase</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gm-patents-cars-that-change-camber-and-ride-height-before-you-los/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T20:31:01+00:00</news:publication_date>
-      <news:title>GM Patents Cars That Change Camber And Ride Height Before You Lose Traction</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/gm-patents-cars-that-change-camber-and-ride-height-before-you-lose-traction/l-intro-1793910520.jpg</image:loc>
-      <image:title>GM Patents Cars That Change Camber And Ride Height Before You Lose Traction</image:title>
     </image:image>
   </url>
 </urlset>
