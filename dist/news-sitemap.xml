@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/amazon-set-to-deploy-more-than-3000-tata-electric-delivery-trucks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T01:43:36+00:00</news:publication_date>
+      <news:title>Amazon set to deploy more than 3,000 TATA electric delivery trucks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/amazon-tatamotors.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Amazon set to deploy more than 3,000 TATA electric delivery trucks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tampa-community-turns-out-for-sierra-clubs-power-perspectives-the/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T01:30:38+00:00</news:publication_date>
+      <news:title>Tampa Community Turns Out for Sierra Club&#x27;s &#x27;Power &amp; Perspectives: The Energy Dialogue</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Tampa-pexels.jpg</image:loc>
+      <image:title>Tampa Community Turns Out for Sierra Club&#x27;s &#x27;Power &amp; Perspectives: The Energy Dialogue</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/winners-losers-from-f1-2026-brazilian-gp-friday-practice/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T23:25:22+00:00</news:publication_date>
+      <news:title>Winners &amp; losers from F1 2026 Brazilian GP Friday practice</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452065_HiRes.jpg</image:loc>
+      <image:title>Winners &amp; losers from F1 2026 Brazilian GP Friday practice</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/dangerous-but-also-brilliant/</loc>
     <news:news>
       <news:publication>
@@ -93,6 +138,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/you-can-now-buy-a-c8-corvette-with-a-manual-but-it-doesnt-come-fr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:57:20+00:00</news:publication_date>
+      <news:title>You Can Now Buy A C8 Corvette With A Manual, But It Doesn&#x27;t Come From Chevy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/you-can-now-buy-a-c8-corvette-with-a-manual-but-it-doesnt-come-from-chevy/l-intro-1793998077.jpg</image:loc>
+      <image:title>You Can Now Buy A C8 Corvette With A Manual, But It Doesn&#x27;t Come From Chevy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/you-can-now-rent-a-tesla-with-fsd-on-turo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:48:26+00:00</news:publication_date>
+      <news:title>You Can Now Rent A Tesla With FSD On Turo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/you-can-now-rent-a-tesla-with-fsd-on-turo/l-intro-1793997566.jpg</image:loc>
+      <image:title>You Can Now Rent A Tesla With FSD On Turo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/evgo-opens-its-first-tesla-superchargers-with-hundreds-more-plann/</loc>
     <news:news>
       <news:publication>
@@ -138,6 +213,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/what-happened-in-f1-2026-brazilian-gp-second-practice/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:14:26+00:00</news:publication_date>
+      <news:title>Drama &amp; Chaos: What Really Happened In F1 2026 Brazilian GP second practice</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452061_HiRes.jpg</image:loc>
+      <image:title>Drama &amp; Chaos: What Really Happened In F1 2026 Brazilian GP second practice</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/2028-subaru-getaway/</loc>
     <news:news>
       <news:publication>
@@ -180,6 +270,21 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/d9ac2ae8-352e-454e-86ff-193a86d0c487.jpg</image:loc>
       <image:title>First Look: Aggressive Exterior Styling Of The 2027 Karma Gyesera Grand Coupe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-karma-gyesera-grand-coupe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:13:39+00:00</news:publication_date>
+      <news:title>First Look Inside: The 2027 Karma Gyesera Grand Coupe Cabin</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/02f5dbec-b22f-4e25-86f0-1d82c7da2d5b.jpg</image:loc>
+      <image:title>First Look Inside: The 2027 Karma Gyesera Grand Coupe Cabin</image:title>
     </image:image>
   </url>
   <url>
@@ -303,6 +408,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/2027-lotus-evija/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T17:28:40+00:00</news:publication_date>
+      <news:title>2027 Lotus Evija</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0b073009-13a8-4cea-9d7d-372ca9e7681a.jpg?crop=0.488xw:0.366xh;0.262xw,0.298xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Lotus Evija</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tesla-spacex-lost-420-billion-in-market-cap-this-week-didnt-have-/</loc>
     <news:news>
       <news:publication>
@@ -345,6 +465,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1360201_HiRes.jpg</image:loc>
       <image:title>Surprise Ducati pacesetter on Qatar MotoGP Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-toyota-rav4/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T17:08:03+00:00</news:publication_date>
+      <news:title>2027 Toyota RAV4</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2026-toyota-rav4-limited-258-68f0e7f395879.jpg?crop=0.619xw:0.464xh;0.236xw,0.366xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Toyota RAV4</image:title>
     </image:image>
   </url>
   <url>
@@ -915,6 +1050,36 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-triumph-tracker-400-tft-variant-spied.jpg</image:loc>
       <image:title>Triumph Tracker 400 To Get TFT Screen, Cruise Control From Bonnie T40</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-xuv-3xo-zng-scores-5-stars-in-bharat-ncap-crash-tests/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T07:00:14+00:00</news:publication_date>
+      <news:title>Mahindra XUV 3XO ZNG Scores 5 Stars In Bharat NCAP Crash Tests</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Mahindra-XUV-3XO-CNG-ZNG-3.jpg</image:loc>
+      <image:title>Mahindra XUV 3XO ZNG Scores 5 Stars In Bharat NCAP Crash Tests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/royal-enfield-flying-flea-reaches-chennai-14-outlets-planned/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T05:30:50+00:00</news:publication_date>
+      <news:title>Royal Enfield Flying Flea Reaches Chennai, 14 Outlets Planned</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/Royal-Enfield-Flying-Flea-C6.-1.jpg</image:loc>
+      <image:title>Royal Enfield Flying Flea Reaches Chennai, 14 Outlets Planned</image:title>
     </image:image>
   </url>
   <url>
@@ -2085,171 +2250,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/10/new-hyundai-bayon-help-creta-sales-boost.jpg</image:loc>
       <image:title>Hyundai Launches Usage-Based Insurance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-mercedes-amg-gt-4-door-coupe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T09:00:00+00:00</news:publication_date>
-      <news:title>First Look Inside: The 2027 Mercedes-AMG GT 4-Door Coupe Cabin</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/4c8f0527-c2c3-47fd-bcfc-c463e5cdb47e.jpg</image:loc>
-      <image:title>First Look Inside: The 2027 Mercedes-AMG GT 4-Door Coupe Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/driven-the-mercedes-amg-gt-4-door-wont-make-you-wait/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T09:00:00+00:00</news:publication_date>
-      <news:title>Driven: The Mercedes-AMG GT 4-Door Won&#x27;t Make You Wait</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/249a75a6-b3b0-4cb7-80ca-d27988b47124.jpg</image:loc>
-      <image:title>Driven: The Mercedes-AMG GT 4-Door Won&#x27;t Make You Wait</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/open-your-mind-and-the-2027-mercedes-amg-gt-4-door-coupe-will-blo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T09:00:00+00:00</news:publication_date>
-      <news:title>Open Your Mind And The 2027 Mercedes-AMG GT 4-Door Coupe Will Blow It</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/open-your-mind-and-the-2027-mercedes-amg-gt-4-door-coupe-will-blow-it/l-intro-1793859059.jpg</image:loc>
-      <image:title>Open Your Mind And The 2027 Mercedes-AMG GT 4-Door Coupe Will Blow It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-mercedes-amg-gt-4-door-coupe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T09:00:00+00:00</news:publication_date>
-      <news:title>First Look: Aggressive Exterior Styling Of The 2027 Mercedes-AMG GT 4-Door Coupe</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/941b8608-1c6f-4a1e-90f3-07703bd8392a.jpg</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Mercedes-AMG GT 4-Door Coupe</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/1980-f1-world-champion-alan-jones-dies-aged-80/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T08:58:53+00:00</news:publication_date>
-      <news:title>1980 F1 world champion Alan Jones dies aged 80</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn-9.motorsport.com/images/amp/6zQ9lGlY/s6/alan-jones-williams-fw07b-ford-2.jpg</image:loc>
-      <image:title>1980 F1 world champion Alan Jones dies aged 80</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-rebel-300-reaches-dealer-showroom-first-deliveries-expected/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T08:40:17+00:00</news:publication_date>
-      <news:title>Honda Rebel 300 Reaches Dealer Showroom</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/honda-rebel-300-spied-at-dealer-delivery-soon-start-1.jpg</image:loc>
-      <image:title>Honda Rebel 300 Reaches Dealer Showroom</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/1980-f1-champion-alan-jones-passes-away/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T08:33:18+00:00</news:publication_date>
-      <news:title>1980 F1 champion Alan Jones passes away</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1029577_HiRes.jpg</image:loc>
-      <image:title>1980 F1 champion Alan Jones passes away</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-toyota-innova-hycross-facelift-confirmed-for-launch-on-nov-2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T08:30:00+00:00</news:publication_date>
-      <news:title>2027 Toyota Innova Hycross Facelift Confirmed For Launch On Nov 25</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Toyota-Kijang-Innova-Zenix-Innova-Hycross-New-1.jpg</image:loc>
-      <image:title>2027 Toyota Innova Hycross Facelift Confirmed For Launch On Nov 25</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-scorpio-n-edition-one-caught-undisguised-at-dealer-yard/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T07:15:09+00:00</news:publication_date>
-      <news:title>Mahindra Scorpio N Edition One Caught Undisguised At Dealer Yard</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-Scorpio-One-Edition.jpg</image:loc>
-      <image:title>Mahindra Scorpio N Edition One Caught Undisguised At Dealer Yard</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/two-wheeler-sales-oct-2026-hero-honda-tvs-bajaj-suzuki-royal-enfi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T06:44:03+00:00</news:publication_date>
-      <news:title>Two Wheeler Sales Oct 2026 - Hero, Honda, TVS, Bajaj, Suzuki, Royal Enfield</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/06/honda-activa-sales-new-record-black.jpeg</image:loc>
-      <image:title>Two Wheeler Sales Oct 2026 - Hero, Honda, TVS, Bajaj, Suzuki, Royal Enfield</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-ioniq-p-name-trademarked-to-likely-be-used-for-upcoming-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T05:30:49+00:00</news:publication_date>
-      <news:title>Hyundai Ioniq P Name Trademarked, To Likely Be Used For Upcoming Small EV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Hyundai-Inster-2.jpg</image:loc>
-      <image:title>Hyundai Ioniq P Name Trademarked, To Likely Be Used For Upcoming Small EV</image:title>
     </image:image>
   </url>
 </urlset>
