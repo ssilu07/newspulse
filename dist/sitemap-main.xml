@@ -3,39 +3,219 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-07T15:50:12Z</lastmod>
+    <lastmod>2026-11-07T18:20:47Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-07T15:50:12Z</lastmod>
+    <lastmod>2026-11-07T18:20:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-07T15:50:12Z</lastmod>
+    <lastmod>2026-11-07T18:20:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-07T15:50:12Z</lastmod>
+    <lastmod>2026-11-07T18:20:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-07T15:50:12Z</lastmod>
+    <lastmod>2026-11-07T18:20:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-07T15:50:12Z</lastmod>
+    <lastmod>2026-11-07T18:20:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/brazilian-gp-qualifying-red-flagged-almost-immediately-due-to-rai/</loc>
+    <lastmod>2026-11-07T18:15:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452674_HiRes.jpg</image:loc>
+      <image:title>Brazilian GP qualifying red flagged almost immediately due to rain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/brazilian-gp-qualifying-red-flagged-almost-immediately-due-to-rai/</loc>
+    <lastmod>2026-11-07T18:15:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452674_HiRes.jpg</image:loc>
+      <image:title>Brazilian GP qualifying red flagged almost immediately due to rain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-reason-subaru-still-builds-cars-with-boxer-engines/</loc>
+    <lastmod>2026-11-07T18:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-reason-subaru-still-builds-cars-with-boxer-engines/l-intro-1793385585.jpg</image:loc>
+      <image:title>The Reason Subaru Still Builds Cars With Boxer Engines</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-reason-subaru-still-builds-cars-with-boxer-engines/</loc>
+    <lastmod>2026-11-07T18:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-reason-subaru-still-builds-cars-with-boxer-engines/l-intro-1793385585.jpg</image:loc>
+      <image:title>The Reason Subaru Still Builds Cars With Boxer Engines</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hamilton-gets-back-of-the-grid-penalty-for-brazilian-gp/</loc>
+    <lastmod>2026-11-07T17:29:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452400_HiRes.jpg</image:loc>
+      <image:title>Hamilton gets back-of-the-grid penalty for Brazilian GP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hamilton-gets-back-of-the-grid-penalty-for-brazilian-gp/</loc>
+    <lastmod>2026-11-07T17:29:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452400_HiRes.jpg</image:loc>
+      <image:title>Hamilton gets back-of-the-grid penalty for Brazilian GP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/cold-seawater-is-supplying-district-heat-in-esbjerg-denmark/</loc>
+    <lastmod>2026-11-07T17:21:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Ocean_Heating_Hero_FINAL_1600x900.png</image:loc>
+      <image:title>Cold Seawater Is Supplying District Heat in Esbjerg, Denmark</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cold-seawater-is-supplying-district-heat-in-esbjerg-denmark/</loc>
+    <lastmod>2026-11-07T17:21:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Ocean_Heating_Hero_FINAL_1600x900.png</image:loc>
+      <image:title>Cold Seawater Is Supplying District Heat in Esbjerg, Denmark</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-t/</loc>
+    <lastmod>2026-11-07T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-to-avoid/l-intro-1793635611.jpg</image:loc>
+      <image:title>4 Used Cars With Oil-Burning Engines That Consumer Reports Says To Avoid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-t/</loc>
+    <lastmod>2026-11-07T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-to-avoid/l-intro-1793635611.jpg</image:loc>
+      <image:title>4 Used Cars With Oil-Burning Engines That Consumer Reports Says To Avoid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gm-steps-on-teslas-ev-toes-with-ev1-celebration/</loc>
+    <lastmod>2026-11-07T16:52:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-8.04.13-PM.png</image:loc>
+      <image:title>GM Steps On Tesla&#x27;s EV Toes With EV1 Celebration</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gm-steps-on-teslas-ev-toes-with-ev1-celebration/</loc>
+    <lastmod>2026-11-07T16:52:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-8.04.13-PM.png</image:loc>
+      <image:title>GM Steps On Tesla&#x27;s EV Toes With EV1 Celebration</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/</loc>
+    <lastmod>2026-11-07T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/l-intro-1793370800.jpg</image:loc>
+      <image:title>Why The Nissan VQ35 Is One Of The Most Dependable V6s Ever</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/</loc>
+    <lastmod>2026-11-07T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/l-intro-1793370800.jpg</image:loc>
+      <image:title>Why The Nissan VQ35 Is One Of The Most Dependable V6s Ever</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-deemed-liable-for-fraud-after-solar-roof-experiment-on-a-ho/</loc>
+    <lastmod>2026-11-07T16:01:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla deemed liable for fraud after Solar Roof &#x27;experiment&#x27; on a home</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-deemed-liable-for-fraud-after-solar-roof-experiment-on-a-ho/</loc>
+    <lastmod>2026-11-07T16:01:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla deemed liable for fraud after Solar Roof &#x27;experiment&#x27; on a home</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-focus-rs-makes-us-nostalgic-for-a-time-when-ford-built-cars-/</loc>
+    <lastmod>2026-11-07T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ebf938c0-0a00-4c70-bfff-1b6ae3cf2a7a.jpg</image:loc>
+      <image:title>This Focus RS Makes Us Nostalgic for a Time When Ford Built Cars Besides the Mustang</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-focus-rs-makes-us-nostalgic-for-a-time-when-ford-built-cars-/</loc>
+    <lastmod>2026-11-07T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ebf938c0-0a00-4c70-bfff-1b6ae3cf2a7a.jpg</image:loc>
+      <image:title>This Focus RS Makes Us Nostalgic for a Time When Ford Built Cars Besides the Mustang</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/what-happened-in-final-brazil-f1-practice/</loc>
@@ -138,6 +318,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/lamborghini-gallardos-original-designer-polishes-his-masterpiece/</loc>
+    <lastmod>2026-11-07T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/59a56ba1-9a51-4229-9737-519fab4f13bb.jpg</image:loc>
+      <image:title>Lamborghini Gallardo&#x27;s Original Designer Polishes His Masterpiece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lamborghini-gallardos-original-designer-polishes-his-masterpiece/</loc>
+    <lastmod>2026-11-07T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/59a56ba1-9a51-4229-9737-519fab4f13bb.jpg</image:loc>
+      <image:title>Lamborghini Gallardo&#x27;s Original Designer Polishes His Masterpiece</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/is-the-five-year-rule-for-tires-still-true/</loc>
     <lastmod>2026-11-07T15:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -155,6 +355,26 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/is-the-five-year-rule-for-tires-still-true/l-intro-1793383804.jpg</image:loc>
       <image:title>Is The &#x27;Five-Year Rule&#x27; For Tires Still True?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/we-tried-audis-revised-infotainment-system-to-see-if-its-better/</loc>
+    <lastmod>2026-11-07T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/original-16333-my27-a6-sportback-e-tron-interior-apple-carplay-5952-6986573011585.jpg</image:loc>
+      <image:title>We Tried Audi&#x27;s Revised Infotainment System to See If It&#x27;s Better</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/we-tried-audis-revised-infotainment-system-to-see-if-its-better/</loc>
+    <lastmod>2026-11-07T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/original-16333-my27-a6-sportback-e-tron-interior-apple-carplay-5952-6986573011585.jpg</image:loc>
+      <image:title>We Tried Audi&#x27;s Revised Infotainment System to See If It&#x27;s Better</image:title>
     </image:image>
   </url>
   <url>
@@ -215,6 +435,26 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/06/tvs-apache-160-sales-new.jpeg</image:loc>
       <image:title>2W Retail Sales Oct 2026 - Honda, Hero, TVS, Bajaj, RE, Suzuki, Yamaha, Ather, Ola</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-motors-offering-discounts-of-up-to-rs-335-lakh-on-evs/</loc>
+    <lastmod>2026-11-07T13:00:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Tata-Harrier-EV-3.jpg</image:loc>
+      <image:title>Tata Motors Offering Discounts Of Up To Rs. 3.35 Lakh On EVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tata-motors-offering-discounts-of-up-to-rs-335-lakh-on-evs/</loc>
+    <lastmod>2026-11-07T13:00:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Tata-Harrier-EV-3.jpg</image:loc>
+      <image:title>Tata Motors Offering Discounts Of Up To Rs. 3.35 Lakh On EVs</image:title>
     </image:image>
   </url>
   <url>
@@ -378,6 +618,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/diesel-pickups-get-better-mpgs-than-gas-but-is-it-enough-to-count/</loc>
+    <lastmod>2026-11-07T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/diesel-pickups-get-better-mpgs-than-gas-but-is-it-enough-to-counteract-diesel-prices/l-intro-1792675042.jpg</image:loc>
+      <image:title>Diesel Pickups Get Better MPGs Than Gas, But Is It Enough To Counteract Diesel Prices?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/diesel-pickups-get-better-mpgs-than-gas-but-is-it-enough-to-count/</loc>
+    <lastmod>2026-11-07T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/diesel-pickups-get-better-mpgs-than-gas-but-is-it-enough-to-counteract-diesel-prices/l-intro-1792675042.jpg</image:loc>
+      <image:title>Diesel Pickups Get Better MPGs Than Gas, But Is It Enough To Counteract Diesel Prices?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/mahindra-be-7-spied-in-bkc-mumbai-with-gnss-receiver-on-roof/</loc>
     <lastmod>2026-11-07T07:45:33+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -535,6 +795,26 @@
     <image:image>
       <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Chevrolet-383-Stroker-V8-Crate-Engine-e1793695889648.jpg</image:loc>
       <image:title>Crate Engine: A 508 BHP Chevrolet 383 Stroker V8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-to-launch-3-new-cars-by-june-2027-confirms-ceo/</loc>
+    <lastmod>2026-11-07T03:23:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/08/new-mahindra-scorpio-lifestyler-launched-in-india-6.jpg</image:loc>
+      <image:title>Mahindra To Launch 3 New Cars By June 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-to-launch-3-new-cars-by-june-2027-confirms-ceo/</loc>
+    <lastmod>2026-11-07T03:23:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/08/new-mahindra-scorpio-lifestyler-launched-in-india-6.jpg</image:loc>
+      <image:title>Mahindra To Launch 3 New Cars By June 2027</image:title>
     </image:image>
   </url>
   <url>
@@ -1315,6 +1595,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2025/12/Tesla-Cybertruck-unveiling-event-truck-KYLE-Elon-Musk-CleanTechnica.jpg</image:loc>
       <image:title>Tesla &amp; SpaceX Lost $420 Billion In Market Cap This Week - Didn&#x27;t Have To Be This Way</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/think-the-last-vw-beetle-was-retro-enough-hurtan-didnt-so-they-bu/</loc>
+    <lastmod>2026-11-06T17:15:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/think-the-last-vw-beetle-was-retro-enough-hurtan-didnt-so-they-built-this/l-intro-1793985181.jpg</image:loc>
+      <image:title>Think The Last VW Beetle Was Retro Enough? Hurtan Didn&#x27;t, So They Built This</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/think-the-last-vw-beetle-was-retro-enough-hurtan-didnt-so-they-bu/</loc>
+    <lastmod>2026-11-06T17:15:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/think-the-last-vw-beetle-was-retro-enough-hurtan-didnt-so-they-built-this/l-intro-1793985181.jpg</image:loc>
+      <image:title>Think The Last VW Beetle Was Retro Enough? Hurtan Didn&#x27;t, So They Built This</image:title>
     </image:image>
   </url>
   <url>
@@ -2735,306 +3035,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/gm-patents-cars-that-change-camber-and-ride-height-before-you-lose-traction/l-intro-1793910520.jpg</image:loc>
       <image:title>GM Patents Cars That Change Camber And Ride Height Before You Lose Traction</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundais-record-october-would-have-been-a-decline-without-the-san/</loc>
-    <lastmod>2026-11-05T20:27:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/hyundais-record-october-would-have-been-a-decline-without-the-santa-fe/l-intro-1793910445.jpg</image:loc>
-      <image:title>Hyundai&#x27;s Record October Would Have Been A Decline Without The Santa Fe</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundais-record-october-would-have-been-a-decline-without-the-san/</loc>
-    <lastmod>2026-11-05T20:27:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/hyundais-record-october-would-have-been-a-decline-without-the-santa-fe/l-intro-1793910445.jpg</image:loc>
-      <image:title>Hyundai&#x27;s Record October Would Have Been A Decline Without The Santa Fe</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/meta-backed-250-mw-solar-farm-breaks-ground-in-arkansas/</loc>
-    <lastmod>2026-11-05T20:10:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/01/EDP-Riverstart-IV.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Meta-backed 250 MW solar farm breaks ground in Arkansas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/meta-backed-250-mw-solar-farm-breaks-ground-in-arkansas/</loc>
-    <lastmod>2026-11-05T20:10:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/01/EDP-Riverstart-IV.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Meta-backed 250 MW solar farm breaks ground in Arkansas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-patents-wheels-that-can-close-their-own-spokes-at-speed/</loc>
-    <lastmod>2026-11-05T19:56:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/hyundai-patents-wheels-that-can-close-their-own-spokes-at-speed/l-intro-1793908382.jpg</image:loc>
-      <image:title>Hyundai Patents Wheels That Can Close Their Own Spokes At Speed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundai-patents-wheels-that-can-close-their-own-spokes-at-speed/</loc>
-    <lastmod>2026-11-05T19:56:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/hyundai-patents-wheels-that-can-close-their-own-spokes-at-speed/l-intro-1793908382.jpg</image:loc>
-      <image:title>Hyundai Patents Wheels That Can Close Their Own Spokes At Speed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ferrari-drivers-set-for-crunch-meeting-in-brazil/</loc>
-    <lastmod>2026-11-05T19:48:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451078_HiRes.jpg</image:loc>
-      <image:title>Ferrari drivers set for crunch meeting in Brazil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ferrari-drivers-set-for-crunch-meeting-in-brazil/</loc>
-    <lastmod>2026-11-05T19:48:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451078_HiRes.jpg</image:loc>
-      <image:title>Ferrari drivers set for crunch meeting in Brazil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ayrton-sennas-honda-nsx-sells-for-record-11-million-at-auction/</loc>
-    <lastmod>2026-11-05T19:37:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/ayrton-sennas-honda-nsx-sells-for-record-1-1-million-at-auction/l-intro-1793907323.jpg</image:loc>
-      <image:title>Ayrton Senna&#x27;s Honda NSX Sells For Record $1.1 Million At Auction</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ayrton-sennas-honda-nsx-sells-for-record-11-million-at-auction/</loc>
-    <lastmod>2026-11-05T19:37:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/ayrton-sennas-honda-nsx-sells-for-record-1-1-million-at-auction/l-intro-1793907323.jpg</image:loc>
-      <image:title>Ayrton Senna&#x27;s Honda NSX Sells For Record $1.1 Million At Auction</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mopar-just-made-it-much-easier-to-drop-a-crate-hemi-in-your-diy-b/</loc>
-    <lastmod>2026-11-05T19:10:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/dodge-just-made-it-much-easier-to-drop-a-crate-hemi-in-your-diy-build/l-intro-1793901643.jpg</image:loc>
-      <image:title>Mopar Just Made It Much Easier To Drop A Crate Hemi In Your DIY Build</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mopar-just-made-it-much-easier-to-drop-a-crate-hemi-in-your-diy-b/</loc>
-    <lastmod>2026-11-05T19:10:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/dodge-just-made-it-much-easier-to-drop-a-crate-hemi-in-your-diy-build/l-intro-1793901643.jpg</image:loc>
-      <image:title>Mopar Just Made It Much Easier To Drop A Crate Hemi In Your DIY Build</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fords-bronco-frostwarden-is-a-1200-hp-beast-we-wish-we-could-buy/</loc>
-    <lastmod>2026-11-05T19:02:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/fords-bronco-frostwarden-is-a-1200-hp-beast-we-wish-we-could-buy/l-intro-1793905206.jpg</image:loc>
-      <image:title>Ford&#x27;s Bronco Frostwarden Is A 1,200 HP Beast We Wish We Could Buy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fords-bronco-frostwarden-is-a-1200-hp-beast-we-wish-we-could-buy/</loc>
-    <lastmod>2026-11-05T19:02:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/fords-bronco-frostwarden-is-a-1200-hp-beast-we-wish-we-could-buy/l-intro-1793905206.jpg</image:loc>
-      <image:title>Ford&#x27;s Bronco Frostwarden Is A 1,200 HP Beast We Wish We Could Buy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hamilton-backs-claims-leclerc-races-him-harder-than-f1-rivals/</loc>
-    <lastmod>2026-11-05T18:58:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-7.motorsport.com/images/amp/0qgKrwgY/s6/lewis-hamilton-ferrari-2.jpg</image:loc>
-      <image:title>Hamilton backs claims Leclerc races him harder than F1 rivals</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hamilton-backs-claims-leclerc-races-him-harder-than-f1-rivals/</loc>
-    <lastmod>2026-11-05T18:58:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-7.motorsport.com/images/amp/0qgKrwgY/s6/lewis-hamilton-ferrari-2.jpg</image:loc>
-      <image:title>Hamilton backs claims Leclerc races him harder than F1 rivals</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-is-recalling-nearly-30000-kona-electric-vehicles-due-to-a/</loc>
-    <lastmod>2026-11-05T18:45:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-Kona-Electric-recall-airbag.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Urgent Safety Alert: Hyundai is recalling nearly 30,000 Kona Electric vehicles due to an airbag software defect</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundai-is-recalling-nearly-30000-kona-electric-vehicles-due-to-a/</loc>
-    <lastmod>2026-11-05T18:45:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-Kona-Electric-recall-airbag.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Urgent Safety Alert: Hyundai is recalling nearly 30,000 Kona Electric vehicles due to an airbag software defect</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-wants-its-sworn-cybercab-answers-to-nhtsa-kept-entirely-sec/</loc>
-    <lastmod>2026-11-05T18:32:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-wants-its-sworn-cybercab-answers-to-nhtsa-kept-entirely-sec/</loc>
-    <lastmod>2026-11-05T18:32:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/harbinger-raises-240m-after-expanding-into-defense/</loc>
-    <lastmod>2026-11-05T17:52:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?resize=1600,1067</image:loc>
-      <image:title>Harbinger raises $240M after expanding into defense</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/harbinger-raises-240m-after-expanding-into-defense/</loc>
-    <lastmod>2026-11-05T17:52:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?resize=1600,1067</image:loc>
-      <image:title>Harbinger raises $240M after expanding into defense</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-newest-ev-is-about-as-big-as-a-toyota-camry-but-brings-a-lot/</loc>
-    <lastmod>2026-11-05T17:52:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>BYD&#x27;s newest EV is about as big as a Toyota Camry, but brings a lot more tech for $23K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byds-newest-ev-is-about-as-big-as-a-toyota-camry-but-brings-a-lot/</loc>
-    <lastmod>2026-11-05T17:52:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>BYD&#x27;s newest EV is about as big as a Toyota Camry, but brings a lot more tech for $23K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-rough-diamond-camara-feels-ahead-of-very-surprising-f1-home-d/</loc>
-    <lastmod>2026-11-05T17:37:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/YE9EpZ1Y/s6/rafael-camara-haas-f1-team-2.jpg</image:loc>
-      <image:title>How rough diamond Camara feels ahead of &#x27;very surprising&#x27; F1 home debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-rough-diamond-camara-feels-ahead-of-very-surprising-f1-home-d/</loc>
-    <lastmod>2026-11-05T17:37:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/YE9EpZ1Y/s6/rafael-camara-haas-f1-team-2.jpg</image:loc>
-      <image:title>How rough diamond Camara feels ahead of &#x27;very surprising&#x27; F1 home debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/buick-electra-gs-is-a-sleek-new-plug-in-hybrid-sedan-for-china/</loc>
-    <lastmod>2026-11-05T17:20:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/25805574-78fb-4db9-8a67-fbbde117616e.jpg</image:loc>
-      <image:title>Buick Electra GS Is a Sleek New Plug-In Hybrid Sedan for China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/buick-electra-gs-is-a-sleek-new-plug-in-hybrid-sedan-for-china/</loc>
-    <lastmod>2026-11-05T17:20:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/25805574-78fb-4db9-8a67-fbbde117616e.jpg</image:loc>
-      <image:title>Buick Electra GS Is a Sleek New Plug-In Hybrid Sedan for China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/segway-launches-new-electric-motorcycle-thats-so-safe-it-has-seat/</loc>
-    <lastmod>2026-11-05T17:13:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/segway-X-cruiser-scooters-head-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Segway launches new electric motorcycle that&#x27;s so safe it has seatbelts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/segway-launches-new-electric-motorcycle-thats-so-safe-it-has-seat/</loc>
-    <lastmod>2026-11-05T17:13:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/segway-X-cruiser-scooters-head-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Segway launches new electric motorcycle that&#x27;s so safe it has seatbelts</image:title>
     </image:image>
   </url>
 </urlset>
