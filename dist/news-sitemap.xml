@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/why-f1-risks-horrific-incident-if-brazilian-gp-perils-are-repeate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T08:31:06+00:00</news:publication_date>
+      <news:title>Why F1 risks &#x27;horrific incident&#x27; if Brazilian GP perils are repeated</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452981_HiRes.jpg</image:loc>
+      <image:title>Why F1 risks &#x27;horrific incident&#x27; if Brazilian GP perils are repeated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/maruti-suzuki-to-launch-punch-rival-next-year/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T08:30:28+00:00</news:publication_date>
+      <news:title>Maruti Suzuki To Launch Punch Rival Next Year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/New-Maruti-Micro-SUV.jpg</image:loc>
+      <image:title>Maruti Suzuki To Launch Punch Rival Next Year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-denza-d9-mpv-spied-in-india-for-first-time-launch-13th-nov/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T05:27:41+00:00</news:publication_date>
+      <news:title>BYD Denza D9 MPV Spied In India For First Time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/BYD-Denza-D9-MPV-Spied.jpg</image:loc>
+      <image:title>BYD Denza D9 MPV Spied In India For First Time</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T04:57:46+00:00</news:publication_date>
+      <news:title>Tesla Hasn&#x27;t Had A Successful New Product Launch Since JB Straubel Stepped Down As CTO</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/JB-Straubel.jpg</image:loc>
+      <image:title>Tesla Hasn&#x27;t Had A Successful New Product Launch Since JB Straubel Stepped Down As CTO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-some-drivers-hand-police-a-blue-envelope-during-a-traffic-sto/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T04:25:00+00:00</news:publication_date>
+      <news:title>Why Some Drivers Hand Police A Blue Envelope During A Traffic Stop</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-some-drivers-hand-police-a-blue-envelope-during-a-traffic-stop/l-intro-1793377421.jpg</image:loc>
+      <image:title>Why Some Drivers Hand Police A Blue Envelope During A Traffic Stop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-hybrids-with-some-of-the-worst-mpg-ratings/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T02:25:00+00:00</news:publication_date>
+      <news:title>7 Hybrids With Some Of The Worst MPG Ratings</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-hybrids-with-some-of-the-worst-mpg-ratings/l-intro-1793217569.jpg</image:loc>
+      <image:title>7 Hybrids With Some Of The Worst MPG Ratings</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bmw-has-two-laboratories-dedicated-to-ensuring-its-cars-smell-goo/</loc>
     <news:news>
       <news:publication>
@@ -75,6 +165,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453197_HiRes.jpg</image:loc>
       <image:title>Fallout &amp; Drama: Who Won And Who Lost At F1 2026 Brazilian GP qualifying</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/of-course-there-is-tension-how-leclerc-sees-ferrari-mexico-fallou/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T23:46:13+00:00</news:publication_date>
+      <news:title>Of course there is tension</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452573_HiRes.jpg</image:loc>
+      <image:title>Of course there is tension</image:title>
     </image:image>
   </url>
   <url>
@@ -2145,111 +2250,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-xuv3xo-zng-bharat-ncap-results.jpg</image:loc>
       <image:title>Mahindra XUV3XO ZNG Crash Test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hero-xtreme-125r-stealth-edition-launch-price-rs-116-l-tft-tpms-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:37:00+00:00</news:publication_date>
-      <news:title>Hero Xtreme 125R Stealth Edition Launch Price Rs 1.16 L - TFT, TPMS, Cruise Control</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Hero-Xtreme-125R-Stealth-Edition-tft-cruise-tpms-launch-8.jpg</image:loc>
-      <image:title>Hero Xtreme 125R Stealth Edition Launch Price Rs 1.16 L - TFT, TPMS, Cruise Control</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-renault-duster-strong-hybrid-customer-deliveries-begin-in-ind/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:00:25+00:00</news:publication_date>
-      <news:title>New Renault Duster Strong Hybrid Customer Deliveries Begin In India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Renault-Duster-Hybrid-8.jpg</image:loc>
-      <image:title>New Renault Duster Strong Hybrid Customer Deliveries Begin In India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/energica-rises-from-the-ashes-with-plans-for-cheaper-electric-mot/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T09:50:19+00:00</news:publication_date>
-      <news:title>Energica rises from the ashes with plans for cheaper electric motorcycles</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/energica-revival-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Energica rises from the ashes with plans for cheaper electric motorcycles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-rebel-300-india-specs-revealed-276-ps-245-nm-173-kg-112-l-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T08:50:31+00:00</news:publication_date>
-      <news:title>Honda Rebel 300 India Specs Revealed - 27.6 PS, 24.5 Nm, 173 Kg, 11.2 L Tank, 690 mm Seat Ht</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-honda-rebel-300-india-specs-reveal-official-7.jpg</image:loc>
-      <image:title>Honda Rebel 300 India Specs Revealed - 27.6 PS, 24.5 Nm, 173 Kg, 11.2 L Tank, 690 mm Seat Ht</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/heros-vida-delivers-600-vx2-scooters-in-a-single-day-sets-new-rec/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T08:30:20+00:00</news:publication_date>
-      <news:title>Hero&#x27;s Vida Delivers 600+ VX2 Scooters In A Single Day, Sets New Record</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/vida-vx2-plus-4.4-kwh.jpg.jpeg</image:loc>
-      <image:title>Hero&#x27;s Vida Delivers 600+ VX2 Scooters In A Single Day, Sets New Record</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hondas-new-suv-brings-fresh-styling-and-next-gen-hybrid-tech/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T07:48:02+00:00</news:publication_date>
-      <news:title>Honda&#x27;s New SUV Brings Fresh Styling And Next-Gen Hybrid Tech</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/hondas-new-suv-brings-fresh-styling-and-next-gen-hybrid-tech/l-intro-1793950951.jpg</image:loc>
-      <image:title>Honda&#x27;s New SUV Brings Fresh Styling And Next-Gen Hybrid Tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-hyundai-bayon-review-big-on-tech-and-safety/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T07:06:32+00:00</news:publication_date>
-      <news:title>New Hyundai Bayon Review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-bayon-review-cover.jpg</image:loc>
-      <image:title>New Hyundai Bayon Review</image:title>
     </image:image>
   </url>
 </urlset>
