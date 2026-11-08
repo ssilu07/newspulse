@@ -1,5 +1,769 @@
 [
   {
+    "id": "art_1794154199_4",
+    "slug": "even-californias-biggest-ports-arent-betting-on-hydrogen-for-ship",
+    "category": "world",
+    "category_name": "EVs & Clean Mobility",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "CleanTechnica",
+    "raw_title": "Even California’s Biggest Ports Aren’t Betting On Hydrogen For Ships",
+    "title": "Even California's Biggest Ports Aren't Betting On Hydrogen For Ships",
+    "raw_summary": "California has been one of hydrogen’s most enthusiastic supporters for two decades. The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportation policies. Los Angeles and Long Beach, the two enormous ports that anchor America’s Pacific container trade, have been part of that enthusiasm. So when these ports produce a comprehensive assessment of future marine fuels and leave hydrogen out of their detailed deep-sea shipping plans, it deserves attention well beyond California. The Clean Marine Fuel Feasibility Assessment , released in October, is the product of a substantial examination of shipping fleets, carrier preferences, fuel availability and infrastructure costs. The ports recommend developing commercial methanol bunkering demonstrations, continuing existing ship-to-ship LNG bunkering arrangements and avoiding major new fuel terminals until demand becomes credible. Hydrogen, the molecule that California has spent so much money promoting for transportation, did not make the cut for detailed quantitative deep-sea fuel planning.",
+    "summary": "California has been one of hydrogen’s most enthusiastic supporters for two decades. The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportation policies. Los Angeles and Long Beach, the two enormous ports that anchor America’s Pacific container trade, have been part of that enthusiasm.",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_San_Pedro_Bay_Hero_FINAL_1600x900.png",
+    "original_url": "https://cleantechnica.com/2026/11/08/california-biggest-ports-not-betting-hydrogen-ships/",
+    "published_at": "2026-11-08T16:04:03+00:00",
+    "time_ago": "6m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "California has been one of hydrogen’s most enthusiastic supporters for two decades. The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportation policies. Los Angeles and Long Beach, the two enormous ports that anchor America’s Pacific container trade, have been part of that enthusiasm. So when these ports produce a comprehensive assessment of future marine fuels and leave hydrogen out of their detailed deep-sea shipping plans, it deserves attention well beyond California.",
+      "The Clean Marine Fuel Feasibility Assessment , released in October, is the product of a substantial examination of shipping fleets, carrier preferences, fuel availability and infrastructure costs. The ports recommend developing commercial methanol bunkering demonstrations, continuing existing ship-to-ship LNG bunkering arrangements and avoiding major new fuel terminals until demand becomes credible. Hydrogen, the molecule that California has spent so much money promoting for transportation, did not make the cut for detailed quantitative deep-sea fuel planning.",
+      "This isn’t a state government announcing the end of hydrogen subsidies. It is arguably more revealing. Two commercially important institutions have examined what the ships serving them are likely to use, considered the infrastructure they would have to provide and declined to spend the next decade preparing a major hydrogen bunkering business.",
+      "California’s hydrogen story has repeatedly confused technical possibility with commercial demand. Fuel-cell passenger cars proved they could operate, but struggled with expensive fuel, unreliable stations and battery-electric competition. Hydrogen buses and trucks have faced many of the same issues, often compounded by the economics of supplying fuel to fleets. Ports have supported hydrogen demonstrations because eliminating diesel exhaust matters enormously to nearby communities, but a successful demonstration does not establish that the resulting system is the best commercial solution.",
+      "Deep-sea shipping adds a particularly difficult set of constraints. A container vessel requires immense amounts of energy over long voyages. Hydrogen’s low volumetric energy density, expensive handling and demanding onboard storage make the fuel system difficult to accommodate economically. The problem extends beyond the ship to production, transportation, storage and bunkering equipment. There is little reason for a port authority to build a hydrogen fuel network when shipping lines are not ordering a commercially significant fleet that would use it.",
+      "The ports’ survey reinforces the commercial judgment. Of 38 shipping lines contacted, 19 responded. Nine expressed varying degrees of interest or commitment concerning methanol, but only one did so for hydrogen. That is a survey of carrier intentions, rather than binding fuel contracts, and the researchers examined other evidence as well. Still, it is difficult to turn one interested carrier into a compelling investment case for expensive hydrogen infrastructure.",
+      "The contrast with methanol is instructive. Methanol is a liquid under ordinary conditions and fits into a mature global chemical-handling industry. Existing storage and bunkering equipment can be adapted instead of requiring an entirely new cryogenic or high-pressure fuel network. Long Beach is already offering a $1 million incentive for an initial commercial-scale methanol bunkering operation, an approach that can test operational feasibility without committing to an enormous permanent facility.",
+      "I have a personal interest in that choice because I had to correct my own shipping-fuel forecast. Last year, I published Mea Culpa: Biomethanol Will Be A Major Shipping Fuel . I had previously given too much weight to vegetable-oil-derived fuels for shipping and insufficient weight to aviation’s competition for those feedstocks. I had also underestimated how far cheaper batteries could displace marine fuel demand. My revised assessment favours electricity for inland and short-sea shipping, with sustainable biomethanol becoming a primary liquid fuel for the remaining deep-sea requirement. The ports’ decision is consistent with preparing infrastructure for that possibility, although it does not establish that their future fuel supplies will be renewable."
+    ],
+    "bullet_points": [
+      "California has been one of hydrogen’s most enthusiastic supporters for two decades.",
+      "The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportation policies.",
+      "Los Angeles and Long Beach, the two enormous ports that anchor America’s Pacific container trade, have been part of that enthusiasm."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Even California's Biggest Ports Aren't Betting On Hydrogen For Ships",
+        "badge": "Breaking",
+        "text": "California has been one of hydrogen’s most enthusiastic supporters for two decades.",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_San_Pedro_Bay_Hero_FINAL_1600x900.png",
+        "alt": "Even California's Biggest Ports Aren't Betting On Hydrogen For Ships cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportation policies.",
+        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Los Angeles and Long Beach, the two enormous ports that anchor America’s Pacific container trade, have been part of that enthusiasm.",
+        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "EVs & Clean Mobility",
+        "text": "The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportation policies.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 61
+  },
+  {
+    "id": "art_1794154199_8",
+    "slug": "these-5-italian-exotics-are-more-dependable-than-the-finicky-supe",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "These 5 Italian Exotics Are More Dependable Than The Finicky Supercars Of Yesteryear",
+    "title": "These 5 Italian Exotics Are More Dependable Than The Finicky Supercars Of Yesteryear",
+    "raw_summary": "Supercar ownership has been, and likely always will be, quite a scary proposition for newcomers, save for those who have pockets deep enough to not even care how much the next service or repair bill will cost. However, modern engineering and the cross-platform hardware that exists in many a modern supercar makes ownership a little more approachable compared to the exotics that came before them. For example, classic Ferraris like the F355 and Testarossa require engine-out servicing on an uncomfortably frequent basis, while electrical gremlins, rattling cam chains, and inadequate braking systems trouble the pre-Audi-era Lamborghinis. Now, look at their modern counterparts. The Ferrari 458 Italia is chain-driven and capable of six-figure mileages, plus its modern DCT transmission is impressively durable and free of pricey clutch changes. Meanwhile, modern Lamborghinis share a lot of hardware with mass-market models from within the Volkswagen-Audi group as well as some other mainstream automakers, which, for buyers that know where to look, brings down servicing and maintenance costs dramatically.",
+    "summary": "Supercar ownership has been, and likely always will be, quite a scary proposition for newcomers, save for those who have pockets deep enough to not even care how much the next service or repair bill will cost. However, modern engineering and the cross-platform hardware that exists in many a modern supercar makes ownership a little more approachable compared to the exotics that came before them.",
+    "image_url": "https://www.jalopnik.com/img/gallery/these-5-italian-exotics-are-more-dependable-than-the-finicky-supercars-of-yesteryear/l-intro-1793361123.jpg",
+    "original_url": "https://www.jalopnik.com/2304501/more-dependable-italian-exotics-not-finicky-yesteryear-supercars/",
+    "published_at": "2026-11-08T15:05:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Supercar ownership has been, and likely always will be, quite a scary proposition for newcomers, save for those who have pockets deep enough to not even care how much the next service or repair bill will cost. However, modern engineering and the cross-platform hardware that exists in many a modern supercar makes ownership a little more approachable compared to the exotics that came before them. For example, classic Ferraris like the F355 and Testarossa require engine-out servicing on an uncomfortably frequent basis, while electrical gremlins, rattling cam chains, and inadequate braking systems trouble the pre-Audi-era Lamborghinis.",
+      "Now, look at their modern counterparts. The Ferrari 458 Italia is chain-driven and capable of six-figure mileages, plus its modern DCT transmission is impressively durable and free of pricey clutch changes. Meanwhile, modern Lamborghinis share a lot of hardware with mass-market models from within the Volkswagen-Audi group as well as some other mainstream automakers, which, for buyers that know where to look, brings down servicing and maintenance costs dramatically.",
+      "To prove our point, this piece covers seven modern Italian supercars that offer a surprisingly worry-free ownership experience — from the aforementioned models through to more entry-level supercars like the Ferrari California. The supercars on this list all utilize proven powerplants that have all been on the market for at least a decade, are typically simple and robust in design, and are backed up by numerous examples with six-figure mileages still on the roads today. As a result, the Italian supercars on this list all have no known major mechanical issues, straightforward servicing and global warranty coverage, and a reputation for reliability among enthusiasts. And above all else, they are way more dependable than many pre-2000 models that preceded them.",
+      "A high-performance, limited-run Alfa Romeo and dependable, all in the same sentence? That's right. Including the 8C wasn't some sort of mistake, and this Alfa's case is actually quite easy to argue. First off, the 8C isn't totally void of faults. Alfa Romeo issued a recall in 2009 that affected the front and rear lower ball joints, and at least one 8C randomly combusted as a result of a suspected electrical gremlin. However, even $70 million 250 GTOs catch fire from time to time, so perhaps that's just part and parcel of Italian supercar ownership.",
+      "That aside, the 8C is largely based on a Maserati GranTurismo, rather than being some custom creation featuring heaps of unique parts. It's also motivated by the same Ferrari-Maserati F136 — a notoriously well-built V8 that also featured in the Ferrari F430 and 458. What this means for owners is that finding a specialist familiar with this engine shouldn't be a problem. Though the F136 is considered relatively dependable as long as basic maintenance is kept on top of.",
+      "Some of the factors that make the F136 more robust than older Ferrari V8s are chain-driven cams, a completely new, stiff aluminum block, forged pistons and a hardened-steel crankshaft. Owners also appreciate the fact that there's no engine-out servicing. We even mentioned it among the greatest engines of the last decade .",
+      "Given the super exclusive nature of these cars, most 8Cs seem to be kept as cherished weekend toys and don't see heaps of use, but the proven underpinnings mean that, given the chance, they could probably cover significant mileage without major hiccups. Compare the F136 V8 to the complex and low-production engines fitted to previous special Alfas like the '70s Montreal, and the 8C looks like quite a tempting prospect.",
+      "For all the same reasons why the 8C is great, the California is just as good. It's another grand tourer supercar that uses the F136. In this guise, the V8 produces 460 hp and 358 lb-ft of torque from a 4.3-liter displacement. One of the real benefits to the California is that it was sold with the \"Ferrari Genuine Maintenance\" program packaged in — alongside other contemporary Ferrari models. That provided owners with seven years' worth of free servicing, and it wasn't capped at one service per year."
+    ],
+    "bullet_points": [
+      "Supercar ownership has been, and likely always will be, quite a scary proposition for newcomers, save for those who have pockets deep enough to not even care how much the next service or repair bill will cost.",
+      "However, modern engineering and the cross-platform hardware that exists in many a modern supercar makes ownership a little more approachable compared to the exotics that came before them.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "These 5 Italian Exotics Are More Dependable Than The Finicky Supercars Of Yesteryear",
+        "badge": "Breaking",
+        "text": "Supercar ownership has been, and likely always will be, quite a scary proposition for newcomers, save for those who have pockets deep enough to not even care how much the next service or repair bill will cost.",
+        "image": "https://www.jalopnik.com/img/gallery/these-5-italian-exotics-are-more-dependable-than-the-finicky-supercars-of-yesteryear/l-intro-1793361123.jpg",
+        "alt": "These 5 Italian Exotics Are More Dependable Than The Finicky Supercars Of Yesteryear cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "However, modern engineering and the cross-platform hardware that exists in many a modern supercar makes ownership a little more approachable compared to the exotics that came before them.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Supercar ownership has been, and likely always will be, quite a scary proposition for newcomers, save for those who have pockets deep enough to not even care how much the next service or repair bill will cost.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "However, modern engineering and the cross-platform hardware that exists in many a modern supercar makes ownership a little more approachable compared to the exotics that came before them.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 65
+  },
+  {
+    "id": "art_1794154199_6",
+    "slug": "what-do-the-red-and-yellow-dots-on-tires-mean",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Carscoops",
+    "raw_title": "What Do The Red And Yellow Dots On Tires Mean?",
+    "title": "What Do The Red And Yellow Dots On Tires Mean?",
+    "raw_summary": "New tires can come with some genuine surprises outside of a potentially wild bill. Sometimes that comes in the form of grip. Other times it comes in the form of smoothness on the road. In addition, most come with a couple of small painted dots that almost nobody ever explains. While things like the colored stripes on the tire don't really matter after their initial sale, these dots are key for anyone installing the tire down the road. Here's a quick breakdown of what each dot is and what it signifies. To be short and sweet, there are typically two dots on a modern tire. First, you'll find a yellow dot. It signifies the lightest part of the tire in question when tested by the manufacturer. Second, a red dot alerts a tire balancer to the point of maximum force variation. Both of those deserve a little unpacking and explanation.",
+    "summary": "New tires can come with some genuine surprises outside of a potentially wild bill. Sometimes that comes in the form of grip. Other times it comes in the form of smoothness on the road. In addition, most come with a couple of small painted dots that almost nobody ever explains.",
+    "image_url": "https://www.carscoops.com/img/gallery/what-do-the-red-and-yellow-dots-on-tires-mean/l-intro-1793715106.jpg",
+    "original_url": "https://www.carscoops.com/2305174/red-yellow-tire-dots-meaning/",
+    "published_at": "2026-11-08T15:00:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "New tires can come with some genuine surprises outside of a potentially wild bill. Sometimes that comes in the form of grip. Other times it comes in the form of smoothness on the road. In addition, most come with a couple of small painted dots that almost nobody ever explains. While things like the colored stripes on the tire don't really matter after their initial sale, these dots are key for anyone installing the tire down the road. Here's a quick breakdown of what each dot is and what it signifies.",
+      "To be short and sweet, there are typically two dots on a modern tire. First, you'll find a yellow dot. It signifies the lightest part of the tire in question when tested by the manufacturer. Second, a red dot alerts a tire balancer to the point of maximum force variation. Both of those deserve a little unpacking and explanation.",
+      "Of the two dots, the yellow one is easier for most of us to understand. Despite looking like a perfectly symmetrical product, tires almost always have some variation in density from one point of their circumference to another, even the latest and greatest tires from Michelin with AI tech . Marking the lightest point around the tire gives the installer a reference for where to seat the tire on the wheel.",
+      "Why does that matter if a wheel is perfectly balanced all the way around? Well, it wouldn't in that case, but the valve stem is generally the wheel's heaviest point. Aligning the tire's yellow dot with that location brings the lighter part of one component together with the heavier part of the other. For a tire balancer, that means fewer tests, hopefully fewer weights, and a quicker turnaround time. That benefits everybody from the tire shop to the technician to the vehicle owner.",
+      "Now, let's dig into the more difficult dot to understand. The red dot addresses how the tire behaves when it's under load. As a loaded tire rotates, it generates what's called radial force variation. The red mark identifies the peak of that variation. Calling it the tire's \"high point\" is common shorthand, but there's more involved than its unloaded shape. Ultimately, that point can create vibrations if it's not accounted for.",
+      "Installers can check a wheel for its point of minimum radial runout, which is typically marked with a notch or colored mark. Interestingly, at least in my experience as the manager of a wheel and tire shop, the red mark matters more than the yellow one. A misaligned red dot can cause more vibration and discomfort in the cabin than a misaligned yellow dot. Of course, even an AI-driven robotic tire changer is going to add appropriate wheel weights as needed, regardless of where the red and yellow dots fall."
+    ],
+    "bullet_points": [
+      "New tires can come with some genuine surprises outside of a potentially wild bill.",
+      "Sometimes that comes in the form of grip.",
+      "Other times it comes in the form of smoothness on the road."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "What Do The Red And Yellow Dots On Tires Mean?",
+        "badge": "Breaking",
+        "text": "New tires can come with some genuine surprises outside of a potentially wild bill.",
+        "image": "https://www.carscoops.com/img/gallery/what-do-the-red-and-yellow-dots-on-tires-mean/l-intro-1793715106.jpg",
+        "alt": "What Do The Red And Yellow Dots On Tires Mean? cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Sometimes that comes in the form of grip.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Other times it comes in the form of smoothness on the road.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "In addition, most come with a couple of small painted dots that almost nobody ever explains.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Carscoops.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 50
+  },
+  {
+    "id": "art_1794154199_9",
+    "slug": "if-you-could-only-drive-cars-from-one-brand-for-the-rest-of-your-",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "If You Could Only Drive Cars From One Brand For The Rest Of Your Life, Which Automaker Are You Choosing?",
+    "title": "If You Could Only Drive Cars From One Brand For The Rest Of Your Life, Which Automaker Are You Choosing?",
+    "raw_summary": "Some of you lot have told Jalopnik that branding doesn't matter , but let's face it, branding really does matter, because loyalty matters . From the salt you put on your eggs in the morning to the car you drive every day, your purchase tells that brand it's doing something right. It's why some movie franchises have more than 10 sequels even if the last 9 films were terrible. It's why companies constantly find themselves sleeping with data giants. This weekend's question was inspired by a trend I saw popping up on social media over the last few days, where individuals are asked if they had to watch movies for 24 hours, and all of the films had to feature the work of one actor, who would they pick? I would choose John Malkovich, who has been in a ton of brilliant movies across the spectrum that would certainly keep any decent cinephile entertained. He's just a great actor. How can you argue with that?",
+    "summary": "Some of you lot have told Jalopnik that branding doesn't matter , but let's face it, branding really does matter, because loyalty matters . From the salt you put on your eggs in the morning to the car you drive every day, your purchase tells that brand it's doing something right.",
+    "image_url": "https://www.jalopnik.com/img/gallery/if-you-could-only-drive-cars-from-one-brand-for-the-rest-of-your-life-which-automaker-are-you-choosing/l-intro-1794010421.jpg",
+    "original_url": "https://www.jalopnik.com/2309996/only-drive-cars-from-one-brand-rest-of-life-reader-question/",
+    "published_at": "2026-11-08T14:25:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Some of you lot have told Jalopnik that branding doesn't matter , but let's face it, branding really does matter, because loyalty matters . From the salt you put on your eggs in the morning to the car you drive every day, your purchase tells that brand it's doing something right. It's why some movie franchises have more than 10 sequels even if the last 9 films were terrible. It's why companies constantly find themselves sleeping with data giants.",
+      "This weekend's question was inspired by a trend I saw popping up on social media over the last few days, where individuals are asked if they had to watch movies for 24 hours, and all of the films had to feature the work of one actor, who would they pick? I would choose John Malkovich, who has been in a ton of brilliant movies across the spectrum that would certainly keep any decent cinephile entertained. He's just a great actor. How can you argue with that?",
+      "Getting to today's question, though, I've modified it a bit for our purposes. Assuming the brand is still in existence for that long, if you could only drive cars from one automaker for the rest of your life, which brand are you choosing?",
+      "One company initially came to my mind for this week's question, and it's in the running for what will replace my Mercedes CLS when its time comes. I reckon I still have a few more years until I have to worry about that, but I would willingly pledge my life's driving experiences to Subaru. The vehicles Subaru offers have long been on my list as hopefuls to own, doubling as decently fun on both the road and in the dirt, which has long been an attractive attribute to me. This is where my Mercedes tends to fail, even if I did once use it to go on an outdoor dirt biking adventure in the mountains. It managed, but a Subaru would have been much better.",
+      "It helps that Subaru has, for the longest time, continually sold a sedan with a manual transmission, with the current offering being the WRX . Sure, its lineup is mostly crossovers, but the Japanese brand has stayed true to its heritage, something many automakers constantly fumble. Subaru also makes vehicles that are near-indestructible. I've encountered many in the wild with well over 300,000 miles, beaten and bruised but still running. For bonus points, it certainly doesn't hurt that Subaru does the whole doggy adoption display at basically every auto show in the nation.",
+      "Here's where you readers come in. It's time to buck up and pick a brand to drive you into the sunset that is the end of life. I thought about asking you to keep it to brands that exist now, but if you have strong feelings about a past manufacturer, so be it. I'm curious how you would keep defunct cars running for the next handful of decades, but as crafty folks that continue to endure the hobby, you find a way. You always find a way."
+    ],
+    "bullet_points": [
+      "Some of you lot have told Jalopnik that branding doesn't matter , but let's face it, branding really does matter, because loyalty matters .",
+      "From the salt you put on your eggs in the morning to the car you drive every day, your purchase tells that brand it's doing something right.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "If You Could Only Drive Cars From One Brand For The Rest Of Your Life, Which Automaker Are You Choosing?",
+        "badge": "Breaking",
+        "text": "Some of you lot have told Jalopnik that branding doesn't matter , but let's face it, branding really does matter, because loyalty matters .",
+        "image": "https://www.jalopnik.com/img/gallery/if-you-could-only-drive-cars-from-one-brand-for-the-rest-of-your-life-which-automaker-are-you-choosing/l-intro-1794010421.jpg",
+        "alt": "If You Could Only Drive Cars From One Brand For The Rest Of Your Life, Which Automaker Are You Choosing? cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "From the salt you put on your eggs in the morning to the car you drive every day, your purchase tells that brand it's doing something right.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Some of you lot have told Jalopnik that branding doesn't matter , but let's face it, branding really does matter, because loyalty matters .",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "From the salt you put on your eggs in the morning to the car you drive every day, your purchase tells that brand it's doing something right.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 51
+  },
+  {
+    "id": "art_1794154199_12",
+    "slug": "2027-toyota-rav4-woodland-gains-an-inch-where-it-counts-all-phevs",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Jalopnik",
+    "raw_title": "2027 Toyota RAV4 Woodland Gains An Inch Where It Counts, All PHEVs Get NACS And Level 3 Charging",
+    "title": "2027 Toyota RAV4 Woodland Gains An Inch Where It Counts, All PHEVs Get NACS And Level 3 Charging",
+    "raw_summary": "The ever-popular Toyota RAV4 was totally redesigned for the 2026 model year, and for the first time ever it offered exclusively hybridized drivetrains . Considering how momentous that redesign was, one would expect second-year updates to be minimal, and that's mostly the case for the 2027 RAV4, but the handful of updates are good ones. The off-road-oriented RAV4 Woodland becomes slightly more off-road oriented for 2027 with a reworked suspension that adds an inch of ground clearance for a total of 9.1 inches, and all plug-in-hybrid RAV4s, including the RAV4 GR Sport , now feature an NACS port with DC fast-charging abilities and an 11-kW onboard AC charger. I'm never happy to see prices increase, but at least Toyota has kept the increases to a minimum, with different trim levels costing between $400 and $755 more than they did last year . The cheapest 2027 Toyota RAV4 you can buy is the front-wheel-drive LE trim that now costs $33,895, up $400 from last year, while the cheapest 2027 RAV4 PHEV you can buy is the all-wheel-drive SE that now costs $43,695, which is $600 dearer than last year.",
+    "summary": "The ever-popular Toyota RAV4 was totally redesigned for the 2026 model year, and for the first time ever it offered exclusively hybridized drivetrains . Considering how momentous that redesign was, one would expect second-year updates to be minimal, and that's mostly the case for the 2027 RAV4, but the handful of updates are good ones.",
+    "image_url": "https://www.jalopnik.com/img/gallery/2027-toyota-rav4-woodland-gains-an-inch-where-it-counts-all-phevs-get-nacs-and-level-3-charging/l-intro-1794003917.jpg",
+    "original_url": "https://www.jalopnik.com/2309932/2027-toyota-rav4-woodland-suspension-lift-phevs-get-nacs-charging/",
+    "published_at": "2026-11-08T14:05:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "The ever-popular Toyota RAV4 was totally redesigned for the 2026 model year, and for the first time ever it offered exclusively hybridized drivetrains . Considering how momentous that redesign was, one would expect second-year updates to be minimal, and that's mostly the case for the 2027 RAV4, but the handful of updates are good ones. The off-road-oriented RAV4 Woodland becomes slightly more off-road oriented for 2027 with a reworked suspension that adds an inch of ground clearance for a total of 9.1 inches, and all plug-in-hybrid RAV4s, including the RAV4 GR Sport , now feature an NACS port with DC fast-charging abilities and an 11-kW onboard AC charger.",
+      "I'm never happy to see prices increase, but at least Toyota has kept the increases to a minimum, with different trim levels costing between $400 and $755 more than they did last year . The cheapest 2027 Toyota RAV4 you can buy is the front-wheel-drive LE trim that now costs $33,895, up $400 from last year, while the cheapest 2027 RAV4 PHEV you can buy is the all-wheel-drive SE that now costs $43,695, which is $600 dearer than last year.",
+      "The RAV4 Woodland's new raised suspension includes new springs, shocks, and jounce bumpers that accompany its added inch of clearance, and it also gets redesigned all-weather floor mats. That lift comes at a cost, with the 2027 Woodland being $755 more expensive at $42,250, and it gets 1 mpg worse in the city than last year — it's rated at a still outstanding 40 mpg city, 35 mpg highway, and 38 mpg combined, though. ( The Subaru Forester Wilderness Hybrid offers 0.2 inches more ground clearance than the Woodland's 9.1 inches, if that really matters to you.) The PHEV Woodland loses 3 miles of EV range, now standing at 46 miles, and though its city fuel economy dropped 3 mpg to 38, its highway mileage went up by 1 mpg to 35, and its combined rating remains 37 mpg.",
+      "The 2026 RAV4 GR Sport plug-in hybrid perplexed us because it had worse charging abilities than all other PHEV RAV4s, but that's amended for 2027. All plug-in RAV4s are now fitted with an NACS port for the first time, and the GR Sport gains DC fast-charging capability and the 11-kW onboard charger the rest of the lineup already had. Every PHEV RAV4 is now capable of charging from 10% to 80% in the same time as last year, about 35 minutes. For some reason, the 2027 RAV4 GR Sport's electric-only driving range drops by 3 miles to an estimated 45 miles of range, but that's still a good result.",
+      "Other tweaks include all the PHEVs now having their charge port on the driver's side, every model gains a standard backup camera washer, and all-wheel-drive RAV4s now have Multi-Terrain Select with Rock & Dirt mode and Mud & Sand mode. Toyota says 2027 RAV4 hybrids should hit dealer lots later this year, but PHEV models will arrive early next year."
+    ],
+    "bullet_points": [
+      "The ever-popular Toyota RAV4 was totally redesigned for the 2026 model year, and for the first time ever it offered exclusively hybridized drivetrains .",
+      "Considering how momentous that redesign was, one would expect second-year updates to be minimal, and that's mostly the case for the 2027 RAV4, but the handful of updates are good ones.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "2027 Toyota RAV4 Woodland Gains An Inch Where It Counts, All PHEVs Get NACS And Level 3 Charging",
+        "badge": "Breaking",
+        "text": "The ever-popular Toyota RAV4 was totally redesigned for the 2026 model year, and for the first time ever it offered exclusively hybridized drivetrains .",
+        "image": "https://www.jalopnik.com/img/gallery/2027-toyota-rav4-woodland-gains-an-inch-where-it-counts-all-phevs-get-nacs-and-level-3-charging/l-intro-1794003917.jpg",
+        "alt": "2027 Toyota RAV4 Woodland Gains An Inch Where It Counts, All PHEVs Get NACS And Level 3 Charging cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Considering how momentous that redesign was, one would expect second-year updates to be minimal, and that's mostly the case for the 2027 RAV4, but the handful of updates are good ones.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The ever-popular Toyota RAV4 was totally redesigned for the 2026 model year, and for the first time ever it offered exclusively hybridized drivetrains .",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "Considering how momentous that redesign was, one would expect second-year updates to be minimal, and that's mostly the case for the 2027 RAV4, but the handful of updates are good ones.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 55
+  },
+  {
+    "id": "art_1794154199_5",
+    "slug": "would-you-rather-cadillac-escalade-iq-vs-escalade-v",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Car and Driver",
+    "raw_title": "Would You Rather: Cadillac Escalade IQ vs. Escalade-V",
+    "title": "Would You Rather: Cadillac Escalade IQ vs. Escalade-V",
+    "raw_summary": "A lot of companies build EV models that have an internal-combustion analogue, with the guiding principle of, “the car you liked before, but electric.” There’s a tight thematic cohesiveness to that approach—a BMW i3 and M340i each endeavor to arrive at their optimized level of BMW 3-ness despite the differing powertrains—but the Cadillac Escalade is not like that. Yes, there are gas and electric versions, but they’re similar only inasmuch as they each avidly pursue the high-level Escalade goals of cosseting bigness and cocky braggadocio. When Tony Soprano got an Escalade in season 5 of The Sopranos , the only question around that casting decision was, what took so long? Today Tony would have more choices in his pursuit of the maximum expression of GM SUV, as do any of us with about $160,000 to spend. Namely, would you rather have a supercharged V-8 Escalade-V or an electric Escalade IQ ? Cadillac designed the Escalade-V’s exhaust to be extra boisterous , adding a 360-degree loop to the passenger’s-side pipe to equalize the length with the driver’s-side counterpart, for maximum sonic awesomeness. The IQ does not have equal-length dual exhaust. Whatever exhaust it does produce will get you into a tedious and possibly confrontational discussion of well-to-wheel emissions with your uncle at Thanksgiving. However, you’ll never have to worry about thieves stealing your catalytic converters, so I’ll call that one a draw.",
+    "summary": "A lot of companies build EV models that have an internal-combustion analogue, with the guiding principle of, “the car you liked before, but electric.” There’s a tight thematic cohesiveness to that approach—a BMW i3 and M340i each endeavor to arrive at their optimized level of BMW 3-ness despite the differing powertrains—but the Cadillac Escalade is not like that.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/1485bfce-5e79-49c1-9675-a5abe147d0d9.jpg",
+    "original_url": "https://www.caranddriver.com/features/a74230088/would-you-rather-cadillac-escalade-iq-vs-escalade-v/",
+    "published_at": "2026-11-08T14:00:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "A lot of companies build EV models that have an internal-combustion analogue, with the guiding principle of, “the car you liked before, but electric.” There’s a tight thematic cohesiveness to that approach—a BMW i3 and M340i each endeavor to arrive at their optimized level of BMW 3-ness despite the differing powertrains—but the Cadillac Escalade is not like that. Yes, there are gas and electric versions, but they’re similar only inasmuch as they each avidly pursue the high-level Escalade goals of cosseting bigness and cocky braggadocio. When Tony Soprano got an Escalade in season 5 of The Sopranos , the only question around that casting decision was, what took so long? Today Tony would have more choices in his pursuit of the maximum expression of GM SUV, as do any of us with about $160,000 to spend. Namely, would you rather have a supercharged V-8 Escalade-V or an electric Escalade IQ ?",
+      "Cadillac designed the Escalade-V’s exhaust to be extra boisterous , adding a 360-degree loop to the passenger’s-side pipe to equalize the length with the driver’s-side counterpart, for maximum sonic awesomeness. The IQ does not have equal-length dual exhaust. Whatever exhaust it does produce will get you into a tedious and possibly confrontational discussion of well-to-wheel emissions with your uncle at Thanksgiving. However, you’ll never have to worry about thieves stealing your catalytic converters, so I’ll call that one a draw.",
+      "Looking at the specs, I’m surprised to see that the Escalade-V weighs eight pounds more than the IQ. Hold on, that doesn’t sound right—let me check my notes—sorry, my curb-weight figure for the Escalade-V inadvertently included a Toyota GR86 parked on its roof. Remove that extra car, and the supercharged Escalade is quite a bit lighter: 6290 pounds for the V, and a pavement-crushing 9120 pounds for the IQ.",
+      "Despite the weight disparity, the two Slades are evenly matched in a drag race, with the 750-hp IQ trailing the 682-hp V by a couple tenths of a second to 60 mph (4.5 seconds to 4.3). On a rolling start from 5 mph, they’re tied at 4.7 seconds, and passing a dawdler will be a quicker task in the IQ: 50 to 70 mph in 2.6 seconds, versus 3.1 seconds for the loud Caddy.",
+      "Now, I’m old enough to remember the days when a Ferrari 458 Italia felt like it had pretty decent passing power, but the Escalade IQ’s 2.1-second 30-to-50-mph time beats the Ferrari by a tenth. If the IQ had been part of our Chariots of the Gods comparison test in 2011, its 50-to-70-mph time would have slotted it a tenth of a second behind the 458 and two-tenths ahead of the McLaren MP4-12C. Neither of those, when accelerating, heave their hoods skyward like a 70-foot Viking sportfish climbing on a plane, but the Escalade IQ certainly does. And they say EVs don’t bring any drama to the experience—behind the wheel, the IQ accelerating like my favorite Ferrari of all time feels as improbable as it actually is, like the vehicle itself is struggling to cope with its superpowers. An Escalade-V drives more like a mutant CT5-V Blackwing, and it’s definitely the Escalade where the driver’s seat is more desirable than one of the chauffeur chairs in back.",
+      "If we accept that one of the primary goals for an Escalade is to project brash confidence, and that hugeness is fundamental to that project, the Escalade IQ wins going away. It reminds me of a scaled-up Rolls-Royce Cullinan in the side profile, and there’s a lot of side to behold: the IQ is more than a foot longer than the gas-powered Escalade. It’s also just newer, and I think it helps the premium aura not to have a bunch of Chevys and GMCs out there copping your style with very similar bodies. Also: rear-axle steering is unequivocally a flex, and the internal-combustion Escalade doesn’t have it.",
+      "Inside, both Escalades offer huge screens, lots of leather, and power-operated doors. However, only the IQ is eligible for the Curated by Cadillac program, wherein buyers fork over an additional $54,995 and get to choose from a huge palette of colors, inside and out. With 44 interior color choices, you can certainly spec a one-of-one IQ, while the Escalade-V sticks with “Yukon Denali, but fancier” as a guiding principle. Advantage, IQ.",
+      "When we’re discussing EVs versus internal combustion, range is usually an easy win for the gas-powered candidate. But not here—the Escalade-V has an EPA-rated 312 miles of range, while the IQ gets a 465-mile rating. Yes, the V will refuel a lot quicker, but you’ll be stopping way more often. And if your gas pump stops at $100, you might technically need to fill twice to top off the 24-gallon tank with premium."
+    ],
+    "bullet_points": [
+      "A lot of companies build EV models that have an internal-combustion analogue, with the guiding principle of, “the car you liked before, but electric.” There’s a tight thematic cohesiveness to that approach—a BMW i3 and M340i each endeavor to arrive at their optimized level of BMW 3-ness despite the differing powertrains—but the Cadillac Escalade is not like that.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from Car and Driver."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Would You Rather: Cadillac Escalade IQ vs. Escalade-V",
+        "badge": "Breaking",
+        "text": "A lot of companies build EV models that have an internal-combustion analogue, with the guiding principle of, “the car you liked before, but electric.” There’s a tight thematic cohesiveness to that approach—a BMW i3 and M340i each endeavor to arrive at their optimized level of BMW 3-ness despite the differing powertrains—but the Cadillac Escalade is not like that.",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/1485bfce-5e79-49c1-9675-a5abe147d0d9.jpg",
+        "alt": "Would You Rather: Cadillac Escalade IQ vs. Escalade-V cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "A lot of companies build EV models that have an internal-combustion analogue, with the guiding principle of, “the car you liked before, but electric.” There’s a tight thematic cohesiveness to that approach—a BMW i3 and M340i each endeavor to arrive at their optimized level of BMW 3-ness despite the differing powertrains—but the Cadillac Escalade is not like that.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "A lot of companies build EV models that have an internal-combustion analogue, with the guiding principle of, “the car you liked before, but electric.” There’s a tight thematic cohesiveness to that approach—a BMW i3 and M340i each endeavor to arrive at their optimized level of BMW 3-ness despite the differing powertrains—but the Cadillac Escalade is not like that.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Car and Driver.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 58
+  },
+  {
+    "id": "art_1794154199_3",
+    "slug": "new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the",
+    "category": "world",
+    "category_name": "EVs & Clean Mobility",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "Electrek",
+    "raw_title": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
+    "title": "New ID. AURA is the mainstream EV VW needs",
+    "raw_summary": "Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Type 1 Beetle. Now facing an existential crisis after a decades-long push upmarket , the automaker faces a reckoning – and a retreat back into affordable, mass-market electric sedans like the new FAW-VW ID. AURA L5 (and the software that powers it) might be exactly what VW needs to reach a new generation of buyers. Like the Ford Model T, the original VW Type 1 Beetle was an engineering-led answer to a basic problem: making family transportation affordable and accessible to the masses. And regardless of how you feel about Elon Musk, the Tesla Model 3 has become the spiritual successor to those cars, bringing electric transportation to millions of mainstream drivers. As the Model 3 approaches its 11th year in public view, the recently revealed all-electric ID. AURA L5 and VW JETTA looks like it could be a compelling rival to the mainstream M3.",
+    "summary": "Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Type 1 Beetle. Now facing an existential crisis after a decades-long push upmarket , the automaker faces a reckoning – and a retreat back into affordable, mass-market electric sedans like the new FAW-VW ID.",
+    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/id-aura_MAIN.jpg?quality=82&strip=all&w=1600",
+    "original_url": "https://electrek.co/2026/11/08/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the-real-story/",
+    "published_at": "2026-11-08T13:42:16+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Type 1 Beetle. Now facing an existential crisis after a decades-long push upmarket , the automaker faces a reckoning – and a retreat back into affordable, mass-market electric sedans like the new FAW-VW ID. AURA L5 (and the software that powers it) might be exactly what VW needs to reach a new generation of buyers.",
+      "Like the Ford Model T, the original VW Type 1 Beetle was an engineering-led answer to a basic problem: making family transportation affordable and accessible to the masses. And regardless of how you feel about Elon Musk, the Tesla Model 3 has become the spiritual successor to those cars, bringing electric transportation to millions of mainstream drivers. As the Model 3 approaches its 11th year in public view, the recently revealed all-electric ID. AURA L5 and VW JETTA looks like it could be a compelling rival to the mainstream M3.",
+      "Co-developed by Volkswagen’s Chinese and German design teams and set to be built by the FAW-VW JV , the ID. AURA L5 is an Accord/Camry-sized electric family car a practical fastback-style rear hatch, frameless doors, and a claimed “84.4% usable floor-area ratio.” The power-operated hatchback opens its maw more than 70 degrees, revealing a 39″ wide opening that can handle groceries, luggage, golf clubs, pets, bodies – whatever you got.",
+      "Don’t take my word for it, though. This is the original text from the company’s press release (translated from Chinese by Google):",
+      "The ID. AURA L5 is a pure electric family sedan, jointly designed by Chinese and German design teams, and highly replicates the design essence of the ID. AURA concept car shown at the 2025 Shanghai Auto Show. Its short overhang and long wheelbase proportions create a sleek and flowing coupe-like stance, achieving a “usable floor area ratio” of 84.4%. The sides feature true frameless doors, semi-concealed door handles, and an electric hatchback tailgate with an opening angle exceeding 70°, and an opening width exceeding 1000 mm, greatly improving the convenience of loading and unloading large items, deeply integrating fastback aesthetics with practicality. Some models will be equipped with LiDAR and feature the Hyper Sense 8 end-to-end large model, making daily travel easier and more convenient for customers.",
+      "The production version of the ID. AURA L5 is expected to pack the same 155 kW (~208 hp) electric motors announced when the concept AURA L5 was first shown last year (battery specs were not released), and was shown as part of a broader product announcement of what VW Group China would be showcasing at this year’s China International Import Expo (CIIE). These include the first two models fully equipped with Volkswagen Group’s locally developed VEGA “integrated technology matrix” (read: software), and the Volkswagen Anhui intelligent pure electric “coupe” crossover.",
+      "The announcement coincides with reports from outlets like Autocar and Reuters that Volkswagen is evaluating whether to deploy its China-developed electrical architecture across the majority of its European markets.",
+      "“According to internal discussions confirmed by Group board member and Volkswagen brand CEO Thomas Schäfer,” reports Autocar’s Greg Kable, “up to 75% of the firm’s core models in Europe could eventually use the China Electronic Architecture.”"
+    ],
+    "bullet_points": [
+      "Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Type 1 Beetle.",
+      "Now facing an existential crisis after a decades-long push upmarket , the automaker faces a reckoning – and a retreat back into affordable, mass-market electric sedans like the new FAW-VW ID.",
+      "Official reporting verified via Electrek news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "New ID. AURA is the mainstream EV VW needs",
+        "badge": "Breaking",
+        "text": "Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Type 1 Beetle.",
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/id-aura_MAIN.jpg?quality=82&strip=all&w=1600",
+        "alt": "New ID. AURA is the mainstream EV VW needs cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Now facing an existential crisis after a decades-long push upmarket , the automaker faces a reckoning – and a retreat back into affordable, mass-market electric sedans like the new FAW-VW ID.",
+        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Type 1 Beetle.",
+        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "EVs & Clean Mobility",
+        "text": "Now facing an existential crisis after a decades-long push upmarket , the automaker faces a reckoning – and a retreat back into affordable, mass-market electric sedans like the new FAW-VW ID.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Electrek.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 50
+  },
+  {
+    "id": "art_1794154199_10",
+    "slug": "marini-out-as-qatar-grid-is-reduced-to-16-riders",
+    "category": "sports",
+    "category_name": "Motorsport & F1 Tech",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🏁",
+    "source": "The Race",
+    "raw_title": "Marini out as Qatar grid is reduced to 16 riders",
+    "title": "Marini out as Qatar grid is reduced to 16 riders",
+    "raw_summary": "Honda MotoGP rider Luca Marini has withdrawn from the main Qatar Grand Prix race, reducing the field to 16 participants. Twenty-two full-time riders are entered in the series - but Yamaha is absent in full from the Qatar weekend due to the geopolitical situation, and Pecco Bagnaia was ruled out of the weekend after fracturing his foot in the sprint. Bagnaia will undergo surgery on a pair of metatarsal fractures in his right foot on Monday or Tuesday. Now, Marini has withdrawn from the weekend, too, as he has continued to struggle with fatigue after a viral infection last month. He was able to compete last weekend at Sepang but has laboured from the get-go here, finishing a low-key 13th in the sprint before pulling out following the warm-up. There are questions, too, about whether Maverick Vinales will take the start for Tech3 KTM. A despondent Vinales, who is still not fit after his shoulder injury last year, said he \"doesn't want anymore to ride like this\". But he did run in the warm-up, and there has been no communication from Tech3 about him sitting out the race. If the grid size ends up at 16, it means Jorge Martin would need to beat just one rider to take the championship fight to Portugal - even if Marc Marquez were to win the grand prix.",
+    "summary": "Honda MotoGP rider Luca Marini has withdrawn from the main Qatar Grand Prix race, reducing the field to 16 participants. Twenty-two full-time riders are entered in the series - but Yamaha is absent in full from the Qatar weekend due to the geopolitical situation, and Pecco Bagnaia was ruled out of the weekend after fracturing his foot in the sprint.",
+    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361834_HiRes.jpg",
+    "original_url": "https://www.the-race.com/motogp/marini-out-as-motogp-grid-is-reduced-to-16-riders/",
+    "published_at": "2026-11-08T13:40:26+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Honda MotoGP rider Luca Marini has withdrawn from the main Qatar Grand Prix race, reducing the field to 16 participants. Twenty-two full-time riders are entered in the series - but Yamaha is absent in full from the Qatar weekend due to the geopolitical situation, and Pecco Bagnaia was ruled out of the weekend after fracturing his foot in the sprint. Bagnaia will undergo surgery on a pair of metatarsal fractures in his right foot on Monday or Tuesday. Now, Marini has withdrawn from the weekend, too, as he has continued to struggle with fatigue after a viral infection last month. He was able to compete last weekend at Sepang but has laboured from the get-go here, finishing a low-key 13th in the sprint before pulling out following the warm-up. There are questions, too, about whether Maverick Vinales will take the start for Tech3 KTM. A despondent Vinales, who is still not fit after his shoulder injury last year, said he \"doesn't want anymore to ride like this\". But he did run in the warm-up, and there has been no communication from Tech3 about him sitting out the race. If the grid size ends up at 16, it means Jorge Martin would need to beat just one rider to take the championship fight to Portugal - even if Marc Marquez were to win the grand prix."
+    ],
+    "bullet_points": [
+      "Honda MotoGP rider Luca Marini has withdrawn from the main Qatar Grand Prix race, reducing the field to 16 participants.",
+      "Twenty-two full-time riders are entered in the series - but Yamaha is absent in full from the Qatar weekend due to the geopolitical situation, and Pecco Bagnaia was ruled out of the weekend after fracturing his foot in the sprint.",
+      "Official reporting verified via The Race news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Marini out as Qatar grid is reduced to 16 riders",
+        "badge": "Breaking",
+        "text": "Honda MotoGP rider Luca Marini has withdrawn from the main Qatar Grand Prix race, reducing the field to 16 participants.",
+        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361834_HiRes.jpg",
+        "alt": "Marini out as Qatar grid is reduced to 16 riders cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Twenty-two full-time riders are entered in the series - but Yamaha is absent in full from the Qatar weekend due to the geopolitical situation, and Pecco Bagnaia was ruled out of the weekend after fracturing his foot in the sprint.",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Honda MotoGP rider Luca Marini has withdrawn from the main Qatar Grand Prix race, reducing the field to 16 participants.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Motorsport & F1 Tech",
+        "text": "Twenty-two full-time riders are entered in the series - but Yamaha is absent in full from the Qatar weekend due to the geopolitical situation, and Pecco Bagnaia was ruled out of the weekend after fracturing his foot in the sprint.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from The Race.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 60
+  },
+  {
+    "id": "art_1794154199_13",
+    "slug": "this-is-the-only-road-in-the-us-that-closes-for-snakes",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Jalopnik",
+    "raw_title": "This Is The Only Road In The US That Closes For Snakes",
+    "title": "This Is The Only Road In The US That Closes For Snakes",
+    "raw_summary": "Street takeovers are a menace. Heck, the disruptive crime has jurisdictions like Compton installing new medians to prevent takeovers. This, however, isn't that kind of takeover. Twice a year, thousands of snakes take over a small road in Illinois. It's the sort of thing that would be enough to make Indiana Jones ditch his motorcycle, drop his whip, and head for the hills. Now, before you conjure mental images of \"Raiders of the Lost Ark\" and a writhing tangle of venomous vipers, this is all part of nature. Though there are still thousands of slithery critters on the so-called \"Snake Road,\" a few of which are venomous. It's enough to shut down the road that runs through part of the Shawnee National Forest in southern Illinois. Every year, the little road closes to vehicle traffic due to the influx of scaly travelers. Not once, but twice every trip around the sun. In fact, it's the only known road in the United States to shut down in observance of a reptile migration. The shutdown isn't meant to protect the national forest's human visitors, either – it's to make sure the road-going snakes can complete their journey unharmed.",
+    "summary": "Street takeovers are a menace. Heck, the disruptive crime has jurisdictions like Compton installing new medians to prevent takeovers. This, however, isn't that kind of takeover. Twice a year, thousands of snakes take over a small road in Illinois. It's the sort of thing that would be enough to make Indiana Jones ditch his motorcycle, drop his whip, and head for the hills.",
+    "image_url": "https://www.jalopnik.com/img/gallery/this-is-the-only-road-in-the-us-that-closes-for-snakes/l-intro-1793305500.jpg",
+    "original_url": "https://www.jalopnik.com/2304476/illinois-shawnee-national-forest-road-closes-for-snakes/",
+    "published_at": "2026-11-08T13:05:00+00:00",
+    "time_ago": "3h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Street takeovers are a menace. Heck, the disruptive crime has jurisdictions like Compton installing new medians to prevent takeovers. This, however, isn't that kind of takeover. Twice a year, thousands of snakes take over a small road in Illinois. It's the sort of thing that would be enough to make Indiana Jones ditch his motorcycle, drop his whip, and head for the hills. Now, before you conjure mental images of \"Raiders of the Lost Ark\" and a writhing tangle of venomous vipers, this is all part of nature. Though there are still thousands of slithery critters on the so-called \"Snake Road,\" a few of which are venomous.",
+      "It's enough to shut down the road that runs through part of the Shawnee National Forest in southern Illinois. Every year, the little road closes to vehicle traffic due to the influx of scaly travelers. Not once, but twice every trip around the sun. In fact, it's the only known road in the United States to shut down in observance of a reptile migration. The shutdown isn't meant to protect the national forest's human visitors, either – it's to make sure the road-going snakes can complete their journey unharmed.",
+      "Shawnee National Forest is a biodiverse landscape spanning 289,000 acres between the Mississippi River and the Ohio River. It's home to around 35 migratory species of snakes and 23 species of migrating amphibians. Twice a year, those critters make the trek between the national forest's limestone bluffs and the LaRue Swamp. In the spring, the reptiles and amphibians travel from the bluffs to the swamp. In the fall, the ectothermic excursionists do the trip in reverse order, returning to the bluffs from the LaRue Swamp. Be it a slither, crawl, or hop, these reptiles and amphibians are on a mission.",
+      "The adventure takes the animals right across Forest Service Road 345, also known as LaRue Road. \"We call it Snake Road,\" Forest Service Enforcement Officer Anderson Harris told CBS Evening News . It's a fitting name, too. The Forest Service closes the road because of snake, reptile, and amphibian migrations from March 15 to May 15 and September 1 to October 30 every year. \"That protects animals from being incidentally killed by vehicles running over them,\" Officer Harris added. \"It's the only road in the U.S., to my knowledge, that we close for migrations of the amphibians and reptiles.\"",
+      "At first, locals weren't so pleased with the idea of closing the road for four months of the year. Some of the more cruel motorists made a game of killing as many snakes as they could on the road. Eventually, they came around to the idea of closing the road. Best to leave the reptilian travelers in peace, even if you're curious.",
+      "Before you ask, yes, you can go check out the cold-blooded crossers for yourself. While the road is closed to cars, it's open to visitors on foot. That said, you might want to pay close attention to where you step. Of the snakes that migrate through Shawnee National Forest's Snake Road, at least three are venomous. For starters, there's the timber rattlesnake, a pit viper with a maraca for a tail. There's also the cottonmouth, also known as the water moccasin. Finally, the eastern copperhead, which can average up to three feet in length.",
+      "Again, you might want to steer clear of Snake Road if you have a bad case of ophidiophobia. If herpetoculture is your hobby of choice, it might be worth checking out. That said, collecting the snakes as they cross the road is against the law. Of course, if you're looking for something viper-esque, a clean Ram SRT-10 might be a charming enough snake. Frankly, you'd probably rather a series of snakes choose to shut down a little service road in Illinois than find a giant snake nestled in your engine bay. That is, unless Steve Irwin is your kindred spirit or something. If you're more like Indiana Jones, you'd be more likely to curse, \"Why did it have to be snakes?\""
+    ],
+    "bullet_points": [
+      "Street takeovers are a menace.",
+      "Heck, the disruptive crime has jurisdictions like Compton installing new medians to prevent takeovers.",
+      "This, however, isn't that kind of takeover."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "This Is The Only Road In The US That Closes For Snakes",
+        "badge": "Breaking",
+        "text": "Street takeovers are a menace.",
+        "image": "https://www.jalopnik.com/img/gallery/this-is-the-only-road-in-the-us-that-closes-for-snakes/l-intro-1793305500.jpg",
+        "alt": "This Is The Only Road In The US That Closes For Snakes cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Heck, the disruptive crime has jurisdictions like Compton installing new medians to prevent takeovers.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "This, however, isn't that kind of takeover.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "Twice a year, thousands of snakes take over a small road in Illinois.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 63
+  },
+  {
+    "id": "art_1794154199_7",
+    "slug": "can-leaving-a-car-battery-on-concrete-actually-damage-it",
+    "category": "business",
+    "category_name": "Auto Industry & Deals",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "📈",
+    "source": "Carscoops",
+    "raw_title": "Can Leaving A Car Battery On Concrete Actually Damage It?",
+    "title": "Can Leaving A Car Battery On Concrete Actually Damage It?",
+    "raw_summary": "If you're into cars, and particularly driving and wrenching on older cars , you'll have doubtless come across old wives' tales about driving and running them. Examples include older vehicles being safer, even though they lack modern safety equipment like airbags, because they're made of thicker steel. Or that filling up with high octane fuel will boost the horsepower of even the most ordinary engine. Both are generally untrue, but what about the one that says leaving a car battery on concrete can damage it? Like those other two examples, the battery myth is just that. You won't hurt a battery by leaving it on a concrete floor. But also like the safety and octane stories, there's a grain of truth to it. Modern cars are designed to crumple to absorb impacts, and that can make them look less safe after a relatively small accident. And some performance cars, or tuned cars, do deliver more output with higher octane fuel. Which is why, by the same token, even today, you might hear the concrete floor battery warnings repeated by folks who have more experience in looking after cars than you do.",
+    "summary": "If you're into cars, and particularly driving and wrenching on older cars , you'll have doubtless come across old wives' tales about driving and running them. Examples include older vehicles being safer, even though they lack modern safety equipment like airbags, because they're made of thicker steel.",
+    "image_url": "https://www.carscoops.com/img/gallery/can-leaving-a-car-battery-on-concrete-actually-damage-it/l-intro-1793706845.jpg",
+    "original_url": "https://www.carscoops.com/2305044/storing-car-battery-concrete-floor/",
+    "published_at": "2026-11-08T13:00:00+00:00",
+    "time_ago": "3h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "If you're into cars, and particularly driving and wrenching on older cars , you'll have doubtless come across old wives' tales about driving and running them. Examples include older vehicles being safer, even though they lack modern safety equipment like airbags, because they're made of thicker steel. Or that filling up with high octane fuel will boost the horsepower of even the most ordinary engine. Both are generally untrue, but what about the one that says leaving a car battery on concrete can damage it?",
+      "Like those other two examples, the battery myth is just that. You won't hurt a battery by leaving it on a concrete floor. But also like the safety and octane stories, there's a grain of truth to it. Modern cars are designed to crumple to absorb impacts, and that can make them look less safe after a relatively small accident. And some performance cars, or tuned cars, do deliver more output with higher octane fuel. Which is why, by the same token, even today, you might hear the concrete floor battery warnings repeated by folks who have more experience in looking after cars than you do.",
+      "Cars have changed a lot in the last 70 years , but their 12-volt batteries — with the exception of lightweight packs like the lithium-ion unit in the Porsche 911 GT3 — look mostly the same. They're still heavy, 12-volt lead-acid batteries, they're still encased with tough, injection-molded plastic, and can still be charged without unhooking the terminals.",
+      "But before then, batteries looked quite different, and this is partly responsible for the concrete floor myth. Early car batteries, which put out just 6 volts, were usually encased in wooden boxes, often containing a glass jar full of acid. In the 1920s, battery makers switched to hard rubber cases, which resisted corrosion from the acid inside, and were more durable than glass. But over time they could crack and split due to heat and vibration, and if these batteries were placed on the ground, yes, they could discharge.",
+      "That's not a problem with modern plastic cases, which are far more durable, though it's worth remembering that any battery will naturally discharge over time, no matter what the outer case is made from. And that's possibly another source of the concrete myth. How quickly it loses its charge can depend heavily on the temperature of the area its stored. A battery stored in a cold environment will hang on to its charge longer than one stored in a hot space.",
+      "Now you know that storing a battery on your concrete garage floor won't do it any harm, despite what your grandpa told you. But the reverse is definitely not true. Spilling the contents of a car battery on concrete can do the floor real damage. Some modern batteries use Absorbent Glass Mat (AGM) technology, making them effectively spill proof. But many still consist of traditional flooded wet cells that can spill when tipped. The electrolyte solution inside includes a large amount of sulfuric acid.",
+      "Concrete, on the other hand, contains alkaline calcium compounds, and when the two meet, they react, eating away at the surface of the concrete floor. If left, the acid can cause pitting, staining, small craters and a chalky, dusty surface. And once the top coating is eaten away, the floor is more susceptible to absorbing future spills and moisture. Flooring experts recommend spills be cleaned up right away, but not just with water, because that can spread the acid. Instead, create an alkaline paste using water and baking soda, leave it to fizz on the floor surface, then scrub gently, and rinse with water. And don't forget your PPE."
+    ],
+    "bullet_points": [
+      "If you're into cars, and particularly driving and wrenching on older cars , you'll have doubtless come across old wives' tales about driving and running them.",
+      "Examples include older vehicles being safer, even though they lack modern safety equipment like airbags, because they're made of thicker steel.",
+      "Official reporting verified via Carscoops news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Can Leaving A Car Battery On Concrete Actually Damage It?",
+        "badge": "Breaking",
+        "text": "If you're into cars, and particularly driving and wrenching on older cars , you'll have doubtless come across old wives' tales about driving and running them.",
+        "image": "https://www.carscoops.com/img/gallery/can-leaving-a-car-battery-on-concrete-actually-damage-it/l-intro-1793706845.jpg",
+        "alt": "Can Leaving A Car Battery On Concrete Actually Damage It? cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Examples include older vehicles being safer, even though they lack modern safety equipment like airbags, because they're made of thicker steel.",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "If you're into cars, and particularly driving and wrenching on older cars , you'll have doubtless come across old wives' tales about driving and running them.",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Auto Industry & Deals",
+        "text": "Examples include older vehicles being safer, even though they lack modern safety equipment like airbags, because they're made of thicker steel.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Carscoops.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 47
+  },
+  {
     "id": "art_1794142103_1",
     "slug": "electric-car-sales-oct-2026-tata-mahindra-mg-vinfast-kia-maruti-h",
     "category": "india",
@@ -455,6 +1219,75 @@
     "word_count": 48
   },
   {
+    "id": "art_1794154199_1",
+    "slug": "india-bound-toyota-land-cruiser-fj-likely-to-get-a-diesel-engine",
+    "category": "india",
+    "category_name": "India Drives & SUVs",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Gaadiwaadi.com",
+    "raw_title": "India-bound Toyota Land Cruiser FJ Likely To Get A Diesel Engine",
+    "title": "India-bound Toyota Land Cruiser FJ Likely To Get A Diesel Engine",
+    "raw_summary": "GaadiWaadi - Lack of a diesel engine is one of the main gripes about Toyota’s new global C-segment rugged SUV The India-bound Toyota Land Cruiser FJ ticks nearly all the main boxes for a rugged SUV, but performance is one of its main downsides. More than the sheer lack of power, purists particularly miss the availability of a diesel engine option. A company official has hinted that a fix may be in the works. For the uninitiated, the Toyota Land Cruiser FJ is a body-on-frame C-segment SUV that slots below the Toyota Fortuner. Most customers prefer diesel engines in such vehicles for their strong pulling power at low engine speeds and higher fuel economy. In a recent interview with Cars.co.za, Andrew Kirby, the President and CEO of Toyota’s South African subsidiary, said that “there’s a good likelihood” for the introduction of a diesel engine for the Land Cruiser FJ. However, Kirby indicated that, at least in South Africa, the potential diesel engine is a few years away. He did admit that a diesel engine would “make a big difference to the performance” of the Land Cruiser FJ. Currently, Toyota offers the FJ Cruiser only with the 2TR-FE 2.7-litre naturally aspirated four-cylinder petrol engine globally, along with a 6-speed automatic transmission and a part-time 4WD system. Also Read: Toyota Innova Hycross & Hyryder Hybrids Set New Records For Elevation Gains On-road performance of the currently available configuration has been widely criticised in key markets, including South Africa and Australia. For reference, Toyota has tuned the 2TR-FE engine in the Land Cruiser FJ to deliver 122 kW (164 hp) at 5,200 rpm and 245 Nm of torque at 4,000 rpm. In India, rumour has it Toyota Kirloskar Motor (TKM) plans to offer the Land Cruiser FJ in petrol, petrol-electric hybrid, and petrol-electric plug-in hybrid variants. The petrol variant should have the 2TR-FE engine under the hood, and the electrified variants may use a modified version of the same. A diesel engine, if introduced globally, could be added at some point. Also Read: Toyota Innova Crysta Limo Launched In India At Rs. 19.95 Lakh As with every non-Maruti Suzuki-derived Toyota sold in our market, the Land Cruiser FJ could be way costlier than other models in its segment, with prices starting at around Rs. 30 lakh (ex-showroom) in the base configuration. TKM will manufacture the Land Cruiser FJ in Chhatrapati Sambhajinagar, Maharashtra. The company is likely to launch it sometime in 2028.",
+    "summary": "GaadiWaadi - Lack of a diesel engine is one of the main gripes about Toyota’s new global C-segment rugged SUV The India-bound Toyota Land Cruiser FJ ticks nearly all the main boxes for a rugged SUV, but performance is one of its main downsides. More than the sheer lack of power, purists particularly miss the availability of a diesel engine option.",
+    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/08/toyota-land-cruiser-FJ-7.jpg",
+    "original_url": "https://gaadiwaadi.com/india-bound-toyota-land-cruiser-fj-likely-to-get-a-diesel-engine/",
+    "published_at": "2026-11-08T10:00:17+00:00",
+    "time_ago": "6h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [],
+    "bullet_points": [
+      "GaadiWaadi - Lack of a diesel engine is one of the main gripes about Toyota’s new global C-segment rugged SUV The India-bound Toyota Land Cruiser FJ ticks nearly all the main boxes for a rugged SUV, but performance is one of its main downsides.",
+      "More than the sheer lack of power, purists particularly miss the availability of a diesel engine option.",
+      "Official reporting verified via Gaadiwaadi.com news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "India-bound Toyota Land Cruiser FJ Likely To Get A Diesel Engine",
+        "badge": "Breaking",
+        "text": "GaadiWaadi - Lack of a diesel engine is one of the main gripes about Toyota’s new global C-segment rugged SUV The India-bound Toyota Land Cruiser FJ ticks nearly all the main boxes for a rugged SUV, but performance is one of its main downsides.",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/toyota-land-cruiser-FJ-7.jpg",
+        "alt": "India-bound Toyota Land Cruiser FJ Likely To Get A Diesel Engine cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "More than the sheer lack of power, purists particularly miss the availability of a diesel engine option.",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "GaadiWaadi - Lack of a diesel engine is one of the main gripes about Toyota’s new global C-segment rugged SUV The India-bound Toyota Land Cruiser FJ ticks nearly all the main boxes for a rugged SUV, but performance is one of its main downsides.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "India Drives & SUVs",
+        "text": "More than the sheer lack of power, purists particularly miss the availability of a diesel engine option.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Gaadiwaadi.com.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 61
+  },
+  {
     "id": "art_1794142103_3",
     "slug": "everyone-wants-an-electric-pickup-truck-i-want-more-electric-125c",
     "category": "world",
@@ -678,6 +1511,75 @@
     ],
     "ai_generated": false,
     "word_count": 59
+  },
+  {
+    "id": "art_1794154199_2",
+    "slug": "new-volkswagen-virtus-launching-soon-top-5-changes-to-expect",
+    "category": "india",
+    "category_name": "India Drives & SUVs",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Gaadiwaadi.com",
+    "raw_title": "New Volkswagen Virtus Launching Soon : Top 5 changes To Expect",
+    "title": "New Volkswagen Virtus Launching Soon : Top 5 changes To Expect",
+    "raw_summary": "GaadiWaadi - German automaker’s only available sedan model in India to get a facelift four and a half years after its launch Launched in India in June 2022, the VW Virtus is finally set to receive its mid-life facelift. Volkswagen has revealed the exterior of the facelifted Virtus and will likely reveal the interior and technical details later this month, with a price announcement following soon. Here are the top five changes you can expect on the new VW Virtus: 1. New automatic transmission The new VW Virtus will likely be offered with the same two 1.0-litre TSI and 1.5-litre TSI Evo turbocharged petrol engine options as the outgoing model. While Volkswagen gives a choice of 6-speed manual and 6-speed automatic transmissions with the 1.0-litre TSI engine in the outgoing model, in the new one, it will likely offer a 8-speed automatic unit instead of the latter. Also Read: Skoda And Volkswagen Offering Benefits Of Up To Rs. 5.5 Lakh The 8-speed automatic transmission is likely to be smoother and increase the fuel economy from 18.70 km/l to around 19.50 km/l. The automatic transmission option available with the 1.5-litre TSI Evo engine in the new model is likely to be the same 7-speed DSD dual-clutch unit offered in the outgoing model. 2. Enhanced safety One of the few main drawbacks of the VW Virtus currently is a poor-quality rear-view camera. Volkswagen is likely to not just fix that with the facelift but also improve safety with the introduction of a 360° camera system that provides a bird’s-eye view of the car’s surroundings. Moreover, the company appears to have replaced the halogen front fog lamps with LED ones and introduced front parking sensors to further elevate safety. 3. Upgraded AC Another widely criticised aspect of the VW Virtus currently is poor AC cooling, especially in the configurations with the 1.0-litre TSI engine. Volkswagen is likely to address this issue with the facelift by introducing a variable-geometry compressor. Also Read: 5+ All-New Compact SUVs Arriving Soon In India; Maruti To Volkswagen 4. Sequential turn indicators While the tail lamps of the new VW Virtus look largely unchanged, they are likely to include new, sequential turn indicators that sweep outwards. This should give the car’s exterior a more premium look. 5. Virtual instrument cluster The facelifted VW Virtus will be available with a fully digital instrument cluster measuring 10.25 inches diagonally. The new display will likely feature multiple layouts and show navigation directions.",
+    "summary": "GaadiWaadi - German automaker’s only available sedan model in India to get a facelift four and a half years after its launch Launched in India in June 2022, the VW Virtus is finally set to receive its mid-life facelift. Volkswagen has revealed the exterior of the facelifted Virtus and will likely reveal the interior and technical details later this month, with a price announcement following soon.",
+    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/11/New-VW-Virtus-1.jpg",
+    "original_url": "https://gaadiwaadi.com/new-volkswagen-virtus-launching-soon-top-5-changes-to-expect/",
+    "published_at": "2026-11-08T07:00:34+00:00",
+    "time_ago": "9h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [],
+    "bullet_points": [
+      "GaadiWaadi - German automaker’s only available sedan model in India to get a facelift four and a half years after its launch Launched in India in June 2022, the VW Virtus is finally set to receive its mid-life facelift.",
+      "Volkswagen has revealed the exterior of the facelifted Virtus and will likely reveal the interior and technical details later this month, with a price announcement following soon.",
+      "Official reporting verified via Gaadiwaadi.com news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "New Volkswagen Virtus Launching Soon : Top 5 changes To Expect",
+        "badge": "Breaking",
+        "text": "GaadiWaadi - German automaker’s only available sedan model in India to get a facelift four and a half years after its launch Launched in India in June 2022, the VW Virtus is finally set to receive its mid-life facelift.",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/11/New-VW-Virtus-1.jpg",
+        "alt": "New Volkswagen Virtus Launching Soon : Top 5 changes To Expect cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Volkswagen has revealed the exterior of the facelifted Virtus and will likely reveal the interior and technical details later this month, with a price announcement following soon.",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "GaadiWaadi - German automaker’s only available sedan model in India to get a facelift four and a half years after its launch Launched in India in June 2022, the VW Virtus is finally set to receive its mid-life facelift.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "India Drives & SUVs",
+        "text": "Volkswagen has revealed the exterior of the facelifted Virtus and will likely reveal the interior and technical details later this month, with a price announcement following soon.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Gaadiwaadi.com.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 66
   },
   {
     "id": "art_1794129339_1",
@@ -3076,6 +3978,84 @@
     ],
     "ai_generated": false,
     "word_count": 54
+  },
+  {
+    "id": "art_1794154199_11",
+    "slug": "marquez-wins-qatar-sprint-after-contentious-bezzecchi-clash",
+    "category": "sports",
+    "category_name": "Motorsport & F1 Tech",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🏁",
+    "source": "The Race",
+    "raw_title": "Marquez wins Qatar sprint after contentious Bezzecchi clash",
+    "title": "Marquez wins Qatar sprint after contentious Bezzecchi clash",
+    "raw_summary": "Reigning MotoGP champion Marc Marquez took another step towards the 2026 title after winning the Qatar Grand Prix sprint - following a controversial collision with Marco Bezzecchi. Marquez and Bezzecchi came together on the fourth lap of the race after a red-flag restart, as Marquez - running ahead of the Aprilia rider - left room on the corner apex by taking a wider line than Bezzecchi.",
+    "summary": "Reigning MotoGP champion Marc Marquez took another step towards the 2026 title after winning the Qatar Grand Prix sprint - following a controversial collision with Marco Bezzecchi. Marquez and Bezzecchi came together on the fourth lap of the race after a red-flag restart, as Marquez - running ahead of the Aprilia rider - left room on the corner apex by taking a wider line than Bezzecchi.",
+    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361334_HiRes.jpg",
+    "original_url": "https://www.the-race.com/motogp/marc-marquez-wins-qatar-sprint-after-contentious-bezzecchi-clash/",
+    "published_at": "2026-11-07T16:51:59+00:00",
+    "time_ago": "23h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Reigning MotoGP champion Marc Marquez took another step towards the 2026 title after winning the Qatar Grand Prix sprint - following a controversial collision with Marco Bezzecchi.",
+      "Marquez and Bezzecchi came together on the fourth lap of the race after a red-flag restart, as Marquez - running ahead of the Aprilia rider - left room on the corner apex by taking a wider line than Bezzecchi.",
+      "Bezzecchi tried to sneak past on the apex, but as Marquez returned to the racing line the pair collided - and Bezzecchi's Aprilia slid out from under him.",
+      "The incident was investigated by the stewards, but they quickly took no further action, to the seeming discontent of Aprilia racing boss Massimo Rivola as he learned of the verdict on the broadcast.",
+      "CONTACT BETWEEN @marcmarquez93 &amp; Bezzecchi 😱😱😱 The #72 has gone down and @88jorgemartin is now 2nd 🤯 #QatarGP 🇶🇦 https://t.co/4RqDRdj59w",
+      "In the original race start, Bezzecchi had headed Marquez from pole, but the race was neutralised for a major crash involving Fermin Aldeguer and Pecco Bagnaia.",
+      "Bagnaia had briefly featured in second place but was shuffled down to fifth, before being struck from behind by Aldeguer - who was in the process of lunging at Pedro Acosta for sixth.",
+      "Bagnaia was taken to the medical centre and did not take part in the restart."
+    ],
+    "bullet_points": [
+      "Reigning MotoGP champion Marc Marquez took another step towards the 2026 title after winning the Qatar Grand Prix sprint - following a controversial collision with Marco Bezzecchi.",
+      "Marquez and Bezzecchi came together on the fourth lap of the race after a red-flag restart, as Marquez - running ahead of the Aprilia rider - left room on the corner apex by taking a wider line than Bezzecchi.",
+      "Official reporting verified via The Race news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Marquez wins Qatar sprint after contentious Bezzecchi clash",
+        "badge": "Breaking",
+        "text": "Reigning MotoGP champion Marc Marquez took another step towards the 2026 title after winning the Qatar Grand Prix sprint - following a controversial collision with Marco Bezzecchi.",
+        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361334_HiRes.jpg",
+        "alt": "Marquez wins Qatar sprint after contentious Bezzecchi clash cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Marquez and Bezzecchi came together on the fourth lap of the race after a red-flag restart, as Marquez - running ahead of the Aprilia rider - left room on the corner apex by taking a wider line than Bezzecchi.",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Reigning MotoGP champion Marc Marquez took another step towards the 2026 title after winning the Qatar Grand Prix sprint - following a controversial collision with Marco Bezzecchi.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Motorsport & F1 Tech",
+        "text": "Marquez and Bezzecchi came together on the fourth lap of the race after a red-flag restart, as Marquez - running ahead of the Aprilia rider - left room on the corner apex by taking a wider line than Bezzecchi.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from The Race.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 66
   },
   {
     "id": "art_1794075629_11",
@@ -10508,1006 +11488,5 @@
     ],
     "ai_generated": false,
     "word_count": 32
-  },
-  {
-    "id": "art_1794041907_15",
-    "slug": "view-interior-photos-of-the-2027-mercedes-benz-gls450-4matic",
-    "category": "entertainment",
-    "category_name": "Car Culture & Restomods",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-    "category_icon": "🎬",
-    "source": "Car and Driver",
-    "raw_title": "View Interior Photos of the 2027 Mercedes-Benz GLS450 4Matic",
-    "title": "First Look Inside: The 2027 Mercedes-Benz GLS450 4Matic Cabin",
-    "raw_summary": "The latest GLS-class refresh brings this SUV up to date with the rest of Merc’s latest. The GLS’s cabin updates focus largely on the tech. Traditional design staples like those double grab handles on the transmission tunnel continue with minimal changes.",
-    "summary": "The latest GLS-class refresh brings this SUV up to date with the rest of Merc’s latest. The GLS’s cabin updates focus largely on the tech. Traditional design staples like those double grab handles on the transmission tunnel continue with minimal changes.",
-    "image_url": "https://hips.hearstapps.com/hmg-prod/images/5387193c-d6a2-4588-b5a2-df05ac9f6f67.jpg",
-    "original_url": "https://www.caranddriver.com/photos/a74322833/2027-mercedes-benz-gls450-4matic-test-interior-gallery/",
-    "published_at": "2026-11-06T14:09:03+00:00",
-    "time_ago": "18h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "The latest GLS-class refresh brings this SUV up to date with the rest of Merc’s latest.",
-      "The GLS’s cabin updates focus largely on the tech. Traditional design staples like those double grab handles on the transmission tunnel continue with minimal changes.",
-      "The little pillows on the headrests are nice, though sleeping while driving remains ill-advised.",
-      "Superscreen is the name for the wide swath of digital real estate that lives where the dashboard used to.",
-      "The driver gets their own display, with a design that hasn’t changed much in recent years.",
-      "The central infotainment touchscreen and passenger screen live under the same piece of glass.",
-      "Keep going to check out more pictures from inside the 2027 Mercedes-Benz GLS450."
-    ],
-    "bullet_points": [
-      "The latest GLS-class refresh brings this SUV up to date with the rest of Merc’s latest.",
-      "The GLS’s cabin updates focus largely on the tech.",
-      "Traditional design staples like those double grab handles on the transmission tunnel continue with minimal changes."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "First Look Inside: The 2027 Mercedes-Benz GLS450 4Matic Cabin",
-        "badge": "Breaking",
-        "text": "The latest GLS-class refresh brings this SUV up to date with the rest of Merc’s latest.",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/5387193c-d6a2-4588-b5a2-df05ac9f6f67.jpg",
-        "alt": "First Look Inside: The 2027 Mercedes-Benz GLS450 4Matic Cabin cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The GLS’s cabin updates focus largely on the tech.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Traditional design staples like those double grab handles on the transmission tunnel continue with minimal changes.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Car Culture & Restomods",
-        "text": "The GLS’s cabin updates focus largely on the tech.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Car and Driver.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 41
-  },
-  {
-    "id": "art_1793983958_4",
-    "slug": "tesla-hikes-cybertruck-prices-up-to-10-after-announcing-it-will-k",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
-    "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
-    "raw_summary": "Tesla has raised Cybertruck prices in the US by up to 10% and stopped taking orders for the base Dual Motor AWD trim. The cheapest Cybertruck you can actually order now costs $92,490. The move comes right after Tesla confirmed it will end Cybertruck production at Gigafactory Texas around mid-2027.",
-    "summary": "Tesla has raised Cybertruck prices in the US by up to 10% and stopped taking orders for the base Dual Motor AWD trim. The cheapest Cybertruck you can actually order now costs $92,490. The move comes right after Tesla confirmed it will end Cybertruck production at Gigafactory Texas around mid-2027.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&strip=all&w=1600",
-    "original_url": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/",
-    "published_at": "2026-11-06T14:03:57+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Tesla has raised Cybertruck prices in the US by up to 10% and stopped taking orders for the base Dual Motor AWD trim. The cheapest Cybertruck you can actually order now costs $92,490.",
-      "The move comes right after Tesla confirmed it will end Cybertruck production at Gigafactory Texas around mid-2027.",
-      "Here’s what Tesla’s online configurator shows today, compared to the prices set in August:",
-      "The Dual Motor trim still shows a new, higher price on Tesla’s website, but the option is greyed out. So Tesla raised the price of a version it isn’t selling anymore.",
-      "This is the second price hike in less than three months. Tesla raised prices by $5,000 on two trims in August , when the Dual Motor went from $69,990 to $74,990 and the Premium AWD from $79,990 to $84,990.",
-      "Add it up and the Premium AWD is now $12,500 (15.6%) more expensive than it was in early August. And the entry price for any Cybertruck you can order went from $69,990 to $92,490. That’s a 32% jump in about 10 weeks.",
-      "For reference, Tesla unveiled the Cybertruck in 2019 with a promised starting price of $39,900.",
-      "The price hikes make little sense from a demand standpoint. Tesla doesn’t break out Cybertruck deliveries, but its “Other Models” category, which also includes the Model S, Model X, and Semi, fell 48% year-over-year to 8,295 units in Q3. We estimate Cybertrucks made up 7,000 to 8,000 of those, about 12% of the line’s 250,000-unit annual capacity."
-    ],
-    "bullet_points": [
-      "Tesla has raised Cybertruck prices in the US by up to 10% and stopped taking orders for the base Dual Motor AWD trim.",
-      "The cheapest Cybertruck you can actually order now costs $92,490.",
-      "The move comes right after Tesla confirmed it will end Cybertruck production at Gigafactory Texas around mid-2027."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
-        "badge": "Breaking",
-        "text": "Tesla has raised Cybertruck prices in the US by up to 10% and stopped taking orders for the base Dual Motor AWD trim.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&strip=all&w=1600",
-        "alt": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The cheapest Cybertruck you can actually order now costs $92,490.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The move comes right after Tesla confirmed it will end Cybertruck production at Gigafactory Texas around mid-2027.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "The cheapest Cybertruck you can actually order now costs $92,490.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 50
-  },
-  {
-    "id": "art_1794054650_5",
-    "slug": "rip-tesla-cybertruck-production-ends-next-year",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Car and Driver",
-    "raw_title": "RIP: Tesla Cybertruck Production Ends Next Year",
-    "title": "RIP: Tesla Cybertruck Production Ends Next Year",
-    "raw_summary": "The Tesla Cybertruck will soon meet its maker, per a post by Tesla CEO Elon Musk on his personal X account. Though it was first shown as a prototype in 2019 , the Cybertruck ultimately materialized in production form for the 2024 model year. According to Musk’s post, Tesla will wind down “production of the Cybertruck at Gigafactory Texas around the middle of next year,” indicating that the 2027 model year will be its last. Admittedly, it’s possible that the company moves the Cybertruck’s production elsewhere. This seems unlikely, though, given the middling sales figures of the model, which continue to fall far short of the annual 250,000-unit production figure predicted early on by Musk.",
-    "summary": "The Tesla Cybertruck will soon meet its maker, per a post by Tesla CEO Elon Musk on his personal X account. Though it was first shown as a prototype in 2019 , the Cybertruck ultimately materialized in production form for the 2024 model year. According to Musk’s post, Tesla will wind down “production of the Cybertruck at Gigafactory Texas around the middle of next year,” indicating that the 2027 model year will be its last.",
-    "image_url": "https://hips.hearstapps.com/hmg-prod/images/2024-tesla-cybertruck-103-65e8945960dda.jpg",
-    "original_url": "https://www.caranddriver.com/news/a74357737/tesla-cybertruck-dead/",
-    "published_at": "2026-11-06T14:03:31+00:00",
-    "time_ago": "22h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "The Tesla Cybertruck will soon meet its maker, per a post by Tesla CEO Elon Musk on his personal X account. Though it was first shown as a prototype in 2019 , the Cybertruck ultimately materialized in production form for the 2024 model year.",
-      "According to Musk’s post, Tesla will wind down “production of the Cybertruck at Gigafactory Texas around the middle of next year,” indicating that the 2027 model year will be its last. Admittedly, it’s possible that the company moves the Cybertruck’s production elsewhere. This seems unlikely, though, given the middling sales figures of the model, which continue to fall far short of the annual 250,000-unit production figure predicted early on by Musk.",
-      "Tesla sold 38,965 Cybertrucks in 2024, though that number fell to just 20,237 in 2025. Cybertruck sales continue to trend downward for Tesla, which sold just 11,586 units through the first three quarters of 2026.",
-      "Of course, the battery-powered pickup ’s high price didn’t help its cause. Currently, Tesla is limiting Cybertruck orders to the roughly $90,000 Premium All-Wheel Drive and the six-figure Cyberbeast trims. The more than $80,000 Dual-Motor All-Wheel Drive variant remains listed on the Tesla site, indicating the automaker may open orders for that trim again before production ends.",
-      "Despite their shared last name, Greg Fink is not related to Ed \"Big Daddy\" Roth's infamous Rat Fink. Both Finks, however, are known for their love of cars, car culture, and—strangely—monogrammed one-piece bathing suits. Greg's career in the media industry goes back more than a decade. His previous experience includes stints as an editor at publications such as U.S. News & World Report , The Huffington Post, Motor1.com , and MotorTrend ."
-    ],
-    "bullet_points": [
-      "The Tesla Cybertruck will soon meet its maker, per a post by Tesla CEO Elon Musk on his personal X account.",
-      "Though it was first shown as a prototype in 2019 , the Cybertruck ultimately materialized in production form for the 2024 model year.",
-      "According to Musk’s post, Tesla will wind down “production of the Cybertruck at Gigafactory Texas around the middle of next year,” indicating that the 2027 model year will be its last."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "RIP: Tesla Cybertruck Production Ends Next Year",
-        "badge": "Breaking",
-        "text": "The Tesla Cybertruck will soon meet its maker, per a post by Tesla CEO Elon Musk on his personal X account.",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/2024-tesla-cybertruck-103-65e8945960dda.jpg",
-        "alt": "RIP: Tesla Cybertruck Production Ends Next Year cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Though it was first shown as a prototype in 2019 , the Cybertruck ultimately materialized in production form for the 2024 model year.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "According to Musk’s post, Tesla will wind down “production of the Cybertruck at Gigafactory Texas around the middle of next year,” indicating that the 2027 model year will be its last.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "Though it was first shown as a prototype in 2019 , the Cybertruck ultimately materialized in production form for the 2024 model year.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Car and Driver.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 75
-  },
-  {
-    "id": "art_1794054650_6",
-    "slug": "gm-could-make-variable-compression-engines-easier-to-service",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Car and Driver",
-    "raw_title": "GM Could Make Variable-Compression Engines Easier to Service",
-    "title": "GM Could Make Variable-Compression Engines Easier to Service",
-    "raw_summary": "GM engineers spend a lot of time thinking about engines, and the company’s patent-to-production pipeline is hard evidence. Cylinder deactivation and sliding camshafts? GM has brought its own versions of both to production. Making truck V-8s bigger and more powerful without completely sacrificing efficiency? Coming right up . Their next target may be applying existing fuel-saving tech to a wider array of engines. A few engineers in particular have been tinkering with ways to adopt a variable-compression ratio, and specifically how the necessary hardware can be packaged with a longitudinal engine. Related patents go back about a decade. (Nissan already sells a variable-compression engine of its own, the somewhat disappointing VC-Turbo , but that one is designed for transverse front- and all-wheel-drive applications.)",
-    "summary": "GM engineers spend a lot of time thinking about engines, and the company’s patent-to-production pipeline is hard evidence. Cylinder deactivation and sliding camshafts? GM has brought its own versions of both to production. Making truck V-8s bigger and more powerful without completely sacrificing efficiency? Their next target may be applying existing fuel-saving tech to a wider array of engines.",
-    "image_url": "https://hips.hearstapps.com/hmg-prod/images/2739bd07-83ee-4a28-b49f-847f62d4873d.png",
-    "original_url": "https://www.caranddriver.com/news/a74287239/gm-longitudinal-variable-compression-engine-patent/",
-    "published_at": "2026-11-06T14:00:00+00:00",
-    "time_ago": "22h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "GM engineers spend a lot of time thinking about engines, and the company’s patent-to-production pipeline is hard evidence. Cylinder deactivation and sliding camshafts? GM has brought its own versions of both to production. Making truck V-8s bigger and more powerful without completely sacrificing efficiency? Coming right up . Their next target may be applying existing fuel-saving tech to a wider array of engines.",
-      "A few engineers in particular have been tinkering with ways to adopt a variable-compression ratio, and specifically how the necessary hardware can be packaged with a longitudinal engine. Related patents go back about a decade. (Nissan already sells a variable-compression engine of its own, the somewhat disappointing VC-Turbo , but that one is designed for transverse front- and all-wheel-drive applications.)",
-      "In a previous patent filing, GM outlined how it would locate the control shaft, necessary for varying compression in its design, up above the crankshaft. The compression variability—approximately 7:1 to 11:1—comes by way of a special connecting-rod linkage. The connecting rod attaches to one end of a center link that’s mounted on the crankshaft, and the other end of the center link connects through a control rod to the control shaft. The design also includes a phaser that adjusts the control shaft’s rotational timing relative to the crankshaft, thus controlling the piston’s movement and varying the compression.",
-      "And one bonus compared with Nissan's system, which uses valve timing to achieve the Atkinson-cycle effect, GM’s arrangement would allow for the expansion stroke to be longer than the compression stroke—up to 40 percent longer—which has potential efficiency benefits. Note that Honda has commercialized a similar extended-expansion engine concept, which it calls EXlink, that’s used in household cogeneration units that supply both electricity and hot water.",
-      "Now comes an innovation that could push a variable-compression longitudinal engine closer to reality. A recently published U.S. patent application shows how GM could make this happen. In a nutshell, it would replace the center link with a two-piece assembly assembled around the crankshaft. One part would connect to the piston rod, and the other to the control rod.",
-      "The description also says the bolts used to make up the connection would be accessible from below the engine, likely with the oil pan removed. GM also explains that placing the control shaft above the crankshaft makes room for the engine’s mounts or the vehicle’s steering or four-wheel-drive equipment that normally sit below a longitudinally oriented engine.",
-      "GM says this design would allow conventional lubrication of the connecting rods. Together with the two-piece center link, that could mean the GM design is both easier to service and less prone to bearing-related problems.",
-      "The patent drawings show a gas inline-six, a gasoline engine layout GM doesn’t currently use, but that’s not evidence that such a configuration is in the offing. The same concept could be applied to something like the L3B 2.7-liter four-cylinder —the one with sliding cam sleeves—that’s used in Chevy and GMC half-ton trucks and could find its way into a new Camaro or Buick sedan."
-    ],
-    "bullet_points": [
-      "GM engineers spend a lot of time thinking about engines, and the company’s patent-to-production pipeline is hard evidence.",
-      "Cylinder deactivation and sliding camshafts?",
-      "GM has brought its own versions of both to production."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "GM Could Make Variable-Compression Engines Easier to Service",
-        "badge": "Breaking",
-        "text": "GM engineers spend a lot of time thinking about engines, and the company’s patent-to-production pipeline is hard evidence.",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/2739bd07-83ee-4a28-b49f-847f62d4873d.png",
-        "alt": "GM Could Make Variable-Compression Engines Easier to Service cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Cylinder deactivation and sliding camshafts?",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "GM has brought its own versions of both to production.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "Making truck V-8s bigger and more powerful without completely sacrificing efficiency?",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Car and Driver.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 59
-  },
-  {
-    "id": "art_1793995579_9",
-    "slug": "trump-is-gonna-cave-on-offshore-wind-in-543",
-    "category": "business",
-    "category_name": "Auto Industry & Deals",
-    "category_color": "#10b981",
-    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-    "category_icon": "📈",
-    "source": "CleanTechnica",
-    "raw_title": "Trump Is Gonna Cave On Offshore Wind In 5…4…3…",
-    "title": "Trump Is Gonna Cave On Offshore Wind In 5…4…3…",
-    "raw_summary": "…JK! US President Donald Trump will never cry surrender in the war against offshore wind turbines. The President was burned once before, when a wind farm arose in Aberdeen Bay in Scotland, within view of a Trump-branded golf course back in the early 2000’s. Never again! The President has taken extreme measures to prevent such blight from tainting the shores of the United States. Nevertheless, scores of the pesky oversized pinwheels have already eluded the Trump chopper, and many more are on the way. The latest news concerns CVOW, the 2.6-gigwatt Coastal Virginia Offshore Wind project under the wing of the leading utility Dominion. As the name of the project indicates, CVOW sits in the Atlantic Ocean about 24 nautical miles (28 land miles) off the coast of Virginia Beach, Virginia.",
-    "summary": "US President Donald Trump will never cry surrender in the war against offshore wind turbines. The President was burned once before, when a wind farm arose in Aberdeen Bay in Scotland, within view of a Trump-branded golf course back in the early 2000’s. The President has taken extreme measures to prevent such blight from tainting the shores of the United States.",
-    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/01/coastal-virginia-offshore-wind-project-.png",
-    "original_url": "https://cleantechnica.com/2026/11/06/offshore-wind-war-trump-fail-trumpfail-loser/",
-    "published_at": "2026-11-06T13:45:20+00:00",
-    "time_ago": "6h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "…JK! US President Donald Trump will never cry surrender in the war against offshore wind turbines. The President was burned once before, when a wind farm arose in Aberdeen Bay in Scotland, within view of a Trump-branded golf course back in the early 2000’s. Never again! The President has taken extreme measures to prevent such blight from tainting the shores of the United States. Nevertheless, scores of the pesky oversized pinwheels have already eluded the Trump chopper, and many more are on the way.",
-      "The latest news concerns CVOW, the 2.6-gigwatt Coastal Virginia Offshore Wind project under the wing of the leading utility Dominion. As the name of the project indicates, CVOW sits in the Atlantic Ocean about 24 nautical miles (28 land miles) off the coast of Virginia Beach, Virginia.",
-      "CVOW began taking shape during Trump’s first turn around the Oval Office, and construction was well under way when his second term began on January 20, 2025.",
-      "Immediately upon taking office, Trump abruptly suspended the offshore wind lease program administered by the Department of the Interior. He also ordered spurious re-reviews of offshore projects that were already in the permitting pipeline, and he had the Department of Justice administer a legally questionable buy-back program to prevent activity from stirring among other lease holders. In addition, he had the Interior Department issue multiple emergency orders aimed at stopping five offshore projects off the coasts of Rhode Island, Connecticut, New Jersey, New York, Maryland, and Massachusetts, where construction work was already well under way.",
-      "So far, though, only one part of the effort has stuck. Last year a federal judge affirmed that any President, Trump or not, has the authority to stop issuing new offshore leases. However, the same judge decided there is no blanket authority to suspend offshore leases that are already in the permitting process. The buy-back program is also in litigation, with critics raising questions about the funds used to pay off lease holders among other issues.",
-      "Additionally, the Interior Department failed to convince multiple federal judges that the emergency orders had any merit. Work has continued on all five Atlantic coast projects, including CVOW .",
-      "CVOW began delivering its first kilowatts to shore in March, and Dominion recapped its progress on the wind farm in its Q3 report on October 30. As handily summarized by the news organization Maritime Executive , the project currently clocks in at 85% complete. All of the main turbine components — nacelles, towers, and blades — for the wind farm’s 176 offshore wind turbines have been fabricated. Forty-four have been fully installed so far. With a 45th coming any day now, the wind farm currently hosts 640 megawatts out of the 2,600 megawatt total.",
-      "Since Trump declared an “Energy Emergency” in January of 2025, it’s fair to ask why he has spent so much time, energy and taxpayer dollars to crush an entire domestic energy industry. After all, if one was not reading too closely between the lines of the declaration, the new energy policy is little more than a rehash of former President Barack Obama’s “All Of The Above” energy policy. As further embellished by Energy Secretary Chris Wright, the new version specifically taps multiple zero and low-emission energy resources for support including nuclear energy, biomass, hydropower, and geothermal energy, just like Obama did, along the emerging field of marine energy, which was barely a speck on the horizon while Obama was in office."
-    ],
-    "bullet_points": [
-      "US President Donald Trump will never cry surrender in the war against offshore wind turbines.",
-      "The President was burned once before, when a wind farm arose in Aberdeen Bay in Scotland, within view of a Trump-branded golf course back in the early 2000’s.",
-      "The President has taken extreme measures to prevent such blight from tainting the shores of the United States."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Trump Is Gonna Cave On Offshore Wind In 5…4…3…",
-        "badge": "Breaking",
-        "text": "US President Donald Trump will never cry surrender in the war against offshore wind turbines.",
-        "image": "https://cleantechnica.com/wp-content/uploads/2026/01/coastal-virginia-offshore-wind-project-.png",
-        "alt": "Trump Is Gonna Cave On Offshore Wind In 5…4…3… cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The President was burned once before, when a wind farm arose in Aberdeen Bay in Scotland, within view of a Trump-branded golf course back in the early 2000’s.",
-        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The President has taken extreme measures to prevent such blight from tainting the shores of the United States.",
-        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Auto Industry & Deals",
-        "text": "The President was burned once before, when a wind farm arose in Aberdeen Bay in Scotland, within view of a Trump-branded golf course back in the early 2000’s.",
-        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from CleanTechnica.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 61
-  },
-  {
-    "id": "art_1793972781_3",
-    "slug": "lucid-teases-its-cheaper-sub-50000-cosmos-ev-in-new-video-and-ima",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "Lucid teases its cheaper sub-$50,000 Cosmos EV in new video and images",
-    "title": "Lucid teases its cheaper sub-$50,000 Cosmos EV in new video and images",
-    "raw_summary": "Lucid has released a new teaser video of what looks like the Cosmos, its upcoming sub-$50,000 midsize electric SUV and the car that’s supposed to turn Lucid into a volume automaker. The clip gives us the clearest look yet at the Cosmos’ lighting, front and rear, after months of camouflaged prototype sightings. But the car itself is still about a year away.",
-    "summary": "Lucid has released a new teaser video of what looks like the Cosmos, its upcoming sub-$50,000 midsize electric SUV and the car that’s supposed to turn Lucid into a volume automaker. The clip gives us the clearest look yet at the Cosmos’ lighting, front and rear, after months of camouflaged prototype sightings.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image.png?w=1600",
-    "original_url": "https://electrek.co/2026/11/06/lucid-cosmos-teaser-cheaper-ev-new-images/",
-    "published_at": "2026-11-06T13:42:07+00:00",
-    "time_ago": "4m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Lucid has released a new teaser video of what looks like the Cosmos, its upcoming sub-$50,000 midsize electric SUV and the car that’s supposed to turn Lucid into a volume automaker.",
-      "The clip gives us the clearest look yet at the Cosmos’ lighting, front and rear, after months of camouflaged prototype sightings. But the car itself is still about a year away.",
-      "Lucid posted the 1 minute 34 second video on X yesterday. The caption talks about “elevating the experience of movement” and says Lucid can’t wait “to share this feeling with even more people.” It doesn’t name the vehicle, but “even more people” is about as subtle a hint at a cheaper model as you can get.",
-      "Two frames from the film show the vehicle at dusk. At the rear, “LUCID” is spelled out in red illuminated letters across the tailgate, flanked by thin red light strips, with a spoiler cutting across the base of the rear glass. Up front, a sculpted LED headlight with a row of vertical segments sweeps across a red body panel.",
-      "That rear end matches the Cosmos design Lucid registered with the EU Intellectual Property Office in May, which showed the same spelled-out “LUCID” tailgate and rear-glass spoiler. It also lines up with the thin red light strips on the camouflaged Cosmos prototype spotted on Highway 101 in California last month.",
-      "Lucid unveiled its plans for Cosmos and Earth at its first Investor Day in March . Both ride on the new midsize platform and start under $50,000, roughly half the price of the Gravity.",
-      "On paper, the Cosmos is impressive. Lucid claims about 300 miles of range from a 69 kWh pack, thanks to efficiency of up to 4.5 mi/kWh, which it says is 10% better than its closest competitor. It also claims 200 miles of range in 14 minutes of charging, and its new Atlas drive unit has 30% fewer parts and costs 37% less than the Zeus unit in the Gravity.",
-      "The problem is timing. Production was supposed to start in late 2026. In August, CEO Silvio Napoli pushed the Cosmos to 2027 , “most likely the second half.”"
-    ],
-    "bullet_points": [
-      "Lucid has released a new teaser video of what looks like the Cosmos, its upcoming sub-$50,000 midsize electric SUV and the car that’s supposed to turn Lucid into a volume automaker.",
-      "The clip gives us the clearest look yet at the Cosmos’ lighting, front and rear, after months of camouflaged prototype sightings.",
-      "Official reporting verified via Electrek news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Lucid teases its cheaper sub-$50,000 Cosmos EV in new video and images",
-        "badge": "Breaking",
-        "text": "Lucid has released a new teaser video of what looks like the Cosmos, its upcoming sub-$50,000 midsize electric SUV and the car that’s supposed to turn Lucid into a volume automaker.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image.png?w=1600",
-        "alt": "Lucid teases its cheaper sub-$50,000 Cosmos EV in new video and images cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The clip gives us the clearest look yet at the Cosmos’ lighting, front and rear, after months of camouflaged prototype sightings.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Lucid has released a new teaser video of what looks like the Cosmos, its upcoming sub-$50,000 midsize electric SUV and the car that’s supposed to turn Lucid into a volume automaker.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "The clip gives us the clearest look yet at the Cosmos’ lighting, front and rear, after months of camouflaged prototype sightings.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 52
-  },
-  {
-    "id": "art_1793972781_5",
-    "slug": "this-1000-hp-dodge-power-wagon-is-actually-a-trx-underneath",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Carscoops",
-    "raw_title": "This 1,000 HP Dodge Power Wagon Is Actually A TRX Underneath",
-    "title": "This 1,000 HP Dodge Power Wagon Is Actually A TRX Underneath",
-    "raw_summary": "The Dodge Power Wagon dates back to the mid-1940s, and while this example may look like an original that's been modernized, it's actually something else entirely. Built by Desert Power Wagons in North Carolina, it started life as a 2021 Ram 1500 TRX. If you want a pickup that looks like a classic but performs like a modern truck, something like this might be perfect. Known as Project Colossus, the Ram's chassis has been modified to support a third axle and two extra wheels. Those new rear wheels aren't just along for the ride and disconnected from the powertrain as we've seen on other 6x6 projects. Instead, this wild truck has a full-time BorgWarner transfer case delivering 6WD Auto, 6WD High, and 6WH Low operating ranges, plus a Dana 60 rear axle and an electronically locking differential. It also has Bilstein Black Hawk e2 active shock absorbers and Black Rhino wheels with 38-inch Toyo Open Country R/T tires.",
-    "summary": "The Dodge Power Wagon dates back to the mid-1940s, and while this example may look like an original that's been modernized, it's actually something else entirely. Built by Desert Power Wagons in North Carolina, it started life as a 2021 Ram 1500 TRX. If you want a pickup that looks like a classic but performs like a modern truck, something like this might be perfect.",
-    "image_url": "https://www.carscoops.com/img/gallery/this-1000-hp-dodge-power-wagon-is-actually-a-trx-underneath/l-intro-1793914093.jpg",
-    "original_url": "https://www.carscoops.com/2308923/classic-dodge-power-wagon-1000-hp-ram-trx/",
-    "published_at": "2026-11-06T13:32:08+00:00",
-    "time_ago": "14m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "The Dodge Power Wagon dates back to the mid-1940s, and while this example may look like an original that's been modernized, it's actually something else entirely. Built by Desert Power Wagons in North Carolina, it started life as a 2021 Ram 1500 TRX. If you want a pickup that looks like a classic but performs like a modern truck, something like this might be perfect.",
-      "Known as Project Colossus, the Ram's chassis has been modified to support a third axle and two extra wheels. Those new rear wheels aren't just along for the ride and disconnected from the powertrain as we've seen on other 6x6 projects. Instead, this wild truck has a full-time BorgWarner transfer case delivering 6WD Auto, 6WD High, and 6WH Low operating ranges, plus a Dana 60 rear axle and an electronically locking differential. It also has Bilstein Black Hawk e2 active shock absorbers and Black Rhino wheels with 38-inch Toyo Open Country R/T tires.",
-      "The distinctive bodywork is the most significant change made. It features a four-door crew cab from Tisdale Coachworkers that almost perfectly mimics a classic Power Wagon. The front end is also just like an original and has similar headlights positioned on the front fenders and a brutish steel front bumper, now incorporating a heavy-duty winch. Adding to the truck's wild design is a stealthy Satin Charcoal finish.",
-      "We've seen builds from Desert Power Wagons in the past using Cummins engines from heavy-duty Ram trucks, but this particular beast uses the high-powered Hemi from a Ram 1500 TRX . In standard form, a TRX delivers 702 horsepower and 650 pound-feet from its supercharged 6.2-liter V8. That wasn't enough, so it's now been fitted with a National Speed Stage-3 upgrade that gives it 1,000 hp and 925 lb-ft. Key changes include a new camshaft, upgraded valve springs and pushrods, a larger supercharger, long-tube headers, a 108 mm throttle body, and an improved fuel system. The TRX's TorqueFlite 8HP95 eight-speed automatic transmission remains, and this wild Power Wagon also retains the TRX's driving modes, including Rock, Baja, Tow, Auto Sport, Snow, and even launch control.",
-      "The interior shares most of its components with a TRX. However, the tuner has given it a classic vibe with Rich Pinecone Distressed leather on the seats, door cards, dashboard, and center console. A JL Audio system has been added, along with a Rolls-Royce-esque starlight headliner. Not only is this insane Ram-based showpiece fully functional, it's currently for sale. The price? An eye-watering $599,950."
-    ],
-    "bullet_points": [
-      "The Dodge Power Wagon dates back to the mid-1940s, and while this example may look like an original that's been modernized, it's actually something else entirely.",
-      "Built by Desert Power Wagons in North Carolina, it started life as a 2021 Ram 1500 TRX.",
-      "If you want a pickup that looks like a classic but performs like a modern truck, something like this might be perfect."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "This 1,000 HP Dodge Power Wagon Is Actually A TRX Underneath",
-        "badge": "Breaking",
-        "text": "The Dodge Power Wagon dates back to the mid-1940s, and while this example may look like an original that's been modernized, it's actually something else entirely.",
-        "image": "https://www.carscoops.com/img/gallery/this-1000-hp-dodge-power-wagon-is-actually-a-trx-underneath/l-intro-1793914093.jpg",
-        "alt": "This 1,000 HP Dodge Power Wagon Is Actually A TRX Underneath cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Built by Desert Power Wagons in North Carolina, it started life as a 2021 Ram 1500 TRX.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "If you want a pickup that looks like a classic but performs like a modern truck, something like this might be perfect.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "Built by Desert Power Wagons in North Carolina, it started life as a 2021 Ram 1500 TRX.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Carscoops.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 65
-  },
-  {
-    "id": "art_1793972781_10",
-    "slug": "at-18900-is-this-incredibly-low-mileage-1986-chrysler-lebaron-tow",
-    "category": "trending",
-    "category_name": "Viral Drives & Concepts",
-    "category_color": "#f43f5e",
-    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
-    "category_icon": "🔥",
-    "source": "Jalopnik",
-    "raw_title": "At $18,900, Is This Incredibly Low-Mileage 1986 Chrysler LeBaron Town & Country A Woody You Would Buy?",
-    "title": "At $18,900, Is This Incredibly Low-Mileage 1986 Chrysler LeBaron Town & Country A Woody You Would Buy?",
-    "raw_summary": "With just 3,800 miles on the clock, today's Nice Price or No Dice LeBaron Town & Country is a true time capsule of '80s glory. It even has a bench seat in the front! Now priced about 30% more than when it was new, we'll have to decide whether it's worth it to feel the MTV-era vibes. With the introduction of the Prius in the late 1990s, Toyota rewrote the meaning of a \"hybrid auto.\" Before the Prius mated electric and internal combustion motors for power, a hybrid auto typically meant an American engine in a European car. The Sunbeam Tiger with its British-built body and Ford 289 was a hybrid. So too were the Iso Rivolta and the clutch of Bizzarrini, which sported Chevy small-block power.",
-    "summary": "With just 3,800 miles on the clock, today's Nice Price or No Dice LeBaron Town & Country is a true time capsule of '80s glory. It even has a bench seat in the front! Now priced about 30% more than when it was new, we'll have to decide whether it's worth it to feel the MTV-era vibes.",
-    "image_url": "https://www.jalopnik.com/img/gallery/at-18900-is-this-incredibly-low-mileage-1986-chrysler-lebaron-town-country-a-woody-you-would-buy/l-intro-1793900617.jpg",
-    "original_url": "https://www.jalopnik.com/2308127/1986-chrysler-lebaron-town-and-country-woody-for-sale-18900/",
-    "published_at": "2026-11-06T13:25:00+00:00",
-    "time_ago": "21m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "With just 3,800 miles on the clock, today's Nice Price or No Dice LeBaron Town & Country is a true time capsule of '80s glory. It even has a bench seat in the front! Now priced about 30% more than when it was new, we'll have to decide whether it's worth it to feel the MTV-era vibes.",
-      "With the introduction of the Prius in the late 1990s, Toyota rewrote the meaning of a \"hybrid auto.\" Before the Prius mated electric and internal combustion motors for power, a hybrid auto typically meant an American engine in a European car. The Sunbeam Tiger with its British-built body and Ford 289 was a hybrid. So too were the Iso Rivolta and the clutch of Bizzarrini, which sported Chevy small-block power.",
-      "The 2013 Cadillac Escalade we looked at on Thursday is a hybrid in the modern sense, featuring a gearbox employing two electric motors to aid the V8 engine in both driving the SUV and keeping its high-voltage battery full of electrons. That was, and still is, a fiddly system with a number of known failure points. On top of that, our Escalade already had 140K under its belt, so those failures could be expected at any given time. Those factors led to warnings in the comments and eventually, a 65% 'No Dice' loss for the Caddy's $11,995 asking price.",
-      "In the 1933 novel \"Lost Horizon\" by James Hilton, a small group of Westerners survives a plane crash high in a remote, uncharted part of the Himalayas. There, they discover a lamasery—Shangri-La—which seemingly has magical properties that slow aging among its inhabitants. This comes at a high cost: the inhabitants are trapped there, because leaving means rapidly aging and dying. I know, bummer.",
-      "Today's 1986 Chrysler LeBaron Town & Country looks like it was just magically freed from some mystical Shangri-La, as it appears in as-new, almost entirely original condition and has less than 4,000 miles on the clock. How did this come to be? The seller has a succinct recap in the ad:",
-      "Back in 1986 a man bought his wife the finest station wagon Chrysler produced, this LeBaron Town & Country TURBO wagon. She only drove it 1500 miles before parking it in the garage when she became ill, and ultimately passed. The car ended up in climate controlled storage at a Chrysler dealer for 30 years. Then during Covid it was brought back to life with a new gas tank, driven a couple hundred miles and ended up on consignment at World Wide Autos in Colorado.",
-      "The current owner bought the car four years ago, brought it to Georgia, and replaced all the rubber bits, fluids, and the non-working factory stereo. Other than those updates, this K Car is claimed to be just as it left the factory.",
-      "This Town & Country has the goods, too. An unexpected decal on the hood announces the engine: a 2.2-liter Chrysler four with fuel injection and a Garrett T03 turbocharger. The motor was factory-rated at 146 horsepower and 168 pound-feet of torque, which might not seem like all that and a bag of chips today, but back in the mid-'80s it was pretty impressive."
-    ],
-    "bullet_points": [
-      "With just 3,800 miles on the clock, today's Nice Price or No Dice LeBaron Town & Country is a true time capsule of '80s glory.",
-      "It even has a bench seat in the front!",
-      "Now priced about 30% more than when it was new, we'll have to decide whether it's worth it to feel the MTV-era vibes."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "At $18,900, Is This Incredibly Low-Mileage 1986 Chrysler LeBaron Town & Country A Woody You Would Buy?",
-        "badge": "Breaking",
-        "text": "With just 3,800 miles on the clock, today's Nice Price or No Dice LeBaron Town & Country is a true time capsule of '80s glory.",
-        "image": "https://www.jalopnik.com/img/gallery/at-18900-is-this-incredibly-low-mileage-1986-chrysler-lebaron-town-country-a-woody-you-would-buy/l-intro-1793900617.jpg",
-        "alt": "At $18,900, Is This Incredibly Low-Mileage 1986 Chrysler LeBaron Town & Country A Woody You Would Buy? cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "It even has a bench seat in the front!",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Now priced about 30% more than when it was new, we'll have to decide whether it's worth it to feel the MTV-era vibes.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Viral Drives & Concepts",
-        "text": "It even has a bench seat in the front!",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 57
-  },
-  {
-    "id": "art_1793972781_11",
-    "slug": "the-tesla-cybertruck-is-dead-and-woke-3-killed-it",
-    "category": "trending",
-    "category_name": "Viral Drives & Concepts",
-    "category_color": "#f43f5e",
-    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
-    "category_icon": "🔥",
-    "source": "Jalopnik",
-    "raw_title": "The Tesla Cybertruck Is Dead, And Woke 3 Killed It",
-    "title": "The Tesla Cybertruck Is Dead, And Woke 3 Killed It",
-    "raw_summary": "The incredible news just keeps coming after Tuesday's huge victory for everyone not named Elon Musk . After a little more than three years blighting our roads, filling divorce court parking lots, and getting recalled for all of its parts falling off , the Tesla Cybertruck is dead. Never trust Elon Musk further than you can throw him , but early Friday morning, Tesla's CEO tweeted that the company will wind down production of the Cybertruck before finally killing it once and for all at some point next year. Posting at 12:30 a.m. Texas Freedom Time, a very normal time that every major CEO is awake and making important business announcements, Musk tweeted , \"Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production.\" So there's no word twisting or reading between the lines required. Tesla's Texas Gigafactory will cease production of the Cybertruck next year, and that's the only place Tesla builds the Cybertruck.",
-    "summary": "The incredible news just keeps coming after Tuesday's huge victory for everyone not named Elon Musk . After a little more than three years blighting our roads, filling divorce court parking lots, and getting recalled for all of its parts falling off , the Tesla Cybertruck is dead.",
-    "image_url": "https://www.jalopnik.com/img/gallery/the-tesla-cybertruck-is-dead-and-woke-3-killed-it/l-intro-1793970267.jpg",
-    "original_url": "https://www.jalopnik.com/2308900/tesla-cybertruck-dead-woke-3-killed-it/",
-    "published_at": "2026-11-06T13:00:22+00:00",
-    "time_ago": "46m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "The incredible news just keeps coming after Tuesday's huge victory for everyone not named Elon Musk . After a little more than three years blighting our roads, filling divorce court parking lots, and getting recalled for all of its parts falling off , the Tesla Cybertruck is dead. Never trust Elon Musk further than you can throw him , but early Friday morning, Tesla's CEO tweeted that the company will wind down production of the Cybertruck before finally killing it once and for all at some point next year.",
-      "Posting at 12:30 a.m. Texas Freedom Time, a very normal time that every major CEO is awake and making important business announcements, Musk tweeted , \"Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production.\" So there's no word twisting or reading between the lines required. Tesla's Texas Gigafactory will cease production of the Cybertruck next year, and that's the only place Tesla builds the Cybertruck.",
-      "Yes, you read that right, folks. The Tesla Cybertruck is dead, and Woke 3 killed it. The Jalopnik staff, Barack Obama, and Karl Marx drove to Elon's house and made him do it. We have that power now. There's lightning in our veins, fire in our eyes, and soon to be a path of destruction in our wake. If we can kill the Tesla Cybertruck, what can't we do? Universal healthcare? Abolishing the electoral college? Free trans for everybody? Finally receiving a sincere apology from my mom? In 2027, we're making it happen.",
-      "Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production",
-      "It wasn't like it's that crazy for a large, generally established, electric-only automaker to add a pickup truck to its lineup. While a Moscow move may be coming, Tesla's a U.S. company that builds a lot of its vehicles including the Cybertruckkk in the U.S., so Tesla never had to worry about that pesky Chicken Tax. And us U.S. Americans sure love buying our pickup trucks. In fact, it should have been a hit. A U.S.-built pickup truck should have printed money for Tesla, but instead, it's dead after 3 horrible, painful, eye-assaulting years.",
-      "But it didn't. After the first blush of sales, interest in the truck fell faster than a stock price after a phony product reveal. The problem was, while looks are subjective, Tesla never bothered to make the Cybertruck good. I used hyperbole when I said all the Cybertruck's parts kept falling off. Technically that isn't true. But it's more true than it should be for a vehicle available for sale to the public, driven on public roads. Tesla's May recall over Cybertruck wheels falling off wasn't even the only recall Tesla had to issue over parts falling off the Cybertruck .",
-      "The Cybertruck also famously couldn't survive a car wash , got its butt kicked off-road by a Ford F-150 , had still more parts flying off on the road , oh yeah, snapped its frame in an off-road test . You know, good, old-fashioned American truck stuff. The fact that, by the time the Cybertruck launched, Musk had gone mask off as a full-fledged operative for the far-right , spending hundreds of millions of dollars to get Donald Trump elected in exchange for a role gutting regulators , didn't help either. It turns out people who buy electric aren't on Musk's chosen political side.",
-      "What's best, from a Republican perspective , is to crush EVs, see them driven before you, and hear the lamentations of the EVs' women. So they aren't what business consultants would call \"the most reliable buyers of electric pickup trucks.\" Throw in prices being far higher after launch than we were originally told , and it shouldn't be surprising that sales were almost as terrible as talking to the owners ."
-    ],
-    "bullet_points": [
-      "The incredible news just keeps coming after Tuesday's huge victory for everyone not named Elon Musk .",
-      "After a little more than three years blighting our roads, filling divorce court parking lots, and getting recalled for all of its parts falling off , the Tesla Cybertruck is dead.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "The Tesla Cybertruck Is Dead, And Woke 3 Killed It",
-        "badge": "Breaking",
-        "text": "The incredible news just keeps coming after Tuesday's huge victory for everyone not named Elon Musk .",
-        "image": "https://www.jalopnik.com/img/gallery/the-tesla-cybertruck-is-dead-and-woke-3-killed-it/l-intro-1793970267.jpg",
-        "alt": "The Tesla Cybertruck Is Dead, And Woke 3 Killed It cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "After a little more than three years blighting our roads, filling divorce court parking lots, and getting recalled for all of its parts falling off , the Tesla Cybertruck is dead.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The incredible news just keeps coming after Tuesday's huge victory for everyone not named Elon Musk .",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Viral Drives & Concepts",
-        "text": "After a little more than three years blighting our roads, filling divorce court parking lots, and getting recalled for all of its parts falling off , the Tesla Cybertruck is dead.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 48
-  },
-  {
-    "id": "art_1793972781_12",
-    "slug": "mclarens-2027-f1-front-wing-breaks-cover-in-brazil",
-    "category": "sports",
-    "category_name": "Motorsport & F1 Tech",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🏁",
-    "source": "The Race",
-    "raw_title": "McLaren's 2027 F1 front wing breaks cover in Brazil",
-    "title": "McLaren's 2027 F1 front wing breaks cover in Brazil",
-    "raw_summary": "McLaren’s new front wing, which will be the same concept it launches its 2027 Formula 1 car with, has been revealed at the Brazilian Grand Prix. As part of an end-of-season push by the Woking-based squad to deliver continuous improvements to its MCL40, the squad has brought its latest upgrades to Interlagos.",
-    "summary": "McLaren’s new front wing, which will be the same concept it launches its 2027 Formula 1 car with, has been revealed at the Brazilian Grand Prix. As part of an end-of-season push by the Woking-based squad to deliver continuous improvements to its MCL40, the squad has brought its latest upgrades to Interlagos.",
-    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/highlighted-comparison-front-wing-McLaren-brazil.jpg",
-    "original_url": "https://www.the-race.com/formula-1/mclaren-2027-f1-front-wing-breaks-cover-in-brazil/",
-    "published_at": "2026-11-06T12:59:21+00:00",
-    "time_ago": "47m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "McLaren’s new front wing, which will be the same concept it launches its 2027 Formula 1 car with, has been revealed at the Brazilian Grand Prix.",
-      "As part of an end-of-season push by the Woking-based squad to deliver continuous improvements to its MCL40, the squad has brought its latest upgrades to Interlagos.",
-      "This includes tweaks to its floor, an updated rear wing, but also a front wing that will form the starting point for next season’s MCL41.",
-      "The front wing is a change of concept for the team as it features many revisions across the spectrum of wing elements.",
-      "The attachment point for the main plane and the endplate has been revised to now run across the lower edge – where it marries up with the refined outboard element.",
-      "The attachment between the nose and the main plane has been adjusted to sit on the second flap now rather than the mainplane, while the new wing also features an adjustment in the height of the flap elements.",
-      "Speaking ahead of the weekend, McLaren explained that the changes delivered were about both delivering more downforce and improving car balance.",
-      "Chief technical officer of aerodynamics Peter Prodromou also made clear that these changes were the launchpad for its 2027 project."
-    ],
-    "bullet_points": [
-      "McLaren’s new front wing, which will be the same concept it launches its 2027 Formula 1 car with, has been revealed at the Brazilian Grand Prix.",
-      "As part of an end-of-season push by the Woking-based squad to deliver continuous improvements to its MCL40, the squad has brought its latest upgrades to Interlagos.",
-      "Official reporting verified via The Race news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "McLaren's 2027 F1 front wing breaks cover in Brazil",
-        "badge": "Breaking",
-        "text": "McLaren’s new front wing, which will be the same concept it launches its 2027 Formula 1 car with, has been revealed at the Brazilian Grand Prix.",
-        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/highlighted-comparison-front-wing-McLaren-brazil.jpg",
-        "alt": "McLaren's 2027 F1 front wing breaks cover in Brazil cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "As part of an end-of-season push by the Woking-based squad to deliver continuous improvements to its MCL40, the squad has brought its latest upgrades to Interlagos.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "McLaren’s new front wing, which will be the same concept it launches its 2027 Formula 1 car with, has been revealed at the Brazilian Grand Prix.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Motorsport & F1 Tech",
-        "text": "As part of an end-of-season push by the Woking-based squad to deliver continuous improvements to its MCL40, the squad has brought its latest upgrades to Interlagos.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from The Race.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 52
-  },
-  {
-    "id": "art_1793972781_1",
-    "slug": "worlds-first-production-car-to-cross-500-kmph-byd-yangwang-u9-xtr",
-    "category": "india",
-    "category_name": "India Drives & SUVs",
-    "category_color": "#ea580c",
-    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
-    "category_icon": "🚙",
-    "source": "Rushlane.com",
-    "raw_title": "World’s First Production Car To Cross 500 Kmph – BYD Yangwang U9 Xtreme",
-    "title": "World's First Production Car To Cross 500 Kmph",
-    "raw_summary": "You might remember BYD Yangwang U9 which debuted a couple of years ago as the vehicle that featured DiSus-X intelligent body control system that could perform rhythmic body movements (basically dance) and then it also stole the limelight by jumping in the air to avoid potholes, making the world gawk at it. Now, a more extreme version of this Megacar called, BYD Yangwang U9 Xtreme, has just made headlines as the world’s first production car to cross the 500 km/h speed barrier on open roads ever. Yangwang U9 Xtreme did it by clocking 503.17 km/h in Abu Dhabi, UAE, marking a historic milestone and has been awarded with a Guinness World Record.",
-    "summary": "You might remember BYD Yangwang U9 which debuted a couple of years ago as the vehicle that featured DiSus-X intelligent body control system that could perform rhythmic body movements (basically dance) and then it also stole the limelight by jumping in the air to avoid potholes, making the world gawk at it.",
-    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/byd-yangwang-u9-xtreme-speed-record-3.jpg",
-    "original_url": "https://www.rushlane.com/worlds-first-production-car-to-cross-500-kmph-byd-yangwang-u9-xtreme-12560644.html",
-    "published_at": "2026-11-06T12:49:42+00:00",
-    "time_ago": "56m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "You might remember BYD Yangwang U9 which debuted a couple of years ago as the vehicle that featured DiSus-X intelligent body control system that could perform rhythmic body movements (basically dance) and then it also stole the limelight by jumping in the air to avoid potholes, making the world gawk at it.",
-      "Now, a more extreme version of this Megacar called, BYD Yangwang U9 Xtreme, has just made headlines as the world’s first production car to cross the 500 km/h speed barrier on open roads ever. Yangwang U9 Xtreme did it by clocking 503.17 km/h in Abu Dhabi, UAE, marking a historic milestone and has been awarded with a Guinness World Record.",
-      "There are sportscars, supercars and hypercars in the world, but BYD Yangwang U9 Xtreme is a Megacar, generating more than 1 MW of power (1,341 bhp). In fact, Yangwang U9 Xtreme is a multi-Megacar because it is rated at a peak power of 2,977 bhp, based on BYD’s 1200V e4 (Yi Si Fang) platform.",
-      "There are four motors powering Yangwang U9 Xtreme delivering 2,977 bhp of peak power and they can touch and bonkers 30,000 RPM. Combined, they deliver 1,200 bhp per tonne (power : weight ratio) and the torque vectoring system negates conventional axles and this system can adjust parameters at 100 times per second.",
-      "U9 Xtreme is a more performant version of BYD Yangwang U9 and it gets a host of updates in terms of aerodynamics to prevent it from flying, basically. These include a large carbon fiber front splitter, a dual-channel hood, tall swan neck rear spoiler and a massive diffuser. Yangwang U9 Xtreme gets unique graphics too and production is limited to just 30 units worldwide.",
-      "Last year in September, Yangwang U9 Xtreme locked 496.22 km/h top speed at Germany and then it clocked a sub 7 minutes lap time at Nurburgring Nordschleife (6m 59.157s), becoming the first mass produced electric supercar to achieve it. The new record was achieved at Abu Dhabi, UAE and it outdid itself by 6.95 km/h breaking the 500 km/h barrier at 503.17 km/h top speed.",
-      "Powering BYD Yangwang U9 Xtreme is an 80 kWh battery pack featuring a 30C discharge rate, this allows the battery to send enough juice across the 1200V and 1000A architecture to power four motors rated at 2,977 bhp.",
-      "In the video, we can see the professional driver warming up the tyres and increasing grip and traction for around a minute. And then he maintained the throttle around mid position till the vehicle reached 380 km/h and then he gunned it with full pedal to the metal till Yangwang U9 Xtreme hit 503.17 km/h top speed."
-    ],
-    "bullet_points": [
-      "You might remember BYD Yangwang U9 which debuted a couple of years ago as the vehicle that featured DiSus-X intelligent body control system that could perform rhythmic body movements (basically dance) and then it also stole the limelight by jumping in the air to avoid potholes, making the world gawk at it.",
-      "Details monitored as developments unfold.",
-      "Verified coverage from Rushlane.com."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "World's First Production Car To Cross 500 Kmph",
-        "badge": "Breaking",
-        "text": "You might remember BYD Yangwang U9 which debuted a couple of years ago as the vehicle that featured DiSus-X intelligent body control system that could perform rhythmic body movements (basically dance) and then it also stole the limelight by jumping in the air to avoid potholes, making the world gawk at it.",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/11/byd-yangwang-u9-xtreme-speed-record-3.jpg",
-        "alt": "World's First Production Car To Cross 500 Kmph cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "You might remember BYD Yangwang U9 which debuted a couple of years ago as the vehicle that featured DiSus-X intelligent body control system that could perform rhythmic body movements (basically dance) and then it also stole the limelight by jumping in the air to avoid potholes, making the world gawk at it.",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "You might remember BYD Yangwang U9 which debuted a couple of years ago as the vehicle that featured DiSus-X intelligent body control system that could perform rhythmic body movements (basically dance) and then it also stole the limelight by jumping in the air to avoid potholes, making the world gawk at it.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "India Drives & SUVs",
-        "text": "Public updates continue.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Rushlane.com.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 52
-  },
-  {
-    "id": "art_1793972781_4",
-    "slug": "liebherr-expands-excavator-range-with-new-250-tonne-electric-mode",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "Liebherr expands excavator range with new, 250-tonne electric model",
-    "title": "Liebherr expands excavator range with new, 250-tonne electric model",
-    "raw_summary": "It takes some seriously heavy equipment to make an ultra-class mining truck look little , but that’s exactly what German equipment giant Liebherr does best, and its newest, 250-tonne production excavator keeps that tradition alive – only this time, it’s electric. Liebherr began converting its diesel-powered mining excavators to electric in limited numbers back in 2024 , and electric power has proven to be effective – moving millions of tons of dirt while saving millions of dollars in fuel and maintenance costs . Now, the company is translating that testing experience into regular production practice with the launch of a new, all-electric machine. Meet the R 9300 G8-E.",
-    "summary": "It takes some seriously heavy equipment to make an ultra-class mining truck look little , but that’s exactly what German equipment giant Liebherr does best, and its newest, 250-tonne production excavator keeps that tradition alive – only this time, it’s electric.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/liebherr-r9300-g8e-96dpi.jpg?quality=82&strip=all&w=1600",
-    "original_url": "https://electrek.co/2026/11/06/liebherr-expands-excavator-range-with-new-250-tonne-electric-model/",
-    "published_at": "2026-11-06T12:49:41+00:00",
-    "time_ago": "56m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "It takes some seriously heavy equipment to make an ultra-class mining truck look little , but that’s exactly what German equipment giant Liebherr does best, and its newest, 250-tonne production excavator keeps that tradition alive – only this time, it’s electric.",
-      "Liebherr began converting its diesel-powered mining excavators to electric in limited numbers back in 2024 , and electric power has proven to be effective – moving millions of tons of dirt while saving millions of dollars in fuel and maintenance costs . Now, the company is translating that testing experience into regular production practice with the launch of a new, all-electric machine. Meet the R 9300 G8-E.",
-      "Based on the proven R 9300 G8 platform, the new Liebherr R 9300 G8-E packs an 850 kW (~1,140 hp) electric drivetrain designed to IEC standards and supports 6-6.6 kV power supplies. The company says its electric setup offers customers the same hydraulic power and bucket capacity (1.8 tonnes/cubic meter, or ~1.5 short tons/cubic yard) as the diesel version.",
-      "All that electric power ships with advanced electronics and operator assistance systems designed to maximize both efficiency and safety while giving mine operators more data to work and plan with. Liebherr describes its take on ADAS thusly:",
-      "The R 9300 G8-E comes with Liebherr Power Efficiency – Hydraulic Control as standard, which adapts hydraulic power to suit the machine’s load profile, reducing overall engine load factor. Thanks to its Generation 8 electronic architecture, the R 9300 G8-E is compatible with a range of Liebherr’s IoMine technology products, including its range of excavator Assistance Systems, the semi-autonomous Bucket Filling Assistant, the Skyview vision system as well as the data visualisation tool, Data View. Customers also have the option of installing Liebherr’s autonomous cable reel solution onto the excavator to assist with cable management and support machine mobility on site.",
-      "Like its repowered cousins , the big electric excavator does seem to have on-board batteries, but is primarily driven and operated with grid power, reducing charging and re-charging concerns and enabling round-the-clock operations for as long as grid power holds .",
-      "Liebherr touts the benefits of new R 9300 G8-E’s quiet, emissions-free running throughout its official announcement, but doesn’t stop there. The company says its EV, which makes do with thousands of fewer moving parts in its drivetrain, can also reduce maintenance requirements and associated operating costs in certain applications and site conditions while improving workplace conditions for the people who work in and around the machine.",
-      "The electric drivetrain also reduces vibration inside the cab, improving operator comfort, limiting fatigue, and potentially contributing to a safer working environment."
-    ],
-    "bullet_points": [
-      "It takes some seriously heavy equipment to make an ultra-class mining truck look little , but that’s exactly what German equipment giant Liebherr does best, and its newest, 250-tonne production excavator keeps that tradition alive – only this time, it’s electric.",
-      "Details monitored as developments unfold.",
-      "Verified coverage from Electrek."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Liebherr expands excavator range with new, 250-tonne electric model",
-        "badge": "Breaking",
-        "text": "It takes some seriously heavy equipment to make an ultra-class mining truck look little , but that’s exactly what German equipment giant Liebherr does best, and its newest, 250-tonne production excavator keeps that tradition alive – only this time, it’s electric.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/liebherr-r9300-g8e-96dpi.jpg?quality=82&strip=all&w=1600",
-        "alt": "Liebherr expands excavator range with new, 250-tonne electric model cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "It takes some seriously heavy equipment to make an ultra-class mining truck look little , but that’s exactly what German equipment giant Liebherr does best, and its newest, 250-tonne production excavator keeps that tradition alive – only this time, it’s electric.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "It takes some seriously heavy equipment to make an ultra-class mining truck look little , but that’s exactly what German equipment giant Liebherr does best, and its newest, 250-tonne production excavator keeps that tradition alive – only this time, it’s electric.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "Public updates continue.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 41
-  },
-  {
-    "id": "art_1793972781_13",
-    "slug": "marquez-quickest-as-qatar-motogp-weekend-kicks-off",
-    "category": "sports",
-    "category_name": "Motorsport & F1 Tech",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🏁",
-    "source": "The Race",
-    "raw_title": "Marquez quickest as Qatar MotoGP weekend kicks off",
-    "title": "Marquez quickest as Qatar MotoGP weekend kicks off",
-    "raw_summary": "MotoGP championship leader Marc Marquez led the way in the opening practice session of the Qatar Grand Prix, heading Marco Bezzecchi by a tenth of a second. Marquez led virtually the entire session on the dusty Lusail track, and ended up on a 1m52.278s. He never fitted a spare rear tyre - but neither did virtually anyone else, with no incentive to use up any of the valuable rubber in the less-representative daytime session (compared to Friday afternoon practice, the sprint and the grand prix all taking place in the evening under the lights). Fabio Di Giannantonio was third behind Marquez and Bezzecchi, four tenths down on the leader. Pedro Acosta was fourth as the lead KTM, but his RC16 seemed to either fail or run out of fuel in the end as he had to pull over to the side of the track. Jorge Martin, who had withdrawn from the Sepang weekend last time out due to his wrist fracture from Phillip Island, had a livelier start here, logging 16 laps and placing fifth. With the Yamaha riders absent as the manufacturer elected to skip Qatar, a total of 18 riders took part. Honda's new stand-in Jake Dixon was last of them, after crashing on his very first flying lap. But Dixon was just 3.1s off the pace in the end, so will have zero trouble clearing MotoGP's 105-percent pace rule for race eligibility. There was another crash early in the session, for KTM's Brad Binder, who likewise returned to action shortly. 1 Marc Marquez (Ducati) 1m52.278s 2 Marco Bezzecchi (Aprilia) +0.110s 3 Fabio Di Giannantonio (VR46 Ducati) +0.413s 4 Pedro Acosta (KTM) +0.677s 5 Jorge Martin (Aprilia) +0.734s 6 Pecco Bagnaia (Ducati) +0.793s 7 Raul Fernandez (Trackhouse Aprilia) +0.911s 8 Luca Marini (Honda) +0.952s 9 Franco Morbidelli (VR46 Ducati) +1.028s 10 Johann Zarco (LCR Honda) +1.084s 11 Alex Marquez (Gresini Ducati) +1.263s 12 Fermin Aldeguer (Gresini Ducati) +1.339s 13 Brad Binder (KTM) +1.353s 14 Iker Lecuona (Gresini Ducati) +1.432s 15 Maverick Vinales (Tech3 KTM) +1.447s 16 Diogo Moreira (LCR Honda) +1.791s 17 Enea Bastianini (Tech3 KTM) +1.965s 18 Jake Dixon (Honda) +3.148s",
-    "summary": "MotoGP championship leader Marc Marquez led the way in the opening practice session of the Qatar Grand Prix, heading Marco Bezzecchi by a tenth of a second. Marquez led virtually the entire session on the dusty Lusail track, and ended up on a 1m52.278s.",
-    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1360174_HiRes.jpg",
-    "original_url": "https://www.the-race.com/motogp/marquez-quickest-as-qatar-motogp-weekend-kicks-off/",
-    "published_at": "2026-11-06T12:40:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "MotoGP championship leader Marc Marquez led the way in the opening practice session of the Qatar Grand Prix, heading Marco Bezzecchi by a tenth of a second. Marquez led virtually the entire session on the dusty Lusail track, and ended up on a 1m52.278s. He never fitted a spare rear tyre - but neither did virtually anyone else, with no incentive to use up any of the valuable rubber in the less-representative daytime session (compared to Friday afternoon practice, the sprint and the grand prix all taking place in the evening under the lights). Fabio Di Giannantonio was third behind Marquez and Bezzecchi, four tenths down on the leader. Pedro Acosta was fourth as the lead KTM, but his RC16 seemed to either fail or run out of fuel in the end as he had to pull over to the side of the track. Jorge Martin, who had withdrawn from the Sepang weekend last time out due to his wrist fracture from Phillip Island, had a livelier start here, logging 16 laps and placing fifth. With the Yamaha riders absent as the manufacturer elected to skip Qatar, a total of 18 riders took part. Honda's new stand-in Jake Dixon was last of them, after crashing on his very first flying lap. But Dixon was just 3.1s off the pace in the end, so will have zero trouble clearing MotoGP's 105-percent pace rule for race eligibility. There was another crash early in the session, for KTM's Brad Binder, who likewise returned to action shortly.",
-      "1 Marc Marquez (Ducati) 1m52.278s 2 Marco Bezzecchi (Aprilia) +0.110s 3 Fabio Di Giannantonio (VR46 Ducati) +0.413s 4 Pedro Acosta (KTM) +0.677s 5 Jorge Martin (Aprilia) +0.734s 6 Pecco Bagnaia (Ducati) +0.793s 7 Raul Fernandez (Trackhouse Aprilia) +0.911s 8 Luca Marini (Honda) +0.952s 9 Franco Morbidelli (VR46 Ducati) +1.028s 10 Johann Zarco (LCR Honda) +1.084s 11 Alex Marquez (Gresini Ducati) +1.263s 12 Fermin Aldeguer (Gresini Ducati) +1.339s 13 Brad Binder (KTM) +1.353s 14 Iker Lecuona (Gresini Ducati) +1.432s 15 Maverick Vinales (Tech3 KTM) +1.447s 16 Diogo Moreira (LCR Honda) +1.791s 17 Enea Bastianini (Tech3 KTM) +1.965s 18 Jake Dixon (Honda) +3.148s"
-    ],
-    "bullet_points": [
-      "MotoGP championship leader Marc Marquez led the way in the opening practice session of the Qatar Grand Prix, heading Marco Bezzecchi by a tenth of a second.",
-      "Marquez led virtually the entire session on the dusty Lusail track, and ended up on a 1m52.278s.",
-      "Official reporting verified via The Race news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Marquez quickest as Qatar MotoGP weekend kicks off",
-        "badge": "Breaking",
-        "text": "MotoGP championship leader Marc Marquez led the way in the opening practice session of the Qatar Grand Prix, heading Marco Bezzecchi by a tenth of a second.",
-        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1360174_HiRes.jpg",
-        "alt": "Marquez quickest as Qatar MotoGP weekend kicks off cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Marquez led virtually the entire session on the dusty Lusail track, and ended up on a 1m52.278s.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "MotoGP championship leader Marc Marquez led the way in the opening practice session of the Qatar Grand Prix, heading Marco Bezzecchi by a tenth of a second.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Motorsport & F1 Tech",
-        "text": "Marquez led virtually the entire session on the dusty Lusail track, and ended up on a 1m52.278s.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from The Race.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 44
   }
 ]

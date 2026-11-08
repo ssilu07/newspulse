@@ -3,39 +3,239 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-08T12:48:36Z</lastmod>
+    <lastmod>2026-11-08T16:10:12Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-08T12:48:36Z</lastmod>
+    <lastmod>2026-11-08T16:10:12Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-08T12:48:36Z</lastmod>
+    <lastmod>2026-11-08T16:10:12Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-08T12:48:36Z</lastmod>
+    <lastmod>2026-11-08T16:10:12Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-08T12:48:36Z</lastmod>
+    <lastmod>2026-11-08T16:10:12Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-08T12:48:36Z</lastmod>
+    <lastmod>2026-11-08T16:10:12Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/even-californias-biggest-ports-arent-betting-on-hydrogen-for-ship/</loc>
+    <lastmod>2026-11-08T16:04:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_San_Pedro_Bay_Hero_FINAL_1600x900.png</image:loc>
+      <image:title>Even California&#x27;s Biggest Ports Aren&#x27;t Betting On Hydrogen For Ships</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/even-californias-biggest-ports-arent-betting-on-hydrogen-for-ship/</loc>
+    <lastmod>2026-11-08T16:04:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_San_Pedro_Bay_Hero_FINAL_1600x900.png</image:loc>
+      <image:title>Even California&#x27;s Biggest Ports Aren&#x27;t Betting On Hydrogen For Ships</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-5-italian-exotics-are-more-dependable-than-the-finicky-supe/</loc>
+    <lastmod>2026-11-08T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-5-italian-exotics-are-more-dependable-than-the-finicky-supercars-of-yesteryear/l-intro-1793361123.jpg</image:loc>
+      <image:title>These 5 Italian Exotics Are More Dependable Than The Finicky Supercars Of Yesteryear</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-5-italian-exotics-are-more-dependable-than-the-finicky-supe/</loc>
+    <lastmod>2026-11-08T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-5-italian-exotics-are-more-dependable-than-the-finicky-supercars-of-yesteryear/l-intro-1793361123.jpg</image:loc>
+      <image:title>These 5 Italian Exotics Are More Dependable Than The Finicky Supercars Of Yesteryear</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-do-the-red-and-yellow-dots-on-tires-mean/</loc>
+    <lastmod>2026-11-08T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/what-do-the-red-and-yellow-dots-on-tires-mean/l-intro-1793715106.jpg</image:loc>
+      <image:title>What Do The Red And Yellow Dots On Tires Mean?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-do-the-red-and-yellow-dots-on-tires-mean/</loc>
+    <lastmod>2026-11-08T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/what-do-the-red-and-yellow-dots-on-tires-mean/l-intro-1793715106.jpg</image:loc>
+      <image:title>What Do The Red And Yellow Dots On Tires Mean?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/if-you-could-only-drive-cars-from-one-brand-for-the-rest-of-your-/</loc>
+    <lastmod>2026-11-08T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/if-you-could-only-drive-cars-from-one-brand-for-the-rest-of-your-life-which-automaker-are-you-choosing/l-intro-1794010421.jpg</image:loc>
+      <image:title>If You Could Only Drive Cars From One Brand For The Rest Of Your Life, Which Automaker Are You Choosing?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/if-you-could-only-drive-cars-from-one-brand-for-the-rest-of-your-/</loc>
+    <lastmod>2026-11-08T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/if-you-could-only-drive-cars-from-one-brand-for-the-rest-of-your-life-which-automaker-are-you-choosing/l-intro-1794010421.jpg</image:loc>
+      <image:title>If You Could Only Drive Cars From One Brand For The Rest Of Your Life, Which Automaker Are You Choosing?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-toyota-rav4-woodland-gains-an-inch-where-it-counts-all-phevs/</loc>
+    <lastmod>2026-11-08T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-toyota-rav4-woodland-gains-an-inch-where-it-counts-all-phevs-get-nacs-and-level-3-charging/l-intro-1794003917.jpg</image:loc>
+      <image:title>2027 Toyota RAV4 Woodland Gains An Inch Where It Counts, All PHEVs Get NACS And Level 3 Charging</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-toyota-rav4-woodland-gains-an-inch-where-it-counts-all-phevs/</loc>
+    <lastmod>2026-11-08T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-toyota-rav4-woodland-gains-an-inch-where-it-counts-all-phevs-get-nacs-and-level-3-charging/l-intro-1794003917.jpg</image:loc>
+      <image:title>2027 Toyota RAV4 Woodland Gains An Inch Where It Counts, All PHEVs Get NACS And Level 3 Charging</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/would-you-rather-cadillac-escalade-iq-vs-escalade-v/</loc>
+    <lastmod>2026-11-08T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1485bfce-5e79-49c1-9675-a5abe147d0d9.jpg</image:loc>
+      <image:title>Would You Rather: Cadillac Escalade IQ vs. Escalade-V</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/would-you-rather-cadillac-escalade-iq-vs-escalade-v/</loc>
+    <lastmod>2026-11-08T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1485bfce-5e79-49c1-9675-a5abe147d0d9.jpg</image:loc>
+      <image:title>Would You Rather: Cadillac Escalade IQ vs. Escalade-V</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the/</loc>
+    <lastmod>2026-11-08T13:42:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/id-aura_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>New ID. AURA is the mainstream EV VW needs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the/</loc>
+    <lastmod>2026-11-08T13:42:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/id-aura_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>New ID. AURA is the mainstream EV VW needs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/marini-out-as-qatar-grid-is-reduced-to-16-riders/</loc>
+    <lastmod>2026-11-08T13:40:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361834_HiRes.jpg</image:loc>
+      <image:title>Marini out as Qatar grid is reduced to 16 riders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/marini-out-as-qatar-grid-is-reduced-to-16-riders/</loc>
+    <lastmod>2026-11-08T13:40:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361834_HiRes.jpg</image:loc>
+      <image:title>Marini out as Qatar grid is reduced to 16 riders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-is-the-only-road-in-the-us-that-closes-for-snakes/</loc>
+    <lastmod>2026-11-08T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/this-is-the-only-road-in-the-us-that-closes-for-snakes/l-intro-1793305500.jpg</image:loc>
+      <image:title>This Is The Only Road In The US That Closes For Snakes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-is-the-only-road-in-the-us-that-closes-for-snakes/</loc>
+    <lastmod>2026-11-08T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/this-is-the-only-road-in-the-us-that-closes-for-snakes/l-intro-1793305500.jpg</image:loc>
+      <image:title>This Is The Only Road In The US That Closes For Snakes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/can-leaving-a-car-battery-on-concrete-actually-damage-it/</loc>
+    <lastmod>2026-11-08T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/can-leaving-a-car-battery-on-concrete-actually-damage-it/l-intro-1793706845.jpg</image:loc>
+      <image:title>Can Leaving A Car Battery On Concrete Actually Damage It?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/can-leaving-a-car-battery-on-concrete-actually-damage-it/</loc>
+    <lastmod>2026-11-08T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/can-leaving-a-car-battery-on-concrete-actually-damage-it/l-intro-1793706845.jpg</image:loc>
+      <image:title>Can Leaving A Car Battery On Concrete Actually Damage It?</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/electric-car-sales-oct-2026-tata-mahindra-mg-vinfast-kia-maruti-h/</loc>
@@ -158,6 +358,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/india-bound-toyota-land-cruiser-fj-likely-to-get-a-diesel-engine/</loc>
+    <lastmod>2026-11-08T10:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/toyota-land-cruiser-FJ-7.jpg</image:loc>
+      <image:title>India-bound Toyota Land Cruiser FJ Likely To Get A Diesel Engine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/india-bound-toyota-land-cruiser-fj-likely-to-get-a-diesel-engine/</loc>
+    <lastmod>2026-11-08T10:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/toyota-land-cruiser-FJ-7.jpg</image:loc>
+      <image:title>India-bound Toyota Land Cruiser FJ Likely To Get A Diesel Engine</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/everyone-wants-an-electric-pickup-truck-i-want-more-electric-125c/</loc>
     <lastmod>2026-11-08T09:37:36+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -215,6 +435,26 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/New-Maruti-Micro-SUV.jpg</image:loc>
       <image:title>Maruti Suzuki To Launch Punch Rival Next Year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-volkswagen-virtus-launching-soon-top-5-changes-to-expect/</loc>
+    <lastmod>2026-11-08T07:00:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/New-VW-Virtus-1.jpg</image:loc>
+      <image:title>New Volkswagen Virtus Launching Soon : Top 5 changes To Expect</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-volkswagen-virtus-launching-soon-top-5-changes-to-expect/</loc>
+    <lastmod>2026-11-08T07:00:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/New-VW-Virtus-1.jpg</image:loc>
+      <image:title>New Volkswagen Virtus Launching Soon : Top 5 changes To Expect</image:title>
     </image:image>
   </url>
   <url>
@@ -835,6 +1075,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-8.04.13-PM.png</image:loc>
       <image:title>GM Steps On Tesla&#x27;s EV Toes With EV1 Celebration</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/marquez-wins-qatar-sprint-after-contentious-bezzecchi-clash/</loc>
+    <lastmod>2026-11-07T16:51:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361334_HiRes.jpg</image:loc>
+      <image:title>Marquez wins Qatar sprint after contentious Bezzecchi clash</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/marquez-wins-qatar-sprint-after-contentious-bezzecchi-clash/</loc>
+    <lastmod>2026-11-07T16:51:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361334_HiRes.jpg</image:loc>
+      <image:title>Marquez wins Qatar sprint after contentious Bezzecchi clash</image:title>
     </image:image>
   </url>
   <url>
@@ -2775,266 +3035,6 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/cb692458-b78b-4840-bfac-4200844c4639.jpg</image:loc>
       <image:title>First Look: Aggressive Exterior Styling Of The 2027 Mercedes-Benz GLS450 4Matic</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-mercedes-benz-gls450-4matic/</loc>
-    <lastmod>2026-11-06T14:09:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5387193c-d6a2-4588-b5a2-df05ac9f6f67.jpg</image:loc>
-      <image:title>First Look Inside: The 2027 Mercedes-Benz GLS450 4Matic Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2027-mercedes-benz-gls450-4matic/</loc>
-    <lastmod>2026-11-06T14:09:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5387193c-d6a2-4588-b5a2-df05ac9f6f67.jpg</image:loc>
-      <image:title>First Look Inside: The 2027 Mercedes-Benz GLS450 4Matic Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-hikes-cybertruck-prices-up-to-10-after-announcing-it-will-k/</loc>
-    <lastmod>2026-11-06T14:03:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla hikes Cybertruck prices up to 10% after announcing it will kill production</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-hikes-cybertruck-prices-up-to-10-after-announcing-it-will-k/</loc>
-    <lastmod>2026-11-06T14:03:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla hikes Cybertruck prices up to 10% after announcing it will kill production</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rip-tesla-cybertruck-production-ends-next-year/</loc>
-    <lastmod>2026-11-06T14:03:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-tesla-cybertruck-103-65e8945960dda.jpg</image:loc>
-      <image:title>RIP: Tesla Cybertruck Production Ends Next Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rip-tesla-cybertruck-production-ends-next-year/</loc>
-    <lastmod>2026-11-06T14:03:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-tesla-cybertruck-103-65e8945960dda.jpg</image:loc>
-      <image:title>RIP: Tesla Cybertruck Production Ends Next Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gm-could-make-variable-compression-engines-easier-to-service/</loc>
-    <lastmod>2026-11-06T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2739bd07-83ee-4a28-b49f-847f62d4873d.png</image:loc>
-      <image:title>GM Could Make Variable-Compression Engines Easier to Service</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gm-could-make-variable-compression-engines-easier-to-service/</loc>
-    <lastmod>2026-11-06T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2739bd07-83ee-4a28-b49f-847f62d4873d.png</image:loc>
-      <image:title>GM Could Make Variable-Compression Engines Easier to Service</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trump-is-gonna-cave-on-offshore-wind-in-543/</loc>
-    <lastmod>2026-11-06T13:45:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/01/coastal-virginia-offshore-wind-project-.png</image:loc>
-      <image:title>Trump Is Gonna Cave On Offshore Wind In 5…4…3…</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/trump-is-gonna-cave-on-offshore-wind-in-543/</loc>
-    <lastmod>2026-11-06T13:45:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/01/coastal-virginia-offshore-wind-project-.png</image:loc>
-      <image:title>Trump Is Gonna Cave On Offshore Wind In 5…4…3…</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lucid-teases-its-cheaper-sub-50000-cosmos-ev-in-new-video-and-ima/</loc>
-    <lastmod>2026-11-06T13:42:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image.png?w=1600</image:loc>
-      <image:title>Lucid teases its cheaper sub-$50,000 Cosmos EV in new video and images</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/lucid-teases-its-cheaper-sub-50000-cosmos-ev-in-new-video-and-ima/</loc>
-    <lastmod>2026-11-06T13:42:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image.png?w=1600</image:loc>
-      <image:title>Lucid teases its cheaper sub-$50,000 Cosmos EV in new video and images</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-1000-hp-dodge-power-wagon-is-actually-a-trx-underneath/</loc>
-    <lastmod>2026-11-06T13:32:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-1000-hp-dodge-power-wagon-is-actually-a-trx-underneath/l-intro-1793914093.jpg</image:loc>
-      <image:title>This 1,000 HP Dodge Power Wagon Is Actually A TRX Underneath</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-1000-hp-dodge-power-wagon-is-actually-a-trx-underneath/</loc>
-    <lastmod>2026-11-06T13:32:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-1000-hp-dodge-power-wagon-is-actually-a-trx-underneath/l-intro-1793914093.jpg</image:loc>
-      <image:title>This 1,000 HP Dodge Power Wagon Is Actually A TRX Underneath</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/at-18900-is-this-incredibly-low-mileage-1986-chrysler-lebaron-tow/</loc>
-    <lastmod>2026-11-06T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-18900-is-this-incredibly-low-mileage-1986-chrysler-lebaron-town-country-a-woody-you-would-buy/l-intro-1793900617.jpg</image:loc>
-      <image:title>At $18,900, Is This Incredibly Low-Mileage 1986 Chrysler LeBaron Town &amp; Country A Woody You Would Buy?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/at-18900-is-this-incredibly-low-mileage-1986-chrysler-lebaron-tow/</loc>
-    <lastmod>2026-11-06T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-18900-is-this-incredibly-low-mileage-1986-chrysler-lebaron-town-country-a-woody-you-would-buy/l-intro-1793900617.jpg</image:loc>
-      <image:title>At $18,900, Is This Incredibly Low-Mileage 1986 Chrysler LeBaron Town &amp; Country A Woody You Would Buy?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-tesla-cybertruck-is-dead-and-woke-3-killed-it/</loc>
-    <lastmod>2026-11-06T13:00:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-tesla-cybertruck-is-dead-and-woke-3-killed-it/l-intro-1793970267.jpg</image:loc>
-      <image:title>The Tesla Cybertruck Is Dead, And Woke 3 Killed It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-tesla-cybertruck-is-dead-and-woke-3-killed-it/</loc>
-    <lastmod>2026-11-06T13:00:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-tesla-cybertruck-is-dead-and-woke-3-killed-it/l-intro-1793970267.jpg</image:loc>
-      <image:title>The Tesla Cybertruck Is Dead, And Woke 3 Killed It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mclarens-2027-f1-front-wing-breaks-cover-in-brazil/</loc>
-    <lastmod>2026-11-06T12:59:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/highlighted-comparison-front-wing-McLaren-brazil.jpg</image:loc>
-      <image:title>McLaren&#x27;s 2027 F1 front wing breaks cover in Brazil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mclarens-2027-f1-front-wing-breaks-cover-in-brazil/</loc>
-    <lastmod>2026-11-06T12:59:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/highlighted-comparison-front-wing-McLaren-brazil.jpg</image:loc>
-      <image:title>McLaren&#x27;s 2027 F1 front wing breaks cover in Brazil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/worlds-first-production-car-to-cross-500-kmph-byd-yangwang-u9-xtr/</loc>
-    <lastmod>2026-11-06T12:49:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-yangwang-u9-xtreme-speed-record-3.jpg</image:loc>
-      <image:title>World&#x27;s First Production Car To Cross 500 Kmph</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/worlds-first-production-car-to-cross-500-kmph-byd-yangwang-u9-xtr/</loc>
-    <lastmod>2026-11-06T12:49:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-yangwang-u9-xtreme-speed-record-3.jpg</image:loc>
-      <image:title>World&#x27;s First Production Car To Cross 500 Kmph</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/liebherr-expands-excavator-range-with-new-250-tonne-electric-mode/</loc>
-    <lastmod>2026-11-06T12:49:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/liebherr-r9300-g8e-96dpi.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Liebherr expands excavator range with new, 250-tonne electric model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/liebherr-expands-excavator-range-with-new-250-tonne-electric-mode/</loc>
-    <lastmod>2026-11-06T12:49:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/liebherr-r9300-g8e-96dpi.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Liebherr expands excavator range with new, 250-tonne electric model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/marquez-quickest-as-qatar-motogp-weekend-kicks-off/</loc>
-    <lastmod>2026-11-06T12:40:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1360174_HiRes.jpg</image:loc>
-      <image:title>Marquez quickest as Qatar MotoGP weekend kicks off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/marquez-quickest-as-qatar-motogp-weekend-kicks-off/</loc>
-    <lastmod>2026-11-06T12:40:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1360174_HiRes.jpg</image:loc>
-      <image:title>Marquez quickest as Qatar MotoGP weekend kicks off</image:title>
     </image:image>
   </url>
 </urlset>
