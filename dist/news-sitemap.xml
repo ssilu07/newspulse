@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/7-sleek-sports-cars-ranked-worst-to-best-by-drag-coefficient/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T22:05:00+00:00</news:publication_date>
+      <news:title>7 Sleek Sports Cars Ranked Worst To Best By Drag Coefficient</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-sleek-sports-cars-ranked-worst-to-best-by-drag-coefficient/l-intro-1793381628.jpg</image:loc>
+      <image:title>7 Sleek Sports Cars Ranked Worst To Best By Drag Coefficient</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-classic-pony-cars-and-their-modern-equivalents/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T21:45:00+00:00</news:publication_date>
+      <news:title>5 Classic Pony Cars And Their Modern Equivalents</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/5-classic-pony-cars-and-their-modern-equivalents/l-intro-1793996046.jpg</image:loc>
+      <image:title>5 Classic Pony Cars And Their Modern Equivalents</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/leclerc-loses-two-points-for-lawson-collision/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T21:42:34+00:00</news:publication_date>
+      <news:title>Leclerc loses two points for Lawson collision</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453788_HiRes-1.jpg</image:loc>
+      <image:title>Leclerc loses two points for Lawson collision</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/heres-how-much-aaa-says-it-costs-to-own-a-car-in-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T21:05:00+00:00</news:publication_date>
+      <news:title>Here&#x27;s How Much AAA Says It Costs To Own A Car In 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/heres-how-much-aaa-says-it-costs-to-own-a-car-in-2026/l-intro-1793373707.jpg</image:loc>
+      <image:title>Here&#x27;s How Much AAA Says It Costs To Own A Car In 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-cybertruck-tires-arent-cheap-to-replace-heres-what-they-cos/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T21:00:00+00:00</news:publication_date>
+      <news:title>Tesla Cybertruck Tires Aren&#x27;t Cheap To Replace: Here&#x27;s What They Cost</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/tesla-cybertruck-tires-arent-cheap-to-replace-heres-what-they-cost/l-intro-1793975826.jpg</image:loc>
+      <image:title>Tesla Cybertruck Tires Aren&#x27;t Cheap To Replace: Here&#x27;s What They Cost</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/winners-and-losers-from-f1s-2026-brazilian-grand-prix/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T20:50:31+00:00</news:publication_date>
+      <news:title>Fallout &amp; Drama: Who Won And Who Lost At F1&#x27;s 2026 Brazilian Grand Prix</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453478_HiRes.jpg</image:loc>
+      <image:title>Fallout &amp; Drama: Who Won And Who Lost At F1&#x27;s 2026 Brazilian Grand Prix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/watch-the-2027-hyundai-tucson-get-hurled-around-the-nürburgring-l/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T20:50:00+00:00</news:publication_date>
+      <news:title>Watch The 2027 Hyundai Tucson Get Hurled Around The Nürburgring Like A Huge Miata</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/watch-the-2027-hyundai-tucson-get-hurled-around-the-nrburgring-like-a-huge-miata/l-intro-1793264094.jpg</image:loc>
+      <image:title>Watch The 2027 Hyundai Tucson Get Hurled Around The Nürburgring Like A Huge Miata</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bigger-than-godzilla/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T19:29:31+00:00</news:publication_date>
+      <news:title>Bigger than Godzilla!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Godzilla-Wind-Turbine.jpg</image:loc>
+      <image:title>Bigger than Godzilla!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-selling-electric-vehicles-in-the-world-32-ev-share-in-septemb/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T18:47:58+00:00</news:publication_date>
+      <news:title>Top Selling Electric Vehicles in the World - 32% EV Share in September!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026-09-World-EV-Sales-September.png</image:loc>
+      <image:title>Top Selling Electric Vehicles in the World - 32% EV Share in September!</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/why-pontiac-paid-the-scca-5-for-every-trans-am-it-built/</loc>
     <news:news>
       <news:publication>
@@ -798,6 +933,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/elana-scherr-chauffeur-life/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T19:00:00+00:00</news:publication_date>
+      <news:title>Elana Scherr: Chauffeur Life</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/88b2f126-72ed-4f5d-964b-0b3e270fe936.jpg</image:loc>
+      <image:title>Elana Scherr: Chauffeur Life</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/the-velotric-gomad-electric-utility-ebike-cleantechnica-tested/</loc>
     <news:news>
       <news:publication>
@@ -1590,411 +1740,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451516_HiRes.jpg</image:loc>
       <image:title>Dangerous&#x27; but also &#x27;brilliant</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-kia-telluride-x-pro-review-the-looks-get-your-attention-the-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T22:12:54+00:00</news:publication_date>
-      <news:title>2027 Kia Telluride X-Pro Review: The Looks Get Your Attention, The Cabin Wins You Over</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/2027-kia-telluride-x-pro-review-the-looks-get-your-attention-the-cabin-wins-you-over/l-intro-1794003142.jpg</image:loc>
-      <image:title>2027 Kia Telluride X-Pro Review: The Looks Get Your Attention, The Cabin Wins You Over</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/apollos-newest-electric-scooter-is-also-its-lowest-cost-yet/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T21:46:19+00:00</news:publication_date>
-      <news:title>Apollo&#x27;s newest electric scooter is also its lowest-cost yet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/apollo-scooter-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Apollo&#x27;s newest electric scooter is also its lowest-cost yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-dealer-sued-for-obnoxious-ai-robocalls-to-a-guy-who-didnt-w/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T21:45:00+00:00</news:publication_date>
-      <news:title>Honda Dealer Sued For &#x27;Obnoxious&#x27; AI Robocalls To A Guy Who Didn&#x27;t Want To Sell Them His Car</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/honda-dealer-sued-for-obnoxious-ai-robocalls-to-a-guy-who-didnt-want-to-sell-them-his-car/l-intro-1793905630.jpg</image:loc>
-      <image:title>Honda Dealer Sued For &#x27;Obnoxious&#x27; AI Robocalls To A Guy Who Didn&#x27;t Want To Sell Them His Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/porsche-launches-espresso-machine-with-a-ducktail-spoiler/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T21:11:59+00:00</news:publication_date>
-      <news:title>Porsche Launches Espresso Machine With A Ducktail Spoiler</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/porsche-launches-espresso-machine-with-a-ducktail-spoiler/l-intro-1793999026.jpg</image:loc>
-      <image:title>Porsche Launches Espresso Machine With A Ducktail Spoiler</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-yangwang-u9-xtreme-just-set-two-guinness-world-speed-records/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T21:01:57+00:00</news:publication_date>
-      <news:title>The Yangwang U9 Xtreme Just Set Two Guinness World Speed Records</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a665391b-6c49-4723-a971-f17a144bba21.jpeg</image:loc>
-      <image:title>The Yangwang U9 Xtreme Just Set Two Guinness World Speed Records</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/you-can-now-buy-a-c8-corvette-with-a-manual-but-it-doesnt-come-fr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:57:20+00:00</news:publication_date>
-      <news:title>You Can Now Buy A C8 Corvette With A Manual, But It Doesn&#x27;t Come From Chevy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/you-can-now-buy-a-c8-corvette-with-a-manual-but-it-doesnt-come-from-chevy/l-intro-1793998077.jpg</image:loc>
-      <image:title>You Can Now Buy A C8 Corvette With A Manual, But It Doesn&#x27;t Come From Chevy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/you-can-now-rent-a-tesla-with-fsd-on-turo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:48:26+00:00</news:publication_date>
-      <news:title>You Can Now Rent A Tesla With FSD On Turo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/you-can-now-rent-a-tesla-with-fsd-on-turo/l-intro-1793997566.jpg</image:loc>
-      <image:title>You Can Now Rent A Tesla With FSD On Turo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/evgo-opens-its-first-tesla-superchargers-with-hundreds-more-plann/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:44:43+00:00</news:publication_date>
-      <news:title>EVgo opens its first Tesla Superchargers, with hundreds more planned</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/EVGo-supercharger-site-Chicago.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>EVgo opens its first Tesla Superchargers, with hundreds more planned</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-is-launching-this-5-seat-luxury-electric-suv-next-week-with-o/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:32:41+00:00</news:publication_date>
-      <news:title>BYD is launching this 5-seat luxury electric SUV next week with over 1,000 km of range</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-launch.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD is launching this 5-seat luxury electric SUV next week with over 1,000 km of range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/deputy-accused-of-using-flock-to-track-estranged-wife/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:22:51+00:00</news:publication_date>
-      <news:title>Deputy Accused Of Using Flock To Track Estranged Wife</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/deputy-accused-of-using-flock-to-track-estranged-wife/l-intro-1793996161.jpg</image:loc>
-      <image:title>Deputy Accused Of Using Flock To Track Estranged Wife</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/wolff-backs-motogps-handling-of-calendar-dissent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:20:20+00:00</news:publication_date>
-      <news:title>Wolff backs MotoGP&#x27;s handling of calendar dissent</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1447156_HiRes.jpg</image:loc>
-      <image:title>Wolff backs MotoGP&#x27;s handling of calendar dissent</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-happened-in-f1-2026-brazilian-gp-second-practice/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:14:26+00:00</news:publication_date>
-      <news:title>Drama &amp; Chaos: What Really Happened In F1 2026 Brazilian GP second practice</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452061_HiRes.jpg</image:loc>
-      <image:title>Drama &amp; Chaos: What Really Happened In F1 2026 Brazilian GP second practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2028-subaru-getaway/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:13:55+00:00</news:publication_date>
-      <news:title>2028 Subaru Getaway</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cd212b86-7f22-4eb0-90eb-49ee4864a234.jpg?crop=0.787xw:0.590xh;0.170xw,0.238xh&amp;resize=1200:*</image:loc>
-      <image:title>2028 Subaru Getaway</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-2027-karma-gyesera-is-a-stylish-curiosity/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:13:48+00:00</news:publication_date>
-      <news:title>The 2027 Karma Gyesera Is a Stylish Curiosity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/dc0d92a0-c63f-484c-84a9-560be2afdde1.jpg</image:loc>
-      <image:title>The 2027 Karma Gyesera Is a Stylish Curiosity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-karma-gyesera-grand-coupe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:13:42+00:00</news:publication_date>
-      <news:title>First Look: Aggressive Exterior Styling Of The 2027 Karma Gyesera Grand Coupe</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d9ac2ae8-352e-454e-86ff-193a86d0c487.jpg</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Karma Gyesera Grand Coupe</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-karma-gyesera-grand-coupe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:13:39+00:00</news:publication_date>
-      <news:title>First Look Inside: The 2027 Karma Gyesera Grand Coupe Cabin</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/02f5dbec-b22f-4e25-86f0-1d82c7da2d5b.jpg</image:loc>
-      <image:title>First Look Inside: The 2027 Karma Gyesera Grand Coupe Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-brazilian-gp-antonelli-quickest-in-tricky-fp2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:07:29+00:00</news:publication_date>
-      <news:title>F1 Brazilian GP: Antonelli quickest in tricky FP2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/68VwEnB2/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
-      <image:title>F1 Brazilian GP: Antonelli quickest in tricky FP2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/alas-poor-cybertruck-we-hardly-knew-thee/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:57:43+00:00</news:publication_date>
-      <news:title>Alas, Poor Cybertruck, We Hardly Knew Thee</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Cybertruck.jpg</image:loc>
-      <image:title>Alas, Poor Cybertruck, We Hardly Knew Thee</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:40:59+00:00</news:publication_date>
-      <news:title>This Modified Fiat Topolino Could Cost You More Than A New Honda Civic Hybrid</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-civic-hybrid/l-intro-1793993936.jpg</image:loc>
-      <image:title>This Modified Fiat Topolino Could Cost You More Than A New Honda Civic Hybrid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/florida-woman-allegedly-drives-rental-rav4-120-mph-because-passen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:39:46+00:00</news:publication_date>
-      <news:title>Florida Woman Allegedly Drives Rental RAV4 120 MPH Because Passenger Was Late For Court</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/florida-woman-allegedly-drives-rental-rav4-120-mph-because-passenger-was-late-for-court/l-intro-1793993509.jpg</image:loc>
-      <image:title>Florida Woman Allegedly Drives Rental RAV4 120 MPH Because Passenger Was Late For Court</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-firm-has-just-turned-a-mclaren-750s-into-a-clk-gtr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:32:31+00:00</news:publication_date>
-      <news:title>This Firm Has Just Turned A McLaren 750S Into A CLK GTR</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-firm-has-just-turned-a-mclaren-750s-into-a-clk-gtr/l-intro-1793992962.jpg</image:loc>
-      <image:title>This Firm Has Just Turned A McLaren 750S Into A CLK GTR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/if-you-have-a-taste-for-the-odd-this-plymouth-prowler-might-be-pe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:25:19+00:00</news:publication_date>
-      <news:title>If You Have A Taste For The Odd, This Plymouth Prowler Might Be Perfect For You</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/are-you-a-newly-retired-dentist-this-is-the-perfect-car-for-you/l-intro-1793991535.jpg</image:loc>
-      <image:title>If You Have A Taste For The Odd, This Plymouth Prowler Might Be Perfect For You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:25:00+00:00</news:publication_date>
-      <news:title>This Shocking 1997 Ford Ranger EV On Bring A Trailer Is A Splash From The Past</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-from-the-past/l-intro-1793830195.jpg</image:loc>
-      <image:title>This Shocking 1997 Ford Ranger EV On Bring A Trailer Is A Splash From The Past</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-r/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:24:34+00:00</news:publication_date>
-      <news:title>Nissan Will Pay Toyota RAV4 Owners To Trade Their Car For A New Rogue Hybrid</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-rogue-hybrid/l-intro-1793992902.jpg</image:loc>
-      <image:title>Nissan Will Pay Toyota RAV4 Owners To Trade Their Car For A New Rogue Hybrid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-is-throwing-in-500-in-free-public-charging-with-its-new-2027-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T18:50:52+00:00</news:publication_date>
-      <news:title>BMW is throwing in $500 in free public charging with its new 2027 iX3, i5, and i7 EVs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX3-charging-credit.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BMW is throwing in $500 in free public charging with its new 2027 iX3, i5, and i7 EVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/vasseur-issues-reminder-to-hamilton-and-leclerc-in-post-mexico-fe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T18:46:02+00:00</news:publication_date>
-      <news:title>Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn-9.motorsport.com/images/amp/0R7BMbg2/s6/fred-vasseur-ferrari-2.jpg</image:loc>
-      <image:title>Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/us-automakers-still-pushing-for-complete-ban-of-chinese-cars/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T18:41:34+00:00</news:publication_date>
-      <news:title>U.S. Automakers Still Pushing For Complete Ban Of Chinese Cars</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/u-s-automakers-still-pushing-for-complete-ban-of-chinese-cars/l-intro-1793990084.jpg</image:loc>
-      <image:title>U.S. Automakers Still Pushing For Complete Ban Of Chinese Cars</image:title>
     </image:image>
   </url>
 </urlset>
