@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/bmw-has-two-laboratories-dedicated-to-ensuring-its-cars-smell-goo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T00:50:00+00:00</news:publication_date>
+      <news:title>BMW Has Two Laboratories Dedicated To Ensuring Its Cars Smell Good</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/bmw-has-two-laboratories-dedicated-to-ensuring-its-cars-smell-good/l-intro-1793291774.jpg</image:loc>
+      <image:title>BMW Has Two Laboratories Dedicated To Ensuring Its Cars Smell Good</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-some-of-the-most-annoying-passenger-habits-according-to/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T00:25:00+00:00</news:publication_date>
+      <news:title>These Are Some Of The Most Annoying Passenger Habits, According To Uber Drivers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-some-of-the-most-annoying-passenger-habits-according-to-uber-drivers/l-intro-1793295637.jpg</image:loc>
+      <image:title>These Are Some Of The Most Annoying Passenger Habits, According To Uber Drivers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/a-new-15-billion-wind-farm-will-play-in-peoria/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T00:24:20+00:00</news:publication_date>
+      <news:title>A New $1.5 Billion Wind Farm Will Play In Peoria</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Repsol-wind-farm.png</image:loc>
+      <image:title>A New $1.5 Billion Wind Farm Will Play In Peoria</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-russells-pole-was-lost-either-way/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T00:02:58+00:00</news:publication_date>
+      <news:title>Why Russell&#x27;s &#x27;pole&#x27; was lost either way</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453003_HiRes.jpg</image:loc>
+      <image:title>Why Russell&#x27;s &#x27;pole&#x27; was lost either way</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/winners-and-losers-from-f1-2026-brazilian-gp-qualifying/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T23:49:21+00:00</news:publication_date>
+      <news:title>Fallout &amp; Drama: Who Won And Who Lost At F1 2026 Brazilian GP qualifying</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453197_HiRes.jpg</image:loc>
+      <image:title>Fallout &amp; Drama: Who Won And Who Lost At F1 2026 Brazilian GP qualifying</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/golf-in-comfort-year-round-in-this-hvac-equipped-golf-cart-from-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T23:25:00+00:00</news:publication_date>
+      <news:title>Golf In Comfort Year-Round In This HVAC-Equipped Golf Cart From Tractor Supply</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/golf-in-comfort-year-round-in-this-hvac-equipped-golf-cart-from-tractor-supply/l-intro-1793304336.jpg</image:loc>
+      <image:title>Golf In Comfort Year-Round In This HVAC-Equipped Golf Cart From Tractor Supply</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/faa-finally-ditching-floppy-disks-from-air-traffic-control/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T22:05:00+00:00</news:publication_date>
+      <news:title>FAA Finally Ditching Floppy Disks From Air Traffic Control</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/faa-finally-ditching-floppy-disks-from-air-traffic-control/l-intro-1794003528.jpg</image:loc>
+      <image:title>FAA Finally Ditching Floppy Disks From Air Traffic Control</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bmw-pitches-free-ev-charging-and-you-aint-seen-nothing-yet/</loc>
     <news:news>
       <news:publication>
@@ -153,6 +258,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/conventional-vs-transit-design-why-some-school-buses-have-flat-fr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T18:25:00+00:00</news:publication_date>
+      <news:title>Conventional Vs. Transit Design: Why Some School Buses Have Flat Fronts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/conventional-vs-transit-design-why-some-school-buses-have-flat-fronts/l-intro-1793378443.jpg</image:loc>
+      <image:title>Conventional Vs. Transit Design: Why Some School Buses Have Flat Fronts</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/brazilian-gp-qualifying-red-flagged-almost-immediately-due-to-rai/</loc>
     <news:news>
       <news:publication>
@@ -195,6 +315,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452400_HiRes.jpg</image:loc>
       <image:title>Hamilton gets back-of-the-grid penalty for Brazilian GP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-buick-engine-that-helped-launch-the-sr-71-blackbird/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T17:25:00+00:00</news:publication_date>
+      <news:title>The Buick Engine That Helped Launch The SR-71 Blackbird</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-buick-engine-that-helped-launch-the-sr-71-blackbird/l-intro-1793637352.jpg</image:loc>
+      <image:title>The Buick Engine That Helped Launch The SR-71 Blackbird</image:title>
     </image:image>
   </url>
   <url>
@@ -663,6 +798,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/byd-yangwang-u9-xtreme-shatters-500-kmph-top-speed-barrier-worlds/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T06:07:48+00:00</news:publication_date>
+      <news:title>BYD Yangwang U9 Xtreme Shatters 500 Kmph Top Speed Barrier - World&#x27;s First</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Yangwang_U9_Xtreme_Record_Run_1400x800.jpg.jpeg</image:loc>
+      <image:title>BYD Yangwang U9 Xtreme Shatters 500 Kmph Top Speed Barrier - World&#x27;s First</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/volkswagen-tiguan-r-line-discontinued-in-india/</loc>
     <news:news>
       <news:publication>
@@ -720,6 +870,21 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/ABB-Solar-Power-Plant-SunEdison-Engineer-Nevada.jpg</image:loc>
       <image:title>NRDC Assessment of BAAJA, the 2026 Permitting &amp; Transmission Bill</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-hyryder-hybrids-set-new-records-for-elevati/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T04:00:57+00:00</news:publication_date>
+      <news:title>Toyota Innova Hycross &amp; Hyryder Hybrids Set New Records For Elevation Gains</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-HyCross-and-Urban-Cruiser-Hyryder-Enter-Asia-Book-of-Records.jpg-1.jpeg</image:loc>
+      <image:title>Toyota Innova Hycross &amp; Hyryder Hybrids Set New Records For Elevation Gains</image:title>
     </image:image>
   </url>
   <url>
@@ -2085,171 +2250,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-bayon-review-cover.jpg</image:loc>
       <image:title>New Hyundai Bayon Review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/triumph-tracker-400-to-get-tft-screen-cruise-control-from-bonnie-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T07:06:13+00:00</news:publication_date>
-      <news:title>Triumph Tracker 400 To Get TFT Screen, Cruise Control From Bonnie T40</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-triumph-tracker-400-tft-variant-spied.jpg</image:loc>
-      <image:title>Triumph Tracker 400 To Get TFT Screen, Cruise Control From Bonnie T40</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-xuv-3xo-zng-scores-5-stars-in-bharat-ncap-crash-tests/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T07:00:14+00:00</news:publication_date>
-      <news:title>Mahindra XUV 3XO ZNG Scores 5 Stars In Bharat NCAP Crash Tests</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Mahindra-XUV-3XO-CNG-ZNG-3.jpg</image:loc>
-      <image:title>Mahindra XUV 3XO ZNG Scores 5 Stars In Bharat NCAP Crash Tests</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/royal-enfield-flying-flea-reaches-chennai-14-outlets-planned/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T05:30:50+00:00</news:publication_date>
-      <news:title>Royal Enfield Flying Flea Reaches Chennai, 14 Outlets Planned</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/Royal-Enfield-Flying-Flea-C6.-1.jpg</image:loc>
-      <image:title>Royal Enfield Flying Flea Reaches Chennai, 14 Outlets Planned</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-can-europe-accelerate-electric-trucking/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T04:57:12+00:00</news:publication_date>
-      <news:title>How Can Europe Accelerate Electric Trucking?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/03/ScanisbigTruck.jpeg</image:loc>
-      <image:title>How Can Europe Accelerate Electric Trucking?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/thermal-dawn-thermal-storage-is-cheap-storage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T04:32:52+00:00</news:publication_date>
-      <news:title>Thermal Dawn</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Thermal-Dawn-Australia.jpg</image:loc>
-      <image:title>Thermal Dawn</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/xpeng-researchers-and-academic-partners-introduce-groundingpi-an-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T03:57:27+00:00</news:publication_date>
-      <news:title>XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/XPENG-physical-AI-image.jpg</image:loc>
-      <image:title>XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tvs-m1-s-debuts-at-eicma-prod-spec-escooter-7-tft-120-km-range/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T03:51:14+00:00</news:publication_date>
-      <news:title>TVS M1-S Debuts At EICMA - Prod-Spec eScooter, 7″ TFT, 120 km Range</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-tvs-m1-s-electric-scooter-debuts.jpg</image:loc>
-      <image:title>TVS M1-S Debuts At EICMA - Prod-Spec eScooter, 7″ TFT, 120 km Range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/retro-home-on-wheels-a-beautiful-1972-boles-aero/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T03:30:21+00:00</news:publication_date>
-      <news:title>Retro Home-On-Wheels: A Beautiful 1972 Boles Aero</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Boles-Aero-Travel-Trailer-Hero.jpg</image:loc>
-      <image:title>Retro Home-On-Wheels: A Beautiful 1972 Boles Aero</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/you-need-a-new-car-go-electric-its-superior-technology-part-2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T02:59:56+00:00</news:publication_date>
-      <news:title>You Need A New Car? Go Electric! It&#x27;s Superior Technology. Part 2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/4985.-2026-Tesla-Base-RWD-Model-Y.-Lindon-Utah.-November-3-2026.-Fritz-Hasler-Photo-scaled.jpg</image:loc>
-      <image:title>You Need A New Car? Go Electric! It&#x27;s Superior Technology. Part 2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/you-need-a-new-car-go-electric-its-superior-technology-part-1/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T01:35:21+00:00</news:publication_date>
-      <news:title>You Need A New Car? Go Electric! It&#x27;s Superior Technology! Part 1</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/4985.-2026-Tesla-Base-RWD-Model-Y.-Lindon-Utah.-November-3-2026.-Fritz-Hasler-Photo-scaled.jpg</image:loc>
-      <image:title>You Need A New Car? Go Electric! It&#x27;s Superior Technology! Part 1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-motor-group-outlines-future-mobility-technology-roadmap-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T00:48:55+00:00</news:publication_date>
-      <news:title>Hyundai Motor Group Outlines Future Mobility Technology Roadmap at FISITA World Mobility Summit 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Hyundai-Motor-Group-outlines-future-mobility-technology-roadmap-at-fisita-world-mobility-summit-2026.jpg</image:loc>
-      <image:title>Hyundai Motor Group Outlines Future Mobility Technology Roadmap at FISITA World Mobility Summit 2026</image:title>
     </image:image>
   </url>
 </urlset>
