@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-09T19:57:46Z</lastmod>
+    <lastmod>2026-11-09T23:10:55Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-09T19:57:46Z</lastmod>
+    <lastmod>2026-11-09T23:10:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-09T19:57:46Z</lastmod>
+    <lastmod>2026-11-09T23:10:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-09T19:57:46Z</lastmod>
+    <lastmod>2026-11-09T23:10:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-09T19:57:46Z</lastmod>
+    <lastmod>2026-11-09T23:10:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-09T19:57:46Z</lastmod>
+    <lastmod>2026-11-09T23:10:55Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2026-mercedes-benz-e450/</loc>
+    <lastmod>2026-11-09T22:20:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b016c432-38b8-4c19-83fd-11d8822baead.jpg?crop=0.797xw:0.598xh;0.028xw,0.29xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2026 Mercedes-Benz E450</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2026-mercedes-benz-e450/</loc>
+    <lastmod>2026-11-09T22:20:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b016c432-38b8-4c19-83fd-11d8822baead.jpg?crop=0.797xw:0.598xh;0.028xw,0.29xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2026 Mercedes-Benz E450</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/10000-miles-with-our-2026-mercedes-benz-e450-and-the-love-bombing/</loc>
+    <lastmod>2026-11-09T22:16:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b2629d0e-ff17-4ade-b162-e6c84fe3941d.jpg?crop=0.81xw:0.607xh;0.09xw,0.209xh&amp;resize=1200:*</image:loc>
+      <image:title>10,000 Miles with Our 2026 Mercedes-Benz E450, and the Love Bombing Continues</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/10000-miles-with-our-2026-mercedes-benz-e450-and-the-love-bombing/</loc>
+    <lastmod>2026-11-09T22:16:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b2629d0e-ff17-4ade-b162-e6c84fe3941d.jpg?crop=0.81xw:0.607xh;0.09xw,0.209xh&amp;resize=1200:*</image:loc>
+      <image:title>10,000 Miles with Our 2026 Mercedes-Benz E450, and the Love Bombing Continues</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-mercedes-benz-eqs-drove-539-miles-on-a-single-charge-still-wo/</loc>
+    <lastmod>2026-11-09T21:49:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Mercedes-EQS-real-world-EV-range-2.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The Mercedes-Benz EQS drove 539 miles on a single charge. Still worried about range?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-mercedes-benz-eqs-drove-539-miles-on-a-single-charge-still-wo/</loc>
+    <lastmod>2026-11-09T21:49:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Mercedes-EQS-real-world-EV-range-2.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The Mercedes-Benz EQS drove 539 miles on a single charge. Still worried about range?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/alpinas-first-ev-will-be-based-on-the-bmw-i7-and-oh-yeah-baby-itl/</loc>
+    <lastmod>2026-11-09T21:47:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/alpinas-first-ev-will-be-based-on-the-bmw-i7-and-oh-yeah-baby-itll-come-in-brown/l-intro-1794260751.jpg</image:loc>
+      <image:title>Alpina&#x27;s First EV Will Be Based On The BMW i7, And Oh Yeah Baby, It&#x27;ll Come In Brown</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/alpinas-first-ev-will-be-based-on-the-bmw-i7-and-oh-yeah-baby-itl/</loc>
+    <lastmod>2026-11-09T21:47:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/alpinas-first-ev-will-be-based-on-the-bmw-i7-and-oh-yeah-baby-itll-come-in-brown/l-intro-1794260751.jpg</image:loc>
+      <image:title>Alpina&#x27;s First EV Will Be Based On The BMW i7, And Oh Yeah Baby, It&#x27;ll Come In Brown</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/iihs-founder-warned-drivers-about-the-dangers-of-speed-almost-a-d/</loc>
+    <lastmod>2026-11-09T21:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/iihs-founder-warned-drivers-about-the-dangers-of-speed-almost-a-decade-before-he-started-the-organization-whats-streaming/l-intro-1794257478.jpg</image:loc>
+      <image:title>IIHS Founder Warned Drivers About The Dangers Of Speed Almost A Decade Before He Started The Organization: What&#x27;s Streaming</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/iihs-founder-warned-drivers-about-the-dangers-of-speed-almost-a-d/</loc>
+    <lastmod>2026-11-09T21:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/iihs-founder-warned-drivers-about-the-dangers-of-speed-almost-a-decade-before-he-started-the-organization-whats-streaming/l-intro-1794257478.jpg</image:loc>
+      <image:title>IIHS Founder Warned Drivers About The Dangers Of Speed Almost A Decade Before He Started The Organization: What&#x27;s Streaming</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/flock-cameras-can-still-record-license-plates-using-infrared-your/</loc>
+    <lastmod>2026-11-09T21:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/damn-your-trash-bags-and-canceled-contracts-flocks-still-recording-vehicles-with-infrared/l-intro-1794251515.jpg</image:loc>
+      <image:title>Flock Cameras Can Still Record License Plates Using Infrared, Your Trash Bags And Canceled Contracts Be Damned</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/flock-cameras-can-still-record-license-plates-using-infrared-your/</loc>
+    <lastmod>2026-11-09T21:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/damn-your-trash-bags-and-canceled-contracts-flocks-still-recording-vehicles-with-infrared/l-intro-1794251515.jpg</image:loc>
+      <image:title>Flock Cameras Can Still Record License Plates Using Infrared, Your Trash Bags And Canceled Contracts Be Damned</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ive-solved-the-72-hour-ev-test-drive-conundrum-and-every-automake/</loc>
+    <lastmod>2026-11-09T20:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/ive-solved-the-72-hour-ev-test-drive-conundrum-and-every-automaker-is-free-to-steal-my-idea-except-tesla/l-intro-1793732848.jpg</image:loc>
+      <image:title>I&#x27;ve Solved The 72-Hour EV Test Drive Conundrum, And Every Automaker Is Free To Steal My Idea (Except Tesla)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ive-solved-the-72-hour-ev-test-drive-conundrum-and-every-automake/</loc>
+    <lastmod>2026-11-09T20:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/ive-solved-the-72-hour-ev-test-drive-conundrum-and-every-automaker-is-free-to-steal-my-idea-except-tesla/l-intro-1793732848.jpg</image:loc>
+      <image:title>I&#x27;ve Solved The 72-Hour EV Test Drive Conundrum, And Every Automaker Is Free To Steal My Idea (Except Tesla)</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/ford-under-investigation-for-airbags-that-cause-burn-injuries/</loc>
@@ -178,6 +318,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/west-yorkshires-229-million-bus-decisions-will-outlast-its-operat/</loc>
+    <lastmod>2026-11-09T17:06:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/4ac74446-d406-4d50-8023-8885fd3f2d7f_1600x900.png</image:loc>
+      <image:title>West Yorkshire&#x27;s £229 Million Bus Decisions Will Outlast Its Operating Contracts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/west-yorkshires-229-million-bus-decisions-will-outlast-its-operat/</loc>
+    <lastmod>2026-11-09T17:06:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/4ac74446-d406-4d50-8023-8885fd3f2d7f_1600x900.png</image:loc>
+      <image:title>West Yorkshire&#x27;s £229 Million Bus Decisions Will Outlast Its Operating Contracts</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/uber-launches-parking-service-following-spothero-acquisition-with/</loc>
     <lastmod>2026-11-09T17:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -258,6 +418,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/byd-is-going-all-out-on-its-ultra-luxury-ev-with-coach-doors-and-/</loc>
+    <lastmod>2026-11-09T15:32:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Yangwang-Altior-debut.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD is going all out on its ultra-luxury EV with coach doors and 1,000+ km of range [Images]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-is-going-all-out-on-its-ultra-luxury-ev-with-coach-doors-and-/</loc>
+    <lastmod>2026-11-09T15:32:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Yangwang-Altior-debut.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD is going all out on its ultra-luxury EV with coach doors and 1,000+ km of range [Images]</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/these-are-the-worst-road-trips-youve-ever-taken/</loc>
     <lastmod>2026-11-09T15:25:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -335,6 +515,46 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>LiveWire just showed off its biggest electric motorcycle lineup yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/baaja-remains-fundamentally-flawed-despite-managers-amendment/</loc>
+    <lastmod>2026-11-09T15:10:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Judge-Gavel-Court-CleanTechnica-Watermark.png</image:loc>
+      <image:title>BAAJA Remains Fundamentally Flawed Despite Manager&#x27;s Amendment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/baaja-remains-fundamentally-flawed-despite-managers-amendment/</loc>
+    <lastmod>2026-11-09T15:10:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Judge-Gavel-Court-CleanTechnica-Watermark.png</image:loc>
+      <image:title>BAAJA Remains Fundamentally Flawed Despite Manager&#x27;s Amendment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-/</loc>
+    <lastmod>2026-11-09T15:03:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/04/New-BYD-Seal-Europe-blue.jpeg</image:loc>
+      <image:title>EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-/</loc>
+    <lastmod>2026-11-09T15:03:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/04/New-BYD-Seal-Europe-blue.jpeg</image:loc>
+      <image:title>EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago</image:title>
     </image:image>
   </url>
   <url>
@@ -458,6 +678,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/force-motors-to-launch-traveller-evs-in-q1-2027/</loc>
+    <lastmod>2026-11-09T13:10:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Force-Traveller-EV-Rendering.jpg</image:loc>
+      <image:title>Force Motors To Launch Traveller EVs In Q1 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/force-motors-to-launch-traveller-evs-in-q1-2027/</loc>
+    <lastmod>2026-11-09T13:10:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Force-Traveller-EV-Rendering.jpg</image:loc>
+      <image:title>Force Motors To Launch Traveller EVs In Q1 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/nissan-brings-back-the-patrol-name-on-the-2027-armada-pro-4x/</loc>
     <lastmod>2026-11-09T13:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -518,6 +758,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/going-the-distance-these-electric-semi-trucks-cover-over-600-mile/</loc>
+    <lastmod>2026-11-09T12:33:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/1000km_mercedes.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Going the distance: these electric semi trucks cover over 600 miles EVERY DAY</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/going-the-distance-these-electric-semi-trucks-cover-over-600-mile/</loc>
+    <lastmod>2026-11-09T12:33:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/1000km_mercedes.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Going the distance: these electric semi trucks cover over 600 miles EVERY DAY</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/20-years-in-the-factory-crate-a-yamaha-yzf-r6-in-time-capsule-con/</loc>
     <lastmod>2026-11-09T12:30:33+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -535,6 +795,26 @@
     <image:image>
       <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Yamaha-YZF-R6-Superbike-2-1.jpg</image:loc>
       <image:title>20 Years In The Factory Crate! A Yamaha YZF-R6 In Time Capsule Condition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-the-racing-bulls-pendulum-is-swinging-back-towards-lawson/</loc>
+    <lastmod>2026-11-09T11:54:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-3.motorsport.com/images/amp/YK15ARz0/s6/liam-lawson-racing-bulls-3.jpg</image:loc>
+      <image:title>How the Racing Bulls pendulum is swinging back towards Lawson</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-the-racing-bulls-pendulum-is-swinging-back-towards-lawson/</loc>
+    <lastmod>2026-11-09T11:54:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-3.motorsport.com/images/amp/YK15ARz0/s6/liam-lawson-racing-bulls-3.jpg</image:loc>
+      <image:title>How the Racing Bulls pendulum is swinging back towards Lawson</image:title>
     </image:image>
   </url>
   <url>
@@ -598,6 +878,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/piastri-and-webber-terminate-management-agreement/</loc>
+    <lastmod>2026-11-09T08:43:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/0Zq8VN46/s6/oscar-piastri-mclaren-with-mar-2.jpg</image:loc>
+      <image:title>Piastri and Webber terminate management agreement</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/piastri-and-webber-terminate-management-agreement/</loc>
+    <lastmod>2026-11-09T08:43:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/0Zq8VN46/s6/oscar-piastri-mclaren-with-mar-2.jpg</image:loc>
+      <image:title>Piastri and Webber terminate management agreement</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-/</loc>
     <lastmod>2026-11-09T08:43:01+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -615,6 +915,26 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-turn/l-intro-1794129125.jpg</image:loc>
       <image:title>BYD&#x27;s Yangwang Altior Is A $310k Rolls-Royce Copycat That Can Tank-Turn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-yangwang-altior-comes-to-the-fore-as-a-flagship-luxury-statem/</loc>
+    <lastmod>2026-11-09T08:30:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BYD-Yangwang-Altior-.jpg</image:loc>
+      <image:title>BYD Yangwang Altior Comes To The Fore As A Flagship Luxury Statement</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-yangwang-altior-comes-to-the-fore-as-a-flagship-luxury-statem/</loc>
+    <lastmod>2026-11-09T08:30:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BYD-Yangwang-Altior-.jpg</image:loc>
+      <image:title>BYD Yangwang Altior Comes To The Fore As A Flagship Luxury Statement</image:title>
     </image:image>
   </url>
   <url>
@@ -2715,326 +3035,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/is-the-five-year-rule-for-tires-still-true/l-intro-1793383804.jpg</image:loc>
       <image:title>Is The &#x27;Five-Year Rule&#x27; For Tires Still True?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/we-tried-audis-revised-infotainment-system-to-see-if-its-better/</loc>
-    <lastmod>2026-11-07T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/original-16333-my27-a6-sportback-e-tron-interior-apple-carplay-5952-6986573011585.jpg</image:loc>
-      <image:title>We Tried Audi&#x27;s Revised Infotainment System to See If It&#x27;s Better</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/we-tried-audis-revised-infotainment-system-to-see-if-its-better/</loc>
-    <lastmod>2026-11-07T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/original-16333-my27-a6-sportback-e-tron-interior-apple-carplay-5952-6986573011585.jpg</image:loc>
-      <image:title>We Tried Audi&#x27;s Revised Infotainment System to See If It&#x27;s Better</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/are-these-9-concepts-and-sporty-coupés-pre-ford-mustang-pony-cars/</loc>
-    <lastmod>2026-11-07T13:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/are-these-9-concepts-and-sporty-coups-pre-ford-mustang-pony-cars/l-intro-1793383970.jpg</image:loc>
-      <image:title>Are These 9 Concepts And Sporty Coupés Pre-Ford Mustang Pony Cars?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/are-these-9-concepts-and-sporty-coupés-pre-ford-mustang-pony-cars/</loc>
-    <lastmod>2026-11-07T13:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/are-these-9-concepts-and-sporty-coups-pre-ford-mustang-pony-cars/l-intro-1793383970.jpg</image:loc>
-      <image:title>Are These 9 Concepts And Sporty Coupés Pre-Ford Mustang Pony Cars?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/buc-ees-ceo-said-he-didnt-want-to-operate-in-blue-states-and-now-/</loc>
-    <lastmod>2026-11-07T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/buc-ees-ceo-said-he-didnt-want-to-operate-in-blue-states-and-now-theres-stores-in-at-least-five-more/l-intro-1793925272.jpg</image:loc>
-      <image:title>Buc-Ee&#x27;s CEO Said He Didn&#x27;t Want To Operate In Blue States, And Now There&#x27;s Stores In At Least Five More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/buc-ees-ceo-said-he-didnt-want-to-operate-in-blue-states-and-now-/</loc>
-    <lastmod>2026-11-07T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/buc-ees-ceo-said-he-didnt-want-to-operate-in-blue-states-and-now-theres-stores-in-at-least-five-more/l-intro-1793925272.jpg</image:loc>
-      <image:title>Buc-Ee&#x27;s CEO Said He Didn&#x27;t Want To Operate In Blue States, And Now There&#x27;s Stores In At Least Five More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2w-retail-sales-oct-2026-honda-hero-tvs-bajaj-re-suzuki-yamaha-at/</loc>
-    <lastmod>2026-11-07T13:17:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/06/tvs-apache-160-sales-new.jpeg</image:loc>
-      <image:title>2W Retail Sales Oct 2026 - Honda, Hero, TVS, Bajaj, RE, Suzuki, Yamaha, Ather, Ola</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2w-retail-sales-oct-2026-honda-hero-tvs-bajaj-re-suzuki-yamaha-at/</loc>
-    <lastmod>2026-11-07T13:17:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/06/tvs-apache-160-sales-new.jpeg</image:loc>
-      <image:title>2W Retail Sales Oct 2026 - Honda, Hero, TVS, Bajaj, RE, Suzuki, Yamaha, Ather, Ola</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tata-motors-offering-discounts-of-up-to-rs-335-lakh-on-evs/</loc>
-    <lastmod>2026-11-07T13:00:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Tata-Harrier-EV-3.jpg</image:loc>
-      <image:title>Tata Motors Offering Discounts Of Up To Rs. 3.35 Lakh On EVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tata-motors-offering-discounts-of-up-to-rs-335-lakh-on-evs/</loc>
-    <lastmod>2026-11-07T13:00:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Tata-Harrier-EV-3.jpg</image:loc>
-      <image:title>Tata Motors Offering Discounts Of Up To Rs. 3.35 Lakh On EVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/iridium-vs-platinum-spark-plugs-are-there-performance-or-efficien/</loc>
-    <lastmod>2026-11-07T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/iridium-vs-platinum-spark-plugs-are-there-performance-or-efficiency-differences/l-intro-1793283040.jpg</image:loc>
-      <image:title>Iridium Vs. Platinum Spark Plugs: Are There Performance Or Efficiency Differences?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/iridium-vs-platinum-spark-plugs-are-there-performance-or-efficien/</loc>
-    <lastmod>2026-11-07T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/iridium-vs-platinum-spark-plugs-are-there-performance-or-efficiency-differences/l-intro-1793283040.jpg</image:loc>
-      <image:title>Iridium Vs. Platinum Spark Plugs: Are There Performance Or Efficiency Differences?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/harbinger-scores-another-240m-in-latest-investment-round/</loc>
-    <lastmod>2026-11-07T12:53:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/harbinger_EV.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Harbinger scores another $240M in latest investment round</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/harbinger-scores-another-240m-in-latest-investment-round/</loc>
-    <lastmod>2026-11-07T12:53:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/harbinger_EV.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Harbinger scores another $240M in latest investment round</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/yamahas-new-electric-scooter-takes-aim-at-europes-125cc-commuters/</loc>
-    <lastmod>2026-11-07T12:30:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/XENTER-E-yamaha-electric-scooter-charging-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Yamaha&#x27;s new electric scooter takes aim at Europe&#x27;s 125cc commuters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/yamahas-new-electric-scooter-takes-aim-at-europes-125cc-commuters/</loc>
-    <lastmod>2026-11-07T12:30:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/XENTER-E-yamaha-electric-scooter-charging-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Yamaha&#x27;s new electric scooter takes aim at Europe&#x27;s 125cc commuters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bezzecchi-dominates-for-qatar-motogp-pole/</loc>
-    <lastmod>2026-11-07T12:29:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361081_HiRes.jpg</image:loc>
-      <image:title>Bezzecchi dominates for Qatar MotoGP pole</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bezzecchi-dominates-for-qatar-motogp-pole/</loc>
-    <lastmod>2026-11-07T12:29:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361081_HiRes.jpg</image:loc>
-      <image:title>Bezzecchi dominates for Qatar MotoGP pole</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-ford-maverick-has-some-clever-hidden-features-most-people-don/</loc>
-    <lastmod>2026-11-07T12:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-ford-maverick-has-some-clever-hidden-features-most-people-dont-know-about/l-intro-1793702138.jpg</image:loc>
-      <image:title>The Ford Maverick Has Some Clever Hidden Features Most People Don&#x27;t Know About</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-ford-maverick-has-some-clever-hidden-features-most-people-don/</loc>
-    <lastmod>2026-11-07T12:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-ford-maverick-has-some-clever-hidden-features-most-people-dont-know-about/l-intro-1793702138.jpg</image:loc>
-      <image:title>The Ford Maverick Has Some Clever Hidden Features Most People Don&#x27;t Know About</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-american-6-canadian-workhorse-w56-arrives-in-the-true-north/</loc>
-    <lastmod>2026-11-07T12:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/workhorse_canada.png?w=1600</image:loc>
-      <image:title>5 American, 6 Canadian: Workhorse W56 arrives in the True North</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-american-6-canadian-workhorse-w56-arrives-in-the-true-north/</loc>
-    <lastmod>2026-11-07T12:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/workhorse_canada.png?w=1600</image:loc>
-      <image:title>5 American, 6 Canadian: Workhorse W56 arrives in the True North</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-just-showed-off-its-first-high-end-electric-mountain-bike/</loc>
-    <lastmod>2026-11-07T11:51:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/honda-rn0-electric-mountain-bike-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Honda just showed off its first high-end electric mountain bike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-just-showed-off-its-first-high-end-electric-mountain-bike/</loc>
-    <lastmod>2026-11-07T11:51:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/honda-rn0-electric-mountain-bike-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Honda just showed off its first high-end electric mountain bike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gary-andersons-verdict-on-mclarens-2027-leaning-upgrade/</loc>
-    <lastmod>2026-11-07T10:54:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452205_HiRes.jpg</image:loc>
-      <image:title>Gary Anderson&#x27;s verdict on McLaren&#x27;s 2027-leaning upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gary-andersons-verdict-on-mclarens-2027-leaning-upgrade/</loc>
-    <lastmod>2026-11-07T10:54:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452205_HiRes.jpg</image:loc>
-      <image:title>Gary Anderson&#x27;s verdict on McLaren&#x27;s 2027-leaning upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/diesel-pickups-get-better-mpgs-than-gas-but-is-it-enough-to-count/</loc>
-    <lastmod>2026-11-07T10:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/diesel-pickups-get-better-mpgs-than-gas-but-is-it-enough-to-counteract-diesel-prices/l-intro-1792675042.jpg</image:loc>
-      <image:title>Diesel Pickups Get Better MPGs Than Gas, But Is It Enough To Counteract Diesel Prices?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/diesel-pickups-get-better-mpgs-than-gas-but-is-it-enough-to-count/</loc>
-    <lastmod>2026-11-07T10:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/diesel-pickups-get-better-mpgs-than-gas-but-is-it-enough-to-counteract-diesel-prices/l-intro-1792675042.jpg</image:loc>
-      <image:title>Diesel Pickups Get Better MPGs Than Gas, But Is It Enough To Counteract Diesel Prices?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-maruti-electric-mpv-to-be-unveiled-in-february-2027/</loc>
-    <lastmod>2026-11-07T10:00:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/06/New-Maruti-MPV-Rendering-2.jpg</image:loc>
-      <image:title>New Maruti Electric MPV To Be Unveiled In February 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-maruti-electric-mpv-to-be-unveiled-in-february-2027/</loc>
-    <lastmod>2026-11-07T10:00:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/06/New-Maruti-MPV-Rendering-2.jpg</image:loc>
-      <image:title>New Maruti Electric MPV To Be Unveiled In February 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-be-7-spied-in-bkc-mumbai-with-gnss-receiver-on-roof/</loc>
-    <lastmod>2026-11-07T07:45:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-be-7-spied-with-gnss-receiver-cover.jpg</image:loc>
-      <image:title>Mahindra BE 7 Spied In BKC Mumbai</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mahindra-be-7-spied-in-bkc-mumbai-with-gnss-receiver-on-roof/</loc>
-    <lastmod>2026-11-07T07:45:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-be-7-spied-with-gnss-receiver-cover.jpg</image:loc>
-      <image:title>Mahindra BE 7 Spied In BKC Mumbai</image:title>
     </image:image>
   </url>
 </urlset>
