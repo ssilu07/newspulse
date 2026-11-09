@@ -3,39 +3,139 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-08T22:16:26Z</lastmod>
+    <lastmod>2026-11-09T01:59:40Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-08T22:16:26Z</lastmod>
+    <lastmod>2026-11-09T01:59:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-08T22:16:26Z</lastmod>
+    <lastmod>2026-11-09T01:59:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-08T22:16:26Z</lastmod>
+    <lastmod>2026-11-09T01:59:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-08T22:16:26Z</lastmod>
+    <lastmod>2026-11-09T01:59:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-08T22:16:26Z</lastmod>
+    <lastmod>2026-11-09T01:59:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-500e-isnt-fiats-smallest-car-but-it-is-the-only-one-you-can-d/</loc>
+    <lastmod>2026-11-09T00:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-500e-isnt-fiats-smallest-car-but-it-is-the-only-one-you-can-drive-on-us-highways/l-intro-1793724303.jpg</image:loc>
+      <image:title>The 500e Isn&#x27;t Fiat&#x27;s Smallest Car, But It Is The Only One You Can Drive On US Highways</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-500e-isnt-fiats-smallest-car-but-it-is-the-only-one-you-can-d/</loc>
+    <lastmod>2026-11-09T00:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-500e-isnt-fiats-smallest-car-but-it-is-the-only-one-you-can-drive-on-us-highways/l-intro-1793724303.jpg</image:loc>
+      <image:title>The 500e Isn&#x27;t Fiat&#x27;s Smallest Car, But It Is The Only One You Can Drive On US Highways</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-mercedes-said-about-race-losing-driver-spins/</loc>
+    <lastmod>2026-11-08T23:32:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453556_HiRes.jpg</image:loc>
+      <image:title>What Mercedes said about race-losing driver spins</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-mercedes-said-about-race-losing-driver-spins/</loc>
+    <lastmod>2026-11-08T23:32:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453556_HiRes.jpg</image:loc>
+      <image:title>What Mercedes said about race-losing driver spins</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-chevy-traxs-2000-price-increase-makes-sense/</loc>
+    <lastmod>2026-11-08T23:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-chevy-traxs-2000-price-increase-makes-sense/l-intro-1794008583.jpg</image:loc>
+      <image:title>2027 Chevy Trax&#x27;s $2,000 Price Increase Makes Sense</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-chevy-traxs-2000-price-increase-makes-sense/</loc>
+    <lastmod>2026-11-08T23:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-chevy-traxs-2000-price-increase-makes-sense/l-intro-1794008583.jpg</image:loc>
+      <image:title>2027 Chevy Trax&#x27;s $2,000 Price Increase Makes Sense</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/heres-why-the-electric-dirt-bikes-from-tractor-supply-arent-stree/</loc>
+    <lastmod>2026-11-08T23:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/heres-why-the-electric-dirt-bikes-from-tractor-supply-arent-street-legal/l-intro-1793655593.jpg</image:loc>
+      <image:title>Here&#x27;s Why The Electric Dirt Bikes From Tractor Supply Aren&#x27;t Street Legal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/heres-why-the-electric-dirt-bikes-from-tractor-supply-arent-stree/</loc>
+    <lastmod>2026-11-08T23:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/heres-why-the-electric-dirt-bikes-from-tractor-supply-arent-street-legal/l-intro-1793655593.jpg</image:loc>
+      <image:title>Here&#x27;s Why The Electric Dirt Bikes From Tractor Supply Aren&#x27;t Street Legal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnic/</loc>
+    <lastmod>2026-11-08T22:37:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026.11-jackery-homepower-plus-v2-red-cross-edition-portable-power-battery-KYLE-12.jpg</image:loc>
+      <image:title>The Jackery HomePower 2000 Plus v2 Red Cross Edition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnic/</loc>
+    <lastmod>2026-11-08T22:37:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026.11-jackery-homepower-plus-v2-red-cross-edition-portable-power-battery-KYLE-12.jpg</image:loc>
+      <image:title>The Jackery HomePower 2000 Plus v2 Red Cross Edition</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/7-sleek-sports-cars-ranked-worst-to-best-by-drag-coefficient/</loc>
@@ -75,6 +175,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/5-classic-pony-cars-and-their-modern-equivalents/l-intro-1793996046.jpg</image:loc>
       <image:title>5 Classic Pony Cars And Their Modern Equivalents</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/leclerc-loses-two-points-for-repeating-his-gp2-move/</loc>
+    <lastmod>2026-11-08T21:42:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453788_HiRes-1.jpg</image:loc>
+      <image:title>Leclerc loses two points for repeating his &#x27;GP2 move</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/leclerc-loses-two-points-for-repeating-his-gp2-move/</loc>
+    <lastmod>2026-11-08T21:42:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453788_HiRes-1.jpg</image:loc>
+      <image:title>Leclerc loses two points for repeating his &#x27;GP2 move</image:title>
     </image:image>
   </url>
   <url>
@@ -178,6 +298,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/so-youve-hit-a-deer-with-your-car-now-what/</loc>
+    <lastmod>2026-11-08T20:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/so-youve-hit-a-deer-with-your-car-now-what/l-intro-1793218340.jpg</image:loc>
+      <image:title>So You&#x27;ve Hit A Deer With Your Car. Now What?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/so-youve-hit-a-deer-with-your-car-now-what/</loc>
+    <lastmod>2026-11-08T20:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/so-youve-hit-a-deer-with-your-car-now-what/l-intro-1793218340.jpg</image:loc>
+      <image:title>So You&#x27;ve Hit A Deer With Your Car. Now What?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bigger-than-godzilla/</loc>
     <lastmod>2026-11-08T19:29:31+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -195,6 +335,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Godzilla-Wind-Turbine.jpg</image:loc>
       <image:title>Bigger than Godzilla!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-cont/</loc>
+    <lastmod>2026-11-08T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-control/l-intro-1794008424.jpg</image:loc>
+      <image:title>AI Comes For Drag Racers&#x27; Jobs As GM Patents Automated Launch Control</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-cont/</loc>
+    <lastmod>2026-11-08T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-control/l-intro-1794008424.jpg</image:loc>
+      <image:title>AI Comes For Drag Racers&#x27; Jobs As GM Patents Automated Launch Control</image:title>
     </image:image>
   </url>
   <url>
@@ -2875,166 +3035,6 @@
     <image:image>
       <image:loc>https://cdn-9.motorsport.com/images/amp/0R7BMbg2/s6/fred-vasseur-ferrari-2.jpg</image:loc>
       <image:title>Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/us-automakers-still-pushing-for-complete-ban-of-chinese-cars/</loc>
-    <lastmod>2026-11-06T18:41:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/u-s-automakers-still-pushing-for-complete-ban-of-chinese-cars/l-intro-1793990084.jpg</image:loc>
-      <image:title>U.S. Automakers Still Pushing For Complete Ban Of Chinese Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/us-automakers-still-pushing-for-complete-ban-of-chinese-cars/</loc>
-    <lastmod>2026-11-06T18:41:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/u-s-automakers-still-pushing-for-complete-ban-of-chinese-cars/l-intro-1793990084.jpg</image:loc>
-      <image:title>U.S. Automakers Still Pushing For Complete Ban Of Chinese Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/uk-police-get-a-lift-to-stop-suspected-thief-on-a-bicycle/</loc>
-    <lastmod>2026-11-06T17:45:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/uk-police-get-a-lift-to-stop-suspected-thief-on-a-bicycle/l-intro-1793986182.jpg</image:loc>
-      <image:title>UK Police Get A Lift To Stop Suspected Thief On A Bicycle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/uk-police-get-a-lift-to-stop-suspected-thief-on-a-bicycle/</loc>
-    <lastmod>2026-11-06T17:45:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/uk-police-get-a-lift-to-stop-suspected-thief-on-a-bicycle/l-intro-1793986182.jpg</image:loc>
-      <image:title>UK Police Get A Lift To Stop Suspected Thief On A Bicycle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-ford-mustang-gtd/</loc>
-    <lastmod>2026-11-06T17:39:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-ford-mustang-gtd-103-copy-6902326adbe93.jpg?crop=0.568xw:0.426xh;0.136xw,0.366xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Ford Mustang GTD</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-ford-mustang-gtd/</loc>
-    <lastmod>2026-11-06T17:39:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-ford-mustang-gtd-103-copy-6902326adbe93.jpg?crop=0.568xw:0.426xh;0.136xw,0.366xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Ford Mustang GTD</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-jeep-recon-ev/</loc>
-    <lastmod>2026-11-06T17:34:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cf7c1e48-f45b-41de-8fea-c76e5b52a45f.jpg?crop=0.492xw:0.369xh;0.331xw,0.363xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Jeep Recon EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-jeep-recon-ev/</loc>
-    <lastmod>2026-11-06T17:34:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cf7c1e48-f45b-41de-8fea-c76e5b52a45f.jpg?crop=0.492xw:0.369xh;0.331xw,0.363xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Jeep Recon EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-buick-envista/</loc>
-    <lastmod>2026-11-06T17:31:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-buick-envista-avenir-118-68d54b042265f.jpg?crop=0.53xw:0.398xh;0.25xw,0.433xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Buick Envista</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-buick-envista/</loc>
-    <lastmod>2026-11-06T17:31:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-buick-envista-avenir-118-68d54b042265f.jpg?crop=0.53xw:0.398xh;0.25xw,0.433xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Buick Envista</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mopars-ev-swapped-gtx-sema-car-finally-gets-the-hellcat-it-deserv/</loc>
-    <lastmod>2026-11-06T17:29:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mopars-ev-swapped-gtx-sema-car-finally-gets-the-hellcat-it-deserves/l-intro-1793984838.jpg</image:loc>
-      <image:title>Mopar&#x27;s EV-Swapped GTX SEMA Car Finally Gets The Hellcat It Deserves</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mopars-ev-swapped-gtx-sema-car-finally-gets-the-hellcat-it-deserv/</loc>
-    <lastmod>2026-11-06T17:29:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mopars-ev-swapped-gtx-sema-car-finally-gets-the-hellcat-it-deserves/l-intro-1793984838.jpg</image:loc>
-      <image:title>Mopar&#x27;s EV-Swapped GTX SEMA Car Finally Gets The Hellcat It Deserves</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-lotus-evija/</loc>
-    <lastmod>2026-11-06T17:28:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0b073009-13a8-4cea-9d7d-372ca9e7681a.jpg?crop=0.488xw:0.366xh;0.262xw,0.298xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Lotus Evija</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-lotus-evija/</loc>
-    <lastmod>2026-11-06T17:28:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0b073009-13a8-4cea-9d7d-372ca9e7681a.jpg?crop=0.488xw:0.366xh;0.262xw,0.298xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Lotus Evija</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-spacex-lost-420-billion-in-market-cap-this-week-didnt-have-/</loc>
-    <lastmod>2026-11-06T17:27:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/12/Tesla-Cybertruck-unveiling-event-truck-KYLE-Elon-Musk-CleanTechnica.jpg</image:loc>
-      <image:title>Tesla &amp; SpaceX Lost $420 Billion In Market Cap This Week - Didn&#x27;t Have To Be This Way</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-spacex-lost-420-billion-in-market-cap-this-week-didnt-have-/</loc>
-    <lastmod>2026-11-06T17:27:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/12/Tesla-Cybertruck-unveiling-event-truck-KYLE-Elon-Musk-CleanTechnica.jpg</image:loc>
-      <image:title>Tesla &amp; SpaceX Lost $420 Billion In Market Cap This Week - Didn&#x27;t Have To Be This Way</image:title>
     </image:image>
   </url>
 </urlset>

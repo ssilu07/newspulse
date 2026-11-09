@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/the-500e-isnt-fiats-smallest-car-but-it-is-the-only-one-you-can-d/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T00:25:00+00:00</news:publication_date>
+      <news:title>The 500e Isn&#x27;t Fiat&#x27;s Smallest Car, But It Is The Only One You Can Drive On US Highways</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-500e-isnt-fiats-smallest-car-but-it-is-the-only-one-you-can-drive-on-us-highways/l-intro-1793724303.jpg</image:loc>
+      <image:title>The 500e Isn&#x27;t Fiat&#x27;s Smallest Car, But It Is The Only One You Can Drive On US Highways</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-mercedes-said-about-race-losing-driver-spins/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T23:32:25+00:00</news:publication_date>
+      <news:title>What Mercedes said about race-losing driver spins</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453556_HiRes.jpg</image:loc>
+      <image:title>What Mercedes said about race-losing driver spins</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-chevy-traxs-2000-price-increase-makes-sense/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T23:25:00+00:00</news:publication_date>
+      <news:title>2027 Chevy Trax&#x27;s $2,000 Price Increase Makes Sense</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-chevy-traxs-2000-price-increase-makes-sense/l-intro-1794008583.jpg</image:loc>
+      <image:title>2027 Chevy Trax&#x27;s $2,000 Price Increase Makes Sense</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/heres-why-the-electric-dirt-bikes-from-tractor-supply-arent-stree/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T23:05:00+00:00</news:publication_date>
+      <news:title>Here&#x27;s Why The Electric Dirt Bikes From Tractor Supply Aren&#x27;t Street Legal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/heres-why-the-electric-dirt-bikes-from-tractor-supply-arent-street-legal/l-intro-1793655593.jpg</image:loc>
+      <image:title>Here&#x27;s Why The Electric Dirt Bikes From Tractor Supply Aren&#x27;t Street Legal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnic/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T22:37:06+00:00</news:publication_date>
+      <news:title>The Jackery HomePower 2000 Plus v2 Red Cross Edition</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026.11-jackery-homepower-plus-v2-red-cross-edition-portable-power-battery-KYLE-12.jpg</image:loc>
+      <image:title>The Jackery HomePower 2000 Plus v2 Red Cross Edition</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/7-sleek-sports-cars-ranked-worst-to-best-by-drag-coefficient/</loc>
     <news:news>
       <news:publication>
@@ -30,6 +105,21 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/5-classic-pony-cars-and-their-modern-equivalents/l-intro-1793996046.jpg</image:loc>
       <image:title>5 Classic Pony Cars And Their Modern Equivalents</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/leclerc-loses-two-points-for-repeating-his-gp2-move/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T21:42:34+00:00</news:publication_date>
+      <news:title>Leclerc loses two points for repeating his &#x27;GP2 move</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453788_HiRes-1.jpg</image:loc>
+      <image:title>Leclerc loses two points for repeating his &#x27;GP2 move</image:title>
     </image:image>
   </url>
   <url>
@@ -108,6 +198,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/so-youve-hit-a-deer-with-your-car-now-what/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T20:25:00+00:00</news:publication_date>
+      <news:title>So You&#x27;ve Hit A Deer With Your Car. Now What?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/so-youve-hit-a-deer-with-your-car-now-what/l-intro-1793218340.jpg</image:loc>
+      <image:title>So You&#x27;ve Hit A Deer With Your Car. Now What?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bigger-than-godzilla/</loc>
     <news:news>
       <news:publication>
@@ -120,6 +225,21 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Godzilla-Wind-Turbine.jpg</image:loc>
       <image:title>Bigger than Godzilla!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-cont/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T19:25:00+00:00</news:publication_date>
+      <news:title>AI Comes For Drag Racers&#x27; Jobs As GM Patents Automated Launch Control</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-control/l-intro-1794008424.jpg</image:loc>
+      <image:title>AI Comes For Drag Racers&#x27; Jobs As GM Patents Automated Launch Control</image:title>
     </image:image>
   </url>
   <url>
@@ -1680,66 +1800,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
       <image:title>Solar Industry Shows Hope After US Election, Focuses On Key Message</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/amazon-set-to-deploy-more-than-3000-tata-electric-delivery-trucks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T01:43:36+00:00</news:publication_date>
-      <news:title>Amazon set to deploy more than 3,000 TATA electric delivery trucks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/amazon-tatamotors.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Amazon set to deploy more than 3,000 TATA electric delivery trucks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tampa-community-turns-out-for-sierra-clubs-power-perspectives-the/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T01:30:38+00:00</news:publication_date>
-      <news:title>Tampa Community Turns Out for Sierra Club&#x27;s &#x27;Power &amp; Perspectives: The Energy Dialogue</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Tampa-pexels.jpg</image:loc>
-      <image:title>Tampa Community Turns Out for Sierra Club&#x27;s &#x27;Power &amp; Perspectives: The Energy Dialogue</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/winners-losers-from-f1-2026-brazilian-gp-friday-practice/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T23:25:22+00:00</news:publication_date>
-      <news:title>Winners &amp; losers from F1 2026 Brazilian GP Friday practice</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452065_HiRes.jpg</image:loc>
-      <image:title>Winners &amp; losers from F1 2026 Brazilian GP Friday practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/dangerous-but-also-brilliant/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T22:24:10+00:00</news:publication_date>
-      <news:title>Dangerous&#x27; but also &#x27;brilliant</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451516_HiRes.jpg</image:loc>
-      <image:title>Dangerous&#x27; but also &#x27;brilliant</image:title>
     </image:image>
   </url>
 </urlset>
