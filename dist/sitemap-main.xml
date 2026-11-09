@@ -3,39 +3,339 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-09T09:58:38Z</lastmod>
+    <lastmod>2026-11-09T15:15:31Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-09T09:58:38Z</lastmod>
+    <lastmod>2026-11-09T15:15:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-09T09:58:38Z</lastmod>
+    <lastmod>2026-11-09T15:15:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-09T09:58:38Z</lastmod>
+    <lastmod>2026-11-09T15:15:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-09T09:58:38Z</lastmod>
+    <lastmod>2026-11-09T15:15:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-09T09:58:38Z</lastmod>
+    <lastmod>2026-11-09T15:15:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/everything-we-learned-from-f1s-2026-brazilian-grand-prix/</loc>
+    <lastmod>2026-11-09T15:15:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202611080333_hires_jpeg_24bit_rgb.jpg</image:loc>
+      <image:title>Everything we learned from F1&#x27;s 2026 Brazilian Grand Prix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/everything-we-learned-from-f1s-2026-brazilian-grand-prix/</loc>
+    <lastmod>2026-11-09T15:15:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202611080333_hires_jpeg_24bit_rgb.jpg</image:loc>
+      <image:title>Everything we learned from F1&#x27;s 2026 Brazilian Grand Prix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/livewire-just-showed-off-its-biggest-electric-motorcycle-lineup-y/</loc>
+    <lastmod>2026-11-09T15:13:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>LiveWire just showed off its biggest electric motorcycle lineup yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/livewire-just-showed-off-its-biggest-electric-motorcycle-lineup-y/</loc>
+    <lastmod>2026-11-09T15:13:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>LiveWire just showed off its biggest electric motorcycle lineup yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/são-paulo-grand-prix-proves-f1-can-still-thrill-in-the-rain/</loc>
+    <lastmod>2026-11-09T14:41:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/sao-paulo-grand-prix-proves-f1-can-still-thrill-in-the-rain/l-intro-1794234669.jpg</image:loc>
+      <image:title>São Paulo Grand Prix Proves F1 Can Still Thrill In The Rain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/são-paulo-grand-prix-proves-f1-can-still-thrill-in-the-rain/</loc>
+    <lastmod>2026-11-09T14:41:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/sao-paulo-grand-prix-proves-f1-can-still-thrill-in-the-rain/l-intro-1794234669.jpg</image:loc>
+      <image:title>São Paulo Grand Prix Proves F1 Can Still Thrill In The Rain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-launches-robotaxi-in-san-antonio-with-a-274-sq-mi-geofence-/</loc>
+    <lastmod>2026-11-09T14:36:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-robotaxi-san-antonio-geofence.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-launches-robotaxi-in-san-antonio-with-a-274-sq-mi-geofence-/</loc>
+    <lastmod>2026-11-09T14:36:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-robotaxi-san-antonio-geofence.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/musk-says-cybertruck-isnt-dying-from-weak-sales-the-numbers-disag/</loc>
+    <lastmod>2026-11-09T13:56:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-production-April-2024.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Musk says Cybertruck isn&#x27;t dying from weak sales</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/musk-says-cybertruck-isnt-dying-from-weak-sales-the-numbers-disag/</loc>
+    <lastmod>2026-11-09T13:56:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-production-April-2024.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Musk says Cybertruck isn&#x27;t dying from weak sales</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-deci/</loc>
+    <lastmod>2026-11-09T13:43:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1600,1067</image:loc>
+      <image:title>Musk says Tesla will refund some Cybertruck deposits, defends decision to end production</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-deci/</loc>
+    <lastmod>2026-11-09T13:43:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1600,1067</image:loc>
+      <image:title>Musk says Tesla will refund some Cybertruck deposits, defends decision to end production</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/subcompact-suvs-may-seem-appealing-but-compact-cars-are-often-a-b/</loc>
+    <lastmod>2026-11-09T13:25:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/72569410-7b72-4b61-8b47-5e57f8d558e2.jpg</image:loc>
+      <image:title>Subcompact SUVs May Seem Appealing, but Compact Cars Are Often a Better Buy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/subcompact-suvs-may-seem-appealing-but-compact-cars-are-often-a-b/</loc>
+    <lastmod>2026-11-09T13:25:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/72569410-7b72-4b61-8b47-5e57f8d558e2.jpg</image:loc>
+      <image:title>Subcompact SUVs May Seem Appealing, but Compact Cars Are Often a Better Buy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-8000-could-this-1977-cadillac-seville-milan-get-you-to-go-shor/</loc>
+    <lastmod>2026-11-09T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-8000-could-this-1977-cadillac-seville-milan-get-you-to-go-short/l-intro-1793992773.jpg</image:loc>
+      <image:title>At $8,000, Could This 1977 Cadillac Seville Milan Get You To Go Short?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-8000-could-this-1977-cadillac-seville-milan-get-you-to-go-shor/</loc>
+    <lastmod>2026-11-09T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-8000-could-this-1977-cadillac-seville-milan-get-you-to-go-short/l-intro-1793992773.jpg</image:loc>
+      <image:title>At $8,000, Could This 1977 Cadillac Seville Milan Get You To Go Short?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nissan-brings-back-the-patrol-name-on-the-2027-armada-pro-4x/</loc>
+    <lastmod>2026-11-09T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b84c8d8f-d87d-443e-85d3-8e1ed1fe588d.jpg</image:loc>
+      <image:title>Nissan Brings Back the Patrol Name on the 2027 Armada Pro-4X</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nissan-brings-back-the-patrol-name-on-the-2027-armada-pro-4x/</loc>
+    <lastmod>2026-11-09T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b84c8d8f-d87d-443e-85d3-8e1ed1fe588d.jpg</image:loc>
+      <image:title>Nissan Brings Back the Patrol Name on the 2027 Armada Pro-4X</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/electric-dirt-bikes-keep-getting-called-e-bikes-the-bicycle-indus/</loc>
+    <lastmod>2026-11-09T12:54:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/yozma-in10-pro-e-moto-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Electric dirt bikes keep getting called e-bikes. The bicycle industry wants that to stop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/electric-dirt-bikes-keep-getting-called-e-bikes-the-bicycle-indus/</loc>
+    <lastmod>2026-11-09T12:54:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/yozma-in10-pro-e-moto-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Electric dirt bikes keep getting called e-bikes. The bicycle industry wants that to stop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/cv-retail-sales-oct-2026-tata-mahindra-ashok-leyland-vecv-maruti-/</loc>
+    <lastmod>2026-11-09T12:35:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/tata-trucks-sales-aug-2026.jpg</image:loc>
+      <image:title>CV Retail Sales Oct 2026 - Tata, Mahindra, Ashok Leyland, VECV, Maruti, Force, Daimler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cv-retail-sales-oct-2026-tata-mahindra-ashok-leyland-vecv-maruti-/</loc>
+    <lastmod>2026-11-09T12:35:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/tata-trucks-sales-aug-2026.jpg</image:loc>
+      <image:title>CV Retail Sales Oct 2026 - Tata, Mahindra, Ashok Leyland, VECV, Maruti, Force, Daimler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/20-years-in-the-factory-crate-a-yamaha-yzf-r6-in-time-capsule-con/</loc>
+    <lastmod>2026-11-09T12:30:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Yamaha-YZF-R6-Superbike-2-1.jpg</image:loc>
+      <image:title>20 Years In The Factory Crate! A Yamaha YZF-R6 In Time Capsule Condition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/20-years-in-the-factory-crate-a-yamaha-yzf-r6-in-time-capsule-con/</loc>
+    <lastmod>2026-11-09T12:30:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Yamaha-YZF-R6-Superbike-2-1.jpg</image:loc>
+      <image:title>20 Years In The Factory Crate! A Yamaha YZF-R6 In Time Capsule Condition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-expands-robotaxi-service-to-san-antonio/</loc>
+    <lastmod>2026-11-09T11:30:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1600,1067</image:loc>
+      <image:title>Tesla expands robotaxi service to San Antonio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-expands-robotaxi-service-to-san-antonio/</loc>
+    <lastmod>2026-11-09T11:30:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1600,1067</image:loc>
+      <image:title>Tesla expands robotaxi service to San Antonio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-fear-martin-banished-with-his-injured-qatar-gp-ride/</loc>
+    <lastmod>2026-11-09T11:01:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1362284_HiRes-1.jpg</image:loc>
+      <image:title>The &#x27;fear&#x27; Martin banished with his injured Qatar GP ride</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-fear-martin-banished-with-his-injured-qatar-gp-ride/</loc>
+    <lastmod>2026-11-09T11:01:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1362284_HiRes-1.jpg</image:loc>
+      <image:title>The &#x27;fear&#x27; Martin banished with his injured Qatar GP ride</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/which-generation-of-hyundai-tucson-is-safest-according-to-the-iih/</loc>
+    <lastmod>2026-11-09T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/which-generation-of-hyundai-tucson-is-safest-according-to-the-iihs/l-intro-1793381171.jpg</image:loc>
+      <image:title>Which Generation Of Hyundai Tucson Is Safest According To The IIHS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/which-generation-of-hyundai-tucson-is-safest-according-to-the-iih/</loc>
+    <lastmod>2026-11-09T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/which-generation-of-hyundai-tucson-is-safest-according-to-the-iihs/l-intro-1793381171.jpg</image:loc>
+      <image:title>Which Generation Of Hyundai Tucson Is Safest According To The IIHS</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-/</loc>
@@ -155,6 +455,26 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-atto-2-spied-in-chennai-before-launch-2.jpg</image:loc>
       <image:title>BYD Atto 2 Spied In Chennai</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/electric-2w-sales-oct-2026-tvs-bajaj-ather-hero-ola-river-bgauss/</loc>
+    <lastmod>2026-11-09T06:26:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/05/tvs-iqube-2024-launch.jpg</image:loc>
+      <image:title>Electric 2W Sales Oct 2026 - TVS, Bajaj, Ather, Hero, Ola, River, Bgauss</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/electric-2w-sales-oct-2026-tvs-bajaj-ather-hero-ola-river-bgauss/</loc>
+    <lastmod>2026-11-09T06:26:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/05/tvs-iqube-2024-launch.jpg</image:loc>
+      <image:title>Electric 2W Sales Oct 2026 - TVS, Bajaj, Ather, Hero, Ola, River, Bgauss</image:title>
     </image:image>
   </url>
   <url>
@@ -2715,326 +3035,6 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451516_HiRes.jpg</image:loc>
       <image:title>Dangerous&#x27; but also &#x27;brilliant</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-kia-telluride-x-pro-review-the-looks-get-your-attention-the-/</loc>
-    <lastmod>2026-11-06T22:12:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/2027-kia-telluride-x-pro-review-the-looks-get-your-attention-the-cabin-wins-you-over/l-intro-1794003142.jpg</image:loc>
-      <image:title>2027 Kia Telluride X-Pro Review: The Looks Get Your Attention, The Cabin Wins You Over</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-kia-telluride-x-pro-review-the-looks-get-your-attention-the-/</loc>
-    <lastmod>2026-11-06T22:12:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/2027-kia-telluride-x-pro-review-the-looks-get-your-attention-the-cabin-wins-you-over/l-intro-1794003142.jpg</image:loc>
-      <image:title>2027 Kia Telluride X-Pro Review: The Looks Get Your Attention, The Cabin Wins You Over</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/apollos-newest-electric-scooter-is-also-its-lowest-cost-yet/</loc>
-    <lastmod>2026-11-06T21:46:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/apollo-scooter-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Apollo&#x27;s newest electric scooter is also its lowest-cost yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/apollos-newest-electric-scooter-is-also-its-lowest-cost-yet/</loc>
-    <lastmod>2026-11-06T21:46:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/apollo-scooter-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Apollo&#x27;s newest electric scooter is also its lowest-cost yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-dealer-sued-for-obnoxious-ai-robocalls-to-a-guy-who-didnt-w/</loc>
-    <lastmod>2026-11-06T21:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/honda-dealer-sued-for-obnoxious-ai-robocalls-to-a-guy-who-didnt-want-to-sell-them-his-car/l-intro-1793905630.jpg</image:loc>
-      <image:title>Honda Dealer Sued For &#x27;Obnoxious&#x27; AI Robocalls To A Guy Who Didn&#x27;t Want To Sell Them His Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-dealer-sued-for-obnoxious-ai-robocalls-to-a-guy-who-didnt-w/</loc>
-    <lastmod>2026-11-06T21:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/honda-dealer-sued-for-obnoxious-ai-robocalls-to-a-guy-who-didnt-want-to-sell-them-his-car/l-intro-1793905630.jpg</image:loc>
-      <image:title>Honda Dealer Sued For &#x27;Obnoxious&#x27; AI Robocalls To A Guy Who Didn&#x27;t Want To Sell Them His Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/porsche-launches-espresso-machine-with-a-ducktail-spoiler/</loc>
-    <lastmod>2026-11-06T21:11:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/porsche-launches-espresso-machine-with-a-ducktail-spoiler/l-intro-1793999026.jpg</image:loc>
-      <image:title>Porsche Launches Espresso Machine With A Ducktail Spoiler</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/porsche-launches-espresso-machine-with-a-ducktail-spoiler/</loc>
-    <lastmod>2026-11-06T21:11:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/porsche-launches-espresso-machine-with-a-ducktail-spoiler/l-intro-1793999026.jpg</image:loc>
-      <image:title>Porsche Launches Espresso Machine With A Ducktail Spoiler</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-yangwang-u9-xtreme-just-set-two-guinness-world-speed-records/</loc>
-    <lastmod>2026-11-06T21:01:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a665391b-6c49-4723-a971-f17a144bba21.jpeg</image:loc>
-      <image:title>The Yangwang U9 Xtreme Just Set Two Guinness World Speed Records</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-yangwang-u9-xtreme-just-set-two-guinness-world-speed-records/</loc>
-    <lastmod>2026-11-06T21:01:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a665391b-6c49-4723-a971-f17a144bba21.jpeg</image:loc>
-      <image:title>The Yangwang U9 Xtreme Just Set Two Guinness World Speed Records</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/you-can-now-buy-a-c8-corvette-with-a-manual-but-it-doesnt-come-fr/</loc>
-    <lastmod>2026-11-06T20:57:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/you-can-now-buy-a-c8-corvette-with-a-manual-but-it-doesnt-come-from-chevy/l-intro-1793998077.jpg</image:loc>
-      <image:title>You Can Now Buy A C8 Corvette With A Manual, But It Doesn&#x27;t Come From Chevy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/you-can-now-buy-a-c8-corvette-with-a-manual-but-it-doesnt-come-fr/</loc>
-    <lastmod>2026-11-06T20:57:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/you-can-now-buy-a-c8-corvette-with-a-manual-but-it-doesnt-come-from-chevy/l-intro-1793998077.jpg</image:loc>
-      <image:title>You Can Now Buy A C8 Corvette With A Manual, But It Doesn&#x27;t Come From Chevy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/you-can-now-rent-a-tesla-with-fsd-on-turo/</loc>
-    <lastmod>2026-11-06T20:48:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/you-can-now-rent-a-tesla-with-fsd-on-turo/l-intro-1793997566.jpg</image:loc>
-      <image:title>You Can Now Rent A Tesla With FSD On Turo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/you-can-now-rent-a-tesla-with-fsd-on-turo/</loc>
-    <lastmod>2026-11-06T20:48:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/you-can-now-rent-a-tesla-with-fsd-on-turo/l-intro-1793997566.jpg</image:loc>
-      <image:title>You Can Now Rent A Tesla With FSD On Turo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/evgo-opens-its-first-tesla-superchargers-with-hundreds-more-plann/</loc>
-    <lastmod>2026-11-06T20:44:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/EVGo-supercharger-site-Chicago.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>EVgo opens its first Tesla Superchargers, with hundreds more planned</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/evgo-opens-its-first-tesla-superchargers-with-hundreds-more-plann/</loc>
-    <lastmod>2026-11-06T20:44:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/EVGo-supercharger-site-Chicago.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>EVgo opens its first Tesla Superchargers, with hundreds more planned</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-is-launching-this-5-seat-luxury-electric-suv-next-week-with-o/</loc>
-    <lastmod>2026-11-06T20:32:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-launch.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD is launching this 5-seat luxury electric SUV next week with over 1,000 km of range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-is-launching-this-5-seat-luxury-electric-suv-next-week-with-o/</loc>
-    <lastmod>2026-11-06T20:32:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-launch.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD is launching this 5-seat luxury electric SUV next week with over 1,000 km of range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/deputy-accused-of-using-flock-to-track-estranged-wife/</loc>
-    <lastmod>2026-11-06T20:22:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/deputy-accused-of-using-flock-to-track-estranged-wife/l-intro-1793996161.jpg</image:loc>
-      <image:title>Deputy Accused Of Using Flock To Track Estranged Wife</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/deputy-accused-of-using-flock-to-track-estranged-wife/</loc>
-    <lastmod>2026-11-06T20:22:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/deputy-accused-of-using-flock-to-track-estranged-wife/l-intro-1793996161.jpg</image:loc>
-      <image:title>Deputy Accused Of Using Flock To Track Estranged Wife</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/wolff-backs-motogps-handling-of-calendar-dissent/</loc>
-    <lastmod>2026-11-06T20:20:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1447156_HiRes.jpg</image:loc>
-      <image:title>Wolff backs MotoGP&#x27;s handling of calendar dissent</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/wolff-backs-motogps-handling-of-calendar-dissent/</loc>
-    <lastmod>2026-11-06T20:20:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1447156_HiRes.jpg</image:loc>
-      <image:title>Wolff backs MotoGP&#x27;s handling of calendar dissent</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-happened-in-f1-2026-brazilian-gp-second-practice/</loc>
-    <lastmod>2026-11-06T20:14:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452061_HiRes.jpg</image:loc>
-      <image:title>Drama &amp; Chaos: What Really Happened In F1 2026 Brazilian GP second practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-happened-in-f1-2026-brazilian-gp-second-practice/</loc>
-    <lastmod>2026-11-06T20:14:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452061_HiRes.jpg</image:loc>
-      <image:title>Drama &amp; Chaos: What Really Happened In F1 2026 Brazilian GP second practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2028-subaru-getaway/</loc>
-    <lastmod>2026-11-06T20:13:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cd212b86-7f22-4eb0-90eb-49ee4864a234.jpg?crop=0.787xw:0.590xh;0.170xw,0.238xh&amp;resize=1200:*</image:loc>
-      <image:title>2028 Subaru Getaway</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2028-subaru-getaway/</loc>
-    <lastmod>2026-11-06T20:13:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cd212b86-7f22-4eb0-90eb-49ee4864a234.jpg?crop=0.787xw:0.590xh;0.170xw,0.238xh&amp;resize=1200:*</image:loc>
-      <image:title>2028 Subaru Getaway</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-2027-karma-gyesera-is-a-stylish-curiosity/</loc>
-    <lastmod>2026-11-06T20:13:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/dc0d92a0-c63f-484c-84a9-560be2afdde1.jpg</image:loc>
-      <image:title>The 2027 Karma Gyesera Is a Stylish Curiosity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-2027-karma-gyesera-is-a-stylish-curiosity/</loc>
-    <lastmod>2026-11-06T20:13:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/dc0d92a0-c63f-484c-84a9-560be2afdde1.jpg</image:loc>
-      <image:title>The 2027 Karma Gyesera Is a Stylish Curiosity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-karma-gyesera-grand-coupe/</loc>
-    <lastmod>2026-11-06T20:13:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d9ac2ae8-352e-454e-86ff-193a86d0c487.jpg</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Karma Gyesera Grand Coupe</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2027-karma-gyesera-grand-coupe/</loc>
-    <lastmod>2026-11-06T20:13:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d9ac2ae8-352e-454e-86ff-193a86d0c487.jpg</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Karma Gyesera Grand Coupe</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-karma-gyesera-grand-coupe/</loc>
-    <lastmod>2026-11-06T20:13:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/02f5dbec-b22f-4e25-86f0-1d82c7da2d5b.jpg</image:loc>
-      <image:title>First Look Inside: The 2027 Karma Gyesera Grand Coupe Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2027-karma-gyesera-grand-coupe/</loc>
-    <lastmod>2026-11-06T20:13:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/02f5dbec-b22f-4e25-86f0-1d82c7da2d5b.jpg</image:loc>
-      <image:title>First Look Inside: The 2027 Karma Gyesera Grand Coupe Cabin</image:title>
     </image:image>
   </url>
 </urlset>
