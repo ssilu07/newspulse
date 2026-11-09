@@ -3,39 +3,299 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-09T15:15:31Z</lastmod>
+    <lastmod>2026-11-09T19:57:46Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-09T15:15:31Z</lastmod>
+    <lastmod>2026-11-09T19:57:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-09T15:15:31Z</lastmod>
+    <lastmod>2026-11-09T19:57:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-09T15:15:31Z</lastmod>
+    <lastmod>2026-11-09T19:57:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-09T15:15:31Z</lastmod>
+    <lastmod>2026-11-09T19:57:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-09T15:15:31Z</lastmod>
+    <lastmod>2026-11-09T19:57:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-under-investigation-for-airbags-that-cause-burn-injuries/</loc>
+    <lastmod>2026-11-09T19:55:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a239116c-796f-4932-8699-88be0a1d79c4.jpg</image:loc>
+      <image:title>Ford Under Investigation for Airbags that Cause Burn Injuries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ford-under-investigation-for-airbags-that-cause-burn-injuries/</loc>
+    <lastmod>2026-11-09T19:55:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a239116c-796f-4932-8699-88be0a1d79c4.jpg</image:loc>
+      <image:title>Ford Under Investigation for Airbags that Cause Burn Injuries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nissan-brings-the-patrol-name-back-to-the-us-after-nearly-60-year/</loc>
+    <lastmod>2026-11-09T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/nissan-brings-the-patrol-name-back-to-the-u-s-after-nearly-60-years-kind-of/l-intro-1794246772.jpg</image:loc>
+      <image:title>Nissan Brings The Patrol Name Back To The U.S. After Nearly 60 Years ... Kind Of</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nissan-brings-the-patrol-name-back-to-the-us-after-nearly-60-year/</loc>
+    <lastmod>2026-11-09T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/nissan-brings-the-patrol-name-back-to-the-u-s-after-nearly-60-years-kind-of/l-intro-1794246772.jpg</image:loc>
+      <image:title>Nissan Brings The Patrol Name Back To The U.S. After Nearly 60 Years ... Kind Of</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-sells-3-electric-suvs-but-which-one-is-best-for-you/</loc>
+    <lastmod>2026-11-09T19:13:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-bZ-C-HR-bZ-Woodland-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Toyota sells 3 electric SUVs, but which one is best for you?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-sells-3-electric-suvs-but-which-one-is-best-for-you/</loc>
+    <lastmod>2026-11-09T19:13:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-bZ-C-HR-bZ-Woodland-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Toyota sells 3 electric SUVs, but which one is best for you?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/yangwangs-altior-luxury-ev-sedan-aims-for-rolls-royces-throne/</loc>
+    <lastmod>2026-11-09T18:50:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e5e32d55-d367-4eb6-a56a-e768624491a7.jpg</image:loc>
+      <image:title>Yangwang&#x27;s Altior Luxury EV Sedan Aims for Rolls-Royce&#x27;s Throne</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/yangwangs-altior-luxury-ev-sedan-aims-for-rolls-royces-throne/</loc>
+    <lastmod>2026-11-09T18:50:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e5e32d55-d367-4eb6-a56a-e768624491a7.jpg</image:loc>
+      <image:title>Yangwang&#x27;s Altior Luxury EV Sedan Aims for Rolls-Royce&#x27;s Throne</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-electric-vespa-just-got-better-where-it-actually-matters/</loc>
+    <lastmod>2026-11-09T18:48:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vespa-lettrica-header-scooter-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>The electric Vespa just got better where it actually matters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-electric-vespa-just-got-better-where-it-actually-matters/</loc>
+    <lastmod>2026-11-09T18:48:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vespa-lettrica-header-scooter-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>The electric Vespa just got better where it actually matters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-ir/</loc>
+    <lastmod>2026-11-09T17:39:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-iran-war-after-republicans-got-their-butts-kicked/l-intro-1794245876.jpg</image:loc>
+      <image:title>Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-ir/</loc>
+    <lastmod>2026-11-09T17:39:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-iran-war-after-republicans-got-their-butts-kicked/l-intro-1794245876.jpg</image:loc>
+      <image:title>Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fords-ev-batteries-retain-more-than-90-health-after-100000-miles/</loc>
+    <lastmod>2026-11-09T17:12:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Ford-EV-batteries-health.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Ford&#x27;s EV batteries retain more than 90% health after 100,000 miles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/fords-ev-batteries-retain-more-than-90-health-after-100000-miles/</loc>
+    <lastmod>2026-11-09T17:12:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Ford-EV-batteries-health.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Ford&#x27;s EV batteries retain more than 90% health after 100,000 miles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/uber-launches-parking-service-following-spothero-acquisition-with/</loc>
+    <lastmod>2026-11-09T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-83314262.jpg?resize=1600,1067</image:loc>
+      <image:title>Uber launches parking service following SpotHero acquisition, with an eye on robotaxis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/uber-launches-parking-service-following-spothero-acquisition-with/</loc>
+    <lastmod>2026-11-09T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-83314262.jpg?resize=1600,1067</image:loc>
+      <image:title>Uber launches parking service following SpotHero acquisition, with an eye on robotaxis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/musk-admits-tesla-doesnt-have-enough-talent-to-build-more-than-on/</loc>
+    <lastmod>2026-11-09T16:41:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Musk admits Tesla doesn&#x27;t have enough talent to build more than one car at a time after exodus</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/musk-admits-tesla-doesnt-have-enough-talent-to-build-more-than-on/</loc>
+    <lastmod>2026-11-09T16:41:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Musk admits Tesla doesn&#x27;t have enough talent to build more than one car at a time after exodus</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actuall/</loc>
+    <lastmod>2026-11-09T16:15:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actually-has-to-refund-deposits-before-production-shuts-down/l-intro-1794240336.jpg</image:loc>
+      <image:title>Elon Musk Insists Tesla Cybertruck Demand Is So Strong It Actually Has To Refund Deposits Before Production Shuts Down</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actuall/</loc>
+    <lastmod>2026-11-09T16:15:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actually-has-to-refund-deposits-before-production-shuts-down/l-intro-1794240336.jpg</image:loc>
+      <image:title>Elon Musk Insists Tesla Cybertruck Demand Is So Strong It Actually Has To Refund Deposits Before Production Shuts Down</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/whats-behind-piastris-split-with-webber-and-what-it-means-for-his/</loc>
+    <lastmod>2026-11-09T15:53:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-2.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg</image:loc>
+      <image:title>What&#x27;s behind Piastri&#x27;s split with Webber</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/whats-behind-piastris-split-with-webber-and-what-it-means-for-his/</loc>
+    <lastmod>2026-11-09T15:53:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-2.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg</image:loc>
+      <image:title>What&#x27;s behind Piastri&#x27;s split with Webber</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-the-worst-road-trips-youve-ever-taken/</loc>
+    <lastmod>2026-11-09T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-worst-road-trips-youve-ever-taken/l-intro-1794008812.jpg</image:loc>
+      <image:title>These Are The Worst Road Trips You&#x27;ve Ever Taken</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/these-are-the-worst-road-trips-youve-ever-taken/</loc>
+    <lastmod>2026-11-09T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-worst-road-trips-youve-ever-taken/l-intro-1794008812.jpg</image:loc>
+      <image:title>These Are The Worst Road Trips You&#x27;ve Ever Taken</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/waymo-robotaxis-kept-illegally-passing-school-buses-after-softwar/</loc>
+    <lastmod>2026-11-09T15:24:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1600,1067</image:loc>
+      <image:title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/waymo-robotaxis-kept-illegally-passing-school-buses-after-softwar/</loc>
+    <lastmod>2026-11-09T15:24:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1600,1067</image:loc>
+      <image:title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/everything-we-learned-from-f1s-2026-brazilian-grand-prix/</loc>
@@ -478,6 +738,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/honda-rebel-300-deliveries-start-in-india-first-batch-reaches-own/</loc>
+    <lastmod>2026-11-09T04:25:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/honda-rebel-300-india-delivery-start-first-owner-6.jpg</image:loc>
+      <image:title>Honda Rebel 300 Deliveries Start In India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-rebel-300-deliveries-start-in-india-first-batch-reaches-own/</loc>
+    <lastmod>2026-11-09T04:25:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/honda-rebel-300-india-delivery-start-first-owner-6.jpg</image:loc>
+      <image:title>Honda Rebel 300 Deliveries Start In India</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/here-are-5-of-todays-best-gas-sport-compacts-ranked-by-horsepower/</loc>
     <lastmod>2026-11-09T04:25:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +775,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/here-are-5-of-todays-best-gas-sport-compacts-ranked-by-horsepower/l-intro-1793385570.jpg</image:loc>
       <image:title>Here Are 5 Of Today&#x27;s Best Gas Sport Compacts, Ranked By Horsepower</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/renault-duster-13-turbo-petrol-mpfi-planned-lower-price-up-to-rs-/</loc>
+    <lastmod>2026-11-09T03:55:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/05/renault-duster-new-2.jpg</image:loc>
+      <image:title>Renault Duster 1.3 Turbo Petrol MPFi Planned</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/renault-duster-13-turbo-petrol-mpfi-planned-lower-price-up-to-rs-/</loc>
+    <lastmod>2026-11-09T03:55:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/05/renault-duster-new-2.jpg</image:loc>
+      <image:title>Renault Duster 1.3 Turbo Petrol MPFi Planned</image:title>
     </image:image>
   </url>
   <url>
@@ -895,6 +1195,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026-09-World-EV-Sales-September.png</image:loc>
       <image:title>Top Selling Electric Vehicles in the World - 32% EV Share in September!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1-2026-brazilian-grand-prix-race-result-including-penalties/</loc>
+    <lastmod>2026-11-08T18:40:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453531_HiRes.jpg</image:loc>
+      <image:title>F1 2026 Brazilian Grand Prix race result including penalties</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1-2026-brazilian-grand-prix-race-result-including-penalties/</loc>
+    <lastmod>2026-11-08T18:40:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453531_HiRes.jpg</image:loc>
+      <image:title>F1 2026 Brazilian Grand Prix race result including penalties</image:title>
     </image:image>
   </url>
   <url>
@@ -2715,326 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-be-7-spied-with-gnss-receiver-cover.jpg</image:loc>
       <image:title>Mahindra BE 7 Spied In BKC Mumbai</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/car-retail-sales-oct-2026-maruti-tata-mahindra-hyundai-kia-toyota/</loc>
-    <lastmod>2026-11-07T07:38:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/10/hyundai-india-pune-plant-venue-10.jpg</image:loc>
-      <image:title>Car Retail Sales Oct 2026 - Maruti, Tata, Mahindra, Hyundai, Kia, Toyota, Skoda VW, MG, Honda</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/car-retail-sales-oct-2026-maruti-tata-mahindra-hyundai-kia-toyota/</loc>
-    <lastmod>2026-11-07T07:38:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/10/hyundai-india-pune-plant-venue-10.jpg</image:loc>
-      <image:title>Car Retail Sales Oct 2026 - Maruti, Tata, Mahindra, Hyundai, Kia, Toyota, Skoda VW, MG, Honda</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-confirms-5-new-vehicle-launches-in-h1-2027-key-details/</loc>
-    <lastmod>2026-11-07T07:00:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/08/Mahindra-Vision-S-3.jpg</image:loc>
-      <image:title>Mahindra Confirms 5 New Vehicle Launches In H1 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mahindra-confirms-5-new-vehicle-launches-in-h1-2027-key-details/</loc>
-    <lastmod>2026-11-07T07:00:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/08/Mahindra-Vision-S-3.jpg</image:loc>
-      <image:title>Mahindra Confirms 5 New Vehicle Launches In H1 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-yangwang-u9-xtreme-shatters-500-kmph-top-speed-barrier-worlds/</loc>
-    <lastmod>2026-11-07T06:07:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Yangwang_U9_Xtreme_Record_Run_1400x800.jpg.jpeg</image:loc>
-      <image:title>BYD Yangwang U9 Xtreme Shatters 500 Kmph Top Speed Barrier - World&#x27;s First</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-yangwang-u9-xtreme-shatters-500-kmph-top-speed-barrier-worlds/</loc>
-    <lastmod>2026-11-07T06:07:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Yangwang_U9_Xtreme_Record_Run_1400x800.jpg.jpeg</image:loc>
-      <image:title>BYD Yangwang U9 Xtreme Shatters 500 Kmph Top Speed Barrier - World&#x27;s First</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-tiguan-r-line-discontinued-in-india/</loc>
-    <lastmod>2026-11-07T06:04:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/04/new-volkswagen-tiguan-r-line-launched-in-india-new-3.jpg</image:loc>
-      <image:title>Volkswagen Tiguan R-Line Discontinued In India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/volkswagen-tiguan-r-line-discontinued-in-india/</loc>
-    <lastmod>2026-11-07T06:04:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/04/new-volkswagen-tiguan-r-line-launched-in-india-new-3.jpg</image:loc>
-      <image:title>Volkswagen Tiguan R-Line Discontinued In India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-trump-about-to-reignite-his-big-ev-push/</loc>
-    <lastmod>2026-11-07T04:57:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/Xinhua_Trump_.jpeg</image:loc>
-      <image:title>Is Trump About To Reignite His Big EV Push?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/is-trump-about-to-reignite-his-big-ev-push/</loc>
-    <lastmod>2026-11-07T04:57:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/Xinhua_Trump_.jpeg</image:loc>
-      <image:title>Is Trump About To Reignite His Big EV Push?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-is-my-car-insurance-premium-so-high-gst-and-tax-invoice-check/</loc>
-    <lastmod>2026-11-07T04:30:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/car-insurance-premium.jpg</image:loc>
-      <image:title>Why Is My Car Insurance Premium So High? GST and Tax Invoice Checks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-is-my-car-insurance-premium-so-high-gst-and-tax-invoice-check/</loc>
-    <lastmod>2026-11-07T04:30:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/car-insurance-premium.jpg</image:loc>
-      <image:title>Why Is My Car Insurance Premium So High? GST and Tax Invoice Checks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nrdc-assessment-of-baaja-the-2026-permitting-transmission-bill/</loc>
-    <lastmod>2026-11-07T04:14:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/ABB-Solar-Power-Plant-SunEdison-Engineer-Nevada.jpg</image:loc>
-      <image:title>NRDC Assessment of BAAJA, the 2026 Permitting &amp; Transmission Bill</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/nrdc-assessment-of-baaja-the-2026-permitting-transmission-bill/</loc>
-    <lastmod>2026-11-07T04:14:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/ABB-Solar-Power-Plant-SunEdison-Engineer-Nevada.jpg</image:loc>
-      <image:title>NRDC Assessment of BAAJA, the 2026 Permitting &amp; Transmission Bill</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-innova-hycross-hyryder-hybrids-set-new-records-for-elevati/</loc>
-    <lastmod>2026-11-07T04:00:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-HyCross-and-Urban-Cruiser-Hyryder-Enter-Asia-Book-of-Records.jpg-1.jpeg</image:loc>
-      <image:title>Toyota Innova Hycross &amp; Hyryder Hybrids Set New Records For Elevation Gains</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-innova-hycross-hyryder-hybrids-set-new-records-for-elevati/</loc>
-    <lastmod>2026-11-07T04:00:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-HyCross-and-Urban-Cruiser-Hyryder-Enter-Asia-Book-of-Records.jpg-1.jpeg</image:loc>
-      <image:title>Toyota Innova Hycross &amp; Hyryder Hybrids Set New Records For Elevation Gains</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-f-450-gs-sport-variant-launch-price-rs-590-lakh/</loc>
-    <lastmod>2026-11-07T03:45:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/bmw-f-450-gs-sport-launched.jpg</image:loc>
-      <image:title>BMW F 450 GS Sport Variant Launch Price Rs 5.90 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-f-450-gs-sport-variant-launch-price-rs-590-lakh/</loc>
-    <lastmod>2026-11-07T03:45:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/bmw-f-450-gs-sport-launched.jpg</image:loc>
-      <image:title>BMW F 450 GS Sport Variant Launch Price Rs 5.90 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/crate-engine-a-508-bhp-chevrolet-383-stroker-v8/</loc>
-    <lastmod>2026-11-07T03:30:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Chevrolet-383-Stroker-V8-Crate-Engine-e1793695889648.jpg</image:loc>
-      <image:title>Crate Engine: A 508 BHP Chevrolet 383 Stroker V8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/crate-engine-a-508-bhp-chevrolet-383-stroker-v8/</loc>
-    <lastmod>2026-11-07T03:30:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Chevrolet-383-Stroker-V8-Crate-Engine-e1793695889648.jpg</image:loc>
-      <image:title>Crate Engine: A 508 BHP Chevrolet 383 Stroker V8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-to-launch-3-new-cars-by-june-2027-confirms-ceo/</loc>
-    <lastmod>2026-11-07T03:23:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/08/new-mahindra-scorpio-lifestyler-launched-in-india-6.jpg</image:loc>
-      <image:title>Mahindra To Launch 3 New Cars By June 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mahindra-to-launch-3-new-cars-by-june-2027-confirms-ceo/</loc>
-    <lastmod>2026-11-07T03:23:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/08/new-mahindra-scorpio-lifestyler-launched-in-india-6.jpg</image:loc>
-      <image:title>Mahindra To Launch 3 New Cars By June 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/solar-industry-shows-hope-after-us-election-focuses-on-key-messag/</loc>
-    <lastmod>2026-11-07T02:43:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Solar Industry Shows Hope After US Election, Focuses On Key Message</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/solar-industry-shows-hope-after-us-election-focuses-on-key-messag/</loc>
-    <lastmod>2026-11-07T02:43:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Solar Industry Shows Hope After US Election, Focuses On Key Message</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/amazon-set-to-deploy-more-than-3000-tata-electric-delivery-trucks/</loc>
-    <lastmod>2026-11-07T01:43:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/amazon-tatamotors.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Amazon set to deploy more than 3,000 TATA electric delivery trucks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/amazon-set-to-deploy-more-than-3000-tata-electric-delivery-trucks/</loc>
-    <lastmod>2026-11-07T01:43:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/amazon-tatamotors.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Amazon set to deploy more than 3,000 TATA electric delivery trucks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tampa-community-turns-out-for-sierra-clubs-power-perspectives-the/</loc>
-    <lastmod>2026-11-07T01:30:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Tampa-pexels.jpg</image:loc>
-      <image:title>Tampa Community Turns Out for Sierra Club&#x27;s &#x27;Power &amp; Perspectives: The Energy Dialogue</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tampa-community-turns-out-for-sierra-clubs-power-perspectives-the/</loc>
-    <lastmod>2026-11-07T01:30:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Tampa-pexels.jpg</image:loc>
-      <image:title>Tampa Community Turns Out for Sierra Club&#x27;s &#x27;Power &amp; Perspectives: The Energy Dialogue</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/winners-losers-from-f1-2026-brazilian-gp-friday-practice/</loc>
-    <lastmod>2026-11-06T23:25:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452065_HiRes.jpg</image:loc>
-      <image:title>Winners &amp; losers from F1 2026 Brazilian GP Friday practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/winners-losers-from-f1-2026-brazilian-gp-friday-practice/</loc>
-    <lastmod>2026-11-06T23:25:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452065_HiRes.jpg</image:loc>
-      <image:title>Winners &amp; losers from F1 2026 Brazilian GP Friday practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/dangerous-but-also-brilliant/</loc>
-    <lastmod>2026-11-06T22:24:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451516_HiRes.jpg</image:loc>
-      <image:title>Dangerous&#x27; but also &#x27;brilliant</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/dangerous-but-also-brilliant/</loc>
-    <lastmod>2026-11-06T22:24:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451516_HiRes.jpg</image:loc>
-      <image:title>Dangerous&#x27; but also &#x27;brilliant</image:title>
     </image:image>
   </url>
 </urlset>

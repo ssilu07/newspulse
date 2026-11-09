@@ -3,6 +3,201 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/ford-under-investigation-for-airbags-that-cause-burn-injuries/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:55:29+00:00</news:publication_date>
+      <news:title>Ford Under Investigation for Airbags that Cause Burn Injuries</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a239116c-796f-4932-8699-88be0a1d79c4.jpg</image:loc>
+      <image:title>Ford Under Investigation for Airbags that Cause Burn Injuries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nissan-brings-the-patrol-name-back-to-the-us-after-nearly-60-year/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:25:00+00:00</news:publication_date>
+      <news:title>Nissan Brings The Patrol Name Back To The U.S. After Nearly 60 Years ... Kind Of</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/nissan-brings-the-patrol-name-back-to-the-u-s-after-nearly-60-years-kind-of/l-intro-1794246772.jpg</image:loc>
+      <image:title>Nissan Brings The Patrol Name Back To The U.S. After Nearly 60 Years ... Kind Of</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-sells-3-electric-suvs-but-which-one-is-best-for-you/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:13:49+00:00</news:publication_date>
+      <news:title>Toyota sells 3 electric SUVs, but which one is best for you?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-bZ-C-HR-bZ-Woodland-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Toyota sells 3 electric SUVs, but which one is best for you?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/yangwangs-altior-luxury-ev-sedan-aims-for-rolls-royces-throne/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T18:50:06+00:00</news:publication_date>
+      <news:title>Yangwang&#x27;s Altior Luxury EV Sedan Aims for Rolls-Royce&#x27;s Throne</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e5e32d55-d367-4eb6-a56a-e768624491a7.jpg</image:loc>
+      <image:title>Yangwang&#x27;s Altior Luxury EV Sedan Aims for Rolls-Royce&#x27;s Throne</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-electric-vespa-just-got-better-where-it-actually-matters/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T18:48:00+00:00</news:publication_date>
+      <news:title>The electric Vespa just got better where it actually matters</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vespa-lettrica-header-scooter-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>The electric Vespa just got better where it actually matters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-ir/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T17:39:39+00:00</news:publication_date>
+      <news:title>Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-iran-war-after-republicans-got-their-butts-kicked/l-intro-1794245876.jpg</image:loc>
+      <image:title>Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fords-ev-batteries-retain-more-than-90-health-after-100000-miles/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T17:12:53+00:00</news:publication_date>
+      <news:title>Ford&#x27;s EV batteries retain more than 90% health after 100,000 miles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Ford-EV-batteries-health.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Ford&#x27;s EV batteries retain more than 90% health after 100,000 miles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/uber-launches-parking-service-following-spothero-acquisition-with/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T17:00:00+00:00</news:publication_date>
+      <news:title>Uber launches parking service following SpotHero acquisition, with an eye on robotaxis</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-83314262.jpg?resize=1600,1067</image:loc>
+      <image:title>Uber launches parking service following SpotHero acquisition, with an eye on robotaxis</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/musk-admits-tesla-doesnt-have-enough-talent-to-build-more-than-on/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T16:41:29+00:00</news:publication_date>
+      <news:title>Musk admits Tesla doesn&#x27;t have enough talent to build more than one car at a time after exodus</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Musk admits Tesla doesn&#x27;t have enough talent to build more than one car at a time after exodus</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actuall/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T16:15:48+00:00</news:publication_date>
+      <news:title>Elon Musk Insists Tesla Cybertruck Demand Is So Strong It Actually Has To Refund Deposits Before Production Shuts Down</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actually-has-to-refund-deposits-before-production-shuts-down/l-intro-1794240336.jpg</image:loc>
+      <image:title>Elon Musk Insists Tesla Cybertruck Demand Is So Strong It Actually Has To Refund Deposits Before Production Shuts Down</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/whats-behind-piastris-split-with-webber-and-what-it-means-for-his/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T15:53:07+00:00</news:publication_date>
+      <news:title>What&#x27;s behind Piastri&#x27;s split with Webber</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-2.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg</image:loc>
+      <image:title>What&#x27;s behind Piastri&#x27;s split with Webber</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/these-are-the-worst-road-trips-youve-ever-taken/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T15:25:00+00:00</news:publication_date>
+      <news:title>These Are The Worst Road Trips You&#x27;ve Ever Taken</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-worst-road-trips-youve-ever-taken/l-intro-1794008812.jpg</image:loc>
+      <image:title>These Are The Worst Road Trips You&#x27;ve Ever Taken</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/waymo-robotaxis-kept-illegally-passing-school-buses-after-softwar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T15:24:59+00:00</news:publication_date>
+      <news:title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1600,1067</image:loc>
+      <image:title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/everything-we-learned-from-f1s-2026-brazilian-grand-prix/</loc>
     <news:news>
       <news:publication>
@@ -333,6 +528,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/honda-rebel-300-deliveries-start-in-india-first-batch-reaches-own/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T04:25:31+00:00</news:publication_date>
+      <news:title>Honda Rebel 300 Deliveries Start In India</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/honda-rebel-300-india-delivery-start-first-owner-6.jpg</image:loc>
+      <image:title>Honda Rebel 300 Deliveries Start In India</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/here-are-5-of-todays-best-gas-sport-compacts-ranked-by-horsepower/</loc>
     <news:news>
       <news:publication>
@@ -345,6 +555,21 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/here-are-5-of-todays-best-gas-sport-compacts-ranked-by-horsepower/l-intro-1793385570.jpg</image:loc>
       <image:title>Here Are 5 Of Today&#x27;s Best Gas Sport Compacts, Ranked By Horsepower</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/renault-duster-13-turbo-petrol-mpfi-planned-lower-price-up-to-rs-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T03:55:29+00:00</news:publication_date>
+      <news:title>Renault Duster 1.3 Turbo Petrol MPFi Planned</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/05/renault-duster-new-2.jpg</image:loc>
+      <image:title>Renault Duster 1.3 Turbo Petrol MPFi Planned</image:title>
     </image:image>
   </url>
   <url>
@@ -645,6 +870,21 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026-09-World-EV-Sales-September.png</image:loc>
       <image:title>Top Selling Electric Vehicles in the World - 32% EV Share in September!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1-2026-brazilian-grand-prix-race-result-including-penalties/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T18:40:54+00:00</news:publication_date>
+      <news:title>F1 2026 Brazilian Grand Prix race result including penalties</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453531_HiRes.jpg</image:loc>
+      <image:title>F1 2026 Brazilian Grand Prix race result including penalties</image:title>
     </image:image>
   </url>
   <url>
@@ -1425,291 +1665,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/you-officially-missed-your-chance-to-buy-a-new-toyota-supra-or-bmw-z4/l-intro-1793980955.jpg</image:loc>
       <image:title>You Officially Missed Your Chance To Buy A New Toyota Supra Or BMW Z4</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/saving-the-manuals-porsches-mechanical-mecosa-vs-ferraris-electro/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T19:05:00+00:00</news:publication_date>
-      <news:title>Saving The Manuals: Porsche&#x27;s Mechanical MECOSA Vs. Ferrari&#x27;s Electronic Manuale Tech</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/saving-the-manuals-porsches-mechanical-mecosa-vs-ferraris-electronic-manuale-tech/l-intro-1793383774.jpg</image:loc>
-      <image:title>Saving The Manuals: Porsche&#x27;s Mechanical MECOSA Vs. Ferrari&#x27;s Electronic Manuale Tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/elana-scherr-chauffeur-life/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T19:00:00+00:00</news:publication_date>
-      <news:title>Elana Scherr: Chauffeur Life</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/88b2f126-72ed-4f5d-964b-0b3e270fe936.jpg</image:loc>
-      <image:title>Elana Scherr: Chauffeur Life</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-velotric-gomad-electric-utility-ebike-cleantechnica-tested/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T18:59:48+00:00</news:publication_date>
-      <news:title>The Velotric GoMad Electric Utility eBike</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026.11-velotric-gomad-ebike-electric-bicycle-california-sunset-KYLE-19.jpg</image:loc>
-      <image:title>The Velotric GoMad Electric Utility eBike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/conventional-vs-transit-design-why-some-school-buses-have-flat-fr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T18:25:00+00:00</news:publication_date>
-      <news:title>Conventional Vs. Transit Design: Why Some School Buses Have Flat Fronts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/conventional-vs-transit-design-why-some-school-buses-have-flat-fronts/l-intro-1793378443.jpg</image:loc>
-      <image:title>Conventional Vs. Transit Design: Why Some School Buses Have Flat Fronts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/brazilian-gp-qualifying-red-flagged-almost-immediately-due-to-rai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T18:15:25+00:00</news:publication_date>
-      <news:title>Brazilian GP qualifying red flagged almost immediately due to rain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452674_HiRes.jpg</image:loc>
-      <image:title>Brazilian GP qualifying red flagged almost immediately due to rain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-reason-subaru-still-builds-cars-with-boxer-engines/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T18:00:00+00:00</news:publication_date>
-      <news:title>The Reason Subaru Still Builds Cars With Boxer Engines</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/the-reason-subaru-still-builds-cars-with-boxer-engines/l-intro-1793385585.jpg</image:loc>
-      <image:title>The Reason Subaru Still Builds Cars With Boxer Engines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hamilton-gets-back-of-the-grid-penalty-for-brazilian-gp/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T17:29:24+00:00</news:publication_date>
-      <news:title>Hamilton gets back-of-the-grid penalty for Brazilian GP</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452400_HiRes.jpg</image:loc>
-      <image:title>Hamilton gets back-of-the-grid penalty for Brazilian GP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-buick-engine-that-helped-launch-the-sr-71-blackbird/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T17:25:00+00:00</news:publication_date>
-      <news:title>The Buick Engine That Helped Launch The SR-71 Blackbird</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-buick-engine-that-helped-launch-the-sr-71-blackbird/l-intro-1793637352.jpg</image:loc>
-      <image:title>The Buick Engine That Helped Launch The SR-71 Blackbird</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/cold-seawater-is-supplying-district-heat-in-esbjerg-denmark/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T17:21:36+00:00</news:publication_date>
-      <news:title>Cold Seawater Is Supplying District Heat in Esbjerg, Denmark</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Ocean_Heating_Hero_FINAL_1600x900.png</image:loc>
-      <image:title>Cold Seawater Is Supplying District Heat in Esbjerg, Denmark</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T17:05:00+00:00</news:publication_date>
-      <news:title>4 Used Cars With Oil-Burning Engines That Consumer Reports Says To Avoid</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-to-avoid/l-intro-1793635611.jpg</image:loc>
-      <image:title>4 Used Cars With Oil-Burning Engines That Consumer Reports Says To Avoid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gm-steps-on-teslas-ev-toes-with-ev1-celebration/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:52:11+00:00</news:publication_date>
-      <news:title>GM Steps On Tesla&#x27;s EV Toes With EV1 Celebration</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-8.04.13-PM.png</image:loc>
-      <image:title>GM Steps On Tesla&#x27;s EV Toes With EV1 Celebration</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/marquez-wins-qatar-sprint-after-contentious-bezzecchi-clash/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:51:59+00:00</news:publication_date>
-      <news:title>Marquez wins Qatar sprint after contentious Bezzecchi clash</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361334_HiRes.jpg</image:loc>
-      <image:title>Marquez wins Qatar sprint after contentious Bezzecchi clash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/foot-fractures-for-bagnaia-after-scary-qatar-sprint-crash/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:20:05+00:00</news:publication_date>
-      <news:title>Foot fractures for Bagnaia after scary Qatar sprint crash</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361132_HiRes.jpg</image:loc>
-      <image:title>Foot fractures for Bagnaia after scary Qatar sprint crash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:05:00+00:00</news:publication_date>
-      <news:title>Why The Nissan VQ35 Is One Of The Most Dependable V6s Ever</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/l-intro-1793370800.jpg</image:loc>
-      <image:title>Why The Nissan VQ35 Is One Of The Most Dependable V6s Ever</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-deemed-liable-for-fraud-after-solar-roof-experiment-on-a-ho/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:01:23+00:00</news:publication_date>
-      <news:title>Tesla deemed liable for fraud after Solar Roof &#x27;experiment&#x27; on a home</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla deemed liable for fraud after Solar Roof &#x27;experiment&#x27; on a home</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-focus-rs-makes-us-nostalgic-for-a-time-when-ford-built-cars-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:00:00+00:00</news:publication_date>
-      <news:title>This Focus RS Makes Us Nostalgic for a Time When Ford Built Cars Besides the Mustang</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ebf938c0-0a00-4c70-bfff-1b6ae3cf2a7a.jpg</image:loc>
-      <image:title>This Focus RS Makes Us Nostalgic for a Time When Ford Built Cars Besides the Mustang</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-happened-in-final-brazil-f1-practice/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T15:38:03+00:00</news:publication_date>
-      <news:title>Drama &amp; Chaos: What Really Happened In final Brazil F1 practice</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202611070096.jpg</image:loc>
-      <image:title>Drama &amp; Chaos: What Really Happened In final Brazil F1 practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/1992-schuppan-porsche-962r-one-mans-plan-to-put-a-group-c-race-ca/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T15:33:02+00:00</news:publication_date>
-      <news:title>1992 Schuppan Porsche 962R: One Man&#x27;s Plan to Put a Group C Race Car on the Street</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c9b98994-f031-4135-be73-e0295bc873c4.jpg?crop=0.883xw:0.662xh;0.022xw,0.101xh&amp;resize=1200:*</image:loc>
-      <image:title>1992 Schuppan Porsche 962R: One Man&#x27;s Plan to Put a Group C Race Car on the Street</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-photos-of-the-1992-schuppan-porsche-962r/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T15:32:57+00:00</news:publication_date>
-      <news:title>First Look: The 1992 Schuppan Porsche 962R Revealed In Stunning Detail</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c34953e-dc58-4f84-8335-6b543f2669bd.jpg</image:loc>
-      <image:title>First Look: The 1992 Schuppan Porsche 962R Revealed In Stunning Detail</image:title>
     </image:image>
   </url>
 </urlset>
