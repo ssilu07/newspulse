@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-09T01:59:40Z</lastmod>
+    <lastmod>2026-11-09T09:58:38Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-09T01:59:40Z</lastmod>
+    <lastmod>2026-11-09T09:58:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-09T01:59:40Z</lastmod>
+    <lastmod>2026-11-09T09:58:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-09T01:59:40Z</lastmod>
+    <lastmod>2026-11-09T09:58:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-09T01:59:40Z</lastmod>
+    <lastmod>2026-11-09T09:58:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-09T01:59:40Z</lastmod>
+    <lastmod>2026-11-09T09:58:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-/</loc>
+    <lastmod>2026-11-09T08:43:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-turn/l-intro-1794129125.jpg</image:loc>
+      <image:title>BYD&#x27;s Yangwang Altior Is A $310k Rolls-Royce Copycat That Can Tank-Turn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-/</loc>
+    <lastmod>2026-11-09T08:43:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-turn/l-intro-1794129125.jpg</image:loc>
+      <image:title>BYD&#x27;s Yangwang Altior Is A $310k Rolls-Royce Copycat That Can Tank-Turn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-mg-go-small-ev-prod-spec-spied-during-tvc-shoot/</loc>
+    <lastmod>2026-11-09T08:13:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mg-go-electric-hatchback-spied-tvc-shoot-cover.jpg</image:loc>
+      <image:title>New MG GO Small EV Prod-Spec Spied During TVC Shoot</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-mg-go-small-ev-prod-spec-spied-during-tvc-shoot/</loc>
+    <lastmod>2026-11-09T08:13:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mg-go-electric-hatchback-spied-tvc-shoot-cover.jpg</image:loc>
+      <image:title>New MG GO Small EV Prod-Spec Spied During TVC Shoot</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2028-audi-nuvolari/</loc>
+    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0f1bc901-543f-4be4-82b9-bab9c60ffb15.jpg?crop=0.795xw:0.596xh;0.107xw,0.197xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look Inside: The 2028 Audi Nuvolari Cabin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2028-audi-nuvolari/</loc>
+    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0f1bc901-543f-4be4-82b9-bab9c60ffb15.jpg?crop=0.795xw:0.596xh;0.107xw,0.197xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look Inside: The 2028 Audi Nuvolari Cabin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/track-attack-we-drive-the-2028-audi-nuvolari-to-the-limit/</loc>
+    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76c9394d-d9e8-430f-8a06-4da1b0ed12b7.jpg?crop=0.655xw:0.491xh;0.11xw,0.358xh&amp;resize=1200:*</image:loc>
+      <image:title>Track Attack: We Drive the 2028 Audi Nuvolari to the Limit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/track-attack-we-drive-the-2028-audi-nuvolari-to-the-limit/</loc>
+    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76c9394d-d9e8-430f-8a06-4da1b0ed12b7.jpg?crop=0.655xw:0.491xh;0.11xw,0.358xh&amp;resize=1200:*</image:loc>
+      <image:title>Track Attack: We Drive the 2028 Audi Nuvolari to the Limit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2028-audi-nuvolari/</loc>
+    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c1f56b8c-da2d-49e2-8365-76e32d8bfd44.jpg?crop=0.689xw:0.517xh;0.129xw,0.261xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2028 Audi Nuvolari</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2028-audi-nuvolari/</loc>
+    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c1f56b8c-da2d-49e2-8365-76e32d8bfd44.jpg?crop=0.689xw:0.517xh;0.129xw,0.261xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2028 Audi Nuvolari</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-atto-2-spied-in-chennai-sierra-ev-rival-launch-2027/</loc>
+    <lastmod>2026-11-09T06:38:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-atto-2-spied-in-chennai-before-launch-2.jpg</image:loc>
+      <image:title>BYD Atto 2 Spied In Chennai</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-atto-2-spied-in-chennai-sierra-ev-rival-launch-2027/</loc>
+    <lastmod>2026-11-09T06:38:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-atto-2-spied-in-chennai-before-launch-2.jpg</image:loc>
+      <image:title>BYD Atto 2 Spied In Chennai</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/here-are-5-of-todays-best-gas-sport-compacts-ranked-by-horsepower/</loc>
+    <lastmod>2026-11-09T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/here-are-5-of-todays-best-gas-sport-compacts-ranked-by-horsepower/l-intro-1793385570.jpg</image:loc>
+      <image:title>Here Are 5 Of Today&#x27;s Best Gas Sport Compacts, Ranked By Horsepower</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/here-are-5-of-todays-best-gas-sport-compacts-ranked-by-horsepower/</loc>
+    <lastmod>2026-11-09T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/here-are-5-of-todays-best-gas-sport-compacts-ranked-by-horsepower/l-intro-1793385570.jpg</image:loc>
+      <image:title>Here Are 5 Of Today&#x27;s Best Gas Sport Compacts, Ranked By Horsepower</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-17th-century-parisian-streetlights-were-the-og-flock-cameras/</loc>
+    <lastmod>2026-11-09T02:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-17th-century-parisian-streetlights-were-the-og-flock-cameras/l-intro-1793270313.jpg</image:loc>
+      <image:title>Why 17th-Century Parisian Streetlights Were The OG Flock Cameras</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-17th-century-parisian-streetlights-were-the-og-flock-cameras/</loc>
+    <lastmod>2026-11-09T02:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-17th-century-parisian-streetlights-were-the-og-flock-cameras/l-intro-1793270313.jpg</image:loc>
+      <image:title>Why 17th-Century Parisian Streetlights Were The OG Flock Cameras</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/the-500e-isnt-fiats-smallest-car-but-it-is-the-only-one-you-can-d/</loc>
@@ -278,6 +438,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/f1-2026s-best-race-our-verdict-on-brazil-chaos/</loc>
+    <lastmod>2026-11-08T20:50:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453426_HiRes.jpg</image:loc>
+      <image:title>F1 2026&#x27;s best race? Our verdict on Brazil chaos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1-2026s-best-race-our-verdict-on-brazil-chaos/</loc>
+    <lastmod>2026-11-08T20:50:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453426_HiRes.jpg</image:loc>
+      <image:title>F1 2026&#x27;s best race? Our verdict on Brazil chaos</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/watch-the-2027-hyundai-tucson-get-hurled-around-the-nürburgring-l/</loc>
     <lastmod>2026-11-08T20:50:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -355,6 +535,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-control/l-intro-1794008424.jpg</image:loc>
       <image:title>AI Comes For Drag Racers&#x27; Jobs As GM Patents Automated Launch Control</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/norris-wins-as-mercedes-clinches-title-with-a-scrappy-race/</loc>
+    <lastmod>2026-11-08T18:54:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453581_HiRes.jpg</image:loc>
+      <image:title>Norris wins as Mercedes clinches title with a scrappy race</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/norris-wins-as-mercedes-clinches-title-with-a-scrappy-race/</loc>
+    <lastmod>2026-11-08T18:54:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453581_HiRes.jpg</image:loc>
+      <image:title>Norris wins as Mercedes clinches title with a scrappy race</image:title>
     </image:image>
   </url>
   <url>
@@ -2835,206 +3035,6 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/02f5dbec-b22f-4e25-86f0-1d82c7da2d5b.jpg</image:loc>
       <image:title>First Look Inside: The 2027 Karma Gyesera Grand Coupe Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-brazilian-gp-antonelli-quickest-in-tricky-fp2/</loc>
-    <lastmod>2026-11-06T20:07:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/68VwEnB2/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
-      <image:title>F1 Brazilian GP: Antonelli quickest in tricky FP2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1-brazilian-gp-antonelli-quickest-in-tricky-fp2/</loc>
-    <lastmod>2026-11-06T20:07:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/68VwEnB2/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
-      <image:title>F1 Brazilian GP: Antonelli quickest in tricky FP2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/alas-poor-cybertruck-we-hardly-knew-thee/</loc>
-    <lastmod>2026-11-06T19:57:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Cybertruck.jpg</image:loc>
-      <image:title>Alas, Poor Cybertruck, We Hardly Knew Thee</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/alas-poor-cybertruck-we-hardly-knew-thee/</loc>
-    <lastmod>2026-11-06T19:57:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/12/Cybertruck.jpg</image:loc>
-      <image:title>Alas, Poor Cybertruck, We Hardly Knew Thee</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-/</loc>
-    <lastmod>2026-11-06T19:40:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-civic-hybrid/l-intro-1793993936.jpg</image:loc>
-      <image:title>This Modified Fiat Topolino Could Cost You More Than A New Honda Civic Hybrid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-/</loc>
-    <lastmod>2026-11-06T19:40:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-modified-fiat-topolino-could-cost-you-more-than-a-new-honda-civic-hybrid/l-intro-1793993936.jpg</image:loc>
-      <image:title>This Modified Fiat Topolino Could Cost You More Than A New Honda Civic Hybrid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/florida-woman-allegedly-drives-rental-rav4-120-mph-because-passen/</loc>
-    <lastmod>2026-11-06T19:39:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/florida-woman-allegedly-drives-rental-rav4-120-mph-because-passenger-was-late-for-court/l-intro-1793993509.jpg</image:loc>
-      <image:title>Florida Woman Allegedly Drives Rental RAV4 120 MPH Because Passenger Was Late For Court</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/florida-woman-allegedly-drives-rental-rav4-120-mph-because-passen/</loc>
-    <lastmod>2026-11-06T19:39:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/florida-woman-allegedly-drives-rental-rav4-120-mph-because-passenger-was-late-for-court/l-intro-1793993509.jpg</image:loc>
-      <image:title>Florida Woman Allegedly Drives Rental RAV4 120 MPH Because Passenger Was Late For Court</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-firm-has-just-turned-a-mclaren-750s-into-a-clk-gtr/</loc>
-    <lastmod>2026-11-06T19:32:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-firm-has-just-turned-a-mclaren-750s-into-a-clk-gtr/l-intro-1793992962.jpg</image:loc>
-      <image:title>This Firm Has Just Turned A McLaren 750S Into A CLK GTR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-firm-has-just-turned-a-mclaren-750s-into-a-clk-gtr/</loc>
-    <lastmod>2026-11-06T19:32:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-firm-has-just-turned-a-mclaren-750s-into-a-clk-gtr/l-intro-1793992962.jpg</image:loc>
-      <image:title>This Firm Has Just Turned A McLaren 750S Into A CLK GTR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/if-you-have-a-taste-for-the-odd-this-plymouth-prowler-might-be-pe/</loc>
-    <lastmod>2026-11-06T19:25:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/are-you-a-newly-retired-dentist-this-is-the-perfect-car-for-you/l-intro-1793991535.jpg</image:loc>
-      <image:title>If You Have A Taste For The Odd, This Plymouth Prowler Might Be Perfect For You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/if-you-have-a-taste-for-the-odd-this-plymouth-prowler-might-be-pe/</loc>
-    <lastmod>2026-11-06T19:25:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/are-you-a-newly-retired-dentist-this-is-the-perfect-car-for-you/l-intro-1793991535.jpg</image:loc>
-      <image:title>If You Have A Taste For The Odd, This Plymouth Prowler Might Be Perfect For You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-/</loc>
-    <lastmod>2026-11-06T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-from-the-past/l-intro-1793830195.jpg</image:loc>
-      <image:title>This Shocking 1997 Ford Ranger EV On Bring A Trailer Is A Splash From The Past</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-/</loc>
-    <lastmod>2026-11-06T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-shocking-1997-ford-ranger-ev-on-bring-a-trailer-is-a-splash-from-the-past/l-intro-1793830195.jpg</image:loc>
-      <image:title>This Shocking 1997 Ford Ranger EV On Bring A Trailer Is A Splash From The Past</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-r/</loc>
-    <lastmod>2026-11-06T19:24:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-rogue-hybrid/l-intro-1793992902.jpg</image:loc>
-      <image:title>Nissan Will Pay Toyota RAV4 Owners To Trade Their Car For A New Rogue Hybrid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-r/</loc>
-    <lastmod>2026-11-06T19:24:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/nissan-will-pay-toyota-rav4-owners-to-trade-their-car-for-a-new-rogue-hybrid/l-intro-1793992902.jpg</image:loc>
-      <image:title>Nissan Will Pay Toyota RAV4 Owners To Trade Their Car For A New Rogue Hybrid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-is-throwing-in-500-in-free-public-charging-with-its-new-2027-/</loc>
-    <lastmod>2026-11-06T18:50:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX3-charging-credit.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BMW is throwing in $500 in free public charging with its new 2027 iX3, i5, and i7 EVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-is-throwing-in-500-in-free-public-charging-with-its-new-2027-/</loc>
-    <lastmod>2026-11-06T18:50:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX3-charging-credit.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BMW is throwing in $500 in free public charging with its new 2027 iX3, i5, and i7 EVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/vasseur-issues-reminder-to-hamilton-and-leclerc-in-post-mexico-fe/</loc>
-    <lastmod>2026-11-06T18:46:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-9.motorsport.com/images/amp/0R7BMbg2/s6/fred-vasseur-ferrari-2.jpg</image:loc>
-      <image:title>Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/vasseur-issues-reminder-to-hamilton-and-leclerc-in-post-mexico-fe/</loc>
-    <lastmod>2026-11-06T18:46:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-9.motorsport.com/images/amp/0R7BMbg2/s6/fred-vasseur-ferrari-2.jpg</image:loc>
-      <image:title>Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks</image:title>
     </image:image>
   </url>
 </urlset>
