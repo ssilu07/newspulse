@@ -1,5 +1,697 @@
 [
   {
+    "id": "art_1794343074_7",
+    "slug": "norways-electric-snowplow-worked-sweden-added-hydrogen-anyway",
+    "category": "ai-future",
+    "category_name": "Robo-Taxis & Autonomous",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
+    "category_icon": "🤖",
+    "source": "CleanTechnica",
+    "raw_title": "Norway’s Electric Snowplow Worked. Sweden Added Hydrogen Anyway.",
+    "title": "Norway's Electric Snowplow Worked. Sweden Added Hydrogen Anyway",
+    "raw_summary": "Norway has already demonstrated battery-electric snowplowing on one of its toughest mountain highways. A Scania 45 R covered roughly 7,000 km on Hardangervidda, plowing, grading and spreading sand through a Norwegian winter. Its performance exceeded expectations. Meanwhile, Sweden has unveiled a hydrogen snowplow that is, in fact, another large battery-electric truck, with a fuel cell and hydrogen tanks added for extra range. The engineering question is why that second energy system is worth having when batteries are already doing the work, and when a conventional generator running on renewable diesel could offer a simpler, potentially cheaper route to occasional extended operation. The Swedish vehicle has to compete with more than diesel snowplows. My full TFIE Strategy Briefing examines Norway’s measured electric operation, China’s expanding snow-removal equipment market and the additional costs hydrogen must justify.",
+    "summary": "Norway has already demonstrated battery-electric snowplowing on one of its toughest mountain highways. A Scania 45 R covered roughly 7,000 km on Hardangervidda, plowing, grading and spreading sand through a Norwegian winter. Meanwhile, Sweden has unveiled a hydrogen snowplow that is, in fact, another large battery-electric truck, with a fuel cell and hydrogen tanks added for extra range.",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Snowplows_Hero_Editorial_1600x900.jpg",
+    "original_url": "https://cleantechnica.com/2026/11/10/norway-electric-snowplow-sweden-hydrogen-range-extender/",
+    "published_at": "2026-11-10T20:27:29+00:00",
+    "time_ago": "10m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Norway has already demonstrated battery-electric snowplowing on one of its toughest mountain highways. A Scania 45 R covered roughly 7,000 km on Hardangervidda, plowing, grading and spreading sand through a Norwegian winter. Its performance exceeded expectations. Meanwhile, Sweden has unveiled a hydrogen snowplow that is, in fact, another large battery-electric truck, with a fuel cell and hydrogen tanks added for extra range. The engineering question is why that second energy system is worth having when batteries are already doing the work, and when a conventional generator running on renewable diesel could offer a simpler, potentially cheaper route to occasional extended operation.",
+      "The Swedish vehicle has to compete with more than diesel snowplows. My full TFIE Strategy Briefing examines Norway’s measured electric operation, China’s expanding snow-removal equipment market and the additional costs hydrogen must justify.",
+      "Sweden’s project brings together Scania, MaserFrakt and Peab. The vehicle carries a 356 kWh rechargeable battery and 56 kg of hydrogen. The fuel cell generates electricity to extend the truck’s operating time between charging sessions. That gives the vehicle two energy-storage systems, plus the equipment to convert hydrogen into electricity. It will still need electric charging, and it will also need hydrogen production, delivery, storage and refueling.",
+      "Norway’s experience makes the starting point uncomfortable for hydrogen advocates. The Norwegian Public Roads Administration’s 2025 trial demonstrated that a production-based heavy electric truck could do demanding winter-maintenance work. Its measured consumption averaged approximately 2.02 kWh/km, with around six and a half hours of operating endurance under evaluated mixed-duty conditions. The trial identified shortcomings in charging compatibility and payload, but these were engineering and operating problems to resolve, not evidence that battery-electric snowplows were incapable of doing the job.",
+      "China is moving toward broader deployment. Municipalities have used smaller electric snow-removal equipment for years, while manufacturers have developed full-sized specialized electric vehicles. Beijing’s Mentougou district awarded contracts for 24 multifunction snow-removal trucks in September 2026. The final chassis specifications have not all been confirmed as battery-electric, but the procurement demonstrates a market moving beyond isolated demonstrations.",
+      "China’s much larger battery-electric truck industry is also providing specialized equipment manufacturers with an expanding supply of powertrains, batteries and heavy-duty chassis. Electric snowplows benefit from components developed and manufactured for freight vehicles at much greater volumes.",
+      "The Swedish approach looks increasingly difficult to justify against that background. If six or seven hours of productive operation is adequate, a battery-electric truck can already do the work. If longer shifts are required, larger batteries, better charging arrangements, mobile charging equipment or operational changes deserve assessment first. Hydrogen cannot claim the extreme-duty market merely because charging requires planning.",
+      "There is another alternative that the hydrogen comparison tends to omit. A conventional generator running on hydrotreated vegetable oil, or HVO, could supply additional electricity when the battery needs support. Diesel generators, fuel tanks and liquid-fuel distribution systems are mature technologies. Major generator manufacturers already approve suitable equipment for HVO, which can use conventional diesel-type storage and handling systems. Integrating a generator into a particular electric truck still requires engineering, certification and emissions controls, but it avoids constructing a hydrogen supply chain for a small fleet of seasonal vehicles."
+    ],
+    "bullet_points": [
+      "Norway has already demonstrated battery-electric snowplowing on one of its toughest mountain highways.",
+      "A Scania 45 R covered roughly 7,000 km on Hardangervidda, plowing, grading and spreading sand through a Norwegian winter.",
+      "Meanwhile, Sweden has unveiled a hydrogen snowplow that is, in fact, another large battery-electric truck, with a fuel cell and hydrogen tanks added for extra range."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Norway's Electric Snowplow Worked. Sweden Added Hydrogen Anyway",
+        "badge": "Breaking",
+        "text": "Norway has already demonstrated battery-electric snowplowing on one of its toughest mountain highways.",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Snowplows_Hero_Editorial_1600x900.jpg",
+        "alt": "Norway's Electric Snowplow Worked. Sweden Added Hydrogen Anyway cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "A Scania 45 R covered roughly 7,000 km on Hardangervidda, plowing, grading and spreading sand through a Norwegian winter.",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Meanwhile, Sweden has unveiled a hydrogen snowplow that is, in fact, another large battery-electric truck, with a fuel cell and hydrogen tanks added for extra range.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Robo-Taxis & Autonomous",
+        "text": "A Scania 45 R covered roughly 7,000 km on Hardangervidda, plowing, grading and spreading sand through a Norwegian winter.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 58
+  },
+  {
+    "id": "art_1794343074_5",
+    "slug": "2027-bugatti-tourbillon",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Car and Driver",
+    "raw_title": "2027 Bugatti Tourbillon",
+    "title": "2027 Bugatti Tourbillon",
+    "raw_summary": "See all results for new 2027 Bugatti Tourbillon for sale near 20147 In the world of fine chronometry, a \"tourbillon\" is a mechanical device within a watch's interior that counteracts the pull of gravity to ensure utmost accuracy. And while the Bugatti Tourbillon's artfully penned curves and handcrafted interior are just as dazzling to take in as the movement of a luxury timepiece, this four-wheeled wonder is much more than a $4.6 million piece of automotive jewelry.",
+    "summary": "See all results for new 2027 Bugatti Tourbillon for sale near 20147 In the world of fine chronometry, a \"tourbillon\" is a mechanical device within a watch's interior that counteracts the pull of gravity to ensure utmost accuracy. And while the Bugatti Tourbillon's artfully penned curves and handcrafted interior are just as dazzling to take in as the movement of a luxury timepiece, this four-wheeled wonder is much more than a $4.6 million piece of automotive jewelry.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/0b5aaf86-c235-4031-bdfa-dddcaf0f1ced.jpg?crop=0.474xw:0.356xh;0.305xw,0.497xh&resize=1200:*",
+    "original_url": "https://www.caranddriver.com/bugatti/tourbillon-2027",
+    "published_at": "2026-11-10T20:21:46+00:00",
+    "time_ago": "16m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "See all results for new 2027 Bugatti Tourbillon for sale near 20147",
+      "In the world of fine chronometry, a \"tourbillon\" is a mechanical device within a watch's interior that counteracts the pull of gravity to ensure utmost accuracy. And while the Bugatti Tourbillon's artfully penned curves and handcrafted interior are just as dazzling to take in as the movement of a luxury timepiece, this four-wheeled wonder is much more than a $4.6 million piece of automotive jewelry.",
+      "A bespoke, naturally aspirated, 8.3-liter V-16 engine nestled into its carbon-fiber body structure behind the driver cements that fact, churning out 986 horsepower on its own. The addition of three electric motors—developed by parent company and electric sports car maker Rimac —ratchets output up to 1775 horsepower, making the Tourbillon Bugatti's most powerful model yet. Inside, the Tourbillon eschews large infotainment screens and extensive driver aids for expertly milled switchgear, top-shelf materials, and a more connected driving experience—a choice that its Audemars-Piguet-wearing clientele will surely appreciate.",
+      "Expert Tip: When it comes to seven-digit hypercars that prioritize luxury craftsmanship and outright speed in equal measure, the Tourbillon is in a class of its own. However, if you want to drop a couple of commas on a car that can go like hell on a racetrack, Ferrari's newest F80 flagship will do the trick.",
+      "The Tourbillon was revealed just last year. As a result, we don’t expect any notable changes to Bugatti's flagship for 2027.",
+      "If this year's model is largely unchanged and you're comfortable with a lightly used car, you may want to consider shopping previous model years. A one-to-three-year-old model will likely have a warranty and it'll cost less than buying new.",
+      "The Tourbillon is technically a hybrid, but the star of the show is a naturally aspirated 8.3-liter V-16 engine that's been designed with help from Cosworth and makes 986 horsepower and 664 pound-feet of torque. The big block is then paired with three electric motors, which boost combined output to an incredible 1775 ponies. The engine is backed by an eight-speed dual-clutch automatic transmission and all-wheel drive. We haven't had the chance to drive one yet, but we're obviously eager to do so. When we get the chance, we'll update this story with driving impressions and test results.",
+      "Car and Driver calculates your car's value in three free and easy steps - using the same Black Book® data dealers use to appraise vehicles."
+    ],
+    "bullet_points": [
+      "See all results for new 2027 Bugatti Tourbillon for sale near 20147 In the world of fine chronometry, a \"tourbillon\" is a mechanical device within a watch's interior that counteracts the pull of gravity to ensure utmost accuracy.",
+      "And while the Bugatti Tourbillon's artfully penned curves and handcrafted interior are just as dazzling to take in as the movement of a luxury timepiece, this four-wheeled wonder is much more than a $4.6 million piece of automotive jewelry.",
+      "Official reporting verified via Car and Driver news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "2027 Bugatti Tourbillon",
+        "badge": "Breaking",
+        "text": "See all results for new 2027 Bugatti Tourbillon for sale near 20147 In the world of fine chronometry, a \"tourbillon\" is a mechanical device within a watch's interior that counteracts the pull of gravity to ensure utmost accuracy.",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/0b5aaf86-c235-4031-bdfa-dddcaf0f1ced.jpg?crop=0.474xw:0.356xh;0.305xw,0.497xh&resize=1200:*",
+        "alt": "2027 Bugatti Tourbillon cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "And while the Bugatti Tourbillon's artfully penned curves and handcrafted interior are just as dazzling to take in as the movement of a luxury timepiece, this four-wheeled wonder is much more than a $4.6 million piece of automotive jewelry.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "See all results for new 2027 Bugatti Tourbillon for sale near 20147 In the world of fine chronometry, a \"tourbillon\" is a mechanical device within a watch's interior that counteracts the pull of gravity to ensure utmost accuracy.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "And while the Bugatti Tourbillon's artfully penned curves and handcrafted interior are just as dazzling to take in as the movement of a luxury timepiece, this four-wheeled wonder is much more than a $4.6 million piece of automotive jewelry.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Car and Driver.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 77
+  },
+  {
+    "id": "art_1794343074_6",
+    "slug": "2027-mercedes-benz-sprinter",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Car and Driver",
+    "raw_title": "2027 Mercedes-Benz Sprinter",
+    "title": "2027 Mercedes-Benz Sprinter",
+    "raw_summary": "Whether you’re hauling a lot of cargo or an entire NBA roster, the Sprinter is up for the task.",
+    "summary": "Whether you’re hauling a lot of cargo or an entire NBA roster, the Sprinter is up for the task.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/2025-mercedes-benz-sprinter-110-661d4ee1b9722.jpg?crop=0.802xw:0.601xh;0.075xw,0.232xh&resize=1200:*",
+    "original_url": "https://www.caranddriver.com/mercedes-benz/sprinter-2027",
+    "published_at": "2026-11-10T20:19:05+00:00",
+    "time_ago": "18m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "See all results for new 2027 Mercedes-Benz Sprinter for sale near 20147"
+    ],
+    "bullet_points": [
+      "Whether you’re hauling a lot of cargo or an entire NBA roster, the Sprinter is up for the task.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from Car and Driver."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "2027 Mercedes-Benz Sprinter",
+        "badge": "Breaking",
+        "text": "Whether you’re hauling a lot of cargo or an entire NBA roster, the Sprinter is up for the task.",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2025-mercedes-benz-sprinter-110-661d4ee1b9722.jpg?crop=0.802xw:0.601xh;0.075xw,0.232xh&resize=1200:*",
+        "alt": "2027 Mercedes-Benz Sprinter cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Whether you’re hauling a lot of cargo or an entire NBA roster, the Sprinter is up for the task.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Whether you’re hauling a lot of cargo or an entire NBA roster, the Sprinter is up for the task.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Car and Driver.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 19
+  },
+  {
+    "id": "art_1794343074_10",
+    "slug": "michèle-mouton-driving-a-quattro-s1-up-pikes-peak-is-the-coolest-",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "Michèle Mouton Driving A Quattro S1 Up Pikes Peak Is The Coolest Way To Promote Audi's New Q7",
+    "title": "Michèle Mouton Driving A Quattro S1 Up Pikes Peak Is The Coolest Way To Promote Audi's New Q7",
+    "raw_summary": "The first thing that comes to mind when you mention Quattro is probably Audi's 1980 Group B rally car. It makes perfect sense that the German manufacturer would lean on that legacy when promoting its new Q7 and SQ7 SUVs that have the trademarked all-wheel-drive system, but the company did something much cooler for its new ad campaign: Audi reunited Michèle Mouton with a Quattro S1 at the iconic Pikes Peak hill climb. The 1982 World Rally Championship runner-up still looked at home behind the wheel of the 493-horsepower rally monster. Audi's new ad campaign titled \"Performance Runs in the Family\" features a pair of videos: a typical 30-second TV spot, and a 4-minute short with Mouton driving a Quattro S1 up Pikes Peak. During the visually stunning drive up the Colorado mountain, she reminisced about the animosity she faced during the 1985 hill climb, her winning run, and how the ascent has changed in the 41 years since.",
+    "summary": "The first thing that comes to mind when you mention Quattro is probably Audi's 1980 Group B rally car. It makes perfect sense that the German manufacturer would lean on that legacy when promoting its new Q7 and SQ7 SUVs that have the trademarked all-wheel-drive system, but the company did something much cooler for its new ad campaign: Audi reunited Michèle Mouton with a Quattro S1 at the iconic Pikes Peak hill climb.",
+    "image_url": "https://www.jalopnik.com/img/gallery/michele-mouton-driving-a-quattro-s1-up-pikes-peak-is-the-coolest-way-to-promote-audis-new-q7/l-intro-1794261471.jpg",
+    "original_url": "https://www.jalopnik.com/2311606/michele-mouton-quattro-s1-pikes-peak-audi-new-q7-ad-campaign/",
+    "published_at": "2026-11-10T19:25:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "The first thing that comes to mind when you mention Quattro is probably Audi's 1980 Group B rally car. It makes perfect sense that the German manufacturer would lean on that legacy when promoting its new Q7 and SQ7 SUVs that have the trademarked all-wheel-drive system, but the company did something much cooler for its new ad campaign: Audi reunited Michèle Mouton with a Quattro S1 at the iconic Pikes Peak hill climb. The 1982 World Rally Championship runner-up still looked at home behind the wheel of the 493-horsepower rally monster.",
+      "Audi's new ad campaign titled \"Performance Runs in the Family\" features a pair of videos: a typical 30-second TV spot, and a 4-minute short with Mouton driving a Quattro S1 up Pikes Peak. During the visually stunning drive up the Colorado mountain, she reminisced about the animosity she faced during the 1985 hill climb, her winning run, and how the ascent has changed in the 41 years since.",
+      "Mouton was the first woman and the first non-American to win the Pikes Peak International Hill Climb . The Frenchwoman set a record time of 11:25.390 up the treacherous 12.4-mile ascent, besting the previous record set by Al Unser Jr. in 1983 by 13 seconds. Mouton is still effortlessly cool, still delivering pointed one-liners as naturally as the rest of us breathe. During the revival run, she noted, \"When I was at this spot in the race, I had no time for feelings.\"",
+      "The 30-second TV spot mixes archival footage of Mouton during the Group B era with footage of a 2027 Audi SQ7 driving up Pikes Peak. To emphasize the campaign's legacy theme, the ad features Mouton alongside her daughter, Jessica. The third-generation Q7 isn't as nimble on the twisting mountain roads as a Group B rally car, but that isn't the point. The SUV's new styling looks just as aggressive and far more comfortable for a family. Vito Paladino, Audi of America's President, stated in a release:",
+      "\"Audi's story of quattro didn't end with rally racing. That connection between performance and everyday capability is what makes quattro such a defining part of our brand. The all-new Audi Q7 family carries that legacy forward, bringing together Audi's performance heritage with the innovation and engineering that define the next generation of our vehicles.\"",
+      "The 1985 Pikes Peak International Hill Climb was Mouton's last event with Audi before she departed for her farewell season with Peugeot. The Frenchwoman and her accomplishments will forever be tied to Audi. Mouton's four WRC victories with the Audi Quattro are a legacy every four-wheel-drive model produced by the German automaker inherits. It's not merely laurels to rest on, but a level of performance that Audi has to honor."
+    ],
+    "bullet_points": [
+      "The first thing that comes to mind when you mention Quattro is probably Audi's 1980 Group B rally car.",
+      "It makes perfect sense that the German manufacturer would lean on that legacy when promoting its new Q7 and SQ7 SUVs that have the trademarked all-wheel-drive system, but the company did something much cooler for its new ad campaign: Audi reunited Michèle Mouton with a Quattro S1 at the iconic Pikes Peak hill climb.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Michèle Mouton Driving A Quattro S1 Up Pikes Peak Is The Coolest Way To Promote Audi's New Q7",
+        "badge": "Breaking",
+        "text": "The first thing that comes to mind when you mention Quattro is probably Audi's 1980 Group B rally car.",
+        "image": "https://www.jalopnik.com/img/gallery/michele-mouton-driving-a-quattro-s1-up-pikes-peak-is-the-coolest-way-to-promote-audis-new-q7/l-intro-1794261471.jpg",
+        "alt": "Michèle Mouton Driving A Quattro S1 Up Pikes Peak Is The Coolest Way To Promote Audi's New Q7 cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "It makes perfect sense that the German manufacturer would lean on that legacy when promoting its new Q7 and SQ7 SUVs that have the trademarked all-wheel-drive system, but the company did something much cooler for its new ad campaign: Audi reunited Michèle Mouton with a Quattro S1 at the iconic Pikes Peak hill climb.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "The first thing that comes to mind when you mention Quattro is probably Audi's 1980 Group B rally car.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "It makes perfect sense that the German manufacturer would lean on that legacy when promoting its new Q7 and SQ7 SUVs that have the trademarked all-wheel-drive system, but the company did something much cooler for its new ad campaign: Audi reunited Michèle Mouton with a Quattro S1 at the iconic Pikes Peak hill climb.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 73
+  },
+  {
+    "id": "art_1794343074_3",
+    "slug": "the-new-bmw-i3-just-proved-how-efficient-an-ev-can-be-after-a-nea",
+    "category": "world",
+    "category_name": "EVs & Clean Mobility",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "Electrek",
+    "raw_title": "The new BMW i3 just proved how efficient an EV can be after a nearly 3,700-mile road trip",
+    "title": "The new BMW i3 just proved how efficient an EV can be after a nearly 3,700-mile road trip",
+    "raw_summary": "Who says long EV road trips mean hours at charging stations? BMW drove the new i3 for over 3 days, covering nearly 3,700 miles, and it took less than 3 hours of charging. BMW put the i3 to the ultimate test of efficiency, charging speed, and long-distance EV capability on a nearly 3,700-mile Pan-European journey.",
+    "summary": "Who says long EV road trips mean hours at charging stations? BMW drove the new i3 for over 3 days, covering nearly 3,700 miles, and it took less than 3 hours of charging. BMW put the i3 to the ultimate test of efficiency, charging speed, and long-distance EV capability on a nearly 3,700-mile Pan-European journey.",
+    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-i3-record-EV-road-trip.jpeg?quality=82&strip=all&w=1400",
+    "original_url": "https://electrek.co/2026/11/10/bmw-i3-efficiency-record-3700-mile-trip/",
+    "published_at": "2026-11-10T18:40:17+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Who says long EV road trips mean hours at charging stations? BMW drove the new i3 for over 3 days, covering nearly 3,700 miles, and it took less than 3 hours of charging.",
+      "BMW put the i3 to the ultimate test of efficiency, charging speed, and long-distance EV capability on a nearly 3,700-mile Pan-European journey.",
+      "The Paneurpeana, as it’s called, is considered the benchmark for range and charging speed. The route begins at the North Cape in Norway, the northernmost point of continental Europe you can reach by car, and ends in Tarifa, Spain, the southernmost point of mainland Europe.",
+      "BMW drove the new i3 50 xDrive for a total of 3,658 miles (5,886.7 km) across eight countries and spent just 2 hours, 45 minutes, and 54 seconds charging at an average of 275 kW.",
+      "The performance beat the previous record by more than seven hours, according to Mike Reichelt, head of BMW’s Neue Klasse",
+      "BMW said the charging points were not predetermined and that it had to account for external factors such as weather and traffic jams.",
+      "The new i3 was impressively efficient during the trip, consuming an average of just 12.5 kWh per 100 km, beating its official WLTP combined energy consumption of 18-13.4 kWh/100 km.",
+      "BMW said the trip took 3 days, 2 hours, and 41 minutes, with an average speed of 79.7 km/h, and that the i3 was charged exclusively at public charging points across national charging networks."
+    ],
+    "bullet_points": [
+      "Who says long EV road trips mean hours at charging stations?",
+      "BMW drove the new i3 for over 3 days, covering nearly 3,700 miles, and it took less than 3 hours of charging.",
+      "BMW put the i3 to the ultimate test of efficiency, charging speed, and long-distance EV capability on a nearly 3,700-mile Pan-European journey."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "The new BMW i3 just proved how efficient an EV can be after a nearly 3,700-mile road trip",
+        "badge": "Breaking",
+        "text": "Who says long EV road trips mean hours at charging stations?",
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-i3-record-EV-road-trip.jpeg?quality=82&strip=all&w=1400",
+        "alt": "The new BMW i3 just proved how efficient an EV can be after a nearly 3,700-mile road trip cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "BMW drove the new i3 for over 3 days, covering nearly 3,700 miles, and it took less than 3 hours of charging.",
+        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "BMW put the i3 to the ultimate test of efficiency, charging speed, and long-distance EV capability on a nearly 3,700-mile Pan-European journey.",
+        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "EVs & Clean Mobility",
+        "text": "BMW drove the new i3 for over 3 days, covering nearly 3,700 miles, and it took less than 3 hours of charging.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Electrek.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 55
+  },
+  {
+    "id": "art_1794343074_4",
+    "slug": "garmin-and-waze-just-teamed-up-on-a-clever-new-way-to-keep-cyclis",
+    "category": "world",
+    "category_name": "EVs & Clean Mobility",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "Electrek",
+    "raw_title": "Garmin and Waze just teamed up on a clever new way to keep cyclists safer",
+    "title": "Garmin and Waze just teamed up on a clever new way to keep cyclists safer",
+    "raw_summary": "Garmin and Waze are teaming up on an interesting new safety feature that could give cyclists a little extra protection when sharing the road with cars – by making cyclists themselves show up in Waze. The new feature allows cyclists using a compatible Garmin Edge bike computer or Garmin smartwatch to share their location through Garmin’s LiveTrack feature. That location can then appear in real time to nearby drivers using Waze, with cyclists displayed as moving icons on the road.",
+    "summary": "Garmin and Waze are teaming up on an interesting new safety feature that could give cyclists a little extra protection when sharing the road with cars – by making cyclists themselves show up in Waze. The new feature allows cyclists using a compatible Garmin Edge bike computer or Garmin smartwatch to share their location through Garmin’s LiveTrack feature.",
+    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/garminsmartwatchsafety-1.jpg?quality=82&strip=all&w=1600",
+    "original_url": "https://electrek.co/2026/11/10/garmin-and-waze-just-teamed-up-on-a-clever-new-way-to-keep-cyclists-safer/",
+    "published_at": "2026-11-10T18:34:11+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Garmin and Waze are teaming up on an interesting new safety feature that could give cyclists a little extra protection when sharing the road with cars – by making cyclists themselves show up in Waze.",
+      "The new feature allows cyclists using a compatible Garmin Edge bike computer or Garmin smartwatch to share their location through Garmin’s LiveTrack feature. That location can then appear in real time to nearby drivers using Waze, with cyclists displayed as moving icons on the road.",
+      "As someone who recently joined the Garmin family myself with a smartwatch for tracking my cycling, running, and other activities, this is exactly the type of feature I love seeing added to the platform.",
+      "I’ve long maintained that safety – or more accurately, the perception that cycling isn’t safe – is one of the biggest impediments to getting more people onto bikes.",
+      "That’s especially true in the US, where cyclists are often forced to share roads with cars instead of enjoying the kind of widespread separated cycling infrastructure found in many more bike-friendly countries. And when a cyclist and a multi-ton vehicle have to occupy the same space, making sure the driver knows that cyclist is there can make a big difference.",
+      "Of course, an icon on Waze isn’t going to magically make cycling safe. It won’t replace protected bike lanes, better road design, slower vehicle speeds, or attentive drivers.",
+      "But I can certainly imagine situations where it could help. Riding at night or in poor visibility, approaching a blind curve, or simply traveling on a narrow road where a driver might otherwise come upon a cyclist unexpectedly are all situations where an advance warning could be useful.",
+      "The feature is opt-in through Garmin Connect and activates when the cyclist starts an outdoor cycling activity. Garmin says location sharing is temporary and session-based, and that cyclists’ personal information isn’t displayed in Waze. Of course, anyone who uses a personal GPS device has already accepted that their location is shared with Big Tech in exchange for features they value, but at least we know that any personalized info stays within Garmin instead of proliferating even further."
+    ],
+    "bullet_points": [
+      "Garmin and Waze are teaming up on an interesting new safety feature that could give cyclists a little extra protection when sharing the road with cars – by making cyclists themselves show up in Waze.",
+      "The new feature allows cyclists using a compatible Garmin Edge bike computer or Garmin smartwatch to share their location through Garmin’s LiveTrack feature.",
+      "Official reporting verified via Electrek news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Garmin and Waze just teamed up on a clever new way to keep cyclists safer",
+        "badge": "Breaking",
+        "text": "Garmin and Waze are teaming up on an interesting new safety feature that could give cyclists a little extra protection when sharing the road with cars – by making cyclists themselves show up in Waze.",
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/garminsmartwatchsafety-1.jpg?quality=82&strip=all&w=1600",
+        "alt": "Garmin and Waze just teamed up on a clever new way to keep cyclists safer cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The new feature allows cyclists using a compatible Garmin Edge bike computer or Garmin smartwatch to share their location through Garmin’s LiveTrack feature.",
+        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Garmin and Waze are teaming up on an interesting new safety feature that could give cyclists a little extra protection when sharing the road with cars – by making cyclists themselves show up in Waze.",
+        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "EVs & Clean Mobility",
+        "text": "The new feature allows cyclists using a compatible Garmin Edge bike computer or Garmin smartwatch to share their location through Garmin’s LiveTrack feature.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Electrek.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 58
+  },
+  {
+    "id": "art_1794343074_11",
+    "slug": "polestar-formula-2030-concept-makes-us-hope-polestar-will-be-back",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "Polestar Formula 2030 Concept Makes Us Hope Polestar Will Be Back In America By 2030",
+    "title": "Polestar Formula 2030 Concept Makes Us Hope Polestar Will Be Back In America By 2030",
+    "raw_summary": "Chinese-owned Polestar was banned from selling cars in the U.S. back in June, and like a scorned ex showing you what you're missing after a breakup, it's now revealed one of the coolest designs in recent memory: the Formula 2030 concept car. Look at what they took from us. It's got a low, wide, shooting brake shape. The big front door, little rear door setup is pure enthusiast bait, and the switchgear inside looks like it came straight off of professional audio equipment. The Formula 2030 isn't just a for-show concept car, either, because Polestar says it will indeed \"point towards future design direction for the brand.\"",
+    "summary": "Chinese-owned Polestar was banned from selling cars in the U.S. back in June, and like a scorned ex showing you what you're missing after a breakup, it's now revealed one of the coolest designs in recent memory: the Formula 2030 concept car. Look at what they took from us.",
+    "image_url": "https://www.jalopnik.com/img/gallery/polestar-formula-2030-concept-makes-us-hope-polestar-will-be-back-in-america-by-2030/l-intro-1794333603.jpg",
+    "original_url": "https://www.jalopnik.com/2312325/polestar-formula-2030-concept-shooting-brake-design-reveal/",
+    "published_at": "2026-11-10T18:01:13+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Chinese-owned Polestar was banned from selling cars in the U.S. back in June, and like a scorned ex showing you what you're missing after a breakup, it's now revealed one of the coolest designs in recent memory: the Formula 2030 concept car. Look at what they took from us.",
+      "It's got a low, wide, shooting brake shape. The big front door, little rear door setup is pure enthusiast bait, and the switchgear inside looks like it came straight off of professional audio equipment. The Formula 2030 isn't just a for-show concept car, either, because Polestar says it will indeed \"point towards future design direction for the brand.\"",
+      "Specifically, \"various design attributes\" seen here will actually show up in the next-gen Polestar 2 and upcoming Polestar 7 compact SUV . The Formula 2030 is billed as a compact four-door sports car, not really fitting neatly into any existing segment. It sits lower than the Polestar 5 grand tourer , fits between the 2 compact sedan and 7 size-wise, and is probably closest to the Polestar 4 in spirit.",
+      "It already looks great at a glance, but things get way more interesting once you start opening stuff up. Both the hood and rear hatch open up clamshell-style, exposing the natural fiber composite chassis underneath and orange Öhlins dampers. The half-size rear doors are coach doors, giving the Formula no B-pillar and a huge opening when all doors are open.",
+      "Inside, a very curved instrument screen measuring 20 inches sits on top of the steering column while a 12.2-inch center touchscreen sits in the middle. That touchscreen can physically lower when the driver switches drive modes to Performance, and raise when the car is in Autonomous. Below this screen is an array of up to eight customizable rocker switches and knobs. You can swap the specific switches or knobs out, like you can with, say, a pro-grade video game controller, and their individual functions can also be configured to your liking. All four bucket seats sit low in the cabin and get inflatable bolsters and cushions for better support.",
+      "I've never really thought about how rare four-spoke wheels are, but looking at the 22s on this Polestar concept, I'm simultaneously sad that they aren't more common but also completely understand why that's the case. They're definitely weird, but I also sort of dig it?",
+      "It all adds up to a funky yet beautiful design that makes us hope Polestar will return to the U.S. market by the Formula 2030's namesake. Given the political conditions that led to its banning and how those tides are turning in this country , that scenario actually feels like a real possibility."
+    ],
+    "bullet_points": [
+      "Chinese-owned Polestar was banned from selling cars in the U.S.",
+      "back in June, and like a scorned ex showing you what you're missing after a breakup, it's now revealed one of the coolest designs in recent memory: the Formula 2030 concept car.",
+      "Look at what they took from us."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Polestar Formula 2030 Concept Makes Us Hope Polestar Will Be Back In America By 2030",
+        "badge": "Breaking",
+        "text": "Chinese-owned Polestar was banned from selling cars in the U.S.",
+        "image": "https://www.jalopnik.com/img/gallery/polestar-formula-2030-concept-makes-us-hope-polestar-will-be-back-in-america-by-2030/l-intro-1794333603.jpg",
+        "alt": "Polestar Formula 2030 Concept Makes Us Hope Polestar Will Be Back In America By 2030 cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "back in June, and like a scorned ex showing you what you're missing after a breakup, it's now revealed one of the coolest designs in recent memory: the Formula 2030 concept car.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Look at what they took from us.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "back in June, and like a scorned ex showing you what you're missing after a breakup, it's now revealed one of the coolest designs in recent memory: the Formula 2030 concept car.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 49
+  },
+  {
+    "id": "art_1794343074_8",
+    "slug": "juiced-unveils-another-lower-cost-moto-styled-electric-bike-scram",
+    "category": "business",
+    "category_name": "Auto Industry & Deals",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "📈",
+    "source": "Electrek",
+    "raw_title": "Juiced unveils another lower-cost moto-styled electric bike: Scrambler Core",
+    "title": "Juiced unveils another lower-cost moto-styled electric bike: Scrambler Core",
+    "raw_summary": "Juiced Bikes is expanding its recently relaunched Scrambler lineup with a new, more affordable model known as the Juiced Scrambler Core . The new bike keeps much of the moto-inspired styling and performance of the existing Scrambler Hardtail, but trims back several components to knock several hundred dollars off the price. The new Scrambler Core starts at $1,399 , compared to $1,699 for the existing Scrambler Hardtail.",
+    "summary": "Juiced Bikes is expanding its recently relaunched Scrambler lineup with a new, more affordable model known as the Juiced Scrambler Core . The new bike keeps much of the moto-inspired styling and performance of the existing Scrambler Hardtail, but trims back several components to knock several hundred dollars off the price.",
+    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/juiced-scrambler-core-teens-e-bikes-teenagers-header-1.jpg?quality=82&strip=all&w=1600",
+    "original_url": "https://electrek.co/2026/11/10/juiced-unveils-another-lower-cost-moto-styled-electric-bike-scrambler-core/",
+    "published_at": "2026-11-10T18:00:55+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Juiced Bikes is expanding its recently relaunched Scrambler lineup with a new, more affordable model known as the Juiced Scrambler Core . The new bike keeps much of the moto-inspired styling and performance of the existing Scrambler Hardtail, but trims back several components to knock several hundred dollars off the price.",
+      "The new Scrambler Core starts at $1,399 , compared to $1,699 for the existing Scrambler Hardtail.",
+      "Juiced is also offering a $1,599 long-range version of the Core, as well as a smaller “Midsize” frame that should make the bike much more accessible to shorter riders – and, perhaps more importantly, teenagers.",
+      "Teens are a major part of the moto-style e-bike market, and Juiced has designed its Scrambler e-bikes as a safer option for those younger riders. In addition to ensuring street-legal performance for most major markets, Juiced rolled out a feature known as Speed Lock, which is essentially a parental control option that lets a parent or guardian set a lower speed limit using a PIN code that prevents their teen from later modifying the speed limit.",
+      "The launch comes as part of the rebirth of Juiced Bikes following the brand’s acquisition last year. The company was founded in 2009 and was acquired in 2025 by the co-founders of Lectric Ebikes, who have since brought the brand back with a new generation of its popular Scrambler platform.",
+      "The biggest changes appear to be in the powertrain, battery, brakes, and suspension.",
+      "The standard Scrambler Hardtail launched earlier this year set the standard for the flagship models by using a 750W nominal motor with 90 Nm of torque and reaching 28 mph (45 km/h). Its 52V 19.2Ah battery provides nearly 1 kWh of capacity and a claimed range of up to 60 miles (96 km).",
+      "The Scrambler Core steps down to a 500W nominal rear hub motor rated for 1,176W peak and 80 Nm of torque. Top speed is also reduced slightly to 25 mph (40 km/h), while the throttle is limited to 20 mph (32 km/h). Importantly, though, Juiced has retained its 52V architecture, meaning this is still a fairly punchy setup rather than a dramatically detuned budget bike."
+    ],
+    "bullet_points": [
+      "Juiced Bikes is expanding its recently relaunched Scrambler lineup with a new, more affordable model known as the Juiced Scrambler Core .",
+      "The new bike keeps much of the moto-inspired styling and performance of the existing Scrambler Hardtail, but trims back several components to knock several hundred dollars off the price.",
+      "Official reporting verified via Electrek news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Juiced unveils another lower-cost moto-styled electric bike: Scrambler Core",
+        "badge": "Breaking",
+        "text": "Juiced Bikes is expanding its recently relaunched Scrambler lineup with a new, more affordable model known as the Juiced Scrambler Core .",
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/juiced-scrambler-core-teens-e-bikes-teenagers-header-1.jpg?quality=82&strip=all&w=1600",
+        "alt": "Juiced unveils another lower-cost moto-styled electric bike: Scrambler Core cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The new bike keeps much of the moto-inspired styling and performance of the existing Scrambler Hardtail, but trims back several components to knock several hundred dollars off the price.",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Juiced Bikes is expanding its recently relaunched Scrambler lineup with a new, more affordable model known as the Juiced Scrambler Core .",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Auto Industry & Deals",
+        "text": "The new bike keeps much of the moto-inspired styling and performance of the existing Scrambler Hardtail, but trims back several components to knock several hundred dollars off the price.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Electrek.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 51
+  },
+  {
+    "id": "art_1794343074_12",
+    "slug": "tesla-full-self-driving-one-step-closer-to-recreating-human-drivi",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Jalopnik",
+    "raw_title": "Tesla 'Full Self-Driving' One Step Closer To Recreating Human Driving By Overtaking Bicycles, Exceeding Speed Limits And Misidentifying Road Signs",
+    "title": "Tesla 'Full Self-Driving' One Step Closer To Recreating Human Driving By Overtaking Bicycles, Exceeding Speed Limits And Misidentifying Road Signs",
+    "raw_summary": "Humans are imperfect , so at least in theory, robotaxis are supposed to save us by doing all the perfect driving we aren't able to do. Of course, had we poured every dollar that's been spent on robotaxi development into improving public transportation, self-driving cars would feel unnecessary. But the bigger problem is, after all those billions of dollars and years of development, Momentum Mag reports that a recent test of Tesla's so-called \"Full Self-Driving\" software found that it loved to speed through neighborhoods, illegally pass cyclists, and break other traffic laws. So basically, it drives like your least-favorite neighbor. Woke 3 already killed the Cybertruck , so Tesla's school bus-passing software could be next on the chopping block after liberals figure out how to make every man a little shorter every time he disappoints a woman. Until then, it's important to know how good or bad the software controlling some of the most popular new cars actually is, which is why Belgian mobility organization johanna.be put the software to the test and found it frequently breaks speed limit laws in areas where drivers are most likely to hit pedestrians or cyclists. So that's not great.",
+    "summary": "Humans are imperfect , so at least in theory, robotaxis are supposed to save us by doing all the perfect driving we aren't able to do. Of course, had we poured every dollar that's been spent on robotaxi development into improving public transportation, self-driving cars would feel unnecessary.",
+    "image_url": "https://www.jalopnik.com/img/gallery/tesla-full-self-driving-one-step-closer-to-recreating-human-driving-by-overtaking-bicycles-exceeding-speed-limits-and-misidentifying-road-signs/l-intro-1794258497.jpg",
+    "original_url": "https://www.jalopnik.com/2311542/tesla-full-self-driving-overtaking-bicycles-exceeding-speed-limit-study-results/",
+    "published_at": "2026-11-10T17:25:00+00:00",
+    "time_ago": "3h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Humans are imperfect , so at least in theory, robotaxis are supposed to save us by doing all the perfect driving we aren't able to do. Of course, had we poured every dollar that's been spent on robotaxi development into improving public transportation, self-driving cars would feel unnecessary. But the bigger problem is, after all those billions of dollars and years of development, Momentum Mag reports that a recent test of Tesla's so-called \"Full Self-Driving\" software found that it loved to speed through neighborhoods, illegally pass cyclists, and break other traffic laws. So basically, it drives like your least-favorite neighbor.",
+      "Woke 3 already killed the Cybertruck , so Tesla's school bus-passing software could be next on the chopping block after liberals figure out how to make every man a little shorter every time he disappoints a woman. Until then, it's important to know how good or bad the software controlling some of the most popular new cars actually is, which is why Belgian mobility organization johanna.be put the software to the test and found it frequently breaks speed limit laws in areas where drivers are most likely to hit pedestrians or cyclists. So that's not great.",
+      "Additionally, while there aren't many places in the U.S. where drivers can't legally pass a cyclist, that isn't the case in Belgium. You'd think fine-tuning the software to account for changes in laws between countries would have been a pretty basic part of Tesla's development, but nope. In johanna.be's testing, it found that Tesla's FSD system \"repeatedly tries to overtake cyclists in cycle streets, something that is explicitly illegal in Belgium.\"",
+      "Coincidentally, right around the time johanna.be published the results of its Tesla safety test, the European Transport Safety Council shared the results of a separate safety test. The ETSC found that Tesla's \"speed offset\" and \"contextual max speed\" features don't follow United Nations or European Union rules regarding safety, and it's called on member states to reject both features later this year when the EU plans to hold an important vote on advanced driver assistance system regulation.",
+      "The ECF is also asking the EU to create a European Road Safety Agency that would act as \"an independent EU body able to investigate issues involving automated systems and share the subsequent findings with other Member States.\" Even before the ETSC got involved, johanna.be's findings were concerning enough to warrant some serious attention from international regulators that Elon Musk wasn't able to gut . As the ECF put it, Tesla's so-called \"Full Self-Driving\" software (emphasis is the ECF's):",
+      "If a human loved to drive at 150% of the posted speed limit, regularly told people the speed limit was higher than it was, and kept trying to make illegal passes, we'd take their license and tell them to take the bus. With robotaxis and cars with driver-assist systems, it should be the same. Until they can prove they actually follow the rules of the road, there's no reason to let them on our roads. We also shouldn't allow automakers to sell driver-assistance systems that haven't been proven safe, either. Even if you disagree, I don't think you need a PhD in traffic safety to understand the argument there.",
+      "That said, it's entirely possible that safety researchers are criticizing Tesla for mistakes that every automaker's software makes. The problem with that argument is that johanna.be ran the same test with a Citroën C3 that managed to correctly identify all seven speed limit signs. For comparison, the Tesla got six of the seven speed limits wrong. It only got one correct. Imagine not only being wrong, but being more wrong than the French. Self-immolation is probably the only option.",
+      "While we wait to see how the EU's member states vote, the ECF also noted that otherwise docile behavior is no excuse for Tesla's software behaving badly in other ways. As it noted:"
+    ],
+    "bullet_points": [
+      "Humans are imperfect , so at least in theory, robotaxis are supposed to save us by doing all the perfect driving we aren't able to do.",
+      "Of course, had we poured every dollar that's been spent on robotaxi development into improving public transportation, self-driving cars would feel unnecessary.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Tesla 'Full Self-Driving' One Step Closer To Recreating Human Driving By Overtaking Bicycles, Exceeding Speed Limits And Misidentifying Road Signs",
+        "badge": "Breaking",
+        "text": "Humans are imperfect , so at least in theory, robotaxis are supposed to save us by doing all the perfect driving we aren't able to do.",
+        "image": "https://www.jalopnik.com/img/gallery/tesla-full-self-driving-one-step-closer-to-recreating-human-driving-by-overtaking-bicycles-exceeding-speed-limits-and-misidentifying-road-signs/l-intro-1794258497.jpg",
+        "alt": "Tesla 'Full Self-Driving' One Step Closer To Recreating Human Driving By Overtaking Bicycles, Exceeding Speed Limits And Misidentifying Road Signs cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Of course, had we poured every dollar that's been spent on robotaxi development into improving public transportation, self-driving cars would feel unnecessary.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Humans are imperfect , so at least in theory, robotaxis are supposed to save us by doing all the perfect driving we aren't able to do.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "Of course, had we poured every dollar that's been spent on robotaxi development into improving public transportation, self-driving cars would feel unnecessary.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 48
+  },
+  {
     "id": "art_1794330730_9",
     "slug": "australias-cheapest-new-car-is-this-13000-mg-hatchback-and-its-fa",
     "category": "trending",
@@ -693,6 +1385,81 @@
     "word_count": 50
   },
   {
+    "id": "art_1794343074_13",
+    "slug": "toyota-revives-the-scion-brand-in-the-us-with-a-right-hand-drive-",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Jalopnik",
+    "raw_title": "Toyota Revives The Scion Brand In The U.S. With A Right-Hand-Drive Kei Truck",
+    "title": "Toyota Revives The Scion Brand In The U.S. With A Right-Hand-Drive Kei Truck",
+    "raw_summary": "Toyota announced a new sub-brand called Scion by Toyota on Tuesday, which will first start by selling a genuine kei truck , the 11-foot-long KEI-01, in the United States in the second half of 2027. The truck is sold as the Daihatsu Hijet and Toyota Pixis in other markets, and the U.S.-spec KEI-01 will be right-hand-drive and powered by a 660cc three-cylinder engine that sends its power through a continuously variable transmission to all four wheels. Though Toyota didn't announce official power figures, the 660cc three-cylinder produces about 50 horsepower in other applications. Regardless of how much power it makes, the KEI-01 will be limited to a top speed of 25 mph in order to comply with low-speed vehicle (LSV) regulations . At the same event where it showed media the KEI-01, Toyota also brought out its Scion SxS Concept , a gasoline-electric hybrid side-by-side that first debuted at the SEMA show in 2025, and the BKE Concept, a collapsible electric micromobility bike. Only the KEI-01 is officially headed to production in the second half of next year, and it will be built in Toyota's Indiana manufacturing facility.",
+    "summary": "Toyota announced a new sub-brand called Scion by Toyota on Tuesday, which will first start by selling a genuine kei truck , the 11-foot-long KEI-01, in the United States in the second half of 2027. The truck is sold as the Daihatsu Hijet and Toyota Pixis in other markets, and the U.S.-spec KEI-01 will be right-hand-drive and powered by a 660cc three-cylinder engine that sends its power through a continuously variable transmission to all four wheels.",
+    "image_url": "https://www.jalopnik.com/img/gallery/toyota-revives-the-scion-brand-in-the-u-s-with-a-right-hand-drive-kei-truck/l-intro-1794326483.jpg",
+    "original_url": "https://www.jalopnik.com/2311741/toyota-revives-scion-brand-in-us-with-rhd-kei-truck-indiana-production/",
+    "published_at": "2026-11-10T16:00:00+00:00",
+    "time_ago": "4h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Toyota announced a new sub-brand called Scion by Toyota on Tuesday, which will first start by selling a genuine kei truck , the 11-foot-long KEI-01, in the United States in the second half of 2027. The truck is sold as the Daihatsu Hijet and Toyota Pixis in other markets, and the U.S.-spec KEI-01 will be right-hand-drive and powered by a 660cc three-cylinder engine that sends its power through a continuously variable transmission to all four wheels. Though Toyota didn't announce official power figures, the 660cc three-cylinder produces about 50 horsepower in other applications. Regardless of how much power it makes, the KEI-01 will be limited to a top speed of 25 mph in order to comply with low-speed vehicle (LSV) regulations .",
+      "At the same event where it showed media the KEI-01, Toyota also brought out its Scion SxS Concept , a gasoline-electric hybrid side-by-side that first debuted at the SEMA show in 2025, and the BKE Concept, a collapsible electric micromobility bike. Only the KEI-01 is officially headed to production in the second half of next year, and it will be built in Toyota's Indiana manufacturing facility.",
+      "Toyota says the KEI-01 will feature standard selectable four-wheel drive with an auto mode and a push-button lock up for tackling more treacherous terrain. Its tiny truck bed is enclosed by three-way fold-down cargo walls to make loading and unloading easier, and the extended cabin design allows for sliding and reclining seats. It has a payload capacity of 600 pounds in the bed, and structural rigidity for towing small trailers and equipment.",
+      "The KEI-01 is intended for \"select use cases,\" according to Toyota, and will initially only be sold to fleet customers through a network of participating Scion By Toyota dealers. A Toyota spokesperson said the company may consider retail sales of the KEI-01 at a later date, but for now they envision it as a solution for small business owners, ranchers, and operators where space and efficiency are at a premium.",
+      "Scion by Toyota is launching what's called a \"freedom lab,\" which it says is all about exploring mobility possibilities. The hybrid SXx and electric BKE are two examples of that, with the SxS serving as high-speed, high-adrenaline off-road fun machine, and the BKE being a \"concept designed to expand the possibilities of how people move through and experience the outdoors.\" It reads as Toyota's answer to the Honda Motocompacto, which we are quite fond of , and Toyota says it folds up small enough to fit into the trunk of a GR86. Both the SxS and BKE are strictly concept vehicles, so Toyota has not announced formal plans to produce either vehicle just yet."
+    ],
+    "bullet_points": [
+      "Toyota announced a new sub-brand called Scion by Toyota on Tuesday, which will first start by selling a genuine kei truck , the 11-foot-long KEI-01, in the United States in the second half of 2027.",
+      "The truck is sold as the Daihatsu Hijet and Toyota Pixis in other markets, and the U.S.-spec KEI-01 will be right-hand-drive and powered by a 660cc three-cylinder engine that sends its power through a continuously variable transmission to all four wheels.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Toyota Revives The Scion Brand In The U.S. With A Right-Hand-Drive Kei Truck",
+        "badge": "Breaking",
+        "text": "Toyota announced a new sub-brand called Scion by Toyota on Tuesday, which will first start by selling a genuine kei truck , the 11-foot-long KEI-01, in the United States in the second half of 2027.",
+        "image": "https://www.jalopnik.com/img/gallery/toyota-revives-the-scion-brand-in-the-u-s-with-a-right-hand-drive-kei-truck/l-intro-1794326483.jpg",
+        "alt": "Toyota Revives The Scion Brand In The U.S. With A Right-Hand-Drive Kei Truck cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The truck is sold as the Daihatsu Hijet and Toyota Pixis in other markets, and the U.S.-spec KEI-01 will be right-hand-drive and powered by a 660cc three-cylinder engine that sends its power through a continuously variable transmission to all four wheels.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Toyota announced a new sub-brand called Scion by Toyota on Tuesday, which will first start by selling a genuine kei truck , the 11-foot-long KEI-01, in the United States in the second half of 2027.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "The truck is sold as the Daihatsu Hijet and Toyota Pixis in other markets, and the U.S.-spec KEI-01 will be right-hand-drive and powered by a 660cc three-cylinder engine that sends its power through a continuously variable transmission to all four wheels.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 76
+  },
+  {
     "id": "art_1794330730_6",
     "slug": "toyota-revives-the-scion-name-on-a-kei-truck-for-the-us",
     "category": "tech",
@@ -847,6 +1614,84 @@
     ],
     "ai_generated": false,
     "word_count": 50
+  },
+  {
+    "id": "art_1794343074_9",
+    "slug": "genesis-launches-the-flagship-gv90-electric-suv-in-korea-starting",
+    "category": "business",
+    "category_name": "Auto Industry & Deals",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "📈",
+    "source": "Electrek",
+    "raw_title": "Genesis launches the flagship GV90 electric SUV in Korea, starting at over $100,000",
+    "title": "Genesis launches the flagship GV90 electric SUV in Korea, starting at over $100,000",
+    "raw_summary": "Genesis opened orders for the ultra-luxury electric SUV in South Korea, with prices starting at over $100,000. Hyundai’s luxury brand is moving upscale with the GV90, its first fully electric three-row flagship SUV.",
+    "summary": "Genesis opened orders for the ultra-luxury electric SUV in South Korea, with prices starting at over $100,000. Hyundai’s luxury brand is moving upscale with the GV90, its first fully electric three-row flagship SUV.",
+    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Genesis-GV90-launch-Korea.jpeg?quality=82&strip=all&w=1400",
+    "original_url": "https://electrek.co/2026/11/10/genesis-launches-flagship-gv90-starting-over-100000-korea/",
+    "published_at": "2026-11-10T15:07:39+00:00",
+    "time_ago": "5h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Genesis opened orders for the ultra-luxury electric SUV in South Korea, with prices starting at over $100,000.",
+      "Hyundai’s luxury brand is moving upscale with the GV90, its first fully electric three-row flagship SUV.",
+      "After unveiling the GV90 at the Palace of Fine Arts in San Francisco in August ( which we had the pleasure to see firsthand ), Genesis launched the new “ultra-luxe” SUV in its home market of Korea on Tuesday.",
+      "The Genesis GV90 introduces several “world-first” innovations, including the first independently opening and closing B-pillarless coach doors, a 12-airbag roof airbag system, and genuine wood floors with radiant heating.",
+      "It’s available in two models: the GV90 Standard with traditional swing doors and the GV90 Neolun, which features the “Neolun Arch Gate,” Genesis’ hidden B-pillar coach door system.",
+      "In Korea, the Genesis GV90 Standard 7-seater model starts at 139.5 million won, or about $104,000.",
+      "The GV90 Individual Lounge Seat (6-seater) starts at 145.5 million won ($108,500); the GV90 Neolun Standard (6-seater) starts at 189.9 million won ($141,500), while the top-spec GV90 Neolun Executive Suite (4-seater) starts at 239.5 million won ($178,500).",
+      "Based on Hyundai’s new eMP platform, developed exclusively for its flagships, Genesis said the GV90 is like a “moving private lounge,” complete with a multi-chamber air suspension and a dual electronic limited-slip differential (E-LSD)."
+    ],
+    "bullet_points": [
+      "Genesis opened orders for the ultra-luxury electric SUV in South Korea, with prices starting at over $100,000.",
+      "Hyundai’s luxury brand is moving upscale with the GV90, its first fully electric three-row flagship SUV.",
+      "Official reporting verified via Electrek news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Genesis launches the flagship GV90 electric SUV in Korea, starting at over $100,000",
+        "badge": "Breaking",
+        "text": "Genesis opened orders for the ultra-luxury electric SUV in South Korea, with prices starting at over $100,000.",
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Genesis-GV90-launch-Korea.jpeg?quality=82&strip=all&w=1400",
+        "alt": "Genesis launches the flagship GV90 electric SUV in Korea, starting at over $100,000 cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Hyundai’s luxury brand is moving upscale with the GV90, its first fully electric three-row flagship SUV.",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Genesis opened orders for the ultra-luxury electric SUV in South Korea, with prices starting at over $100,000.",
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Auto Industry & Deals",
+        "text": "Hyundai’s luxury brand is moving upscale with the GV90, its first fully electric three-row flagship SUV.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Electrek.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 33
   },
   {
     "id": "art_1794330730_12",
@@ -2677,6 +3522,75 @@
     "word_count": 49
   },
   {
+    "id": "art_1794343074_1",
+    "slug": "vw-compact-suv-for-india-arriving-in-2027-what-we-know-so-far",
+    "category": "india",
+    "category_name": "India Drives & SUVs",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Gaadiwaadi.com",
+    "raw_title": "VW Compact SUV For India Arriving In 2027 – What We Know So Far",
+    "title": "VW Compact SUV For India Arriving In 2027",
+    "raw_summary": "GaadiWaadi - New Volkswagen compact SUV will share its architecture with the Skoda Kylaq and could borrow design elements from the Taigun and Virtus The Volkswagen Polo disappeared from Indian showrooms in 2022 after the Ameo compact sedan had already been discontinued. The German manufacturer is now preparing a return to the sub-four-metre passenger vehicle category, this time in the form of an SUV. Volkswagen confirmed the new model a few months ago and has scheduled its market introduction for 2027. The vehicle will be developed and manufactured in India and it will sit below the Taigun as the most affordable SUV in the Volkswagen portfolio. The exterior could take inspiration from the recently updated Taigun and the Virtus facelift which is scheduled to arrive soon. The Taigun received revised LED headlights, illuminated Volkswagen emblems, a horizontal grille light bar and redesigned alloy wheels earlier this year. On a side note, the Virtus facelift’s bumpers, lighting elements, and GT detailing will see revisions. The compact SUV could feature a similar grille treatment, prominent wheel arches, distinctive LED daytime running lamps and a redesigned rear section. The closest mechanical relative of the new Volkswagen SUV will be the Skoda Kylaq. Both use the MQB A0 IN architecture developed by engineering teams in India and Europe. The Kylaq measures 3,995 mm in length and has a wheelbase of 2,566 mm. Similar proportions are likely for the Volkswagen derivative alongside common structural components, suspension bits and mechanical systems. Also Read: New Volkswagen Virtus Launching Soon : Top 5 changes To Expect Representational The shared platform also supports extensive localisation and manufacturing at the Volkswagen Group facility in Chakan. The compact SUV is expected to receive the 1.0-litre three-cylinder TSI turbo petrol engine used in the Kylaq. The motor kicks out 115 PS and 178 Nm in the Skoda SUV. The Kylaq currently offers a six-speed manual and a six-speed torque converter automatic gearbox. However, the Volkswagen derivative is tipped to receive an eight-speed automatic transmission. The interior could feature a 10.1-inch touchscreen infotainment system, an 8-inch digital instrument cluster, wireless Android Auto and Apple CarPlay connectivity and automatic climate control. Other likely equipment are ventilated front seats, electric adjustment for the driver seat, wireless phone charging, cruise control and an electric sunroof. The Kylaq already offers many of these features but Volkswagen could introduce different dashboard materials, upholstery, display graphics and controls. Also Read: 5+ All-New Compact SUVs Arriving Soon In India – Maruti To Volkswagen Brazil-spec Volkswagen Tera A GT Line variant featuring dark exterior accents and unique interior trim is another possibility. As for safety, six airbags, electronic stability control, traction control, ABS, electronic brakeforce distribution, hill-hold assistance, ISOFIX child seat mounts and tyre pressure monitoring system will be available along with a reversing camera and parking sensors. The Skoda Kylaq has already secured five stars in Bharat NCAP safety tests. Volkswagen has confirmed that the platform will support safety systems suitable for Indian regulations. The Volkswagen compact SUV is expected to cost between Rs. 8 lakh and Rs. 13 lakh (ex-showroom). It will compete against the Tata Nexon, Maruti Suzuki Brezza, Hyundai Venue, Kia Sonet, Mahindra XUV 3XO and its Skoda counterpart.",
+    "summary": "GaadiWaadi - New Volkswagen compact SUV will share its architecture with the Skoda Kylaq and could borrow design elements from the Taigun and Virtus The Volkswagen Polo disappeared from Indian showrooms in 2022 after the Ameo compact sedan had already been discontinued. The German manufacturer is now preparing a return to the sub-four-metre passenger vehicle category, this time in the form of an SUV.",
+    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2025/03/Volkswagen-Tera-2.jpg",
+    "original_url": "https://gaadiwaadi.com/vw-compact-suv-for-india-arriving-in-2027-what-we-know-so-far/",
+    "published_at": "2026-11-10T04:00:06+00:00",
+    "time_ago": "16h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [],
+    "bullet_points": [
+      "GaadiWaadi - New Volkswagen compact SUV will share its architecture with the Skoda Kylaq and could borrow design elements from the Taigun and Virtus The Volkswagen Polo disappeared from Indian showrooms in 2022 after the Ameo compact sedan had already been discontinued.",
+      "The German manufacturer is now preparing a return to the sub-four-metre passenger vehicle category, this time in the form of an SUV.",
+      "Official reporting verified via Gaadiwaadi.com news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "VW Compact SUV For India Arriving In 2027",
+        "badge": "Breaking",
+        "text": "GaadiWaadi - New Volkswagen compact SUV will share its architecture with the Skoda Kylaq and could borrow design elements from the Taigun and Virtus The Volkswagen Polo disappeared from Indian showrooms in 2022 after the Ameo compact sedan had already been discontinued.",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2025/03/Volkswagen-Tera-2.jpg",
+        "alt": "VW Compact SUV For India Arriving In 2027 cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "The German manufacturer is now preparing a return to the sub-four-metre passenger vehicle category, this time in the form of an SUV.",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "GaadiWaadi - New Volkswagen compact SUV will share its architecture with the Skoda Kylaq and could borrow design elements from the Taigun and Virtus The Volkswagen Polo disappeared from Indian showrooms in 2022 after the Ameo compact sedan had already been discontinued.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "India Drives & SUVs",
+        "text": "The German manufacturer is now preparing a return to the sub-four-metre passenger vehicle category, this time in the form of an SUV.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Gaadiwaadi.com.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 64
+  },
+  {
     "id": "art_1794284420_3",
     "slug": "new-byd-seal-07-illustrates-chinese-ev-evolution",
     "category": "world",
@@ -2909,6 +3823,75 @@
     ],
     "ai_generated": false,
     "word_count": 51
+  },
+  {
+    "id": "art_1794343074_2",
+    "slug": "luxury-electric-car-sales-rise-53-in-oct-2026-bmw-outsells-tesla-",
+    "category": "india",
+    "category_name": "India Drives & SUVs",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Gaadiwaadi.com",
+    "raw_title": "Luxury Electric Car Sales Rise 53% In Oct 2026 – BMW Outsells Tesla & Merc",
+    "title": "Luxury Electric Car Sales Rise 53% In Oct 2026",
+    "raw_summary": "GaadiWaadi - BMW has secured 53.2 per cent of total luxury EV registrations in October 2026 as Tesla narrowed the sales gap to 171 units The electric car registrations in the luxury space fell by 15.6 per cent last month compared to September but the annual performance was considerably better. The category registered 868 units against 567 units in October 2025 with a notable increase of 53.1 per cent. It must be noted that the month of September had recorded 1,028 registrations – the highest monthly figure for the category. The October total was also the second highest monthly figure despite the sequential decline. BMW secured first position ahead of Tesla and the two manufacturers registered 753 electric cars between them. Tesla recorded the biggest annual percentage increase among the eight luxury manufacturers. Its registrations rose from just 40 units in October 2025 to 291 units last month. The improvement of 251 units led to 627.5 per cent. Tesla also finished only eight units below its September performance of 299 registrations. Its share of luxury electric car registrations increased from 7.1 per cent to 33.5 per cent in twelve months. The difference between Tesla and BMW narrowed from 325 units last year to 171 units in October 2026. Mercedes-Benz recorded a contrasting performance as its electric car registrations declined by 48.8 per cent annually. Also Read: New BMW 3 Series Revealed With First Electric i3 Boasting Up To 912 Km Range Brand October 2026 Sales October 2025 Sales YoY 1. BMW 462 365 +26.6% 2. Tesla 291 40 +627.5% 3. Mercedes-Benz 62 121 -48.8% 4. Volvo 37 24 +54.2% 5. Porsche 15 15 0.0% 6. Lotus 1 1 0.0% 7. Jaguar 0 — — 8. Audi 0 1 -100.0% Total 868 567 +53.1% However, the recently arrival of the electrified GLC should help increase numbers soon. The German manufacturer registered 62 units against 121 units in October 2025. The reduction was even greater compared to September at 54.1 per cent. Meanwhile, Volvo recorded 37 electric cars and registered an annual increase of 54.2 per cent. Porsche matched its previous October performance at 15 units while Lotus registered one electric car. Jaguar and Audi recorded no registrations for the month. BMW’s electric vehicle portfolio registered 462 units in October compared to 365 units in the corresponding month last year. The increase of 97 units resulted in 26.6 per cent annual growth but registrations fell by 13.8 per cent compared to September. Also Read: Mercedes-Benz GLC EV Receives 650+ Bookings In Just 36 Hours In India The share of luxury electric car registrations from BMW also declined from 64.4 per cent to 53.2 per cent annually. The manufacturer had registered 4,132 electric cars between January and October 2026 with an increase of 48 per cent over the corresponding period last year. The combined market share of BMW and Tesla stood at 86.8 per cent in October and the other six manufacturers collectively registered only 115 electric cars.",
+    "summary": "GaadiWaadi - BMW has secured 53.2 per cent of total luxury EV registrations in October 2026 as Tesla narrowed the sales gap to 171 units The electric car registrations in the luxury space fell by 15.6 per cent last month compared to September but the annual performance was considerably better.",
+    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/09/BMW-i5-LWB.jpg",
+    "original_url": "https://gaadiwaadi.com/luxury-electric-car-sales-rise-53-in-oct-2026-bmw-outsells-tesla-merc/",
+    "published_at": "2026-11-10T02:30:57+00:00",
+    "time_ago": "18h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [],
+    "bullet_points": [
+      "GaadiWaadi - BMW has secured 53.2 per cent of total luxury EV registrations in October 2026 as Tesla narrowed the sales gap to 171 units The electric car registrations in the luxury space fell by 15.6 per cent last month compared to September but the annual performance was considerably better.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from Gaadiwaadi.com."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Luxury Electric Car Sales Rise 53% In Oct 2026",
+        "badge": "Breaking",
+        "text": "GaadiWaadi - BMW has secured 53.2 per cent of total luxury EV registrations in October 2026 as Tesla narrowed the sales gap to 171 units The electric car registrations in the luxury space fell by 15.6 per cent last month compared to September but the annual performance was considerably better.",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/09/BMW-i5-LWB.jpg",
+        "alt": "Luxury Electric Car Sales Rise 53% In Oct 2026 cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "GaadiWaadi - BMW has secured 53.2 per cent of total luxury EV registrations in October 2026 as Tesla narrowed the sales gap to 171 units The electric car registrations in the luxury space fell by 15.6 per cent last month compared to September but the annual performance was considerably better.",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "GaadiWaadi - BMW has secured 53.2 per cent of total luxury EV registrations in October 2026 as Tesla narrowed the sales gap to 171 units The electric car registrations in the luxury space fell by 15.6 per cent last month compared to September but the annual performance was considerably better.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "India Drives & SUVs",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Gaadiwaadi.com.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 50
   },
   {
     "id": "art_1794284420_14",
@@ -10531,1008 +11514,5 @@
     ],
     "ai_generated": false,
     "word_count": 52
-  },
-  {
-    "id": "art_1794189562_8",
-    "slug": "ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-cont",
-    "category": "entertainment",
-    "category_name": "Car Culture & Restomods",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-    "category_icon": "🎬",
-    "source": "Jalopnik",
-    "raw_title": "AI Comes For Drag Racers' Jobs As GM Patents Automated Launch Control",
-    "title": "AI Comes For Drag Racers' Jobs As GM Patents Automated Launch Control",
-    "raw_summary": "AI is coming for all of us. Not necessarily in an apocalyptic world like \"The Terminator\" or \"The Matrix,\" but by stealing jobs from truck drivers , astronauts , and even Jalopnik writers (despite what I read in the comments, I assure you we're all human beings — at least, for now). Not even drag racers are safe, thanks to a launch control system GM patented that not only automates the launch process, but even reads the countdown Christmas tree to time a perfect launch. Patents can be wordy and cumbersome to read, but Road & Track sums this one up nicely. Some cars already have launch control systems, which can get you off the line as quickly as possible with the perfect balance of power and traction. Pair those systems with the cameras being used in cars today and the rest is a simple matter of programming.",
-    "summary": "AI is coming for all of us. Not necessarily in an apocalyptic world like \"The Terminator\" or \"The Matrix,\" but by stealing jobs from truck drivers , astronauts , and even Jalopnik writers (despite what I read in the comments, I assure you we're all human beings — at least, for now).",
-    "image_url": "https://www.jalopnik.com/img/gallery/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-control/l-intro-1794008424.jpg",
-    "original_url": "https://www.jalopnik.com/2309984/ai-comes-for-drag-racers-jobs-gm-patents-automated-launch-control/",
-    "published_at": "2026-11-08T19:25:00+00:00",
-    "time_ago": "6h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "AI is coming for all of us. Not necessarily in an apocalyptic world like \"The Terminator\" or \"The Matrix,\" but by stealing jobs from truck drivers , astronauts , and even Jalopnik writers (despite what I read in the comments, I assure you we're all human beings — at least, for now). Not even drag racers are safe, thanks to a launch control system GM patented that not only automates the launch process, but even reads the countdown Christmas tree to time a perfect launch.",
-      "Patents can be wordy and cumbersome to read, but Road & Track sums this one up nicely. Some cars already have launch control systems, which can get you off the line as quickly as possible with the perfect balance of power and traction. Pair those systems with the cameras being used in cars today and the rest is a simple matter of programming.",
-      "The potential future tech uses the car's cameras to recognize the Christmas tree lights at a drag strip, and a prompt instructs the driver to activate launch control. This part works like normal, with the driver pressing the gas and brake pedals simultaneously. Once launch control is engaged, the driver removes their feet from the pedals, and the car takes over. It doesn't just use its onboard cameras to watch the lights and go on green, it initiates the launch process before the light is green, ensuring the car begins to move precisely when it's supposed to without red-lighting or launching too early. This is exactly the way I learned to do it, but a computer is going to be far more precise than my feet. I'm only human.",
-      "Automatic drag strip launch control is a fine technological achievement. It also completely misses the point of what racing is all about: human drivers testing their skill against one another. Drag racing doesn't have the braking or handling challenges of a road course or rally stage , but it still requires skill to reduce your reaction time and execute even a near-perfect launch. If you take that out of the equation by automating the entire process, what's left? Not steering into the wall? In a production car, that takes even less skill than driving down the highway. ( Top Fuel dragsters and Funny Cars are a completely different story. Mad respect to them.)",
-      "Does anyone really want autonomous racing ? I sure don't. In theory, a machine can always put down the perfect lap, time after time. The only time it gets exciting is when the programming goes wrong, and it steers straight into a wall . People already complain that Formula 1 is boring . It takes extraordinary driver talent to race at those speeds, but the cars are so good, so reliable, and so evenly matched that there's little difference between them. Take the driver out of the car, and it's nothing but a competition of technology. If I want to see that, I'd rather watch BattleBots . It's much more fun, and you get to watch them completely destroy each other.",
-      "I have never driven a perfect lap, and I never will. Perfection itself doesn't matter. It's the pursuit of perfection that matters. Striving to do better than we ever have before is rewarding for its own sake. It's also part of what makes us human. So I'll leave GM's drag strip launch control turned off and drop the clutch myself. I don't care that I'll run a slower time than the fully automated machine. As a certain James Bond villain once said , \"There's no point in living if you can't feel alive.\""
-    ],
-    "bullet_points": [
-      "AI is coming for all of us.",
-      "Not necessarily in an apocalyptic world like \"The Terminator\" or \"The Matrix,\" but by stealing jobs from truck drivers , astronauts , and even Jalopnik writers (despite what I read in the comments, I assure you we're all human beings — at least, for now).",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "AI Comes For Drag Racers' Jobs As GM Patents Automated Launch Control",
-        "badge": "Breaking",
-        "text": "AI is coming for all of us.",
-        "image": "https://www.jalopnik.com/img/gallery/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-control/l-intro-1794008424.jpg",
-        "alt": "AI Comes For Drag Racers' Jobs As GM Patents Automated Launch Control cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Not necessarily in an apocalyptic world like \"The Terminator\" or \"The Matrix,\" but by stealing jobs from truck drivers , astronauts , and even Jalopnik writers (despite what I read in the comments, I assure you we're all human beings — at least, for now).",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "AI is coming for all of us.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Car Culture & Restomods",
-        "text": "Not necessarily in an apocalyptic world like \"The Terminator\" or \"The Matrix,\" but by stealing jobs from truck drivers , astronauts , and even Jalopnik writers (despite what I read in the comments, I assure you we're all human beings — at least, for now).",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 52
-  },
-  {
-    "id": "art_1794218304_9",
-    "slug": "norris-wins-as-mercedes-clinches-title-with-a-scrappy-race",
-    "category": "sports",
-    "category_name": "Motorsport & F1 Tech",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🏁",
-    "source": "The Race",
-    "raw_title": "Norris wins as Mercedes clinches title with a scrappy race",
-    "title": "Norris wins as Mercedes clinches title with a scrappy race",
-    "raw_summary": "Lando Norris survived a late downpour to take McLaren’s first race win in three months at the Brazilian Grand Prix, as Mercedes sealed the Formula 1 constructors’ title despite its first podium-less GP of the year. Norris lost the race lead almost immediately off the line as Kimi Antonelli’s Mercedes rocketed past him on the run to Turn 1, with Liam Lawson’s Racing Bulls then quickly demoting Norris to third.",
-    "summary": "Lando Norris survived a late downpour to take McLaren’s first race win in three months at the Brazilian Grand Prix, as Mercedes sealed the Formula 1 constructors’ title despite its first podium-less GP of the year. Norris lost the race lead almost immediately off the line as Kimi Antonelli’s Mercedes rocketed past him on the run to Turn 1, with Liam Lawson’s Racing Bulls then quickly demoting Norris to third.",
-    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453581_HiRes.jpg",
-    "original_url": "https://www.the-race.com/formula-1/norris-wins-as-mercedes-clinches-title-with-a-scrappy-race/",
-    "published_at": "2026-11-08T18:54:11+00:00",
-    "time_ago": "15h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Lando Norris survived a late downpour to take McLaren’s first race win in three months at the Brazilian Grand Prix, as Mercedes sealed the Formula 1 constructors’ title despite its first podium-less GP of the year.",
-      "Norris lost the race lead almost immediately off the line as Kimi Antonelli’s Mercedes rocketed past him on the run to Turn 1, with Liam Lawson’s Racing Bulls then quickly demoting Norris to third.",
-      "Norris soon wrestled second back from Lawson, but Antonelli escaped down the road in the lead as the field waited for the right moment to switch from intermediate to slick tyres.",
-      "McLaren and Norris got that call right as he pitted a lap before Antonelli and closed a lot of that gap.",
-      "Antonelli struggled to fire up his soft tyres and ended up spinning at Turn 1 on his second lap, allowing Norris into the race lead.",
-      "Antonelli’s slide continued as the Red Bulls, Isack Hadjar and Max Verstappen, picked him off.",
-      "He reported his car was steering by itself, and he was struggling to get around the left-hand corners in particular.",
-      "Norris went unthreatened thereafter, building such a solid gap out front that even a late-rain shower and switch back to intermediates didn’t do anything to unsettle his grip on the lead."
-    ],
-    "bullet_points": [
-      "Lando Norris survived a late downpour to take McLaren’s first race win in three months at the Brazilian Grand Prix, as Mercedes sealed the Formula 1 constructors’ title despite its first podium-less GP of the year.",
-      "Norris lost the race lead almost immediately off the line as Kimi Antonelli’s Mercedes rocketed past him on the run to Turn 1, with Liam Lawson’s Racing Bulls then quickly demoting Norris to third.",
-      "Official reporting verified via The Race news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Norris wins as Mercedes clinches title with a scrappy race",
-        "badge": "Breaking",
-        "text": "Lando Norris survived a late downpour to take McLaren’s first race win in three months at the Brazilian Grand Prix, as Mercedes sealed the Formula 1 constructors’ title despite its first podium-less GP of the year.",
-        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453581_HiRes.jpg",
-        "alt": "Norris wins as Mercedes clinches title with a scrappy race cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Norris lost the race lead almost immediately off the line as Kimi Antonelli’s Mercedes rocketed past him on the run to Turn 1, with Liam Lawson’s Racing Bulls then quickly demoting Norris to third.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Lando Norris survived a late downpour to take McLaren’s first race win in three months at the Brazilian Grand Prix, as Mercedes sealed the Formula 1 constructors’ title despite its first podium-less GP of the year.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Motorsport & F1 Tech",
-        "text": "Norris lost the race lead almost immediately off the line as Kimi Antonelli’s Mercedes rocketed past him on the run to Turn 1, with Liam Lawson’s Racing Bulls then quickly demoting Norris to third.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from The Race.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 70
-  },
-  {
-    "id": "art_1794284420_12",
-    "slug": "f1-brazilian-gp-norris-wins-in-mixed-conditions-mercedes-clinch-c",
-    "category": "sports",
-    "category_name": "Motorsport & F1 Tech",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🏁",
-    "source": "Autosport",
-    "raw_title": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors’ title",
-    "title": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors' title",
-    "raw_summary": "Lando Norris has snared his third win of 2026 in a mixed weather Formula 1 Brazilian Grand Prix, defeating a resurgent Max Verstappen while Mercedes claimed the world constructors' championship. After reclaiming the lead from his world champion successor Kimi Antonelli early on when he spun off, polesitter Norris thwarted Verstappen's latest stunning Brazil comeback in a race which both started and finished in the wet, bookending a dry spell.",
-    "summary": "Lando Norris has snared his third win of 2026 in a mixed weather Formula 1 Brazilian Grand Prix, defeating a resurgent Max Verstappen while Mercedes claimed the world constructors' championship. After reclaiming the lead from his world champion successor Kimi Antonelli early on when he spun off, polesitter Norris thwarted Verstappen's latest stunning Brazil comeback in a race which both started and finished in the wet, bookending a dry spell.",
-    "image_url": "https://cdn-2.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg",
-    "original_url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-    "published_at": "2026-11-08T18:50:51+00:00",
-    "time_ago": "Yesterday",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Lando Norris has snared his third win of 2026 in a mixed weather Formula 1 Brazilian Grand Prix, defeating a resurgent Max Verstappen while Mercedes claimed the world constructors' championship.",
-      "After reclaiming the lead from his world champion successor Kimi Antonelli early on when he spun off, polesitter Norris thwarted Verstappen's latest stunning Brazil comeback in a race which both started and finished in the wet, bookending a dry spell.",
-      "Having survived a scare on the laps to the grid when he slid onto the grass at the tricky Turn 12, Antonelli picked off polesitter Norris for the lead into Turn 1 as the race started in intermediate conditions. Third-place starter Liam Lawson also followed the Mercedes through into second.",
-      "Alonso was the biggest loser as he dropped six places by going wide at Turn 3. Lewis Hamilton went the opposite direction, gaining 10 places to sweep into 11th, while Verstappen jumped to 13th after both drivers had started at the back of the grid with engine penalties.",
-      "As Antonelli built a five-second buffer to Lawson and Norris, Hamilton and Verstappen soon found each other, with Hamilton starting to struggle on worn rear tyres. The seven-time world champion couldn't follow Verstappen past Oscar Piastri and into the top 10, the Ferrari being passed by Aston Martin's Alonso instead.",
-      "Hamilton urged his team to bring him in for slicks and eventually got his wish on lap 15 of 71, being the first driver to make the switch. His immediate speed on the dry weather tyre triggered a flurry of pitstops across the grid as the entire field switched to softs as well, Antonelli and Verstappen waiting one lap longer than the other frontrunners.",
-      "After that shuffle, Antonelli kept the lead from Norris, Isack Hadjar and comeback hero Verstappen, who both made their way past Lawson. Russell, however, lost out by spinning in the pit exit, being fortunate enough to escape damage but dropping behind Piastri and Audi's Nico Hulkenberg .",
-      "Antonelli came under increasing pressure from Norris, reporting a problem with the suspension that made his car pull to one side. That became apparent in dramatic fashion as he spun off the track in Turn 1, releasing Norris into the lead but being able to rejoin."
-    ],
-    "bullet_points": [
-      "Lando Norris has snared his third win of 2026 in a mixed weather Formula 1 Brazilian Grand Prix, defeating a resurgent Max Verstappen while Mercedes claimed the world constructors' championship.",
-      "After reclaiming the lead from his world champion successor Kimi Antonelli early on when he spun off, polesitter Norris thwarted Verstappen's latest stunning Brazil comeback in a race which both started and finished in the wet, bookending a dry spell.",
-      "Official reporting verified via Autosport news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors' title",
-        "badge": "Breaking",
-        "text": "Lando Norris has snared his third win of 2026 in a mixed weather Formula 1 Brazilian Grand Prix, defeating a resurgent Max Verstappen while Mercedes claimed the world constructors' championship.",
-        "image": "https://cdn-2.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg",
-        "alt": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors' title cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "After reclaiming the lead from his world champion successor Kimi Antonelli early on when he spun off, polesitter Norris thwarted Verstappen's latest stunning Brazil comeback in a race which both started and finished in the wet, bookending a dry spell.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Lando Norris has snared his third win of 2026 in a mixed weather Formula 1 Brazilian Grand Prix, defeating a resurgent Max Verstappen while Mercedes claimed the world constructors' championship.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Motorsport & F1 Tech",
-        "text": "After reclaiming the lead from his world champion successor Kimi Antonelli early on when he spun off, polesitter Norris thwarted Verstappen's latest stunning Brazil comeback in a race which both started and finished in the wet, bookending a dry spell.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Autosport.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 70
-  },
-  {
-    "id": "art_1794176176_2",
-    "slug": "top-selling-electric-vehicles-in-the-world-32-ev-share-in-septemb",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "CleanTechnica",
-    "raw_title": "Top Selling Electric Vehicles in the World — 32% EV Share in September!",
-    "title": "Top Selling Electric Vehicles in the World - 32% EV Share in September!",
-    "raw_summary": "Plugin vehicle registrations were up 3% year over year (YoY) globally in September, ending the month at around 2.16 million units, pretty darn close to the all-time record (2.17 million) set last December. Once again, BEVs (+8% YoY) and PHEVs (-9% YoY) are experiencing opposite dynamics. Pure electrics actually set a record high of 1.54 million registrations. This means that, while plugin vehicle YTD growth remains low (+4% YoY), that is solely due to the PHEV blues (-10% YoY). BEVs are on their way back to normal (+12%).",
-    "summary": "Plugin vehicle registrations were up 3% year over year (YoY) globally in September, ending the month at around 2.16 million units, pretty darn close to the all-time record (2.17 million) set last December. Once again, BEVs (+8% YoY) and PHEVs (-9% YoY) are experiencing opposite dynamics.",
-    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/2026-09-World-EV-Sales-September.png",
-    "original_url": "https://cleantechnica.com/2026/11/08/top-selling-electric-vehicles-in-the-world-32-ev-share-in-september/",
-    "published_at": "2026-11-08T18:47:58+00:00",
-    "time_ago": "3h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Plugin vehicle registrations were up 3% year over year (YoY) globally in September, ending the month at around 2.16 million units, pretty darn close to the all-time record (2.17 million) set last December. Once again, BEVs (+8% YoY) and PHEVs (-9% YoY) are experiencing opposite dynamics. Pure electrics actually set a record high of 1.54 million registrations.",
-      "This means that, while plugin vehicle YTD growth remains low (+4% YoY), that is solely due to the PHEV blues (-10% YoY). BEVs are on their way back to normal (+12%).",
-      "Share-wise, September saw BEVs end the month at 23% share, with the plugin tally increasing to 32% if we add in PHEVs. This near-record performance pulled the 2026 plugin share to higher levels. BEVs are now at 18% , while plugin hybrids are at 7% . Therefore, 2026 EV share is now at 25% .",
-      "Looking at the best selling models , there’s some news. The leader Tesla Model Y hit a new all-time record (165,000 units), thanks to a 17% YoY growth rate. That larger six-seat version is doing wonders here.",
-      "The runner-up spot went to the Tesla Model 3. Despite being down 4% YoY, it picked up enough deliveries (65,000) to surpass both the small Geely Xingyuan, also known as the E2 or EX2 in export markets, and the BYD Song.",
-      "Regarding Geely’s hatchback, the export highlights were Brazil (2,724 units), Australia (1,211), Indonesia (1,890), and Thailand (1,759).",
-      "Despite being relegated to 4th, the BYD Song was actually the fastest grower among the top 5, rising 19% YoY and reaching 54,519 registrations. This was due to an export push (the highlights being Brazil — 5,892 units, Italy — 2,134 units, and Germany — 2,028 units) and the new-generation Ultra body. Flash charging capabilities promise to recharge the Song’s sales and make it a serious candidate, not only for the silver medal in 2026, but also as strong competition to the Tesla Model Y in off-peak months.",
-      "In a near-record month, records were plenty, with six models in the top 20 reaching record highs. Besides the aforementioned Tesla Model Y, all the other five record scorers were compact models — a coincidence or an indication of where the market is going?"
-    ],
-    "bullet_points": [
-      "Plugin vehicle registrations were up 3% year over year (YoY) globally in September, ending the month at around 2.16 million units, pretty darn close to the all-time record (2.17 million) set last December.",
-      "Once again, BEVs (+8% YoY) and PHEVs (-9% YoY) are experiencing opposite dynamics.",
-      "Official reporting verified via CleanTechnica news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Top Selling Electric Vehicles in the World - 32% EV Share in September!",
-        "badge": "Breaking",
-        "text": "Plugin vehicle registrations were up 3% year over year (YoY) globally in September, ending the month at around 2.16 million units, pretty darn close to the all-time record (2.17 million) set last December.",
-        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/2026-09-World-EV-Sales-September.png",
-        "alt": "Top Selling Electric Vehicles in the World - 32% EV Share in September! cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Once again, BEVs (+8% YoY) and PHEVs (-9% YoY) are experiencing opposite dynamics.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Plugin vehicle registrations were up 3% year over year (YoY) globally in September, ending the month at around 2.16 million units, pretty darn close to the all-time record (2.17 million) set last December.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "Once again, BEVs (+8% YoY) and PHEVs (-9% YoY) are experiencing opposite dynamics.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from CleanTechnica.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 46
-  },
-  {
-    "id": "art_1794254252_13",
-    "slug": "f1-2026-brazilian-grand-prix-race-result-including-penalties",
-    "category": "sports",
-    "category_name": "Motorsport & F1 Tech",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🏁",
-    "source": "The Race",
-    "raw_title": "F1 2026 Brazilian Grand Prix race result including penalties",
-    "title": "F1 2026 Brazilian Grand Prix race result including penalties",
-    "raw_summary": "Lando Norris came out on top for McLaren in Formula 1's wild 2026 Brazilian Grand Prix amid changing weather as Max Verstappen came from the back to second. The main post-race penalty was Charles Leclerc being given a five-second punishment for pushing Liam Lawson wide to take seventh, which reversed their positions.",
-    "summary": "Lando Norris came out on top for McLaren in Formula 1's wild 2026 Brazilian Grand Prix amid changing weather as Max Verstappen came from the back to second. The main post-race penalty was Charles Leclerc being given a five-second punishment for pushing Liam Lawson wide to take seventh, which reversed their positions.",
-    "image_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453531_HiRes.jpg",
-    "original_url": "https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-race-result/",
-    "published_at": "2026-11-08T18:40:54+00:00",
-    "time_ago": "Yesterday",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Lando Norris came out on top for McLaren in Formula 1's wild 2026 Brazilian Grand Prix amid changing weather as Max Verstappen came from the back to second.",
-      "The main post-race penalty was Charles Leclerc being given a five-second punishment for pushing Liam Lawson wide to take seventh, which reversed their positions.",
-      "Kimi Antonelli and Ollie Bearman also received 5s penalties for unsafe pit releases without any impact on their respective fifth and 17th place finishes.",
-      "1 Lando Norris (McLaren) 2 Max Verstappen (Red Bull) +14.602s 3 Isack Hadjar (Red Bull) +24.485s 4 George Russell (Mercedes) +33.991s 5 Kimi Antonelli (Mercedes) +41.017s* 6 Oscar Piastri (McLaren) +56.475s 7 Liam Lawson (Racing Bulls) +1m15.402s 8 Charles Leclerc (Ferrari) +1m18.586s* 9 Lewis Hamilton (Ferrari) +1 lap 10 Nico Hulkenberg (Audi) +1 lap 11 Arvid Lindblad (Racing Bulls) +1 lap 12 Fernando Alonso (Aston Martin) +1 lap 13 Franco Colapinto (Alpine) +1 lap 14 Pierre Gasly (Alpine) +1 lap 15 Alex Albon (Williams) +1 lap 16 Gabriel Bortoleto (Audi) +1 lap 17 Ollie Bearman (Haas) +1 lap* 18 Sergio Perez (Cadillac) +2 laps 19 Carlos Sainz (Williams) +2 laps 20 Rafa Camara (Haas) +2 laps DNF Lance Stroll (Aston Martin) DNF Valtteri Bottas (Cadillac)"
-    ],
-    "bullet_points": [
-      "Lando Norris came out on top for McLaren in Formula 1's wild 2026 Brazilian Grand Prix amid changing weather as Max Verstappen came from the back to second.",
-      "The main post-race penalty was Charles Leclerc being given a five-second punishment for pushing Liam Lawson wide to take seventh, which reversed their positions.",
-      "Official reporting verified via The Race news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "F1 2026 Brazilian Grand Prix race result including penalties",
-        "badge": "Breaking",
-        "text": "Lando Norris came out on top for McLaren in Formula 1's wild 2026 Brazilian Grand Prix amid changing weather as Max Verstappen came from the back to second.",
-        "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453531_HiRes.jpg",
-        "alt": "F1 2026 Brazilian Grand Prix race result including penalties cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The main post-race penalty was Charles Leclerc being given a five-second punishment for pushing Liam Lawson wide to take seventh, which reversed their positions.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Lando Norris came out on top for McLaren in Formula 1's wild 2026 Brazilian Grand Prix amid changing weather as Max Verstappen came from the back to second.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Motorsport & F1 Tech",
-        "text": "The main post-race penalty was Charles Leclerc being given a five-second punishment for pushing Liam Lawson wide to take seventh, which reversed their positions.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from The Race.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 52
-  },
-  {
-    "id": "art_1794162713_7",
-    "slug": "why-pontiac-paid-the-scca-5-for-every-trans-am-it-built",
-    "category": "trending",
-    "category_name": "Viral Drives & Concepts",
-    "category_color": "#f43f5e",
-    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
-    "category_icon": "🔥",
-    "source": "Jalopnik",
-    "raw_title": "Why Pontiac Paid The SCCA $5 For Every Trans Am It Built",
-    "title": "Why Pontiac Paid The SCCA $5 For Every Trans Am It Built",
-    "raw_summary": "Pontiac had helped launch the muscle-car era in 1963 — when it debuted the GTO package for its 1964 Pontiac Tempest LeMans coupe — and the brand followed that up with the Firebird pony car in 1967. In 1969, both saw iconic variants take the stage. The former began courting customers with a new GTO trim called The Judge , while the latter hatched the Firebird Trans Am. Only, it wasn't called the Trans Am at first. The brand had originally tried out a variety of different ideas on the public, with \"Sebring\" coming out on top –- inspired, no doubt, by the country's oldest road-racing circuit, Sebring International Raceway in Sebring, Florida. Yet, when Pontiac went to register the name, it discovered Chrysler had gotten there first.",
-    "summary": "Pontiac had helped launch the muscle-car era in 1963 — when it debuted the GTO package for its 1964 Pontiac Tempest LeMans coupe — and the brand followed that up with the Firebird pony car in 1967. In 1969, both saw iconic variants take the stage.",
-    "image_url": "https://www.jalopnik.com/img/gallery/why-pontiac-paid-the-scca-5-for-every-trans-am-it-built/l-intro-1793213436.jpg",
-    "original_url": "https://www.jalopnik.com/2304510/why-pontiac-paid-scca-five-dollars-trans-am/",
-    "published_at": "2026-11-08T18:25:00+00:00",
-    "time_ago": "7m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Pontiac had helped launch the muscle-car era in 1963 — when it debuted the GTO package for its 1964 Pontiac Tempest LeMans coupe — and the brand followed that up with the Firebird pony car in 1967. In 1969, both saw iconic variants take the stage. The former began courting customers with a new GTO trim called The Judge , while the latter hatched the Firebird Trans Am.",
-      "Only, it wasn't called the Trans Am at first. The brand had originally tried out a variety of different ideas on the public, with \"Sebring\" coming out on top –- inspired, no doubt, by the country's oldest road-racing circuit, Sebring International Raceway in Sebring, Florida. Yet, when Pontiac went to register the name, it discovered Chrysler had gotten there first.",
-      "The public's next-most-popular names were \"Formula\" and \"Trans Am,\" so Pontiac snapped up both. Trans Am was reserved for the most powerful member of the Firebird family, which was actually a little odd. General Motors was already running Camaros in the Sports Car Club of America's Trans Am series. Moreover, Pontiac's decision ran into a roadblock anyways. It turns out that the brand didn't have permission from the SCCA to use that moniker, at least not at first. Once the lawyers got involved, Pontiac agreed to pay the organization $5 for every Firebird Trans Am it produced.",
-      "Now, finding the exact amount forked over isn't easy, but in 1979 alone, for instance, enthusiast sites say that Pontiac made more than 117,000 Tran Ams. Royalties-wise, that works out to a non-negligible total of $585,000, which is equivalent to about $2.7 million today. Some sources say that — during some seasons — the Pontiac royalty check was all that kept the SCCA out of bankruptcy.",
-      "One of the reasons Pontiac didn't put up a fuss about the royalty deal was that it didn't think it would actually sell that many. The SCCA apparently didn't realize what was going on until 1970 or 1971, and the brand had only produced 697 Trans Ams during the model's first partial year on the market — it went on sale in April of 1969. For some context, the entire Firebird lineup, in what was considered a down year, was worth 87,709 sales during 1969.",
-      "But one of the main reasons the Trans Am was introduced was to boost demand for the Firebird family. Helping to attract enthusiast customers was a pretty comprehensive package of upgrades that would set you back $724.60 (for a total Trans Am base price that opened at about $3,600). The highlight was under the hood, where Pontiac placed a standard 400-cubic-inch V8 with a Ram Air III intake system good for 330 bhp. As an alternative, buyers could opt for a more powerful setup with 345 bhp. It's backed by the same displacement, plus high-lift cams and upgraded valves/pistons. Additionally, there were standard dynamic details such as front/rear spoilers, functional hood scoops, a ride-and-handling package, high-effort variable-ratio power steering, high-effort power front disc brakes, and dual exhaust. Of course, when it comes to exhaust outlets, two isn't always better than one .",
-      "All '69 Trans Ams were then wrapped in a Cameo White exterior accented by Tyrol Blue racing stripes. One thing that did set some apart, however, was the body style. The majority of the first-year cars – 689 -– were hardtops, but 8 were convertibles.",
-      "Currently presented by Pirelli — and originally known as the Trans American Sedan Championship — the series was just about to wrap up its 60th-anniversary season at the Circuit of the Americas when this article was written. The very first race was held in 1966, and in an interesting coincidence, it was at Sebring."
-    ],
-    "bullet_points": [
-      "Pontiac had helped launch the muscle-car era in 1963 — when it debuted the GTO package for its 1964 Pontiac Tempest LeMans coupe — and the brand followed that up with the Firebird pony car in 1967.",
-      "In 1969, both saw iconic variants take the stage.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Why Pontiac Paid The SCCA $5 For Every Trans Am It Built",
-        "badge": "Breaking",
-        "text": "Pontiac had helped launch the muscle-car era in 1963 — when it debuted the GTO package for its 1964 Pontiac Tempest LeMans coupe — and the brand followed that up with the Firebird pony car in 1967.",
-        "image": "https://www.jalopnik.com/img/gallery/why-pontiac-paid-the-scca-5-for-every-trans-am-it-built/l-intro-1793213436.jpg",
-        "alt": "Why Pontiac Paid The SCCA $5 For Every Trans Am It Built cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "In 1969, both saw iconic variants take the stage.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Pontiac had helped launch the muscle-car era in 1963 — when it debuted the GTO package for its 1964 Pontiac Tempest LeMans coupe — and the brand followed that up with the Firebird pony car in 1967.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Viral Drives & Concepts",
-        "text": "In 1969, both saw iconic variants take the stage.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 46
-  },
-  {
-    "id": "art_1794162713_4",
-    "slug": "hungarian-vw-bus-goes-from-matchbox-the-movie-to-matchbox-the-toy",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Car and Driver",
-    "raw_title": "Hungarian VW Bus Goes from ‘Matchbox: The Movie’ to Matchbox, the Toy Car",
-    "title": "Hungarian VW Bus Goes from 'Matchbox: The Movie' to Matchbox, the Toy Car",
-    "raw_summary": "Filmed in Budapest and Bratislava, Matchbox: The Movie has a fairly tenuous connection to the little die-cast toys. Starring the always charismatic John Cena as a CIA agent racing to deal with a rogue nuclear weapon, the central conceit is that a group of friends who used to play together with Matchbox cars in middle school reunite in adulthood to take down the bad guys. It’s a movie that plays like a kid narrating a story while pushing die-cast cars around the carpet, which feels like a pretty good fit for the brand association. Compared to Hot Wheels, which are all about speed and pulling off loops on those iconic orange tracks, Matchbox as a brand skews a little more realistic, and often features construction machines and vintage vehicles.",
-    "summary": "Filmed in Budapest and Bratislava, Matchbox: The Movie has a fairly tenuous connection to the little die-cast toys. Starring the always charismatic John Cena as a CIA agent racing to deal with a rogue nuclear weapon, the central conceit is that a group of friends who used to play together with Matchbox cars in middle school reunite in adulthood to take down the bad guys.",
-    "image_url": "https://hips.hearstapps.com/hmg-prod/images/5aa85e1b-6bf4-4b11-849e-08232adc3cb9.jpg?crop=1xw:0.749930728734xh;center,top&resize=1200:*",
-    "original_url": "https://www.caranddriver.com/features/a74263645/hungarian-vw-microbus-matchbox-the-movie/",
-    "published_at": "2026-11-08T18:00:00+00:00",
-    "time_ago": "32m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Filmed in Budapest and Bratislava, Matchbox: The Movie has a fairly tenuous connection to the little die-cast toys. Starring the always charismatic John Cena as a CIA agent racing to deal with a rogue nuclear weapon, the central conceit is that a group of friends who used to play together with Matchbox cars in middle school reunite in adulthood to take down the bad guys.",
-      "It’s a movie that plays like a kid narrating a story while pushing die-cast cars around the carpet, which feels like a pretty good fit for the brand association. Compared to Hot Wheels, which are all about speed and pulling off loops on those iconic orange tracks, Matchbox as a brand skews a little more realistic, and often features construction machines and vintage vehicles.",
-      "Speaking of iconic orange, one of the central vehicles onscreen is a 1970s Volkswagen T2, the beloved Microbus. These things are such a huge part of popular culture that one was the main plot point in an episode of Futurama , which saw the crew hopping into a VW Bus and following Beck’s band around. (Best joke: When asked by Professor Farnsworth where the onboard time dilation device is, Fry reaches under the seat and produces a bong.)",
-      "In this case, two VW T2s were used in filming, both owned by Budapest-based Dávid Sipos. One of the two needed sufficient modification for stunt driving that it ended up no longer road legal, but the more original of the pair survived the filming schedule unscathed and came back into Sipos’s possession. As a tie-in with the film, Mattel of course produced Matchbox models of the film cars, and Sipos was delighted to find that the blister-pack model of the VW Bus was a faithful match for his car, right down to the aftermarket sunroof and identical Hungarian license plate.",
-      "The story gets even better, with the involvement of the original owner who picked up the keys to this orange bus some 50 years ago. If a VW Microbus is a symbol of counterculture in the U.S., that’s not the case overseas. In 1964, reacting to European tariffs on U.S. chicken products, President Lyndon B. Johnson enacted the so-called “chicken tax,” slapping a 25 percent penalty on various products including imported European light trucks.",
-      "For Volkswagen, this meant the death knell of U.S.-exported T2 pickups and panel vans, so the Microbus was typically a passenger van stateside. In Europe, working T2s continued chugging along as part of the furniture of a busy city, getting people and goods where they needed to go.",
-      "This particular 1976 T2B was delivered by train to Budapest for the Hungarian Water Works to use as a service vehicle. A young employee with the last name Thaly drove it right off the rail car at the depot, and it entered fleet service for the next eight years.",
-      "By 1984, something more modern was needed, so the company offered the VW to Thaly, who promptly snapped it up. He kept working, but the T2 effectively enjoyed a sunny retirement, stored carefully in a garage and used as a summertime camping vehicle driven throughout Europe, first with his children, then with his grandchildren. This went on for three decades."
-    ],
-    "bullet_points": [
-      "Filmed in Budapest and Bratislava, Matchbox: The Movie has a fairly tenuous connection to the little die-cast toys.",
-      "Starring the always charismatic John Cena as a CIA agent racing to deal with a rogue nuclear weapon, the central conceit is that a group of friends who used to play together with Matchbox cars in middle school reunite in adulthood to take down the bad guys.",
-      "Official reporting verified via Car and Driver news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Hungarian VW Bus Goes from 'Matchbox: The Movie' to Matchbox, the Toy Car",
-        "badge": "Breaking",
-        "text": "Filmed in Budapest and Bratislava, Matchbox: The Movie has a fairly tenuous connection to the little die-cast toys.",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/5aa85e1b-6bf4-4b11-849e-08232adc3cb9.jpg?crop=1xw:0.749930728734xh;center,top&resize=1200:*",
-        "alt": "Hungarian VW Bus Goes from 'Matchbox: The Movie' to Matchbox, the Toy Car cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Starring the always charismatic John Cena as a CIA agent racing to deal with a rogue nuclear weapon, the central conceit is that a group of friends who used to play together with Matchbox cars in middle school reunite in adulthood to take down the bad guys.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Filmed in Budapest and Bratislava, Matchbox: The Movie has a fairly tenuous connection to the little die-cast toys.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "Starring the always charismatic John Cena as a CIA agent racing to deal with a rogue nuclear weapon, the central conceit is that a group of friends who used to play together with Matchbox cars in middle school reunite in adulthood to take down the bad guys.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Car and Driver.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 65
-  },
-  {
-    "id": "art_1794162713_6",
-    "slug": "heres-why-fuel-economy-drops-so-much-at-75-mph",
-    "category": "business",
-    "category_name": "Auto Industry & Deals",
-    "category_color": "#10b981",
-    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-    "category_icon": "📈",
-    "source": "Carscoops",
-    "raw_title": "Here's Why Fuel Economy Drops So Much At 75 MPH",
-    "title": "Here's Why Fuel Economy Drops So Much At 75 MPH",
-    "raw_summary": "It is a well known fact that combustion vehicles have greater fuel economy ratings on the highway rather than in urban driving scenarios. However, this reality can be easily reversed if you exceed a certain speed threshold. Setting the cruise control to 75 mph may seem to be a good compromise between travel time, safety, and fuel consumption. However, data proves you could be saving more money by easing off the throttle. Generally speaking, engines burn more fuel when they get pushed. But it's not only acceleration that forces an engine to work hard. Weight and aerodynamic resistance perform an important role in efficiency. So where does speed come into play? The math comes down to fluid dynamics. Aerodynamic drag force is directly proportional to air density, the object's frontal area, its streamlined shape, and the square of its speed. The \"square\" part is what makes speed more important than the other factors.",
-    "summary": "It is a well known fact that combustion vehicles have greater fuel economy ratings on the highway rather than in urban driving scenarios. However, this reality can be easily reversed if you exceed a certain speed threshold. Setting the cruise control to 75 mph may seem to be a good compromise between travel time, safety, and fuel consumption.",
-    "image_url": "https://www.carscoops.com/img/gallery/heres-why-fuel-economy-drops-so-much-at-75-mph/l-intro-1793719295.jpg",
-    "original_url": "https://www.carscoops.com/2305269/why-fuel-economy-drops-25-percent-75-mph/",
-    "published_at": "2026-11-08T18:00:00+00:00",
-    "time_ago": "32m ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "It is a well known fact that combustion vehicles have greater fuel economy ratings on the highway rather than in urban driving scenarios. However, this reality can be easily reversed if you exceed a certain speed threshold. Setting the cruise control to 75 mph may seem to be a good compromise between travel time, safety, and fuel consumption. However, data proves you could be saving more money by easing off the throttle.",
-      "Generally speaking, engines burn more fuel when they get pushed. But it's not only acceleration that forces an engine to work hard. Weight and aerodynamic resistance perform an important role in efficiency. So where does speed come into play? The math comes down to fluid dynamics. Aerodynamic drag force is directly proportional to air density, the object's frontal area, its streamlined shape, and the square of its speed. The \"square\" part is what makes speed more important than the other factors.",
-      "According to government data from the Oak Ridge National Laboratory, the fuel efficiency of a conventional midsize sedan travelling at 55 mph is 45 mpg. This figure drops to 38 mpg if you accelerate to 65 mph and takes a further dip to 32 mpg at 75 mph. The effect of these numbers is even more profound at a time when fuel prices have skyrocketed . Based on the current U.S. average price of $4.25 per gallon of regular gas, someone who covers 15,000 highway miles per year can save as much as $576 annually if they drive at 55 mph instead of 75 mph.",
-      "As for vehicles with other kinds of powertrains, the fuel efficiency of a diesel car drops from 55 mpg at 55 mph to 37 mpg at 75 mph. At the time of writing, diesel costs $6.35 per gallon in the U.S., meaning that the annual savings for 15,000 highway miles are over $800 per you if you stick to 55 mph instead of 75 mph.",
-      "Electrified models are not immune to the issue as they are also greatly affected by drag. According to the same study, a hybrid midsize sedan drops from 46 mpg at 55 mph to 33 mpg at 75 mph. Notably, hybrids reach their efficiency peak at 45 mph, where they return up to 55 mpg, meaning fast highway cruising negates much of the hybrid powertrain advantage . Bear in mind that these estimates are for sedans, meaning that boxier trucks and SUVs with a larger frontal area will have a greater penalty at higher speeds.",
-      "Finally, while we don't have access to equivalent data for EVs, range drops when you go faster, forcing you to spend more time charging. Still, EVs typically have favorable drag coefficient by design, and electricity costs are lower than gasoline and diesel. To conclude, drivers who are patient enough not to exceed 55 mph on the highway are going to have some spare cash at the end of the year. If you want you lower your fuel spending even further, be sure not to carry unnecessary weight or equipment that might increase drag ."
-    ],
-    "bullet_points": [
-      "It is a well known fact that combustion vehicles have greater fuel economy ratings on the highway rather than in urban driving scenarios.",
-      "However, this reality can be easily reversed if you exceed a certain speed threshold.",
-      "Setting the cruise control to 75 mph may seem to be a good compromise between travel time, safety, and fuel consumption."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Here's Why Fuel Economy Drops So Much At 75 MPH",
-        "badge": "Breaking",
-        "text": "It is a well known fact that combustion vehicles have greater fuel economy ratings on the highway rather than in urban driving scenarios.",
-        "image": "https://www.carscoops.com/img/gallery/heres-why-fuel-economy-drops-so-much-at-75-mph/l-intro-1793719295.jpg",
-        "alt": "Here's Why Fuel Economy Drops So Much At 75 MPH cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "However, this reality can be easily reversed if you exceed a certain speed threshold.",
-        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Setting the cruise control to 75 mph may seem to be a good compromise between travel time, safety, and fuel consumption.",
-        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Auto Industry & Deals",
-        "text": "However, this reality can be easily reversed if you exceed a certain speed threshold.",
-        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Carscoops.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 58
-  },
-  {
-    "id": "art_1794162713_8",
-    "slug": "well-someone-3d-printed-a-whole-engine-and-it-actually-ran-sort-o",
-    "category": "trending",
-    "category_name": "Viral Drives & Concepts",
-    "category_color": "#f43f5e",
-    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
-    "category_icon": "🔥",
-    "source": "Jalopnik",
-    "raw_title": "Well, Someone 3D-Printed A Whole Engine And It Actually Ran (Sort Of)",
-    "title": "Well, Someone 3D-Printed A Whole Engine And It Actually Ran (Sort Of)",
-    "raw_summary": "You've probably sat around a campfire at some point in your life and figured out firsthand that plastic and heat don't mix. Whether you threw an empty soda bottle or marshmallow bag in and watched it shrivel up, or propped your sandals up on the stones around the fire and witnessed your soles melting, you get it. Plastic is a pretty good insulator, but it has a pretty low melting point. ABS has a melting point of around 440 degrees Fahrenheit, while most available PLAs melt at 340-ish degrees. If you've spent any time looking at your engine's oil or coolant temperature gauges, you'll know that a running engine is pretty stable in the low 200-degree range, but the combustion chamber can get up to 2,500 degrees during the peak of the power stroke. Plastic doesn't stand a chance, which is why most engines are crafted from cast iron or aluminum.",
-    "summary": "You've probably sat around a campfire at some point in your life and figured out firsthand that plastic and heat don't mix. Whether you threw an empty soda bottle or marshmallow bag in and watched it shrivel up, or propped your sandals up on the stones around the fire and witnessed your soles melting, you get it.",
-    "image_url": "https://www.jalopnik.com/img/gallery/well-someone-3d-printed-a-whole-engine-and-it-actually-ran-sort-of/l-intro-1793212503.jpg",
-    "original_url": "https://www.jalopnik.com/2304508/3d-printed-engine-actually-runs/",
-    "published_at": "2026-11-08T17:25:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "You've probably sat around a campfire at some point in your life and figured out firsthand that plastic and heat don't mix. Whether you threw an empty soda bottle or marshmallow bag in and watched it shrivel up, or propped your sandals up on the stones around the fire and witnessed your soles melting, you get it.",
-      "Plastic is a pretty good insulator, but it has a pretty low melting point. ABS has a melting point of around 440 degrees Fahrenheit, while most available PLAs melt at 340-ish degrees. If you've spent any time looking at your engine's oil or coolant temperature gauges, you'll know that a running engine is pretty stable in the low 200-degree range, but the combustion chamber can get up to 2,500 degrees during the peak of the power stroke. Plastic doesn't stand a chance, which is why most engines are crafted from cast iron or aluminum.",
-      "We've already seen what happens when you try to use a 3D-printed cylinder head ; the results aren't pretty. With the kind of heat an engine sees, plastic just isn't the preferred material to work with. There are certainly some engines that have made extensive use of plastic, including the Torlon-based engines from Polimotor Research in the 1970s and 80s , but there isn't a high-enough-heat plastic to manage combustion chamber heat spikes, so a blend of metal and plastic is necessary.",
-      "YouTuber and mad scientist Alexander's Laboratory recently built and ran a pair of 3D-printed plastic engines, a single-cylinder and a parallel twin. We'll talk through both engines and their unique challenges in a second. First, we should take a step back and think about the implications of potentially building real working 3D-printed engines as prices come down and the technology both improves and becomes commonplace.",
-      "Have you ever built (or rebuilt) an engine for one of your project cars? There are just so many pieces and parts you have to buy, and there's so much measuring and clearance-checking to be done before the parts can all get bolted together. It's time-consuming and expensive, but the longest time you'll spend working on it is the shipping time to get all of the parts. Imagine if, someday, every engine in every car shared interchangeable components that could be stocked at any local auto parts store, and the rest could be 3D-printed at home. Wouldn't that be cool?",
-      "There are certainly still components that would need to be made out of metal, of course. The obvious first step would be to use metal for the combustion chamber, cylinder head, pistons, and crankshaft. You would also need to figure out a bearing system that works for the crankshaft and camshafts. Then there are things like the valves, valve springs, hardware, water pump components, and the accessory drive pullies.",
-      "Alexander is able to make most of his engines out of plastic, including the water pump and drive gears, but I'd go with metal for those on a full-scale engine, purely for longevity's sake. In the end, if you could make it work, you would have an engine significantly lighter than a comparable aluminum cylinder head and engine block unit. Recent research indicates swapping from a metal component to a 3D-printed plastic replacement cuts weight by 30% and costs by 15%. With enough research, you could add structural lattice inside some areas of components to make it even lighter, or allow better coolant flow to critical heat spots. Now this is exciting!",
-      "If you wanted to build a 3D-printed plastic engine, what steps would you need to take so it would run for more than a few seconds? As mentioned above, some metal is needed to keep it alive. Alexander strategically used machined steel for both the cylinder walls and the combustion chamber surface. This is smart, as it allows a sealing surface for the metal valves and the ability to thread in a common spark plug. The crankshaft is also metal, as is the surface of the pistons, but pretty much everything else comes straight off the printer."
-    ],
-    "bullet_points": [
-      "You've probably sat around a campfire at some point in your life and figured out firsthand that plastic and heat don't mix.",
-      "Whether you threw an empty soda bottle or marshmallow bag in and watched it shrivel up, or propped your sandals up on the stones around the fire and witnessed your soles melting, you get it.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Well, Someone 3D-Printed A Whole Engine And It Actually Ran (Sort Of)",
-        "badge": "Breaking",
-        "text": "You've probably sat around a campfire at some point in your life and figured out firsthand that plastic and heat don't mix.",
-        "image": "https://www.jalopnik.com/img/gallery/well-someone-3d-printed-a-whole-engine-and-it-actually-ran-sort-of/l-intro-1793212503.jpg",
-        "alt": "Well, Someone 3D-Printed A Whole Engine And It Actually Ran (Sort Of) cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Whether you threw an empty soda bottle or marshmallow bag in and watched it shrivel up, or propped your sandals up on the stones around the fire and witnessed your soles melting, you get it.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "You've probably sat around a campfire at some point in your life and figured out firsthand that plastic and heat don't mix.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Viral Drives & Concepts",
-        "text": "Whether you threw an empty soda bottle or marshmallow bag in and watched it shrivel up, or propped your sandals up on the stones around the fire and witnessed your soles melting, you get it.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 57
-  },
-  {
-    "id": "art_1794162713_2",
-    "slug": "french-carmaker-renault-wants-to-get-into-the-military-robot-busi",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "French carmaker Renault wants to get into the military robot business",
-    "title": "French carmaker Renault wants to get into the military robot business",
-    "raw_summary": "Forget what your Fox News -addicted uncle told you about cheese-eating surrender monkeys. The French military has centuries of storied military victories and traditions behind it, and Renault wants in on that action with a new, autonomous electric vehicle platform designed to tackle the Armée de Terre’s most demanding missions. Co-developed by the EV experts at Renault Group and the defense experts at Belgian electronics firm John Cockerill, the new Forefront concept previews a new, modular ground vehicle that can be rapidly industrialized at a controlled cost, with unique mobility and off-road performance, and capable of autonomously navigating complex terrain. The result is a machine that could front-line logistical capabilities for both defense and civilian applications, enabling missions to be carried out remotely in very high-risk and hard‑to‑reach environments.",
-    "summary": "Forget what your Fox News -addicted uncle told you about cheese-eating surrender monkeys. The French military has centuries of storied military victories and traditions behind it, and Renault wants in on that action with a new, autonomous electric vehicle platform designed to tackle the Armée de Terre’s most demanding missions.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/renault_MILITARY_MAIN.jpg?quality=82&strip=all&w=1600",
-    "original_url": "https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business/",
-    "published_at": "2026-11-08T17:19:39+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Forget what your Fox News -addicted uncle told you about cheese-eating surrender monkeys. The French military has centuries of storied military victories and traditions behind it, and Renault wants in on that action with a new, autonomous electric vehicle platform designed to tackle the Armée de Terre’s most demanding missions.",
-      "Co-developed by the EV experts at Renault Group and the defense experts at Belgian electronics firm John Cockerill, the new Forefront concept previews a new, modular ground vehicle that can be rapidly industrialized at a controlled cost, with unique mobility and off-road performance, and capable of autonomously navigating complex terrain. The result is a machine that could front-line logistical capabilities for both defense and civilian applications, enabling missions to be carried out remotely in very high-risk and hard‑to‑reach environments.",
-      "“Forefront Concept … demonstrates the contribution that Renault Group’s industrial and technological expertise can make to a strategic sector such as unmanned ground vehicles with multiple applications expected across both civilian and military sectors in the years to come,” explains François Provost, CEO, Renault Group. “This innovative project brings together two complementary areas of expertise: Renault Group’s in the rapid, large-scale and cost-effective development and production of high-performance, reliable technological products and John Cockerill’s in the defense industry.”",
-      "Renault is quick to point out that its new concept isn’t just suitable for military work. Although it’s worth pointing out that the Renault-provided image, above, isn’t just AI slop: it would be impractical if it was real, with no real obvious way to get those RCP pipes on or off the thing. That said, presenting their military killbot as a construction mule is at least more credible than the “ ambulance ” and “ troop transport ” use cases we’ve seen touted by similar concepts on the American side.",
-      "Forefront seems to be little more than a rendering at this stage, with the first of the Forefront concept prototypes set to take part in a number of exercises and trials in the months ahead to further refine the concept.",
-      "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage , a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.",
-      "Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way. Get started here ."
-    ],
-    "bullet_points": [
-      "Forget what your Fox News -addicted uncle told you about cheese-eating surrender monkeys.",
-      "The French military has centuries of storied military victories and traditions behind it, and Renault wants in on that action with a new, autonomous electric vehicle platform designed to tackle the Armée de Terre’s most demanding missions.",
-      "Official reporting verified via Electrek news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "French carmaker Renault wants to get into the military robot business",
-        "badge": "Breaking",
-        "text": "Forget what your Fox News -addicted uncle told you about cheese-eating surrender monkeys.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/renault_MILITARY_MAIN.jpg?quality=82&strip=all&w=1600",
-        "alt": "French carmaker Renault wants to get into the military robot business cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The French military has centuries of storied military victories and traditions behind it, and Renault wants in on that action with a new, autonomous electric vehicle platform designed to tackle the Armée de Terre’s most demanding missions.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Forget what your Fox News -addicted uncle told you about cheese-eating surrender monkeys.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "The French military has centuries of storied military victories and traditions behind it, and Renault wants in on that action with a new, autonomous electric vehicle platform designed to tackle the Armée de Terre’s most demanding missions.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 50
-  },
-  {
-    "id": "art_1794162713_11",
-    "slug": "gloating-emails-to-a-newspaper-solved-the-arson-spree-that-hit-12",
-    "category": "entertainment",
-    "category_name": "Car Culture & Restomods",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-    "category_icon": "🎬",
-    "source": "Jalopnik",
-    "raw_title": "Gloating Emails To A Newspaper Solved The Arson Spree That Hit 125 SUVs In One Night",
-    "title": "Gloating Emails To A Newspaper Solved The Arson Spree That Hit 125 SUVs In One Night",
-    "raw_summary": "In the early morning hours of August 22, 2003, in West Covina, California, vandals damaged one building and 125 SUVs across four dealerships and a private neighborhood with paint nd destroyed others with firebombs. The vandals spray-painted messages like \"I love POLLUTION\" and \"SUV = TERRORISM\". Most of all, they repeatedly painted the acronym \"ELF,\" linking them to the Earth Liberation Front, a leaderless, loosely organized activist group. ELF targeted property and managed to avoid causing serious physical harm to anyone in hundreds of credited attacks from the late 1990s through the 2000s. The government branded ELF a terrorist group, partly because ELF used destructive tactics like arson, which is a common tool of militant groups . And, in fact, multiple SUVs were set on fire that night in 2003. Either way, the government knew they were looking for passionate environmentalists. Within just a couple of weeks, the feds arrested a suspect, Josh Connole. Connole was a peace activist, vegetarian, and solar panel sales rep. He drove an EV and lived at a commune. All of those things seemed to make him a perfect fit for a particular kind of profile.",
-    "summary": "In the early morning hours of August 22, 2003, in West Covina, California, vandals damaged one building and 125 SUVs across four dealerships and a private neighborhood with paint nd destroyed others with firebombs. The vandals spray-painted messages like \"I love POLLUTION\" and \"SUV = TERRORISM\".",
-    "image_url": "https://www.jalopnik.com/img/gallery/gloating-emails-to-a-newspaper-solved-the-arson-spree-that-hit-125-suvs-in-one-night/l-intro-1793199652.jpg",
-    "original_url": "https://www.jalopnik.com/2304503/suvs-arson-spree-solved-gloating-emails-newspaper/",
-    "published_at": "2026-11-08T17:05:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "In the early morning hours of August 22, 2003, in West Covina, California, vandals damaged one building and 125 SUVs across four dealerships and a private neighborhood with paint nd destroyed others with firebombs. The vandals spray-painted messages like \"I love POLLUTION\" and \"SUV = TERRORISM\". Most of all, they repeatedly painted the acronym \"ELF,\" linking them to the Earth Liberation Front, a leaderless, loosely organized activist group. ELF targeted property and managed to avoid causing serious physical harm to anyone in hundreds of credited attacks from the late 1990s through the 2000s. The government branded ELF a terrorist group, partly because ELF used destructive tactics like arson, which is a common tool of militant groups . And, in fact, multiple SUVs were set on fire that night in 2003.",
-      "Either way, the government knew they were looking for passionate environmentalists. Within just a couple of weeks, the feds arrested a suspect, Josh Connole. Connole was a peace activist, vegetarian, and solar panel sales rep. He drove an EV and lived at a commune. All of those things seemed to make him a perfect fit for a particular kind of profile.",
-      "But Connole wasn't the guy. After his arrest was announced, a reporter at the LA Times received the first of multiple emails from \"Tony Marsden\" that read, \"The police have the wrong man here. I was amongst those responsible for the SUV attacks.\"",
-      "Was the sender concerned about an innocent man paying for their crimes? Maybe, but some gloating was involved, too. \"We left plenty of clues, none of them pointing to Josh,\" the message said, then added smugly, \"The FBI hasn't seemed to pick up on any of them, which makes the whole ordeal very boring for us, the true culprits.\" To prove his involvement, he noted that he had spray-painted an equation by Leonhard Euler, an 18th-century Swiss mathematician, on one of the SUVs. That was a detail that hadn't been released to the public.",
-      "His boredom wouldn't last long, as the emails would be traced to his college, Caltech. Apparently, he couldn't be bothered to send the emails from another location. Law enforcement seized multiple computers from the school and found a cache of the email messages on one of the machines, sent right after the sender checked his own messages. The actual sender of the email, as you might have guessed, was not named \"Tony Marsden.\" His name was William \"Billy\" Cottrell, and he was going for his PhD in theoretical physics at Caltech.",
-      "If Billy thought that he could successfully deny sending the emails or his involvement in the spree, that wouldn't last long. Investigators soon matched his DNA to a headband found at the scene of the crime. For Billy, the jig was up.",
-      "At first, Billy told investigators he wouldn't implicate anyone else in the spree, but later blamed the arson part of it entirely on his friends, Tyler Johnson and Michie Oe. According to Billy, whose statements are a little self-serving and should probably be taken with a grain of salt, Tyler and Michie showed up that night and convinced him to go spray-paint some SUVs with them. Billy wouldn't have seen this as an odd request, since he and Tyler had recently planned to plaster a couple of hundred SUVs with bumper stickers that said, \"My SUV supports terrorism,\" though that plan fell through.",
-      "The three hit one dealership, then another before moving on to a private neighborhood where they vandalized some more SUVs. It was in that neighborhood where Tyler, according to Billy, set the first SUV on fire. Billy claimed that Tyler had never told him about plans to set anything on fire, and he objected when Tyler used the first firebomb. Supposedly, Tyler said it wouldn't happen again. But Tyler didn't stop, and more SUVs were set ablaze at the last dealership hit that night. In fact, a Molotov cocktail accidentally hit Billy's clothes, setting them on fire. He quickly took off his shirt, which is how his headband wound up on the ground for investigators to find."
-    ],
-    "bullet_points": [
-      "In the early morning hours of August 22, 2003, in West Covina, California, vandals damaged one building and 125 SUVs across four dealerships and a private neighborhood with paint nd destroyed others with firebombs.",
-      "The vandals spray-painted messages like \"I love POLLUTION\" and \"SUV = TERRORISM\".",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Gloating Emails To A Newspaper Solved The Arson Spree That Hit 125 SUVs In One Night",
-        "badge": "Breaking",
-        "text": "In the early morning hours of August 22, 2003, in West Covina, California, vandals damaged one building and 125 SUVs across four dealerships and a private neighborhood with paint nd destroyed others with firebombs.",
-        "image": "https://www.jalopnik.com/img/gallery/gloating-emails-to-a-newspaper-solved-the-arson-spree-that-hit-125-suvs-in-one-night/l-intro-1793199652.jpg",
-        "alt": "Gloating Emails To A Newspaper Solved The Arson Spree That Hit 125 SUVs In One Night cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The vandals spray-painted messages like \"I love POLLUTION\" and \"SUV = TERRORISM\".",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "In the early morning hours of August 22, 2003, in West Covina, California, vandals damaged one building and 125 SUVs across four dealerships and a private neighborhood with paint nd destroyed others with firebombs.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Car Culture & Restomods",
-        "text": "The vandals spray-painted messages like \"I love POLLUTION\" and \"SUV = TERRORISM\".",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 46
-  },
-  {
-    "id": "art_1794162713_3",
-    "slug": "techcrunch-mobility-the-cybertruck-experiment-is-over",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "TechCrunch",
-    "raw_title": "TechCrunch Mobility: The Cybertruck experiment is over",
-    "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-    "raw_summary": "Welcome back to TechCrunch Mobility , your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility ! Almost seven years ago, while clutching a laptop, my phone, and a notebook in a sea of Tesla fans, I watched head designer Franz von Holzhausen throw a metal, baseball-sized ball at the driver’s-side window of the Cybertruck . The result was cracked glass — actually, two by the end of the presentation — and some awkward jokes and chuckling by CEO Elon Musk .",
-    "summary": "Welcome back to TechCrunch Mobility , your hub for the future of transportation and now, more than ever, the role AI is playing in it. Almost seven years ago, while clutching a laptop, my phone, and a notebook in a sea of Tesla fans, I watched head designer Franz von Holzhausen throw a metal, baseball-sized ball at the driver’s-side window of the Cybertruck .",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2020/05/Cybertruck-4.png?resize=1600,1067",
-    "original_url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-    "published_at": "2026-11-08T17:02:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Welcome back to TechCrunch Mobility , your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility !",
-      "Almost seven years ago, while clutching a laptop, my phone, and a notebook in a sea of Tesla fans, I watched head designer Franz von Holzhausen throw a metal, baseball-sized ball at the driver’s-side window of the Cybertruck . The result was cracked glass — actually, two by the end of the presentation — and some awkward jokes and chuckling by CEO Elon Musk .",
-      "I have witnessed a number of stunning, odd, and fantastical moments at Tesla events. But the Cybertruck reveal was the most interesting — and not because of the postapocalyptic design. It was the crowd.",
-      "When the truck rolled out onto the stage, I watched attendees gasp, some in revulsion. There was mumbling (“This certainly can’t be the Cybertruck ?” I heard Tesla superfans whisper). And yes, there were cheers. The momentary shock of Musk’s biggest fans was quickly replaced by support, acceptance, and finally, endorsement.",
-      "It moved like a wave over the crowd. By the time attendees were waiting in line for Cybertruck rides, the mood had shifted. Everyone was a fan.",
-      "That fandom carried over to Cybertruck reservations, which skyrocketed to 1 million, Musk said during a third-quarter earnings call in 2023. But it never made the leap to actual sales. Industry experts estimate about 71,000 Cybertrucks have been sold since the first deliveries began in November 2023.",
-      "And now the Cybertruck is headed to the scrap pile. Tesla will stop making the Cybertruck next year, Musk said Friday.",
-      "Was the vehicle too edgy? Maybe, but this was always going to be a niche market. I believe more practical reasons dampened sales. Musk promised the Cybertruck would have a 500-mile range and a price tag under $40,000. It achieved neither, senior reporter Sean O’Kane noted in his report ."
-    ],
-    "bullet_points": [
-      "Welcome back to TechCrunch Mobility , your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "Almost seven years ago, while clutching a laptop, my phone, and a notebook in a sea of Tesla fans, I watched head designer Franz von Holzhausen throw a metal, baseball-sized ball at the driver’s-side window of the Cybertruck .",
-      "Official reporting verified via TechCrunch news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "TechCrunch Mobility: The Cybertruck experiment is over",
-        "badge": "Breaking",
-        "text": "Welcome back to TechCrunch Mobility , your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-        "image": "https://techcrunch.com/wp-content/uploads/2020/05/Cybertruck-4.png?resize=1600,1067",
-        "alt": "TechCrunch Mobility: The Cybertruck experiment is over cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Almost seven years ago, while clutching a laptop, my phone, and a notebook in a sea of Tesla fans, I watched head designer Franz von Holzhausen throw a metal, baseball-sized ball at the driver’s-side window of the Cybertruck .",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Welcome back to TechCrunch Mobility , your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "Almost seven years ago, while clutching a laptop, my phone, and a notebook in a sea of Tesla fans, I watched head designer Franz von Holzhausen throw a metal, baseball-sized ball at the driver’s-side window of the Cybertruck .",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from TechCrunch.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 64
-  },
-  {
-    "id": "art_1794162713_5",
-    "slug": "tested-electric-genesis-gv60-magma-is-louder-than-a-corvette-stin",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Car and Driver",
-    "raw_title": "Tested: Electric Genesis GV60 Magma Is Louder Than a Corvette Stingray",
-    "title": "Tested: Electric Genesis GV60 Magma Is Louder Than a Corvette Stingray",
-    "raw_summary": "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers. We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ). The Genesis GV60 Magma is, well, red-hot. With up to 641 horsepower under your right foot, the electric crossover is a performance machine. Plus, as we detailed in a recent story , the performance GV60 doesn’t sacrifice any of that performance while in its faux-shifting mode, unlike the mechanically identical Hyundai Ioniq 5 N. In our testing, we found that not only is the GV60 Magma a performance monster, but it shouts like one, too.",
-    "summary": "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers. We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ). The Genesis GV60 Magma is, well, red-hot.",
-    "image_url": "https://hips.hearstapps.com/hmg-prod/images/27641e43-25bb-492b-89cc-af3b4ec1c9ca.jpg",
-    "original_url": "https://www.caranddriver.com/news/a74349397/genesis-gv60-louder-than-corvette-stingray-tested/",
-    "published_at": "2026-11-08T17:00:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers. We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ).",
-      "The Genesis GV60 Magma is, well, red-hot. With up to 641 horsepower under your right foot, the electric crossover is a performance machine. Plus, as we detailed in a recent story , the performance GV60 doesn’t sacrifice any of that performance while in its faux-shifting mode, unlike the mechanically identical Hyundai Ioniq 5 N. In our testing, we found that not only is the GV60 Magma a performance monster, but it shouts like one, too.",
-      "See all results for new 2027 Genesis GV60 Magma for sale near 20147",
-      "At full throttle and set to its Virtual Shift Mode, which simulates an eight-speed dual-clutch automatic transmission and a 9000-rpm V-6, we recorded the Magma’s interior volume at 102 decibels. That’s considerably louder than the Ioniq 5 N’s 71-dBA max. It’s also louder than a 2027 Chevrolet Corvette Stingray with its 535-hp 6.7-liter V-8. Even when equipped with its optional $5395 quad center-exit exhaust system, the Vette reached a peak of 97 dBA at full chat when we activated its Track mode.",
-      "Sure, the Magma’s volume stems from a few lines of code and some speakers masquerading as an engine, while the Corvette has the real thing. But the Magma’s performance is very real, and despite being fake, its simulated shifting and adjustable engine noise are impressive facsimiles.",
-      "Jack Fitzgerald’s love for cars stems from his as yet unshakable addiction to Formula 1. After a brief stint as a detailer for a local dealership group in college, he knew he needed a more permanent way to drive all the new cars he couldn’t afford and decided to pursue a career in auto writing. By hounding his college professors at the University of Wisconsin-Milwaukee, he was able to travel Wisconsin seeking out stories in the auto world before landing his dream job at Car and Driver . His new goal is to delay the inevitable demise of his 2010 Volkswagen Golf."
-    ],
-    "bullet_points": [
-      "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers.",
-      "We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ).",
-      "The Genesis GV60 Magma is, well, red-hot."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Tested: Electric Genesis GV60 Magma Is Louder Than a Corvette Stingray",
-        "badge": "Breaking",
-        "text": "Welcome to Car and Driver' s Testing Hub , where we zoom in on the test numbers.",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/27641e43-25bb-492b-89cc-af3b4ec1c9ca.jpg",
-        "alt": "Tested: Electric Genesis GV60 Magma Is Louder Than a Corvette Stingray cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ).",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The Genesis GV60 Magma is, well, red-hot.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "We've been pushing vehicles to their limits since 1956 to provide objective data to bolster our subjective impressions (you can see how we test here ).",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Car and Driver.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 50
   }
 ]

@@ -3,39 +3,219 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-10T17:12:28Z</lastmod>
+    <lastmod>2026-11-10T20:38:05Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-10T17:12:28Z</lastmod>
+    <lastmod>2026-11-10T20:38:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-10T17:12:28Z</lastmod>
+    <lastmod>2026-11-10T20:38:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-10T17:12:28Z</lastmod>
+    <lastmod>2026-11-10T20:38:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-10T17:12:28Z</lastmod>
+    <lastmod>2026-11-10T20:38:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-10T17:12:28Z</lastmod>
+    <lastmod>2026-11-10T20:38:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/norways-electric-snowplow-worked-sweden-added-hydrogen-anyway/</loc>
+    <lastmod>2026-11-10T20:27:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Snowplows_Hero_Editorial_1600x900.jpg</image:loc>
+      <image:title>Norway&#x27;s Electric Snowplow Worked. Sweden Added Hydrogen Anyway</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/norways-electric-snowplow-worked-sweden-added-hydrogen-anyway/</loc>
+    <lastmod>2026-11-10T20:27:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Snowplows_Hero_Editorial_1600x900.jpg</image:loc>
+      <image:title>Norway&#x27;s Electric Snowplow Worked. Sweden Added Hydrogen Anyway</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-bugatti-tourbillon/</loc>
+    <lastmod>2026-11-10T20:21:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0b5aaf86-c235-4031-bdfa-dddcaf0f1ced.jpg?crop=0.474xw:0.356xh;0.305xw,0.497xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Bugatti Tourbillon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-bugatti-tourbillon/</loc>
+    <lastmod>2026-11-10T20:21:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0b5aaf86-c235-4031-bdfa-dddcaf0f1ced.jpg?crop=0.474xw:0.356xh;0.305xw,0.497xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Bugatti Tourbillon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-mercedes-benz-sprinter/</loc>
+    <lastmod>2026-11-10T20:19:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-mercedes-benz-sprinter-110-661d4ee1b9722.jpg?crop=0.802xw:0.601xh;0.075xw,0.232xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Mercedes-Benz Sprinter</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-mercedes-benz-sprinter/</loc>
+    <lastmod>2026-11-10T20:19:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-mercedes-benz-sprinter-110-661d4ee1b9722.jpg?crop=0.802xw:0.601xh;0.075xw,0.232xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Mercedes-Benz Sprinter</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/michèle-mouton-driving-a-quattro-s1-up-pikes-peak-is-the-coolest-/</loc>
+    <lastmod>2026-11-10T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/michele-mouton-driving-a-quattro-s1-up-pikes-peak-is-the-coolest-way-to-promote-audis-new-q7/l-intro-1794261471.jpg</image:loc>
+      <image:title>Michèle Mouton Driving A Quattro S1 Up Pikes Peak Is The Coolest Way To Promote Audi&#x27;s New Q7</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/michèle-mouton-driving-a-quattro-s1-up-pikes-peak-is-the-coolest-/</loc>
+    <lastmod>2026-11-10T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/michele-mouton-driving-a-quattro-s1-up-pikes-peak-is-the-coolest-way-to-promote-audis-new-q7/l-intro-1794261471.jpg</image:loc>
+      <image:title>Michèle Mouton Driving A Quattro S1 Up Pikes Peak Is The Coolest Way To Promote Audi&#x27;s New Q7</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-new-bmw-i3-just-proved-how-efficient-an-ev-can-be-after-a-nea/</loc>
+    <lastmod>2026-11-10T18:40:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-i3-record-EV-road-trip.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The new BMW i3 just proved how efficient an EV can be after a nearly 3,700-mile road trip</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-new-bmw-i3-just-proved-how-efficient-an-ev-can-be-after-a-nea/</loc>
+    <lastmod>2026-11-10T18:40:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-i3-record-EV-road-trip.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>The new BMW i3 just proved how efficient an EV can be after a nearly 3,700-mile road trip</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/garmin-and-waze-just-teamed-up-on-a-clever-new-way-to-keep-cyclis/</loc>
+    <lastmod>2026-11-10T18:34:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/garminsmartwatchsafety-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Garmin and Waze just teamed up on a clever new way to keep cyclists safer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/garmin-and-waze-just-teamed-up-on-a-clever-new-way-to-keep-cyclis/</loc>
+    <lastmod>2026-11-10T18:34:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/garminsmartwatchsafety-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Garmin and Waze just teamed up on a clever new way to keep cyclists safer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/polestar-formula-2030-concept-makes-us-hope-polestar-will-be-back/</loc>
+    <lastmod>2026-11-10T18:01:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/polestar-formula-2030-concept-makes-us-hope-polestar-will-be-back-in-america-by-2030/l-intro-1794333603.jpg</image:loc>
+      <image:title>Polestar Formula 2030 Concept Makes Us Hope Polestar Will Be Back In America By 2030</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/polestar-formula-2030-concept-makes-us-hope-polestar-will-be-back/</loc>
+    <lastmod>2026-11-10T18:01:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/polestar-formula-2030-concept-makes-us-hope-polestar-will-be-back-in-america-by-2030/l-intro-1794333603.jpg</image:loc>
+      <image:title>Polestar Formula 2030 Concept Makes Us Hope Polestar Will Be Back In America By 2030</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/juiced-unveils-another-lower-cost-moto-styled-electric-bike-scram/</loc>
+    <lastmod>2026-11-10T18:00:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/juiced-scrambler-core-teens-e-bikes-teenagers-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Juiced unveils another lower-cost moto-styled electric bike: Scrambler Core</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/juiced-unveils-another-lower-cost-moto-styled-electric-bike-scram/</loc>
+    <lastmod>2026-11-10T18:00:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/juiced-scrambler-core-teens-e-bikes-teenagers-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Juiced unveils another lower-cost moto-styled electric bike: Scrambler Core</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-full-self-driving-one-step-closer-to-recreating-human-drivi/</loc>
+    <lastmod>2026-11-10T17:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/tesla-full-self-driving-one-step-closer-to-recreating-human-driving-by-overtaking-bicycles-exceeding-speed-limits-and-misidentifying-road-signs/l-intro-1794258497.jpg</image:loc>
+      <image:title>Tesla &#x27;Full Self-Driving&#x27; One Step Closer To Recreating Human Driving By Overtaking Bicycles, Exceeding Speed Limits And Misidentifying Road Signs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-full-self-driving-one-step-closer-to-recreating-human-drivi/</loc>
+    <lastmod>2026-11-10T17:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/tesla-full-self-driving-one-step-closer-to-recreating-human-driving-by-overtaking-bicycles-exceeding-speed-limits-and-misidentifying-road-signs/l-intro-1794258497.jpg</image:loc>
+      <image:title>Tesla &#x27;Full Self-Driving&#x27; One Step Closer To Recreating Human Driving By Overtaking Bicycles, Exceeding Speed Limits And Misidentifying Road Signs</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/australias-cheapest-new-car-is-this-13000-mg-hatchback-and-its-fa/</loc>
@@ -218,6 +398,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/toyota-revives-the-scion-brand-in-the-us-with-a-right-hand-drive-/</loc>
+    <lastmod>2026-11-10T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/toyota-revives-the-scion-brand-in-the-u-s-with-a-right-hand-drive-kei-truck/l-intro-1794326483.jpg</image:loc>
+      <image:title>Toyota Revives The Scion Brand In The U.S. With A Right-Hand-Drive Kei Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-revives-the-scion-brand-in-the-us-with-a-right-hand-drive-/</loc>
+    <lastmod>2026-11-10T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/toyota-revives-the-scion-brand-in-the-u-s-with-a-right-hand-drive-kei-truck/l-intro-1794326483.jpg</image:loc>
+      <image:title>Toyota Revives The Scion Brand In The U.S. With A Right-Hand-Drive Kei Truck</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/toyota-revives-the-scion-name-on-a-kei-truck-for-the-us/</loc>
     <lastmod>2026-11-10T16:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -255,6 +455,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/unit1-helmet-head-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Unit1 FARO and NEON review: I just found my new favorite e-bike helmets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/genesis-launches-the-flagship-gv90-electric-suv-in-korea-starting/</loc>
+    <lastmod>2026-11-10T15:07:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Genesis-GV90-launch-Korea.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Genesis launches the flagship GV90 electric SUV in Korea, starting at over $100,000</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/genesis-launches-the-flagship-gv90-electric-suv-in-korea-starting/</loc>
+    <lastmod>2026-11-10T15:07:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Genesis-GV90-launch-Korea.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Genesis launches the flagship GV90 electric SUV in Korea, starting at over $100,000</image:title>
     </image:image>
   </url>
   <url>
@@ -738,6 +958,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/vw-compact-suv-for-india-arriving-in-2027-what-we-know-so-far/</loc>
+    <lastmod>2026-11-10T04:00:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/03/Volkswagen-Tera-2.jpg</image:loc>
+      <image:title>VW Compact SUV For India Arriving In 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/vw-compact-suv-for-india-arriving-in-2027-what-we-know-so-far/</loc>
+    <lastmod>2026-11-10T04:00:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/03/Volkswagen-Tera-2.jpg</image:loc>
+      <image:title>VW Compact SUV For India Arriving In 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/new-byd-seal-07-illustrates-chinese-ev-evolution/</loc>
     <lastmod>2026-11-10T03:56:04+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -795,6 +1035,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/how-a-salesman-accidentally-convinced-shaquille-oneal-to-buy-3-ridiculously-expensive-cars/l-intro-1794255595.jpg</image:loc>
       <image:title>How A Salesman Accidentally Convinced Shaquille O&#x27;Neal To Buy 3 Ridiculously Expensive Cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/luxury-electric-car-sales-rise-53-in-oct-2026-bmw-outsells-tesla-/</loc>
+    <lastmod>2026-11-10T02:30:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/BMW-i5-LWB.jpg</image:loc>
+      <image:title>Luxury Electric Car Sales Rise 53% In Oct 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/luxury-electric-car-sales-rise-53-in-oct-2026-bmw-outsells-tesla-/</loc>
+    <lastmod>2026-11-10T02:30:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/BMW-i5-LWB.jpg</image:loc>
+      <image:title>Luxury Electric Car Sales Rise 53% In Oct 2026</image:title>
     </image:image>
   </url>
   <url>
@@ -2775,266 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Godzilla-Wind-Turbine.jpg</image:loc>
       <image:title>Bigger than Godzilla!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-cont/</loc>
-    <lastmod>2026-11-08T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-control/l-intro-1794008424.jpg</image:loc>
-      <image:title>AI Comes For Drag Racers&#x27; Jobs As GM Patents Automated Launch Control</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-cont/</loc>
-    <lastmod>2026-11-08T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/ai-comes-for-drag-racers-jobs-as-gm-patents-automated-launch-control/l-intro-1794008424.jpg</image:loc>
-      <image:title>AI Comes For Drag Racers&#x27; Jobs As GM Patents Automated Launch Control</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/norris-wins-as-mercedes-clinches-title-with-a-scrappy-race/</loc>
-    <lastmod>2026-11-08T18:54:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453581_HiRes.jpg</image:loc>
-      <image:title>Norris wins as Mercedes clinches title with a scrappy race</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/norris-wins-as-mercedes-clinches-title-with-a-scrappy-race/</loc>
-    <lastmod>2026-11-08T18:54:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453581_HiRes.jpg</image:loc>
-      <image:title>Norris wins as Mercedes clinches title with a scrappy race</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-brazilian-gp-norris-wins-in-mixed-conditions-mercedes-clinch-c/</loc>
-    <lastmod>2026-11-08T18:50:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-2.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg</image:loc>
-      <image:title>F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors&#x27; title</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1-brazilian-gp-norris-wins-in-mixed-conditions-mercedes-clinch-c/</loc>
-    <lastmod>2026-11-08T18:50:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-2.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg</image:loc>
-      <image:title>F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors&#x27; title</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-selling-electric-vehicles-in-the-world-32-ev-share-in-septemb/</loc>
-    <lastmod>2026-11-08T18:47:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026-09-World-EV-Sales-September.png</image:loc>
-      <image:title>Top Selling Electric Vehicles in the World - 32% EV Share in September!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/top-selling-electric-vehicles-in-the-world-32-ev-share-in-septemb/</loc>
-    <lastmod>2026-11-08T18:47:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026-09-World-EV-Sales-September.png</image:loc>
-      <image:title>Top Selling Electric Vehicles in the World - 32% EV Share in September!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-2026-brazilian-grand-prix-race-result-including-penalties/</loc>
-    <lastmod>2026-11-08T18:40:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453531_HiRes.jpg</image:loc>
-      <image:title>F1 2026 Brazilian Grand Prix race result including penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1-2026-brazilian-grand-prix-race-result-including-penalties/</loc>
-    <lastmod>2026-11-08T18:40:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453531_HiRes.jpg</image:loc>
-      <image:title>F1 2026 Brazilian Grand Prix race result including penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-pontiac-paid-the-scca-5-for-every-trans-am-it-built/</loc>
-    <lastmod>2026-11-08T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-pontiac-paid-the-scca-5-for-every-trans-am-it-built/l-intro-1793213436.jpg</image:loc>
-      <image:title>Why Pontiac Paid The SCCA $5 For Every Trans Am It Built</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-pontiac-paid-the-scca-5-for-every-trans-am-it-built/</loc>
-    <lastmod>2026-11-08T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-pontiac-paid-the-scca-5-for-every-trans-am-it-built/l-intro-1793213436.jpg</image:loc>
-      <image:title>Why Pontiac Paid The SCCA $5 For Every Trans Am It Built</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hungarian-vw-bus-goes-from-matchbox-the-movie-to-matchbox-the-toy/</loc>
-    <lastmod>2026-11-08T18:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5aa85e1b-6bf4-4b11-849e-08232adc3cb9.jpg?crop=1xw:0.749930728734xh;center,top&amp;resize=1200:*</image:loc>
-      <image:title>Hungarian VW Bus Goes from &#x27;Matchbox: The Movie&#x27; to Matchbox, the Toy Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hungarian-vw-bus-goes-from-matchbox-the-movie-to-matchbox-the-toy/</loc>
-    <lastmod>2026-11-08T18:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5aa85e1b-6bf4-4b11-849e-08232adc3cb9.jpg?crop=1xw:0.749930728734xh;center,top&amp;resize=1200:*</image:loc>
-      <image:title>Hungarian VW Bus Goes from &#x27;Matchbox: The Movie&#x27; to Matchbox, the Toy Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/heres-why-fuel-economy-drops-so-much-at-75-mph/</loc>
-    <lastmod>2026-11-08T18:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/heres-why-fuel-economy-drops-so-much-at-75-mph/l-intro-1793719295.jpg</image:loc>
-      <image:title>Here&#x27;s Why Fuel Economy Drops So Much At 75 MPH</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/heres-why-fuel-economy-drops-so-much-at-75-mph/</loc>
-    <lastmod>2026-11-08T18:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/heres-why-fuel-economy-drops-so-much-at-75-mph/l-intro-1793719295.jpg</image:loc>
-      <image:title>Here&#x27;s Why Fuel Economy Drops So Much At 75 MPH</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/well-someone-3d-printed-a-whole-engine-and-it-actually-ran-sort-o/</loc>
-    <lastmod>2026-11-08T17:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/well-someone-3d-printed-a-whole-engine-and-it-actually-ran-sort-of/l-intro-1793212503.jpg</image:loc>
-      <image:title>Well, Someone 3D-Printed A Whole Engine And It Actually Ran (Sort Of)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/well-someone-3d-printed-a-whole-engine-and-it-actually-ran-sort-o/</loc>
-    <lastmod>2026-11-08T17:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/well-someone-3d-printed-a-whole-engine-and-it-actually-ran-sort-of/l-intro-1793212503.jpg</image:loc>
-      <image:title>Well, Someone 3D-Printed A Whole Engine And It Actually Ran (Sort Of)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/french-carmaker-renault-wants-to-get-into-the-military-robot-busi/</loc>
-    <lastmod>2026-11-08T17:19:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/renault_MILITARY_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>French carmaker Renault wants to get into the military robot business</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/french-carmaker-renault-wants-to-get-into-the-military-robot-busi/</loc>
-    <lastmod>2026-11-08T17:19:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/renault_MILITARY_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>French carmaker Renault wants to get into the military robot business</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gloating-emails-to-a-newspaper-solved-the-arson-spree-that-hit-12/</loc>
-    <lastmod>2026-11-08T17:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/gloating-emails-to-a-newspaper-solved-the-arson-spree-that-hit-125-suvs-in-one-night/l-intro-1793199652.jpg</image:loc>
-      <image:title>Gloating Emails To A Newspaper Solved The Arson Spree That Hit 125 SUVs In One Night</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gloating-emails-to-a-newspaper-solved-the-arson-spree-that-hit-12/</loc>
-    <lastmod>2026-11-08T17:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/gloating-emails-to-a-newspaper-solved-the-arson-spree-that-hit-125-suvs-in-one-night/l-intro-1793199652.jpg</image:loc>
-      <image:title>Gloating Emails To A Newspaper Solved The Arson Spree That Hit 125 SUVs In One Night</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/techcrunch-mobility-the-cybertruck-experiment-is-over/</loc>
-    <lastmod>2026-11-08T17:02:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2020/05/Cybertruck-4.png?resize=1600,1067</image:loc>
-      <image:title>TechCrunch Mobility: The Cybertruck experiment is over</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/techcrunch-mobility-the-cybertruck-experiment-is-over/</loc>
-    <lastmod>2026-11-08T17:02:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2020/05/Cybertruck-4.png?resize=1600,1067</image:loc>
-      <image:title>TechCrunch Mobility: The Cybertruck experiment is over</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tested-electric-genesis-gv60-magma-is-louder-than-a-corvette-stin/</loc>
-    <lastmod>2026-11-08T17:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/27641e43-25bb-492b-89cc-af3b4ec1c9ca.jpg</image:loc>
-      <image:title>Tested: Electric Genesis GV60 Magma Is Louder Than a Corvette Stingray</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tested-electric-genesis-gv60-magma-is-louder-than-a-corvette-stin/</loc>
-    <lastmod>2026-11-08T17:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/27641e43-25bb-492b-89cc-af3b4ec1c9ca.jpg</image:loc>
-      <image:title>Tested: Electric Genesis GV60 Magma Is Louder Than a Corvette Stingray</image:title>
     </image:image>
   </url>
 </urlset>
