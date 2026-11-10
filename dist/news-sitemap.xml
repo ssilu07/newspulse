@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/humble-hauler-autonomous-trailer-takes-the-truck-out-of-trucking-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T01:05:00+00:00</news:publication_date>
+      <news:title>Humble Hauler autonomous trailer takes the truck out of trucking [update]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/05/Humble-1200_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Humble Hauler autonomous trailer takes the truck out of trucking [update]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/plugshare-finally-adds-dark-mode-and-theres-more-for-ev-drivers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T00:37:02+00:00</news:publication_date>
+      <news:title>PlugShare finally adds dark mode, and there&#x27;s more for EV drivers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/PlugShare_Card_iPad_4x3_0bbcd8.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>PlugShare finally adds dark mode, and there&#x27;s more for EV drivers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-all-electric-optiq-marks-cadillacs-return-to-australia-review/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T23:00:00+00:00</news:publication_date>
+      <news:title>The All-Electric Optiq Marks Cadillac&#x27;s Return To Australia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-all-electric-optiq-marks-cadillacs-return-to-australia-review/l-intro-1794256606.jpg</image:loc>
+      <image:title>The All-Electric Optiq Marks Cadillac&#x27;s Return To Australia</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2026-mercedes-benz-e450/</loc>
     <news:news>
       <news:publication>
@@ -93,6 +138,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/disney-testing-ai-powered-cars-themed-parking-assistants/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T21:00:00+00:00</news:publication_date>
+      <news:title>Disney Testing AI-Powered &#x27;Cars&#x27;-Themed Parking Assistants</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/disney-testing-ai-powered-cars-themed-parking-assistants/l-intro-1794247263.jpg</image:loc>
+      <image:title>Disney Testing AI-Powered &#x27;Cars&#x27;-Themed Parking Assistants</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/audi-has-officially-ended-production-of-the-a8-flagship-sedan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T20:53:15+00:00</news:publication_date>
+      <news:title>Audi Has Officially Ended Production of the A8 Flagship Sedan</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a218143-medium-1635867809.jpg</image:loc>
+      <image:title>Audi Has Officially Ended Production of the A8 Flagship Sedan</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ive-solved-the-72-hour-ev-test-drive-conundrum-and-every-automake/</loc>
     <news:news>
       <news:publication>
@@ -150,6 +225,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-bZ-C-HR-bZ-Woodland-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Toyota sells 3 electric SUVs, but which one is best for you?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lincolns-new-chinese-aviator-looks-very-different-than-the-americ/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:00:00+00:00</news:publication_date>
+      <news:title>Lincoln&#x27;s New Chinese Aviator Looks Very Different Than The American One</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/lincolns-new-chinese-aviator-looks-very-different-than-the-american-one/l-intro-1794245027.jpg</image:loc>
+      <image:title>Lincoln&#x27;s New Chinese Aviator Looks Very Different Than The American One</image:title>
     </image:image>
   </url>
   <url>
@@ -243,6 +333,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/honda-announces-plans-to-build-a-new-3-billion-factory-in-ohio/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T16:42:33+00:00</news:publication_date>
+      <news:title>Honda Announces Plans to Build a New $3 Billion Factory in Ohio</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-honda-crv-exl-125-647e04f956045.jpg</image:loc>
+      <image:title>Honda Announces Plans to Build a New $3 Billion Factory in Ohio</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/musk-admits-tesla-doesnt-have-enough-talent-to-build-more-than-on/</loc>
     <news:news>
       <news:publication>
@@ -255,6 +360,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Musk admits Tesla doesn&#x27;t have enough talent to build more than one car at a time after exodus</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-mustang-shelby-gt350-successor-reportedly-around-the-corner/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T16:37:29+00:00</news:publication_date>
+      <news:title>Ford Mustang Shelby GT350 Successor Reportedly Around the Corner</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2019-ford-mustang-shelby-gt350-101-1557861444.jpg</image:loc>
+      <image:title>Ford Mustang Shelby GT350 Successor Reportedly Around the Corner</image:title>
     </image:image>
   </url>
   <url>
@@ -330,6 +450,21 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1600,1067</image:loc>
       <image:title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T15:21:43+00:00</news:publication_date>
+      <news:title>Nvidia CEO Jensen Huang Cheated On His Marriage With An Alleged Spy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-spy/l-intro-1794237537.jpg</image:loc>
+      <image:title>Nvidia CEO Jensen Huang Cheated On His Marriage With An Alleged Spy</image:title>
     </image:image>
   </url>
   <url>
@@ -420,6 +555,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-robotaxi-san-antonio-geofence.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-drops-hint-about-new-fathom-ev-battery-life/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T14:00:07+00:00</news:publication_date>
+      <news:title>Ford Drops Hint About New Fathom EV Battery Life</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM.png</image:loc>
+      <image:title>Ford Drops Hint About New Fathom EV Battery Life</image:title>
     </image:image>
   </url>
   <url>
@@ -738,6 +888,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/auto-festive-sales-2026-dhanteras-spurs-deliveries-october-retail/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T07:00:37+00:00</news:publication_date>
+      <news:title>Auto Festive Sales 2026: Dhanteras Spurs Deliveries, October Retail Down 24%</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Renault-Duster-Strong-Hybrid-Delivery-1.jpg.jpeg</image:loc>
+      <image:title>Auto Festive Sales 2026: Dhanteras Spurs Deliveries, October Retail Down 24%</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/byd-atto-2-spied-in-chennai-sierra-ev-rival-launch-2027/</loc>
     <news:news>
       <news:publication>
@@ -765,6 +930,21 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2024/05/tvs-iqube-2024-launch.jpg</image:loc>
       <image:title>Electric 2W Sales Oct 2026 - TVS, Bajaj, Ather, Hero, Ola, River, Bgauss</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-10-midsize-suvs-oct-2026-creta-victoris-seltos-hyryder-sierra/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T05:30:39+00:00</news:publication_date>
+      <news:title>Top 10 Midsize SUVs Oct 2026 - Creta, Victoris, Seltos, Hyryder, Sierra, Bayon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Hyundai-Bayon-2.jpg</image:loc>
+      <image:title>Top 10 Midsize SUVs Oct 2026 - Creta, Victoris, Seltos, Hyryder, Sierra, Bayon</image:title>
     </image:image>
   </url>
   <url>
@@ -918,6 +1098,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T21:59:31+00:00</news:publication_date>
+      <news:title>Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-6.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg</image:loc>
+      <image:title>Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/5-classic-pony-cars-and-their-modern-equivalents/</loc>
     <news:news>
       <news:publication>
@@ -990,6 +1185,21 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/tesla-cybertruck-tires-arent-cheap-to-replace-heres-what-they-cost/l-intro-1793975826.jpg</image:loc>
       <image:title>Tesla Cybertruck Tires Aren&#x27;t Cheap To Replace: Here&#x27;s What They Cost</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/antonelli-explains-weird-spin-and-car-instability-which-cost-f1-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T20:57:57+00:00</news:publication_date>
+      <news:title>Antonelli explains &quot;weird&quot; spin and car instability which cost F1 Brazilian GP win</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-8.motorsport.com/images/amp/2eZx8n9Y/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
+      <image:title>Antonelli explains &quot;weird&quot; spin and car instability which cost F1 Brazilian GP win</image:title>
     </image:image>
   </url>
   <url>
@@ -1650,111 +1860,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/7-hybrids-with-some-of-the-worst-mpg-ratings/l-intro-1793217569.jpg</image:loc>
       <image:title>7 Hybrids With Some Of The Worst MPG Ratings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-has-two-laboratories-dedicated-to-ensuring-its-cars-smell-goo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T00:50:00+00:00</news:publication_date>
-      <news:title>BMW Has Two Laboratories Dedicated To Ensuring Its Cars Smell Good</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/bmw-has-two-laboratories-dedicated-to-ensuring-its-cars-smell-good/l-intro-1793291774.jpg</image:loc>
-      <image:title>BMW Has Two Laboratories Dedicated To Ensuring Its Cars Smell Good</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-some-of-the-most-annoying-passenger-habits-according-to/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T00:25:00+00:00</news:publication_date>
-      <news:title>These Are Some Of The Most Annoying Passenger Habits, According To Uber Drivers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-some-of-the-most-annoying-passenger-habits-according-to-uber-drivers/l-intro-1793295637.jpg</image:loc>
-      <image:title>These Are Some Of The Most Annoying Passenger Habits, According To Uber Drivers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/a-new-15-billion-wind-farm-will-play-in-peoria/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T00:24:20+00:00</news:publication_date>
-      <news:title>A New $1.5 Billion Wind Farm Will Play In Peoria</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Repsol-wind-farm.png</image:loc>
-      <image:title>A New $1.5 Billion Wind Farm Will Play In Peoria</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-russells-pole-was-lost-either-way/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T00:02:58+00:00</news:publication_date>
-      <news:title>Why Russell&#x27;s &#x27;pole&#x27; was lost either way</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453003_HiRes.jpg</image:loc>
-      <image:title>Why Russell&#x27;s &#x27;pole&#x27; was lost either way</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/winners-and-losers-from-f1-2026-brazilian-gp-qualifying/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T23:49:21+00:00</news:publication_date>
-      <news:title>Fallout &amp; Drama: Who Won And Who Lost At F1 2026 Brazilian GP qualifying</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453197_HiRes.jpg</image:loc>
-      <image:title>Fallout &amp; Drama: Who Won And Who Lost At F1 2026 Brazilian GP qualifying</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/of-course-there-is-tension-how-leclerc-sees-ferrari-mexico-fallou/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T23:46:13+00:00</news:publication_date>
-      <news:title>Of course there is tension</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452573_HiRes.jpg</image:loc>
-      <image:title>Of course there is tension</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/golf-in-comfort-year-round-in-this-hvac-equipped-golf-cart-from-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T23:25:00+00:00</news:publication_date>
-      <news:title>Golf In Comfort Year-Round In This HVAC-Equipped Golf Cart From Tractor Supply</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/golf-in-comfort-year-round-in-this-hvac-equipped-golf-cart-from-tractor-supply/l-intro-1793304336.jpg</image:loc>
-      <image:title>Golf In Comfort Year-Round In This HVAC-Equipped Golf Cart From Tractor Supply</image:title>
     </image:image>
   </url>
 </urlset>

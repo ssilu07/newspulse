@@ -3,39 +3,99 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-09T23:10:55Z</lastmod>
+    <lastmod>2026-11-10T01:39:31Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-09T23:10:55Z</lastmod>
+    <lastmod>2026-11-10T01:39:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-09T23:10:55Z</lastmod>
+    <lastmod>2026-11-10T01:39:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-09T23:10:55Z</lastmod>
+    <lastmod>2026-11-10T01:39:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-09T23:10:55Z</lastmod>
+    <lastmod>2026-11-10T01:39:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-09T23:10:55Z</lastmod>
+    <lastmod>2026-11-10T01:39:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/humble-hauler-autonomous-trailer-takes-the-truck-out-of-trucking-/</loc>
+    <lastmod>2026-11-10T01:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/05/Humble-1200_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Humble Hauler autonomous trailer takes the truck out of trucking [update]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/humble-hauler-autonomous-trailer-takes-the-truck-out-of-trucking-/</loc>
+    <lastmod>2026-11-10T01:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/05/Humble-1200_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Humble Hauler autonomous trailer takes the truck out of trucking [update]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/plugshare-finally-adds-dark-mode-and-theres-more-for-ev-drivers/</loc>
+    <lastmod>2026-11-10T00:37:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/PlugShare_Card_iPad_4x3_0bbcd8.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>PlugShare finally adds dark mode, and there&#x27;s more for EV drivers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/plugshare-finally-adds-dark-mode-and-theres-more-for-ev-drivers/</loc>
+    <lastmod>2026-11-10T00:37:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/PlugShare_Card_iPad_4x3_0bbcd8.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>PlugShare finally adds dark mode, and there&#x27;s more for EV drivers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-all-electric-optiq-marks-cadillacs-return-to-australia-review/</loc>
+    <lastmod>2026-11-09T23:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-all-electric-optiq-marks-cadillacs-return-to-australia-review/l-intro-1794256606.jpg</image:loc>
+      <image:title>The All-Electric Optiq Marks Cadillac&#x27;s Return To Australia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-all-electric-optiq-marks-cadillacs-return-to-australia-review/</loc>
+    <lastmod>2026-11-09T23:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-all-electric-optiq-marks-cadillacs-return-to-australia-review/l-intro-1794256606.jpg</image:loc>
+      <image:title>The All-Electric Optiq Marks Cadillac&#x27;s Return To Australia</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2026-mercedes-benz-e450/</loc>
@@ -158,6 +218,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/disney-testing-ai-powered-cars-themed-parking-assistants/</loc>
+    <lastmod>2026-11-09T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/disney-testing-ai-powered-cars-themed-parking-assistants/l-intro-1794247263.jpg</image:loc>
+      <image:title>Disney Testing AI-Powered &#x27;Cars&#x27;-Themed Parking Assistants</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/disney-testing-ai-powered-cars-themed-parking-assistants/</loc>
+    <lastmod>2026-11-09T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/disney-testing-ai-powered-cars-themed-parking-assistants/l-intro-1794247263.jpg</image:loc>
+      <image:title>Disney Testing AI-Powered &#x27;Cars&#x27;-Themed Parking Assistants</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/audi-has-officially-ended-production-of-the-a8-flagship-sedan/</loc>
+    <lastmod>2026-11-09T20:53:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a218143-medium-1635867809.jpg</image:loc>
+      <image:title>Audi Has Officially Ended Production of the A8 Flagship Sedan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/audi-has-officially-ended-production-of-the-a8-flagship-sedan/</loc>
+    <lastmod>2026-11-09T20:53:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a218143-medium-1635867809.jpg</image:loc>
+      <image:title>Audi Has Officially Ended Production of the A8 Flagship Sedan</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ive-solved-the-72-hour-ev-test-drive-conundrum-and-every-automake/</loc>
     <lastmod>2026-11-09T20:25:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -235,6 +335,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-bZ-C-HR-bZ-Woodland-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Toyota sells 3 electric SUVs, but which one is best for you?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lincolns-new-chinese-aviator-looks-very-different-than-the-americ/</loc>
+    <lastmod>2026-11-09T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/lincolns-new-chinese-aviator-looks-very-different-than-the-american-one/l-intro-1794245027.jpg</image:loc>
+      <image:title>Lincoln&#x27;s New Chinese Aviator Looks Very Different Than The American One</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lincolns-new-chinese-aviator-looks-very-different-than-the-americ/</loc>
+    <lastmod>2026-11-09T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/lincolns-new-chinese-aviator-looks-very-different-than-the-american-one/l-intro-1794245027.jpg</image:loc>
+      <image:title>Lincoln&#x27;s New Chinese Aviator Looks Very Different Than The American One</image:title>
     </image:image>
   </url>
   <url>
@@ -358,6 +478,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/honda-announces-plans-to-build-a-new-3-billion-factory-in-ohio/</loc>
+    <lastmod>2026-11-09T16:42:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-honda-crv-exl-125-647e04f956045.jpg</image:loc>
+      <image:title>Honda Announces Plans to Build a New $3 Billion Factory in Ohio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-announces-plans-to-build-a-new-3-billion-factory-in-ohio/</loc>
+    <lastmod>2026-11-09T16:42:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-honda-crv-exl-125-647e04f956045.jpg</image:loc>
+      <image:title>Honda Announces Plans to Build a New $3 Billion Factory in Ohio</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/musk-admits-tesla-doesnt-have-enough-talent-to-build-more-than-on/</loc>
     <lastmod>2026-11-09T16:41:29+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -375,6 +515,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Musk admits Tesla doesn&#x27;t have enough talent to build more than one car at a time after exodus</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-mustang-shelby-gt350-successor-reportedly-around-the-corner/</loc>
+    <lastmod>2026-11-09T16:37:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2019-ford-mustang-shelby-gt350-101-1557861444.jpg</image:loc>
+      <image:title>Ford Mustang Shelby GT350 Successor Reportedly Around the Corner</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ford-mustang-shelby-gt350-successor-reportedly-around-the-corner/</loc>
+    <lastmod>2026-11-09T16:37:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2019-ford-mustang-shelby-gt350-101-1557861444.jpg</image:loc>
+      <image:title>Ford Mustang Shelby GT350 Successor Reportedly Around the Corner</image:title>
     </image:image>
   </url>
   <url>
@@ -475,6 +635,26 @@
     <image:image>
       <image:loc>https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1600,1067</image:loc>
       <image:title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-s/</loc>
+    <lastmod>2026-11-09T15:21:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-spy/l-intro-1794237537.jpg</image:loc>
+      <image:title>Nvidia CEO Jensen Huang Cheated On His Marriage With An Alleged Spy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-s/</loc>
+    <lastmod>2026-11-09T15:21:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-spy/l-intro-1794237537.jpg</image:loc>
+      <image:title>Nvidia CEO Jensen Huang Cheated On His Marriage With An Alleged Spy</image:title>
     </image:image>
   </url>
   <url>
@@ -595,6 +775,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-robotaxi-san-antonio-geofence.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-drops-hint-about-new-fathom-ev-battery-life/</loc>
+    <lastmod>2026-11-09T14:00:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM.png</image:loc>
+      <image:title>Ford Drops Hint About New Fathom EV Battery Life</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ford-drops-hint-about-new-fathom-ev-battery-life/</loc>
+    <lastmod>2026-11-09T14:00:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM.png</image:loc>
+      <image:title>Ford Drops Hint About New Fathom EV Battery Life</image:title>
     </image:image>
   </url>
   <url>
@@ -1018,6 +1218,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/auto-festive-sales-2026-dhanteras-spurs-deliveries-october-retail/</loc>
+    <lastmod>2026-11-09T07:00:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Renault-Duster-Strong-Hybrid-Delivery-1.jpg.jpeg</image:loc>
+      <image:title>Auto Festive Sales 2026: Dhanteras Spurs Deliveries, October Retail Down 24%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/auto-festive-sales-2026-dhanteras-spurs-deliveries-october-retail/</loc>
+    <lastmod>2026-11-09T07:00:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Renault-Duster-Strong-Hybrid-Delivery-1.jpg.jpeg</image:loc>
+      <image:title>Auto Festive Sales 2026: Dhanteras Spurs Deliveries, October Retail Down 24%</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/byd-atto-2-spied-in-chennai-sierra-ev-rival-launch-2027/</loc>
     <lastmod>2026-11-09T06:38:31+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1055,6 +1275,26 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2024/05/tvs-iqube-2024-launch.jpg</image:loc>
       <image:title>Electric 2W Sales Oct 2026 - TVS, Bajaj, Ather, Hero, Ola, River, Bgauss</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-10-midsize-suvs-oct-2026-creta-victoris-seltos-hyryder-sierra/</loc>
+    <lastmod>2026-11-09T05:30:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Hyundai-Bayon-2.jpg</image:loc>
+      <image:title>Top 10 Midsize SUVs Oct 2026 - Creta, Victoris, Seltos, Hyryder, Sierra, Bayon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/top-10-midsize-suvs-oct-2026-creta-victoris-seltos-hyryder-sierra/</loc>
+    <lastmod>2026-11-09T05:30:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Hyundai-Bayon-2.jpg</image:loc>
+      <image:title>Top 10 Midsize SUVs Oct 2026 - Creta, Victoris, Seltos, Hyryder, Sierra, Bayon</image:title>
     </image:image>
   </url>
   <url>
@@ -1258,6 +1498,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-a/</loc>
+    <lastmod>2026-11-08T21:59:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-6.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg</image:loc>
+      <image:title>Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-a/</loc>
+    <lastmod>2026-11-08T21:59:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-6.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg</image:loc>
+      <image:title>Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/5-classic-pony-cars-and-their-modern-equivalents/</loc>
     <lastmod>2026-11-08T21:45:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1355,6 +1615,26 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/tesla-cybertruck-tires-arent-cheap-to-replace-heres-what-they-cost/l-intro-1793975826.jpg</image:loc>
       <image:title>Tesla Cybertruck Tires Aren&#x27;t Cheap To Replace: Here&#x27;s What They Cost</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/antonelli-explains-weird-spin-and-car-instability-which-cost-f1-b/</loc>
+    <lastmod>2026-11-08T20:57:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-8.motorsport.com/images/amp/2eZx8n9Y/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
+      <image:title>Antonelli explains &quot;weird&quot; spin and car instability which cost F1 Brazilian GP win</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/antonelli-explains-weird-spin-and-car-instability-which-cost-f1-b/</loc>
+    <lastmod>2026-11-08T20:57:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-8.motorsport.com/images/amp/2eZx8n9Y/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
+      <image:title>Antonelli explains &quot;weird&quot; spin and car instability which cost F1 Brazilian GP win</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Ocean_Heating_Hero_FINAL_1600x900.png</image:loc>
       <image:title>Cold Seawater Is Supplying District Heat in Esbjerg, Denmark</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-t/</loc>
-    <lastmod>2026-11-07T17:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-to-avoid/l-intro-1793635611.jpg</image:loc>
-      <image:title>4 Used Cars With Oil-Burning Engines That Consumer Reports Says To Avoid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-t/</loc>
-    <lastmod>2026-11-07T17:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/4-used-cars-with-oil-burning-engines-that-consumer-reports-says-to-avoid/l-intro-1793635611.jpg</image:loc>
-      <image:title>4 Used Cars With Oil-Burning Engines That Consumer Reports Says To Avoid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gm-steps-on-teslas-ev-toes-with-ev1-celebration/</loc>
-    <lastmod>2026-11-07T16:52:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-8.04.13-PM.png</image:loc>
-      <image:title>GM Steps On Tesla&#x27;s EV Toes With EV1 Celebration</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gm-steps-on-teslas-ev-toes-with-ev1-celebration/</loc>
-    <lastmod>2026-11-07T16:52:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-8.04.13-PM.png</image:loc>
-      <image:title>GM Steps On Tesla&#x27;s EV Toes With EV1 Celebration</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/marquez-wins-qatar-sprint-after-contentious-bezzecchi-clash/</loc>
-    <lastmod>2026-11-07T16:51:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361334_HiRes.jpg</image:loc>
-      <image:title>Marquez wins Qatar sprint after contentious Bezzecchi clash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/marquez-wins-qatar-sprint-after-contentious-bezzecchi-clash/</loc>
-    <lastmod>2026-11-07T16:51:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361334_HiRes.jpg</image:loc>
-      <image:title>Marquez wins Qatar sprint after contentious Bezzecchi clash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/foot-fractures-for-bagnaia-after-scary-qatar-sprint-crash/</loc>
-    <lastmod>2026-11-07T16:20:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361132_HiRes.jpg</image:loc>
-      <image:title>Foot fractures for Bagnaia after scary Qatar sprint crash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/foot-fractures-for-bagnaia-after-scary-qatar-sprint-crash/</loc>
-    <lastmod>2026-11-07T16:20:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361132_HiRes.jpg</image:loc>
-      <image:title>Foot fractures for Bagnaia after scary Qatar sprint crash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/</loc>
-    <lastmod>2026-11-07T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/l-intro-1793370800.jpg</image:loc>
-      <image:title>Why The Nissan VQ35 Is One Of The Most Dependable V6s Ever</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/</loc>
-    <lastmod>2026-11-07T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-the-nissan-vq35-is-one-of-the-most-dependable-v6s-ever/l-intro-1793370800.jpg</image:loc>
-      <image:title>Why The Nissan VQ35 Is One Of The Most Dependable V6s Ever</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-deemed-liable-for-fraud-after-solar-roof-experiment-on-a-ho/</loc>
-    <lastmod>2026-11-07T16:01:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla deemed liable for fraud after Solar Roof &#x27;experiment&#x27; on a home</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-deemed-liable-for-fraud-after-solar-roof-experiment-on-a-ho/</loc>
-    <lastmod>2026-11-07T16:01:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla deemed liable for fraud after Solar Roof &#x27;experiment&#x27; on a home</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-focus-rs-makes-us-nostalgic-for-a-time-when-ford-built-cars-/</loc>
-    <lastmod>2026-11-07T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ebf938c0-0a00-4c70-bfff-1b6ae3cf2a7a.jpg</image:loc>
-      <image:title>This Focus RS Makes Us Nostalgic for a Time When Ford Built Cars Besides the Mustang</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-focus-rs-makes-us-nostalgic-for-a-time-when-ford-built-cars-/</loc>
-    <lastmod>2026-11-07T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ebf938c0-0a00-4c70-bfff-1b6ae3cf2a7a.jpg</image:loc>
-      <image:title>This Focus RS Makes Us Nostalgic for a Time When Ford Built Cars Besides the Mustang</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-happened-in-final-brazil-f1-practice/</loc>
-    <lastmod>2026-11-07T15:38:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202611070096.jpg</image:loc>
-      <image:title>Drama &amp; Chaos: What Really Happened In final Brazil F1 practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-happened-in-final-brazil-f1-practice/</loc>
-    <lastmod>2026-11-07T15:38:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202611070096.jpg</image:loc>
-      <image:title>Drama &amp; Chaos: What Really Happened In final Brazil F1 practice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/1992-schuppan-porsche-962r-one-mans-plan-to-put-a-group-c-race-ca/</loc>
-    <lastmod>2026-11-07T15:33:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c9b98994-f031-4135-be73-e0295bc873c4.jpg?crop=0.883xw:0.662xh;0.022xw,0.101xh&amp;resize=1200:*</image:loc>
-      <image:title>1992 Schuppan Porsche 962R: One Man&#x27;s Plan to Put a Group C Race Car on the Street</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/1992-schuppan-porsche-962r-one-mans-plan-to-put-a-group-c-race-ca/</loc>
-    <lastmod>2026-11-07T15:33:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c9b98994-f031-4135-be73-e0295bc873c4.jpg?crop=0.883xw:0.662xh;0.022xw,0.101xh&amp;resize=1200:*</image:loc>
-      <image:title>1992 Schuppan Porsche 962R: One Man&#x27;s Plan to Put a Group C Race Car on the Street</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-photos-of-the-1992-schuppan-porsche-962r/</loc>
-    <lastmod>2026-11-07T15:32:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c34953e-dc58-4f84-8335-6b543f2669bd.jpg</image:loc>
-      <image:title>First Look: The 1992 Schuppan Porsche 962R Revealed In Stunning Detail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-photos-of-the-1992-schuppan-porsche-962r/</loc>
-    <lastmod>2026-11-07T15:32:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0c34953e-dc58-4f84-8335-6b543f2669bd.jpg</image:loc>
-      <image:title>First Look: The 1992 Schuppan Porsche 962R Revealed In Stunning Detail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/both-ferrari-drivers-to-serve-brazil-f1-grid-penalties/</loc>
-    <lastmod>2026-11-07T15:07:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452360_HiRes.jpg</image:loc>
-      <image:title>Both Ferrari drivers to serve Brazil F1 grid penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/both-ferrari-drivers-to-serve-brazil-f1-grid-penalties/</loc>
-    <lastmod>2026-11-07T15:07:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452360_HiRes.jpg</image:loc>
-      <image:title>Both Ferrari drivers to serve Brazil F1 grid penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-prestigious-international-car-shows-where-automakers-reveal-new/</loc>
-    <lastmod>2026-11-07T15:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/5-prestigious-international-car-shows-where-automakers-reveal-new-models/l-intro-1793622026.jpg</image:loc>
-      <image:title>5 Prestigious International Car Shows Where Automakers Reveal New Models</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-prestigious-international-car-shows-where-automakers-reveal-new/</loc>
-    <lastmod>2026-11-07T15:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/5-prestigious-international-car-shows-where-automakers-reveal-new-models/l-intro-1793622026.jpg</image:loc>
-      <image:title>5 Prestigious International Car Shows Where Automakers Reveal New Models</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lamborghini-gallardos-original-designer-polishes-his-masterpiece/</loc>
-    <lastmod>2026-11-07T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/59a56ba1-9a51-4229-9737-519fab4f13bb.jpg</image:loc>
-      <image:title>Lamborghini Gallardo&#x27;s Original Designer Polishes His Masterpiece</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/lamborghini-gallardos-original-designer-polishes-his-masterpiece/</loc>
-    <lastmod>2026-11-07T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/59a56ba1-9a51-4229-9737-519fab4f13bb.jpg</image:loc>
-      <image:title>Lamborghini Gallardo&#x27;s Original Designer Polishes His Masterpiece</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-the-five-year-rule-for-tires-still-true/</loc>
-    <lastmod>2026-11-07T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/is-the-five-year-rule-for-tires-still-true/l-intro-1793383804.jpg</image:loc>
-      <image:title>Is The &#x27;Five-Year Rule&#x27; For Tires Still True?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/is-the-five-year-rule-for-tires-still-true/</loc>
-    <lastmod>2026-11-07T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/is-the-five-year-rule-for-tires-still-true/l-intro-1793383804.jpg</image:loc>
-      <image:title>Is The &#x27;Five-Year Rule&#x27; For Tires Still True?</image:title>
     </image:image>
   </url>
 </urlset>
