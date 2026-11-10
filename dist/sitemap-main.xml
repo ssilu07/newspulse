@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-10T04:20:40Z</lastmod>
+    <lastmod>2026-11-10T10:07:25Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-10T04:20:40Z</lastmod>
+    <lastmod>2026-11-10T10:07:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-10T04:20:40Z</lastmod>
+    <lastmod>2026-11-10T10:07:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-10T04:20:40Z</lastmod>
+    <lastmod>2026-11-10T10:07:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-10T04:20:40Z</lastmod>
+    <lastmod>2026-11-10T10:07:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-10T04:20:40Z</lastmod>
+    <lastmod>2026-11-10T10:07:25Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-shows-off-its-next-electric-motorcycle-and-its-wilder-than-/</loc>
+    <lastmod>2026-11-10T09:07:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/honda-ev-outlier-head-motorcycle-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Honda shows off its next electric motorcycle, and it&#x27;s wilder than you thought</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-shows-off-its-next-electric-motorcycle-and-its-wilder-than-/</loc>
+    <lastmod>2026-11-10T09:07:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/honda-ev-outlier-head-motorcycle-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Honda shows off its next electric motorcycle, and it&#x27;s wilder than you thought</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1s-underrated-rain-master-has-proven-himself-again/</loc>
+    <lastmod>2026-11-10T08:54:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452909_HiRes.jpg</image:loc>
+      <image:title>F1&#x27;s underrated rain master has proven himself again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1s-underrated-rain-master-has-proven-himself-again/</loc>
+    <lastmod>2026-11-10T08:54:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452909_HiRes.jpg</image:loc>
+      <image:title>F1&#x27;s underrated rain master has proven himself again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/car-sales-oct-2026-maruti-tata-mahindra-hyundai-kia-toyota-mg-sko/</loc>
+    <lastmod>2026-11-10T08:37:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-brezza-booster-jet-review.jpg</image:loc>
+      <image:title>Car Sales Oct 2026 - Maruti, Tata, Mahindra, Hyundai, Kia, Toyota, MG, Skoda, Honda, Renault</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/car-sales-oct-2026-maruti-tata-mahindra-hyundai-kia-toyota-mg-sko/</loc>
+    <lastmod>2026-11-10T08:37:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-brezza-booster-jet-review.jpg</image:loc>
+      <image:title>Car Sales Oct 2026 - Maruti, Tata, Mahindra, Hyundai, Kia, Toyota, MG, Skoda, Honda, Renault</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/force-traveller-ev-launch-in-q1-2027-rs-3000-cr-investment/</loc>
+    <lastmod>2026-11-10T08:31:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-force-traveller-ev-launching-in-q1-2027.jpg</image:loc>
+      <image:title>Force Traveller EV Launch In Q1 2027 - Rs 3,000 Cr Investment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/force-traveller-ev-launch-in-q1-2027-rs-3000-cr-investment/</loc>
+    <lastmod>2026-11-10T08:31:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-force-traveller-ev-launching-in-q1-2027.jpg</image:loc>
+      <image:title>Force Traveller EV Launch In Q1 2027 - Rs 3,000 Cr Investment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/australian-plugin-vehicle-market-steady-in-october-update/</loc>
+    <lastmod>2026-11-10T04:57:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/GWM-electric-vehicles-Australia.jpg</image:loc>
+      <image:title>Australian Plugin Vehicle Market Steady in October</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/australian-plugin-vehicle-market-steady-in-october-update/</loc>
+    <lastmod>2026-11-10T04:57:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/GWM-electric-vehicles-Australia.jpg</image:loc>
+      <image:title>Australian Plugin Vehicle Market Steady in October</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/more-than-300-solar-storage-companies-urge-congress-to-pass-bipar/</loc>
+    <lastmod>2026-11-10T04:53:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/US-Congress-banananardini-scaled.jpg</image:loc>
+      <image:title>More than 300 Solar &amp; Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/more-than-300-solar-storage-companies-urge-congress-to-pass-bipar/</loc>
+    <lastmod>2026-11-10T04:53:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/US-Congress-banananardini-scaled.jpg</image:loc>
+      <image:title>More than 300 Solar &amp; Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-years-in-mustang-mach-e-battery-data-shows-what-real-world-elec/</loc>
+    <lastmod>2026-11-10T04:50:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Ford-Mustang-Mach-E-Battery-Longevity.jpg</image:loc>
+      <image:title>5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/5-years-in-mustang-mach-e-battery-data-shows-what-real-world-elec/</loc>
+    <lastmod>2026-11-10T04:50:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Ford-Mustang-Mach-E-Battery-Longevity.jpg</image:loc>
+      <image:title>5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/experience-the-gales-of-november-with-this-real-time-great-lakes-/</loc>
+    <lastmod>2026-11-10T04:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/come-float-with-me-in-this-incredible-real-time-simulator-of-the-great-lakes/l-intro-1794248302.jpg</image:loc>
+      <image:title>Experience The Gales Of November With This Real-Time Great Lakes Simulator</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/experience-the-gales-of-november-with-this-real-time-great-lakes-/</loc>
+    <lastmod>2026-11-10T04:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/come-float-with-me-in-this-incredible-real-time-simulator-of-the-great-lakes/l-intro-1794248302.jpg</image:loc>
+      <image:title>Experience The Gales Of November With This Real-Time Great Lakes Simulator</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/new-ktm-1390-super-duke-gt-evo-debuts-amt-88-inch-tft-offline-sat/</loc>
@@ -838,6 +998,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/chery-says-north-america-is-so-important-it-could-build-cars-in-c/</loc>
+    <lastmod>2026-11-09T15:30:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/chery-says-north-america-is-so-important-it-could-build-cars-in-canada/l-intro-1794238108.jpg</image:loc>
+      <image:title>Chery Says North America Is So Important It Could Build Cars In Canada</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/chery-says-north-america-is-so-important-it-could-build-cars-in-c/</loc>
+    <lastmod>2026-11-09T15:30:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/chery-says-north-america-is-so-important-it-could-build-cars-in-canada/l-intro-1794238108.jpg</image:loc>
+      <image:title>Chery Says North America Is So Important It Could Build Cars In Canada</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/these-are-the-worst-road-trips-youve-ever-taken/</loc>
     <lastmod>2026-11-09T15:25:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -958,6 +1138,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/ram-rampage-is-more-expensive-in-europe-than-ram-1500-in-the-us/</loc>
+    <lastmod>2026-11-09T15:04:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/ram-rampage-is-more-expensive-in-europe-than-ram-1500-in-the-u-s/l-intro-1794236560.jpg</image:loc>
+      <image:title>Ram Rampage Is More Expensive In Europe Than Ram 1500 In The U.S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ram-rampage-is-more-expensive-in-europe-than-ram-1500-in-the-us/</loc>
+    <lastmod>2026-11-09T15:04:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/ram-rampage-is-more-expensive-in-europe-than-ram-1500-in-the-u-s/l-intro-1794236560.jpg</image:loc>
+      <image:title>Ram Rampage Is More Expensive In Europe Than Ram 1500 In The U.S</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-/</loc>
     <lastmod>2026-11-09T15:03:14+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -975,6 +1175,46 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2025/04/New-BYD-Seal-Europe-blue.jpeg</image:loc>
       <image:title>EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-confirms-celica-return-and-its-racing-it-in-wrc/</loc>
+    <lastmod>2026-11-09T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyota-confirms-celica-return-and-its-racing-it-in-wrc/l-intro-1794200240.jpg</image:loc>
+      <image:title>Toyota Confirms Celica Return, And It&#x27;s Racing It In WRC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-confirms-celica-return-and-its-racing-it-in-wrc/</loc>
+    <lastmod>2026-11-09T15:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyota-confirms-celica-return-and-its-racing-it-in-wrc/l-intro-1794200240.jpg</image:loc>
+      <image:title>Toyota Confirms Celica Return, And It&#x27;s Racing It In WRC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/philadelphia-carjacking-crew-targeted-new-toyota-suvs-for-african/</loc>
+    <lastmod>2026-11-09T14:53:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/philadelphia-carjacking-crew-targeted-new-toyota-suvs-for-african-export/l-intro-1794235879.jpg</image:loc>
+      <image:title>Philadelphia Carjacking Crew Targeted New Toyota SUVs For African Export</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/philadelphia-carjacking-crew-targeted-new-toyota-suvs-for-african/</loc>
+    <lastmod>2026-11-09T14:53:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/philadelphia-carjacking-crew-targeted-new-toyota-suvs-for-african-export/l-intro-1794235879.jpg</image:loc>
+      <image:title>Philadelphia Carjacking Crew Targeted New Toyota SUVs For African Export</image:title>
     </image:image>
   </url>
   <url>
@@ -1015,6 +1255,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-robotaxi-san-antonio-geofence.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/after-2-billion-miles-ford-releases-mach-e-battery-report-card/</loc>
+    <lastmod>2026-11-09T14:20:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/after-2-billion-miles-ford-releases-mach-e-battery-report-card/l-intro-1794233468.jpg</image:loc>
+      <image:title>After 2 Billion Miles, Ford Releases Mach-E Battery Report Card</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/after-2-billion-miles-ford-releases-mach-e-battery-report-card/</loc>
+    <lastmod>2026-11-09T14:20:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/after-2-billion-miles-ford-releases-mach-e-battery-report-card/l-intro-1794233468.jpg</image:loc>
+      <image:title>After 2 Billion Miles, Ford Releases Mach-E Battery Report Card</image:title>
     </image:image>
   </url>
   <url>
@@ -2558,6 +2818,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/</loc>
+    <lastmod>2026-11-08T11:09:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-8.motorsport.com/images/amp/0qgK1NQY/s6/rafael-camara-haas-f1-team-3.jpg</image:loc>
+      <image:title>The wet-weather challenges thrown up by Brazilian GP qualifying</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/</loc>
+    <lastmod>2026-11-08T11:09:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-8.motorsport.com/images/amp/0qgK1NQY/s6/rafael-camara-haas-f1-team-3.jpg</image:loc>
+      <image:title>The wet-weather challenges thrown up by Brazilian GP qualifying</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/whats-got-f1-drivers-so-worried-about-brazilian-gp-spectacle/</loc>
     <lastmod>2026-11-08T10:48:17+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/why-some-drivers-hand-police-a-blue-envelope-during-a-traffic-stop/l-intro-1793377421.jpg</image:loc>
       <image:title>Why Some Drivers Hand Police A Blue Envelope During A Traffic Stop</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-honda-avancier-hybrid-suv-teased-global-debut-expected-on-dec/</loc>
-    <lastmod>2026-11-08T04:00:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/New-Honda-Avancier-Hybrid-teased-3.jpg</image:loc>
-      <image:title>New Honda Avancier Hybrid SUV Teased, Global Debut Expected On December 1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-honda-avancier-hybrid-suv-teased-global-debut-expected-on-dec/</loc>
-    <lastmod>2026-11-08T04:00:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/New-Honda-Avancier-Hybrid-teased-3.jpg</image:loc>
-      <image:title>New Honda Avancier Hybrid SUV Teased, Global Debut Expected On December 1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-hybrids-with-some-of-the-worst-mpg-ratings/</loc>
-    <lastmod>2026-11-08T02:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-hybrids-with-some-of-the-worst-mpg-ratings/l-intro-1793217569.jpg</image:loc>
-      <image:title>7 Hybrids With Some Of The Worst MPG Ratings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-hybrids-with-some-of-the-worst-mpg-ratings/</loc>
-    <lastmod>2026-11-08T02:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-hybrids-with-some-of-the-worst-mpg-ratings/l-intro-1793217569.jpg</image:loc>
-      <image:title>7 Hybrids With Some Of The Worst MPG Ratings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-has-two-laboratories-dedicated-to-ensuring-its-cars-smell-goo/</loc>
-    <lastmod>2026-11-08T00:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/bmw-has-two-laboratories-dedicated-to-ensuring-its-cars-smell-good/l-intro-1793291774.jpg</image:loc>
-      <image:title>BMW Has Two Laboratories Dedicated To Ensuring Its Cars Smell Good</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-has-two-laboratories-dedicated-to-ensuring-its-cars-smell-goo/</loc>
-    <lastmod>2026-11-08T00:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/bmw-has-two-laboratories-dedicated-to-ensuring-its-cars-smell-good/l-intro-1793291774.jpg</image:loc>
-      <image:title>BMW Has Two Laboratories Dedicated To Ensuring Its Cars Smell Good</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-some-of-the-most-annoying-passenger-habits-according-to/</loc>
-    <lastmod>2026-11-08T00:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-some-of-the-most-annoying-passenger-habits-according-to-uber-drivers/l-intro-1793295637.jpg</image:loc>
-      <image:title>These Are Some Of The Most Annoying Passenger Habits, According To Uber Drivers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-are-some-of-the-most-annoying-passenger-habits-according-to/</loc>
-    <lastmod>2026-11-08T00:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-some-of-the-most-annoying-passenger-habits-according-to-uber-drivers/l-intro-1793295637.jpg</image:loc>
-      <image:title>These Are Some Of The Most Annoying Passenger Habits, According To Uber Drivers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/a-new-15-billion-wind-farm-will-play-in-peoria/</loc>
-    <lastmod>2026-11-08T00:24:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Repsol-wind-farm.png</image:loc>
-      <image:title>A New $1.5 Billion Wind Farm Will Play In Peoria</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/a-new-15-billion-wind-farm-will-play-in-peoria/</loc>
-    <lastmod>2026-11-08T00:24:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Repsol-wind-farm.png</image:loc>
-      <image:title>A New $1.5 Billion Wind Farm Will Play In Peoria</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-russells-pole-was-lost-either-way/</loc>
-    <lastmod>2026-11-08T00:02:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453003_HiRes.jpg</image:loc>
-      <image:title>Why Russell&#x27;s &#x27;pole&#x27; was lost either way</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-russells-pole-was-lost-either-way/</loc>
-    <lastmod>2026-11-08T00:02:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453003_HiRes.jpg</image:loc>
-      <image:title>Why Russell&#x27;s &#x27;pole&#x27; was lost either way</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/winners-and-losers-from-f1-2026-brazilian-gp-qualifying/</loc>
-    <lastmod>2026-11-07T23:49:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453197_HiRes.jpg</image:loc>
-      <image:title>Fallout &amp; Drama: Who Won And Who Lost At F1 2026 Brazilian GP qualifying</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/winners-and-losers-from-f1-2026-brazilian-gp-qualifying/</loc>
-    <lastmod>2026-11-07T23:49:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453197_HiRes.jpg</image:loc>
-      <image:title>Fallout &amp; Drama: Who Won And Who Lost At F1 2026 Brazilian GP qualifying</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/of-course-there-is-tension-how-leclerc-sees-ferrari-mexico-fallou/</loc>
-    <lastmod>2026-11-07T23:46:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452573_HiRes.jpg</image:loc>
-      <image:title>Of course there is tension</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/of-course-there-is-tension-how-leclerc-sees-ferrari-mexico-fallou/</loc>
-    <lastmod>2026-11-07T23:46:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452573_HiRes.jpg</image:loc>
-      <image:title>Of course there is tension</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/golf-in-comfort-year-round-in-this-hvac-equipped-golf-cart-from-t/</loc>
-    <lastmod>2026-11-07T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/golf-in-comfort-year-round-in-this-hvac-equipped-golf-cart-from-tractor-supply/l-intro-1793304336.jpg</image:loc>
-      <image:title>Golf In Comfort Year-Round In This HVAC-Equipped Golf Cart From Tractor Supply</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/golf-in-comfort-year-round-in-this-hvac-equipped-golf-cart-from-t/</loc>
-    <lastmod>2026-11-07T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/golf-in-comfort-year-round-in-this-hvac-equipped-golf-cart-from-tractor-supply/l-intro-1793304336.jpg</image:loc>
-      <image:title>Golf In Comfort Year-Round In This HVAC-Equipped Golf Cart From Tractor Supply</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/faa-finally-ditching-floppy-disks-from-air-traffic-control/</loc>
-    <lastmod>2026-11-07T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/faa-finally-ditching-floppy-disks-from-air-traffic-control/l-intro-1794003528.jpg</image:loc>
-      <image:title>FAA Finally Ditching Floppy Disks From Air Traffic Control</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/faa-finally-ditching-floppy-disks-from-air-traffic-control/</loc>
-    <lastmod>2026-11-07T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/faa-finally-ditching-floppy-disks-from-air-traffic-control/l-intro-1794003528.jpg</image:loc>
-      <image:title>FAA Finally Ditching Floppy Disks From Air Traffic Control</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-pitches-free-ev-charging-and-you-aint-seen-nothing-yet/</loc>
-    <lastmod>2026-11-07T21:56:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/bmw-free-ev-charging.png</image:loc>
-      <image:title>BMW Pitches Free EV Charging And You Ain&#x27;t Seen Nothing Yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-pitches-free-ev-charging-and-you-aint-seen-nothing-yet/</loc>
-    <lastmod>2026-11-07T21:56:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/bmw-free-ev-charging.png</image:loc>
-      <image:title>BMW Pitches Free EV Charging And You Ain&#x27;t Seen Nothing Yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-the-engine-swaps-you-dream-about/</loc>
-    <lastmod>2026-11-07T21:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-engine-swaps-you-dream-about/l-intro-1793739399.jpg</image:loc>
-      <image:title>These Are The Engine Swaps You Dream About</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-are-the-engine-swaps-you-dream-about/</loc>
-    <lastmod>2026-11-07T21:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-engine-swaps-you-dream-about/l-intro-1793739399.jpg</image:loc>
-      <image:title>These Are The Engine Swaps You Dream About</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-2026-brazilian-grand-prix-starting-grid-with-five-penalties/</loc>
-    <lastmod>2026-11-07T21:05:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452874_HiRes.jpg</image:loc>
-      <image:title>F1 2026 Brazilian Grand Prix starting grid with five penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1-2026-brazilian-grand-prix-starting-grid-with-five-penalties/</loc>
-    <lastmod>2026-11-07T21:05:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452874_HiRes.jpg</image:loc>
-      <image:title>F1 2026 Brazilian Grand Prix starting grid with five penalties</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/consumer-reports-three-most-reliable-used-sub-25k-3-row-suvs/</loc>
-    <lastmod>2026-11-07T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/consumer-reports-three-most-reliable-used-sub-25k-3-row-suvs-and-minivans/l-intro-1793639419.jpg</image:loc>
-      <image:title>Consumer Reports&#x27; Three Most Reliable Used Sub-$25K 3-Row SUVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/consumer-reports-three-most-reliable-used-sub-25k-3-row-suvs/</loc>
-    <lastmod>2026-11-07T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/consumer-reports-three-most-reliable-used-sub-25k-3-row-suvs-and-minivans/l-intro-1793639419.jpg</image:loc>
-      <image:title>Consumer Reports&#x27; Three Most Reliable Used Sub-$25K 3-Row SUVs</image:title>
     </image:image>
   </url>
 </urlset>
