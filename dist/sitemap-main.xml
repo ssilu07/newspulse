@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-10T01:39:31Z</lastmod>
+    <lastmod>2026-11-10T04:20:40Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-10T01:39:31Z</lastmod>
+    <lastmod>2026-11-10T04:20:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-10T01:39:31Z</lastmod>
+    <lastmod>2026-11-10T04:20:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-10T01:39:31Z</lastmod>
+    <lastmod>2026-11-10T04:20:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-10T01:39:31Z</lastmod>
+    <lastmod>2026-11-10T04:20:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-10T01:39:31Z</lastmod>
+    <lastmod>2026-11-10T04:20:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-ktm-1390-super-duke-gt-evo-debuts-amt-88-inch-tft-offline-sat/</loc>
+    <lastmod>2026-11-10T04:02:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-ktm-1390-super-duke-gt-evo-debuts-6.jpg</image:loc>
+      <image:title>New KTM 1390 Super Duke GT Evo Debuts - AMT, 8.8-inch TFT, Offline Sat-Nav</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-ktm-1390-super-duke-gt-evo-debuts-amt-88-inch-tft-offline-sat/</loc>
+    <lastmod>2026-11-10T04:02:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-ktm-1390-super-duke-gt-evo-debuts-6.jpg</image:loc>
+      <image:title>New KTM 1390 Super Duke GT Evo Debuts - AMT, 8.8-inch TFT, Offline Sat-Nav</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-byd-seal-07-illustrates-chinese-ev-evolution/</loc>
+    <lastmod>2026-11-10T03:56:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/07-front.png</image:loc>
+      <image:title>New BYD Seal 07 Illustrates Chinese EV Evolution</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-byd-seal-07-illustrates-chinese-ev-evolution/</loc>
+    <lastmod>2026-11-10T03:56:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/07-front.png</image:loc>
+      <image:title>New BYD Seal 07 Illustrates Chinese EV Evolution</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-yangwang-altior-debuts-cny-2-million-rs-29-cr-rolls-royce-pha/</loc>
+    <lastmod>2026-11-10T03:36:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-yangwang-altior-debuts-as-rolls-royce-phantom-rival.jpg</image:loc>
+      <image:title>BYD Yangwang Altior Debuts - CNY 2 Million (Rs 2.9 Cr) Rolls Royce Phantom Rival</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-yangwang-altior-debuts-cny-2-million-rs-29-cr-rolls-royce-pha/</loc>
+    <lastmod>2026-11-10T03:36:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-yangwang-altior-debuts-as-rolls-royce-phantom-rival.jpg</image:loc>
+      <image:title>BYD Yangwang Altior Debuts - CNY 2 Million (Rs 2.9 Cr) Rolls Royce Phantom Rival</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-a-salesman-accidentally-convinced-shaquille-oneal-to-buy-3-ri/</loc>
+    <lastmod>2026-11-10T03:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-a-salesman-accidentally-convinced-shaquille-oneal-to-buy-3-ridiculously-expensive-cars/l-intro-1794255595.jpg</image:loc>
+      <image:title>How A Salesman Accidentally Convinced Shaquille O&#x27;Neal To Buy 3 Ridiculously Expensive Cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-a-salesman-accidentally-convinced-shaquille-oneal-to-buy-3-ri/</loc>
+    <lastmod>2026-11-10T03:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-a-salesman-accidentally-convinced-shaquille-oneal-to-buy-3-ridiculously-expensive-cars/l-intro-1794255595.jpg</image:loc>
+      <image:title>How A Salesman Accidentally Convinced Shaquille O&#x27;Neal To Buy 3 Ridiculously Expensive Cars</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/retro-home-on-wheels-a-blue-bird-wanderlodge-from-1986/</loc>
+    <lastmod>2026-11-10T02:30:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Blue-Bird-Wanderlodge-Motorhome-RV-Hero.jpg</image:loc>
+      <image:title>Retro Home-On-Wheels: A Blue Bird &quot;Wanderlodge&quot; From 1986</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/retro-home-on-wheels-a-blue-bird-wanderlodge-from-1986/</loc>
+    <lastmod>2026-11-10T02:30:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Blue-Bird-Wanderlodge-Motorhome-RV-Hero.jpg</image:loc>
+      <image:title>Retro Home-On-Wheels: A Blue Bird &quot;Wanderlodge&quot; From 1986</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/sierra-club-welcomes-calpers-71-billion-climate-solutions-investm/</loc>
+    <lastmod>2026-11-10T02:00:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Business-Research-Market-Research-Computer-Chart-Graph-CleanTechnica-Watermark-1.png</image:loc>
+      <image:title>Sierra Club Welcomes CalPERS&#x27; $71 Billion Climate-Solutions Investment Milestone, Urges Fund to End Financing of Fossil Fuel Expansion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/sierra-club-welcomes-calpers-71-billion-climate-solutions-investm/</loc>
+    <lastmod>2026-11-10T02:00:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Business-Research-Market-Research-Computer-Chart-Graph-CleanTechnica-Watermark-1.png</image:loc>
+      <image:title>Sierra Club Welcomes CalPERS&#x27; $71 Billion Climate-Solutions Investment Milestone, Urges Fund to End Financing of Fossil Fuel Expansion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/walk-to-stop-the-serpent-pipeline-connecticut-groups-protest-prop/</loc>
+    <lastmod>2026-11-10T01:56:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Fossil-Fuels-Oil-CleanTechnica-Watermark.png</image:loc>
+      <image:title>Walk to Stop the SERPent Pipeline&#x27;: Connecticut Groups Protest Proposed Eversource Pipeline</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/walk-to-stop-the-serpent-pipeline-connecticut-groups-protest-prop/</loc>
+    <lastmod>2026-11-10T01:56:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Fossil-Fuels-Oil-CleanTechnica-Watermark.png</image:loc>
+      <image:title>Walk to Stop the SERPent Pipeline&#x27;: Connecticut Groups Protest Proposed Eversource Pipeline</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/humble-hauler-autonomous-trailer-takes-the-truck-out-of-trucking-/</loc>
@@ -398,6 +538,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nürburgring-record/</loc>
+    <lastmod>2026-11-09T18:34:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nrburgring-record-imminent/l-intro-1794249147.jpg</image:loc>
+      <image:title>Xiaomi SU7 Xtreme Strips Off Its Camo, Is A New Nürburgring Record Imminent?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nürburgring-record/</loc>
+    <lastmod>2026-11-09T18:34:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nrburgring-record-imminent/l-intro-1794249147.jpg</image:loc>
+      <image:title>Xiaomi SU7 Xtreme Strips Off Its Camo, Is A New Nürburgring Record Imminent?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-ir/</loc>
     <lastmod>2026-11-09T17:39:39+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -478,6 +638,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/toyota-gives-the-rav4-woodland-actual-suspension-upgrades-for-202/</loc>
+    <lastmod>2026-11-09T16:54:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyota-gives-the-rav4-woodland-actual-suspension-upgrades-for-2027/l-intro-1794243192.jpg</image:loc>
+      <image:title>Toyota Gives The RAV4 Woodland Actual Suspension Upgrades For 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-gives-the-rav4-woodland-actual-suspension-upgrades-for-202/</loc>
+    <lastmod>2026-11-09T16:54:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/toyota-gives-the-rav4-woodland-actual-suspension-upgrades-for-2027/l-intro-1794243192.jpg</image:loc>
+      <image:title>Toyota Gives The RAV4 Woodland Actual Suspension Upgrades For 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/honda-announces-plans-to-build-a-new-3-billion-factory-in-ohio/</loc>
     <lastmod>2026-11-09T16:42:33+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -538,6 +718,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/mitsubishi-pajero-prepares-for-the-outback-with-factory-backed-ac/</loc>
+    <lastmod>2026-11-09T16:26:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/mitsubishi-pajero-prepares-for-the-outback-with-factory-backed-accessories/l-intro-1794241491.jpg</image:loc>
+      <image:title>Mitsubishi Pajero Prepares For The Outback With Factory-Backed Accessories</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mitsubishi-pajero-prepares-for-the-outback-with-factory-backed-ac/</loc>
+    <lastmod>2026-11-09T16:26:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/mitsubishi-pajero-prepares-for-the-outback-with-factory-backed-accessories/l-intro-1794241491.jpg</image:loc>
+      <image:title>Mitsubishi Pajero Prepares For The Outback With Factory-Backed Accessories</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actuall/</loc>
     <lastmod>2026-11-09T16:15:48+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -575,6 +775,46 @@
     <image:image>
       <image:loc>https://cdn-2.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg</image:loc>
       <image:title>What&#x27;s behind Piastri&#x27;s split with Webber</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-bmw-i7-prototype-is-alpinas-first-ev/</loc>
+    <lastmod>2026-11-09T15:50:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-bmw-i7-prototype-is-alpinas-first-ev/l-intro-1794239310.jpg</image:loc>
+      <image:title>This BMW i7 Prototype Is Alpina&#x27;s First EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-bmw-i7-prototype-is-alpinas-first-ev/</loc>
+    <lastmod>2026-11-09T15:50:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-bmw-i7-prototype-is-alpinas-first-ev/l-intro-1794239310.jpg</image:loc>
+      <image:title>This BMW i7 Prototype Is Alpina&#x27;s First EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-mazda-2-is-dead-but-something-else-is-taking-its-place/</loc>
+    <lastmod>2026-11-09T15:37:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-mazda-2-is-dead-but-something-else-is-taking-its-place/l-intro-1794238284.jpg</image:loc>
+      <image:title>The Mazda 2 Is Dead, But Something Else Is Taking Its Place</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-mazda-2-is-dead-but-something-else-is-taking-its-place/</loc>
+    <lastmod>2026-11-09T15:37:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-mazda-2-is-dead-but-something-else-is-taking-its-place/l-intro-1794238284.jpg</image:loc>
+      <image:title>The Mazda 2 Is Dead, But Something Else Is Taking Its Place</image:title>
     </image:image>
   </url>
   <url>
@@ -1778,6 +2018,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/f1-brazilian-gp-norris-wins-in-mixed-conditions-mercedes-clinch-c/</loc>
+    <lastmod>2026-11-08T18:50:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-2.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg</image:loc>
+      <image:title>F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors&#x27; title</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1-brazilian-gp-norris-wins-in-mixed-conditions-mercedes-clinch-c/</loc>
+    <lastmod>2026-11-08T18:50:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-2.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg</image:loc>
+      <image:title>F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors&#x27; title</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/top-selling-electric-vehicles-in-the-world-32-ev-share-in-septemb/</loc>
     <lastmod>2026-11-08T18:47:58+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -2155,6 +2415,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1361834_HiRes.jpg</image:loc>
       <image:title>Marini out as Qatar grid is reduced to 16 riders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/can-hamilton-and-verstappen-fight-back-for-f1-brazilian-gp-victor/</loc>
+    <lastmod>2026-11-08T13:29:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver-2.jpg</image:loc>
+      <image:title>Can Hamilton and Verstappen fight back for F1 Brazilian GP victory?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/can-hamilton-and-verstappen-fight-back-for-f1-brazilian-gp-victor/</loc>
+    <lastmod>2026-11-08T13:29:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver-2.jpg</image:loc>
+      <image:title>Can Hamilton and Verstappen fight back for F1 Brazilian GP victory?</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/consumer-reports-three-most-reliable-used-sub-25k-3-row-suvs-and-minivans/l-intro-1793639419.jpg</image:loc>
       <image:title>Consumer Reports&#x27; Three Most Reliable Used Sub-$25K 3-Row SUVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/your-next-car-could-be-software-defined-heres-what-that-means/</loc>
-    <lastmod>2026-11-07T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/your-next-car-could-be-software-defined-heres-what-that-means/l-intro-1793390078.jpg</image:loc>
-      <image:title>Your Next Car Could Be Software-Defined. Here&#x27;s What That Means</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/your-next-car-could-be-software-defined-heres-what-that-means/</loc>
-    <lastmod>2026-11-07T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/your-next-car-could-be-software-defined-heres-what-that-means/l-intro-1793390078.jpg</image:loc>
-      <image:title>Your Next Car Could Be Software-Defined. Here&#x27;s What That Means</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/norris-on-brazilian-gp-pole-as-russell-rages-at-mercedes-over-abo/</loc>
-    <lastmod>2026-11-07T20:48:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452772_HiRes.jpg</image:loc>
-      <image:title>Norris on Brazilian GP pole as Russell rages at Mercedes over aborted lap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/norris-on-brazilian-gp-pole-as-russell-rages-at-mercedes-over-abo/</loc>
-    <lastmod>2026-11-07T20:48:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452772_HiRes.jpg</image:loc>
-      <image:title>Norris on Brazilian GP pole as Russell rages at Mercedes over aborted lap</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/redd-picking-up-our-new-tesla-model-y/</loc>
-    <lastmod>2026-11-07T20:42:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/New-Tesla-Model-Y-Australia-David-Waterworth.jpg</image:loc>
-      <image:title>REDD</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/redd-picking-up-our-new-tesla-model-y/</loc>
-    <lastmod>2026-11-07T20:42:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/New-Tesla-Model-Y-Australia-David-Waterworth.jpg</image:loc>
-      <image:title>REDD</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1-2026-brazilian-gp-qualifying-results/</loc>
-    <lastmod>2026-11-07T20:27:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452824_HiRes.jpg</image:loc>
-      <image:title>F1 2026 Brazilian GP qualifying results</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1-2026-brazilian-gp-qualifying-results/</loc>
-    <lastmod>2026-11-07T20:27:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452824_HiRes.jpg</image:loc>
-      <image:title>F1 2026 Brazilian GP qualifying results</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/you-officially-missed-your-chance-to-buy-a-new-toyota-supra-or-bm/</loc>
-    <lastmod>2026-11-07T20:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/you-officially-missed-your-chance-to-buy-a-new-toyota-supra-or-bmw-z4/l-intro-1793980955.jpg</image:loc>
-      <image:title>You Officially Missed Your Chance To Buy A New Toyota Supra Or BMW Z4</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/you-officially-missed-your-chance-to-buy-a-new-toyota-supra-or-bm/</loc>
-    <lastmod>2026-11-07T20:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/you-officially-missed-your-chance-to-buy-a-new-toyota-supra-or-bmw-z4/l-intro-1793980955.jpg</image:loc>
-      <image:title>You Officially Missed Your Chance To Buy A New Toyota Supra Or BMW Z4</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/saving-the-manuals-porsches-mechanical-mecosa-vs-ferraris-electro/</loc>
-    <lastmod>2026-11-07T19:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/saving-the-manuals-porsches-mechanical-mecosa-vs-ferraris-electronic-manuale-tech/l-intro-1793383774.jpg</image:loc>
-      <image:title>Saving The Manuals: Porsche&#x27;s Mechanical MECOSA Vs. Ferrari&#x27;s Electronic Manuale Tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/saving-the-manuals-porsches-mechanical-mecosa-vs-ferraris-electro/</loc>
-    <lastmod>2026-11-07T19:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/saving-the-manuals-porsches-mechanical-mecosa-vs-ferraris-electronic-manuale-tech/l-intro-1793383774.jpg</image:loc>
-      <image:title>Saving The Manuals: Porsche&#x27;s Mechanical MECOSA Vs. Ferrari&#x27;s Electronic Manuale Tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/elana-scherr-chauffeur-life/</loc>
-    <lastmod>2026-11-07T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/88b2f126-72ed-4f5d-964b-0b3e270fe936.jpg</image:loc>
-      <image:title>Elana Scherr: Chauffeur Life</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/elana-scherr-chauffeur-life/</loc>
-    <lastmod>2026-11-07T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/88b2f126-72ed-4f5d-964b-0b3e270fe936.jpg</image:loc>
-      <image:title>Elana Scherr: Chauffeur Life</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-velotric-gomad-electric-utility-ebike-cleantechnica-tested/</loc>
-    <lastmod>2026-11-07T18:59:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026.11-velotric-gomad-ebike-electric-bicycle-california-sunset-KYLE-19.jpg</image:loc>
-      <image:title>The Velotric GoMad Electric Utility eBike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-velotric-gomad-electric-utility-ebike-cleantechnica-tested/</loc>
-    <lastmod>2026-11-07T18:59:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026.11-velotric-gomad-ebike-electric-bicycle-california-sunset-KYLE-19.jpg</image:loc>
-      <image:title>The Velotric GoMad Electric Utility eBike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/conventional-vs-transit-design-why-some-school-buses-have-flat-fr/</loc>
-    <lastmod>2026-11-07T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/conventional-vs-transit-design-why-some-school-buses-have-flat-fronts/l-intro-1793378443.jpg</image:loc>
-      <image:title>Conventional Vs. Transit Design: Why Some School Buses Have Flat Fronts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/conventional-vs-transit-design-why-some-school-buses-have-flat-fr/</loc>
-    <lastmod>2026-11-07T18:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/conventional-vs-transit-design-why-some-school-buses-have-flat-fronts/l-intro-1793378443.jpg</image:loc>
-      <image:title>Conventional Vs. Transit Design: Why Some School Buses Have Flat Fronts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/brazilian-gp-qualifying-red-flagged-almost-immediately-due-to-rai/</loc>
-    <lastmod>2026-11-07T18:15:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452674_HiRes.jpg</image:loc>
-      <image:title>Brazilian GP qualifying red flagged almost immediately due to rain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/brazilian-gp-qualifying-red-flagged-almost-immediately-due-to-rai/</loc>
-    <lastmod>2026-11-07T18:15:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452674_HiRes.jpg</image:loc>
-      <image:title>Brazilian GP qualifying red flagged almost immediately due to rain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-reason-subaru-still-builds-cars-with-boxer-engines/</loc>
-    <lastmod>2026-11-07T18:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/the-reason-subaru-still-builds-cars-with-boxer-engines/l-intro-1793385585.jpg</image:loc>
-      <image:title>The Reason Subaru Still Builds Cars With Boxer Engines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-reason-subaru-still-builds-cars-with-boxer-engines/</loc>
-    <lastmod>2026-11-07T18:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/the-reason-subaru-still-builds-cars-with-boxer-engines/l-intro-1793385585.jpg</image:loc>
-      <image:title>The Reason Subaru Still Builds Cars With Boxer Engines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hamilton-gets-back-of-the-grid-penalty-for-brazilian-gp/</loc>
-    <lastmod>2026-11-07T17:29:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452400_HiRes.jpg</image:loc>
-      <image:title>Hamilton gets back-of-the-grid penalty for Brazilian GP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hamilton-gets-back-of-the-grid-penalty-for-brazilian-gp/</loc>
-    <lastmod>2026-11-07T17:29:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452400_HiRes.jpg</image:loc>
-      <image:title>Hamilton gets back-of-the-grid penalty for Brazilian GP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-buick-engine-that-helped-launch-the-sr-71-blackbird/</loc>
-    <lastmod>2026-11-07T17:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-buick-engine-that-helped-launch-the-sr-71-blackbird/l-intro-1793637352.jpg</image:loc>
-      <image:title>The Buick Engine That Helped Launch The SR-71 Blackbird</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-buick-engine-that-helped-launch-the-sr-71-blackbird/</loc>
-    <lastmod>2026-11-07T17:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-buick-engine-that-helped-launch-the-sr-71-blackbird/l-intro-1793637352.jpg</image:loc>
-      <image:title>The Buick Engine That Helped Launch The SR-71 Blackbird</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/cold-seawater-is-supplying-district-heat-in-esbjerg-denmark/</loc>
-    <lastmod>2026-11-07T17:21:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Ocean_Heating_Hero_FINAL_1600x900.png</image:loc>
-      <image:title>Cold Seawater Is Supplying District Heat in Esbjerg, Denmark</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/cold-seawater-is-supplying-district-heat-in-esbjerg-denmark/</loc>
-    <lastmod>2026-11-07T17:21:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Ocean_Heating_Hero_FINAL_1600x900.png</image:loc>
-      <image:title>Cold Seawater Is Supplying District Heat in Esbjerg, Denmark</image:title>
     </image:image>
   </url>
 </urlset>
