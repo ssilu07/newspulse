@@ -3,39 +3,299 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-11T13:36:56Z</lastmod>
+    <lastmod>2026-11-11T17:20:29Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-11T13:36:56Z</lastmod>
+    <lastmod>2026-11-11T17:20:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-11T13:36:56Z</lastmod>
+    <lastmod>2026-11-11T17:20:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-11T13:36:56Z</lastmod>
+    <lastmod>2026-11-11T17:20:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-11T13:36:56Z</lastmod>
+    <lastmod>2026-11-11T17:20:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-11T13:36:56Z</lastmod>
+    <lastmod>2026-11-11T17:20:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/</loc>
+    <lastmod>2026-11-11T17:07:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/l-intro-1794416800.jpg</image:loc>
+      <image:title>2027 Mercedes C-Class Follows The Formula And Sticks The Landing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/</loc>
+    <lastmod>2026-11-11T17:07:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/l-intro-1794416800.jpg</image:loc>
+      <image:title>2027 Mercedes C-Class Follows The Formula And Sticks The Landing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-ford-transit/</loc>
+    <lastmod>2026-11-11T17:03:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2021-ford-transit-pr-105-6888f5c2c4d54.jpg?crop=0.881xw:0.66xh;0.08xw,0.164xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Ford Transit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-ford-transit/</loc>
+    <lastmod>2026-11-11T17:03:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2021-ford-transit-pr-105-6888f5c2c4d54.jpg?crop=0.881xw:0.66xh;0.08xw,0.164xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Ford Transit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lincoln-recalls-37000-navigators-because-the-front-seats-might-be/</loc>
+    <lastmod>2026-11-11T17:03:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/lincoln-recalls-37000-navigators-because-the-front-seats-might-be-haunted/l-intro-1794416418.jpg</image:loc>
+      <image:title>Urgent Safety Alert: Lincoln Recalls 37,000 Navigators Because The Front Seats Might Be Haunted</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lincoln-recalls-37000-navigators-because-the-front-seats-might-be/</loc>
+    <lastmod>2026-11-11T17:03:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/lincoln-recalls-37000-navigators-because-the-front-seats-might-be-haunted/l-intro-1794416418.jpg</image:loc>
+      <image:title>Urgent Safety Alert: Lincoln Recalls 37,000 Navigators Because The Front Seats Might Be Haunted</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-vinfast-vf9/</loc>
+    <lastmod>2026-11-11T17:01:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-vinfast-vf9-exterior-102-jpg-6553cb12bcf74.jpg?crop=0.545xw:0.409xh;0.257xw,0.498xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 VinFast VF9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-vinfast-vf9/</loc>
+    <lastmod>2026-11-11T17:01:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-vinfast-vf9-exterior-102-jpg-6553cb12bcf74.jpg?crop=0.545xw:0.409xh;0.257xw,0.498xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 VinFast VF9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-and-subaru-hit-the-sweet-spot-with-affordable-electric-suv/</loc>
+    <lastmod>2026-11-11T15:41:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Subaru-affordable-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Toyota and Subaru hit the &#x27;sweet spot&#x27; with affordable electric SUVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-and-subaru-hit-the-sweet-spot-with-affordable-electric-suv/</loc>
+    <lastmod>2026-11-11T15:41:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Subaru-affordable-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Toyota and Subaru hit the &#x27;sweet spot&#x27; with affordable electric SUVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hamilton-loses-most-marketable-athlete-status-in-2026/</loc>
+    <lastmod>2026-11-11T15:33:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451289_HiRes.jpg</image:loc>
+      <image:title>Hamilton loses &#x27;most marketable athlete&#x27; status in 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hamilton-loses-most-marketable-athlete-status-in-2026/</loc>
+    <lastmod>2026-11-11T15:33:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451289_HiRes.jpg</image:loc>
+      <image:title>Hamilton loses &#x27;most marketable athlete&#x27; status in 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/finland-allows-tesla-fsd-so-long-as-its-not-called-that/</loc>
+    <lastmod>2026-11-11T15:22:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/finland-allows-tesla-fsd-so-long-as-its-not-called-that/l-intro-1794410373.jpg</image:loc>
+      <image:title>Finland Allows Tesla FSD, So Long As It&#x27;s Not Called That</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/finland-allows-tesla-fsd-so-long-as-its-not-called-that/</loc>
+    <lastmod>2026-11-11T15:22:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/finland-allows-tesla-fsd-so-long-as-its-not-called-that/l-intro-1794410373.jpg</image:loc>
+      <image:title>Finland Allows Tesla FSD, So Long As It&#x27;s Not Called That</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-netherlands-has-231-million-for-cleaner-inland-ships-it-still/</loc>
+    <lastmod>2026-11-11T15:06:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Dutch_Corridor_Hero_1600x900.png</image:loc>
+      <image:title>The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-netherlands-has-231-million-for-cleaner-inland-ships-it-still/</loc>
+    <lastmod>2026-11-11T15:06:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Dutch_Corridor_Hero_1600x900.png</image:loc>
+      <image:title>The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/own-a-piece-of-ford-roush-sport-truck-history-with-this-1990-f-15/</loc>
+    <lastmod>2026-11-11T14:56:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/own-a-piece-of-ford-roush-sport-truck-history-with-this-1990-f-150-concept/l-intro-1794388631.jpg</image:loc>
+      <image:title>Own A Piece Of Ford Roush Sport Truck History With This 1990 F-150 Concept</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/own-a-piece-of-ford-roush-sport-truck-history-with-this-1990-f-15/</loc>
+    <lastmod>2026-11-11T14:56:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/own-a-piece-of-ford-roush-sport-truck-history-with-this-1990-f-150-concept/l-intro-1794388631.jpg</image:loc>
+      <image:title>Own A Piece Of Ford Roush Sport Truck History With This 1990 F-150 Concept</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/porsche-ceo-takes-a-shot-at-teslas-flying-roadster-stunt-show/</loc>
+    <lastmod>2026-11-11T14:34:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Porsche CEO takes a shot at Tesla&#x27;s &#x27;flying&#x27; Roadster stunt show</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/porsche-ceo-takes-a-shot-at-teslas-flying-roadster-stunt-show/</loc>
+    <lastmod>2026-11-11T14:34:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Porsche CEO takes a shot at Tesla&#x27;s &#x27;flying&#x27; Roadster stunt show</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-new-car-excites-you-the-most/</loc>
+    <lastmod>2026-11-11T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-new-car-excites-you-the-most/l-intro-1794355239.jpg</image:loc>
+      <image:title>What New Car Excites You The Most?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-new-car-excites-you-the-most/</loc>
+    <lastmod>2026-11-11T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-new-car-excites-you-the-most/l-intro-1794355239.jpg</image:loc>
+      <image:title>What New Car Excites You The Most?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/genesis-reveals-gv90-prices-start-at-100k-in-korea-but-it-will-co/</loc>
+    <lastmod>2026-11-11T14:22:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/08/Genesis-GV90-luxury-SUV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Genesis reveals GV90 prices start at $100K+ in Korea, but it will cost more for coach doors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/genesis-reveals-gv90-prices-start-at-100k-in-korea-but-it-will-co/</loc>
+    <lastmod>2026-11-11T14:22:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/08/Genesis-GV90-luxury-SUV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Genesis reveals GV90 prices start at $100K+ in Korea, but it will cost more for coach doors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-bajaj-pulsar-n250ss-pulsar-ns200-review-more-torque-or-sharpe/</loc>
+    <lastmod>2026-11-11T14:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/pulsar-n250-ss-pulsar-ns200-ug-review-cover.jpg</image:loc>
+      <image:title>New Bajaj Pulsar N250SS, Pulsar NS200 Review - More Torque or Sharper Handling?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-bajaj-pulsar-n250ss-pulsar-ns200-review-more-torque-or-sharpe/</loc>
+    <lastmod>2026-11-11T14:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/pulsar-n250-ss-pulsar-ns200-ug-review-cover.jpg</image:loc>
+      <image:title>New Bajaj Pulsar N250SS, Pulsar NS200 Review - More Torque or Sharper Handling?</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/at-17000-is-this-meyers-manx-sr2-a-super-cool-cat/</loc>
@@ -235,6 +495,26 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-renault-kiger-facelift-global-ncap-crash-test-5.jpg</image:loc>
       <image:title>India-Made Renault Kiger Improves Safety Rating</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-10-cars-oct-2026-wagonr-brezza-nexon-baleno-dzire-ertiga-punc/</loc>
+    <lastmod>2026-11-11T05:39:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2023/07/maruti-suzuki-wagonr-features-deleted-cover.jpeg</image:loc>
+      <image:title>Top 10 Cars Oct 2026 - WagonR, Brezza, Nexon, Baleno, Dzire, Ertiga, Punch, Scorpio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/top-10-cars-oct-2026-wagonr-brezza-nexon-baleno-dzire-ertiga-punc/</loc>
+    <lastmod>2026-11-11T05:39:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2023/07/maruti-suzuki-wagonr-features-deleted-cover.jpeg</image:loc>
+      <image:title>Top 10 Cars Oct 2026 - WagonR, Brezza, Nexon, Baleno, Dzire, Ertiga, Punch, Scorpio</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://cdn-2.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg</image:loc>
       <image:title>What&#x27;s behind Piastri&#x27;s split with Webber</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-bmw-i7-prototype-is-alpinas-first-ev/</loc>
-    <lastmod>2026-11-09T15:50:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-bmw-i7-prototype-is-alpinas-first-ev/l-intro-1794239310.jpg</image:loc>
-      <image:title>This BMW i7 Prototype Is Alpina&#x27;s First EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-bmw-i7-prototype-is-alpinas-first-ev/</loc>
-    <lastmod>2026-11-09T15:50:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-bmw-i7-prototype-is-alpinas-first-ev/l-intro-1794239310.jpg</image:loc>
-      <image:title>This BMW i7 Prototype Is Alpina&#x27;s First EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-mazda-2-is-dead-but-something-else-is-taking-its-place/</loc>
-    <lastmod>2026-11-09T15:37:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/the-mazda-2-is-dead-but-something-else-is-taking-its-place/l-intro-1794238284.jpg</image:loc>
-      <image:title>The Mazda 2 Is Dead, But Something Else Is Taking Its Place</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-mazda-2-is-dead-but-something-else-is-taking-its-place/</loc>
-    <lastmod>2026-11-09T15:37:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/the-mazda-2-is-dead-but-something-else-is-taking-its-place/l-intro-1794238284.jpg</image:loc>
-      <image:title>The Mazda 2 Is Dead, But Something Else Is Taking Its Place</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-is-going-all-out-on-its-ultra-luxury-ev-with-coach-doors-and-/</loc>
-    <lastmod>2026-11-09T15:32:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Yangwang-Altior-debut.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD is going all out on its ultra-luxury EV with coach doors and 1,000+ km of range [Images]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-is-going-all-out-on-its-ultra-luxury-ev-with-coach-doors-and-/</loc>
-    <lastmod>2026-11-09T15:32:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Yangwang-Altior-debut.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD is going all out on its ultra-luxury EV with coach doors and 1,000+ km of range [Images]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/chery-says-north-america-is-so-important-it-could-build-cars-in-c/</loc>
-    <lastmod>2026-11-09T15:30:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/chery-says-north-america-is-so-important-it-could-build-cars-in-canada/l-intro-1794238108.jpg</image:loc>
-      <image:title>Chery Says North America Is So Important It Could Build Cars In Canada</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/chery-says-north-america-is-so-important-it-could-build-cars-in-c/</loc>
-    <lastmod>2026-11-09T15:30:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/chery-says-north-america-is-so-important-it-could-build-cars-in-canada/l-intro-1794238108.jpg</image:loc>
-      <image:title>Chery Says North America Is So Important It Could Build Cars In Canada</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-are-the-worst-road-trips-youve-ever-taken/</loc>
-    <lastmod>2026-11-09T15:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-worst-road-trips-youve-ever-taken/l-intro-1794008812.jpg</image:loc>
-      <image:title>These Are The Worst Road Trips You&#x27;ve Ever Taken</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-are-the-worst-road-trips-youve-ever-taken/</loc>
-    <lastmod>2026-11-09T15:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/these-are-the-worst-road-trips-youve-ever-taken/l-intro-1794008812.jpg</image:loc>
-      <image:title>These Are The Worst Road Trips You&#x27;ve Ever Taken</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/waymo-robotaxis-kept-illegally-passing-school-buses-after-softwar/</loc>
-    <lastmod>2026-11-09T15:24:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1600,1067</image:loc>
-      <image:title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/waymo-robotaxis-kept-illegally-passing-school-buses-after-softwar/</loc>
-    <lastmod>2026-11-09T15:24:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1600,1067</image:loc>
-      <image:title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-s/</loc>
-    <lastmod>2026-11-09T15:21:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-spy/l-intro-1794237537.jpg</image:loc>
-      <image:title>Nvidia CEO Jensen Huang Cheated On His Marriage With An Alleged Spy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-s/</loc>
-    <lastmod>2026-11-09T15:21:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/nvidia-ceo-jensen-huang-cheated-on-his-marriage-with-an-alleged-spy/l-intro-1794237537.jpg</image:loc>
-      <image:title>Nvidia CEO Jensen Huang Cheated On His Marriage With An Alleged Spy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/everything-we-learned-from-f1s-2026-brazilian-grand-prix/</loc>
-    <lastmod>2026-11-09T15:15:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202611080333_hires_jpeg_24bit_rgb.jpg</image:loc>
-      <image:title>Everything we learned from F1&#x27;s 2026 Brazilian Grand Prix</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/everything-we-learned-from-f1s-2026-brazilian-grand-prix/</loc>
-    <lastmod>2026-11-09T15:15:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202611080333_hires_jpeg_24bit_rgb.jpg</image:loc>
-      <image:title>Everything we learned from F1&#x27;s 2026 Brazilian Grand Prix</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/livewire-just-showed-off-its-biggest-electric-motorcycle-lineup-y/</loc>
-    <lastmod>2026-11-09T15:13:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>LiveWire just showed off its biggest electric motorcycle lineup yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/livewire-just-showed-off-its-biggest-electric-motorcycle-lineup-y/</loc>
-    <lastmod>2026-11-09T15:13:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>LiveWire just showed off its biggest electric motorcycle lineup yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/baaja-remains-fundamentally-flawed-despite-managers-amendment/</loc>
-    <lastmod>2026-11-09T15:10:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Judge-Gavel-Court-CleanTechnica-Watermark.png</image:loc>
-      <image:title>BAAJA Remains Fundamentally Flawed Despite Manager&#x27;s Amendment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/baaja-remains-fundamentally-flawed-despite-managers-amendment/</loc>
-    <lastmod>2026-11-09T15:10:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Judge-Gavel-Court-CleanTechnica-Watermark.png</image:loc>
-      <image:title>BAAJA Remains Fundamentally Flawed Despite Manager&#x27;s Amendment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ram-rampage-is-more-expensive-in-europe-than-ram-1500-in-the-us/</loc>
-    <lastmod>2026-11-09T15:04:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/ram-rampage-is-more-expensive-in-europe-than-ram-1500-in-the-u-s/l-intro-1794236560.jpg</image:loc>
-      <image:title>Ram Rampage Is More Expensive In Europe Than Ram 1500 In The U.S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ram-rampage-is-more-expensive-in-europe-than-ram-1500-in-the-us/</loc>
-    <lastmod>2026-11-09T15:04:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/ram-rampage-is-more-expensive-in-europe-than-ram-1500-in-the-u-s/l-intro-1794236560.jpg</image:loc>
-      <image:title>Ram Rampage Is More Expensive In Europe Than Ram 1500 In The U.S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-/</loc>
-    <lastmod>2026-11-09T15:03:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/04/New-BYD-Seal-Europe-blue.jpeg</image:loc>
-      <image:title>EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-/</loc>
-    <lastmod>2026-11-09T15:03:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/04/New-BYD-Seal-Europe-blue.jpeg</image:loc>
-      <image:title>EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-confirms-celica-return-and-its-racing-it-in-wrc/</loc>
-    <lastmod>2026-11-09T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyota-confirms-celica-return-and-its-racing-it-in-wrc/l-intro-1794200240.jpg</image:loc>
-      <image:title>Toyota Confirms Celica Return, And It&#x27;s Racing It In WRC</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-confirms-celica-return-and-its-racing-it-in-wrc/</loc>
-    <lastmod>2026-11-09T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyota-confirms-celica-return-and-its-racing-it-in-wrc/l-intro-1794200240.jpg</image:loc>
-      <image:title>Toyota Confirms Celica Return, And It&#x27;s Racing It In WRC</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/philadelphia-carjacking-crew-targeted-new-toyota-suvs-for-african/</loc>
-    <lastmod>2026-11-09T14:53:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/philadelphia-carjacking-crew-targeted-new-toyota-suvs-for-african-export/l-intro-1794235879.jpg</image:loc>
-      <image:title>Philadelphia Carjacking Crew Targeted New Toyota SUVs For African Export</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/philadelphia-carjacking-crew-targeted-new-toyota-suvs-for-african/</loc>
-    <lastmod>2026-11-09T14:53:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/philadelphia-carjacking-crew-targeted-new-toyota-suvs-for-african-export/l-intro-1794235879.jpg</image:loc>
-      <image:title>Philadelphia Carjacking Crew Targeted New Toyota SUVs For African Export</image:title>
     </image:image>
   </url>
 </urlset>
