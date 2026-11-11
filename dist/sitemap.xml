@@ -3,39 +3,239 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-11T02:16:41Z</lastmod>
+    <lastmod>2026-11-11T09:39:22Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-11T02:16:41Z</lastmod>
+    <lastmod>2026-11-11T09:39:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-11T02:16:41Z</lastmod>
+    <lastmod>2026-11-11T09:39:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-11T02:16:41Z</lastmod>
+    <lastmod>2026-11-11T09:39:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-11T02:16:41Z</lastmod>
+    <lastmod>2026-11-11T09:39:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-11T02:16:41Z</lastmod>
+    <lastmod>2026-11-11T09:39:22Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-vision-s-two-test-mules-at-traffic-stop-led-lighting-spi/</loc>
+    <lastmod>2026-11-11T09:27:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-vision-s-xub-4m-suv-spied-at-night-2.JPG.jpg</image:loc>
+      <image:title>Mahindra Vision S Two Test Mules At Traffic Stop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-vision-s-two-test-mules-at-traffic-stop-led-lighting-spi/</loc>
+    <lastmod>2026-11-11T09:27:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-vision-s-xub-4m-suv-spied-at-night-2.JPG.jpg</image:loc>
+      <image:title>Mahindra Vision S Two Test Mules At Traffic Stop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rai/</loc>
+    <lastmod>2026-11-11T09:23:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-3.motorsport.com/images/amp/Y9lNzqb2/s6/oscar-piastri-mclaren-2.jpg</image:loc>
+      <image:title>What the Brazilian GP revealed about F1&#x27;s ability to cope with rain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rai/</loc>
+    <lastmod>2026-11-11T09:23:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-3.motorsport.com/images/amp/Y9lNzqb2/s6/oscar-piastri-mclaren-2.jpg</image:loc>
+      <image:title>What the Brazilian GP revealed about F1&#x27;s ability to cope with rain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/f1s-divisive-wet-weather-tyres-to-change-in-2027/</loc>
+    <lastmod>2026-11-11T07:41:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-07-11-26-9011.jpg</image:loc>
+      <image:title>F1&#x27;s divisive wet weather tyres to change in 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/f1s-divisive-wet-weather-tyres-to-change-in-2027/</loc>
+    <lastmod>2026-11-11T07:41:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-07-11-26-9011.jpg</image:loc>
+      <image:title>F1&#x27;s divisive wet weather tyres to change in 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/india-made-renault-kiger-improves-safety-rating-4-star-gncap/</loc>
+    <lastmod>2026-11-11T06:35:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-renault-kiger-facelift-global-ncap-crash-test-5.jpg</image:loc>
+      <image:title>India-Made Renault Kiger Improves Safety Rating</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/india-made-renault-kiger-improves-safety-rating-4-star-gncap/</loc>
+    <lastmod>2026-11-11T06:35:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-renault-kiger-facelift-global-ncap-crash-test-5.jpg</image:loc>
+      <image:title>India-Made Renault Kiger Improves Safety Rating</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-commercial-vehicle-sales-rise-68-in-october/</loc>
+    <lastmod>2026-11-11T04:53:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/BYD-commercial-vehicle-options.png</image:loc>
+      <image:title>BYD Commercial Vehicle Sales Rise 68% in October!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-commercial-vehicle-sales-rise-68-in-october/</loc>
+    <lastmod>2026-11-11T04:53:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/BYD-commercial-vehicle-options.png</image:loc>
+      <image:title>BYD Commercial Vehicle Sales Rise 68% in October!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-robotaxis-extend-into-san-antonio/</loc>
+    <lastmod>2026-11-11T04:53:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/Robotaxi-Own-An-Autonomous-Fleet-1.jpg</image:loc>
+      <image:title>Tesla Robotaxis Extend into San Antonio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-robotaxis-extend-into-san-antonio/</loc>
+    <lastmod>2026-11-11T04:53:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/Robotaxi-Own-An-Autonomous-Fleet-1.jpg</image:loc>
+      <image:title>Tesla Robotaxis Extend into San Antonio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byds-bev-sales-soar-while-its-phev-sales-slide/</loc>
+    <lastmod>2026-11-11T04:50:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/BYD-BEV-Sales-Oct-2026.png</image:loc>
+      <image:title>BYD&#x27;s BEV Sales Soar While Its PHEV Sales Slide</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byds-bev-sales-soar-while-its-phev-sales-slide/</loc>
+    <lastmod>2026-11-11T04:50:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/BYD-BEV-Sales-Oct-2026.png</image:loc>
+      <image:title>BYD&#x27;s BEV Sales Soar While Its PHEV Sales Slide</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trump-administration-continues-systematic-dismantling-of-public-l/</loc>
+    <lastmod>2026-11-11T04:47:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/08/National-Park-pexels-nunzg.jpg</image:loc>
+      <image:title>Trump Administration Continues Systematic Dismantling of Public Lands</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/trump-administration-continues-systematic-dismantling-of-public-l/</loc>
+    <lastmod>2026-11-11T04:47:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/08/National-Park-pexels-nunzg.jpg</image:loc>
+      <image:title>Trump Administration Continues Systematic Dismantling of Public Lands</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminati/</loc>
+    <lastmod>2026-11-11T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminating-against-disabled-riders/l-intro-1794339280.jpg</image:loc>
+      <image:title>DOJ Slaps Lyft With $53 Million Lawsuit For Allegedly Discriminating Against Disabled Riders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminati/</loc>
+    <lastmod>2026-11-11T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminating-against-disabled-riders/l-intro-1794339280.jpg</image:loc>
+      <image:title>DOJ Slaps Lyft With $53 Million Lawsuit For Allegedly Discriminating Against Disabled Riders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/you-can-now-buy-a-coffee-table-made-from-a-viper-v10-engine/</loc>
+    <lastmod>2026-11-11T02:30:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Dodge-Viper-V10-Engine-Coffee-Table-2.jpg</image:loc>
+      <image:title>You Can Now Buy A Coffee Table Made From A Viper V10 Engine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/you-can-now-buy-a-coffee-table-made-from-a-viper-v10-engine/</loc>
+    <lastmod>2026-11-11T02:30:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Dodge-Viper-V10-Engine-Coffee-Table-2.jpg</image:loc>
+      <image:title>You Can Now Buy A Coffee Table Made From A Viper V10 Engine</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/joint-letter-on-low-carbon-steel-credits-in-the-review-of-eu-co₂-/</loc>
@@ -438,6 +638,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/byd-offices-raided-over-defender-lookalike/</loc>
+    <lastmod>2026-11-10T19:30:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/byd-offices-raided-over-defender-lookalike/l-intro-1794338921.jpg</image:loc>
+      <image:title>BYD Offices Raided Over Defender Lookalike</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-offices-raided-over-defender-lookalike/</loc>
+    <lastmod>2026-11-10T19:30:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/byd-offices-raided-over-defender-lookalike/l-intro-1794338921.jpg</image:loc>
+      <image:title>BYD Offices Raided Over Defender Lookalike</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/michèle-mouton-driving-a-quattro-s1-up-pikes-peak-is-the-coolest-/</loc>
     <lastmod>2026-11-10T19:25:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -478,6 +698,66 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/gm-wants-its-ai-to-drag-race-for-you/</loc>
+    <lastmod>2026-11-10T19:07:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/gm-wants-its-ai-to-drag-race-for-you/l-intro-1794337501.jpg</image:loc>
+      <image:title>GM Wants Its AI To Drag Race For You</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gm-wants-its-ai-to-drag-race-for-you/</loc>
+    <lastmod>2026-11-10T19:07:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/gm-wants-its-ai-to-drag-race-for-you/l-intro-1794337501.jpg</image:loc>
+      <image:title>GM Wants Its AI To Drag Race For You</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-mustang-cobra-is-back-and-it-sounds-meaner-than-ever/</loc>
+    <lastmod>2026-11-10T19:01:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-mustang-cobra-is-back-and-it-sounds-meaner-than-ever/l-intro-1794337155.jpg</image:loc>
+      <image:title>The Mustang Cobra Is Back And It Sounds Meaner Than Ever</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-mustang-cobra-is-back-and-it-sounds-meaner-than-ever/</loc>
+    <lastmod>2026-11-10T19:01:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-mustang-cobra-is-back-and-it-sounds-meaner-than-ever/l-intro-1794337155.jpg</image:loc>
+      <image:title>The Mustang Cobra Is Back And It Sounds Meaner Than Ever</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/future-cars-worth-waiting-for-20262030/</loc>
+    <lastmod>2026-11-10T18:49:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/future-cars-2-6939c3d6c9abe.jpg</image:loc>
+      <image:title>Future Cars Worth Waiting For: 2026-2030</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/future-cars-worth-waiting-for-20262030/</loc>
+    <lastmod>2026-11-10T18:49:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/future-cars-2-6939c3d6c9abe.jpg</image:loc>
+      <image:title>Future Cars Worth Waiting For: 2026-2030</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/the-new-bmw-i3-just-proved-how-efficient-an-ev-can-be-after-a-nea/</loc>
     <lastmod>2026-11-10T18:40:17+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -515,6 +795,46 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/garminsmartwatchsafety-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Garmin and Waze just teamed up on a clever new way to keep cyclists safer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-photos-of-the-1979-lancia-zagato/</loc>
+    <lastmod>2026-11-10T18:15:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1dd6b2e3-40f9-44b0-88a8-fbb0d39df999.jpg</image:loc>
+      <image:title>First Look: The 1979 Lancia Zagato Revealed In Stunning Detail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-photos-of-the-1979-lancia-zagato/</loc>
+    <lastmod>2026-11-10T18:15:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1dd6b2e3-40f9-44b0-88a8-fbb0d39df999.jpg</image:loc>
+      <image:title>First Look: The 1979 Lancia Zagato Revealed In Stunning Detail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rewarding-for-the-right-owner-1979-lancia-zagato-tested/</loc>
+    <lastmod>2026-11-10T18:15:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6c35e863-65ae-4a22-bdaa-ed10e3d178dc.jpg</image:loc>
+      <image:title>Rewarding for the Right Owner: 1979 Lancia Zagato Tested</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rewarding-for-the-right-owner-1979-lancia-zagato-tested/</loc>
+    <lastmod>2026-11-10T18:15:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6c35e863-65ae-4a22-bdaa-ed10e3d178dc.jpg</image:loc>
+      <image:title>Rewarding for the Right Owner: 1979 Lancia Zagato Tested</image:title>
     </image:image>
   </url>
   <url>
@@ -2715,326 +3035,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/yozma-in10-pro-e-moto-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Electric dirt bikes keep getting called e-bikes. The bicycle industry wants that to stop</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/cv-retail-sales-oct-2026-tata-mahindra-ashok-leyland-vecv-maruti-/</loc>
-    <lastmod>2026-11-09T12:35:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/tata-trucks-sales-aug-2026.jpg</image:loc>
-      <image:title>CV Retail Sales Oct 2026 - Tata, Mahindra, Ashok Leyland, VECV, Maruti, Force, Daimler</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/cv-retail-sales-oct-2026-tata-mahindra-ashok-leyland-vecv-maruti-/</loc>
-    <lastmod>2026-11-09T12:35:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/tata-trucks-sales-aug-2026.jpg</image:loc>
-      <image:title>CV Retail Sales Oct 2026 - Tata, Mahindra, Ashok Leyland, VECV, Maruti, Force, Daimler</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/going-the-distance-these-electric-semi-trucks-cover-over-600-mile/</loc>
-    <lastmod>2026-11-09T12:33:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/1000km_mercedes.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Going the distance: these electric semi trucks cover over 600 miles EVERY DAY</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/going-the-distance-these-electric-semi-trucks-cover-over-600-mile/</loc>
-    <lastmod>2026-11-09T12:33:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/1000km_mercedes.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Going the distance: these electric semi trucks cover over 600 miles EVERY DAY</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/20-years-in-the-factory-crate-a-yamaha-yzf-r6-in-time-capsule-con/</loc>
-    <lastmod>2026-11-09T12:30:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Yamaha-YZF-R6-Superbike-2-1.jpg</image:loc>
-      <image:title>20 Years In The Factory Crate! A Yamaha YZF-R6 In Time Capsule Condition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/20-years-in-the-factory-crate-a-yamaha-yzf-r6-in-time-capsule-con/</loc>
-    <lastmod>2026-11-09T12:30:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Yamaha-YZF-R6-Superbike-2-1.jpg</image:loc>
-      <image:title>20 Years In The Factory Crate! A Yamaha YZF-R6 In Time Capsule Condition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-the-racing-bulls-pendulum-is-swinging-back-towards-lawson/</loc>
-    <lastmod>2026-11-09T11:54:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-3.motorsport.com/images/amp/YK15ARz0/s6/liam-lawson-racing-bulls-3.jpg</image:loc>
-      <image:title>How the Racing Bulls pendulum is swinging back towards Lawson</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-the-racing-bulls-pendulum-is-swinging-back-towards-lawson/</loc>
-    <lastmod>2026-11-09T11:54:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-3.motorsport.com/images/amp/YK15ARz0/s6/liam-lawson-racing-bulls-3.jpg</image:loc>
-      <image:title>How the Racing Bulls pendulum is swinging back towards Lawson</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-expands-robotaxi-service-to-san-antonio/</loc>
-    <lastmod>2026-11-09T11:30:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1600,1067</image:loc>
-      <image:title>Tesla expands robotaxi service to San Antonio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-expands-robotaxi-service-to-san-antonio/</loc>
-    <lastmod>2026-11-09T11:30:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1600,1067</image:loc>
-      <image:title>Tesla expands robotaxi service to San Antonio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-fear-martin-banished-with-his-injured-qatar-gp-ride/</loc>
-    <lastmod>2026-11-09T11:01:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1362284_HiRes-1.jpg</image:loc>
-      <image:title>The &#x27;fear&#x27; Martin banished with his injured Qatar GP ride</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-fear-martin-banished-with-his-injured-qatar-gp-ride/</loc>
-    <lastmod>2026-11-09T11:01:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1362284_HiRes-1.jpg</image:loc>
-      <image:title>The &#x27;fear&#x27; Martin banished with his injured Qatar GP ride</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/which-generation-of-hyundai-tucson-is-safest-according-to-the-iih/</loc>
-    <lastmod>2026-11-09T10:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/which-generation-of-hyundai-tucson-is-safest-according-to-the-iihs/l-intro-1793381171.jpg</image:loc>
-      <image:title>Which Generation Of Hyundai Tucson Is Safest According To The IIHS</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/which-generation-of-hyundai-tucson-is-safest-according-to-the-iih/</loc>
-    <lastmod>2026-11-09T10:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/which-generation-of-hyundai-tucson-is-safest-according-to-the-iihs/l-intro-1793381171.jpg</image:loc>
-      <image:title>Which Generation Of Hyundai Tucson Is Safest According To The IIHS</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/piastri-and-webber-terminate-management-agreement/</loc>
-    <lastmod>2026-11-09T08:43:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-1.motorsport.com/images/amp/0Zq8VN46/s6/oscar-piastri-mclaren-with-mar-2.jpg</image:loc>
-      <image:title>Piastri and Webber terminate management agreement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/piastri-and-webber-terminate-management-agreement/</loc>
-    <lastmod>2026-11-09T08:43:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-1.motorsport.com/images/amp/0Zq8VN46/s6/oscar-piastri-mclaren-with-mar-2.jpg</image:loc>
-      <image:title>Piastri and Webber terminate management agreement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-/</loc>
-    <lastmod>2026-11-09T08:43:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-turn/l-intro-1794129125.jpg</image:loc>
-      <image:title>BYD&#x27;s Yangwang Altior Is A $310k Rolls-Royce Copycat That Can Tank-Turn</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-/</loc>
-    <lastmod>2026-11-09T08:43:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/byds-yangwang-altior-is-a-310k-rolls-royce-copycat-that-can-tank-turn/l-intro-1794129125.jpg</image:loc>
-      <image:title>BYD&#x27;s Yangwang Altior Is A $310k Rolls-Royce Copycat That Can Tank-Turn</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-yangwang-altior-comes-to-the-fore-as-a-flagship-luxury-statem/</loc>
-    <lastmod>2026-11-09T08:30:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BYD-Yangwang-Altior-.jpg</image:loc>
-      <image:title>BYD Yangwang Altior Comes To The Fore As A Flagship Luxury Statement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-yangwang-altior-comes-to-the-fore-as-a-flagship-luxury-statem/</loc>
-    <lastmod>2026-11-09T08:30:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BYD-Yangwang-Altior-.jpg</image:loc>
-      <image:title>BYD Yangwang Altior Comes To The Fore As A Flagship Luxury Statement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-mg-go-small-ev-prod-spec-spied-during-tvc-shoot/</loc>
-    <lastmod>2026-11-09T08:13:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mg-go-electric-hatchback-spied-tvc-shoot-cover.jpg</image:loc>
-      <image:title>New MG GO Small EV Prod-Spec Spied During TVC Shoot</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-mg-go-small-ev-prod-spec-spied-during-tvc-shoot/</loc>
-    <lastmod>2026-11-09T08:13:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mg-go-electric-hatchback-spied-tvc-shoot-cover.jpg</image:loc>
-      <image:title>New MG GO Small EV Prod-Spec Spied During TVC Shoot</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2028-audi-nuvolari/</loc>
-    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0f1bc901-543f-4be4-82b9-bab9c60ffb15.jpg?crop=0.795xw:0.596xh;0.107xw,0.197xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look Inside: The 2028 Audi Nuvolari Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2028-audi-nuvolari/</loc>
-    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0f1bc901-543f-4be4-82b9-bab9c60ffb15.jpg?crop=0.795xw:0.596xh;0.107xw,0.197xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look Inside: The 2028 Audi Nuvolari Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/track-attack-we-drive-the-2028-audi-nuvolari-to-the-limit/</loc>
-    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76c9394d-d9e8-430f-8a06-4da1b0ed12b7.jpg?crop=0.655xw:0.491xh;0.11xw,0.358xh&amp;resize=1200:*</image:loc>
-      <image:title>Track Attack: We Drive the 2028 Audi Nuvolari to the Limit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/track-attack-we-drive-the-2028-audi-nuvolari-to-the-limit/</loc>
-    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76c9394d-d9e8-430f-8a06-4da1b0ed12b7.jpg?crop=0.655xw:0.491xh;0.11xw,0.358xh&amp;resize=1200:*</image:loc>
-      <image:title>Track Attack: We Drive the 2028 Audi Nuvolari to the Limit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2028-audi-nuvolari/</loc>
-    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c1f56b8c-da2d-49e2-8365-76e32d8bfd44.jpg?crop=0.689xw:0.517xh;0.129xw,0.261xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2028 Audi Nuvolari</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2028-audi-nuvolari/</loc>
-    <lastmod>2026-11-09T08:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c1f56b8c-da2d-49e2-8365-76e32d8bfd44.jpg?crop=0.689xw:0.517xh;0.129xw,0.261xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2028 Audi Nuvolari</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/auto-festive-sales-2026-dhanteras-spurs-deliveries-october-retail/</loc>
-    <lastmod>2026-11-09T07:00:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Renault-Duster-Strong-Hybrid-Delivery-1.jpg.jpeg</image:loc>
-      <image:title>Auto Festive Sales 2026: Dhanteras Spurs Deliveries, October Retail Down 24%</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/auto-festive-sales-2026-dhanteras-spurs-deliveries-october-retail/</loc>
-    <lastmod>2026-11-09T07:00:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Renault-Duster-Strong-Hybrid-Delivery-1.jpg.jpeg</image:loc>
-      <image:title>Auto Festive Sales 2026: Dhanteras Spurs Deliveries, October Retail Down 24%</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-atto-2-spied-in-chennai-sierra-ev-rival-launch-2027/</loc>
-    <lastmod>2026-11-09T06:38:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-atto-2-spied-in-chennai-before-launch-2.jpg</image:loc>
-      <image:title>BYD Atto 2 Spied In Chennai</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-atto-2-spied-in-chennai-sierra-ev-rival-launch-2027/</loc>
-    <lastmod>2026-11-09T06:38:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-atto-2-spied-in-chennai-before-launch-2.jpg</image:loc>
-      <image:title>BYD Atto 2 Spied In Chennai</image:title>
     </image:image>
   </url>
 </urlset>
