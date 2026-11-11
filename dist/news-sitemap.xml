@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/at-17000-is-this-meyers-manx-sr2-a-super-cool-cat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:25:00+00:00</news:publication_date>
+      <news:title>At $17,000, Is This Meyers Manx SR2 A Super Cool Cat?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-17000-is-this-meyers-manx-sr2-a-super-cool-cat/l-intro-1794338528.jpg</image:loc>
+      <image:title>At $17,000, Is This Meyers Manx SR2 A Super Cool Cat?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/sedan-sales-oct-2026-dzire-aura-aeris-amaze-slavia-virtus-verna-c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:21:49+00:00</news:publication_date>
+      <news:title>Sedan Sales Oct 2026 - Dzire, Aura, Aeris, Amaze, Slavia, Virtus, Verna, City</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/10/new-tata-aeris-review4.jpeg</image:loc>
+      <image:title>Sedan Sales Oct 2026 - Dzire, Aura, Aeris, Amaze, Slavia, Virtus, Verna, City</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/science-for-the-people-right-on/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:21:40+00:00</news:publication_date>
+      <news:title>Science For The People, Right On!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/water-treatment-facility-.jpg</image:loc>
+      <image:title>Science For The People, Right On!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-we-know-about-worrying-new-honda-f1-reliability-issue/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:00:40+00:00</news:publication_date>
+      <news:title>What we know about worrying new Honda F1 reliability issue</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452387_HiRes.jpg</image:loc>
+      <image:title>What we know about worrying new Honda F1 reliability issue</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/its-that-time-again-honda-needs-to-roll-out-an-electric-super-cub/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T11:40:00+00:00</news:publication_date>
+      <news:title>It&#x27;s that time again</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/honda-super-cub-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>It&#x27;s that time again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-genesis-gv90-luxury-suv-patented-in-india-launch-in-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T11:12:26+00:00</news:publication_date>
+      <news:title>Hyundai Genesis GV90 Luxury SUV Patented In India - Launch In 2027?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hyundai-genesis-gv90-patented-in-india-1.jpg</image:loc>
+      <image:title>Hyundai Genesis GV90 Luxury SUV Patented In India - Launch In 2027?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/mahindra-vision-s-two-test-mules-at-traffic-stop-led-lighting-spi/</loc>
     <news:news>
       <news:publication>
@@ -528,6 +618,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/honda-will-build-a-3-billion-car-plant-in-ohio/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T19:00:00+00:00</news:publication_date>
+      <news:title>Honda Will Build A $3 Billion Car Plant In Ohio</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/honda-will-build-a-3-billion-car-plant-in-ohio/l-intro-1794297482.jpg</image:loc>
+      <image:title>Honda Will Build A $3 Billion Car Plant In Ohio</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/future-cars-worth-waiting-for-20262030/</loc>
     <news:news>
       <news:publication>
@@ -630,6 +735,51 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/juiced-scrambler-core-teens-e-bikes-teenagers-header-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Juiced unveils another lower-cost moto-styled electric bike: Scrambler Core</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/if-you-want-a-kei-truck-import-a-kei-truck/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T18:00:00+00:00</news:publication_date>
+      <news:title>If You Want A Kei Truck, Import A Kei Truck</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/if-you-want-a-kei-truck-import-a-kei-truck/l-intro-1794328072.jpg</image:loc>
+      <image:title>If You Want A Kei Truck, Import A Kei Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/polestars-formula-2030-concept-car-is-a-futuristic-look-at-tactil/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:50:09+00:00</news:publication_date>
+      <news:title>Polestar&#x27;s Formula 2030 Concept Car Is a Futuristic Look at Tactile Driving</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f2bddada-09cf-4755-a4a8-0d10c07e8e7d.jpg</image:loc>
+      <image:title>Polestar&#x27;s Formula 2030 Concept Car Is a Futuristic Look at Tactile Driving</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/its-a-multiverse-thing-you-wouldnt-understand/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:30:05+00:00</news:publication_date>
+      <news:title>It&#x27;s A Multiverse Thing, You Wouldn&#x27;t Understand</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/its-a-multiverse-thing-you-wouldnt-understand/l-intro-1794331249.jpg</image:loc>
+      <image:title>It&#x27;s A Multiverse Thing, You Wouldn&#x27;t Understand</image:title>
     </image:image>
   </url>
   <url>
@@ -783,6 +933,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/2028-toyota-scion-kei-01/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T16:00:00+00:00</news:publication_date>
+      <news:title>2028 Toyota Scion KEI-01</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/36ff7f58-7d24-4b3e-995f-f499e6b5614d.png?crop=0.673xw:0.505xh;0.26xw,0.198xh&amp;resize=1200:*</image:loc>
+      <image:title>2028 Toyota Scion KEI-01</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/toyota-revives-the-scion-brand-in-the-us-with-a-right-hand-drive-/</loc>
     <news:news>
       <news:publication>
@@ -855,6 +1020,21 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/honda-goes-all-in-on-hybrids-with-new-3-billion-plant-in-ohio/l-intro-1794323505.jpg</image:loc>
       <image:title>Honda Goes All-In On Hybrids With New $3 Billion Plant In Ohio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ford-mustang-cobra-confirmed-for-2027-return-and-you-can-hear-it-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T15:09:24+00:00</news:publication_date>
+      <news:title>Ford Mustang Cobra Confirmed for 2027 Return, and You Can Hear It Now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/15fae8c2-4a51-40d3-8bec-2f3a7443eab0.png</image:loc>
+      <image:title>Ford Mustang Cobra Confirmed for 2027 Return, and You Can Hear It Now</image:title>
     </image:image>
   </url>
   <url>
@@ -2070,186 +2250,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/philadelphia-carjacking-crew-targeted-new-toyota-suvs-for-african-export/l-intro-1794235879.jpg</image:loc>
       <image:title>Philadelphia Carjacking Crew Targeted New Toyota SUVs For African Export</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/são-paulo-grand-prix-proves-f1-can-still-thrill-in-the-rain/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:41:27+00:00</news:publication_date>
-      <news:title>São Paulo Grand Prix Proves F1 Can Still Thrill In The Rain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/sao-paulo-grand-prix-proves-f1-can-still-thrill-in-the-rain/l-intro-1794234669.jpg</image:loc>
-      <image:title>São Paulo Grand Prix Proves F1 Can Still Thrill In The Rain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-launches-robotaxi-in-san-antonio-with-a-274-sq-mi-geofence-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:36:37+00:00</news:publication_date>
-      <news:title>Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-robotaxi-san-antonio-geofence.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/after-2-billion-miles-ford-releases-mach-e-battery-report-card/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:20:44+00:00</news:publication_date>
-      <news:title>After 2 Billion Miles, Ford Releases Mach-E Battery Report Card</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/after-2-billion-miles-ford-releases-mach-e-battery-report-card/l-intro-1794233468.jpg</image:loc>
-      <image:title>After 2 Billion Miles, Ford Releases Mach-E Battery Report Card</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-drops-hint-about-new-fathom-ev-battery-life/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:00:07+00:00</news:publication_date>
-      <news:title>Ford Drops Hint About New Fathom EV Battery Life</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-1.26.34-PM.png</image:loc>
-      <image:title>Ford Drops Hint About New Fathom EV Battery Life</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/musk-says-cybertruck-isnt-dying-from-weak-sales-the-numbers-disag/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:56:47+00:00</news:publication_date>
-      <news:title>Musk says Cybertruck isn&#x27;t dying from weak sales</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-production-April-2024.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Musk says Cybertruck isn&#x27;t dying from weak sales</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-deci/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:43:28+00:00</news:publication_date>
-      <news:title>Musk says Tesla will refund some Cybertruck deposits, defends decision to end production</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1600,1067</image:loc>
-      <image:title>Musk says Tesla will refund some Cybertruck deposits, defends decision to end production</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/subcompact-suvs-may-seem-appealing-but-compact-cars-are-often-a-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:25:06+00:00</news:publication_date>
-      <news:title>Subcompact SUVs May Seem Appealing, but Compact Cars Are Often a Better Buy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/72569410-7b72-4b61-8b47-5e57f8d558e2.jpg</image:loc>
-      <image:title>Subcompact SUVs May Seem Appealing, but Compact Cars Are Often a Better Buy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/at-8000-could-this-1977-cadillac-seville-milan-get-you-to-go-shor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:25:00+00:00</news:publication_date>
-      <news:title>At $8,000, Could This 1977 Cadillac Seville Milan Get You To Go Short?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-8000-could-this-1977-cadillac-seville-milan-get-you-to-go-short/l-intro-1793992773.jpg</image:loc>
-      <image:title>At $8,000, Could This 1977 Cadillac Seville Milan Get You To Go Short?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/force-motors-to-launch-traveller-evs-in-q1-2027/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:10:50+00:00</news:publication_date>
-      <news:title>Force Motors To Launch Traveller EVs In Q1 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Force-Traveller-EV-Rendering.jpg</image:loc>
-      <image:title>Force Motors To Launch Traveller EVs In Q1 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nissans-global-off-roader-set-to-go-on-patrol-in-the-us-in-2027/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:00:00+00:00</news:publication_date>
-      <news:title>Nissan&#x27;s Global Off-Roader Set To Go On &#x27;Patrol&#x27; In The U.S. In 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/nissans-global-off-roader-set-to-go-on-patrol-in-the-u-s-in-2027/l-intro-1793978961.jpg</image:loc>
-      <image:title>Nissan&#x27;s Global Off-Roader Set To Go On &#x27;Patrol&#x27; In The U.S. In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nissan-brings-back-the-patrol-name-on-the-2027-armada-pro-4x/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:00:00+00:00</news:publication_date>
-      <news:title>Nissan Brings Back the Patrol Name on the 2027 Armada Pro-4X</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b84c8d8f-d87d-443e-85d3-8e1ed1fe588d.jpg</image:loc>
-      <image:title>Nissan Brings Back the Patrol Name on the 2027 Armada Pro-4X</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/electric-dirt-bikes-keep-getting-called-e-bikes-the-bicycle-indus/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T12:54:00+00:00</news:publication_date>
-      <news:title>Electric dirt bikes keep getting called e-bikes. The bicycle industry wants that to stop</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/yozma-in10-pro-e-moto-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Electric dirt bikes keep getting called e-bikes. The bicycle industry wants that to stop</image:title>
     </image:image>
   </url>
 </urlset>
