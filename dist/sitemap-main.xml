@@ -3,39 +3,279 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-11T17:20:29Z</lastmod>
+    <lastmod>2026-11-12T00:52:31Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-11T17:20:29Z</lastmod>
+    <lastmod>2026-11-12T00:52:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-11T17:20:29Z</lastmod>
+    <lastmod>2026-11-12T00:52:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-11T17:20:29Z</lastmod>
+    <lastmod>2026-11-12T00:52:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-11T17:20:29Z</lastmod>
+    <lastmod>2026-11-12T00:52:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-11T17:20:29Z</lastmod>
+    <lastmod>2026-11-12T00:52:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/</loc>
+    <lastmod>2026-11-12T00:01:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Europe&#x27;s electric car sales jump 49% as global EV sales grow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/</loc>
+    <lastmod>2026-11-12T00:01:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Europe&#x27;s electric car sales jump 49% as global EV sales grow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-shows-what-its-new-cloud-carriage-intelligent-body-control-sy/</loc>
+    <lastmod>2026-11-11T22:13:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Cloud-Carriage-body-system.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD shows what its new &#x27;Cloud Carriage&#x27; intelligent body control system can really do</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-shows-what-its-new-cloud-carriage-intelligent-body-control-sy/</loc>
+    <lastmod>2026-11-11T22:13:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Cloud-Carriage-body-system.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD shows what its new &#x27;Cloud Carriage&#x27; intelligent body control system can really do</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/was-corruption-the-biggest-issue-in-the-us-election/</loc>
+    <lastmod>2026-11-11T21:36:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Donald-Trump-corruption-45.jpeg</image:loc>
+      <image:title>Was Corruption The Biggest Issue In The US Election?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/was-corruption-the-biggest-issue-in-the-us-election/</loc>
+    <lastmod>2026-11-11T21:36:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Donald-Trump-corruption-45.jpeg</image:loc>
+      <image:title>Was Corruption The Biggest Issue In The US Election?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ktm-reveals-a-new-x-bow-side-by-side-with-a-330-hp-audi-engine/</loc>
+    <lastmod>2026-11-11T21:10:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c922c9ed-4ab7-47a9-939c-f7d28a22fc4d.png</image:loc>
+      <image:title>KTM Reveals a New X-Bow Side-by-Side with a 330-HP Audi Engine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ktm-reveals-a-new-x-bow-side-by-side-with-a-330-hp-audi-engine/</loc>
+    <lastmod>2026-11-11T21:10:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c922c9ed-4ab7-47a9-939c-f7d28a22fc4d.png</image:loc>
+      <image:title>KTM Reveals a New X-Bow Side-by-Side with a 330-HP Audi Engine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/over-one-third-of-audi-nuvolari-production-will-be-sold-in-the-us/</loc>
+    <lastmod>2026-11-11T20:49:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/over-one-third-of-audi-nuvolari-production-will-be-sold-in-the-u-s/l-intro-1794430072.jpg</image:loc>
+      <image:title>Over One-Third Of Audi Nuvolari Production Will Be Sold In The U.S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/over-one-third-of-audi-nuvolari-production-will-be-sold-in-the-us/</loc>
+    <lastmod>2026-11-11T20:49:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/over-one-third-of-audi-nuvolari-production-will-be-sold-in-the-u-s/l-intro-1794430072.jpg</image:loc>
+      <image:title>Over One-Third Of Audi Nuvolari Production Will Be Sold In The U.S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-just-made-history-at-germanys-most-prestigious-auto-awards/</loc>
+    <lastmod>2026-11-11T20:41:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-new-EV-SUV-EV5.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Kia just made history at Germany&#x27;s most prestigious auto awards</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-just-made-history-at-germanys-most-prestigious-auto-awards/</loc>
+    <lastmod>2026-11-11T20:41:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-new-EV-SUV-EV5.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Kia just made history at Germany&#x27;s most prestigious auto awards</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2025-ram-1500-big-horn/</loc>
+    <lastmod>2026-11-11T20:21:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/3895511c-370c-42e0-ab68-ada5eda1219c.jpg?crop=0.774xw:0.58xh;0.044xw,0.305xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2025 Ram 1500 Big Horn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2025-ram-1500-big-horn/</loc>
+    <lastmod>2026-11-11T20:21:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/3895511c-370c-42e0-ab68-ada5eda1219c.jpg?crop=0.774xw:0.58xh;0.044xw,0.305xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2025 Ram 1500 Big Horn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits/</loc>
+    <lastmod>2026-11-11T20:15:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits-the-auction-block/l-intro-1794427989.jpg</image:loc>
+      <image:title>The Bat Signal Is Calling: Batman&#x27;s &#x27;The Dark Knight&#x27; Motorcycle Hits The Auction Block</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits/</loc>
+    <lastmod>2026-11-11T20:15:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits-the-auction-block/l-intro-1794427989.jpg</image:loc>
+      <image:title>The Bat Signal Is Calling: Batman&#x27;s &#x27;The Dark Knight&#x27; Motorcycle Hits The Auction Block</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/spacex-wants-to-build-data-center-powered-by-its-newest-product-n/</loc>
+    <lastmod>2026-11-11T19:40:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/spacex-wants-to-build-data-center-powered-by-its-newest-product-natural-gas/l-intro-1794425965.jpg</image:loc>
+      <image:title>SpaceX Wants To Build Data Center Powered By Its Newest Product: Natural Gas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/spacex-wants-to-build-data-center-powered-by-its-newest-product-n/</loc>
+    <lastmod>2026-11-11T19:40:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/spacex-wants-to-build-data-center-powered-by-its-newest-product-natural-gas/l-intro-1794425965.jpg</image:loc>
+      <image:title>SpaceX Wants To Build Data Center Powered By Its Newest Product: Natural Gas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/average-new-car-price-hits-new-record-high-and-even-the-good-news/</loc>
+    <lastmod>2026-11-11T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/average-new-car-price-hits-new-record-high-and-even-the-good-news-doesnt-sound-so-good/l-intro-1794341593.jpg</image:loc>
+      <image:title>Average New Car Price Hits New Record High (And Even The Good News Doesn&#x27;t Sound So Good)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/average-new-car-price-hits-new-record-high-and-even-the-good-news/</loc>
+    <lastmod>2026-11-11T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/average-new-car-price-hits-new-record-high-and-even-the-good-news-doesnt-sound-so-good/l-intro-1794341593.jpg</image:loc>
+      <image:title>Average New Car Price Hits New Record High (And Even The Good News Doesn&#x27;t Sound So Good)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byds-full-size-luxury-suv-has-a-wheel-problem-and-its-fixing-it-f/</loc>
+    <lastmod>2026-11-11T18:58:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD&#x27;s full-size luxury SUV has a wheel problem, and it&#x27;s fixing it for free</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byds-full-size-luxury-suv-has-a-wheel-problem-and-its-fixing-it-f/</loc>
+    <lastmod>2026-11-11T18:58:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD&#x27;s full-size luxury SUV has a wheel problem, and it&#x27;s fixing it for free</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-perovskite-solar-cell-kraken-has-been-unleashed-upon-the-us/</loc>
+    <lastmod>2026-11-11T18:08:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/caelux-solar-glass.jpg</image:loc>
+      <image:title>The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-perovskite-solar-cell-kraken-has-been-unleashed-upon-the-us/</loc>
+    <lastmod>2026-11-11T18:08:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/caelux-solar-glass.jpg</image:loc>
+      <image:title>The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/</loc>
@@ -615,6 +855,46 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminating-against-disabled-riders/l-intro-1794339280.jpg</image:loc>
       <image:title>DOJ Slaps Lyft With $53 Million Lawsuit For Allegedly Discriminating Against Disabled Riders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hero-vida-nex-3-electric-car-patented-with-gullwing-door/</loc>
+    <lastmod>2026-11-11T03:53:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-nex-3-patented-in-india-cover.jpg</image:loc>
+      <image:title>Hero Vida NEX 3 Electric Car Patented With Gullwing Door</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hero-vida-nex-3-electric-car-patented-with-gullwing-door/</loc>
+    <lastmod>2026-11-11T03:53:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-nex-3-patented-in-india-cover.jpg</image:loc>
+      <image:title>Hero Vida NEX 3 Electric Car Patented With Gullwing Door</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ktm-x-bow-arrow-debuts-with-audi-20-l-engine-280-hp-usd-60k-rs-56/</loc>
+    <lastmod>2026-11-11T03:21:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/ktm-x-bow-arrow-revealed-with-audi-engine.jpg</image:loc>
+      <image:title>KTM X-Bow Arrow Debuts With Audi 2.0 L Engine - 280 Hp, USD 60k (Rs 56 Lakh)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ktm-x-bow-arrow-debuts-with-audi-20-l-engine-280-hp-usd-60k-rs-56/</loc>
+    <lastmod>2026-11-11T03:21:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/ktm-x-bow-arrow-revealed-with-audi-engine.jpg</image:loc>
+      <image:title>KTM X-Bow Arrow Debuts With Audi 2.0 L Engine - 280 Hp, USD 60k (Rs 56 Lakh)</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/lincolns-new-chinese-aviator-looks-very-different-than-the-american-one/l-intro-1794245027.jpg</image:loc>
       <image:title>Lincoln&#x27;s New Chinese Aviator Looks Very Different Than The American One</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/yangwangs-altior-luxury-ev-sedan-aims-for-rolls-royces-throne/</loc>
-    <lastmod>2026-11-09T18:50:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e5e32d55-d367-4eb6-a56a-e768624491a7.jpg</image:loc>
-      <image:title>Yangwang&#x27;s Altior Luxury EV Sedan Aims for Rolls-Royce&#x27;s Throne</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/yangwangs-altior-luxury-ev-sedan-aims-for-rolls-royces-throne/</loc>
-    <lastmod>2026-11-09T18:50:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e5e32d55-d367-4eb6-a56a-e768624491a7.jpg</image:loc>
-      <image:title>Yangwang&#x27;s Altior Luxury EV Sedan Aims for Rolls-Royce&#x27;s Throne</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-electric-vespa-just-got-better-where-it-actually-matters/</loc>
-    <lastmod>2026-11-09T18:48:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vespa-lettrica-header-scooter-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>The electric Vespa just got better where it actually matters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-electric-vespa-just-got-better-where-it-actually-matters/</loc>
-    <lastmod>2026-11-09T18:48:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vespa-lettrica-header-scooter-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>The electric Vespa just got better where it actually matters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nürburgring-record/</loc>
-    <lastmod>2026-11-09T18:34:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nrburgring-record-imminent/l-intro-1794249147.jpg</image:loc>
-      <image:title>Xiaomi SU7 Xtreme Strips Off Its Camo, Is A New Nürburgring Record Imminent?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nürburgring-record/</loc>
-    <lastmod>2026-11-09T18:34:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nrburgring-record-imminent/l-intro-1794249147.jpg</image:loc>
-      <image:title>Xiaomi SU7 Xtreme Strips Off Its Camo, Is A New Nürburgring Record Imminent?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-ir/</loc>
-    <lastmod>2026-11-09T17:39:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-iran-war-after-republicans-got-their-butts-kicked/l-intro-1794245876.jpg</image:loc>
-      <image:title>Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-ir/</loc>
-    <lastmod>2026-11-09T17:39:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-iran-war-after-republicans-got-their-butts-kicked/l-intro-1794245876.jpg</image:loc>
-      <image:title>Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fords-ev-batteries-retain-more-than-90-health-after-100000-miles/</loc>
-    <lastmod>2026-11-09T17:12:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Ford-EV-batteries-health.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Ford&#x27;s EV batteries retain more than 90% health after 100,000 miles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fords-ev-batteries-retain-more-than-90-health-after-100000-miles/</loc>
-    <lastmod>2026-11-09T17:12:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Ford-EV-batteries-health.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Ford&#x27;s EV batteries retain more than 90% health after 100,000 miles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/west-yorkshires-229-million-bus-decisions-will-outlast-its-operat/</loc>
-    <lastmod>2026-11-09T17:06:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/4ac74446-d406-4d50-8023-8885fd3f2d7f_1600x900.png</image:loc>
-      <image:title>West Yorkshire&#x27;s £229 Million Bus Decisions Will Outlast Its Operating Contracts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/west-yorkshires-229-million-bus-decisions-will-outlast-its-operat/</loc>
-    <lastmod>2026-11-09T17:06:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/4ac74446-d406-4d50-8023-8885fd3f2d7f_1600x900.png</image:loc>
-      <image:title>West Yorkshire&#x27;s £229 Million Bus Decisions Will Outlast Its Operating Contracts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/uber-launches-parking-service-following-spothero-acquisition-with/</loc>
-    <lastmod>2026-11-09T17:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-83314262.jpg?resize=1600,1067</image:loc>
-      <image:title>Uber launches parking service following SpotHero acquisition, with an eye on robotaxis</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/uber-launches-parking-service-following-spothero-acquisition-with/</loc>
-    <lastmod>2026-11-09T17:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-83314262.jpg?resize=1600,1067</image:loc>
-      <image:title>Uber launches parking service following SpotHero acquisition, with an eye on robotaxis</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-gives-the-rav4-woodland-actual-suspension-upgrades-for-202/</loc>
-    <lastmod>2026-11-09T16:54:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyota-gives-the-rav4-woodland-actual-suspension-upgrades-for-2027/l-intro-1794243192.jpg</image:loc>
-      <image:title>Toyota Gives The RAV4 Woodland Actual Suspension Upgrades For 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-gives-the-rav4-woodland-actual-suspension-upgrades-for-202/</loc>
-    <lastmod>2026-11-09T16:54:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/toyota-gives-the-rav4-woodland-actual-suspension-upgrades-for-2027/l-intro-1794243192.jpg</image:loc>
-      <image:title>Toyota Gives The RAV4 Woodland Actual Suspension Upgrades For 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-announces-plans-to-build-a-new-3-billion-factory-in-ohio/</loc>
-    <lastmod>2026-11-09T16:42:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-honda-crv-exl-125-647e04f956045.jpg</image:loc>
-      <image:title>Honda Announces Plans to Build a New $3 Billion Factory in Ohio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-announces-plans-to-build-a-new-3-billion-factory-in-ohio/</loc>
-    <lastmod>2026-11-09T16:42:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-honda-crv-exl-125-647e04f956045.jpg</image:loc>
-      <image:title>Honda Announces Plans to Build a New $3 Billion Factory in Ohio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/musk-admits-tesla-doesnt-have-enough-talent-to-build-more-than-on/</loc>
-    <lastmod>2026-11-09T16:41:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Musk admits Tesla doesn&#x27;t have enough talent to build more than one car at a time after exodus</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/musk-admits-tesla-doesnt-have-enough-talent-to-build-more-than-on/</loc>
-    <lastmod>2026-11-09T16:41:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Musk admits Tesla doesn&#x27;t have enough talent to build more than one car at a time after exodus</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-mustang-shelby-gt350-successor-reportedly-around-the-corner/</loc>
-    <lastmod>2026-11-09T16:37:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2019-ford-mustang-shelby-gt350-101-1557861444.jpg</image:loc>
-      <image:title>Ford Mustang Shelby GT350 Successor Reportedly Around the Corner</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ford-mustang-shelby-gt350-successor-reportedly-around-the-corner/</loc>
-    <lastmod>2026-11-09T16:37:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2019-ford-mustang-shelby-gt350-101-1557861444.jpg</image:loc>
-      <image:title>Ford Mustang Shelby GT350 Successor Reportedly Around the Corner</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mitsubishi-pajero-prepares-for-the-outback-with-factory-backed-ac/</loc>
-    <lastmod>2026-11-09T16:26:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mitsubishi-pajero-prepares-for-the-outback-with-factory-backed-accessories/l-intro-1794241491.jpg</image:loc>
-      <image:title>Mitsubishi Pajero Prepares For The Outback With Factory-Backed Accessories</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mitsubishi-pajero-prepares-for-the-outback-with-factory-backed-ac/</loc>
-    <lastmod>2026-11-09T16:26:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mitsubishi-pajero-prepares-for-the-outback-with-factory-backed-accessories/l-intro-1794241491.jpg</image:loc>
-      <image:title>Mitsubishi Pajero Prepares For The Outback With Factory-Backed Accessories</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actuall/</loc>
-    <lastmod>2026-11-09T16:15:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actually-has-to-refund-deposits-before-production-shuts-down/l-intro-1794240336.jpg</image:loc>
-      <image:title>Elon Musk Insists Tesla Cybertruck Demand Is So Strong It Actually Has To Refund Deposits Before Production Shuts Down</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actuall/</loc>
-    <lastmod>2026-11-09T16:15:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/elon-musk-insists-tesla-cybertruck-demand-is-so-strong-it-actually-has-to-refund-deposits-before-production-shuts-down/l-intro-1794240336.jpg</image:loc>
-      <image:title>Elon Musk Insists Tesla Cybertruck Demand Is So Strong It Actually Has To Refund Deposits Before Production Shuts Down</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/whats-behind-piastris-split-with-webber-and-what-it-means-for-his/</loc>
-    <lastmod>2026-11-09T15:53:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-2.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg</image:loc>
-      <image:title>What&#x27;s behind Piastri&#x27;s split with Webber</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/whats-behind-piastris-split-with-webber-and-what-it-means-for-his/</loc>
-    <lastmod>2026-11-09T15:53:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-2.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg</image:loc>
-      <image:title>What&#x27;s behind Piastri&#x27;s split with Webber</image:title>
     </image:image>
   </url>
 </urlset>

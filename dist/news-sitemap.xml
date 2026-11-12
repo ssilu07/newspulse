@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T00:01:00+00:00</news:publication_date>
+      <news:title>Europe&#x27;s electric car sales jump 49% as global EV sales grow</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Europe&#x27;s electric car sales jump 49% as global EV sales grow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-shows-what-its-new-cloud-carriage-intelligent-body-control-sy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T22:13:48+00:00</news:publication_date>
+      <news:title>BYD shows what its new &#x27;Cloud Carriage&#x27; intelligent body control system can really do</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Cloud-Carriage-body-system.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD shows what its new &#x27;Cloud Carriage&#x27; intelligent body control system can really do</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/was-corruption-the-biggest-issue-in-the-us-election/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T21:36:51+00:00</news:publication_date>
+      <news:title>Was Corruption The Biggest Issue In The US Election?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Donald-Trump-corruption-45.jpeg</image:loc>
+      <image:title>Was Corruption The Biggest Issue In The US Election?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ktm-reveals-a-new-x-bow-side-by-side-with-a-330-hp-audi-engine/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T21:10:30+00:00</news:publication_date>
+      <news:title>KTM Reveals a New X-Bow Side-by-Side with a 330-HP Audi Engine</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/c922c9ed-4ab7-47a9-939c-f7d28a22fc4d.png</image:loc>
+      <image:title>KTM Reveals a New X-Bow Side-by-Side with a 330-HP Audi Engine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/over-one-third-of-audi-nuvolari-production-will-be-sold-in-the-us/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T20:49:29+00:00</news:publication_date>
+      <news:title>Over One-Third Of Audi Nuvolari Production Will Be Sold In The U.S</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/over-one-third-of-audi-nuvolari-production-will-be-sold-in-the-u-s/l-intro-1794430072.jpg</image:loc>
+      <image:title>Over One-Third Of Audi Nuvolari Production Will Be Sold In The U.S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-just-made-history-at-germanys-most-prestigious-auto-awards/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T20:41:03+00:00</news:publication_date>
+      <news:title>Kia just made history at Germany&#x27;s most prestigious auto awards</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-new-EV-SUV-EV5.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Kia just made history at Germany&#x27;s most prestigious auto awards</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2025-ram-1500-big-horn/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T20:21:00+00:00</news:publication_date>
+      <news:title>First Look: Aggressive Exterior Styling Of The 2025 Ram 1500 Big Horn</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/3895511c-370c-42e0-ab68-ada5eda1219c.jpg?crop=0.774xw:0.58xh;0.044xw,0.305xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2025 Ram 1500 Big Horn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T20:15:46+00:00</news:publication_date>
+      <news:title>The Bat Signal Is Calling: Batman&#x27;s &#x27;The Dark Knight&#x27; Motorcycle Hits The Auction Block</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits-the-auction-block/l-intro-1794427989.jpg</image:loc>
+      <image:title>The Bat Signal Is Calling: Batman&#x27;s &#x27;The Dark Knight&#x27; Motorcycle Hits The Auction Block</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/spacex-wants-to-build-data-center-powered-by-its-newest-product-n/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T19:40:23+00:00</news:publication_date>
+      <news:title>SpaceX Wants To Build Data Center Powered By Its Newest Product: Natural Gas</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/spacex-wants-to-build-data-center-powered-by-its-newest-product-natural-gas/l-intro-1794425965.jpg</image:loc>
+      <image:title>SpaceX Wants To Build Data Center Powered By Its Newest Product: Natural Gas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/average-new-car-price-hits-new-record-high-and-even-the-good-news/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T19:25:00+00:00</news:publication_date>
+      <news:title>Average New Car Price Hits New Record High (And Even The Good News Doesn&#x27;t Sound So Good)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/average-new-car-price-hits-new-record-high-and-even-the-good-news-doesnt-sound-so-good/l-intro-1794341593.jpg</image:loc>
+      <image:title>Average New Car Price Hits New Record High (And Even The Good News Doesn&#x27;t Sound So Good)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byds-full-size-luxury-suv-has-a-wheel-problem-and-its-fixing-it-f/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:58:08+00:00</news:publication_date>
+      <news:title>BYD&#x27;s full-size luxury SUV has a wheel problem, and it&#x27;s fixing it for free</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD&#x27;s full-size luxury SUV has a wheel problem, and it&#x27;s fixing it for free</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-perovskite-solar-cell-kraken-has-been-unleashed-upon-the-us/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:08:20+00:00</news:publication_date>
+      <news:title>The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/caelux-solar-glass.jpg</image:loc>
+      <image:title>The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/</loc>
     <news:news>
       <news:publication>
@@ -435,6 +615,36 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminating-against-disabled-riders/l-intro-1794339280.jpg</image:loc>
       <image:title>DOJ Slaps Lyft With $53 Million Lawsuit For Allegedly Discriminating Against Disabled Riders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hero-vida-nex-3-electric-car-patented-with-gullwing-door/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T03:53:10+00:00</news:publication_date>
+      <news:title>Hero Vida NEX 3 Electric Car Patented With Gullwing Door</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-nex-3-patented-in-india-cover.jpg</image:loc>
+      <image:title>Hero Vida NEX 3 Electric Car Patented With Gullwing Door</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ktm-x-bow-arrow-debuts-with-audi-20-l-engine-280-hp-usd-60k-rs-56/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T03:21:02+00:00</news:publication_date>
+      <news:title>KTM X-Bow Arrow Debuts With Audi 2.0 L Engine - 280 Hp, USD 60k (Rs 56 Lakh)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/ktm-x-bow-arrow-revealed-with-audi-engine.jpg</image:loc>
+      <image:title>KTM X-Bow Arrow Debuts With Audi 2.0 L Engine - 280 Hp, USD 60k (Rs 56 Lakh)</image:title>
     </image:image>
   </url>
   <url>
@@ -1815,291 +2025,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/05/Humble-1200_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Humble Hauler autonomous trailer takes the truck out of trucking [update]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/plugshare-finally-adds-dark-mode-and-theres-more-for-ev-drivers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T00:37:02+00:00</news:publication_date>
-      <news:title>PlugShare finally adds dark mode, and there&#x27;s more for EV drivers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/PlugShare_Card_iPad_4x3_0bbcd8.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>PlugShare finally adds dark mode, and there&#x27;s more for EV drivers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-all-electric-optiq-marks-cadillacs-return-to-australia-review/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T23:00:00+00:00</news:publication_date>
-      <news:title>The All-Electric Optiq Marks Cadillac&#x27;s Return To Australia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/the-all-electric-optiq-marks-cadillacs-return-to-australia-review/l-intro-1794256606.jpg</image:loc>
-      <image:title>The All-Electric Optiq Marks Cadillac&#x27;s Return To Australia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2026-mercedes-benz-e450/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T22:20:59+00:00</news:publication_date>
-      <news:title>First Look: Aggressive Exterior Styling Of The 2026 Mercedes-Benz E450</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b016c432-38b8-4c19-83fd-11d8822baead.jpg?crop=0.797xw:0.598xh;0.028xw,0.29xh&amp;resize=1200:*</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2026 Mercedes-Benz E450</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/10000-miles-with-our-2026-mercedes-benz-e450-and-the-love-bombing/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T22:16:00+00:00</news:publication_date>
-      <news:title>10,000 Miles with Our 2026 Mercedes-Benz E450, and the Love Bombing Continues</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b2629d0e-ff17-4ade-b162-e6c84fe3941d.jpg?crop=0.81xw:0.607xh;0.09xw,0.209xh&amp;resize=1200:*</image:loc>
-      <image:title>10,000 Miles with Our 2026 Mercedes-Benz E450, and the Love Bombing Continues</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-mercedes-benz-eqs-drove-539-miles-on-a-single-charge-still-wo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:49:32+00:00</news:publication_date>
-      <news:title>The Mercedes-Benz EQS drove 539 miles on a single charge. Still worried about range?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Mercedes-EQS-real-world-EV-range-2.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>The Mercedes-Benz EQS drove 539 miles on a single charge. Still worried about range?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/alpinas-first-ev-will-be-based-on-the-bmw-i7-and-oh-yeah-baby-itl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:47:28+00:00</news:publication_date>
-      <news:title>Alpina&#x27;s First EV Will Be Based On The BMW i7, And Oh Yeah Baby, It&#x27;ll Come In Brown</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/alpinas-first-ev-will-be-based-on-the-bmw-i7-and-oh-yeah-baby-itll-come-in-brown/l-intro-1794260751.jpg</image:loc>
-      <image:title>Alpina&#x27;s First EV Will Be Based On The BMW i7, And Oh Yeah Baby, It&#x27;ll Come In Brown</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/iihs-founder-warned-drivers-about-the-dangers-of-speed-almost-a-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:45:00+00:00</news:publication_date>
-      <news:title>IIHS Founder Warned Drivers About The Dangers Of Speed Almost A Decade Before He Started The Organization: What&#x27;s Streaming</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/iihs-founder-warned-drivers-about-the-dangers-of-speed-almost-a-decade-before-he-started-the-organization-whats-streaming/l-intro-1794257478.jpg</image:loc>
-      <image:title>IIHS Founder Warned Drivers About The Dangers Of Speed Almost A Decade Before He Started The Organization: What&#x27;s Streaming</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/flock-cameras-can-still-record-license-plates-using-infrared-your/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:05:00+00:00</news:publication_date>
-      <news:title>Flock Cameras Can Still Record License Plates Using Infrared, Your Trash Bags And Canceled Contracts Be Damned</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/damn-your-trash-bags-and-canceled-contracts-flocks-still-recording-vehicles-with-infrared/l-intro-1794251515.jpg</image:loc>
-      <image:title>Flock Cameras Can Still Record License Plates Using Infrared, Your Trash Bags And Canceled Contracts Be Damned</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/disney-testing-ai-powered-cars-themed-parking-assistants/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:00:00+00:00</news:publication_date>
-      <news:title>Disney Testing AI-Powered &#x27;Cars&#x27;-Themed Parking Assistants</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/disney-testing-ai-powered-cars-themed-parking-assistants/l-intro-1794247263.jpg</image:loc>
-      <image:title>Disney Testing AI-Powered &#x27;Cars&#x27;-Themed Parking Assistants</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/audi-has-officially-ended-production-of-the-a8-flagship-sedan/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T20:53:15+00:00</news:publication_date>
-      <news:title>Audi Has Officially Ended Production of the A8 Flagship Sedan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a218143-medium-1635867809.jpg</image:loc>
-      <image:title>Audi Has Officially Ended Production of the A8 Flagship Sedan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ive-solved-the-72-hour-ev-test-drive-conundrum-and-every-automake/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T20:25:00+00:00</news:publication_date>
-      <news:title>I&#x27;ve Solved The 72-Hour EV Test Drive Conundrum, And Every Automaker Is Free To Steal My Idea (Except Tesla)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/ive-solved-the-72-hour-ev-test-drive-conundrum-and-every-automaker-is-free-to-steal-my-idea-except-tesla/l-intro-1793732848.jpg</image:loc>
-      <image:title>I&#x27;ve Solved The 72-Hour EV Test Drive Conundrum, And Every Automaker Is Free To Steal My Idea (Except Tesla)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-under-investigation-for-airbags-that-cause-burn-injuries/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T19:55:29+00:00</news:publication_date>
-      <news:title>Ford Under Investigation for Airbags that Cause Burn Injuries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/a239116c-796f-4932-8699-88be0a1d79c4.jpg</image:loc>
-      <image:title>Ford Under Investigation for Airbags that Cause Burn Injuries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nissan-brings-the-patrol-name-back-to-the-us-after-nearly-60-year/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T19:25:00+00:00</news:publication_date>
-      <news:title>Nissan Brings The Patrol Name Back To The U.S. After Nearly 60 Years ... Kind Of</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/nissan-brings-the-patrol-name-back-to-the-u-s-after-nearly-60-years-kind-of/l-intro-1794246772.jpg</image:loc>
-      <image:title>Nissan Brings The Patrol Name Back To The U.S. After Nearly 60 Years ... Kind Of</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-sells-3-electric-suvs-but-which-one-is-best-for-you/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T19:13:49+00:00</news:publication_date>
-      <news:title>Toyota sells 3 electric SUVs, but which one is best for you?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-bZ-C-HR-bZ-Woodland-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Toyota sells 3 electric SUVs, but which one is best for you?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lincolns-new-chinese-aviator-looks-very-different-than-the-americ/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T19:00:00+00:00</news:publication_date>
-      <news:title>Lincoln&#x27;s New Chinese Aviator Looks Very Different Than The American One</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/lincolns-new-chinese-aviator-looks-very-different-than-the-american-one/l-intro-1794245027.jpg</image:loc>
-      <image:title>Lincoln&#x27;s New Chinese Aviator Looks Very Different Than The American One</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/yangwangs-altior-luxury-ev-sedan-aims-for-rolls-royces-throne/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:50:06+00:00</news:publication_date>
-      <news:title>Yangwang&#x27;s Altior Luxury EV Sedan Aims for Rolls-Royce&#x27;s Throne</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/e5e32d55-d367-4eb6-a56a-e768624491a7.jpg</image:loc>
-      <image:title>Yangwang&#x27;s Altior Luxury EV Sedan Aims for Rolls-Royce&#x27;s Throne</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-electric-vespa-just-got-better-where-it-actually-matters/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:48:00+00:00</news:publication_date>
-      <news:title>The electric Vespa just got better where it actually matters</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vespa-lettrica-header-scooter-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>The electric Vespa just got better where it actually matters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nürburgring-record/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:34:57+00:00</news:publication_date>
-      <news:title>Xiaomi SU7 Xtreme Strips Off Its Camo, Is A New Nürburgring Record Imminent?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/xiaomi-su7-xtreme-strips-off-its-camo-is-a-new-nrburgring-record-imminent/l-intro-1794249147.jpg</image:loc>
-      <image:title>Xiaomi SU7 Xtreme Strips Off Its Camo, Is A New Nürburgring Record Imminent?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-ir/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:39:39+00:00</news:publication_date>
-      <news:title>Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/oil-prices-fall-as-trump-appears-to-lose-will-to-keep-fighting-iran-war-after-republicans-got-their-butts-kicked/l-intro-1794245876.jpg</image:loc>
-      <image:title>Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked</image:title>
     </image:image>
   </url>
 </urlset>
