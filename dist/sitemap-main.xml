@@ -3,39 +3,239 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-12T17:42:43Z</lastmod>
+    <lastmod>2026-11-12T21:08:14Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-12T17:42:43Z</lastmod>
+    <lastmod>2026-11-12T21:08:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-12T17:42:43Z</lastmod>
+    <lastmod>2026-11-12T21:08:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-12T17:42:43Z</lastmod>
+    <lastmod>2026-11-12T21:08:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-12T17:42:43Z</lastmod>
+    <lastmod>2026-11-12T21:08:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-12T17:42:43Z</lastmod>
+    <lastmod>2026-11-12T21:08:14Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-just-teased-a-new-hybrid-suv-called-the-avancier/</loc>
+    <lastmod>2026-11-12T20:36:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/9fca1e0c-2181-41de-bdea-891b95812995.png</image:loc>
+      <image:title>Honda Just Teased a New Hybrid SUV Called the Avancier</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-just-teased-a-new-hybrid-suv-called-the-avancier/</loc>
+    <lastmod>2026-11-12T20:36:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/9fca1e0c-2181-41de-bdea-891b95812995.png</image:loc>
+      <image:title>Honda Just Teased a New Hybrid SUV Called the Avancier</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-mclaren-w1/</loc>
+    <lastmod>2026-11-12T20:22:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1-mclaren-w1-front-3q-high-6701823553014.jpg?crop=1.00xw:0.668xh;0,0.186xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 McLaren W1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-mclaren-w1/</loc>
+    <lastmod>2026-11-12T20:22:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1-mclaren-w1-front-3q-high-6701823553014.jpg?crop=1.00xw:0.668xh;0,0.186xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 McLaren W1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/quantumscape-has-an-osprey-up-its-solid-state-ev-battery-sleeve/</loc>
+    <lastmod>2026-11-12T20:19:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/quantumscape-ev-battery.png</image:loc>
+      <image:title>QuantumScape Has An Osprey Up Its Solid-State EV Battery Sleeve</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/quantumscape-has-an-osprey-up-its-solid-state-ev-battery-sleeve/</loc>
+    <lastmod>2026-11-12T20:19:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/quantumscape-ev-battery.png</image:loc>
+      <image:title>QuantumScape Has An Osprey Up Its Solid-State EV Battery Sleeve</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/scouts-new-truck-and-suv-are-another-step-closer-to-reality/</loc>
+    <lastmod>2026-11-12T20:10:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/scout-terra-and-traveler-concepts-1-671a962195ac2.jpg</image:loc>
+      <image:title>Scout&#x27;s New Truck and SUV Are Another Step Closer to Reality</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/scouts-new-truck-and-suv-are-another-step-closer-to-reality/</loc>
+    <lastmod>2026-11-12T20:10:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/scout-terra-and-traveler-concepts-1-671a962195ac2.jpg</image:loc>
+      <image:title>Scout&#x27;s New Truck and SUV Are Another Step Closer to Reality</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/987-hp-audi-nuvolari-coming-to-the-us-in-2028-for-700000/</loc>
+    <lastmod>2026-11-12T19:56:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/987-hp-audi-nuvolari-coming-to-the-us-in-2028-for-700000/l-intro-1794513165.jpg</image:loc>
+      <image:title>987-HP Audi Nuvolari Coming To The US In 2028 For $700,000</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/987-hp-audi-nuvolari-coming-to-the-us-in-2028-for-700000/</loc>
+    <lastmod>2026-11-12T19:56:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/987-hp-audi-nuvolari-coming-to-the-us-in-2028-for-700000/l-intro-1794513165.jpg</image:loc>
+      <image:title>987-HP Audi Nuvolari Coming To The US In 2028 For $700,000</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tested-the-2026-lexus-es-hybrid-evolves-but-it-has-a-familiar-fee/</loc>
+    <lastmod>2026-11-12T19:49:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/558bae60-0c9f-43a0-a013-518028910941.jpg</image:loc>
+      <image:title>Tested: The 2026 Lexus ES Hybrid Evolves, but It Has a Familiar Feel</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tested-the-2026-lexus-es-hybrid-evolves-but-it-has-a-familiar-fee/</loc>
+    <lastmod>2026-11-12T19:49:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/558bae60-0c9f-43a0-a013-518028910941.jpg</image:loc>
+      <image:title>Tested: The 2026 Lexus ES Hybrid Evolves, but It Has a Familiar Feel</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-is-giving-the-ev5-an-update-and-leaked-images-show-whats-next/</loc>
+    <lastmod>2026-11-12T19:39:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV5-update-image.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Kia is giving the EV5 an update, and leaked images show what&#x27;s next</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-is-giving-the-ev5-an-update-and-leaked-images-show-whats-next/</loc>
+    <lastmod>2026-11-12T19:39:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV5-update-image.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Kia is giving the EV5 an update, and leaked images show what&#x27;s next</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/i-have-a-100-mile-commute-through-mountain-roads-what-car-should-/</loc>
+    <lastmod>2026-11-12T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/i-have-a-100-mile-commute-through-mountain-roads-what-car-should-i-buy/l-intro-1794501936.jpg</image:loc>
+      <image:title>I Have A 100 Mile Commute Through Mountain Roads! What Car Should I Buy?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/i-have-a-100-mile-commute-through-mountain-roads-what-car-should-/</loc>
+    <lastmod>2026-11-12T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/i-have-a-100-mile-commute-through-mountain-roads-what-car-should-i-buy/l-intro-1794501936.jpg</image:loc>
+      <image:title>I Have A 100 Mile Commute Through Mountain Roads! What Car Should I Buy?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/car-thefts-decrease-dramatically-after-teen-theft-ring-busted-in-/</loc>
+    <lastmod>2026-11-12T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/car-thefts-decrease-dramatically-after-teen-theft-ring-busted-in-maryland/l-intro-1794338512.jpg</image:loc>
+      <image:title>Car Thefts Decrease Dramatically After Teen Theft Ring Busted In Maryland</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/car-thefts-decrease-dramatically-after-teen-theft-ring-busted-in-/</loc>
+    <lastmod>2026-11-12T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/car-thefts-decrease-dramatically-after-teen-theft-ring-busted-in-maryland/l-intro-1794338512.jpg</image:loc>
+      <image:title>Car Thefts Decrease Dramatically After Teen Theft Ring Busted In Maryland</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byds-new-5-seat-luxury-suv-brings-big-screens-big-range-and-start/</loc>
+    <lastmod>2026-11-12T17:46:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-price.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD&#x27;s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byds-new-5-seat-luxury-suv-brings-big-screens-big-range-and-start/</loc>
+    <lastmod>2026-11-12T17:46:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-price.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD&#x27;s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/build-clean-accelerating-affordable-energy-while-advancing-commun/</loc>
@@ -55,6 +255,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
       <image:title>Build Clean: Accelerating Affordable Energy While Advancing Community and Environmental Stewardship</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybe/</loc>
+    <lastmod>2026-11-12T17:17:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1600,1067</image:loc>
+      <image:title>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybe/</loc>
+    <lastmod>2026-11-12T17:17:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1600,1067</image:loc>
+      <image:title>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</image:title>
     </image:image>
   </url>
   <url>
@@ -598,6 +818,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/lawson-to-stay-in-f1-as-racing-bulls-announces-2027-driver-pairin/</loc>
+    <lastmod>2026-11-12T11:06:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls-2.jpg</image:loc>
+      <image:title>Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lawson-to-stay-in-f1-as-racing-bulls-announces-2027-driver-pairin/</loc>
+    <lastmod>2026-11-12T11:06:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls-2.jpg</image:loc>
+      <image:title>Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/upcoming-new-cars-by-march-2027-toyota-mahindra-tata-jsw-hyundai-/</loc>
+    <lastmod>2026-11-12T10:33:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/upcoming-new-car-launches-by-march-2027.jpg</image:loc>
+      <image:title>Upcoming New Cars By March 2027 - Toyota, Mahindra, Tata, JSW, Hyundai, VW, Honda, Maruti</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/upcoming-new-cars-by-march-2027-toyota-mahindra-tata-jsw-hyundai-/</loc>
+    <lastmod>2026-11-12T10:33:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/upcoming-new-car-launches-by-march-2027.jpg</image:loc>
+      <image:title>Upcoming New Cars By March 2027 - Toyota, Mahindra, Tata, JSW, Hyundai, VW, Honda, Maruti</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/russell-launches-fully-funded-new-karting-academy/</loc>
     <lastmod>2026-11-12T09:35:42+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -715,6 +975,26 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-bayon-15.jpg</image:loc>
       <image:title>Hyundai Sales Breakup Oct 2026 - Creta, Venue, Exter, Aura, i20, i10, Bayon, Verna, Alcazar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/maruti-sales-breakup-oct-2026-wagonr-brezza-baleno-dzire-ertiga-f/</loc>
+    <lastmod>2026-11-12T06:37:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-brezza-booster-jet-review-3.jpg</image:loc>
+      <image:title>Maruti Sales Breakup Oct 2026 - WagonR, Brezza, Baleno, Dzire, Ertiga, Fronx, Swift, Victoris</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/maruti-sales-breakup-oct-2026-wagonr-brezza-baleno-dzire-ertiga-f/</loc>
+    <lastmod>2026-11-12T06:37:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-brezza-booster-jet-review-3.jpg</image:loc>
+      <image:title>Maruti Sales Breakup Oct 2026 - WagonR, Brezza, Baleno, Dzire, Ertiga, Fronx, Swift, Victoris</image:title>
     </image:image>
   </url>
   <url>
@@ -1015,6 +1295,26 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/c922c9ed-4ab7-47a9-939c-f7d28a22fc4d.png</image:loc>
       <image:title>KTM Reveals a New X-Bow Side-by-Side with a 330-HP Audi Engine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/suzuki-turned-its-kei-van-into-the-ultimate-solo-camper/</loc>
+    <lastmod>2026-11-11T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/suzuki-turned-its-kei-van-into-the-ultimate-solo-camper/l-intro-1794331601.jpg</image:loc>
+      <image:title>Suzuki Turned Its Kei Van Into The Ultimate Solo Camper</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/suzuki-turned-its-kei-van-into-the-ultimate-solo-camper/</loc>
+    <lastmod>2026-11-11T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/suzuki-turned-its-kei-van-into-the-ultimate-solo-camper/l-intro-1794331601.jpg</image:loc>
+      <image:title>Suzuki Turned Its Kei Van Into The Ultimate Solo Camper</image:title>
     </image:image>
   </url>
   <url>
@@ -2735,306 +3035,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/if-you-want-a-kei-truck-import-a-kei-truck/l-intro-1794328072.jpg</image:loc>
       <image:title>If You Want A Kei Truck, Import A Kei Truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/polestars-formula-2030-concept-car-is-a-futuristic-look-at-tactil/</loc>
-    <lastmod>2026-11-10T17:50:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f2bddada-09cf-4755-a4a8-0d10c07e8e7d.jpg</image:loc>
-      <image:title>Polestar&#x27;s Formula 2030 Concept Car Is a Futuristic Look at Tactile Driving</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/polestars-formula-2030-concept-car-is-a-futuristic-look-at-tactil/</loc>
-    <lastmod>2026-11-10T17:50:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f2bddada-09cf-4755-a4a8-0d10c07e8e7d.jpg</image:loc>
-      <image:title>Polestar&#x27;s Formula 2030 Concept Car Is a Futuristic Look at Tactile Driving</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/its-a-multiverse-thing-you-wouldnt-understand/</loc>
-    <lastmod>2026-11-10T17:30:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/its-a-multiverse-thing-you-wouldnt-understand/l-intro-1794331249.jpg</image:loc>
-      <image:title>It&#x27;s A Multiverse Thing, You Wouldn&#x27;t Understand</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/its-a-multiverse-thing-you-wouldnt-understand/</loc>
-    <lastmod>2026-11-10T17:30:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/its-a-multiverse-thing-you-wouldnt-understand/l-intro-1794331249.jpg</image:loc>
-      <image:title>It&#x27;s A Multiverse Thing, You Wouldn&#x27;t Understand</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-full-self-driving-one-step-closer-to-recreating-human-drivi/</loc>
-    <lastmod>2026-11-10T17:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/tesla-full-self-driving-one-step-closer-to-recreating-human-driving-by-overtaking-bicycles-exceeding-speed-limits-and-misidentifying-road-signs/l-intro-1794258497.jpg</image:loc>
-      <image:title>Tesla &#x27;Full Self-Driving&#x27; One Step Closer To Recreating Human Driving By Overtaking Bicycles, Exceeding Speed Limits And Misidentifying Road Signs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-full-self-driving-one-step-closer-to-recreating-human-drivi/</loc>
-    <lastmod>2026-11-10T17:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/tesla-full-self-driving-one-step-closer-to-recreating-human-driving-by-overtaking-bicycles-exceeding-speed-limits-and-misidentifying-road-signs/l-intro-1794258497.jpg</image:loc>
-      <image:title>Tesla &#x27;Full Self-Driving&#x27; One Step Closer To Recreating Human Driving By Overtaking Bicycles, Exceeding Speed Limits And Misidentifying Road Signs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/australias-cheapest-new-car-is-this-13000-mg-hatchback-and-its-fa/</loc>
-    <lastmod>2026-11-10T17:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/australias-cheapest-new-car-is-this-13000-mg-hatchback-and-its-far-from-a-stripper/l-intro-1794255949.jpg</image:loc>
-      <image:title>Australia&#x27;s Cheapest New Car Is This $13,000 MG Hatchback, And It&#x27;s Far From A Stripper</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/australias-cheapest-new-car-is-this-13000-mg-hatchback-and-its-fa/</loc>
-    <lastmod>2026-11-10T17:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/australias-cheapest-new-car-is-this-13000-mg-hatchback-and-its-far-from-a-stripper/l-intro-1794255949.jpg</image:loc>
-      <image:title>Australia&#x27;s Cheapest New Car Is This $13,000 MG Hatchback, And It&#x27;s Far From A Stripper</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-offices-raided-as-jlr-legal-battle-heats-up-over-alleged-defe/</loc>
-    <lastmod>2026-11-10T16:46:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/07/BYD-ti-7-prices-UK.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD offices raided as JLR legal battle heats up over alleged Defender lookalike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-offices-raided-as-jlr-legal-battle-heats-up-over-alleged-defe/</loc>
-    <lastmod>2026-11-10T16:46:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/07/BYD-ti-7-prices-UK.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD offices raided as JLR legal battle heats up over alleged Defender lookalike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ford-teases-reborn-cobra-r-that-picks-up-where-the-shelby-gt350-l/</loc>
-    <lastmod>2026-11-10T16:45:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/ford-teases-reborn-cobra-r-that-picks-up-where-the-shelby-gt350-left-off/l-intro-1794328627.jpg</image:loc>
-      <image:title>Ford Teases Reborn Cobra R That Picks Up Where The Shelby GT350 Left Off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ford-teases-reborn-cobra-r-that-picks-up-where-the-shelby-gt350-l/</loc>
-    <lastmod>2026-11-10T16:45:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/ford-teases-reborn-cobra-r-that-picks-up-where-the-shelby-gt350-left-off/l-intro-1794328627.jpg</image:loc>
-      <image:title>Ford Teases Reborn Cobra R That Picks Up Where The Shelby GT350 Left Off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-coolest-ride-in-town-is-englands-first-electric-ice-cream-tru/</loc>
-    <lastmod>2026-11-10T16:44:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/WhitbyMorrison-electric-ice-cream-van-01-front-three-quarter-web.jpg?quality=82&amp;strip=all&amp;w=1500</image:loc>
-      <image:title>The coolest ride in town is England&#x27;s first electric ice cream truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-coolest-ride-in-town-is-englands-first-electric-ice-cream-tru/</loc>
-    <lastmod>2026-11-10T16:44:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/WhitbyMorrison-electric-ice-cream-van-01-front-three-quarter-web.jpg?quality=82&amp;strip=all&amp;w=1500</image:loc>
-      <image:title>The coolest ride in town is England&#x27;s first electric ice cream truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/acura-reveals-limited-edition-urban-spec-trim-for-its-2027-lineup/</loc>
-    <lastmod>2026-11-10T16:30:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ccfbed24-1721-4296-814a-809cf1ab7a37.jpg</image:loc>
-      <image:title>Acura Reveals Limited-Edition Urban Spec Trim for Its 2027 Lineup</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/acura-reveals-limited-edition-urban-spec-trim-for-its-2027-lineup/</loc>
-    <lastmod>2026-11-10T16:30:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ccfbed24-1721-4296-814a-809cf1ab7a37.jpg</image:loc>
-      <image:title>Acura Reveals Limited-Edition Urban Spec Trim for Its 2027 Lineup</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-we-learned-from-an-unexpected-motogp-cameo/</loc>
-    <lastmod>2026-11-10T16:27:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1360613_HiRes.jpg</image:loc>
-      <image:title>What we learned from an unexpected MotoGP cameo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-we-learned-from-an-unexpected-motogp-cameo/</loc>
-    <lastmod>2026-11-10T16:27:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1360613_HiRes.jpg</image:loc>
-      <image:title>What we learned from an unexpected MotoGP cameo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/americas-oldest-active-turnpike-will-pull-down-all-its-toll-booth/</loc>
-    <lastmod>2026-11-10T16:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/americas-oldest-active-turnpike-will-pull-down-all-its-toll-booths-in-2027/l-intro-1794254831.jpg</image:loc>
-      <image:title>America&#x27;s Oldest Active Turnpike Will Pull Down All Its Toll Booths In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/americas-oldest-active-turnpike-will-pull-down-all-its-toll-booth/</loc>
-    <lastmod>2026-11-10T16:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/americas-oldest-active-turnpike-will-pull-down-all-its-toll-booths-in-2027/l-intro-1794254831.jpg</image:loc>
-      <image:title>America&#x27;s Oldest Active Turnpike Will Pull Down All Its Toll Booths In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-honda-cbr1000rr-r-fireblade-has-215-horsepower-and-a-titaniu/</loc>
-    <lastmod>2026-11-10T16:11:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2027-honda-cbr1000rr-r-fireblade-has-215-horsepower-and-a-titanium-tank/l-intro-1794327065.jpg</image:loc>
-      <image:title>2027 Honda CBR1000RR-R Fireblade Has 215 Horsepower And A Titanium Tank</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-honda-cbr1000rr-r-fireblade-has-215-horsepower-and-a-titaniu/</loc>
-    <lastmod>2026-11-10T16:11:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2027-honda-cbr1000rr-r-fireblade-has-215-horsepower-and-a-titanium-tank/l-intro-1794327065.jpg</image:loc>
-      <image:title>2027 Honda CBR1000RR-R Fireblade Has 215 Horsepower And A Titanium Tank</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/teslas-china-sales-crash-66-to-lowest-level-in-over-four-years/</loc>
-    <lastmod>2026-11-10T16:04:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-China-sales.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla&#x27;s China sales crash 66% to lowest level in over four years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/teslas-china-sales-crash-66-to-lowest-level-in-over-four-years/</loc>
-    <lastmod>2026-11-10T16:04:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-China-sales.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla&#x27;s China sales crash 66% to lowest level in over four years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2028-toyota-scion-kei-01/</loc>
-    <lastmod>2026-11-10T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/36ff7f58-7d24-4b3e-995f-f499e6b5614d.png?crop=0.673xw:0.505xh;0.26xw,0.198xh&amp;resize=1200:*</image:loc>
-      <image:title>2028 Toyota Scion KEI-01</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2028-toyota-scion-kei-01/</loc>
-    <lastmod>2026-11-10T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/36ff7f58-7d24-4b3e-995f-f499e6b5614d.png?crop=0.673xw:0.505xh;0.26xw,0.198xh&amp;resize=1200:*</image:loc>
-      <image:title>2028 Toyota Scion KEI-01</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-revives-the-scion-brand-in-the-us-with-a-right-hand-drive-/</loc>
-    <lastmod>2026-11-10T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/toyota-revives-the-scion-brand-in-the-u-s-with-a-right-hand-drive-kei-truck/l-intro-1794326483.jpg</image:loc>
-      <image:title>Toyota Revives The Scion Brand In The U.S. With A Right-Hand-Drive Kei Truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-revives-the-scion-brand-in-the-us-with-a-right-hand-drive-/</loc>
-    <lastmod>2026-11-10T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/toyota-revives-the-scion-brand-in-the-u-s-with-a-right-hand-drive-kei-truck/l-intro-1794326483.jpg</image:loc>
-      <image:title>Toyota Revives The Scion Brand In The U.S. With A Right-Hand-Drive Kei Truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-revives-the-scion-name-on-a-kei-truck-for-the-us/</loc>
-    <lastmod>2026-11-10T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/53c7d511-f28b-4801-9060-bb1810782268.png</image:loc>
-      <image:title>Toyota Revives the Scion Name on a Kei Truck for the U.S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-revives-the-scion-name-on-a-kei-truck-for-the-us/</loc>
-    <lastmod>2026-11-10T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/53c7d511-f28b-4801-9060-bb1810782268.png</image:loc>
-      <image:title>Toyota Revives the Scion Name on a Kei Truck for the U.S</image:title>
     </image:image>
   </url>
 </urlset>
