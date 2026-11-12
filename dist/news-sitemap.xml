@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/russell-launches-fully-funded-new-karting-academy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T09:35:42+00:00</news:publication_date>
+      <news:title>Russell launches fully-funded new karting academy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/ef265f93-5a8d-3d01-35f8-d53b568c07d0--1-.jpeg</image:loc>
+      <image:title>Russell launches fully-funded new karting academy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-mercedes-cannot-dominate-f1s-new-era/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T09:19:02+00:00</news:publication_date>
+      <news:title>Why Mercedes cannot dominate F1&#x27;s new era</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1436943_HiRes.jpg</image:loc>
+      <image:title>Why Mercedes cannot dominate F1&#x27;s new era</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/no-panda-no-problem-fiats-new-argo-x-smooths-out-its-doors/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T09:14:38+00:00</news:publication_date>
+      <news:title>No Panda, No Problem: Fiat&#x27;s New Argo X Smooths Out Its Doors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/no-panda-no-problem-fiats-new-argo-x-smooths-out-its-doors/l-intro-1794474707.jpg</image:loc>
+      <image:title>No Panda, No Problem: Fiat&#x27;s New Argo X Smooths Out Its Doors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-india-announces-second-plant-in-anantapur-usd-2-billion-inves/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T08:37:26+00:00</news:publication_date>
+      <news:title>Kia India Announces Second Plant In Anantapur - USD 2 Billion Investment (Rs 18,800 Cr)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/06/kia-india-plant-production-exports-1.jpg</image:loc>
+      <image:title>Kia India Announces Second Plant In Anantapur - USD 2 Billion Investment (Rs 18,800 Cr)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/white-house-watch-tracking-attacks-on-our-environment-health/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T07:59:37+00:00</news:publication_date>
+      <news:title>White House Watch: Tracking Attacks on Our Environment &amp; Health</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/08/US-White-House-legoland-KYLE-washington-DC.jpg</image:loc>
+      <image:title>White House Watch: Tracking Attacks on Our Environment &amp; Health</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-sales-breakup-oct-2026-creta-venue-exter-aura-i20-i10-bay/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T06:52:31+00:00</news:publication_date>
+      <news:title>Hyundai Sales Breakup Oct 2026 - Creta, Venue, Exter, Aura, i20, i10, Bayon, Verna, Alcazar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-bayon-15.jpg</image:loc>
+      <image:title>Hyundai Sales Breakup Oct 2026 - Creta, Venue, Exter, Aura, i20, i10, Bayon, Verna, Alcazar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-high-rise-bottleneck-why-ev-charging-in-indian-apartments-is-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T04:53:39+00:00</news:publication_date>
+      <news:title>The High-Rise Bottleneck: Why EV Charging in Indian Apartments Is an Engineering Puzzle</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Home-EV-Charging-Station-CleanTechnica-Watermark.png</image:loc>
+      <image:title>The High-Rise Bottleneck: Why EV Charging in Indian Apartments Is an Engineering Puzzle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/to-honor-veterans-how-about-we-stop-the-oil-wars/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T04:50:38+00:00</news:publication_date>
+      <news:title>To Honor Veterans, How About We Stop The Oil Wars?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/07/US_Flag_Reflecting_Pool-e1784570949814.png</image:loc>
+      <image:title>To Honor Veterans, How About We Stop The Oil Wars?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-trump-administrations-pro-cancer-agenda/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T04:47:57+00:00</news:publication_date>
+      <news:title>The Trump Administration&#x27;s Pro-Cancer Agenda</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Pollution-Air-Quality-CleanTechnica-Watermark.png</image:loc>
+      <image:title>The Trump Administration&#x27;s Pro-Cancer Agenda</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/democrats-are-at-cop31-to-show-that-the-us-has-not-abandoned-the-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T04:43:47+00:00</news:publication_date>
+      <news:title>Democrats Are at COP31 to Show That the US Has Not Abandoned the Fight Against Climate Change</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/John-Kerry-COP.jpeg</image:loc>
+      <image:title>Democrats Are at COP31 to Show That the US Has Not Abandoned the Fight Against Climate Change</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/300-glaciers-have-disappeared-from-the-american-west-since-the-mi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T04:40:18+00:00</news:publication_date>
+      <news:title>300 Glaciers Have Disappeared from the American West Since the Mid‑20th Century</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/USGS-glacier-research-scaled.jpeg</image:loc>
+      <image:title>300 Glaciers Have Disappeared from the American West Since the Mid‑20th Century</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/new-yamaha-xenter-e-scooter-debuts-16-wheels-108-km-range/</loc>
     <news:news>
       <news:publication>
@@ -90,6 +255,21 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/the-mgs6-is-a-great-electric-suv-but-it-doesnt-stand-out-review/l-intro-1794438005.jpg</image:loc>
       <image:title>The MGS6 Is A Great Electric SUV, But It Doesn&#x27;t Stand Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/dealer-gets-prison-after-selling-cars-with-fake-plates-and-no-tit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T23:00:00+00:00</news:publication_date>
+      <news:title>Dealer Gets Prison After Selling Cars With Fake Plates And No Titles To 47 Victims</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/dealer-gets-prison-after-selling-cars-with-fake-plates-and-no-titles-to-47-victims/l-intro-1794337974.jpg</image:loc>
+      <image:title>Dealer Gets Prison After Selling Cars With Fake Plates And No Titles To 47 Victims</image:title>
     </image:image>
   </url>
   <url>
@@ -228,6 +408,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-nissan-armada-patrol-pro-4x/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T20:18:32+00:00</news:publication_date>
+      <news:title>First Look: Aggressive Exterior Styling Of The 2027 Nissan Armada Patrol Pro-4X</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/55ce4aa4-9865-4e38-a88e-7b2bc8573d86.jpg?crop=1xw:0.75xh;center,top&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Nissan Armada Patrol Pro-4X</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits/</loc>
     <news:news>
       <news:publication>
@@ -240,6 +435,21 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits-the-auction-block/l-intro-1794427989.jpg</image:loc>
       <image:title>The Bat Signal Is Calling: Batman&#x27;s &#x27;The Dark Knight&#x27; Motorcycle Hits The Auction Block</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-700000-audi-nuvolari-will-be-extremely-rare-in-the-us/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T19:45:07+00:00</news:publication_date>
+      <news:title>The $700,000 Audi Nuvolari Will Be Extremely Rare in the U.S</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76c9394d-d9e8-430f-8a06-4da1b0ed12b7.jpg</image:loc>
+      <image:title>The $700,000 Audi Nuvolari Will Be Extremely Rare in the U.S</image:title>
     </image:image>
   </url>
   <url>
@@ -378,6 +588,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/honda-recalls-636k-pilots-acura-mdxs-and-tlxs-over-faulty-power-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:20:43+00:00</news:publication_date>
+      <news:title>Urgent Safety Alert: Honda Recalls 636K Pilots, Acura MDXs and TLXs over Faulty Power Steering</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-honda-pilot-elite-awd-109-64d10d848472c.jpg</image:loc>
+      <image:title>Urgent Safety Alert: Honda Recalls 636K Pilots, Acura MDXs and TLXs over Faulty Power Steering</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/</loc>
     <news:news>
       <news:publication>
@@ -435,6 +660,21 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-vinfast-vf9-exterior-102-jpg-6553cb12bcf74.jpg?crop=0.545xw:0.409xh;0.257xw,0.498xh&amp;resize=1200:*</image:loc>
       <image:title>2027 VinFast VF9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/a-texas-based-tuner-proves-the-manual-transmission-c8-corvette-is/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:27:09+00:00</news:publication_date>
+      <news:title>A Texas-Based Tuner Proves the Manual-Transmission C8 Corvette Is Real</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2dd417d5-8390-4a82-a39b-b1bdb47b8a9e.jpg</image:loc>
+      <image:title>A Texas-Based Tuner Proves the Manual-Transmission C8 Corvette Is Real</image:title>
     </image:image>
   </url>
   <url>
@@ -1890,261 +2130,6 @@
     <image:image>
       <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/09/new-hyundai-creta-spied-testing-1.jpg</image:loc>
       <image:title>New 2027 Hyundai Creta Leaked Inside Out in Latest Spy Video</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/15-year-old-ipl-sensation-vaibhav-sooryavanshi-takes-delivery-of-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T09:50:16+00:00</news:publication_date>
-      <news:title>15-year-old IPL Sensation Vaibhav Sooryavanshi Takes Delivery of New Tata Sierra</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/02/vaibhav-sooryavanshi-tata-sierra.jpg</image:loc>
-      <image:title>15-year-old IPL Sensation Vaibhav Sooryavanshi Takes Delivery of New Tata Sierra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-shows-off-its-next-electric-motorcycle-and-its-wilder-than-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T09:07:02+00:00</news:publication_date>
-      <news:title>Honda shows off its next electric motorcycle, and it&#x27;s wilder than you thought</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/honda-ev-outlier-head-motorcycle-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Honda shows off its next electric motorcycle, and it&#x27;s wilder than you thought</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1s-underrated-rain-master-has-proven-himself-again/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:54:32+00:00</news:publication_date>
-      <news:title>F1&#x27;s underrated rain master has proven himself again</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452909_HiRes.jpg</image:loc>
-      <image:title>F1&#x27;s underrated rain master has proven himself again</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/car-sales-oct-2026-maruti-tata-mahindra-hyundai-kia-toyota-mg-sko/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:37:23+00:00</news:publication_date>
-      <news:title>Car Sales Oct 2026 - Maruti, Tata, Mahindra, Hyundai, Kia, Toyota, MG, Skoda, Honda, Renault</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-brezza-booster-jet-review.jpg</image:loc>
-      <image:title>Car Sales Oct 2026 - Maruti, Tata, Mahindra, Hyundai, Kia, Toyota, MG, Skoda, Honda, Renault</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/force-traveller-ev-launch-in-q1-2027-rs-3000-cr-investment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:31:35+00:00</news:publication_date>
-      <news:title>Force Traveller EV Launch In Q1 2027 - Rs 3,000 Cr Investment</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-force-traveller-ev-launching-in-q1-2027.jpg</image:loc>
-      <image:title>Force Traveller EV Launch In Q1 2027 - Rs 3,000 Cr Investment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-upcoming-7-seater-electric-hybrid-suvs-in-india-tata-to-hyundai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:30:52+00:00</news:publication_date>
-      <news:title>5+ Upcoming 7-Seater Electric &amp; Hybrid SUVs In India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/04/2026-Kia-Palisade-Hybrid-SUV-2.jpg</image:loc>
-      <image:title>5+ Upcoming 7-Seater Electric &amp; Hybrid SUVs In India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tvs-ntorq-150-spectral-green-launched-at-rs-122-lakh/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T07:00:47+00:00</news:publication_date>
-      <news:title>TVS Ntorq 150 Spectral Green Launched At Rs. 1.22 Lakh</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/tvs-ntorq-150-spectral-green.jpg</image:loc>
-      <image:title>TVS Ntorq 150 Spectral Green Launched At Rs. 1.22 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-10-most-sold-sedans-oct-2026-dzire-aeris-aura-city-verna-slav/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T05:30:47+00:00</news:publication_date>
-      <news:title>Top 10 Most Sold Sedans Oct 2026 - Dzire, Aeris, Aura, City, Verna, Slavia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Tata-Aeris.jpg</image:loc>
-      <image:title>Top 10 Most Sold Sedans Oct 2026 - Dzire, Aeris, Aura, City, Verna, Slavia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/australian-plugin-vehicle-market-steady-in-october-update/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T04:57:37+00:00</news:publication_date>
-      <news:title>Australian Plugin Vehicle Market Steady in October</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/GWM-electric-vehicles-Australia.jpg</image:loc>
-      <image:title>Australian Plugin Vehicle Market Steady in October</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/more-than-300-solar-storage-companies-urge-congress-to-pass-bipar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T04:53:37+00:00</news:publication_date>
-      <news:title>More than 300 Solar &amp; Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/US-Congress-banananardini-scaled.jpg</image:loc>
-      <image:title>More than 300 Solar &amp; Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-years-in-mustang-mach-e-battery-data-shows-what-real-world-elec/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T04:50:49+00:00</news:publication_date>
-      <news:title>5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Ford-Mustang-Mach-E-Battery-Longevity.jpg</image:loc>
-      <image:title>5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/experience-the-gales-of-november-with-this-real-time-great-lakes-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T04:45:00+00:00</news:publication_date>
-      <news:title>Experience The Gales Of November With This Real-Time Great Lakes Simulator</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/come-float-with-me-in-this-incredible-real-time-simulator-of-the-great-lakes/l-intro-1794248302.jpg</image:loc>
-      <image:title>Experience The Gales Of November With This Real-Time Great Lakes Simulator</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-ktm-1390-super-duke-gt-evo-debuts-amt-88-inch-tft-offline-sat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T04:02:00+00:00</news:publication_date>
-      <news:title>New KTM 1390 Super Duke GT Evo Debuts - AMT, 8.8-inch TFT, Offline Sat-Nav</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-ktm-1390-super-duke-gt-evo-debuts-6.jpg</image:loc>
-      <image:title>New KTM 1390 Super Duke GT Evo Debuts - AMT, 8.8-inch TFT, Offline Sat-Nav</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/vw-compact-suv-for-india-arriving-in-2027-what-we-know-so-far/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T04:00:06+00:00</news:publication_date>
-      <news:title>VW Compact SUV For India Arriving In 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/03/Volkswagen-Tera-2.jpg</image:loc>
-      <image:title>VW Compact SUV For India Arriving In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-byd-seal-07-illustrates-chinese-ev-evolution/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T03:56:04+00:00</news:publication_date>
-      <news:title>New BYD Seal 07 Illustrates Chinese EV Evolution</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/07-front.png</image:loc>
-      <image:title>New BYD Seal 07 Illustrates Chinese EV Evolution</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-yangwang-altior-debuts-cny-2-million-rs-29-cr-rolls-royce-pha/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T03:36:16+00:00</news:publication_date>
-      <news:title>BYD Yangwang Altior Debuts - CNY 2 Million (Rs 2.9 Cr) Rolls Royce Phantom Rival</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-yangwang-altior-debuts-as-rolls-royce-phantom-rival.jpg</image:loc>
-      <image:title>BYD Yangwang Altior Debuts - CNY 2 Million (Rs 2.9 Cr) Rolls Royce Phantom Rival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-a-salesman-accidentally-convinced-shaquille-oneal-to-buy-3-ri/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T03:25:00+00:00</news:publication_date>
-      <news:title>How A Salesman Accidentally Convinced Shaquille O&#x27;Neal To Buy 3 Ridiculously Expensive Cars</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/how-a-salesman-accidentally-convinced-shaquille-oneal-to-buy-3-ridiculously-expensive-cars/l-intro-1794255595.jpg</image:loc>
-      <image:title>How A Salesman Accidentally Convinced Shaquille O&#x27;Neal To Buy 3 Ridiculously Expensive Cars</image:title>
     </image:image>
   </url>
 </urlset>
