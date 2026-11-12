@@ -3,6 +3,216 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/police-charge-another-tesla-driver-caught-asleep-in-rush-hour-as-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T14:36:09+00:00</news:publication_date>
+      <news:title>Police charge another Tesla driver caught asleep in rush hour as cases pile up</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-asleep.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Police charge another Tesla driver caught asleep in rush hour as cases pile up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/whats-the-worst-way-youve-abused-a-rental-car/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T14:25:00+00:00</news:publication_date>
+      <news:title>What&#x27;s The Worst Way You&#x27;ve Abused A Rental Car?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-the-worst-way-youve-abused-a-rental-car/l-intro-1794426136.jpg</image:loc>
+      <image:title>What&#x27;s The Worst Way You&#x27;ve Abused A Rental Car?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/next-gen-2028-honda-cr-v-follows-the-toyota-rav4-as-a-hybrid-only/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T14:00:00+00:00</news:publication_date>
+      <news:title>Next-Gen 2028 Honda CR-V Follows the Toyota RAV4 as a Hybrid-Only SUV</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-honda-cr-v-hybrid-awd-sport-touring-120-679407c3124cb.jpg</image:loc>
+      <image:title>Next-Gen 2028 Honda CR-V Follows the Toyota RAV4 as a Hybrid-Only SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-mercedes-maybach-s680/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T14:00:00+00:00</news:publication_date>
+      <news:title>First Look: Aggressive Exterior Styling Of The 2027 Mercedes-Maybach S680</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/85a8bab8-996a-42ee-9f6e-045727303d7f.jpg?crop=1xw:0.75xh;0xw,0.135xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Mercedes-Maybach S680</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2028-honda-cr-v-will-go-hybrid-only-following-the-toyota-rav4s-le/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T14:00:00+00:00</news:publication_date>
+      <news:title>2028 Honda CR-V Will Go Hybrid-Only, Following The Toyota RAV4&#x27;s Lead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2028-honda-cr-v-will-go-hybrid-only-following-the-toyota-rav4s-lead/l-intro-1794441263.jpg</image:loc>
+      <image:title>2028 Honda CR-V Will Go Hybrid-Only, Following The Toyota RAV4&#x27;s Lead</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2028-honda-cr-v-hybrid/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T14:00:00+00:00</news:publication_date>
+      <news:title>2028 Honda CR-V Hybrid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5c1b0895-0e1b-4814-849f-f2f450759c13.jpg?crop=1xw:0.75xh;0xw,0.104xh&amp;resize=1200:*</image:loc>
+      <image:title>2028 Honda CR-V Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-most-tradable-sport-nobody-trades-inside-race-prediction-plat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:52:31+00:00</news:publication_date>
+      <news:title>The most tradable sport nobody trades&#x27;: Inside race prediction platform RPM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/benjarrettRPM.jpg</image:loc>
+      <image:title>The most tradable sport nobody trades&#x27;: Inside race prediction platform RPM</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/royal-enfield-650-owner-awarded-rs-1-lakh-in-consumer-court-after/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:49:25+00:00</news:publication_date>
+      <news:title>Royal Enfield 650 Owner Awarded Rs 1 Lakh In Consumer Court After Breakdown</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/royal-enfield-interceptor-650-stall-leh-owner-wins-case.jpg</image:loc>
+      <image:title>Royal Enfield 650 Owner Awarded Rs 1 Lakh In Consumer Court After Breakdown</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-10250-could-this-1995-mercedes-benz-e320-estate-bring-class-to/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:25:00+00:00</news:publication_date>
+      <news:title>At $10,250, Could This 1995 Mercedes-Benz E320 Estate Bring Class To Car Line?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-10250-could-this-1995-mercedes-benz-e320-estate-bring-class-to-car-line/l-intro-1794412183.jpg</image:loc>
+      <image:title>At $10,250, Could This 1995 Mercedes-Benz E320 Estate Bring Class To Car Line?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lamborghini-temerario-just-got-a-loud-upgrade-right-before-losing/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:06:35+00:00</news:publication_date>
+      <news:title>Lamborghini Temerario Just Got A Loud Upgrade Right Before Losing Its Top</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/lamborghini-temerario-just-got-a-loud-upgrade-right-before-losing-its-top/l-intro-1794488532.jpg</image:loc>
+      <image:title>Lamborghini Temerario Just Got A Loud Upgrade Right Before Losing Its Top</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-electric-suvs-uk-launch-2027-planned-export-from-india/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:57:34+00:00</news:publication_date>
+      <news:title>Mahindra Electric SUVs UK Launch 2027 Planned</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/06/mahindra-xev-9e-and-be-6-hybrid-variants.jpg</image:loc>
+      <image:title>Mahindra Electric SUVs UK Launch 2027 Planned</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:53:50+00:00</news:publication_date>
+      <news:title>Latest Canadian budget packs funding for 55,000 new EV chargers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/bchydro_main.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Latest Canadian budget packs funding for 55,000 new EV chargers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hondas-2000-electric-moped-is-a-winner-so-why-cant-americans-buy-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:28:02+00:00</news:publication_date>
+      <news:title>Honda&#x27;s $2,000 electric moped is a winner. So why can&#x27;t Americans buy it?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/01/honda-uc3-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Honda&#x27;s $2,000 electric moped is a winner. So why can&#x27;t Americans buy it?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/russell-partners-with-brdc-to-launch-karting-academy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:27:55+00:00</news:publication_date>
+      <news:title>Russell partners with BRDC to launch karting academy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg</image:loc>
+      <image:title>Russell partners with BRDC to launch karting academy</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/russell-launches-fully-funded-new-karting-academy/</loc>
     <news:news>
       <news:publication>
@@ -1920,216 +2130,6 @@
     <image:image>
       <image:loc>https://cdn-5.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws-2.jpg</image:loc>
       <image:title>F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-car-looks-best-on-aftermarket-wheels/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:25:00+00:00</news:publication_date>
-      <news:title>What Car Looks Best On Aftermarket Wheels?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-car-looks-best-on-aftermarket-wheels/l-intro-1794273811.jpg</image:loc>
-      <image:title>What Car Looks Best On Aftermarket Wheels?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lucid-says-service-wait-times-fell-20-after-40-jump-in-service-st/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:24:55+00:00</news:publication_date>
-      <news:title>Lucid says service wait times fell 20% after 40% jump in service staff</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/lucid-mission-viejo-studio-service-center.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Lucid says service wait times fell 20% after 40% jump in service staff</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/polestar-unveils-formula-2030-concept-previewing-the-next-polesta/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:10:36+00:00</news:publication_date>
-      <news:title>Polestar unveils Formula 2030 concept, previewing the next Polestar 2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/polestar-formula-2030-concept-front.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Polestar unveils Formula 2030 concept, previewing the next Polestar 2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-chevrolet-silverado-hd-a-gorilla-strong-pickup-you-dont-have/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:00:00+00:00</news:publication_date>
-      <news:title>2027 Chevrolet Silverado HD, a Gorilla-Strong Pickup You Don&#x27;t Have to Wrestle With</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ed701f3e-3a77-43e8-93be-57bc69679102.jpg</image:loc>
-      <image:title>2027 Chevrolet Silverado HD, a Gorilla-Strong Pickup You Don&#x27;t Have to Wrestle With</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-photos-of-the-2027-chevrolet-silverado-hd/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:00:00+00:00</news:publication_date>
-      <news:title>First Look: The 2027 Chevrolet Silverado HD Revealed In Stunning Detail</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5ec1e918-9d7f-4ca3-b041-55781c4a6023.jpg</image:loc>
-      <image:title>First Look: The 2027 Chevrolet Silverado HD Revealed In Stunning Detail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-chevy-silverado-hd-83l-diesel-has-all-the-torque-in-the-worl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:00:00+00:00</news:publication_date>
-      <news:title>2027 Chevy Silverado HD 8.3L Diesel Has All The Torque In The World, But You Don&#x27;t Need It</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/2027-chevy-silverado-hd-8-3l-diesel-has-all-the-torque-in-the-world-but-you-dont-need-it/l-intro-1794316178.jpg</image:loc>
-      <image:title>2027 Chevy Silverado HD 8.3L Diesel Has All The Torque In The World, But You Don&#x27;t Need It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-chevrolet-silverado-hd/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:00:00+00:00</news:publication_date>
-      <news:title>2027 Chevrolet Silverado HD</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/714778e5-9a8d-4993-9b3c-f0cb6fac94ba.jpg?crop=0.583xw:0.437xh;0.326xw,0.304xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Chevrolet Silverado HD</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-hyundai-creta-interiors-spied-more-space-features/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:25:12+00:00</news:publication_date>
-      <news:title>New Hyundai Creta Interiors Spied - More Space, Features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-creta-interiors-spied-before-launch-6.jpg</image:loc>
-      <image:title>New Hyundai Creta Interiors Spied - More Space, Features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/cat-puts-century-old-train-tech-to-work-in-its-biggest-undergroun/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:10:00+00:00</news:publication_date>
-      <news:title>CAT puts century-old train tech to work in its biggest underground machine yet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/cat_r3200_diesel-electric.png?w=1600</image:loc>
-      <image:title>CAT puts century-old train tech to work in its biggest underground machine yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:45:39+00:00</news:publication_date>
-      <news:title>FIA reveals ADUO results in final review of 2026 F1 season</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn-1.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws-2.jpg</image:loc>
-      <image:title>FIA reveals ADUO results in final review of 2026 F1 season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fia-makes-latest-aduo-ruling-and-hints-at-2027-revamp/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:41:27+00:00</news:publication_date>
-      <news:title>FIA makes latest ADUO ruling and hints at 2027 revamp</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452940_HiRes.jpg</image:loc>
-      <image:title>FIA makes latest ADUO ruling and hints at 2027 revamp</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/oh-so-thats-whos-buying-all-those-new-subaru-trailseeker-evs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T10:44:52+00:00</news:publication_date>
-      <news:title>Oh, So That&#x27;s Who&#x27;s Buying All Those New Subaru Trailseeker EVs…</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026-subaru-trailseeker-ev.png</image:loc>
-      <image:title>Oh, So That&#x27;s Who&#x27;s Buying All Those New Subaru Trailseeker EVs…</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/a-tribute-to-bunker-roy-the-man-who-turned-village-grandmothers-i/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T10:42:33+00:00</news:publication_date>
-      <news:title>A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/bunkerroy-solarmamas.png</image:loc>
-      <image:title>A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-2027-hyundai-creta-leaked-inside-out-in-latest-spy-video/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T10:11:04+00:00</news:publication_date>
-      <news:title>New 2027 Hyundai Creta Leaked Inside Out in Latest Spy Video</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/09/new-hyundai-creta-spied-testing-1.jpg</image:loc>
-      <image:title>New 2027 Hyundai Creta Leaked Inside Out in Latest Spy Video</image:title>
     </image:image>
   </url>
 </urlset>

@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-12T09:59:33Z</lastmod>
+    <lastmod>2026-11-12T14:40:23Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-12T09:59:33Z</lastmod>
+    <lastmod>2026-11-12T14:40:23Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-12T09:59:33Z</lastmod>
+    <lastmod>2026-11-12T14:40:23Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-12T09:59:33Z</lastmod>
+    <lastmod>2026-11-12T14:40:23Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-12T09:59:33Z</lastmod>
+    <lastmod>2026-11-12T14:40:23Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-12T09:59:33Z</lastmod>
+    <lastmod>2026-11-12T14:40:23Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/police-charge-another-tesla-driver-caught-asleep-in-rush-hour-as-/</loc>
+    <lastmod>2026-11-12T14:36:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-asleep.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Police charge another Tesla driver caught asleep in rush hour as cases pile up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/police-charge-another-tesla-driver-caught-asleep-in-rush-hour-as-/</loc>
+    <lastmod>2026-11-12T14:36:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-asleep.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Police charge another Tesla driver caught asleep in rush hour as cases pile up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/whats-the-worst-way-youve-abused-a-rental-car/</loc>
+    <lastmod>2026-11-12T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-the-worst-way-youve-abused-a-rental-car/l-intro-1794426136.jpg</image:loc>
+      <image:title>What&#x27;s The Worst Way You&#x27;ve Abused A Rental Car?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/whats-the-worst-way-youve-abused-a-rental-car/</loc>
+    <lastmod>2026-11-12T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-the-worst-way-youve-abused-a-rental-car/l-intro-1794426136.jpg</image:loc>
+      <image:title>What&#x27;s The Worst Way You&#x27;ve Abused A Rental Car?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/next-gen-2028-honda-cr-v-follows-the-toyota-rav4-as-a-hybrid-only/</loc>
+    <lastmod>2026-11-12T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-honda-cr-v-hybrid-awd-sport-touring-120-679407c3124cb.jpg</image:loc>
+      <image:title>Next-Gen 2028 Honda CR-V Follows the Toyota RAV4 as a Hybrid-Only SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/next-gen-2028-honda-cr-v-follows-the-toyota-rav4-as-a-hybrid-only/</loc>
+    <lastmod>2026-11-12T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-honda-cr-v-hybrid-awd-sport-touring-120-679407c3124cb.jpg</image:loc>
+      <image:title>Next-Gen 2028 Honda CR-V Follows the Toyota RAV4 as a Hybrid-Only SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-mercedes-maybach-s680/</loc>
+    <lastmod>2026-11-12T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/85a8bab8-996a-42ee-9f6e-045727303d7f.jpg?crop=1xw:0.75xh;0xw,0.135xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Mercedes-Maybach S680</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2027-mercedes-maybach-s680/</loc>
+    <lastmod>2026-11-12T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/85a8bab8-996a-42ee-9f6e-045727303d7f.jpg?crop=1xw:0.75xh;0xw,0.135xh&amp;resize=1200:*</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Mercedes-Maybach S680</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2028-honda-cr-v-will-go-hybrid-only-following-the-toyota-rav4s-le/</loc>
+    <lastmod>2026-11-12T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2028-honda-cr-v-will-go-hybrid-only-following-the-toyota-rav4s-lead/l-intro-1794441263.jpg</image:loc>
+      <image:title>2028 Honda CR-V Will Go Hybrid-Only, Following The Toyota RAV4&#x27;s Lead</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2028-honda-cr-v-will-go-hybrid-only-following-the-toyota-rav4s-le/</loc>
+    <lastmod>2026-11-12T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2028-honda-cr-v-will-go-hybrid-only-following-the-toyota-rav4s-lead/l-intro-1794441263.jpg</image:loc>
+      <image:title>2028 Honda CR-V Will Go Hybrid-Only, Following The Toyota RAV4&#x27;s Lead</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2028-honda-cr-v-hybrid/</loc>
+    <lastmod>2026-11-12T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5c1b0895-0e1b-4814-849f-f2f450759c13.jpg?crop=1xw:0.75xh;0xw,0.104xh&amp;resize=1200:*</image:loc>
+      <image:title>2028 Honda CR-V Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2028-honda-cr-v-hybrid/</loc>
+    <lastmod>2026-11-12T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/5c1b0895-0e1b-4814-849f-f2f450759c13.jpg?crop=1xw:0.75xh;0xw,0.104xh&amp;resize=1200:*</image:loc>
+      <image:title>2028 Honda CR-V Hybrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-most-tradable-sport-nobody-trades-inside-race-prediction-plat/</loc>
+    <lastmod>2026-11-12T13:52:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/benjarrettRPM.jpg</image:loc>
+      <image:title>The most tradable sport nobody trades&#x27;: Inside race prediction platform RPM</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-most-tradable-sport-nobody-trades-inside-race-prediction-plat/</loc>
+    <lastmod>2026-11-12T13:52:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/benjarrettRPM.jpg</image:loc>
+      <image:title>The most tradable sport nobody trades&#x27;: Inside race prediction platform RPM</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/royal-enfield-650-owner-awarded-rs-1-lakh-in-consumer-court-after/</loc>
+    <lastmod>2026-11-12T13:49:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/royal-enfield-interceptor-650-stall-leh-owner-wins-case.jpg</image:loc>
+      <image:title>Royal Enfield 650 Owner Awarded Rs 1 Lakh In Consumer Court After Breakdown</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/royal-enfield-650-owner-awarded-rs-1-lakh-in-consumer-court-after/</loc>
+    <lastmod>2026-11-12T13:49:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/royal-enfield-interceptor-650-stall-leh-owner-wins-case.jpg</image:loc>
+      <image:title>Royal Enfield 650 Owner Awarded Rs 1 Lakh In Consumer Court After Breakdown</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-10250-could-this-1995-mercedes-benz-e320-estate-bring-class-to/</loc>
+    <lastmod>2026-11-12T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-10250-could-this-1995-mercedes-benz-e320-estate-bring-class-to-car-line/l-intro-1794412183.jpg</image:loc>
+      <image:title>At $10,250, Could This 1995 Mercedes-Benz E320 Estate Bring Class To Car Line?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-10250-could-this-1995-mercedes-benz-e320-estate-bring-class-to/</loc>
+    <lastmod>2026-11-12T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-10250-could-this-1995-mercedes-benz-e320-estate-bring-class-to-car-line/l-intro-1794412183.jpg</image:loc>
+      <image:title>At $10,250, Could This 1995 Mercedes-Benz E320 Estate Bring Class To Car Line?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lamborghini-temerario-just-got-a-loud-upgrade-right-before-losing/</loc>
+    <lastmod>2026-11-12T13:06:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/lamborghini-temerario-just-got-a-loud-upgrade-right-before-losing-its-top/l-intro-1794488532.jpg</image:loc>
+      <image:title>Lamborghini Temerario Just Got A Loud Upgrade Right Before Losing Its Top</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/lamborghini-temerario-just-got-a-loud-upgrade-right-before-losing/</loc>
+    <lastmod>2026-11-12T13:06:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/lamborghini-temerario-just-got-a-loud-upgrade-right-before-losing-its-top/l-intro-1794488532.jpg</image:loc>
+      <image:title>Lamborghini Temerario Just Got A Loud Upgrade Right Before Losing Its Top</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-electric-suvs-uk-launch-2027-planned-export-from-india/</loc>
+    <lastmod>2026-11-12T12:57:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/06/mahindra-xev-9e-and-be-6-hybrid-variants.jpg</image:loc>
+      <image:title>Mahindra Electric SUVs UK Launch 2027 Planned</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-electric-suvs-uk-launch-2027-planned-export-from-india/</loc>
+    <lastmod>2026-11-12T12:57:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/06/mahindra-xev-9e-and-be-6-hybrid-variants.jpg</image:loc>
+      <image:title>Mahindra Electric SUVs UK Launch 2027 Planned</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/</loc>
+    <lastmod>2026-11-12T12:53:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/bchydro_main.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Latest Canadian budget packs funding for 55,000 new EV chargers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/</loc>
+    <lastmod>2026-11-12T12:53:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/bchydro_main.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Latest Canadian budget packs funding for 55,000 new EV chargers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hondas-2000-electric-moped-is-a-winner-so-why-cant-americans-buy-/</loc>
+    <lastmod>2026-11-12T12:28:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/01/honda-uc3-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Honda&#x27;s $2,000 electric moped is a winner. So why can&#x27;t Americans buy it?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hondas-2000-electric-moped-is-a-winner-so-why-cant-americans-buy-/</loc>
+    <lastmod>2026-11-12T12:28:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/01/honda-uc3-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Honda&#x27;s $2,000 electric moped is a winner. So why can&#x27;t Americans buy it?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/russell-partners-with-brdc-to-launch-karting-academy/</loc>
+    <lastmod>2026-11-12T12:27:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg</image:loc>
+      <image:title>Russell partners with BRDC to launch karting academy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/russell-partners-with-brdc-to-launch-karting-academy/</loc>
+    <lastmod>2026-11-12T12:27:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg</image:loc>
+      <image:title>Russell partners with BRDC to launch karting academy</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/russell-launches-fully-funded-new-karting-academy/</loc>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-creta-interiors-spied-before-launch-6.jpg</image:loc>
       <image:title>New Hyundai Creta Interiors Spied - More Space, Features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/cat-puts-century-old-train-tech-to-work-in-its-biggest-undergroun/</loc>
-    <lastmod>2026-11-10T12:10:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/cat_r3200_diesel-electric.png?w=1600</image:loc>
-      <image:title>CAT puts century-old train tech to work in its biggest underground machine yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/cat-puts-century-old-train-tech-to-work-in-its-biggest-undergroun/</loc>
-    <lastmod>2026-11-10T12:10:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/cat_r3200_diesel-electric.png?w=1600</image:loc>
-      <image:title>CAT puts century-old train tech to work in its biggest underground machine yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/</loc>
-    <lastmod>2026-11-10T11:45:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-1.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws-2.jpg</image:loc>
-      <image:title>FIA reveals ADUO results in final review of 2026 F1 season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/</loc>
-    <lastmod>2026-11-10T11:45:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-1.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws-2.jpg</image:loc>
-      <image:title>FIA reveals ADUO results in final review of 2026 F1 season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fia-makes-latest-aduo-ruling-and-hints-at-2027-revamp/</loc>
-    <lastmod>2026-11-10T11:41:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452940_HiRes.jpg</image:loc>
-      <image:title>FIA makes latest ADUO ruling and hints at 2027 revamp</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fia-makes-latest-aduo-ruling-and-hints-at-2027-revamp/</loc>
-    <lastmod>2026-11-10T11:41:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452940_HiRes.jpg</image:loc>
-      <image:title>FIA makes latest ADUO ruling and hints at 2027 revamp</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/oh-so-thats-whos-buying-all-those-new-subaru-trailseeker-evs/</loc>
-    <lastmod>2026-11-10T10:44:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026-subaru-trailseeker-ev.png</image:loc>
-      <image:title>Oh, So That&#x27;s Who&#x27;s Buying All Those New Subaru Trailseeker EVs…</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/oh-so-thats-whos-buying-all-those-new-subaru-trailseeker-evs/</loc>
-    <lastmod>2026-11-10T10:44:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/2026-subaru-trailseeker-ev.png</image:loc>
-      <image:title>Oh, So That&#x27;s Who&#x27;s Buying All Those New Subaru Trailseeker EVs…</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/a-tribute-to-bunker-roy-the-man-who-turned-village-grandmothers-i/</loc>
-    <lastmod>2026-11-10T10:42:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/bunkerroy-solarmamas.png</image:loc>
-      <image:title>A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/a-tribute-to-bunker-roy-the-man-who-turned-village-grandmothers-i/</loc>
-    <lastmod>2026-11-10T10:42:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/bunkerroy-solarmamas.png</image:loc>
-      <image:title>A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-2027-hyundai-creta-leaked-inside-out-in-latest-spy-video/</loc>
-    <lastmod>2026-11-10T10:11:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/09/new-hyundai-creta-spied-testing-1.jpg</image:loc>
-      <image:title>New 2027 Hyundai Creta Leaked Inside Out in Latest Spy Video</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-2027-hyundai-creta-leaked-inside-out-in-latest-spy-video/</loc>
-    <lastmod>2026-11-10T10:11:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/09/new-hyundai-creta-spied-testing-1.jpg</image:loc>
-      <image:title>New 2027 Hyundai Creta Leaked Inside Out in Latest Spy Video</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/15-year-old-ipl-sensation-vaibhav-sooryavanshi-takes-delivery-of-/</loc>
-    <lastmod>2026-11-10T09:50:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/02/vaibhav-sooryavanshi-tata-sierra.jpg</image:loc>
-      <image:title>15-year-old IPL Sensation Vaibhav Sooryavanshi Takes Delivery of New Tata Sierra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/15-year-old-ipl-sensation-vaibhav-sooryavanshi-takes-delivery-of-/</loc>
-    <lastmod>2026-11-10T09:50:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/02/vaibhav-sooryavanshi-tata-sierra.jpg</image:loc>
-      <image:title>15-year-old IPL Sensation Vaibhav Sooryavanshi Takes Delivery of New Tata Sierra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-shows-off-its-next-electric-motorcycle-and-its-wilder-than-/</loc>
-    <lastmod>2026-11-10T09:07:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/honda-ev-outlier-head-motorcycle-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Honda shows off its next electric motorcycle, and it&#x27;s wilder than you thought</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-shows-off-its-next-electric-motorcycle-and-its-wilder-than-/</loc>
-    <lastmod>2026-11-10T09:07:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/honda-ev-outlier-head-motorcycle-1.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Honda shows off its next electric motorcycle, and it&#x27;s wilder than you thought</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1s-underrated-rain-master-has-proven-himself-again/</loc>
-    <lastmod>2026-11-10T08:54:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452909_HiRes.jpg</image:loc>
-      <image:title>F1&#x27;s underrated rain master has proven himself again</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1s-underrated-rain-master-has-proven-himself-again/</loc>
-    <lastmod>2026-11-10T08:54:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452909_HiRes.jpg</image:loc>
-      <image:title>F1&#x27;s underrated rain master has proven himself again</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/car-sales-oct-2026-maruti-tata-mahindra-hyundai-kia-toyota-mg-sko/</loc>
-    <lastmod>2026-11-10T08:37:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-brezza-booster-jet-review.jpg</image:loc>
-      <image:title>Car Sales Oct 2026 - Maruti, Tata, Mahindra, Hyundai, Kia, Toyota, MG, Skoda, Honda, Renault</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/car-sales-oct-2026-maruti-tata-mahindra-hyundai-kia-toyota-mg-sko/</loc>
-    <lastmod>2026-11-10T08:37:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-brezza-booster-jet-review.jpg</image:loc>
-      <image:title>Car Sales Oct 2026 - Maruti, Tata, Mahindra, Hyundai, Kia, Toyota, MG, Skoda, Honda, Renault</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/force-traveller-ev-launch-in-q1-2027-rs-3000-cr-investment/</loc>
-    <lastmod>2026-11-10T08:31:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-force-traveller-ev-launching-in-q1-2027.jpg</image:loc>
-      <image:title>Force Traveller EV Launch In Q1 2027 - Rs 3,000 Cr Investment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/force-traveller-ev-launch-in-q1-2027-rs-3000-cr-investment/</loc>
-    <lastmod>2026-11-10T08:31:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-force-traveller-ev-launching-in-q1-2027.jpg</image:loc>
-      <image:title>Force Traveller EV Launch In Q1 2027 - Rs 3,000 Cr Investment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-upcoming-7-seater-electric-hybrid-suvs-in-india-tata-to-hyundai/</loc>
-    <lastmod>2026-11-10T08:30:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/04/2026-Kia-Palisade-Hybrid-SUV-2.jpg</image:loc>
-      <image:title>5+ Upcoming 7-Seater Electric &amp; Hybrid SUVs In India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-upcoming-7-seater-electric-hybrid-suvs-in-india-tata-to-hyundai/</loc>
-    <lastmod>2026-11-10T08:30:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/04/2026-Kia-Palisade-Hybrid-SUV-2.jpg</image:loc>
-      <image:title>5+ Upcoming 7-Seater Electric &amp; Hybrid SUVs In India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tvs-ntorq-150-spectral-green-launched-at-rs-122-lakh/</loc>
-    <lastmod>2026-11-10T07:00:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/tvs-ntorq-150-spectral-green.jpg</image:loc>
-      <image:title>TVS Ntorq 150 Spectral Green Launched At Rs. 1.22 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tvs-ntorq-150-spectral-green-launched-at-rs-122-lakh/</loc>
-    <lastmod>2026-11-10T07:00:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/tvs-ntorq-150-spectral-green.jpg</image:loc>
-      <image:title>TVS Ntorq 150 Spectral Green Launched At Rs. 1.22 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-10-most-sold-sedans-oct-2026-dzire-aeris-aura-city-verna-slav/</loc>
-    <lastmod>2026-11-10T05:30:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Tata-Aeris.jpg</image:loc>
-      <image:title>Top 10 Most Sold Sedans Oct 2026 - Dzire, Aeris, Aura, City, Verna, Slavia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/top-10-most-sold-sedans-oct-2026-dzire-aeris-aura-city-verna-slav/</loc>
-    <lastmod>2026-11-10T05:30:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Tata-Aeris.jpg</image:loc>
-      <image:title>Top 10 Most Sold Sedans Oct 2026 - Dzire, Aeris, Aura, City, Verna, Slavia</image:title>
     </image:image>
   </url>
 </urlset>
