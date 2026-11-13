@@ -3,39 +3,219 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-13T17:19:12Z</lastmod>
+    <lastmod>2026-11-13T20:40:13Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-13T17:19:12Z</lastmod>
+    <lastmod>2026-11-13T20:40:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-13T17:19:12Z</lastmod>
+    <lastmod>2026-11-13T20:40:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-13T17:19:12Z</lastmod>
+    <lastmod>2026-11-13T20:40:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-13T17:19:12Z</lastmod>
+    <lastmod>2026-11-13T20:40:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-13T17:19:12Z</lastmod>
+    <lastmod>2026-11-13T20:40:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-aston-martin-valhalla/</loc>
+    <lastmod>2026-11-13T20:23:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76bc6da0-a443-4ba6-a27e-1358a6d94f0c.jpg?crop=0.708xw:0.530xh;0.190xw,0.314xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Aston Martin Valhalla</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-aston-martin-valhalla/</loc>
+    <lastmod>2026-11-13T20:23:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76bc6da0-a443-4ba6-a27e-1358a6d94f0c.jpg?crop=0.708xw:0.530xh;0.190xw,0.314xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Aston Martin Valhalla</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2028-ford-mustang-cobra-with-a-race-car-derived-v-8-is-worth-wait/</loc>
+    <lastmod>2026-11-13T20:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6722cd71-0f94-4dc2-a361-89c21b889153.jpg</image:loc>
+      <image:title>2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2028-ford-mustang-cobra-with-a-race-car-derived-v-8-is-worth-wait/</loc>
+    <lastmod>2026-11-13T20:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6722cd71-0f94-4dc2-a361-89c21b889153.jpg</image:loc>
+      <image:title>2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-/</loc>
+    <lastmod>2026-11-13T19:41:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-edition/l-intro-1794598688.jpg</image:loc>
+      <image:title>Blazing Phoenix Yellow Adorns 2027 Acura Integra Type S Heritage Edition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-/</loc>
+    <lastmod>2026-11-13T19:41:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-edition/l-intro-1794598688.jpg</image:loc>
+      <image:title>Blazing Phoenix Yellow Adorns 2027 Acura Integra Type S Heritage Edition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/more-bugatti-customers-should-spec-polished-engine-covers-but-the/</loc>
+    <lastmod>2026-11-13T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/more-bugatti-customers-should-spec-polished-engine-covers-but-theyre-all-too-chicken/l-intro-1794432827.jpg</image:loc>
+      <image:title>More Bugatti Customers Should Spec Polished Engine Covers, But They&#x27;re All Too Chicken</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/more-bugatti-customers-should-spec-polished-engine-covers-but-the/</loc>
+    <lastmod>2026-11-13T19:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/more-bugatti-customers-should-spec-polished-engine-covers-but-theyre-all-too-chicken/l-intro-1794432827.jpg</image:loc>
+      <image:title>More Bugatti Customers Should Spec Polished Engine Covers, But They&#x27;re All Too Chicken</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/stellantis-reappoints-broderdorf-promotes-kuniskis-in-ceo-shuffle/</loc>
+    <lastmod>2026-11-13T19:19:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/11294ed4-9ff1-49d6-9a6f-b543147e7cec.jpg</image:loc>
+      <image:title>Stellantis Reappoints Broderdorf, Promotes Kuniskis In CEO Shuffle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/stellantis-reappoints-broderdorf-promotes-kuniskis-in-ceo-shuffle/</loc>
+    <lastmod>2026-11-13T19:19:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/11294ed4-9ff1-49d6-9a6f-b543147e7cec.jpg</image:loc>
+      <image:title>Stellantis Reappoints Broderdorf, Promotes Kuniskis In CEO Shuffle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-is-delaying-another-ev-based-on-the-ssp/</loc>
+    <lastmod>2026-11-13T19:03:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen is delaying another EV based on the SSP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagen-is-delaying-another-ev-based-on-the-ssp/</loc>
+    <lastmod>2026-11-13T19:03:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen is delaying another EV based on the SSP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-stops-selling-every-cybertruck-except-the-109990-cyberbeast/</loc>
+    <lastmod>2026-11-13T18:13:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla stops selling every Cybertruck except the $109,990 Cyberbeast</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-stops-selling-every-cybertruck-except-the-109990-cyberbeast/</loc>
+    <lastmod>2026-11-13T18:13:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla stops selling every Cybertruck except the $109,990 Cyberbeast</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-is-overhauling-the-kona-and-it-looks-like-it-may-still-be/</loc>
+    <lastmod>2026-11-13T17:47:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-is-overhauling-the-kona-and-it-looks-like-it-may-still-be/</loc>
+    <lastmod>2026-11-13T17:47:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-surprising-convergence-behind-f1s-increasingly-competitive-20/</loc>
+    <lastmod>2026-11-13T17:14:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws.jpg</image:loc>
+      <image:title>The surprising convergence behind F1&#x27;s increasingly competitive 2026 season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-surprising-convergence-behind-f1s-increasingly-competitive-20/</loc>
+    <lastmod>2026-11-13T17:14:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws.jpg</image:loc>
+      <image:title>The surprising convergence behind F1&#x27;s increasingly competitive 2026 season</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/florida-sinks-ss-united-states-in-gulf-of-mexico-to-protect-the-e/</loc>
@@ -278,6 +458,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/whats-your-weirdest-non-usdm-car-spotting-moment/</loc>
+    <lastmod>2026-11-13T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-weirdest-non-usdm-car-spotting-moment/l-intro-1794529832.jpg</image:loc>
+      <image:title>What&#x27;s Your Weirdest Non-USDM Car Spotting Moment?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/whats-your-weirdest-non-usdm-car-spotting-moment/</loc>
+    <lastmod>2026-11-13T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-weirdest-non-usdm-car-spotting-moment/l-intro-1794529832.jpg</image:loc>
+      <image:title>What&#x27;s Your Weirdest Non-USDM Car Spotting Moment?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-acura-integra-type-s-gets-a-type-r-inspired-heritage-edition/</loc>
+    <lastmod>2026-11-13T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-acura-integra-type-s-gets-a-type-r-inspired-heritage-edition/l-intro-1794535221.jpg</image:loc>
+      <image:title>2027 Acura Integra Type S Gets A Type R-Inspired Heritage Edition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-acura-integra-type-s-gets-a-type-r-inspired-heritage-edition/</loc>
+    <lastmod>2026-11-13T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/2027-acura-integra-type-s-gets-a-type-r-inspired-heritage-edition/l-intro-1794535221.jpg</image:loc>
+      <image:title>2027 Acura Integra Type S Gets A Type R-Inspired Heritage Edition</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/review-engwes-m20-30-is-a-60v-super73-killer-at-a-fraction-of-the/</loc>
     <lastmod>2026-11-13T13:32:11+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -355,6 +575,26 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-ubx-spied-testing.jpg</image:loc>
       <image:title>New Hero Street Fighter Bike Spied Testing - Electric Vida UBX?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/denza-d9-and-z9-gt-launched-in-india-priced-from-rs-90-lakh/</loc>
+    <lastmod>2026-11-13T11:56:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Denza-D9-MPV-2.jpg</image:loc>
+      <image:title>Denza D9 and Z9 GT Launched In India, Priced From Rs. 90 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/denza-d9-and-z9-gt-launched-in-india-priced-from-rs-90-lakh/</loc>
+    <lastmod>2026-11-13T11:56:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Denza-D9-MPV-2.jpg</image:loc>
+      <image:title>Denza D9 and Z9 GT Launched In India, Priced From Rs. 90 Lakh</image:title>
     </image:image>
   </url>
   <url>
@@ -495,6 +735,26 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-denza-d9-india-launch-cover.jpg</image:loc>
       <image:title>BYD Denza D9 Launch Price Rs 90 Lakh - Luxury MPV Rivals Vellfire, M9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-sales-analysis-october-2026-scorpio-bolero-thar-7xo-xev-/</loc>
+    <lastmod>2026-11-13T08:30:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/Mahindra-Scorpio-N-Facelift-6.jpg</image:loc>
+      <image:title>Mahindra Sales Analysis October 2026 - Scorpio, Bolero, Thar, 7XO, XEV 9S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-sales-analysis-october-2026-scorpio-bolero-thar-7xo-xev-/</loc>
+    <lastmod>2026-11-13T08:30:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/Mahindra-Scorpio-N-Facelift-6.jpg</image:loc>
+      <image:title>Mahindra Sales Analysis October 2026 - Scorpio, Bolero, Thar, 7XO, XEV 9S</image:title>
     </image:image>
   </url>
   <url>
@@ -2775,266 +3035,6 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-2027-EV-lineup.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Hyundai is shaking up its 2027 electric vehicle lineup: Here&#x27;s what&#x27;s changing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-recalls-636k-pilots-acura-mdxs-and-tlxs-over-faulty-power-s/</loc>
-    <lastmod>2026-11-11T17:20:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-honda-pilot-elite-awd-109-64d10d848472c.jpg</image:loc>
-      <image:title>Urgent Safety Alert: Honda Recalls 636K Pilots, Acura MDXs and TLXs over Faulty Power Steering</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-recalls-636k-pilots-acura-mdxs-and-tlxs-over-faulty-power-s/</loc>
-    <lastmod>2026-11-11T17:20:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-honda-pilot-elite-awd-109-64d10d848472c.jpg</image:loc>
-      <image:title>Urgent Safety Alert: Honda Recalls 636K Pilots, Acura MDXs and TLXs over Faulty Power Steering</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/</loc>
-    <lastmod>2026-11-11T17:07:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/l-intro-1794416800.jpg</image:loc>
-      <image:title>2027 Mercedes C-Class Follows The Formula And Sticks The Landing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/</loc>
-    <lastmod>2026-11-11T17:07:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2027-mercedes-c-class-follows-the-formula-and-sticks-the-landing/l-intro-1794416800.jpg</image:loc>
-      <image:title>2027 Mercedes C-Class Follows The Formula And Sticks The Landing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-ford-transit/</loc>
-    <lastmod>2026-11-11T17:03:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2021-ford-transit-pr-105-6888f5c2c4d54.jpg?crop=0.881xw:0.66xh;0.08xw,0.164xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Ford Transit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-ford-transit/</loc>
-    <lastmod>2026-11-11T17:03:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2021-ford-transit-pr-105-6888f5c2c4d54.jpg?crop=0.881xw:0.66xh;0.08xw,0.164xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Ford Transit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lincoln-recalls-37000-navigators-because-the-front-seats-might-be/</loc>
-    <lastmod>2026-11-11T17:03:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/lincoln-recalls-37000-navigators-because-the-front-seats-might-be-haunted/l-intro-1794416418.jpg</image:loc>
-      <image:title>Urgent Safety Alert: Lincoln Recalls 37,000 Navigators Because The Front Seats Might Be Haunted</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/lincoln-recalls-37000-navigators-because-the-front-seats-might-be/</loc>
-    <lastmod>2026-11-11T17:03:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/lincoln-recalls-37000-navigators-because-the-front-seats-might-be-haunted/l-intro-1794416418.jpg</image:loc>
-      <image:title>Urgent Safety Alert: Lincoln Recalls 37,000 Navigators Because The Front Seats Might Be Haunted</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-vinfast-vf9/</loc>
-    <lastmod>2026-11-11T17:01:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-vinfast-vf9-exterior-102-jpg-6553cb12bcf74.jpg?crop=0.545xw:0.409xh;0.257xw,0.498xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 VinFast VF9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-vinfast-vf9/</loc>
-    <lastmod>2026-11-11T17:01:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-vinfast-vf9-exterior-102-jpg-6553cb12bcf74.jpg?crop=0.545xw:0.409xh;0.257xw,0.498xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 VinFast VF9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/a-texas-based-tuner-proves-the-manual-transmission-c8-corvette-is/</loc>
-    <lastmod>2026-11-11T16:27:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2dd417d5-8390-4a82-a39b-b1bdb47b8a9e.jpg</image:loc>
-      <image:title>A Texas-Based Tuner Proves the Manual-Transmission C8 Corvette Is Real</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/a-texas-based-tuner-proves-the-manual-transmission-c8-corvette-is/</loc>
-    <lastmod>2026-11-11T16:27:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2dd417d5-8390-4a82-a39b-b1bdb47b8a9e.jpg</image:loc>
-      <image:title>A Texas-Based Tuner Proves the Manual-Transmission C8 Corvette Is Real</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-and-subaru-hit-the-sweet-spot-with-affordable-electric-suv/</loc>
-    <lastmod>2026-11-11T15:41:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Subaru-affordable-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Toyota and Subaru hit the &#x27;sweet spot&#x27; with affordable electric SUVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-and-subaru-hit-the-sweet-spot-with-affordable-electric-suv/</loc>
-    <lastmod>2026-11-11T15:41:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Subaru-affordable-EVs.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Toyota and Subaru hit the &#x27;sweet spot&#x27; with affordable electric SUVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hamilton-loses-most-marketable-athlete-status-in-2026/</loc>
-    <lastmod>2026-11-11T15:33:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451289_HiRes.jpg</image:loc>
-      <image:title>Hamilton loses &#x27;most marketable athlete&#x27; status in 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hamilton-loses-most-marketable-athlete-status-in-2026/</loc>
-    <lastmod>2026-11-11T15:33:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451289_HiRes.jpg</image:loc>
-      <image:title>Hamilton loses &#x27;most marketable athlete&#x27; status in 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-ram-1500-rumble-bee-foose-edition-is-a-lowrider-with-a-truck/</loc>
-    <lastmod>2026-11-11T15:25:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ec113d36-d277-4e40-b6d8-241d1ec80548.jpg</image:loc>
-      <image:title>2027 Ram 1500 Rumble Bee Foose Edition Is a Lowrider with a Truck Bed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-ram-1500-rumble-bee-foose-edition-is-a-lowrider-with-a-truck/</loc>
-    <lastmod>2026-11-11T15:25:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ec113d36-d277-4e40-b6d8-241d1ec80548.jpg</image:loc>
-      <image:title>2027 Ram 1500 Rumble Bee Foose Edition Is a Lowrider with a Truck Bed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/finland-allows-tesla-fsd-so-long-as-its-not-called-that/</loc>
-    <lastmod>2026-11-11T15:22:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/finland-allows-tesla-fsd-so-long-as-its-not-called-that/l-intro-1794410373.jpg</image:loc>
-      <image:title>Finland Allows Tesla FSD, So Long As It&#x27;s Not Called That</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/finland-allows-tesla-fsd-so-long-as-its-not-called-that/</loc>
-    <lastmod>2026-11-11T15:22:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/finland-allows-tesla-fsd-so-long-as-its-not-called-that/l-intro-1794410373.jpg</image:loc>
-      <image:title>Finland Allows Tesla FSD, So Long As It&#x27;s Not Called That</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-netherlands-has-231-million-for-cleaner-inland-ships-it-still/</loc>
-    <lastmod>2026-11-11T15:06:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Dutch_Corridor_Hero_1600x900.png</image:loc>
-      <image:title>The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-netherlands-has-231-million-for-cleaner-inland-ships-it-still/</loc>
-    <lastmod>2026-11-11T15:06:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Dutch_Corridor_Hero_1600x900.png</image:loc>
-      <image:title>The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/own-a-piece-of-ford-roush-sport-truck-history-with-this-1990-f-15/</loc>
-    <lastmod>2026-11-11T14:56:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/own-a-piece-of-ford-roush-sport-truck-history-with-this-1990-f-150-concept/l-intro-1794388631.jpg</image:loc>
-      <image:title>Own A Piece Of Ford Roush Sport Truck History With This 1990 F-150 Concept</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/own-a-piece-of-ford-roush-sport-truck-history-with-this-1990-f-15/</loc>
-    <lastmod>2026-11-11T14:56:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/own-a-piece-of-ford-roush-sport-truck-history-with-this-1990-f-150-concept/l-intro-1794388631.jpg</image:loc>
-      <image:title>Own A Piece Of Ford Roush Sport Truck History With This 1990 F-150 Concept</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/porsche-ceo-takes-a-shot-at-teslas-flying-roadster-stunt-show/</loc>
-    <lastmod>2026-11-11T14:34:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Porsche CEO takes a shot at Tesla&#x27;s &#x27;flying&#x27; Roadster stunt show</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/porsche-ceo-takes-a-shot-at-teslas-flying-roadster-stunt-show/</loc>
-    <lastmod>2026-11-11T14:34:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Porsche CEO takes a shot at Tesla&#x27;s &#x27;flying&#x27; Roadster stunt show</image:title>
     </image:image>
   </url>
 </urlset>
