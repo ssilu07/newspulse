@@ -3,39 +3,259 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-13T20:40:13Z</lastmod>
+    <lastmod>2026-11-13T23:42:04Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-13T20:40:13Z</lastmod>
+    <lastmod>2026-11-13T23:42:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-13T20:40:13Z</lastmod>
+    <lastmod>2026-11-13T23:42:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-13T20:40:13Z</lastmod>
+    <lastmod>2026-11-13T23:42:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-13T20:40:13Z</lastmod>
+    <lastmod>2026-11-13T23:42:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-13T20:40:13Z</lastmod>
+    <lastmod>2026-11-13T23:42:04Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hydropower-generation-in-the-southwest-fell-to-record-lows-this-s/</loc>
+    <lastmod>2026-11-13T23:17:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/US-Southwest-Hydropower-Generation-Monthly.png</image:loc>
+      <image:title>Hydropower Generation in the Southwest Fell to Record Lows This Summer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hydropower-generation-in-the-southwest-fell-to-record-lows-this-s/</loc>
+    <lastmod>2026-11-13T23:17:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/US-Southwest-Hydropower-Generation-Monthly.png</image:loc>
+      <image:title>Hydropower Generation in the Southwest Fell to Record Lows This Summer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/john-hennessey-says-the-blackbird-is-about-much-more-than-big-num/</loc>
+    <lastmod>2026-11-13T23:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/john-hennessey-says-the-blackbird-is-about-much-more-than-big-numbers/l-intro-1794602449.jpg</image:loc>
+      <image:title>John Hennessey Says The Blackbird Is About Much More Than Big Numbers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/john-hennessey-says-the-blackbird-is-about-much-more-than-big-num/</loc>
+    <lastmod>2026-11-13T23:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/john-hennessey-says-the-blackbird-is-about-much-more-than-big-numbers/l-intro-1794602449.jpg</image:loc>
+      <image:title>John Hennessey Says The Blackbird Is About Much More Than Big Numbers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-/</loc>
+    <lastmod>2026-11-13T22:41:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-riverboat-in-new-orleans/l-intro-1794609632.jpg</image:loc>
+      <image:title>32 Hospitalized After Asphalt Tanker Slams Into And Sinks Docked Riverboat In New Orleans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-/</loc>
+    <lastmod>2026-11-13T22:41:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-riverboat-in-new-orleans/l-intro-1794609632.jpg</image:loc>
+      <image:title>32 Hospitalized After Asphalt Tanker Slams Into And Sinks Docked Riverboat In New Orleans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ask-a-scientist-who-has-a-voice-in-clean-air-protections/</loc>
+    <lastmod>2026-11-13T22:38:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/06/NYC-bike-path-CleanTechnica.jpg</image:loc>
+      <image:title>Ask a Scientist: Who Has a Voice in Clean Air Protections?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ask-a-scientist-who-has-a-voice-in-clean-air-protections/</loc>
+    <lastmod>2026-11-13T22:38:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/06/NYC-bike-path-CleanTechnica.jpg</image:loc>
+      <image:title>Ask a Scientist: Who Has a Voice in Clean Air Protections?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/spied-ford-may-finally-be-working-on-a-two-door-f-150-lobo-street/</loc>
+    <lastmod>2026-11-13T22:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/719b859d-c30c-422a-876c-0ba9006dfd81.png</image:loc>
+      <image:title>Spied! Ford May Finally Be Working on a Two-Door F-150 Lobo Street Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/spied-ford-may-finally-be-working-on-a-two-door-f-150-lobo-street/</loc>
+    <lastmod>2026-11-13T22:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/719b859d-c30c-422a-876c-0ba9006dfd81.png</image:loc>
+      <image:title>Spied! Ford May Finally Be Working on a Two-Door F-150 Lobo Street Truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-may-have-just-hinted-at-the-name-of-its-next-affordabl/</loc>
+    <lastmod>2026-11-13T22:14:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen may have just hinted at the name of its next affordable EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagen-may-have-just-hinted-at-the-name-of-its-next-affordabl/</loc>
+    <lastmod>2026-11-13T22:14:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>Volkswagen may have just hinted at the name of its next affordable EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/michelle-yeoh-says-window-seats-are-underrated-and-shes-right-tha/</loc>
+    <lastmod>2026-11-13T21:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/michelle-yeoh-says-window-seats-are-underrated-and-shes-right-that-you-should-leave-the-aisle-seats-for-me/l-intro-1794354020.jpg</image:loc>
+      <image:title>Michelle Yeoh Says Window Seats Are Underrated, And She&#x27;s Right (That You Should Leave The Aisle Seats For Me)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/michelle-yeoh-says-window-seats-are-underrated-and-shes-right-tha/</loc>
+    <lastmod>2026-11-13T21:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/michelle-yeoh-says-window-seats-are-underrated-and-shes-right-that-you-should-leave-the-aisle-seats-for-me/l-intro-1794354020.jpg</image:loc>
+      <image:title>Michelle Yeoh Says Window Seats Are Underrated, And She&#x27;s Right (That You Should Leave The Aisle Seats For Me)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/us-government-grounds-all-flights-across-the-united-states-due-to/</loc>
+    <lastmod>2026-11-13T21:44:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1600,1067</image:loc>
+      <image:title>US government grounds all flights across the United States &#x27;due to extraordinary circumstances</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/us-government-grounds-all-flights-across-the-united-states-due-to/</loc>
+    <lastmod>2026-11-13T21:44:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1600,1067</image:loc>
+      <image:title>US government grounds all flights across the United States &#x27;due to extraordinary circumstances</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/faas-nationwide-ground-stop-definitely-not-because-of-new-ai-air-/</loc>
+    <lastmod>2026-11-13T21:44:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/faa-orders-nationwide-ground-stop-due-to-extraordinary-circumstances/l-intro-1794611312.jpg</image:loc>
+      <image:title>FAA&#x27;s Nationwide Ground Stop Definitely Not Because Of New AI Air Traffic Control Tool... Probably</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/faas-nationwide-ground-stop-definitely-not-because-of-new-ai-air-/</loc>
+    <lastmod>2026-11-13T21:44:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/faa-orders-nationwide-ground-stop-due-to-extraordinary-circumstances/l-intro-1794611312.jpg</image:loc>
+      <image:title>FAA&#x27;s Nationwide Ground Stop Definitely Not Because Of New AI Air Traffic Control Tool... Probably</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byds-new-flagship-tang-suv-starts-at-about-34000-with-two-enormou/</loc>
+    <lastmod>2026-11-13T21:38:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Tang-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD&#x27;s new flagship Tang SUV starts at about $34,000 with two enormous screens</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byds-new-flagship-tang-suv-starts-at-about-34000-with-two-enormou/</loc>
+    <lastmod>2026-11-13T21:38:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Tang-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
+      <image:title>BYD&#x27;s new flagship Tang SUV starts at about $34,000 with two enormous screens</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-the-developers-of-007-first-light-nailed-the-feeling-of-being/</loc>
+    <lastmod>2026-11-13T21:01:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-the-developers-of-007-first-light-nailed-the-feeling-of-being-james-bond-through-its-cars-and-vehicles/l-intro-1794603578.jpg</image:loc>
+      <image:title>How The Developers Of &#x27;007 First Light&#x27; Nailed The Feeling Of Being James Bond Through Its Cars And Vehicles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-the-developers-of-007-first-light-nailed-the-feeling-of-being/</loc>
+    <lastmod>2026-11-13T21:01:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-the-developers-of-007-first-light-nailed-the-feeling-of-being-james-bond-through-its-cars-and-vehicles/l-intro-1794603578.jpg</image:loc>
+      <image:title>How The Developers Of &#x27;007 First Light&#x27; Nailed The Feeling Of Being James Bond Through Its Cars And Vehicles</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/2027-aston-martin-valhalla/</loc>
@@ -195,6 +415,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-acura-integra-type-s/</loc>
+    <lastmod>2026-11-13T17:40:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f44705d1-9439-4417-9624-fd0b3f9a08d3.jpg?crop=0.477xw:0.358xh;0.154xw,0.275xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Acura Integra Type S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-acura-integra-type-s/</loc>
+    <lastmod>2026-11-13T17:40:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f44705d1-9439-4417-9624-fd0b3f9a08d3.jpg?crop=0.477xw:0.358xh;0.154xw,0.275xh&amp;resize=1200:*</image:loc>
+      <image:title>2027 Acura Integra Type S</image:title>
     </image:image>
   </url>
   <url>
@@ -778,6 +1018,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/2-new-maruti-suzuki-cars-likely-to-debut-at-bharat-mobility-expo-/</loc>
+    <lastmod>2026-11-13T07:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Maruti-Suzuki-Fronx-facelift.jpg</image:loc>
+      <image:title>2 New Maruti Suzuki Cars Likely To Debut At Bharat Mobility Expo 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2-new-maruti-suzuki-cars-likely-to-debut-at-bharat-mobility-expo-/</loc>
+    <lastmod>2026-11-13T07:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Maruti-Suzuki-Fronx-facelift.jpg</image:loc>
+      <image:title>2 New Maruti Suzuki Cars Likely To Debut At Bharat Mobility Expo 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/mahindra-aiming-10k-sales-per-month-for-first-suv-based-on-nu-iq-/</loc>
     <lastmod>2026-11-13T06:26:02+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -795,6 +1055,26 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2025/08/Mahindra-Vision-S-Interiors-17.jpeg</image:loc>
       <image:title>Mahindra Aiming 10k Sales Per Month For First SUV Based On NU_IQ - Vision S?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/electric-car-sales-cross-3-lakh-units-in-2026-set-new-annual-reco/</loc>
+    <lastmod>2026-11-13T05:30:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/Mahindra-XEV-9S-17.jpg</image:loc>
+      <image:title>Electric Car Sales Cross 3 Lakh Units In 2026, Set New Annual Record</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/electric-car-sales-cross-3-lakh-units-in-2026-set-new-annual-reco/</loc>
+    <lastmod>2026-11-13T05:30:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/Mahindra-XEV-9S-17.jpg</image:loc>
+      <image:title>Electric Car Sales Cross 3 Lakh Units In 2026, Set New Annual Record</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/a755795f-1ca9-4da0-b9ee-734e1c0267fe.jpg?crop=1xw:0.75xh;center,top&amp;resize=1200:*</image:loc>
       <image:title>First Look Inside: The 2027 Nissan Armada Patrol Pro-4X Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-nissan-armada-patrol-pro-4x/</loc>
-    <lastmod>2026-11-11T20:18:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/55ce4aa4-9865-4e38-a88e-7b2bc8573d86.jpg?crop=1xw:0.75xh;center,top&amp;resize=1200:*</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Nissan Armada Patrol Pro-4X</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2027-nissan-armada-patrol-pro-4x/</loc>
-    <lastmod>2026-11-11T20:18:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/55ce4aa4-9865-4e38-a88e-7b2bc8573d86.jpg?crop=1xw:0.75xh;center,top&amp;resize=1200:*</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Nissan Armada Patrol Pro-4X</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits/</loc>
-    <lastmod>2026-11-11T20:15:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits-the-auction-block/l-intro-1794427989.jpg</image:loc>
-      <image:title>The Bat Signal Is Calling: Batman&#x27;s &#x27;The Dark Knight&#x27; Motorcycle Hits The Auction Block</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits/</loc>
-    <lastmod>2026-11-11T20:15:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-bat-signal-is-calling-batmans-the-dark-knight-motorcycle-hits-the-auction-block/l-intro-1794427989.jpg</image:loc>
-      <image:title>The Bat Signal Is Calling: Batman&#x27;s &#x27;The Dark Knight&#x27; Motorcycle Hits The Auction Block</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-700000-audi-nuvolari-will-be-extremely-rare-in-the-us/</loc>
-    <lastmod>2026-11-11T19:45:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76c9394d-d9e8-430f-8a06-4da1b0ed12b7.jpg</image:loc>
-      <image:title>The $700,000 Audi Nuvolari Will Be Extremely Rare in the U.S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-700000-audi-nuvolari-will-be-extremely-rare-in-the-us/</loc>
-    <lastmod>2026-11-11T19:45:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76c9394d-d9e8-430f-8a06-4da1b0ed12b7.jpg</image:loc>
-      <image:title>The $700,000 Audi Nuvolari Will Be Extremely Rare in the U.S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/spacex-wants-to-build-data-center-powered-by-its-newest-product-n/</loc>
-    <lastmod>2026-11-11T19:40:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/spacex-wants-to-build-data-center-powered-by-its-newest-product-natural-gas/l-intro-1794425965.jpg</image:loc>
-      <image:title>SpaceX Wants To Build Data Center Powered By Its Newest Product: Natural Gas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/spacex-wants-to-build-data-center-powered-by-its-newest-product-n/</loc>
-    <lastmod>2026-11-11T19:40:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/spacex-wants-to-build-data-center-powered-by-its-newest-product-natural-gas/l-intro-1794425965.jpg</image:loc>
-      <image:title>SpaceX Wants To Build Data Center Powered By Its Newest Product: Natural Gas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/average-new-car-price-hits-new-record-high-and-even-the-good-news/</loc>
-    <lastmod>2026-11-11T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/average-new-car-price-hits-new-record-high-and-even-the-good-news-doesnt-sound-so-good/l-intro-1794341593.jpg</image:loc>
-      <image:title>Average New Car Price Hits New Record High (And Even The Good News Doesn&#x27;t Sound So Good)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/average-new-car-price-hits-new-record-high-and-even-the-good-news/</loc>
-    <lastmod>2026-11-11T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/average-new-car-price-hits-new-record-high-and-even-the-good-news-doesnt-sound-so-good/l-intro-1794341593.jpg</image:loc>
-      <image:title>Average New Car Price Hits New Record High (And Even The Good News Doesn&#x27;t Sound So Good)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-classic-bel-air-is-actually-a-tesla-under-the-skin/</loc>
-    <lastmod>2026-11-11T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-classic-bel-air-is-actually-a-tesla-under-the-skin/l-intro-1794320521.jpg</image:loc>
-      <image:title>This Classic Bel Air Is Actually A Tesla Under The Skin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-classic-bel-air-is-actually-a-tesla-under-the-skin/</loc>
-    <lastmod>2026-11-11T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-classic-bel-air-is-actually-a-tesla-under-the-skin/l-intro-1794320521.jpg</image:loc>
-      <image:title>This Classic Bel Air Is Actually A Tesla Under The Skin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-full-size-luxury-suv-has-a-wheel-problem-and-its-fixing-it-f/</loc>
-    <lastmod>2026-11-11T18:58:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD&#x27;s full-size luxury SUV has a wheel problem, and it&#x27;s fixing it for free</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byds-full-size-luxury-suv-has-a-wheel-problem-and-its-fixing-it-f/</loc>
-    <lastmod>2026-11-11T18:58:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD&#x27;s full-size luxury SUV has a wheel problem, and it&#x27;s fixing it for free</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-extends-cybertruck-production-to-late-summer-2027-amid-fan-/</loc>
-    <lastmod>2026-11-11T18:24:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla extends Cybertruck production to late summer 2027 amid fan backlash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-extends-cybertruck-production-to-late-summer-2027-amid-fan-/</loc>
-    <lastmod>2026-11-11T18:24:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla extends Cybertruck production to late summer 2027 amid fan backlash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-issues-recall-on-flagship-suv-because-the-wheels-were-on-back/</loc>
-    <lastmod>2026-11-11T18:24:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/byd-issues-recall-on-flagship-suv-because-the-wheels-were-on-backwards/l-intro-1794421053.jpg</image:loc>
-      <image:title>Urgent Safety Alert: BYD Issues Recall On Flagship SUV Because The Wheels Were On Backwards</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-issues-recall-on-flagship-suv-because-the-wheels-were-on-back/</loc>
-    <lastmod>2026-11-11T18:24:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/byd-issues-recall-on-flagship-suv-because-the-wheels-were-on-backwards/l-intro-1794421053.jpg</image:loc>
-      <image:title>Urgent Safety Alert: BYD Issues Recall On Flagship SUV Because The Wheels Were On Backwards</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-lotus-supercars-670-hp-twin-turbo-v8-revealed-by-powertrain-s/</loc>
-    <lastmod>2026-11-11T18:20:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/new-lotus-supercars-670-hp-v8-revealed-by-powertrain-supplier-horse/l-intro-1794421086.jpg</image:loc>
-      <image:title>New Lotus Supercar&#x27;s 670-HP Twin-Turbo V8 Revealed By Powertrain Supplier Horse</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-lotus-supercars-670-hp-twin-turbo-v8-revealed-by-powertrain-s/</loc>
-    <lastmod>2026-11-11T18:20:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/new-lotus-supercars-670-hp-v8-revealed-by-powertrain-supplier-horse/l-intro-1794421086.jpg</image:loc>
-      <image:title>New Lotus Supercar&#x27;s 670-HP Twin-Turbo V8 Revealed By Powertrain Supplier Horse</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-perovskite-solar-cell-kraken-has-been-unleashed-upon-the-us/</loc>
-    <lastmod>2026-11-11T18:08:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/caelux-solar-glass.jpg</image:loc>
-      <image:title>The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-perovskite-solar-cell-kraken-has-been-unleashed-upon-the-us/</loc>
-    <lastmod>2026-11-11T18:08:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/caelux-solar-glass.jpg</image:loc>
-      <image:title>The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-confirms-rare-new-delivery-of-50-semi-electric-trucks-in-ch/</loc>
-    <lastmod>2026-11-11T18:03:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Semi-deliveries-Chicago.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-confirms-rare-new-delivery-of-50-semi-electric-trucks-in-ch/</loc>
-    <lastmod>2026-11-11T18:03:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Semi-deliveries-Chicago.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/renowned-awards-for-the-newcomer-id-polo-wins-golden-steering-whe/</loc>
-    <lastmod>2026-11-11T17:40:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/VW-ID-Polo-Golden-Steering-Wheel-Award.jpg</image:loc>
-      <image:title>Renowned Awards for the Newcomer: ID. Polo Wins Golden Steering Wheel, the Autonis Design Award and Is Voted German Car of the Year 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/renowned-awards-for-the-newcomer-id-polo-wins-golden-steering-whe/</loc>
-    <lastmod>2026-11-11T17:40:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/VW-ID-Polo-Golden-Steering-Wheel-Award.jpg</image:loc>
-      <image:title>Renowned Awards for the Newcomer: ID. Polo Wins Golden Steering Wheel, the Autonis Design Award and Is Voted German Car of the Year 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-is-shaking-up-its-2027-electric-vehicle-lineup-heres-what/</loc>
-    <lastmod>2026-11-11T17:23:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-2027-EV-lineup.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Hyundai is shaking up its 2027 electric vehicle lineup: Here&#x27;s what&#x27;s changing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundai-is-shaking-up-its-2027-electric-vehicle-lineup-heres-what/</loc>
-    <lastmod>2026-11-11T17:23:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-2027-EV-lineup.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Hyundai is shaking up its 2027 electric vehicle lineup: Here&#x27;s what&#x27;s changing</image:title>
     </image:image>
   </url>
 </urlset>
