@@ -3,39 +3,99 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-12T23:43:37Z</lastmod>
+    <lastmod>2026-11-13T02:55:08Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-12T23:43:37Z</lastmod>
+    <lastmod>2026-11-13T02:55:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-12T23:43:37Z</lastmod>
+    <lastmod>2026-11-13T02:55:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-12T23:43:37Z</lastmod>
+    <lastmod>2026-11-13T02:55:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-12T23:43:37Z</lastmod>
+    <lastmod>2026-11-13T02:55:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-12T23:43:37Z</lastmod>
+    <lastmod>2026-11-13T02:55:08Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/maruti-sales-analysis-october-2026-wagon-r-brezza-fronx-ertiga-vi/</loc>
+    <lastmod>2026-11-13T02:30:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Maruti-Brezza-1.jpg</image:loc>
+      <image:title>Maruti Sales Analysis October 2026 - Wagon R, Brezza, Fronx, Ertiga, Victoris, Vitara</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/maruti-sales-analysis-october-2026-wagon-r-brezza-fronx-ertiga-vi/</loc>
+    <lastmod>2026-11-13T02:30:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Maruti-Brezza-1.jpg</image:loc>
+      <image:title>Maruti Sales Analysis October 2026 - Wagon R, Brezza, Fronx, Ertiga, Victoris, Vitara</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-happens-in-vegas-should-inform-the-rest-of-the-country/</loc>
+    <lastmod>2026-11-13T02:29:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/worker-solar-facility-nevada-46186.webp</image:loc>
+      <image:title>What Happens in Vegas Should Inform the Rest of the Country</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-happens-in-vegas-should-inform-the-rest-of-the-country/</loc>
+    <lastmod>2026-11-13T02:29:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/worker-solar-facility-nevada-46186.webp</image:loc>
+      <image:title>What Happens in Vegas Should Inform the Rest of the Country</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-india-sales-breakup-oct-2026-seltos-sonet-clavis-sorento-syro/</loc>
+    <lastmod>2026-11-13T02:20:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-kia-seltos-sales-record.jpg</image:loc>
+      <image:title>Kia India Sales Breakup Oct 2026 - Seltos, Sonet, Clavis, Sorento, Syros, Carnival</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-india-sales-breakup-oct-2026-seltos-sonet-clavis-sorento-syro/</loc>
+    <lastmod>2026-11-13T02:20:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-kia-seltos-sales-record.jpg</image:loc>
+      <image:title>Kia India Sales Breakup Oct 2026 - Seltos, Sonet, Clavis, Sorento, Syros, Carnival</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/sonnens-new-smart-breakers-help-your-home-battery-last-longer/</loc>
@@ -95,6 +155,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Hero_Original_1600x900.png</image:loc>
       <image:title>Four of Seven Dutch Green Hydrogen Projects Have Been Cancelled. The Subsidies Keep Coming</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nhtsa-probing-12-million-ford-explorer-airbags-that-could-burn-pa/</loc>
+    <lastmod>2026-11-12T22:26:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/nhtsa-probing-1-3-million-ford-explorer-airbags-that-could-burn-passengers/l-intro-1794522144.jpg</image:loc>
+      <image:title>NHTSA Probing 1.2 Million Ford Explorer Airbags That Could Burn Passengers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nhtsa-probing-12-million-ford-explorer-airbags-that-could-burn-pa/</loc>
+    <lastmod>2026-11-12T22:26:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/nhtsa-probing-1-3-million-ford-explorer-airbags-that-could-burn-passengers/l-intro-1794522144.jpg</image:loc>
+      <image:title>NHTSA Probing 1.2 Million Ford Explorer Airbags That Could Burn Passengers</image:title>
     </image:image>
   </url>
   <url>
@@ -178,6 +258,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/pickup-truck-popemobiles-headline-pope-leo-xivs-south-american-vi/</loc>
+    <lastmod>2026-11-12T21:34:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/pickup-truck-popemobiles-headline-pope-leos-south-american-journey/l-intro-1794527771.jpg</image:loc>
+      <image:title>Pickup Truck Popemobiles Headline Pope Leo XIV&#x27;s South American Visit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/pickup-truck-popemobiles-headline-pope-leo-xivs-south-american-vi/</loc>
+    <lastmod>2026-11-12T21:34:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/pickup-truck-popemobiles-headline-pope-leos-south-american-journey/l-intro-1794527771.jpg</image:loc>
+      <image:title>Pickup Truck Popemobiles Headline Pope Leo XIV&#x27;s South American Visit</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/byd-is-combining-solar-energy-storage-five-minute-flash-charging-/</loc>
     <lastmod>2026-11-12T21:25:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -215,6 +315,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/that-mystery-suv-spied-in-moab-is-an-audi-bodied-test-mule-for-the-new-scouts/l-intro-1794524733.jpg</image:loc>
       <image:title>That Mystery SUV Spied In Moab Is An Audi-Bodied Test Mule For The New Scouts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/1979-porsche-924-rejoins-uaes-police-fleet/</loc>
+    <lastmod>2026-11-12T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/1979-porsche-924-rejoins-uaes-police-fleet/l-intro-1794414332.jpg</image:loc>
+      <image:title>1979 Porsche 924 Rejoins UAE&#x27;s Police Fleet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/1979-porsche-924-rejoins-uaes-police-fleet/</loc>
+    <lastmod>2026-11-12T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/1979-porsche-924-rejoins-uaes-police-fleet/l-intro-1794414332.jpg</image:loc>
+      <image:title>1979 Porsche 924 Rejoins UAE&#x27;s Police Fleet</image:title>
     </image:image>
   </url>
   <url>
@@ -1078,6 +1198,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/ford-expedition-tremor-project-overland-asks-what-if/</loc>
+    <lastmod>2026-11-12T11:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d380addb-59b8-4524-8a38-174bdedd31d9.jpg</image:loc>
+      <image:title>Ford Expedition Tremor: Project Overland Asks What If?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ford-expedition-tremor-project-overland-asks-what-if/</loc>
+    <lastmod>2026-11-12T11:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d380addb-59b8-4524-8a38-174bdedd31d9.jpg</image:loc>
+      <image:title>Ford Expedition Tremor: Project Overland Asks What If?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/upcoming-new-cars-by-march-2027-toyota-mahindra-tata-jsw-hyundai-/</loc>
     <lastmod>2026-11-12T10:33:29+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1818,6 +1958,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/this-classic-bel-air-is-actually-a-tesla-under-the-skin/</loc>
+    <lastmod>2026-11-11T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-classic-bel-air-is-actually-a-tesla-under-the-skin/l-intro-1794320521.jpg</image:loc>
+      <image:title>This Classic Bel Air Is Actually A Tesla Under The Skin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-classic-bel-air-is-actually-a-tesla-under-the-skin/</loc>
+    <lastmod>2026-11-11T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-classic-bel-air-is-actually-a-tesla-under-the-skin/l-intro-1794320521.jpg</image:loc>
+      <image:title>This Classic Bel Air Is Actually A Tesla Under The Skin</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/byds-full-size-luxury-suv-has-a-wheel-problem-and-its-fixing-it-f/</loc>
     <lastmod>2026-11-11T18:58:08+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -2118,6 +2278,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/2027-ram-1500-rumble-bee-foose-edition-is-a-lowrider-with-a-truck/</loc>
+    <lastmod>2026-11-11T15:25:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ec113d36-d277-4e40-b6d8-241d1ec80548.jpg</image:loc>
+      <image:title>2027 Ram 1500 Rumble Bee Foose Edition Is a Lowrider with a Truck Bed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-ram-1500-rumble-bee-foose-edition-is-a-lowrider-with-a-truck/</loc>
+    <lastmod>2026-11-11T15:25:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/ec113d36-d277-4e40-b6d8-241d1ec80548.jpg</image:loc>
+      <image:title>2027 Ram 1500 Rumble Bee Foose Edition Is a Lowrider with a Truck Bed</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/finland-allows-tesla-fsd-so-long-as-its-not-called-that/</loc>
     <lastmod>2026-11-11T15:22:43+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -2235,6 +2415,46 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/08/Genesis-GV90-luxury-SUV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Genesis reveals GV90 prices start at $100K+ in Korea, but it will cost more for coach doors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2027-mercedes-benz-cla350-ev/</loc>
+    <lastmod>2026-11-11T14:21:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/3cd5ec00-fa76-42f1-91bf-077482a19d6b.jpg</image:loc>
+      <image:title>First Look Inside: The 2027 Mercedes-Benz CLA350 EV Cabin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2027-mercedes-benz-cla350-ev/</loc>
+    <lastmod>2026-11-11T14:21:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/3cd5ec00-fa76-42f1-91bf-077482a19d6b.jpg</image:loc>
+      <image:title>First Look Inside: The 2027 Mercedes-Benz CLA350 EV Cabin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2027-mercedes-benz-cla350-ev/</loc>
+    <lastmod>2026-11-11T14:21:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1eda8a9c-5872-482d-862c-689231447c06.jpg</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Mercedes-Benz CLA350 EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2027-mercedes-benz-cla350-ev/</loc>
+    <lastmod>2026-11-11T14:21:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1eda8a9c-5872-482d-862c-689231447c06.jpg</image:loc>
+      <image:title>First Look: Aggressive Exterior Styling Of The 2027 Mercedes-Benz CLA350 EV</image:title>
     </image:image>
   </url>
   <url>
@@ -2815,226 +3035,6 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-lincoln-navigator-122-67ffe61dc1490.jpg</image:loc>
       <image:title>Urgent Safety Alert: Lincoln Recalls 37K Navigators for Front Seat That May Move on Its Own</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/audi-axes-the-luxurious-a8-after-32-years/</loc>
-    <lastmod>2026-11-10T21:14:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/audi-axes-the-luxurious-a8-after-32-years/l-intro-1794344171.jpg</image:loc>
-      <image:title>Audi Axes The Luxurious A8 After 32 Years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/audi-axes-the-luxurious-a8-after-32-years/</loc>
-    <lastmod>2026-11-10T21:14:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/audi-axes-the-luxurious-a8-after-32-years/l-intro-1794344171.jpg</image:loc>
-      <image:title>Audi Axes The Luxurious A8 After 32 Years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-new-lotus-esprit-supercar-will-be-powered-by-a-670-hp-v-8/</loc>
-    <lastmod>2026-11-10T21:05:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d0b64efe-c254-4ba5-af1c-96cfaac65aed.jpeg</image:loc>
-      <image:title>The New Lotus Esprit Supercar Will Be Powered by a 670-HP V-8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-new-lotus-esprit-supercar-will-be-powered-by-a-670-hp-v-8/</loc>
-    <lastmod>2026-11-10T21:05:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/d0b64efe-c254-4ba5-af1c-96cfaac65aed.jpeg</image:loc>
-      <image:title>The New Lotus Esprit Supercar Will Be Powered by a 670-HP V-8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lucid-ceo-admits-it-did-not-even-know-where-cars-were-and-lost-or/</loc>
-    <lastmod>2026-11-10T21:03:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/IMG_E3923-e1782161892390.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Lucid CEO admits it &#x27;did not even know where cars were&#x27; and lost orders</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/lucid-ceo-admits-it-did-not-even-know-where-cars-were-and-lost-or/</loc>
-    <lastmod>2026-11-10T21:03:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/06/IMG_E3923-e1782161892390.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Lucid CEO admits it &#x27;did not even know where cars were&#x27; and lost orders</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/these-two-porsche-911s-are-both-hiding-powerful-v8s/</loc>
-    <lastmod>2026-11-10T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/these-two-porsche-911s-are-both-hiding-powerful-v8s/l-intro-1794316996.jpg</image:loc>
-      <image:title>These Two Porsche 911s Are Both Hiding Powerful V8s</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/these-two-porsche-911s-are-both-hiding-powerful-v8s/</loc>
-    <lastmod>2026-11-10T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/these-two-porsche-911s-are-both-hiding-powerful-v8s/l-intro-1794316996.jpg</image:loc>
-      <image:title>These Two Porsche 911s Are Both Hiding Powerful V8s</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-cybertruck-had-its-best-month-in-over-a-year-its-still-goin/</loc>
-    <lastmod>2026-11-10T20:45:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla Cybertruck had its best month in over a year. It&#x27;s still going away</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-cybertruck-had-its-best-month-in-over-a-year-its-still-goin/</loc>
-    <lastmod>2026-11-10T20:45:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla Cybertruck had its best month in over a year. It&#x27;s still going away</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/watch-byds-robotic-charging-arm-plug-itself-in-and-charge-evs-in-/</loc>
-    <lastmod>2026-11-10T20:43:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-robotic-EV-charging-arm.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Watch BYD&#x27;s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/watch-byds-robotic-charging-arm-plug-itself-in-and-charge-evs-in-/</loc>
-    <lastmod>2026-11-10T20:43:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-robotic-EV-charging-arm.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Watch BYD&#x27;s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/norways-electric-snowplow-worked-sweden-added-hydrogen-anyway/</loc>
-    <lastmod>2026-11-10T20:27:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Snowplows_Hero_Editorial_1600x900.jpg</image:loc>
-      <image:title>Norway&#x27;s Electric Snowplow Worked. Sweden Added Hydrogen Anyway</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/norways-electric-snowplow-worked-sweden-added-hydrogen-anyway/</loc>
-    <lastmod>2026-11-10T20:27:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/TFIE_Snowplows_Hero_Editorial_1600x900.jpg</image:loc>
-      <image:title>Norway&#x27;s Electric Snowplow Worked. Sweden Added Hydrogen Anyway</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-bugatti-tourbillon/</loc>
-    <lastmod>2026-11-10T20:21:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0b5aaf86-c235-4031-bdfa-dddcaf0f1ced.jpg?crop=0.474xw:0.356xh;0.305xw,0.497xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Bugatti Tourbillon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-bugatti-tourbillon/</loc>
-    <lastmod>2026-11-10T20:21:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/0b5aaf86-c235-4031-bdfa-dddcaf0f1ced.jpg?crop=0.474xw:0.356xh;0.305xw,0.497xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Bugatti Tourbillon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-mercedes-benz-sprinter/</loc>
-    <lastmod>2026-11-10T20:19:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-mercedes-benz-sprinter-110-661d4ee1b9722.jpg?crop=0.802xw:0.601xh;0.075xw,0.232xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Mercedes-Benz Sprinter</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-mercedes-benz-sprinter/</loc>
-    <lastmod>2026-11-10T20:19:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2025-mercedes-benz-sprinter-110-661d4ee1b9722.jpg?crop=0.802xw:0.601xh;0.075xw,0.232xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Mercedes-Benz Sprinter</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-rivian-commercial-van/</loc>
-    <lastmod>2026-11-10T20:17:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-rivian-edv-102-65cbd442c8fc2.jpg?crop=0.779xw:0.584xh;0.083xw,0.386xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Rivian Commercial Van</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-rivian-commercial-van/</loc>
-    <lastmod>2026-11-10T20:17:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-rivian-edv-102-65cbd442c8fc2.jpg?crop=0.779xw:0.584xh;0.083xw,0.386xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Rivian Commercial Van</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-vinfast-vf8/</loc>
-    <lastmod>2026-11-10T20:17:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-vinfast-vf8-8640-64638b6d03fd0.jpg?crop=0.524xw:0.393xh;0.236xw,0.429xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 VinFast VF8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-vinfast-vf8/</loc>
-    <lastmod>2026-11-10T20:17:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2023-vinfast-vf8-8640-64638b6d03fd0.jpg?crop=0.524xw:0.393xh;0.236xw,0.429xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 VinFast VF8</image:title>
     </image:image>
   </url>
 </urlset>
