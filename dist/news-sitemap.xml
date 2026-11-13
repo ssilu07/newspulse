@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/review-engwes-m20-30-is-a-60v-super73-killer-at-a-fraction-of-the/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:32:11+00:00</news:publication_date>
+      <news:title>Review: Engwe&#x27;s M20 3.0 is a 60V Super73 killer at a fraction of the price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_118833.png?w=1442</image:loc>
+      <image:title>Review: Engwe&#x27;s M20 3.0 is a 60V Super73 killer at a fraction of the price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:25:00+00:00</news:publication_date>
+      <news:title>At $2,600, Is This 1999 Ford Expedition XLT Worth The Trek?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/l-intro-1794501059.jpg</image:loc>
+      <image:title>At $2,600, Is This 1999 Ford Expedition XLT Worth The Trek?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:00:00+00:00</news:publication_date>
+      <news:title>Honda Previews All-New CR-V As It Transitions To 100% Hybrid Power</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/l-intro-1794550355.jpg</image:loc>
+      <image:title>Honda Previews All-New CR-V As It Transitions To 100% Hybrid Power</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-hero-street-fighter-bike-spied-testing-electric-vida-ubx/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T12:31:58+00:00</news:publication_date>
+      <news:title>New Hero Street Fighter Bike Spied Testing - Electric Vida UBX?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-ubx-spied-testing.jpg</image:loc>
+      <image:title>New Hero Street Fighter Bike Spied Testing - Electric Vida UBX?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-madrid-f1-races-economic-impact-compares-to-barcelonas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T11:24:59+00:00</news:publication_date>
+      <news:title>How Madrid F1 race&#x27;s economic impact compares to Barcelona&#x27;s</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1436818_HiRes.jpg</image:loc>
+      <image:title>How Madrid F1 race&#x27;s economic impact compares to Barcelona&#x27;s</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/next-gen-audi-rs6-avant-coming-to-the-us-report/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T11:13:27+00:00</news:publication_date>
+      <news:title>Next-Gen Audi RS6 Avant Coming To The US: Report</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/next-gen-audi-rs6-avant-coming-to-the-us-report/l-intro-1794568098.jpg</image:loc>
+      <image:title>Next-Gen Audi RS6 Avant Coming To The US: Report</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T10:38:14+00:00</news:publication_date>
+      <news:title>Koenigsegg Bids Farewell To The Jesko With No Direct Successor In Sight</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in-sight/l-intro-1794566136.jpg</image:loc>
+      <image:title>Koenigsegg Bids Farewell To The Jesko With No Direct Successor In Sight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-n/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T10:04:48+00:00</news:publication_date>
+      <news:title>The Antonelli you don&#x27;t know: Inside the Mercedes garage with F1&#x27;s new world champion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/0o5AwKwY/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
+      <image:title>The Antonelli you don&#x27;t know: Inside the Mercedes garage with F1&#x27;s new world champion</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ultra-wide-r32-and-r34-gt-rs-bring-back-nfs-underground-nostalgia/</loc>
     <news:news>
       <news:publication>
@@ -60,6 +180,21 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/261108_R20_BRAZIL_DP_FGO08149_05ba8680-c2fd-4e37-a8aa-17dbaf7a4ddb.jpg</image:loc>
       <image:title>Ferrari&#x27;s Leclerc-Hamilton problem is far from solved</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-aiming-10k-sales-per-month-for-first-suv-based-on-nu-iq-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T06:26:02+00:00</news:publication_date>
+      <news:title>Mahindra Aiming 10k Sales Per Month For First SUV Based On NU_IQ - Vision S?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/08/Mahindra-Vision-S-Interiors-17.jpeg</image:loc>
+      <image:title>Mahindra Aiming 10k Sales Per Month For First SUV Based On NU_IQ - Vision S?</image:title>
     </image:image>
   </url>
   <url>
@@ -1995,96 +2130,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/pulsar-n250-ss-pulsar-ns200-ug-review-cover.jpg</image:loc>
       <image:title>New Bajaj Pulsar N250SS, Pulsar NS200 Review - More Torque or Sharper Handling?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/at-17000-is-this-meyers-manx-sr2-a-super-cool-cat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:25:00+00:00</news:publication_date>
-      <news:title>At $17,000, Is This Meyers Manx SR2 A Super Cool Cat?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-17000-is-this-meyers-manx-sr2-a-super-cool-cat/l-intro-1794338528.jpg</image:loc>
-      <image:title>At $17,000, Is This Meyers Manx SR2 A Super Cool Cat?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/sedan-sales-oct-2026-dzire-aura-aeris-amaze-slavia-virtus-verna-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:21:49+00:00</news:publication_date>
-      <news:title>Sedan Sales Oct 2026 - Dzire, Aura, Aeris, Amaze, Slavia, Virtus, Verna, City</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/10/new-tata-aeris-review4.jpeg</image:loc>
-      <image:title>Sedan Sales Oct 2026 - Dzire, Aura, Aeris, Amaze, Slavia, Virtus, Verna, City</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/science-for-the-people-right-on/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:21:40+00:00</news:publication_date>
-      <news:title>Science For The People, Right On!</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/water-treatment-facility-.jpg</image:loc>
-      <image:title>Science For The People, Right On!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-we-know-about-worrying-new-honda-f1-reliability-issue/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T12:00:40+00:00</news:publication_date>
-      <news:title>What we know about worrying new Honda F1 reliability issue</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452387_HiRes.jpg</image:loc>
-      <image:title>What we know about worrying new Honda F1 reliability issue</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/its-that-time-again-honda-needs-to-roll-out-an-electric-super-cub/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T11:40:00+00:00</news:publication_date>
-      <news:title>It&#x27;s that time again</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/honda-super-cub-header.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>It&#x27;s that time again</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-genesis-gv90-luxury-suv-patented-in-india-launch-in-2027/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T11:12:26+00:00</news:publication_date>
-      <news:title>Hyundai Genesis GV90 Luxury SUV Patented In India - Launch In 2027?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hyundai-genesis-gv90-patented-in-india-1.jpg</image:loc>
-      <image:title>Hyundai Genesis GV90 Luxury SUV Patented In India - Launch In 2027?</image:title>
     </image:image>
   </url>
 </urlset>

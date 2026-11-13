@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-13T09:47:12Z</lastmod>
+    <lastmod>2026-11-13T13:58:30Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-13T09:47:12Z</lastmod>
+    <lastmod>2026-11-13T13:58:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-13T09:47:12Z</lastmod>
+    <lastmod>2026-11-13T13:58:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-13T09:47:12Z</lastmod>
+    <lastmod>2026-11-13T13:58:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-13T09:47:12Z</lastmod>
+    <lastmod>2026-11-13T13:58:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-13T09:47:12Z</lastmod>
+    <lastmod>2026-11-13T13:58:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/review-engwes-m20-30-is-a-60v-super73-killer-at-a-fraction-of-the/</loc>
+    <lastmod>2026-11-13T13:32:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_118833.png?w=1442</image:loc>
+      <image:title>Review: Engwe&#x27;s M20 3.0 is a 60V Super73 killer at a fraction of the price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/review-engwes-m20-30-is-a-60v-super73-killer-at-a-fraction-of-the/</loc>
+    <lastmod>2026-11-13T13:32:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_118833.png?w=1442</image:loc>
+      <image:title>Review: Engwe&#x27;s M20 3.0 is a 60V Super73 killer at a fraction of the price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/</loc>
+    <lastmod>2026-11-13T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/l-intro-1794501059.jpg</image:loc>
+      <image:title>At $2,600, Is This 1999 Ford Expedition XLT Worth The Trek?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/</loc>
+    <lastmod>2026-11-13T13:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/l-intro-1794501059.jpg</image:loc>
+      <image:title>At $2,600, Is This 1999 Ford Expedition XLT Worth The Trek?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/</loc>
+    <lastmod>2026-11-13T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/l-intro-1794550355.jpg</image:loc>
+      <image:title>Honda Previews All-New CR-V As It Transitions To 100% Hybrid Power</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/</loc>
+    <lastmod>2026-11-13T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/l-intro-1794550355.jpg</image:loc>
+      <image:title>Honda Previews All-New CR-V As It Transitions To 100% Hybrid Power</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-hero-street-fighter-bike-spied-testing-electric-vida-ubx/</loc>
+    <lastmod>2026-11-13T12:31:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-ubx-spied-testing.jpg</image:loc>
+      <image:title>New Hero Street Fighter Bike Spied Testing - Electric Vida UBX?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-hero-street-fighter-bike-spied-testing-electric-vida-ubx/</loc>
+    <lastmod>2026-11-13T12:31:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-ubx-spied-testing.jpg</image:loc>
+      <image:title>New Hero Street Fighter Bike Spied Testing - Electric Vida UBX?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-madrid-f1-races-economic-impact-compares-to-barcelonas/</loc>
+    <lastmod>2026-11-13T11:24:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1436818_HiRes.jpg</image:loc>
+      <image:title>How Madrid F1 race&#x27;s economic impact compares to Barcelona&#x27;s</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-madrid-f1-races-economic-impact-compares-to-barcelonas/</loc>
+    <lastmod>2026-11-13T11:24:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1436818_HiRes.jpg</image:loc>
+      <image:title>How Madrid F1 race&#x27;s economic impact compares to Barcelona&#x27;s</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/next-gen-audi-rs6-avant-coming-to-the-us-report/</loc>
+    <lastmod>2026-11-13T11:13:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/next-gen-audi-rs6-avant-coming-to-the-us-report/l-intro-1794568098.jpg</image:loc>
+      <image:title>Next-Gen Audi RS6 Avant Coming To The US: Report</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/next-gen-audi-rs6-avant-coming-to-the-us-report/</loc>
+    <lastmod>2026-11-13T11:13:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/next-gen-audi-rs6-avant-coming-to-the-us-report/l-intro-1794568098.jpg</image:loc>
+      <image:title>Next-Gen Audi RS6 Avant Coming To The US: Report</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in/</loc>
+    <lastmod>2026-11-13T10:38:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in-sight/l-intro-1794566136.jpg</image:loc>
+      <image:title>Koenigsegg Bids Farewell To The Jesko With No Direct Successor In Sight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in/</loc>
+    <lastmod>2026-11-13T10:38:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in-sight/l-intro-1794566136.jpg</image:loc>
+      <image:title>Koenigsegg Bids Farewell To The Jesko With No Direct Successor In Sight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-n/</loc>
+    <lastmod>2026-11-13T10:04:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/0o5AwKwY/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
+      <image:title>The Antonelli you don&#x27;t know: Inside the Mercedes garage with F1&#x27;s new world champion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-n/</loc>
+    <lastmod>2026-11-13T10:04:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-5.motorsport.com/images/amp/0o5AwKwY/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
+      <image:title>The Antonelli you don&#x27;t know: Inside the Mercedes garage with F1&#x27;s new world champion</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/ultra-wide-r32-and-r34-gt-rs-bring-back-nfs-underground-nostalgia/</loc>
@@ -115,6 +275,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/261108_R20_BRAZIL_DP_FGO08149_05ba8680-c2fd-4e37-a8aa-17dbaf7a4ddb.jpg</image:loc>
       <image:title>Ferrari&#x27;s Leclerc-Hamilton problem is far from solved</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-aiming-10k-sales-per-month-for-first-suv-based-on-nu-iq-/</loc>
+    <lastmod>2026-11-13T06:26:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/08/Mahindra-Vision-S-Interiors-17.jpeg</image:loc>
+      <image:title>Mahindra Aiming 10k Sales Per Month For First SUV Based On NU_IQ - Vision S?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-aiming-10k-sales-per-month-for-first-suv-based-on-nu-iq-/</loc>
+    <lastmod>2026-11-13T06:26:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/08/Mahindra-Vision-S-Interiors-17.jpeg</image:loc>
+      <image:title>Mahindra Aiming 10k Sales Per Month For First SUV Based On NU_IQ - Vision S?</image:title>
     </image:image>
   </url>
   <url>
@@ -2855,186 +3035,6 @@
     <image:image>
       <image:loc>https://cdn-3.motorsport.com/images/amp/Y9lNzqb2/s6/oscar-piastri-mclaren-2.jpg</image:loc>
       <image:title>What the Brazilian GP revealed about F1&#x27;s ability to cope with rain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/f1s-divisive-wet-weather-tyres-to-change-in-2027/</loc>
-    <lastmod>2026-11-11T07:41:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-07-11-26-9011.jpg</image:loc>
-      <image:title>F1&#x27;s divisive wet weather tyres to change in 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/f1s-divisive-wet-weather-tyres-to-change-in-2027/</loc>
-    <lastmod>2026-11-11T07:41:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-07-11-26-9011.jpg</image:loc>
-      <image:title>F1&#x27;s divisive wet weather tyres to change in 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/india-made-renault-kiger-improves-safety-rating-4-star-gncap/</loc>
-    <lastmod>2026-11-11T06:35:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-renault-kiger-facelift-global-ncap-crash-test-5.jpg</image:loc>
-      <image:title>India-Made Renault Kiger Improves Safety Rating</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/india-made-renault-kiger-improves-safety-rating-4-star-gncap/</loc>
-    <lastmod>2026-11-11T06:35:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-renault-kiger-facelift-global-ncap-crash-test-5.jpg</image:loc>
-      <image:title>India-Made Renault Kiger Improves Safety Rating</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-10-cars-oct-2026-wagonr-brezza-nexon-baleno-dzire-ertiga-punc/</loc>
-    <lastmod>2026-11-11T05:39:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2023/07/maruti-suzuki-wagonr-features-deleted-cover.jpeg</image:loc>
-      <image:title>Top 10 Cars Oct 2026 - WagonR, Brezza, Nexon, Baleno, Dzire, Ertiga, Punch, Scorpio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/top-10-cars-oct-2026-wagonr-brezza-nexon-baleno-dzire-ertiga-punc/</loc>
-    <lastmod>2026-11-11T05:39:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2023/07/maruti-suzuki-wagonr-features-deleted-cover.jpeg</image:loc>
-      <image:title>Top 10 Cars Oct 2026 - WagonR, Brezza, Nexon, Baleno, Dzire, Ertiga, Punch, Scorpio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-commercial-vehicle-sales-rise-68-in-october/</loc>
-    <lastmod>2026-11-11T04:53:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/BYD-commercial-vehicle-options.png</image:loc>
-      <image:title>BYD Commercial Vehicle Sales Rise 68% in October!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-commercial-vehicle-sales-rise-68-in-october/</loc>
-    <lastmod>2026-11-11T04:53:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/BYD-commercial-vehicle-options.png</image:loc>
-      <image:title>BYD Commercial Vehicle Sales Rise 68% in October!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-robotaxis-extend-into-san-antonio/</loc>
-    <lastmod>2026-11-11T04:53:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/Robotaxi-Own-An-Autonomous-Fleet-1.jpg</image:loc>
-      <image:title>Tesla Robotaxis Extend into San Antonio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-robotaxis-extend-into-san-antonio/</loc>
-    <lastmod>2026-11-11T04:53:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/09/Robotaxi-Own-An-Autonomous-Fleet-1.jpg</image:loc>
-      <image:title>Tesla Robotaxis Extend into San Antonio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-bev-sales-soar-while-its-phev-sales-slide/</loc>
-    <lastmod>2026-11-11T04:50:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/BYD-BEV-Sales-Oct-2026.png</image:loc>
-      <image:title>BYD&#x27;s BEV Sales Soar While Its PHEV Sales Slide</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byds-bev-sales-soar-while-its-phev-sales-slide/</loc>
-    <lastmod>2026-11-11T04:50:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/BYD-BEV-Sales-Oct-2026.png</image:loc>
-      <image:title>BYD&#x27;s BEV Sales Soar While Its PHEV Sales Slide</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/trump-administration-continues-systematic-dismantling-of-public-l/</loc>
-    <lastmod>2026-11-11T04:47:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/08/National-Park-pexels-nunzg.jpg</image:loc>
-      <image:title>Trump Administration Continues Systematic Dismantling of Public Lands</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/trump-administration-continues-systematic-dismantling-of-public-l/</loc>
-    <lastmod>2026-11-11T04:47:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/08/National-Park-pexels-nunzg.jpg</image:loc>
-      <image:title>Trump Administration Continues Systematic Dismantling of Public Lands</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminati/</loc>
-    <lastmod>2026-11-11T04:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminating-against-disabled-riders/l-intro-1794339280.jpg</image:loc>
-      <image:title>DOJ Slaps Lyft With $53 Million Lawsuit For Allegedly Discriminating Against Disabled Riders</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminati/</loc>
-    <lastmod>2026-11-11T04:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/doj-slaps-lyft-with-53-million-lawsuit-for-allegedly-discriminating-against-disabled-riders/l-intro-1794339280.jpg</image:loc>
-      <image:title>DOJ Slaps Lyft With $53 Million Lawsuit For Allegedly Discriminating Against Disabled Riders</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hero-vida-nex-3-electric-car-patented-with-gullwing-door/</loc>
-    <lastmod>2026-11-11T03:53:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-nex-3-patented-in-india-cover.jpg</image:loc>
-      <image:title>Hero Vida NEX 3 Electric Car Patented With Gullwing Door</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hero-vida-nex-3-electric-car-patented-with-gullwing-door/</loc>
-    <lastmod>2026-11-11T03:53:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-nex-3-patented-in-india-cover.jpg</image:loc>
-      <image:title>Hero Vida NEX 3 Electric Car Patented With Gullwing Door</image:title>
     </image:image>
   </url>
 </urlset>
