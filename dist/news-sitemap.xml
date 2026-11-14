@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/royal-enfield-posts-highest-ever-quarterly-bike-sales-with-376-la/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T02:30:05+00:00</news:publication_date>
+      <news:title>Royal Enfield Posts Highest Ever Quarterly Bike Sales With 3.76 Lakh+ Units</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/royal-enfield-himalayan-440.jpg</image:loc>
+      <image:title>Royal Enfield Posts Highest Ever Quarterly Bike Sales With 3.76 Lakh+ Units</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-cybercab-orders-open-at-29990-299mo-only-in-robotaxi-zones/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T02:11:39+00:00</news:publication_date>
+      <news:title>Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/10-reasons-for-the-big-blue-wave/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T01:10:23+00:00</news:publication_date>
+      <news:title>10 Reasons for the Big Blue Wave</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Blue-Tsunami-2026-US-Midterm-Election.png</image:loc>
+      <image:title>10 Reasons for the Big Blue Wave</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rinnais-new-heat-pump-water-heaters-get-smarter-and-easier-to-ins/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T00:53:37+00:00</news:publication_date>
+      <news:title>Rinnai&#x27;s new heat pump water heaters get smarter</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/3583_Rinnai_REHP_Storage_0000.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Rinnai&#x27;s new heat pump water heaters get smarter</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/hydropower-generation-in-the-southwest-fell-to-record-lows-this-s/</loc>
     <news:news>
       <news:publication>
@@ -30,6 +90,21 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/john-hennessey-says-the-blackbird-is-about-much-more-than-big-numbers/l-intro-1794602449.jpg</image:loc>
       <image:title>John Hennessey Says The Blackbird Is About Much More Than Big Numbers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-isnt-a-new-ducati-its-actually-a-chinese-superbike/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T22:42:30+00:00</news:publication_date>
+      <news:title>This Isn&#x27;t A New Ducati, It&#x27;s Actually A Chinese Superbike</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/this-isnt-a-new-ducati-its-actually-a-chinese-superbike/l-intro-1794609567.jpg</image:loc>
+      <image:title>This Isn&#x27;t A New Ducati, It&#x27;s Actually A Chinese Superbike</image:title>
     </image:image>
   </url>
   <url>
@@ -90,6 +165,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
       <image:title>Volkswagen may have just hinted at the name of its next affordable EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/next-gen-lotus-esprit-packs-a-986-hp-twin-turbo-v8-hybrid-punch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T21:53:50+00:00</news:publication_date>
+      <news:title>Next-Gen Lotus Esprit Packs A 986+ HP Twin-Turbo V8 Hybrid Punch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/heres-the-v8-thatll-power-the-986-hp-lotus-esprit/l-intro-1794606807.jpg</image:loc>
+      <image:title>Next-Gen Lotus Esprit Packs A 986+ HP Twin-Turbo V8 Hybrid Punch</image:title>
     </image:image>
   </url>
   <url>
@@ -165,6 +255,36 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/how-the-developers-of-007-first-light-nailed-the-feeling-of-being-james-bond-through-its-cars-and-vehicles/l-intro-1794603578.jpg</image:loc>
       <image:title>How The Developers Of &#x27;007 First Light&#x27; Nailed The Feeling Of Being James Bond Through Its Cars And Vehicles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/you-can-buy-a-plymouth-superbird-that-once-went-220-mph/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T21:00:00+00:00</news:publication_date>
+      <news:title>You Can Buy A Plymouth Superbird That Once Went 220 MPH</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/you-can-buy-a-plymouth-superbird-that-once-went-220-mph/l-intro-1794299994.jpg</image:loc>
+      <image:title>You Can Buy A Plymouth Superbird That Once Went 220 MPH</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/worst-possible-news-cybertruck-fans-melt-down-after-tesla-cancels/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T20:56:46+00:00</news:publication_date>
+      <news:title>Worst Possible News&#x27;: Cybertruck Fans Melt Down After Tesla Cancels Its Wheeled Electric Dumpster</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/worst-possible-news-cybertruck-fans-melt-down-after-tesla-cancels-its-wheeled-electric-dumpster/l-intro-1794603321.jpg</image:loc>
+      <image:title>Worst Possible News&#x27;: Cybertruck Fans Melt Down After Tesla Cancels Its Wheeled Electric Dumpster</image:title>
     </image:image>
   </url>
   <url>
@@ -300,6 +420,36 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/f44705d1-9439-4417-9624-fd0b3f9a08d3.jpg?crop=0.477xw:0.358xh;0.154xw,0.275xh&amp;resize=1200:*</image:loc>
       <image:title>2027 Acura Integra Type S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/view-photos-of-the-2027-acura-integra-type-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T17:37:18+00:00</news:publication_date>
+      <news:title>First Look: The 2027 Acura Integra Type S Revealed In Stunning Detail</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7aa61686-dca4-45f6-a060-3c0ab95333f6.jpg</image:loc>
+      <image:title>First Look: The 2027 Acura Integra Type S Revealed In Stunning Detail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rimac-is-reportedly-ending-nevera-production-after-selling-just-7/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T17:30:00+00:00</news:publication_date>
+      <news:title>Rimac Is Reportedly Ending Nevera Production After Selling Just 71 Cars</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/nevera-time-attack-8-64dfbd9801268.jpg</image:loc>
+      <image:title>Rimac Is Reportedly Ending Nevera Production After Selling Just 71 Cars</image:title>
     </image:image>
   </url>
   <url>
@@ -798,6 +948,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/5-new-hyundai-suvs-expected-in-india-new-creta-to-off-road-suv/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T04:13:23+00:00</news:publication_date>
+      <news:title>5 New Hyundai SUVs Expected In India - New Creta To Off-Road SUV</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/Hyundai-Boulder-Concept-2.jpg</image:loc>
+      <image:title>5 New Hyundai SUVs Expected In India - New Creta To Off-Road SUV</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/managing-offshore-wind-in-the-face-of-uncertainty/</loc>
     <news:news>
       <news:publication>
@@ -1125,6 +1290,21 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/9fca1e0c-2181-41de-bdea-891b95812995.png</image:loc>
       <image:title>Honda Just Teased a New Hybrid SUV Called the Avancier</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gift-guide-the-absolute-best-gifts-for-car-lovers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T20:27:00+00:00</news:publication_date>
+      <news:title>Gift Guide: The Absolute Best Gifts for Car Lovers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cd-car-lovers-67193b70c53b5.jpg</image:loc>
+      <image:title>Gift Guide: The Absolute Best Gifts for Car Lovers</image:title>
     </image:image>
   </url>
   <url>
@@ -2010,66 +2190,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/yamaha-xenter-e-scooter-debuts-at-eicma-8.jpg</image:loc>
       <image:title>New Yamaha Xenter E Scooter Debuts - 16&quot; Wheels, 108 km Range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/crate-engine-a-brand-new-580-bhp-lamborghini-huracan-gt3-v10/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T02:30:46+00:00</news:publication_date>
-      <news:title>Crate Engine: A Brand New 580 BHP Lamborghini Huracan GT3 V10</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Lamborghini-Huracan-GT3-V10-Crate-Engine-4.jpg</image:loc>
-      <image:title>Crate Engine: A Brand New 580 BHP Lamborghini Huracan GT3 V10</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-india-plans-comeback-with-new-compact-electric-suvs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T02:30:40+00:00</news:publication_date>
-      <news:title>Honda India Plans Comeback With New Compact &amp; Electric SUVs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/06/Honda-0-Alpha.jpg</image:loc>
-      <image:title>Honda India Plans Comeback With New Compact &amp; Electric SUVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T00:01:00+00:00</news:publication_date>
-      <news:title>Europe&#x27;s electric car sales jump 49% as global EV sales grow</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Europe&#x27;s electric car sales jump 49% as global EV sales grow</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/cupras-terramar-vz5-is-getting-the-rs3s-epic-five-cylinder/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T23:49:29+00:00</news:publication_date>
-      <news:title>Cupra&#x27;s Terramar VZ5 Is Getting The RS3&#x27;s Epic Five-Cylinder</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/cupras-terramar-vz5-is-getting-the-rs3s-epic-five-cylinder/l-intro-1794440841.jpg</image:loc>
-      <image:title>Cupra&#x27;s Terramar VZ5 Is Getting The RS3&#x27;s Epic Five-Cylinder</image:title>
     </image:image>
   </url>
 </urlset>
