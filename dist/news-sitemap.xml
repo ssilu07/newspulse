@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/why-some-traffic-lights-have-a-yellow-border/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T18:25:00+00:00</news:publication_date>
+      <news:title>Why Some Traffic Lights Have A Yellow Border</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-some-traffic-lights-have-a-yellow-border/l-intro-1794607802.jpg</image:loc>
+      <image:title>Why Some Traffic Lights Have A Yellow Border</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/study-pinpoints-states-with-steepest-warming-trends-since-1980/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T18:19:27+00:00</news:publication_date>
+      <news:title>Study Pinpoints States with Steepest Warming Trends Since 1980</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Global-heating-across-the-US-states.png</image:loc>
+      <image:title>Study Pinpoints States with Steepest Warming Trends Since 1980</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-5-worst-rebadges-in-automotive-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T18:00:00+00:00</news:publication_date>
+      <news:title>The 5 Worst Rebadges In Automotive History</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-5-worst-rebadges-in-automotive-history/l-intro-1794314235.jpg</image:loc>
+      <image:title>The 5 Worst Rebadges In Automotive History</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/zoox-launches-robotaxis-in-atlanta/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T17:44:08+00:00</news:publication_date>
+      <news:title>Zoox Launches Robotaxis in Atlanta</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Zoox-Robotaxi-Atlanta.jpeg</image:loc>
+      <image:title>Zoox Launches Robotaxis in Atlanta</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/check-your-ego-at-the-door-stellantis-new-electric-dolly-turns-an/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T17:35:39+00:00</news:publication_date>
+      <news:title>Check your ego at the door: Stellantis&#x27; new electric dolly turns ANY car into a tow rig</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/500e_HAUL_MONSTER.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Check your ego at the door: Stellantis&#x27; new electric dolly turns ANY car into a tow rig</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hot-wheels-crowns-a-1979-ss-monte-mino-as-the-2026-legends-winner/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T17:30:00+00:00</news:publication_date>
+      <news:title>Hot Wheels Crowns a 1979 &#x27;SS Monte Mino&#x27; as the 2026 Legends Winner</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2479e4b5-6032-4676-8198-fbe71e7e1871.jpeg</image:loc>
+      <image:title>Hot Wheels Crowns a 1979 &#x27;SS Monte Mino&#x27; as the 2026 Legends Winner</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/is-using-launch-control-hard-on-your-car-especially-if-you-use-it/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T17:25:00+00:00</news:publication_date>
+      <news:title>Is Using Launch Control Hard On Your Car, Especially If You Use It A Lot?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/is-using-launch-control-hard-on-your-car-especially-if-you-use-it-a-lot/l-intro-1793960152.jpg</image:loc>
+      <image:title>Is Using Launch Control Hard On Your Car, Especially If You Use It A Lot?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/diesel-prices-used-to-be-cheaper-than-gas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T17:05:00+00:00</news:publication_date>
+      <news:title>Diesel Prices Used To Be Cheaper Than Gas</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/diesel-prices-used-to-be-cheaper-than-gas-heres-why-that-changed/l-intro-1794587705.jpg</image:loc>
+      <image:title>Diesel Prices Used To Be Cheaper Than Gas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bmw-pays-tribute-to-alex-zanardi-with-a-very-special-m3/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T17:00:00+00:00</news:publication_date>
+      <news:title>BMW Pays Tribute To Alex Zanardi With A Very Special M3</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/bmw-pays-tribute-to-alex-zanardi-with-a-very-special-m3/l-intro-1794420620.jpg</image:loc>
+      <image:title>BMW Pays Tribute To Alex Zanardi With A Very Special M3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-batte/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T16:25:02+00:00</news:publication_date>
+      <news:title>Huawei set to challenge Tesla Powerwall with new, 20 kW home battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/huawei_home-battery.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Huawei set to challenge Tesla Powerwall with new, 20 kW home battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-us-is-auctioning-seabed-near-american-samoa-a-3-million-bid-w/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T16:13:50+00:00</news:publication_date>
+      <news:title>The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/hero.png</image:loc>
+      <image:title>The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/was-the-tesla-roadster-reveal-realistic-engineering-explained-fac/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T16:05:00+00:00</news:publication_date>
+      <news:title>Was The Tesla Roadster Reveal Realistic? Engineering Explained Fact Checked It</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/was-the-tesla-roadster-reveal-realistic-engineering-explained-fact-checked-it/l-intro-1793976928.jpg</image:loc>
+      <image:title>Was The Tesla Roadster Reveal Realistic? Engineering Explained Fact Checked It</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it/</loc>
     <news:news>
       <news:publication>
@@ -348,6 +528,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/hyundai-bayon-hx5-mid-variant-walkaround-most-vfm/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T03:42:51+00:00</news:publication_date>
+      <news:title>Hyundai Bayon HX5 Mid Variant Walkaround - Most VFM?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-bayon-hx5-walkaround-new-10.jpg</image:loc>
+      <image:title>Hyundai Bayon HX5 Mid Variant Walkaround - Most VFM?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ideal-live-anywhere-overlander-conversion-a-1978-steyr-puch-pinzg/</loc>
     <news:news>
       <news:publication>
@@ -375,6 +570,21 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/garbage-cans-pexels-robertkso.jpg</image:loc>
       <image:title>Comparative Cost Analysis for Residential Curbside Organics Collection Programs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-car-sales-breakup-oct-2026-nexon-punch-tiago-sierra-aeris-ha/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T03:14:22+00:00</news:publication_date>
+      <news:title>Tata Car Sales Breakup Oct 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier, Altroz, Curvv, Safari</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/tata-sierra-ev-review-images-2.jpg</image:loc>
+      <image:title>Tata Car Sales Breakup Oct 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier, Altroz, Curvv, Safari</image:title>
     </image:image>
   </url>
   <url>
@@ -1965,141 +2175,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/car-thefts-decrease-dramatically-after-teen-theft-ring-busted-in-maryland/l-intro-1794338512.jpg</image:loc>
       <image:title>Car Thefts Decrease Dramatically After Teen Theft Ring Busted In Maryland</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-just-culled-the-cybertruck-lineup-to-a-single-112k-model/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T18:30:13+00:00</news:publication_date>
-      <news:title>Tesla Just Culled the Cybertruck Lineup to a Single $112K Model</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-tesla-cybertruck-115-65e8945de87ba.jpg</image:loc>
-      <image:title>Tesla Just Culled the Cybertruck Lineup to a Single $112K Model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-new-5-seat-luxury-suv-brings-big-screens-big-range-and-start/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T17:46:48+00:00</news:publication_date>
-      <news:title>BYD&#x27;s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-price.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD&#x27;s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/build-clean-accelerating-affordable-energy-while-advancing-commun/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T17:28:11+00:00</news:publication_date>
-      <news:title>Build Clean: Accelerating Affordable Energy While Advancing Community and Environmental Stewardship</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Build Clean: Accelerating Affordable Energy While Advancing Community and Environmental Stewardship</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T17:17:58+00:00</news:publication_date>
-      <news:title>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1600,1067</image:loc>
-      <image:title>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jeep-just-got-into-the-retro-gaming-groove-with-moab-run/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T17:00:00+00:00</news:publication_date>
-      <news:title>Jeep Just Got into the Retro-Gaming Groove with &#x27;Moab Run</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/155f11c0-7c91-435e-a433-13f41f39219a.jpg</image:loc>
-      <image:title>Jeep Just Got into the Retro-Gaming Groove with &#x27;Moab Run</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/there-will-never-be-another-purple-mercedes-sl-55-quite-like-this/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T16:50:46+00:00</news:publication_date>
-      <news:title>There Will Never Be Another Purple Mercedes SL 55 Quite Like This One</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/there-will-never-be-another-purple-mercedes-sl-55-quite-like-this-one/l-intro-1794502095.jpg</image:loc>
-      <image:title>There Will Never Be Another Purple Mercedes SL 55 Quite Like This One</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hearing-set-for-audi-appeal-against-rival/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T16:30:27+00:00</news:publication_date>
-      <news:title>Hearing set for Audi appeal against rival</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1434343_HiRes.jpg</image:loc>
-      <image:title>Hearing set for Audi appeal against rival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-ford-bronco-raptor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T16:24:26+00:00</news:publication_date>
-      <news:title>2027 Ford Bronco Raptor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2022-20ford-20bronco-20raptor-off-road-hot-20pepper-20red-01-68a77418df01f.jpg?crop=0.547xw:0.453xh;0.317xw,0.280xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Ford Bronco Raptor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/a-bmw-i3-spent-less-than-3-hours-charging-on-a-3658-mile-road-tri/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T16:21:59+00:00</news:publication_date>
-      <news:title>A BMW i3 Spent Less Than 3 Hours Charging On A 3,658-Mile Road Trip, Is That Fast Enough For You?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/a-bmw-i3-spent-less-than-3-hours-charging-on-a-3658-mile-road-trip-is-that-fast-enough-for-you/l-intro-1794499831.jpg</image:loc>
-      <image:title>A BMW i3 Spent Less Than 3 Hours Charging On A 3,658-Mile Road Trip, Is That Fast Enough For You?</image:title>
     </image:image>
   </url>
 </urlset>
