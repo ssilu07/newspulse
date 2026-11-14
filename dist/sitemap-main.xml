@@ -3,39 +3,239 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-14T18:53:02Z</lastmod>
+    <lastmod>2026-11-14T22:35:09Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-14T18:53:02Z</lastmod>
+    <lastmod>2026-11-14T22:35:09Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-14T18:53:02Z</lastmod>
+    <lastmod>2026-11-14T22:35:09Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-14T18:53:02Z</lastmod>
+    <lastmod>2026-11-14T22:35:09Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-14T18:53:02Z</lastmod>
+    <lastmod>2026-11-14T22:35:09Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-14T18:53:02Z</lastmod>
+    <lastmod>2026-11-14T22:35:09Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/</loc>
+    <lastmod>2026-11-14T22:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/l-intro-1794507246.jpg</image:loc>
+      <image:title>SpaceX&#x27;s Rivals Are Already Filling The Void Left By Falcon 9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/</loc>
+    <lastmod>2026-11-14T22:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/l-intro-1794507246.jpg</image:loc>
+      <image:title>SpaceX&#x27;s Rivals Are Already Filling The Void Left By Falcon 9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/9-cheaper-alternatives-to-the-toyota-land-cruiser/</loc>
+    <lastmod>2026-11-14T21:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/9-cheaper-alternatives-to-the-toyota-land-cruiser/l-intro-1794345198.jpg</image:loc>
+      <image:title>9 Cheaper Alternatives To The Toyota Land Cruiser</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/9-cheaper-alternatives-to-the-toyota-land-cruiser/</loc>
+    <lastmod>2026-11-14T21:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/9-cheaper-alternatives-to-the-toyota-land-cruiser/l-intro-1794345198.jpg</image:loc>
+      <image:title>9 Cheaper Alternatives To The Toyota Land Cruiser</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/fabric-molds-could-bring-material-saving-concrete-beams-within-re/</loc>
+    <lastmod>2026-11-14T21:06:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/concrete-beam-half-as-much-steel.jpg</image:loc>
+      <image:title>Fabric Molds Could Bring Material-Saving Concrete Beams Within Reach</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/fabric-molds-could-bring-material-saving-concrete-beams-within-re/</loc>
+    <lastmod>2026-11-14T21:06:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/concrete-beam-half-as-much-steel.jpg</image:loc>
+      <image:title>Fabric Molds Could Bring Material-Saving Concrete Beams Within Reach</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-wort/</loc>
+    <lastmod>2026-11-14T21:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-worth-today/l-intro-1793733430.jpg</image:loc>
+      <image:title>7 Of The Rarest Fox Body Mustangs Ever Built And What They&#x27;re Worth Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-wort/</loc>
+    <lastmod>2026-11-14T21:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-worth-today/l-intro-1793733430.jpg</image:loc>
+      <image:title>7 Of The Rarest Fox Body Mustangs Ever Built And What They&#x27;re Worth Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/is-it-true-that-turbo-engines-need-oil-changes-more-often/</loc>
+    <lastmod>2026-11-14T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/is-it-true-that-turbo-engines-need-oil-changes-more-often/l-intro-1794335663.jpg</image:loc>
+      <image:title>Is It True That Turbo Engines Need Oil Changes More Often?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/is-it-true-that-turbo-engines-need-oil-changes-more-often/</loc>
+    <lastmod>2026-11-14T21:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/is-it-true-that-turbo-engines-need-oil-changes-more-often/l-intro-1794335663.jpg</image:loc>
+      <image:title>Is It True That Turbo Engines Need Oil Changes More Often?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-some-cars-will-have-more-physical-buttons-in-the-near-future/</loc>
+    <lastmod>2026-11-14T20:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-some-cars-will-have-more-physical-buttons-in-the-near-future/l-intro-1793817075.jpg</image:loc>
+      <image:title>Why Some Cars Will Have More Physical Buttons In The Near Future</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-some-cars-will-have-more-physical-buttons-in-the-near-future/</loc>
+    <lastmod>2026-11-14T20:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/why-some-cars-will-have-more-physical-buttons-in-the-near-future/l-intro-1793817075.jpg</image:loc>
+      <image:title>Why Some Cars Will Have More Physical Buttons In The Near Future</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restric/</loc>
+    <lastmod>2026-11-14T20:04:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834</image:loc>
+      <image:title>Tesla opens Cybercab pre-orders &#x27;for personal use,&#x27; with geo restrictions and a $299 monthly fee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restric/</loc>
+    <lastmod>2026-11-14T20:04:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834</image:loc>
+      <image:title>Tesla opens Cybercab pre-orders &#x27;for personal use,&#x27; with geo restrictions and a $299 monthly fee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/do-you-really-need-to-change-your-oil-every-5000-miles/</loc>
+    <lastmod>2026-11-14T20:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/do-you-really-need-to-change-your-oil-every-5000-miles/l-intro-1794432867.jpg</image:loc>
+      <image:title>Do You Really Need To Change Your Oil Every 5,000 Miles?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/do-you-really-need-to-change-your-oil-every-5000-miles/</loc>
+    <lastmod>2026-11-14T20:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/do-you-really-need-to-change-your-oil-every-5000-miles/l-intro-1794432867.jpg</image:loc>
+      <image:title>Do You Really Need To Change Your Oil Every 5,000 Miles?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ai-businesses-still-bleeding-billions/</loc>
+    <lastmod>2026-11-14T19:08:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
+      <image:title>AI Businesses Still Bleeding Billions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ai-businesses-still-bleeding-billions/</loc>
+    <lastmod>2026-11-14T19:08:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
+      <image:title>AI Businesses Still Bleeding Billions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt/</loc>
+    <lastmod>2026-11-14T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt-driven/l-intro-1794427747.jpg</image:loc>
+      <image:title>How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt/</loc>
+    <lastmod>2026-11-14T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt-driven/l-intro-1794427747.jpg</image:loc>
+      <image:title>How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/why-some-traffic-lights-have-a-yellow-border/</loc>
@@ -275,6 +475,26 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/was-the-tesla-roadster-reveal-realistic-engineering-explained-fact-checked-it/l-intro-1793976928.jpg</image:loc>
       <image:title>Was The Tesla Roadster Reveal Realistic? Engineering Explained Fact Checked It</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-do-all-the-flags-mean-in-racing/</loc>
+    <lastmod>2026-11-14T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/what-do-all-the-flags-mean-in-racing/l-intro-1794349066.jpg</image:loc>
+      <image:title>What Do All The Flags Mean In Racing?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-do-all-the-flags-mean-in-racing/</loc>
+    <lastmod>2026-11-14T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/what-do-all-the-flags-mean-in-racing/l-intro-1794349066.jpg</image:loc>
+      <image:title>What Do All The Flags Mean In Racing?</image:title>
     </image:image>
   </url>
   <url>
@@ -518,6 +738,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/mahindra-plans-capacity-for-10000-units-a-month-for-its-first-nu-/</loc>
+    <lastmod>2026-11-14T11:30:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Mahindra-Vision-S-14.jpg</image:loc>
+      <image:title>Mahindra Plans Capacity For 10,000 Units A Month For Its First NU_IQ SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-plans-capacity-for-10000-units-a-month-for-its-first-nu-/</loc>
+    <lastmod>2026-11-14T11:30:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Mahindra-Vision-S-14.jpg</image:loc>
+      <image:title>Mahindra Plans Capacity For 10,000 Units A Month For Its First NU_IQ SUV</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bandit-tow-companies-are-scamming-people-in-california-and-beyond/</loc>
     <lastmod>2026-11-14T10:25:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -575,6 +815,26 @@
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1454062_HiRes.jpg</image:loc>
       <image:title>ADUO for teams&#x27; plan to be discussed by F1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-october-2026-sales-analysis-seltos-sonet-carens-sorento-syros/</loc>
+    <lastmod>2026-11-14T08:30:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/12/New-Kia-Seltos-2-1.jpg</image:loc>
+      <image:title>Kia October 2026 Sales Analysis - Seltos, Sonet, Carens, Sorento, Syros</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-october-2026-sales-analysis-seltos-sonet-carens-sorento-syros/</loc>
+    <lastmod>2026-11-14T08:30:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/12/New-Kia-Seltos-2-1.jpg</image:loc>
+      <image:title>Kia October 2026 Sales Analysis - Seltos, Sonet, Carens, Sorento, Syros</image:title>
     </image:image>
   </url>
   <url>
@@ -2775,266 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/quantumscape-ev-battery.png</image:loc>
       <image:title>QuantumScape Has An Osprey Up Its Solid-State EV Battery Sleeve</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/scouts-new-truck-and-suv-are-another-step-closer-to-reality/</loc>
-    <lastmod>2026-11-12T20:10:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/scout-terra-and-traveler-concepts-1-671a962195ac2.jpg</image:loc>
-      <image:title>Scout&#x27;s New Truck and SUV Are Another Step Closer to Reality</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/scouts-new-truck-and-suv-are-another-step-closer-to-reality/</loc>
-    <lastmod>2026-11-12T20:10:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/scout-terra-and-traveler-concepts-1-671a962195ac2.jpg</image:loc>
-      <image:title>Scout&#x27;s New Truck and SUV Are Another Step Closer to Reality</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/987-hp-audi-nuvolari-coming-to-the-us-in-2028-for-700000/</loc>
-    <lastmod>2026-11-12T19:56:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/987-hp-audi-nuvolari-coming-to-the-us-in-2028-for-700000/l-intro-1794513165.jpg</image:loc>
-      <image:title>987-HP Audi Nuvolari Coming To The US In 2028 For $700,000</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/987-hp-audi-nuvolari-coming-to-the-us-in-2028-for-700000/</loc>
-    <lastmod>2026-11-12T19:56:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/987-hp-audi-nuvolari-coming-to-the-us-in-2028-for-700000/l-intro-1794513165.jpg</image:loc>
-      <image:title>987-HP Audi Nuvolari Coming To The US In 2028 For $700,000</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-exterior-photos-of-the-2026-lexus-es-hybrid/</loc>
-    <lastmod>2026-11-12T19:49:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/8c8537ee-afa0-43c0-893d-94b422b47bc2.jpg</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2026 Lexus ES Hybrid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-exterior-photos-of-the-2026-lexus-es-hybrid/</loc>
-    <lastmod>2026-11-12T19:49:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/8c8537ee-afa0-43c0-893d-94b422b47bc2.jpg</image:loc>
-      <image:title>First Look: Aggressive Exterior Styling Of The 2026 Lexus ES Hybrid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-interior-photos-of-the-2026-lexus-es-hybrid/</loc>
-    <lastmod>2026-11-12T19:49:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/937db000-e8f3-4908-b270-a464a13e5566.jpg</image:loc>
-      <image:title>First Look Inside: The 2026 Lexus ES Hybrid Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-interior-photos-of-the-2026-lexus-es-hybrid/</loc>
-    <lastmod>2026-11-12T19:49:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/937db000-e8f3-4908-b270-a464a13e5566.jpg</image:loc>
-      <image:title>First Look Inside: The 2026 Lexus ES Hybrid Cabin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tested-the-2026-lexus-es-hybrid-evolves-but-it-has-a-familiar-fee/</loc>
-    <lastmod>2026-11-12T19:49:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/558bae60-0c9f-43a0-a013-518028910941.jpg</image:loc>
-      <image:title>Tested: The 2026 Lexus ES Hybrid Evolves, but It Has a Familiar Feel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tested-the-2026-lexus-es-hybrid-evolves-but-it-has-a-familiar-fee/</loc>
-    <lastmod>2026-11-12T19:49:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/558bae60-0c9f-43a0-a013-518028910941.jpg</image:loc>
-      <image:title>Tested: The 2026 Lexus ES Hybrid Evolves, but It Has a Familiar Feel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-is-giving-the-ev5-an-update-and-leaked-images-show-whats-next/</loc>
-    <lastmod>2026-11-12T19:39:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV5-update-image.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Kia is giving the EV5 an update, and leaked images show what&#x27;s next</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/kia-is-giving-the-ev5-an-update-and-leaked-images-show-whats-next/</loc>
-    <lastmod>2026-11-12T19:39:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV5-update-image.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Kia is giving the EV5 an update, and leaked images show what&#x27;s next</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/i-have-a-100-mile-commute-through-mountain-roads-what-car-should-/</loc>
-    <lastmod>2026-11-12T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/i-have-a-100-mile-commute-through-mountain-roads-what-car-should-i-buy/l-intro-1794501936.jpg</image:loc>
-      <image:title>I Have A 100 Mile Commute Through Mountain Roads! What Car Should I Buy?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/i-have-a-100-mile-commute-through-mountain-roads-what-car-should-/</loc>
-    <lastmod>2026-11-12T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/i-have-a-100-mile-commute-through-mountain-roads-what-car-should-i-buy/l-intro-1794501936.jpg</image:loc>
-      <image:title>I Have A 100 Mile Commute Through Mountain Roads! What Car Should I Buy?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/car-thefts-decrease-dramatically-after-teen-theft-ring-busted-in-/</loc>
-    <lastmod>2026-11-12T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/car-thefts-decrease-dramatically-after-teen-theft-ring-busted-in-maryland/l-intro-1794338512.jpg</image:loc>
-      <image:title>Car Thefts Decrease Dramatically After Teen Theft Ring Busted In Maryland</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/car-thefts-decrease-dramatically-after-teen-theft-ring-busted-in-/</loc>
-    <lastmod>2026-11-12T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/car-thefts-decrease-dramatically-after-teen-theft-ring-busted-in-maryland/l-intro-1794338512.jpg</image:loc>
-      <image:title>Car Thefts Decrease Dramatically After Teen Theft Ring Busted In Maryland</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-just-culled-the-cybertruck-lineup-to-a-single-112k-model/</loc>
-    <lastmod>2026-11-12T18:30:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-tesla-cybertruck-115-65e8945de87ba.jpg</image:loc>
-      <image:title>Tesla Just Culled the Cybertruck Lineup to a Single $112K Model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-just-culled-the-cybertruck-lineup-to-a-single-112k-model/</loc>
-    <lastmod>2026-11-12T18:30:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2024-tesla-cybertruck-115-65e8945de87ba.jpg</image:loc>
-      <image:title>Tesla Just Culled the Cybertruck Lineup to a Single $112K Model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-new-5-seat-luxury-suv-brings-big-screens-big-range-and-start/</loc>
-    <lastmod>2026-11-12T17:46:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-price.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD&#x27;s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byds-new-5-seat-luxury-suv-brings-big-screens-big-range-and-start/</loc>
-    <lastmod>2026-11-12T17:46:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-price.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD&#x27;s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/build-clean-accelerating-affordable-energy-while-advancing-commun/</loc>
-    <lastmod>2026-11-12T17:28:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Build Clean: Accelerating Affordable Energy While Advancing Community and Environmental Stewardship</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/build-clean-accelerating-affordable-energy-while-advancing-commun/</loc>
-    <lastmod>2026-11-12T17:28:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Rooftop-Solar-Power-Clean-Energy-Microgrid-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Build Clean: Accelerating Affordable Energy While Advancing Community and Environmental Stewardship</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybe/</loc>
-    <lastmod>2026-11-12T17:17:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1600,1067</image:loc>
-      <image:title>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybe/</loc>
-    <lastmod>2026-11-12T17:17:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1600,1067</image:loc>
-      <image:title>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jeep-just-got-into-the-retro-gaming-groove-with-moab-run/</loc>
-    <lastmod>2026-11-12T17:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/155f11c0-7c91-435e-a433-13f41f39219a.jpg</image:loc>
-      <image:title>Jeep Just Got into the Retro-Gaming Groove with &#x27;Moab Run</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jeep-just-got-into-the-retro-gaming-groove-with-moab-run/</loc>
-    <lastmod>2026-11-12T17:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/155f11c0-7c91-435e-a433-13f41f39219a.jpg</image:loc>
-      <image:title>Jeep Just Got into the Retro-Gaming Groove with &#x27;Moab Run</image:title>
     </image:image>
   </url>
 </urlset>
