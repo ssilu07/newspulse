@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-15T09:39:11Z</lastmod>
+    <lastmod>2026-11-15T13:28:30Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-15T09:39:11Z</lastmod>
+    <lastmod>2026-11-15T13:28:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-15T09:39:11Z</lastmod>
+    <lastmod>2026-11-15T13:28:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-15T09:39:11Z</lastmod>
+    <lastmod>2026-11-15T13:28:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-15T09:39:11Z</lastmod>
+    <lastmod>2026-11-15T13:28:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-15T09:39:11Z</lastmod>
+    <lastmod>2026-11-15T13:28:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/retaining-lawson-isnt-enough-red-bull-must-stop-treating-him-like/</loc>
+    <lastmod>2026-11-15T13:08:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/YP743Le2/s6/liam-lawson-red-bull-2.jpg</image:loc>
+      <image:title>Retaining Lawson isn&#x27;t enough</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/retaining-lawson-isnt-enough-red-bull-must-stop-treating-him-like/</loc>
+    <lastmod>2026-11-15T13:08:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/YP743Le2/s6/liam-lawson-red-bull-2.jpg</image:loc>
+      <image:title>Retaining Lawson isn&#x27;t enough</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-generations-of-the-chevy-impala-ss-ranked-from-best-to-worst-ho/</loc>
+    <lastmod>2026-11-15T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/5-generations-of-the-chevy-impala-ss-ranked-from-best-to-worst-horsepower-ratings/l-intro-1793889739.jpg</image:loc>
+      <image:title>5 Generations Of The Chevy Impala SS Ranked From Best To Worst Horsepower Ratings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/5-generations-of-the-chevy-impala-ss-ranked-from-best-to-worst-ho/</loc>
+    <lastmod>2026-11-15T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/5-generations-of-the-chevy-impala-ss-ranked-from-best-to-worst-horsepower-ratings/l-intro-1793889739.jpg</image:loc>
+      <image:title>5 Generations Of The Chevy Impala SS Ranked From Best To Worst Horsepower Ratings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/can-directional-tires-be-rotated-from-one-side-to-the-other/</loc>
+    <lastmod>2026-11-15T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/can-directional-tires-be-rotated-from-one-side-to-the-other/l-intro-1794383403.jpg</image:loc>
+      <image:title>Can Directional Tires Be Rotated From One Side To The Other?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/can-directional-tires-be-rotated-from-one-side-to-the-other/</loc>
+    <lastmod>2026-11-15T13:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/can-directional-tires-be-rotated-from-one-side-to-the-other/l-intro-1794383403.jpg</image:loc>
+      <image:title>Can Directional Tires Be Rotated From One Side To The Other?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mini-truck-vs-side-by-side-what-are-the-practical-differences/</loc>
+    <lastmod>2026-11-15T12:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/mini-truck-vs-side-by-side-what-are-the-practical-differences/l-intro-1793804332.jpg</image:loc>
+      <image:title>Mini Truck Vs. Side-By-Side: What Are The Practical Differences?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mini-truck-vs-side-by-side-what-are-the-practical-differences/</loc>
+    <lastmod>2026-11-15T12:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/mini-truck-vs-side-by-side-what-are-the-practical-differences/l-intro-1793804332.jpg</image:loc>
+      <image:title>Mini Truck Vs. Side-By-Side: What Are The Practical Differences?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-test-bed-for-jaguars-xj220-twin-turbo-v6-was-a-ford-transit-v/</loc>
+    <lastmod>2026-11-15T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-test-bed-for-jaguars-xj220-twin-turbo-v6-was-a-ford-transit-van/l-intro-1793741216.jpg</image:loc>
+      <image:title>The Test Bed For Jaguar&#x27;s XJ220 Twin-Turbo V6 Was A Ford Transit Van</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-test-bed-for-jaguars-xj220-twin-turbo-v6-was-a-ford-transit-v/</loc>
+    <lastmod>2026-11-15T10:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-test-bed-for-jaguars-xj220-twin-turbo-v6-was-a-ford-transit-van/l-intro-1793741216.jpg</image:loc>
+      <image:title>The Test Bed For Jaguar&#x27;s XJ220 Twin-Turbo V6 Was A Ford Transit Van</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-tata-nexon-spied-with-big-changes-inside-out/</loc>
+    <lastmod>2026-11-15T10:00:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Tata-Nexon-6.jpg</image:loc>
+      <image:title>2027 Tata Nexon Spied With Big Changes Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-tata-nexon-spied-with-big-changes-inside-out/</loc>
+    <lastmod>2026-11-15T10:00:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Tata-Nexon-6.jpg</image:loc>
+      <image:title>2027 Tata Nexon Spied With Big Changes Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-vinfast-electric-scooter-motorcycle-patented-launch-at-bharat/</loc>
+    <lastmod>2026-11-15T09:51:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-vinfast-electric-scooter-motrocycle-for-india.jpg</image:loc>
+      <image:title>New VinFast Electric Scooter, Motorcycle Patented - Launch At Bharat Auto Expo?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-vinfast-electric-scooter-motorcycle-patented-launch-at-bharat/</loc>
+    <lastmod>2026-11-15T09:51:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-vinfast-electric-scooter-motrocycle-for-india.jpg</image:loc>
+      <image:title>New VinFast Electric Scooter, Motorcycle Patented - Launch At Bharat Auto Expo?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/</loc>
+    <lastmod>2026-11-15T09:39:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/YE9EVzGY/s6/track-action-2.jpg</image:loc>
+      <image:title>Inside Turkey&#x27;s revamp for the return of a modern F1 classic</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/</loc>
+    <lastmod>2026-11-15T09:39:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-1.motorsport.com/images/amp/YE9EVzGY/s6/track-action-2.jpg</image:loc>
+      <image:title>Inside Turkey&#x27;s revamp for the return of a modern F1 classic</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/why-williams-has-turned-sainz-and-albon-into-test-drivers/</loc>
@@ -2875,166 +3035,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/Hyundai-Boulder-Concept-2.jpg</image:loc>
       <image:title>5 New Hyundai SUVs Expected In India - New Creta To Off-Road SUV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/managing-offshore-wind-in-the-face-of-uncertainty/</loc>
-    <lastmod>2026-11-13T04:07:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/Offshore-Wind-Farm-Zach-2-CleanTechnica-watermark.jpeg</image:loc>
-      <image:title>Managing Offshore Wind in the Face of Uncertainty</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/managing-offshore-wind-in-the-face-of-uncertainty/</loc>
-    <lastmod>2026-11-13T04:07:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/Offshore-Wind-Farm-Zach-2-CleanTechnica-watermark.jpeg</image:loc>
-      <image:title>Managing Offshore Wind in the Face of Uncertainty</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-tata-nexon-spied-new-exteriors-interiors-wheels/</loc>
-    <lastmod>2026-11-13T03:33:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/2027-tata-nexon-spied-exteriors-interiors-wheels.jpg</image:loc>
-      <image:title>2027 Tata Nexon Spied - New Exteriors, Interiors, Wheels</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-tata-nexon-spied-new-exteriors-interiors-wheels/</loc>
-    <lastmod>2026-11-13T03:33:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/2027-tata-nexon-spied-exteriors-interiors-wheels.jpg</image:loc>
-      <image:title>2027 Tata Nexon Spied - New Exteriors, Interiors, Wheels</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/senate-republicans-begin-the-process-of-jamming-baaja-while-trump/</loc>
-    <lastmod>2026-11-13T03:30:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Clean-Power-Wind-Energy-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/senate-republicans-begin-the-process-of-jamming-baaja-while-trump/</loc>
-    <lastmod>2026-11-13T03:30:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Clean-Power-Wind-Energy-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hoosiers-call-on-epa-not-to-weaken-coal-ash-rules-at-public-heari/</loc>
-    <lastmod>2026-11-13T03:20:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Fossil-Fuels-Coal-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Hoosiers Call on EPA Not to Weaken Coal Ash Rules at Public Hearing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hoosiers-call-on-epa-not-to-weaken-coal-ash-rules-at-public-heari/</loc>
-    <lastmod>2026-11-13T03:20:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/04/Fossil-Fuels-Coal-CleanTechnica-Watermark.png</image:loc>
-      <image:title>Hoosiers Call on EPA Not to Weaken Coal Ash Rules at Public Hearing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-honda-cr-v-teased-goes-full-hybrid-pure-petrol-discontinued/</loc>
-    <lastmod>2026-11-13T02:52:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/next-gen-honda-cr-v-teased-with-hybrid-only.jpg</image:loc>
-      <image:title>2027 Honda CR-V Teased - Goes Full Hybrid, Pure Petrol Discontinued</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-honda-cr-v-teased-goes-full-hybrid-pure-petrol-discontinued/</loc>
-    <lastmod>2026-11-13T02:52:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/next-gen-honda-cr-v-teased-with-hybrid-only.jpg</image:loc>
-      <image:title>2027 Honda CR-V Teased - Goes Full Hybrid, Pure Petrol Discontinued</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-forgotten-chevrolet-go-kart-that-started-as-an-executive-perk/</loc>
-    <lastmod>2026-11-13T02:30:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Rupp-Chevy-Junior-Go-Kart-Hero.jpg</image:loc>
-      <image:title>The Forgotten Chevrolet Go-Kart That Started As An Executive Perk</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-forgotten-chevrolet-go-kart-that-started-as-an-executive-perk/</loc>
-    <lastmod>2026-11-13T02:30:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/Rupp-Chevy-Junior-Go-Kart-Hero.jpg</image:loc>
-      <image:title>The Forgotten Chevrolet Go-Kart That Started As An Executive Perk</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/maruti-sales-analysis-october-2026-wagon-r-brezza-fronx-ertiga-vi/</loc>
-    <lastmod>2026-11-13T02:30:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Maruti-Brezza-1.jpg</image:loc>
-      <image:title>Maruti Sales Analysis October 2026 - Wagon R, Brezza, Fronx, Ertiga, Victoris, Vitara</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/maruti-sales-analysis-october-2026-wagon-r-brezza-fronx-ertiga-vi/</loc>
-    <lastmod>2026-11-13T02:30:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Maruti-Brezza-1.jpg</image:loc>
-      <image:title>Maruti Sales Analysis October 2026 - Wagon R, Brezza, Fronx, Ertiga, Victoris, Vitara</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-happens-in-vegas-should-inform-the-rest-of-the-country/</loc>
-    <lastmod>2026-11-13T02:29:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/worker-solar-facility-nevada-46186.webp</image:loc>
-      <image:title>What Happens in Vegas Should Inform the Rest of the Country</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-happens-in-vegas-should-inform-the-rest-of-the-country/</loc>
-    <lastmod>2026-11-13T02:29:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/worker-solar-facility-nevada-46186.webp</image:loc>
-      <image:title>What Happens in Vegas Should Inform the Rest of the Country</image:title>
     </image:image>
   </url>
 </urlset>
