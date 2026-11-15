@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-15T16:30:27Z</lastmod>
+    <lastmod>2026-11-15T19:29:07Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-15T16:30:27Z</lastmod>
+    <lastmod>2026-11-15T19:29:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-15T16:30:27Z</lastmod>
+    <lastmod>2026-11-15T19:29:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-15T16:30:27Z</lastmod>
+    <lastmod>2026-11-15T19:29:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-15T16:30:27Z</lastmod>
+    <lastmod>2026-11-15T19:29:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-15T16:30:27Z</lastmod>
+    <lastmod>2026-11-15T19:29:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-reason-why-ev-tires-are-so-expensive/</loc>
+    <lastmod>2026-11-15T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-reason-why-ev-tires-are-so-expensive/l-intro-1794498389.jpg</image:loc>
+      <image:title>The Reason Why EV Tires Are So Expensive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-reason-why-ev-tires-are-so-expensive/</loc>
+    <lastmod>2026-11-15T19:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-reason-why-ev-tires-are-so-expensive/l-intro-1794498389.jpg</image:loc>
+      <image:title>The Reason Why EV Tires Are So Expensive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/no-cars-lines-were-ruined-more-thoroughly-than-when-the-avanti-wa/</loc>
+    <lastmod>2026-11-15T18:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/no-cars-lines-were-ruined-more-thoroughly-than-when-the-avanti-was-made-into-a-sedan/l-intro-1793826586.jpg</image:loc>
+      <image:title>No Car&#x27;s Lines Were Ruined More Thoroughly Than When The Avanti Was Made Into A Sedan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/no-cars-lines-were-ruined-more-thoroughly-than-when-the-avanti-wa/</loc>
+    <lastmod>2026-11-15T18:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/no-cars-lines-were-ruined-more-thoroughly-than-when-the-avanti-was-made-into-a-sedan/l-intro-1793826586.jpg</image:loc>
+      <image:title>No Car&#x27;s Lines Were Ruined More Thoroughly Than When The Avanti Was Made Into A Sedan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/are-tires-from-costco-as-good-as-ones-youd-buy-elsewhere/</loc>
+    <lastmod>2026-11-15T18:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/are-tires-from-costco-as-good-as-ones-youd-buy-elsewhere/l-intro-1794411056.jpg</image:loc>
+      <image:title>Are Tires From Costco As Good As Ones You&#x27;d Buy Elsewhere?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/are-tires-from-costco-as-good-as-ones-youd-buy-elsewhere/</loc>
+    <lastmod>2026-11-15T18:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/are-tires-from-costco-as-good-as-ones-youd-buy-elsewhere/l-intro-1794411056.jpg</image:loc>
+      <image:title>Are Tires From Costco As Good As Ones You&#x27;d Buy Elsewhere?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-fuel-sipping-classic-cars-for-thrifty-driving-enthusiasts/</loc>
+    <lastmod>2026-11-15T17:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-fuel-sipping-classic-cars-for-thrifty-driving-enthusiasts/l-intro-1793813909.jpg</image:loc>
+      <image:title>7 Fuel Sipping Classic Cars For Thrifty Driving Enthusiasts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/7-fuel-sipping-classic-cars-for-thrifty-driving-enthusiasts/</loc>
+    <lastmod>2026-11-15T17:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-fuel-sipping-classic-cars-for-thrifty-driving-enthusiasts/l-intro-1793813909.jpg</image:loc>
+      <image:title>7 Fuel Sipping Classic Cars For Thrifty Driving Enthusiasts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-drivin/</loc>
+    <lastmod>2026-11-15T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1600</image:loc>
+      <image:title>TechCrunch Mobility: The Nvidia backup plan for China&#x27;s self-driving industry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-drivin/</loc>
+    <lastmod>2026-11-15T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1600</image:loc>
+      <image:title>TechCrunch Mobility: The Nvidia backup plan for China&#x27;s self-driving industry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-four-cylinder-engines-with-terrible-reputations-for-reliability/</loc>
+    <lastmod>2026-11-15T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/5-four-cylinder-engines-with-terrible-reputations-for-reliability/l-intro-1793823516.jpg</image:loc>
+      <image:title>5 Four-Cylinder Engines With Terrible Reputations For Reliability</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/5-four-cylinder-engines-with-terrible-reputations-for-reliability/</loc>
+    <lastmod>2026-11-15T17:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/5-four-cylinder-engines-with-terrible-reputations-for-reliability/l-intro-1793823516.jpg</image:loc>
+      <image:title>5 Four-Cylinder Engines With Terrible Reputations For Reliability</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyot/</loc>
+    <lastmod>2026-11-15T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyota-or-daihatsu/l-intro-1794416255.jpg</image:loc>
+      <image:title>How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyot/</loc>
+    <lastmod>2026-11-15T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyota-or-daihatsu/l-intro-1794416255.jpg</image:loc>
+      <image:title>How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/is-tesla-rushing-out-a-half-baked-cybercab-just-to-shave-mkbhds-h/</loc>
+    <lastmod>2026-11-15T16:31:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Is Tesla rushing out a half-baked Cybercab just to shave MKBHD&#x27;s head?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/is-tesla-rushing-out-a-half-baked-cybercab-just-to-shave-mkbhds-h/</loc>
+    <lastmod>2026-11-15T16:31:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Is Tesla rushing out a half-baked Cybercab just to shave MKBHD&#x27;s head?</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/</loc>
@@ -538,6 +698,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/7-seater-car-sales-october-2026-ertiga-scorpio-xuv-7xo-innova-car/</loc>
+    <lastmod>2026-11-15T05:30:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XUV-7XO-20.jpg</image:loc>
+      <image:title>7-Seater Car Sales October 2026 - Ertiga, Scorpio, XUV 7XO, Innova, Carens</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/7-seater-car-sales-october-2026-ertiga-scorpio-xuv-7xo-innova-car/</loc>
+    <lastmod>2026-11-15T05:30:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XUV-7XO-20.jpg</image:loc>
+      <image:title>7-Seater Car Sales October 2026 - Ertiga, Scorpio, XUV 7XO, Innova, Carens</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home/</loc>
     <lastmod>2026-11-15T04:39:35+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -595,6 +775,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/ngpipelines_map.us-eiapng.png</image:loc>
       <image:title>Rocket Fuel: The Last Frontier For Natural Gas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-teased-ahead-of-november-25-launch/</loc>
+    <lastmod>2026-11-15T03:29:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
+      <image:title>Toyota Innova Hycross Facelift Teased Ahead Of November 25 Launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-innova-hycross-facelift-teased-ahead-of-november-25-launch/</loc>
+    <lastmod>2026-11-15T03:29:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
+      <image:title>Toyota Innova Hycross Facelift Teased Ahead Of November 25 Launch</image:title>
     </image:image>
   </url>
   <url>
@@ -2835,206 +3035,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/lucids-cosmos-ev-takes-shape-but-its-launching-later-than-planned/l-intro-1794581318.jpg</image:loc>
       <image:title>Lucid&#x27;s Cosmos EV Takes Shape, But It&#x27;s Launching Later Than Planned</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/uber-confirms-hackers-stole-thousands-of-drivers-license-informat/</loc>
-    <lastmod>2026-11-13T14:57:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?resize=1600,1067</image:loc>
-      <image:title>Uber confirms hackers stole thousands of drivers&#x27; license information in data breach</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/uber-confirms-hackers-stole-thousands-of-drivers-license-informat/</loc>
-    <lastmod>2026-11-13T14:57:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?resize=1600,1067</image:loc>
-      <image:title>Uber confirms hackers stole thousands of drivers&#x27; license information in data breach</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-tesla-the-apple-of-the-ev-industry/</loc>
-    <lastmod>2026-11-13T14:52:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/Apple-Car-Tesla-Model-3-CleanTechnica-Watermark-1-scaled.jpeg</image:loc>
-      <image:title>Is Tesla The Apple Of The EV Industry?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/is-tesla-the-apple-of-the-ev-industry/</loc>
-    <lastmod>2026-11-13T14:52:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/12/Apple-Car-Tesla-Model-3-CleanTechnica-Watermark-1-scaled.jpeg</image:loc>
-      <image:title>Is Tesla The Apple Of The EV Industry?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/spyker-says-its-positioning-itself-as-a-pagani-and-bugatti-rival/</loc>
-    <lastmod>2026-11-13T14:37:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/spyker-says-its-positioning-itself-as-a-pagani-and-bugatti-rival/l-intro-1794580452.jpg</image:loc>
-      <image:title>Spyker Says It&#x27;s Positioning Itself As A Pagani And Bugatti Rival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/spyker-says-its-positioning-itself-as-a-pagani-and-bugatti-rival/</loc>
-    <lastmod>2026-11-13T14:37:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/spyker-says-its-positioning-itself-as-a-pagani-and-bugatti-rival/l-intro-1794580452.jpg</image:loc>
-      <image:title>Spyker Says It&#x27;s Positioning Itself As A Pagani And Bugatti Rival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/whats-your-weirdest-non-usdm-car-spotting-moment/</loc>
-    <lastmod>2026-11-13T14:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-weirdest-non-usdm-car-spotting-moment/l-intro-1794529832.jpg</image:loc>
-      <image:title>What&#x27;s Your Weirdest Non-USDM Car Spotting Moment?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/whats-your-weirdest-non-usdm-car-spotting-moment/</loc>
-    <lastmod>2026-11-13T14:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-weirdest-non-usdm-car-spotting-moment/l-intro-1794529832.jpg</image:loc>
-      <image:title>What&#x27;s Your Weirdest Non-USDM Car Spotting Moment?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-acura-integra-type-s-gets-a-type-r-inspired-heritage-edition/</loc>
-    <lastmod>2026-11-13T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2027-acura-integra-type-s-gets-a-type-r-inspired-heritage-edition/l-intro-1794535221.jpg</image:loc>
-      <image:title>2027 Acura Integra Type S Gets A Type R-Inspired Heritage Edition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-acura-integra-type-s-gets-a-type-r-inspired-heritage-edition/</loc>
-    <lastmod>2026-11-13T14:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/2027-acura-integra-type-s-gets-a-type-r-inspired-heritage-edition/l-intro-1794535221.jpg</image:loc>
-      <image:title>2027 Acura Integra Type S Gets A Type R-Inspired Heritage Edition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/review-engwes-m20-30-is-a-60v-super73-killer-at-a-fraction-of-the/</loc>
-    <lastmod>2026-11-13T13:32:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_118833.png?w=1442</image:loc>
-      <image:title>Review: Engwe&#x27;s M20 3.0 is a 60V Super73 killer at a fraction of the price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/review-engwes-m20-30-is-a-60v-super73-killer-at-a-fraction-of-the/</loc>
-    <lastmod>2026-11-13T13:32:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_118833.png?w=1442</image:loc>
-      <image:title>Review: Engwe&#x27;s M20 3.0 is a 60V Super73 killer at a fraction of the price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/</loc>
-    <lastmod>2026-11-13T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/l-intro-1794501059.jpg</image:loc>
-      <image:title>At $2,600, Is This 1999 Ford Expedition XLT Worth The Trek?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/</loc>
-    <lastmod>2026-11-13T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/at-2600-is-this-1999-ford-expedition-xlt-worth-the-trek/l-intro-1794501059.jpg</image:loc>
-      <image:title>At $2,600, Is This 1999 Ford Expedition XLT Worth The Trek?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/</loc>
-    <lastmod>2026-11-13T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/l-intro-1794550355.jpg</image:loc>
-      <image:title>Honda Previews All-New CR-V As It Transitions To 100% Hybrid Power</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/</loc>
-    <lastmod>2026-11-13T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/honda-previews-all-new-cr-v-as-it-transitions-to-100-hybrid-power/l-intro-1794550355.jpg</image:loc>
-      <image:title>Honda Previews All-New CR-V As It Transitions To 100% Hybrid Power</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-hero-street-fighter-bike-spied-testing-electric-vida-ubx/</loc>
-    <lastmod>2026-11-13T12:31:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-ubx-spied-testing.jpg</image:loc>
-      <image:title>New Hero Street Fighter Bike Spied Testing - Electric Vida UBX?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-hero-street-fighter-bike-spied-testing-electric-vida-ubx/</loc>
-    <lastmod>2026-11-13T12:31:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-ubx-spied-testing.jpg</image:loc>
-      <image:title>New Hero Street Fighter Bike Spied Testing - Electric Vida UBX?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/denza-d9-and-z9-gt-launched-in-india-priced-from-rs-90-lakh/</loc>
-    <lastmod>2026-11-13T11:56:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Denza-D9-MPV-2.jpg</image:loc>
-      <image:title>Denza D9 and Z9 GT Launched In India, Priced From Rs. 90 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/denza-d9-and-z9-gt-launched-in-india-priced-from-rs-90-lakh/</loc>
-    <lastmod>2026-11-13T11:56:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Denza-D9-MPV-2.jpg</image:loc>
-      <image:title>Denza D9 and Z9 GT Launched In India, Priced From Rs. 90 Lakh</image:title>
     </image:image>
   </url>
 </urlset>

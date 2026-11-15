@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/the-reason-why-ev-tires-are-so-expensive/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T19:00:00+00:00</news:publication_date>
+      <news:title>The Reason Why EV Tires Are So Expensive</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/the-reason-why-ev-tires-are-so-expensive/l-intro-1794498389.jpg</image:loc>
+      <image:title>The Reason Why EV Tires Are So Expensive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/no-cars-lines-were-ruined-more-thoroughly-than-when-the-avanti-wa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T18:25:00+00:00</news:publication_date>
+      <news:title>No Car&#x27;s Lines Were Ruined More Thoroughly Than When The Avanti Was Made Into A Sedan</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/no-cars-lines-were-ruined-more-thoroughly-than-when-the-avanti-was-made-into-a-sedan/l-intro-1793826586.jpg</image:loc>
+      <image:title>No Car&#x27;s Lines Were Ruined More Thoroughly Than When The Avanti Was Made Into A Sedan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/are-tires-from-costco-as-good-as-ones-youd-buy-elsewhere/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T18:00:00+00:00</news:publication_date>
+      <news:title>Are Tires From Costco As Good As Ones You&#x27;d Buy Elsewhere?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/are-tires-from-costco-as-good-as-ones-youd-buy-elsewhere/l-intro-1794411056.jpg</image:loc>
+      <image:title>Are Tires From Costco As Good As Ones You&#x27;d Buy Elsewhere?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-fuel-sipping-classic-cars-for-thrifty-driving-enthusiasts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T17:25:00+00:00</news:publication_date>
+      <news:title>7 Fuel Sipping Classic Cars For Thrifty Driving Enthusiasts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/7-fuel-sipping-classic-cars-for-thrifty-driving-enthusiasts/l-intro-1793813909.jpg</image:loc>
+      <image:title>7 Fuel Sipping Classic Cars For Thrifty Driving Enthusiasts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-drivin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T17:05:00+00:00</news:publication_date>
+      <news:title>TechCrunch Mobility: The Nvidia backup plan for China&#x27;s self-driving industry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1600</image:loc>
+      <image:title>TechCrunch Mobility: The Nvidia backup plan for China&#x27;s self-driving industry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-four-cylinder-engines-with-terrible-reputations-for-reliability/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T17:05:00+00:00</news:publication_date>
+      <news:title>5 Four-Cylinder Engines With Terrible Reputations For Reliability</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/5-four-cylinder-engines-with-terrible-reputations-for-reliability/l-intro-1793823516.jpg</image:loc>
+      <image:title>5 Four-Cylinder Engines With Terrible Reputations For Reliability</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyot/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T17:00:00+00:00</news:publication_date>
+      <news:title>How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyota-or-daihatsu/l-intro-1794416255.jpg</image:loc>
+      <image:title>How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/is-tesla-rushing-out-a-half-baked-cybercab-just-to-shave-mkbhds-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T16:31:24+00:00</news:publication_date>
+      <news:title>Is Tesla rushing out a half-baked Cybercab just to shave MKBHD&#x27;s head?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Is Tesla rushing out a half-baked Cybercab just to shave MKBHD&#x27;s head?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/</loc>
     <news:news>
       <news:publication>
@@ -378,6 +498,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/7-seater-car-sales-october-2026-ertiga-scorpio-xuv-7xo-innova-car/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T05:30:40+00:00</news:publication_date>
+      <news:title>7-Seater Car Sales October 2026 - Ertiga, Scorpio, XUV 7XO, Innova, Carens</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XUV-7XO-20.jpg</image:loc>
+      <image:title>7-Seater Car Sales October 2026 - Ertiga, Scorpio, XUV 7XO, Innova, Carens</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home/</loc>
     <news:news>
       <news:publication>
@@ -420,6 +555,21 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/ngpipelines_map.us-eiapng.png</image:loc>
       <image:title>Rocket Fuel: The Last Frontier For Natural Gas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-teased-ahead-of-november-25-launch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T03:29:57+00:00</news:publication_date>
+      <news:title>Toyota Innova Hycross Facelift Teased Ahead Of November 25 Launch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
+      <image:title>Toyota Innova Hycross Facelift Teased Ahead Of November 25 Launch</image:title>
     </image:image>
   </url>
   <url>
@@ -1710,246 +1860,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-edition/l-intro-1794598688.jpg</image:loc>
       <image:title>Blazing Phoenix Yellow Adorns 2027 Acura Integra Type S Heritage Edition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/more-bugatti-customers-should-spec-polished-engine-covers-but-the/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T19:25:00+00:00</news:publication_date>
-      <news:title>More Bugatti Customers Should Spec Polished Engine Covers, But They&#x27;re All Too Chicken</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/more-bugatti-customers-should-spec-polished-engine-covers-but-theyre-all-too-chicken/l-intro-1794432827.jpg</image:loc>
-      <image:title>More Bugatti Customers Should Spec Polished Engine Covers, But They&#x27;re All Too Chicken</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/stellantis-reappoints-broderdorf-promotes-kuniskis-in-ceo-shuffle/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T19:19:27+00:00</news:publication_date>
-      <news:title>Stellantis Reappoints Broderdorf, Promotes Kuniskis In CEO Shuffle</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/11294ed4-9ff1-49d6-9a6f-b543147e7cec.jpg</image:loc>
-      <image:title>Stellantis Reappoints Broderdorf, Promotes Kuniskis In CEO Shuffle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-updates-cbr1000rr-r-fireblade-with-exposed-titanium-tank-an/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T19:11:30+00:00</news:publication_date>
-      <news:title>Honda Updates CBR1000RR-R Fireblade With Exposed Titanium Tank And Racing Performance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/honda-updates-cbr1000rr-r-fireblade-with-exposed-titanium-tank-and-racing-performance/l-intro-1794596475.jpg</image:loc>
-      <image:title>Honda Updates CBR1000RR-R Fireblade With Exposed Titanium Tank And Racing Performance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-is-delaying-another-ev-based-on-the-ssp/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T19:03:28+00:00</news:publication_date>
-      <news:title>Volkswagen is delaying another EV based on the SSP</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Volkswagen is delaying another EV based on the SSP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/washington-police-arrest-21-year-old-after-high-speed-chase-in-hi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T19:00:00+00:00</news:publication_date>
-      <news:title>Washington Police Arrest 21-Year-Old After High-Speed Chase In His Porsche 911 GT3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/washington-police-arrest-21-year-old-after-high-speed-chase-in-his-porsche-911-gt3/l-intro-1794406873.jpg</image:loc>
-      <image:title>Washington Police Arrest 21-Year-Old After High-Speed Chase In His Porsche 911 GT3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/theons-oak-green-porsche-911-looks-like-the-perfect-drivers-car/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T18:36:50+00:00</news:publication_date>
-      <news:title>Theon&#x27;s Oak Green Porsche 911 Looks Like The Perfect Driver&#x27;s Car</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/theons-oak-green-porsche-911-looks-like-the-perfect-drivers-car/l-intro-1794594896.jpg</image:loc>
-      <image:title>Theon&#x27;s Oak Green Porsche 911 Looks Like The Perfect Driver&#x27;s Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-stops-selling-every-cybertruck-except-the-109990-cyberbeast/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T18:13:44+00:00</news:publication_date>
-      <news:title>Tesla stops selling every Cybertruck except the $109,990 Cyberbeast</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla stops selling every Cybertruck except the $109,990 Cyberbeast</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-is-overhauling-the-kona-and-it-looks-like-it-may-still-be/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T17:47:19+00:00</news:publication_date>
-      <news:title>Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-acura-integra-type-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T17:40:29+00:00</news:publication_date>
-      <news:title>2027 Acura Integra Type S</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f44705d1-9439-4417-9624-fd0b3f9a08d3.jpg?crop=0.477xw:0.358xh;0.154xw,0.275xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Acura Integra Type S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-photos-of-the-2027-acura-integra-type-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T17:37:18+00:00</news:publication_date>
-      <news:title>First Look: The 2027 Acura Integra Type S Revealed In Stunning Detail</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7aa61686-dca4-45f6-a060-3c0ab95333f6.jpg</image:loc>
-      <image:title>First Look: The 2027 Acura Integra Type S Revealed In Stunning Detail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rimac-is-reportedly-ending-nevera-production-after-selling-just-7/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T17:30:00+00:00</news:publication_date>
-      <news:title>Rimac Is Reportedly Ending Nevera Production After Selling Just 71 Cars</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/nevera-time-attack-8-64dfbd9801268.jpg</image:loc>
-      <image:title>Rimac Is Reportedly Ending Nevera Production After Selling Just 71 Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-vezel-gains-rugged-trailsport-and-sporty-rs-trims-with-fake/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T17:15:40+00:00</news:publication_date>
-      <news:title>Honda Vezel Gains Rugged TrailSport And Sporty RS Trims With Fake Gear Shifts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/honda-vezel-gains-rugged-trailsport-and-sporty-rs-trims-with-fake-gear-shifts/l-intro-1794589923.jpg</image:loc>
-      <image:title>Honda Vezel Gains Rugged TrailSport And Sporty RS Trims With Fake Gear Shifts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-surprising-convergence-behind-f1s-increasingly-competitive-20/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T17:14:52+00:00</news:publication_date>
-      <news:title>The surprising convergence behind F1&#x27;s increasingly competitive 2026 season</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws.jpg</image:loc>
-      <image:title>The surprising convergence behind F1&#x27;s increasingly competitive 2026 season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mercedes-stops-investment-in-german-factories-and-weighs-plant-cl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T17:09:49+00:00</news:publication_date>
-      <news:title>Mercedes Stops Investment In German Factories And Weighs Plant Closures</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/mercedes-stops-investment-in-german-factories-and-weighs-plant-closures/l-intro-1794589639.jpg</image:loc>
-      <image:title>Mercedes Stops Investment In German Factories And Weighs Plant Closures</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/florida-sinks-ss-united-states-in-gulf-of-mexico-to-protect-the-e/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T16:58:22+00:00</news:publication_date>
-      <news:title>Florida Sinks SS United States In Gulf Of Mexico To Protect The Environment, And I&#x27;m Sorry, But That&#x27;s Just Too Many Jokes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/florida-sinks-ss-united-states-in-gulf-of-mexico-to-protect-the-environment-and-im-sorry-but-thats-just-too-many-jokes/l-intro-1794589177.jpg</image:loc>
-      <image:title>Florida Sinks SS United States In Gulf Of Mexico To Protect The Environment, And I&#x27;m Sorry, But That&#x27;s Just Too Many Jokes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-acura-integra-type-s-turns-back-the-clock-with-new-retro-the/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T16:31:47+00:00</news:publication_date>
-      <news:title>2027 Acura Integra Type S Turns Back the Clock with New Retro Theme</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/048fd3f6-dccb-461c-80be-cd800c3467bc.jpg</image:loc>
-      <image:title>2027 Acura Integra Type S Turns Back the Clock with New Retro Theme</image:title>
     </image:image>
   </url>
 </urlset>
