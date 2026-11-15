@@ -1,5 +1,549 @@
 [
   {
+    "id": "art_1794783517_3",
+    "slug": "a-radically-different-approach-to-ai",
+    "category": "world",
+    "category_name": "EVs & Clean Mobility",
+    "category_color": "#06b6d4",
+    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+    "category_icon": "⚡",
+    "source": "CleanTechnica",
+    "raw_title": "A Radically Different Approach to AI",
+    "title": "A Radically Different Approach to AI",
+    "raw_summary": "About forty years ago, I decided I would develop artificial intelligence in my spare time. I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence. There was a program called ELIZA that did that already, and it was clearly not intelligent at all. I wanted to produce real AI, a type of thought that might take some effort for a human being to figure out. Maybe I would have to ask the computer how it reached the conclusion it did. But it would do so using logic a human could follow, examining each step. It would be a process a person could examine.",
+    "summary": "About forty years ago, I decided I would develop artificial intelligence in my spare time. I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence. There was a program called ELIZA that did that already, and it was clearly not intelligent at all.",
+    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/Fuzzy-definition-Luke-Jones-Unsplash.jpg",
+    "original_url": "https://cleantechnica.com/2026/11/15/a-radically-different-approach-to-ai/",
+    "published_at": "2026-11-15T22:05:07+00:00",
+    "time_ago": "53m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "About forty years ago, I decided I would develop artificial intelligence in my spare time. I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence. There was a program called ELIZA that did that already, and it was clearly not intelligent at all.",
+      "I wanted to produce real AI, a type of thought that might take some effort for a human being to figure out. Maybe I would have to ask the computer how it reached the conclusion it did. But it would do so using logic a human could follow, examining each step. It would be a process a person could examine.",
+      "My goal, I believed, would best be reached by first inventing something I called Artificial Cognition. This would be a native way for computers to deal with data in the form of bit-fields, which were native data for computers, as translations of human words, in the same way that computers use IEEE bitwise representations of real numbers. Once this step was done, it would be easy to string words together in sentences, which could be directly translated into and out of human language. And the sentences would tell computers things they could “understand.”",
+      "With such translations, a computer could translate a work, such as Shakespeare’s Henry V , into its own language. Then it could translate the text into whatever language we might want. Some subtleties would be lost, but human translators do the same thing.",
+      "My idea was that computers should be able to work on ideas natively. At first, I thought this would require a very wide CPU, with registers that might be 256 bits, or even wider. In time, I came to believe that it would be best to stick to CPUs that were in use. As 64-bit CPUs were clearly coming soon, when I was working on this in 1986, I decided to use that data size. I also thought I might have to design a CPU with an additional instruction set, but I never got to the point of needing one.",
+      "So my design goal ended up having a word to translate almost any word (or even phrases) of English, occupying 64 bits of memory. And these could be understood and manipulated in standard registers of a standard computer.",
+      "I believe that I did achieve that goal, though the project never went into commercial use. A patent on the final design was issued by the US PTO, but that was long ago, and as I understand it, the whole thing is now in the public domain.",
+      "My reason for writing about this is that AI is a very contentious issue today. Anthropic has even warned potential stockholders in its IPO documents that its product could have catastrophic effects if things go wrong, possibly to the point of terminating all human life. I think it even points out that a major part of the value of its stock would be lost if there were no human beings left to buy it."
+    ],
+    "bullet_points": [
+      "About forty years ago, I decided I would develop artificial intelligence in my spare time.",
+      "I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence.",
+      "There was a program called ELIZA that did that already, and it was clearly not intelligent at all."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "A Radically Different Approach to AI",
+        "badge": "Breaking",
+        "text": "About forty years ago, I decided I would develop artificial intelligence in my spare time.",
+        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/Fuzzy-definition-Luke-Jones-Unsplash.jpg",
+        "alt": "A Radically Different Approach to AI cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence.",
+        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "There was a program called ELIZA that did that already, and it was clearly not intelligent at all.",
+        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "EVs & Clean Mobility",
+        "text": "I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence.",
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from CleanTechnica.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 56
+  },
+  {
+    "id": "art_1794783517_6",
+    "slug": "the-largest-hummer-in-the-world-has-two-stories-and-a-full-kitche",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "The Largest Hummer In The World Has Two Stories And A Full Kitchen",
+    "title": "The Largest Hummer In The World Has Two Stories And A Full Kitchen",
+    "raw_summary": "Humans can get very creative when it comes to cars. Take well-known French artist Benedetto Bufalino, for instance, who once turned a Ford Mondeo wagon into a pizza oven. Then there's the Ohio resident who transformed an E-One fire engine into a mobile pub, because why the heck not? Both are fabulous ideas, and certainly worthy of applause, but what happens when you crank the ambition bar up a few more notches? Well, you'll probably end up with something like this: a Hummer H1 that's two stories high, about the length of a large city bus, and as wide as an average residential swimming pool. Dubbed the X3, it is said to be three times the size of a standard H1, which is already big enough to embarrass the largest production cars ever made . Oh, and at over 130,000 pounds, it's also heavier than a sperm whale.",
+    "summary": "Humans can get very creative when it comes to cars. Take well-known French artist Benedetto Bufalino, for instance, who once turned a Ford Mondeo wagon into a pizza oven. Then there's the Ohio resident who transformed an E-One fire engine into a mobile pub, because why the heck not?",
+    "image_url": "https://www.jalopnik.com/img/gallery/the-largest-hummer-in-the-world-has-two-stories-and-a-full-kitchen/l-intro-1794225088.jpg",
+    "original_url": "https://www.jalopnik.com/2310811/largest-suv-hummer-h1-x3-100-tons-two-stories-tall/",
+    "published_at": "2026-11-15T22:05:00+00:00",
+    "time_ago": "53m ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Humans can get very creative when it comes to cars. Take well-known French artist Benedetto Bufalino, for instance, who once turned a Ford Mondeo wagon into a pizza oven. Then there's the Ohio resident who transformed an E-One fire engine into a mobile pub, because why the heck not? Both are fabulous ideas, and certainly worthy of applause, but what happens when you crank the ambition bar up a few more notches?",
+      "Well, you'll probably end up with something like this: a Hummer H1 that's two stories high, about the length of a large city bus, and as wide as an average residential swimming pool. Dubbed the X3, it is said to be three times the size of a standard H1, which is already big enough to embarrass the largest production cars ever made . Oh, and at over 130,000 pounds, it's also heavier than a sperm whale.",
+      "Inside, you're probably expecting a seat big enough for King Kong, and even a space for him to have a foot spa. Well, that's probably a little too ambitious, but not that far off. You see, the X3 has two floors, and between them there's a lounge, kitchen, and an all-important restroom. This takes the definition of a \"man cave\" to whole new heights — no pun intended.",
+      "The X3 is the brainchild of Emirati billionaire and recognized car enthusiast Hamad Al Nahyan, also fondly known as the Rainbow Sheikh. He owns one of the largest car collections in the world , mainly consisting of a multitude of bizarre one-off cars, and so is probably the only person crazy enough to conceive something like the X3. It also took a crew of seven around 1.5 years to build.",
+      "Access is granted by a retractable staircase located under its body, because imagine trying to haul the door open — that would be pretty difficult even for an army of Arnold Schwarzeneggers, let alone the average human. Climbing up to the first floor, you're greeted by a fully furnished kitchen area with a (presumably) running sink and wood-lined panels. The door to its left opens up into the toilet area, while opposite are the engine room (more on that below) and the stairs heading up to the second floor.",
+      "This magnificent 645-square-foot space has 10 comfortable-looking chairs, with panoramic views all around thanks to the humongous windows, and blinds to black out the cabin if a spot of privacy is needed. The driver's cockpit sits at the back of this floor, featuring all manner of buttons that do ... something. There's no conventional steering wheel either, because the vehicle is controlled using a joystick. And to help see beyond its substantial dimensions, there are live camera feeds giving you a view of the outside world.",
+      "A LARC-LX from the U.S. Army fleet, to be precise. It was an amphibious cargo vehicle that did a lot of the gritty work, so the X3 retains its steel hull frame. The one room we're yet to talk about is the engine room: within it sits a quartet of diesel engines, each responsible for powering its own wheel. The wheels are big enough to swallow a human whole (and then some), and the tires supposedly cost $25,000 a pop. The total power output is a staggering 1,000 hp. No surprises there, given how much weight it's moving. Top speed is just 20 mph, again for obvious reasons.",
+      "You get a real feel for just how big this thing is when you look at the details, too. Apparently, you need a crane to get beneath the hood, and the X3 also has what seem to be the world's largest windshield wipers. Despite all this, it can actually be driven on public roads, albeit with a police escort, and since this is the Middle East we're talking about, said police cars are probably Ferraris, Lamborghinis, Bugattis, and other dream exotics . So, reckon this is the ultimate zombie apocalypse hideout?"
+    ],
+    "bullet_points": [
+      "Humans can get very creative when it comes to cars.",
+      "Take well-known French artist Benedetto Bufalino, for instance, who once turned a Ford Mondeo wagon into a pizza oven.",
+      "Then there's the Ohio resident who transformed an E-One fire engine into a mobile pub, because why the heck not?"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "The Largest Hummer In The World Has Two Stories And A Full Kitchen",
+        "badge": "Breaking",
+        "text": "Humans can get very creative when it comes to cars.",
+        "image": "https://www.jalopnik.com/img/gallery/the-largest-hummer-in-the-world-has-two-stories-and-a-full-kitchen/l-intro-1794225088.jpg",
+        "alt": "The Largest Hummer In The World Has Two Stories And A Full Kitchen cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Take well-known French artist Benedetto Bufalino, for instance, who once turned a Ford Mondeo wagon into a pizza oven.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Then there's the Ohio resident who transformed an E-One fire engine into a mobile pub, because why the heck not?",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "Take well-known French artist Benedetto Bufalino, for instance, who once turned a Ford Mondeo wagon into a pizza oven.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 49
+  },
+  {
+    "id": "art_1794783517_7",
+    "slug": "this-fast-prototype-army-off-roader-owes-its-existence-to-the-par",
+    "category": "trending",
+    "category_name": "Viral Drives & Concepts",
+    "category_color": "#f43f5e",
+    "category_gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
+    "category_icon": "🔥",
+    "source": "Jalopnik",
+    "raw_title": "This Fast Prototype Army Off-Roader Owes Its Existence To The Paris-Dakar Rally",
+    "title": "This Fast Prototype Army Off-Roader Owes Its Existence To The Paris-Dakar Rally",
+    "raw_summary": "While Donald Trump's been busy threatening our country's European allies and cozying up to Vladimir Putin instead, those allies have been making some military moves of their own. France and Belgium, for example, have been teaming up with John Cockerill Defense to support an innovative new approach to land vehicles — including the Cockerill i-X. The two countries each have separate 10% ownership stakes in John Cockerill Defense , which touts the i-X as the world's first \"ground interceptor.\" In fact, that is what the \"i\" in the vehicle's name stands for. The \"X,\" in turn, refers to the vehicle's modular multi-weapons system. Plus, along with the ability to use machine guns and assorted rockets/missiles, the i-X features advanced technology such as onboard AI, various cameras/sensors, \"Smart Helmet\" integration, acoustic gunshot detection/location, and more.",
+    "summary": "While Donald Trump's been busy threatening our country's European allies and cozying up to Vladimir Putin instead, those allies have been making some military moves of their own. France and Belgium, for example, have been teaming up with John Cockerill Defense to support an innovative new approach to land vehicles — including the Cockerill i-X.",
+    "image_url": "https://www.jalopnik.com/img/gallery/this-fast-prototype-army-off-roader-owes-its-existence-to-the-paris-dakar-rally/l-intro-1793997880.jpg",
+    "original_url": "https://www.jalopnik.com/2310785/fast-prototype-army-off-roader-paris-dakar-rally-cockerill-i-x/",
+    "published_at": "2026-11-15T21:05:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "While Donald Trump's been busy threatening our country's European allies and cozying up to Vladimir Putin instead, those allies have been making some military moves of their own. France and Belgium, for example, have been teaming up with John Cockerill Defense to support an innovative new approach to land vehicles — including the Cockerill i-X.",
+      "The two countries each have separate 10% ownership stakes in John Cockerill Defense , which touts the i-X as the world's first \"ground interceptor.\" In fact, that is what the \"i\" in the vehicle's name stands for. The \"X,\" in turn, refers to the vehicle's modular multi-weapons system. Plus, along with the ability to use machine guns and assorted rockets/missiles, the i-X features advanced technology such as onboard AI, various cameras/sensors, \"Smart Helmet\" integration, acoustic gunshot detection/location, and more.",
+      "The i-X also has to provide a military-grade driving experience to fill its role, and the Cockerill crew seems to have taken a slightly different approach from, say, GM. The General's infantry squad vehicle cost nearly $1 billion in taxpayer money , yet, at its core, it uses the same platform underpinning the Chevrolet Colorado production truck. Meanwhile, multiple sources — but not Cockerill itself – say the i-X is built on the foundation of a Paris-Dakar rally vehicle. The actual company behind that rally vehicle remains a mystery, but here's an interesting coincidence that hasn't been mentioned much by the media: France owns 15.01% of Renault, which owns Dacia, which supports the Dacia Sandrider — a purpose-built racer that won the 2026 Paris-Dakar rally. Whether that connection is anything more than a coincidence is anyone's guess, but it is fascinating.",
+      "Now, to be clear, the Cockerill i-X is still in testing, so its capabilities could change some before it goes into military production. That said, the company has released some preliminary specs based on the i-X prototypes. Cockerill is a bit vague on powertrains, but it looks like the company is currently touting two packages. One is based on a 750-horsepower V8,and the second is an 800-hp serial hybrid setup with an all-electric mode for about 18.6 miles of EV-style travel. Further incorporating a high-performance suspension, the i-X has a top speed of about 124 mph on the road and nearly 100 mph off-road.",
+      "For some context, the Paris-Dakar Sandriders top out at 106 mph, which is the limit for their class — and the maximum allowed speed for any modern Paris-Dakar entry. GM's ISV we mentioned above? Yes, it has a different use case, and that's a good thing. The ISV isn't going to do too much ground intercepting with a top speed of 60 mph. After all, a fast tank, like the Rheinmetall KF51 Panther, can get up to 65 mph on the road. All of those numbers mean you can accurately describe the i-X as fast, at least for a military vehicle.",
+      "The i-X is probably pretty fast off-road compared to production vehicles, too. True, automakers don't often let this kind of data out, but one source says first-gen Ford Raptor prototypes were able to exceed 100 mph off-road during testing. Of course, the Cockerill can't keep up with production vehicles on the road, where even the Hellcat-powered 2027 Ram 1500 Rumble Bee full-size pickup is expected to hit 170 mph.",
+      "The Paris-Dakar rally — now known simply as Dakar – puts vehicles through some of the most extreme conditions on the planet, making the event a fantastic proving ground for military vehicles. And it's not only a test of peak performance. Covering thousands of miles, over all types of surfaces and through all sorts of weather, the rally also can be a showcase for extreme vehicular stamina. Consider: In the race's very first running, in 1978, only 74 of the 170 vehicles in the event were able to finish it. The numbers had improved to 247 finishers out of 317 entries in 2026, but that's still a lot of DNFs.",
+      "As for the rally's name change, that's related to its route changes — it hasn't gone from Paris to Dakar, Senegal, since 2001. Ironically enough, given its connection to the Cockerill i-X, the race itself has had to travel around the world to avoid military conflicts. Much like F1's decision to cancel races earlier this year due to the U.S.-Israeli war with Iran , the folks behind the Paris-Dakar rally have had to adjust their calendar based on who was fighting. Sometimes, this meant changing the route or the stopping and starting points, but organizers had to cancel the event entirely in 2008."
+    ],
+    "bullet_points": [
+      "While Donald Trump's been busy threatening our country's European allies and cozying up to Vladimir Putin instead, those allies have been making some military moves of their own.",
+      "France and Belgium, for example, have been teaming up with John Cockerill Defense to support an innovative new approach to land vehicles — including the Cockerill i-X.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "This Fast Prototype Army Off-Roader Owes Its Existence To The Paris-Dakar Rally",
+        "badge": "Breaking",
+        "text": "While Donald Trump's been busy threatening our country's European allies and cozying up to Vladimir Putin instead, those allies have been making some military moves of their own.",
+        "image": "https://www.jalopnik.com/img/gallery/this-fast-prototype-army-off-roader-owes-its-existence-to-the-paris-dakar-rally/l-intro-1793997880.jpg",
+        "alt": "This Fast Prototype Army Off-Roader Owes Its Existence To The Paris-Dakar Rally cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "France and Belgium, for example, have been teaming up with John Cockerill Defense to support an innovative new approach to land vehicles — including the Cockerill i-X.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "While Donald Trump's been busy threatening our country's European allies and cozying up to Vladimir Putin instead, those allies have been making some military moves of their own.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Viral Drives & Concepts",
+        "text": "France and Belgium, for example, have been teaming up with John Cockerill Defense to support an innovative new approach to land vehicles — including the Cockerill i-X.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 55
+  },
+  {
+    "id": "art_1794783517_4",
+    "slug": "why-you-should-clean-brake-dust-off-your-rims-and-how-to-do-it-ef",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Carscoops",
+    "raw_title": "Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)",
+    "title": "Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)",
+    "raw_summary": "Clumsy parking can quickly make a set of handsome alloy wheels look ugly, but so can brake dust. Car brakes rely on friction between the pads and rotor to provide a deceleration force, so every time you press the brake pedal, both shed tiny fragments. Some are carried away by the air and are more harmful to our lungs than diesel emissions , one study found. But others settle on your shiny wheels, creating a dull coating that can make even the tidiest low-mileage car look like a haggard workhorse. And it's not just track-day cars that suffer from a buildup of dust. Yes, hitting the brakes hard will release more dust, and spoil wheels faster, but even the kind of gentle braking used in daily driving can quickly coat your rims. Washing your car and wheels regularly is the best way to keep the brake dust away, though it's easy for that routine to slip when you're busy. But there's a good reason why you ought to make the effort. Because the longer you leave it on the wheels, the harder it is to get rid of with simple cleaning materials. And dust can even cause permanent staining if really neglected. If that happens, you could be looking at a bill of around $150 per wheel to have them professionally repaired.",
+    "summary": "Clumsy parking can quickly make a set of handsome alloy wheels look ugly, but so can brake dust. Car brakes rely on friction between the pads and rotor to provide a deceleration force, so every time you press the brake pedal, both shed tiny fragments.",
+    "image_url": "https://www.carscoops.com/img/gallery/why-you-should-clean-brake-dust-off-your-rims-and-how-to-do-it-effectively/l-intro-1794200700.jpg",
+    "original_url": "https://www.carscoops.com/2311784/why-clean-brake-dust-rims-effectively/",
+    "published_at": "2026-11-15T21:00:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Clumsy parking can quickly make a set of handsome alloy wheels look ugly, but so can brake dust. Car brakes rely on friction between the pads and rotor to provide a deceleration force, so every time you press the brake pedal, both shed tiny fragments. Some are carried away by the air and are more harmful to our lungs than diesel emissions , one study found. But others settle on your shiny wheels, creating a dull coating that can make even the tidiest low-mileage car look like a haggard workhorse. And it's not just track-day cars that suffer from a buildup of dust. Yes, hitting the brakes hard will release more dust, and spoil wheels faster, but even the kind of gentle braking used in daily driving can quickly coat your rims.",
+      "Washing your car and wheels regularly is the best way to keep the brake dust away, though it's easy for that routine to slip when you're busy. But there's a good reason why you ought to make the effort. Because the longer you leave it on the wheels, the harder it is to get rid of with simple cleaning materials. And dust can even cause permanent staining if really neglected. If that happens, you could be looking at a bill of around $150 per wheel to have them professionally repaired.",
+      "If your wheels aren't showing any obvious sign of brake dust buildup, and you religiously wash your car every Sunday, then cleaning them with the same kind of shampoo you use for the rest of the bodywork is fine. But if that pesky black powder has already taken hold, you're going to need a dedicated wheel cleaner. Spray-on wheel cleaners have special ingredients designed to loosen brake dust particles without damaging the finish of the wheel itself.",
+      "Before you pull that trigger, though, hose down the wheels with clean water to loosen any dirt. This will get rid of any grit and minimize the chance of you scratching the wheel's surface. Next, spray your wheel cleaner liberally across the entire rim, making sure to hit both sides of every spoke and all of those nooks and crannies that intricate wheel designs have. Then do nothing. Let the cleaner sit for a couple of minutes, a bit like you'd leave a casserole dish to soak in the kitchen sink.",
+      "Using a brush designed for wheel cleaning — the bristles are soft enough not to cause damage — scrub the rim to clean off the loosened dust. You might need a second, smaller brush to get into tighter spots, like the lug nut holes. Now rinse off the dirty foam to check the results.",
+      "If there's still some dust clinging to those hard-to-reach areas, you might need to repeat the process. But if it worked and your wheels now look showroom fresh, dry them with a clean microfiber towel and add some protective wax or sealant to make it harder for dust to stick between now and your next Sunday wash."
+    ],
+    "bullet_points": [
+      "Clumsy parking can quickly make a set of handsome alloy wheels look ugly, but so can brake dust.",
+      "Car brakes rely on friction between the pads and rotor to provide a deceleration force, so every time you press the brake pedal, both shed tiny fragments.",
+      "Official reporting verified via Carscoops news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)",
+        "badge": "Breaking",
+        "text": "Clumsy parking can quickly make a set of handsome alloy wheels look ugly, but so can brake dust.",
+        "image": "https://www.carscoops.com/img/gallery/why-you-should-clean-brake-dust-off-your-rims-and-how-to-do-it-effectively/l-intro-1794200700.jpg",
+        "alt": "Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively) cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Car brakes rely on friction between the pads and rotor to provide a deceleration force, so every time you press the brake pedal, both shed tiny fragments.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Clumsy parking can quickly make a set of handsome alloy wheels look ugly, but so can brake dust.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "Car brakes rely on friction between the pads and rotor to provide a deceleration force, so every time you press the brake pedal, both shed tiny fragments.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Carscoops.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 45
+  },
+  {
+    "id": "art_1794783517_8",
+    "slug": "lamborghinis-own-test-driver-says-the-famous-195-mph-countach-was",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Jalopnik",
+    "raw_title": "Lamborghini's Own Test Driver Says The Famous 195 MPH Countach Wasn't Exactly Stock",
+    "title": "Lamborghini's Own Test Driver Says The Famous 195 MPH Countach Wasn't Exactly Stock",
+    "raw_summary": "There are various examples of people and manufacturers in the automotive industry being a little sly or cunning. Mitsubishi, for example, falsified the fuel economy data for an estimated 600,000 vehicles it sold in Japan over 25 years. Toyota, on the other hand, was one of five manufacturers that posted inflated safety scores to boost its cars' certifications. Now, what if we told you Lamborghini also did something similar in the past? You might think of the famous raging bull in the same vein as a newborn puppy: incapable of wrongdoing, and anybody who dared say otherwise should be sent to the gallows. Well, sorry to burst your bubble, but Lamborghini has –- on more than one occasion –- fabricated top speed runs at the famous Nardo test circuit in Italy. Those aren't our words but those of its dashing former head of vehicle testing, Valentino Balboni.",
+    "summary": "There are various examples of people and manufacturers in the automotive industry being a little sly or cunning. Mitsubishi, for example, falsified the fuel economy data for an estimated 600,000 vehicles it sold in Japan over 25 years. Toyota, on the other hand, was one of five manufacturers that posted inflated safety scores to boost its cars' certifications.",
+    "image_url": "https://www.jalopnik.com/img/gallery/lamborghinis-own-test-driver-says-the-famous-195-mph-countach-wasnt-exactly-stock/l-intro-1793991940.jpg",
+    "original_url": "https://www.jalopnik.com/2310783/lamborghini-test-driver-195-mph-countach-factory-modified/",
+    "published_at": "2026-11-15T20:50:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "There are various examples of people and manufacturers in the automotive industry being a little sly or cunning. Mitsubishi, for example, falsified the fuel economy data for an estimated 600,000 vehicles it sold in Japan over 25 years. Toyota, on the other hand, was one of five manufacturers that posted inflated safety scores to boost its cars' certifications.",
+      "Now, what if we told you Lamborghini also did something similar in the past? You might think of the famous raging bull in the same vein as a newborn puppy: incapable of wrongdoing, and anybody who dared say otherwise should be sent to the gallows. Well, sorry to burst your bubble, but Lamborghini has –- on more than one occasion –- fabricated top speed runs at the famous Nardo test circuit in Italy. Those aren't our words but those of its dashing former head of vehicle testing, Valentino Balboni.",
+      "Perhaps the most famous example of this was in 1986, when Lamborghini hosted the editor of Fast Lane magazine, Peter Dron, at its headquarters in Sant'Agata. The purpose was to prove that the ultimate version of its Countach, the LP5000 QV, was capable of hitting the mind-melting speeds it said it could.",
+      "Dron rode shotgun to F1 ace Pierluigi Martini, who hit an average speed of 195.1 mph in the QV. In fact, the motoring journalist even claimed to have seen the speedometer crack 201 mph at one point –- and remember, the Ferrari F40, which is widely considered to be the world's first 200-mph-plus road car, wouldn't debut until the following year. As it turns out, Lamborghini did something pretty sly, tinkering with the engine to boost the output and top speed, and also streamlining the Countach's exterior to better cut through the air.",
+      "Various non-production-car changes were made to perfect the QV for its big press adventure, and one of those was a custom airbox that significantly improved the car's high-speed airflow, as well as its high-rpm efficiency. Then there were the intake spacers, which were built specifically for this car and punched the V12's output up from a factory-rated 450 horsepower to ... well, who knows how much.",
+      "According to Balboni, Lambo also had a habit of streamlining its cars as much as possible for these top speed tests. With the Countach, for instance, the rear wing was removed to improve high-end performance, and apparently, its makers even removed the wipers and side mirrors. Every little helps, right? It even went as far as optimizing the tires and suspension components — anything goes when publicity is on the line. Even if the product wasn't playing by the rules, though, this vintage \"60 minutes\" episode shows how unhinged Lamborghini testing used to be.",
+      "The Countach is considered by many to be the car that made Lamborghini what it is, and this LP5000 version was celebrated by readers and press alike for being among the fastest production cars in the world. When it was officially released at the 1985 Geneva Motor Show, its biggest threat came from the Ferrari 288 GTO –- a recent example of which pushed millionaires to battle on Bring A Trailer . The GTO had a top speed of 189 mph and was not only the halo car for Ferrari's lineage of most hardcore road racers, but arguably the world's maiden hypercar.",
+      "Then came the super-intelligent Porsche 959. Its 2.9-liter flat-six was derived from the 956 and 962 Group C racing cars -– the Dauer version of which earned an impossible shot at Le Mans glory -– and propelled it from 0 to 60 mph in 3.6 seconds and on to a top speed of 199 mph. Okay, we need to stop. Talking about all these glorious old supercars is giving us that weird fizzing sensation James May talks about. But before we go, we want you to tell us if the Countach LP5000 QV is your favorite from the era, or if something else rules your roost."
+    ],
+    "bullet_points": [
+      "There are various examples of people and manufacturers in the automotive industry being a little sly or cunning.",
+      "Mitsubishi, for example, falsified the fuel economy data for an estimated 600,000 vehicles it sold in Japan over 25 years.",
+      "Toyota, on the other hand, was one of five manufacturers that posted inflated safety scores to boost its cars' certifications."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Lamborghini's Own Test Driver Says The Famous 195 MPH Countach Wasn't Exactly Stock",
+        "badge": "Breaking",
+        "text": "There are various examples of people and manufacturers in the automotive industry being a little sly or cunning.",
+        "image": "https://www.jalopnik.com/img/gallery/lamborghinis-own-test-driver-says-the-famous-195-mph-countach-wasnt-exactly-stock/l-intro-1793991940.jpg",
+        "alt": "Lamborghini's Own Test Driver Says The Famous 195 MPH Countach Wasn't Exactly Stock cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Mitsubishi, for example, falsified the fuel economy data for an estimated 600,000 vehicles it sold in Japan over 25 years.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Toyota, on the other hand, was one of five manufacturers that posted inflated safety scores to boost its cars' certifications.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "Mitsubishi, for example, falsified the fuel economy data for an estimated 600,000 vehicles it sold in Japan over 25 years.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 58
+  },
+  {
+    "id": "art_1794783517_9",
+    "slug": "honda-did-make-diesel-engines-heres-why-they-disappeared",
+    "category": "entertainment",
+    "category_name": "Car Culture & Restomods",
+    "category_color": "#ec4899",
+    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
+    "category_icon": "🎬",
+    "source": "Jalopnik",
+    "raw_title": "Honda Did Make Diesel Engines, Here's Why They Disappeared",
+    "title": "Honda Did Make Diesel Engines, Here's Why They Disappeared",
+    "raw_summary": "We all know and love Honda for its high-revving gasoline engines (remember the S600's 9,500-rpm motor ?) and, more recently, its frugal hybrid powertrains. However, the Japanese automaker's legacy isn't just built on gasoline, as it used to offer a family of diesel engines that powered popular cars like the Civic, Accord, CR-V, and City. Interestingly, Honda's former senior chief engineer, Kenichi Nagahiro, was far from a fan of diesel engines due to their noise and smell. But diesel was booming in Europe in the early 2000s, so Nagahiro locked in and built Honda's first in-house diesel engine — the 2.2-liter i-CTDi. And since Nagahiro hated diesel engines in their then-current forms, he ensured the 2.2-liter i-CTDi would live up to his standards.",
+    "summary": "We all know and love Honda for its high-revving gasoline engines (remember the S600's 9,500-rpm motor ?) and, more recently, its frugal hybrid powertrains. However, the Japanese automaker's legacy isn't just built on gasoline, as it used to offer a family of diesel engines that powered popular cars like the Civic, Accord, CR-V, and City.",
+    "image_url": "https://www.jalopnik.com/img/gallery/honda-did-make-diesel-engines-heres-why-they-disappeared/l-intro-1793978171.jpg",
+    "original_url": "https://www.jalopnik.com/2310780/hondas-first-ever-diesel-award-winning-legend/",
+    "published_at": "2026-11-15T20:25:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "We all know and love Honda for its high-revving gasoline engines (remember the S600's 9,500-rpm motor ?) and, more recently, its frugal hybrid powertrains. However, the Japanese automaker's legacy isn't just built on gasoline, as it used to offer a family of diesel engines that powered popular cars like the Civic, Accord, CR-V, and City.",
+      "Interestingly, Honda's former senior chief engineer, Kenichi Nagahiro, was far from a fan of diesel engines due to their noise and smell. But diesel was booming in Europe in the early 2000s, so Nagahiro locked in and built Honda's first in-house diesel engine — the 2.2-liter i-CTDi. And since Nagahiro hated diesel engines in their then-current forms, he ensured the 2.2-liter i-CTDi would live up to his standards.",
+      "Honda also introduced diesel engines for the Indian market back in 2013, giving buyers a more fuel-efficient alternative in models such as the Amaze and City. However, that changed over the following decade as emissions regulations became stricter and customer preferences shifted toward gasoline and hybrid vehicles. Honda began phasing out diesel models in Europe in 2019, with the withdrawal completed by 2021. In India, Honda continued selling diesel cars for longer but ended production in early 2023. By then, India was the last place Honda still built diesel engines, including those for CR-Vs sold in Thailand and the Philippines. These decisions were not down to any single problem, and certainly not reliability (after all, diesel engines generally last longer than their gas counterparts ). Instead, they were a consequence of the growing cost of keeping these engines compliant with tightening emissions regulations, declining demand, and Honda's changing powertrain strategy.",
+      "The 2.2-liter four-cylinder i-CTDi debuted in 2003 and appeared in European-market versions of the Accord and, later, the Civic, CR-V, and FR-V. The 2.2-liter i-CTDi was compliant with Euro 4 emissions regulations, had a rated mileage of 43.5 mpg on Europe's official test cycle (52.3 mpg in imperial gallons), and produced 138 hp and 251 lb-ft of torque. In 2007, Honda introduced an updated Euro-5-compliant version of the engine, dubbed the 2.2-liter i-DTEC, which also powered the Accord, Civic, and CR-V in several markets. The engine developed 147 to 178 hp and 258 to 280 lb-ft of torque.",
+      "In 2012, Honda introduced its smaller 1.6-liter four-cylinder i-DTEC, part of its \"Earth Dreams\" line of engines. The 1.6-liter i-DTEC was over 100 pounds lighter and more fuel-efficient (65.4 mpg in the Civic; 78.5 in imperial gallons) than the 2.2-liter i-DTEC, and attracted lower taxes in Europe because it dipped below the 100-gram-per-kilometer mark for carbon dioxide emissions. In Europe, the 1.6-liter i-DTEC found its way under the hoods of the Civic, CR-V, and HR-V. It was also used in the Civic and CR-V sold in India, with the latter also available in Thailand and the Philippines. Output ranged from 118 to 158 hp and 221 to 258 lb-ft of torque.",
+      "Then came the 1.5-liter four-cylinder i-DTEC in 2013 — Honda's final in-house diesel engine. Developed specifically for India, the 1.5-liter i-DTEC was essentially a downsized variant of the 1.6-liter i-DTEC engine, and made its debut in the first-generation Amaze. Honda subsequently offered the 1.5-liter i-DTEC in the India-spec City, Mobilio, Jazz, BR-V, and WR-V. The engine developed 100 hp and 148 lb-ft of torque, and was rated for staggeringly good fuel efficiency of up to 64.4 mpg on India's official test cycle (27.4 km/l).",
+      "The main reason Honda abandoned diesel cars was the increasingly difficult economics of keeping them compliant with tougher emissions regulations, especially in light of decreasing global demand. In Europe, the aftermath of Volkswagen's Dieselgate emissions scandal invited greater scrutiny of diesel cars, while stricter Euro 6 requirements and real-world emissions testing increased the engineering burden on automakers. Compared to gasoline engines, diesels generally require more elaborate exhaust after-treatment systems to control emissions. Updating these systems, validating them, and certifying them for different models adds development and production costs. Honda announced in 2019 that it would phase out diesel cars in Europe by 2021 as it shifted toward electrified vehicles.",
+      "India presented a similar challenge. The introduction of Bharat Stage 6 (BS6) emissions standards in April 2020 had already made diesel engines more expensive to update, and the implementation of real-driving emissions requirements in April 2023 added further complications. Honda decided that the investment needed to upgrade its 1.5-liter i-DTEC engine was not justified by its sales figures."
+    ],
+    "bullet_points": [
+      "We all know and love Honda for its high-revving gasoline engines (remember the S600's 9,500-rpm motor ?) and, more recently, its frugal hybrid powertrains.",
+      "However, the Japanese automaker's legacy isn't just built on gasoline, as it used to offer a family of diesel engines that powered popular cars like the Civic, Accord, CR-V, and City.",
+      "Official reporting verified via Jalopnik news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Honda Did Make Diesel Engines, Here's Why They Disappeared",
+        "badge": "Breaking",
+        "text": "We all know and love Honda for its high-revving gasoline engines (remember the S600's 9,500-rpm motor ?) and, more recently, its frugal hybrid powertrains.",
+        "image": "https://www.jalopnik.com/img/gallery/honda-did-make-diesel-engines-heres-why-they-disappeared/l-intro-1793978171.jpg",
+        "alt": "Honda Did Make Diesel Engines, Here's Why They Disappeared cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "However, the Japanese automaker's legacy isn't just built on gasoline, as it used to offer a family of diesel engines that powered popular cars like the Civic, Accord, CR-V, and City.",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "We all know and love Honda for its high-revving gasoline engines (remember the S600's 9,500-rpm motor ?) and, more recently, its frugal hybrid powertrains.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Car Culture & Restomods",
+        "text": "However, the Japanese automaker's legacy isn't just built on gasoline, as it used to offer a family of diesel engines that powered popular cars like the Civic, Accord, CR-V, and City.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Jalopnik.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 55
+  },
+  {
+    "id": "art_1794783517_5",
+    "slug": "can-the-right-spark-plugs-really-increase-engine-horsepower",
+    "category": "tech",
+    "category_name": "Supercars & Hypercars",
+    "category_color": "#ef4444",
+    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
+    "category_icon": "🏎️",
+    "source": "Carscoops",
+    "raw_title": "Can The Right Spark Plugs Really Increase Engine Horsepower?",
+    "title": "Can The Right Spark Plugs Really Increase Engine Horsepower?",
+    "raw_summary": "Upgrading spark plugs won’t turn your daily driver into a hot rod, but replacing worn-out plugs can breathe new life into your engine There are plenty of ways to squeeze some extra horsepower from your engine. Obvious upgrades such as adding a turbo or supercharger or swapping out internals will certainly do the trick, but can simple parts bring extra ponies? One such idea — that has floated around for decades — is that spark plugs can increase your engine's horsepower. But can that actually work?",
+    "summary": "Upgrading spark plugs won’t turn your daily driver into a hot rod, but replacing worn-out plugs can breathe new life into your engine There are plenty of ways to squeeze some extra horsepower from your engine. Obvious upgrades such as adding a turbo or supercharger or swapping out internals will certainly do the trick, but can simple parts bring extra ponies?",
+    "image_url": "https://www.carscoops.com/img/gallery/can-the-right-spark-plugs-really-increase-engine-horsepower/l-intro-1794511344.jpg",
+    "original_url": "https://www.carscoops.com/2315291/can-spark-plugs-increase-horsepower/",
+    "published_at": "2026-11-15T20:00:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "Upgrading spark plugs won’t turn your daily driver into a hot rod, but replacing worn-out plugs can breathe new life into your engine",
+      "There are plenty of ways to squeeze some extra horsepower from your engine. Obvious upgrades such as adding a turbo or supercharger or swapping out internals will certainly do the trick, but can simple parts bring extra ponies? One such idea — that has floated around for decades — is that spark plugs can increase your engine's horsepower. But can that actually work?",
+      "The short answer is no. When an engine is healthy and running optimally, adding a trick set of plugs, no matter how great, isn't going to boost your engine's output. That being said, there may be times where new plugs might bring the perception of added power. Over time, even the best plugs in the world wear down and lose their efficiency, so whether a set is worn, fouled, or simply mis-gapped, the best a new set of plugs can do is bring back long-lost performance, which might make the car feel stronger.",
+      "And since spark plugs can be one of the easier DIY fixes , it might be tempting to upgrade plugs in hopes of more power. Spark plug maker, NGK, explains that fresh plugs can restore a stock engine's efficiency, but it warns that \"any company that tells you that their spark plug will provide significant gains in power in a stock or near-stock engine is making blanket statements that may not be supportable.\" Coming from a company that sells spark plugs, that should tell you all of what you need to know.",
+      "For those not in the know, spark plugs are the component that sets off the combustion cycle in a gas engine. When the spark happens, the air mixture in the cylinder ignites, and that combustion pushes the piston away and creates the energy output of the engine. All the spark plug does is ignite the fuel mixture, so with no other changes, a simple spark plug swap isn't going to add more power.",
+      "Comparing new plugs to old plugs, though, is a different thing altogether. During the lifetime of a spark plug, it's exposed to extremely high pressure, heat, combustion deposits, and repeated electrical discharges. Over time the electrode can wear and enlarge the initial gap that the spark itself has to cross. Deposits can interfere with firing, too. It's no wonder that over time, a spark plug can lose its efficiency. That's where new plugs can make the biggest difference, but that shouldn't be shocking. Take just about any worn-out component of your car, and it's easy to see the difference once the part has been replaced.",
+      "Now, if you're dealing with a high-performance engine or an engine that's been modified, you'll want to use specialized spark plugs. For a tuned engine, using a spark plug engineered for that sort of application can support the available horsepower. While it's not responsible for that power, without it, the power might not be fully available. Ultimately, all of this simply comes down to buying the right plug for the engine you have. If the engine in question is healthy and running efficiently, even the nicest new plugs probably won't do much good. If it's running poorly, improving ignition could make a serious difference.",
+      "If you've recently shopped for spark plugs online , you've likely heard of iridium. It's a component of some plugs, and it's useful because it resists wear and allows manufacturers to use a finer firing tip. Essentially, it allows for a more reliable ignition over the length of the plug's life. That said, there's no established horsepower bump due specifically to the material itself. Keep in mind that plenty of engines already use precious metals as original equipment, so replacing an OEM iridium plug with the same can be important."
+    ],
+    "bullet_points": [
+      "Upgrading spark plugs won’t turn your daily driver into a hot rod, but replacing worn-out plugs can breathe new life into your engine There are plenty of ways to squeeze some extra horsepower from your engine.",
+      "Obvious upgrades such as adding a turbo or supercharger or swapping out internals will certainly do the trick, but can simple parts bring extra ponies?",
+      "Official reporting verified via Carscoops news desk."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Can The Right Spark Plugs Really Increase Engine Horsepower?",
+        "badge": "Breaking",
+        "text": "Upgrading spark plugs won’t turn your daily driver into a hot rod, but replacing worn-out plugs can breathe new life into your engine There are plenty of ways to squeeze some extra horsepower from your engine.",
+        "image": "https://www.carscoops.com/img/gallery/can-the-right-spark-plugs-really-increase-engine-horsepower/l-intro-1794511344.jpg",
+        "alt": "Can The Right Spark Plugs Really Increase Engine Horsepower? cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "Obvious upgrades such as adding a turbo or supercharger or swapping out internals will certainly do the trick, but can simple parts bring extra ponies?",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Upgrading spark plugs won’t turn your daily driver into a hot rod, but replacing worn-out plugs can breathe new life into your engine There are plenty of ways to squeeze some extra horsepower from your engine.",
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "Supercars & Hypercars",
+        "text": "Obvious upgrades such as adding a turbo or supercharger or swapping out internals will certainly do the trick, but can simple parts bring extra ponies?",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Carscoops.",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 61
+  },
+  {
     "id": "art_1794770933_5",
     "slug": "the-reason-why-ev-tires-are-so-expensive",
     "category": "tech",
@@ -2391,6 +2935,84 @@
     "word_count": 55
   },
   {
+    "id": "art_1794783517_2",
+    "slug": "denza-d9-and-z9-gt-launched-in-india-price-specs-features-more",
+    "category": "india",
+    "category_name": "India Drives & SUVs",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Carblogindia.com",
+    "raw_title": "Denza D9 and Z9 GT Launched in India – Price, Specs, Features & More!",
+    "title": "Denza D9 and Z9 GT Launched in India - Price, Specs, Features & More!",
+    "raw_summary": "The Denza D9 and Z9 GT mark the Chinese carmaker’s entry into the burgeoning Indian market. For the uninitiated, Denza is the luxury sub-brand of BYD. Taking a shot at the established luxury car companies, the D9 electric MPV locks horns against the likes of the Toyota Vellfire and Mercedes V-Class. The latter are among the most prominent opulent MPVs one would typically find sitting in the garages of the top celebrities in India and abroad. On the other hand, the Z9 GT demonstrates maniac performance, boasting a 0-100 km/h acceleration time of just 2.7 seconds. Clearly, the Chinese car marque is aiming to challenge the dominance of performance and luxury car companies. The cars will be sold via the Denza dealerships in Gurugram, Mumbai, Ahmedabad, Bengaluru, Chennai and Hyderabad. Let us delve into the details of both these vehicles. The Denza D9 is an all-electric MPV which bears a retail sticker of a whopping Rs 90 lakh, ex-showroom. As you already know, this is immensely attractive in comparison to the previously mentioned rivals. The large EV carries a colossal 115.07 kWh 2nd-gen BYD Blade Battery, which offers a range of 730 km (NEDC) on a single charge. Needless to mention, the real-life number will be much lower. The electric motor is good for a healthy 456 hp and 365 Nm of maximum power and torque, respectively. This configuration results in a 0-100 km/h acceleration time of just 8.5 seconds. Furthermore, the vehicle comes with a 6-year or 1,50,000 km warranty and an 8-year / 1,60,000 km warranty for the battery.",
+    "summary": "The Denza D9 and Z9 GT mark the Chinese carmaker’s entry into the burgeoning Indian market. For the uninitiated, Denza is the luxury sub-brand of BYD. Taking a shot at the established luxury car companies, the D9 electric MPV locks horns against the likes of the Toyota Vellfire and Mercedes V-Class.",
+    "image_url": "https://www.carblogindia.com/wp-content/uploads/2026/11/denza-d9-z9-gt-launch-india.jpg",
+    "original_url": "https://www.carblogindia.com/denza-d9-and-z9-gt-launched-in-india-price-specs-features-more/",
+    "published_at": "2026-11-15T07:37:26+00:00",
+    "time_ago": "15h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [
+      "The Denza D9 and Z9 GT mark the Chinese carmaker’s entry into the burgeoning Indian market. For the uninitiated, Denza is the luxury sub-brand of BYD. Taking a shot at the established luxury car companies, the D9 electric MPV locks horns against the likes of the Toyota Vellfire and Mercedes V-Class. The latter are among the most prominent opulent MPVs one would typically find sitting in the garages of the top celebrities in India and abroad. On the other hand, the Z9 GT demonstrates maniac performance, boasting a 0-100 km/h acceleration time of just 2.7 seconds. Clearly, the Chinese car marque is aiming to challenge the dominance of performance and luxury car companies. The cars will be sold via the Denza dealerships in Gurugram, Mumbai, Ahmedabad, Bengaluru, Chennai and Hyderabad. Let us delve into the details of both these vehicles.",
+      "The Denza D9 is an all-electric MPV which bears a retail sticker of a whopping Rs 90 lakh, ex-showroom. As you already know, this is immensely attractive in comparison to the previously mentioned rivals. The large EV carries a colossal 115.07 kWh 2nd-gen BYD Blade Battery, which offers a range of 730 km (NEDC) on a single charge. Needless to mention, the real-life number will be much lower. The electric motor is good for a healthy 456 hp and 365 Nm of maximum power and torque, respectively. This configuration results in a 0-100 km/h acceleration time of just 8.5 seconds. Furthermore, the vehicle comes with a 6-year or 1,50,000 km warranty and an 8-year / 1,60,000 km warranty for the battery.",
+      "In terms of the exterior styling, the Denza D9 is among the most imposing MPVs on sale in India at the moment. It features an upright front fascia dominated by a massive closed-off grille with vertical chrome elements. The conventional headlamp setup gets U-shaped LED DRLs, while slim lighting strips are positioned on either side of the grille. The C-shaped silver accents extend from beneath the headlamps towards the lower section of the bumper, which also houses two LED strips. Moving to the sides, the MPV gets a straight beltline and roofline, complemented by stylish 18-inch alloy wheels. One of its key highlights is the powered sliding doors for the second and third rows, which can be operated using a button or a sensor. At the rear, the chunky full-width LED taillamp setup features distinctive arrow-shaped elements, along with Denza lettering on the tailgate. The powered tailgate also gets anti-pinch protection and a memory function that remembers its last opening position.",
+      "This is where things get truly interesting. The electric MPV boasts an ultra-opulent cabin and top-notch materials. In fact, that is its biggest attraction to rival the likes of the V-Class and Vellfire. Apart from that, the sheer number of tech and convenience amenities on offer is mighty impressive. The buyers can choose between Black, Black+Brown and Black+Beige colour themes. Here are the top attractions of the Denza D9:",
+      "The Denza Z9 GT is a performance electric fastback with a retail sticker of Rs 1.57 Crore, ex-showroom. That makes it the most expensive Chinese car in India. Bookings are open at the moment with a token amount of Rs 10 lakh. It comes with a mammoth 122.49 kWh BYD 2nd-gen Blade Battery for a range of 670 km (NEDC) on a single charge. Propelling the EV are three electric motors for a combined power and torque output of a jaw-dropping 1,156 hp and 1,210 Nm, respectively. This ensures a 0-100 km/h acceleration time of an impressive 2.7 seconds, while the top speed is 270 km/h.",
+      "What is immensely impressive is the 1,500 kW Flash Ultra-fast charging setup that can charge the battery from 10% to 97% in just 9 minutes. In order to preserve battery life, the charging stops at 97%. Furthermore, the car supports 11 kW AC charging. To enhance performance, the Denza Z9 GT gets a rear-wheel steering system, allowing the EV to crab crawl sideways, make 360-degree turns and turn the rear wheels by up to 15 degrees.",
+      "In terms of appearance, the Denza Z9 GT boasts a rather imposing road presence and a sleek silhouette. At the front, it gets a pair of LED headlamps, a sculpted bonnet with ridges and a LiDAR sensor mounted along the front edge of the roof. Moving to the sides, the estate-style vehicle rides on 20-inch alloy wheels wrapped in Pirelli tyres. Other highlights include a sharp kink in the rear character line, flush-fitting door handles, Denza badging on the D-pillars and large door-mounted ORVMs. At the rear, the Z9 GT gets a dual-ridge roof spoiler with an integrated stop lamp, a steeply raked rear windscreen and slim LED taillamps. The layered bumper design adds further character, while the ‘e3’ badge on the boot lid signifies the platform underpinning the Z9 GT. Its dimensions are:",
+      "Just like the D9, the Denza Z9 GT is loaded with the latest tech and convenience amenities to the brim. This includes tons of connectivity functionalities and a slew of active and passive safety features. The interior colour themes include Dark Chocolate+Red Velvet and Dark Chocolate+Perg Beige. Some of the main attractions include:"
+    ],
+    "bullet_points": [
+      "The Denza D9 and Z9 GT mark the Chinese carmaker’s entry into the burgeoning Indian market.",
+      "For the uninitiated, Denza is the luxury sub-brand of BYD.",
+      "Taking a shot at the established luxury car companies, the D9 electric MPV locks horns against the likes of the Toyota Vellfire and Mercedes V-Class."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Denza D9 and Z9 GT Launched in India - Price, Specs, Features & More!",
+        "badge": "Breaking",
+        "text": "The Denza D9 and Z9 GT mark the Chinese carmaker’s entry into the burgeoning Indian market.",
+        "image": "https://www.carblogindia.com/wp-content/uploads/2026/11/denza-d9-z9-gt-launch-india.jpg",
+        "alt": "Denza D9 and Z9 GT Launched in India - Price, Specs, Features & More! cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "For the uninitiated, Denza is the luxury sub-brand of BYD.",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "Taking a shot at the established luxury car companies, the D9 electric MPV locks horns against the likes of the Toyota Vellfire and Mercedes V-Class.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "India Drives & SUVs",
+        "text": "For the uninitiated, Denza is the luxury sub-brand of BYD.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Carblogindia.com.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 51
+  },
+  {
     "id": "art_1794760208_2",
     "slug": "denza-d9-vs-mg-m9-specs-comparison",
     "category": "india",
@@ -2908,6 +3530,75 @@
     ],
     "ai_generated": false,
     "word_count": 47
+  },
+  {
+    "id": "art_1794783517_1",
+    "slug": "tata-sales-analysis-october-2026-nexon-punch-tiago-sierra-aeris-h",
+    "category": "india",
+    "category_name": "India Drives & SUVs",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Gaadiwaadi.com",
+    "raw_title": "Tata Sales Analysis October 2026 – Nexon, Punch, Tiago, Sierra, Aeris, Harrier",
+    "title": "Tata Sales Analysis October 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier",
+    "raw_summary": "GaadiWaadi - Homegrown automaker ranks second on India’s new car sales chart in October 2026, finishing ahead of close rivals Mahindra and Hyundai Tata Motors dispatched 73,894 cars in India in October 2026, edging out Mahindra by 556 units and becoming India’s second-largest automaker by volume behind Maruti Suzuki. Compared to the same month in 2025 (61,134 units), sales were up 21%. The Tata Nexon and Tata Punch were closely contesting for the top spot on Tata Motors’ October 2026 sales chart. The former managed to secure the pole position with 21,966 units, just 1,441 units more than the latter. The Tata Nexon saw a 1% year-on-year decline in sales (October 2025: 22,083 units), while the Tata Punch recorded a 22% year-on-year growth (October 2025: 16,810 units). Sales of the rest of the models in the Tata Motors line-up were noticeably lower in October 2026. The third-highest-selling model was the Tata Tiago, with 8,043 units dispatched, 9% less than in October 2025 (8,850 units). The Tata Sierra contributed 7,205 units to the company’s sales last month. The recently launched Tata Aeris, essentially a heavily facelifted version of the Maruti Dzire-rivaling Tata Tigor, was next on the sales chart, with 4,005 units sold. Also Read: Tata Motors Records Best Ever Quarterly Revenue, Sales Up 40% Model October 2026 Sales October 2025 Sales Difference Tata Nexon 21,966 22,083 -1% Tata Punch 20,525 16,810 22% Tata Tiago 8,043 8,850 -9% Tata Sierra 7,205 0 New Tata Aeris 4,005 0 New Tata Harrier 3,895 4,483 -13% Tata Altroz 3,257 3,770 -14% Tata Curvv 2,377 1,432 66% Tata Safari 2,287 2,510 -9% Tata Tigor 334 1,196 -72% Tata Total 73,894 61,134 21% The Tata Harrier saw a 13% year-on-year decline in sales in October 2026. Compared to 4,483 units sold in October 2025, 3,895 units were dispatched last month. The Tata Altroz premium hatchback, which competes with the Hyundai i20 and Maruti Baleno/Toyota Glanza, registered 3,257 units in sales last month. This marked a 14% year-on-year decline (October 2025: 3,770 units). The Tata Curvv, the SUV-coupe derived from the Tata Nexon, contributed 2,337 units to Tata Motors’ October 2026 sales and saw the highest year-on-year growth across the line-up – 66% (October 2025: 1,432 units). The Tata Safari, the three-row version of the Tata Harrier, recorded 2,287 units in October 2026 sales. Compared to October 2025, when its sales stood at 2,510 units, this marked a 9% decline. Also Read: 5 Upcoming Tata EVs, First Avinya EV Coming By 2028 The Tata Tigor was discontinued with the launch of the Tata Aeris, but Tata Motors still had some inventory left last month. The company dispatched 334 units of the old sub-4 metre sedan last month, 72% less than in the same month last year (1,196 units).",
+    "summary": "GaadiWaadi - Homegrown automaker ranks second on India’s new car sales chart in October 2026, finishing ahead of close rivals Mahindra and Hyundai Tata Motors dispatched 73,894 cars in India in October 2026, edging out Mahindra by 556 units and becoming India’s second-largest automaker by volume behind Maruti Suzuki.",
+    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/08/Tata-Nexon-Camo-5.jpg",
+    "original_url": "https://gaadiwaadi.com/tata-sales-analysis-october-2026-nexon-punch-tiago-sierra-aeris-harrier/",
+    "published_at": "2026-11-15T02:30:39+00:00",
+    "time_ago": "20h ago",
+    "reading_time": "2 min read",
+    "article_paragraphs": [],
+    "bullet_points": [
+      "GaadiWaadi - Homegrown automaker ranks second on India’s new car sales chart in October 2026, finishing ahead of close rivals Mahindra and Hyundai Tata Motors dispatched 73,894 cars in India in October 2026, edging out Mahindra by 556 units and becoming India’s second-largest automaker by volume behind Maruti Suzuki.",
+      "Details monitored as developments unfold.",
+      "Verified coverage from Gaadiwaadi.com."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Tata Sales Analysis October 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier",
+        "badge": "Breaking",
+        "text": "GaadiWaadi - Homegrown automaker ranks second on India’s new car sales chart in October 2026, finishing ahead of close rivals Mahindra and Hyundai Tata Motors dispatched 73,894 cars in India in October 2026, edging out Mahindra by 556 units and becoming India’s second-largest automaker by volume behind Maruti Suzuki.",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/Tata-Nexon-Camo-5.jpg",
+        "alt": "Tata Sales Analysis October 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier cover image"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Event",
+        "badge": "What Happened",
+        "text": "GaadiWaadi - Homegrown automaker ranks second on India’s new car sales chart in October 2026, finishing ahead of close rivals Mahindra and Hyundai Tata Motors dispatched 73,894 cars in India in October 2026, edging out Mahindra by 556 units and becoming India’s second-largest automaker by volume behind Maruti Suzuki.",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Key Facts",
+        "badge": "Details",
+        "text": "GaadiWaadi - Homegrown automaker ranks second on India’s new car sales chart in October 2026, finishing ahead of close rivals Mahindra and Hyundai Tata Motors dispatched 73,894 cars in India in October 2026, edging out Mahindra by 556 units and becoming India’s second-largest automaker by volume behind Maruti Suzuki.",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "Context & Significance",
+        "badge": "India Drives & SUVs",
+        "text": "Public updates continue.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Context visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Outlook",
+        "badge": "Takeaway",
+        "text": "Stay updated with continuous reporting from Gaadiwaadi.com.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Outlook visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 49
   },
   {
     "id": "art_1794735533_6",
@@ -10819,707 +11510,5 @@
     ],
     "ai_generated": false,
     "word_count": 66
-  },
-  {
-    "id": "art_1794661161_4",
-    "slug": "vw-rebadges-chinese-van-that-rivals-its-own-crafter",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Carscoops",
-    "raw_title": "VW Rebadges Chinese Van That Rivals Its Own Crafter",
-    "title": "VW Rebadges Chinese Van That Rivals Its Own Crafter",
-    "raw_summary": "The Volkswagen Crafter might be competing with large vans such as the Ford Transit, Renault Trafic, Fiat Ducato, and Mercedes-Benz Sprinter in various markets around the world, but it is absent from South America. In order to fill that void, VW has unveiled the new Tempest, which is a rebadged version of the Chinese Maxus Deliver 9, also sold as the LDV Deliver 9 and Maxus V90 since 2019. The SAIC-sourced van is part of a R$ 300 million ($54 million) investment in the Volkswagen Trucks and Buses division. Next year, it will be joined by an electrified VW Amarok pickup for South America . This will also ride on SAIC underpinnings, albeit with production taking place in Argentina.",
-    "summary": "The Volkswagen Crafter might be competing with large vans such as the Ford Transit, Renault Trafic, Fiat Ducato, and Mercedes-Benz Sprinter in various markets around the world, but it is absent from South America. In order to fill that void, VW has unveiled the new Tempest, which is a rebadged version of the Chinese Maxus Deliver 9, also sold as the LDV Deliver 9 and Maxus V90 since 2019.",
-    "image_url": "https://www.carscoops.com/img/gallery/vw-rebadges-chinese-van-that-rivals-its-own-crafter/l-intro-1794582895.jpg",
-    "original_url": "https://www.carscoops.com/2315967/vw-rebadges-chinese-van-crafter/",
-    "published_at": "2026-11-13T15:55:06+00:00",
-    "time_ago": "21h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "The Volkswagen Crafter might be competing with large vans such as the Ford Transit, Renault Trafic, Fiat Ducato, and Mercedes-Benz Sprinter in various markets around the world, but it is absent from South America. In order to fill that void, VW has unveiled the new Tempest, which is a rebadged version of the Chinese Maxus Deliver 9, also sold as the LDV Deliver 9 and Maxus V90 since 2019.",
-      "The SAIC-sourced van is part of a R$ 300 million ($54 million) investment in the Volkswagen Trucks and Buses division. Next year, it will be joined by an electrified VW Amarok pickup for South America . This will also ride on SAIC underpinnings, albeit with production taking place in Argentina.",
-      "Back to the large van, the VW Tempest retains the sheet metal of its LDV twin, but gains a redesigned nose. A slimmer black grille with the VW emblem connects the carry-over LED headlights, joined by a new cooling intake on the front bumper. The interior has also been carried over, including the 12-inch infotainment display and multiple storage solutions.",
-      "The LCV is available in Cargo, Window, Minibus, and Truck body style variants with two different heights. Despite the similarities with its Chinese twin, VW claims that its own engineering team carried out over 250 technical modifications, adapted over 50 manufacturing processes, and completed 1.5 million km (932,000 miles) of testing during development.",
-      "Under the hood of the VW Tempest lies a SAIC-sourced 2.0-liter four-cylinder turbodiesel producing 174 hp (130 kW / 176 PS) and 400 Nm (295 lb-ft) of torque. The extra power and torque compared to the LDV donor vehicle were made possible thanks to performance modifications specific to the Brazilian market. The mill is exclusively mated to a six-speed manual gearbox, moving rear wheels.",
-      "Depending on the variant, cargo volume ranges between 9.7-12.3 cubic meters (343-434 cubic feet). For comparison, the global-spec VW Crafter can carry anywhere between 9.3 and 18.4 cubic meters (328-650 cubic feet).",
-      "While the VW Tempest has just been unveiled, the automaker announced it has already received over 1,000 pre-orders from Brazilian customers. Pricing has yet to be announced. The company has also confirmed that availability of the van will expand to Argentina early next year. The model is manufactured in SAIC facilities in China.",
-      "It is worth noting that the LDV Deliver 9 is a direct rival to VW's own-developed Crafter in regions like Australia, New Zealand, Europe, and the UK, where both models are being sold simultaneously. Still, badge engineering is a common strategy in trucks and LCVs, with automakers trying their best to save valuable R&D resources through partnerships, while covering a large portion of the market."
-    ],
-    "bullet_points": [
-      "The Volkswagen Crafter might be competing with large vans such as the Ford Transit, Renault Trafic, Fiat Ducato, and Mercedes-Benz Sprinter in various markets around the world, but it is absent from South America.",
-      "In order to fill that void, VW has unveiled the new Tempest, which is a rebadged version of the Chinese Maxus Deliver 9, also sold as the LDV Deliver 9 and Maxus V90 since 2019.",
-      "Official reporting verified via Carscoops news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "VW Rebadges Chinese Van That Rivals Its Own Crafter",
-        "badge": "Breaking",
-        "text": "The Volkswagen Crafter might be competing with large vans such as the Ford Transit, Renault Trafic, Fiat Ducato, and Mercedes-Benz Sprinter in various markets around the world, but it is absent from South America.",
-        "image": "https://www.carscoops.com/img/gallery/vw-rebadges-chinese-van-that-rivals-its-own-crafter/l-intro-1794582895.jpg",
-        "alt": "VW Rebadges Chinese Van That Rivals Its Own Crafter cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "In order to fill that void, VW has unveiled the new Tempest, which is a rebadged version of the Chinese Maxus Deliver 9, also sold as the LDV Deliver 9 and Maxus V90 since 2019.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The Volkswagen Crafter might be competing with large vans such as the Ford Transit, Renault Trafic, Fiat Ducato, and Mercedes-Benz Sprinter in various markets around the world, but it is absent from South America.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "In order to fill that void, VW has unveiled the new Tempest, which is a rebadged version of the Chinese Maxus Deliver 9, also sold as the LDV Deliver 9 and Maxus V90 since 2019.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Carscoops.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 69
-  },
-  {
-    "id": "art_1794590339_3",
-    "slug": "volkswagen-trademark-hints-at-a-name-for-its-upcoming-affordable-",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "Volkswagen trademark hints at a name for its upcoming affordable €20,000 EV",
-    "title": "Volkswagen trademark hints at a name for its upcoming affordable €20,000 EV",
-    "raw_summary": "Volkswagen is getting ready to bring a €20,000 ($22,000) electric car to market in 2027, and it looks like the entry-level EV may no longer be nameless. A newly filed trademark could have just given away what VW plans to call it. The new entry-level EV is “the last piece of the puzzle,” Volkswagen brand CEO Thomas Schäfer said last March after unveiling the ID. EVERY1 concept car.",
-    "summary": "Volkswagen is getting ready to bring a €20,000 ($22,000) electric car to market in 2027, and it looks like the entry-level EV may no longer be nameless. A newly filed trademark could have just given away what VW plans to call it. The new entry-level EV is “the last piece of the puzzle,” Volkswagen brand CEO Thomas Schäfer said last March after unveiling the ID.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&strip=all&w=1400",
-    "original_url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-affordable-e20000-ev/",
-    "published_at": "2026-11-13T15:39:13+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Volkswagen is getting ready to bring a €20,000 ($22,000) electric car to market in 2027, and it looks like the entry-level EV may no longer be nameless. A newly filed trademark could have just given away what VW plans to call it.",
-      "The new entry-level EV is “the last piece of the puzzle,” Volkswagen brand CEO Thomas Schäfer said last March after unveiling the ID. EVERY1 concept car.",
-      "Volkswagen said the production version will launch in 2027 with a starting price of around €20,000 ($22,000).",
-      "The new model will sit below the ID. Polo in Volkswagen’s Electric Urban Car Family, a lineup of compact, affordable electric cars.",
-      "Volkswagen’s current entry-level EV lineup includes the ID. Polo, ID. Cross, the Cupra Raval, and Skoda Epiq, all based on its new MEB+ platform.",
-      "After launching the lower-priced standard versions of the ID. Polo and ID. Cross recently, starting at €24,995 and €27,995, respectively, Volkswagen is preparing to launch an even smaller, more affordable EV next year.",
-      "A recent trademark filing with the European Union Intellectual Property Office (EUIPO) and the German DPMA may have just revealed the name of VW’s upcoming €20,000 EV.",
-      "Volkswagen filed a trademark application for the name ID. UP on October 22, 2026, with the EUIPO and DPMA, suggesting this will be the name of the upcoming electric car in 2027."
-    ],
-    "bullet_points": [
-      "Volkswagen is getting ready to bring a €20,000 ($22,000) electric car to market in 2027, and it looks like the entry-level EV may no longer be nameless.",
-      "A newly filed trademark could have just given away what VW plans to call it.",
-      "The new entry-level EV is “the last piece of the puzzle,” Volkswagen brand CEO Thomas Schäfer said last March after unveiling the ID."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Volkswagen trademark hints at a name for its upcoming affordable €20,000 EV",
-        "badge": "Breaking",
-        "text": "Volkswagen is getting ready to bring a €20,000 ($22,000) electric car to market in 2027, and it looks like the entry-level EV may no longer be nameless.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&strip=all&w=1400",
-        "alt": "Volkswagen trademark hints at a name for its upcoming affordable €20,000 EV cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "A newly filed trademark could have just given away what VW plans to call it.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The new entry-level EV is “the last piece of the puzzle,” Volkswagen brand CEO Thomas Schäfer said last March after unveiling the ID.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "A newly filed trademark could have just given away what VW plans to call it.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 65
-  },
-  {
-    "id": "art_1794590339_4",
-    "slug": "here-are-the-coolest-e-motorcycles-and-gear-we-saw-at-eicma-2026",
-    "category": "world",
-    "category_name": "EVs & Clean Mobility",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Electrek",
-    "raw_title": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026",
-    "title": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026",
-    "raw_summary": "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase. That means that all of the newest electric motorcycle announcements happen in one place, and we get a chance to check out the coolest developments and most interesting new gear. Below is a list of the best things I saw while walking around the show this year, presented in no particular order.",
-    "summary": "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase. That means that all of the newest electric motorcycle announcements happen in one place, and we get a chance to check out the coolest developments and most interesting new gear.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&strip=all&w=1600",
-    "original_url": "https://electrek.co/2026/11/13/here-are-the-coolest-e-motorcycles-and-gear-we-saw-at-eicma-2026/",
-    "published_at": "2026-11-13T15:39:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase. That means that all of the newest electric motorcycle announcements happen in one place, and we get a chance to check out the coolest developments and most interesting new gear.",
-      "Below is a list of the best things I saw while walking around the show this year, presented in no particular order.",
-      "LiveWire came to EICMA with perhaps its most diverse electric two-wheeler lineup yet , showing just how far the company has expanded beyond the premium electric motorcycles that originally defined the Harley-Davidson spin-off.",
-      "The new S4 Honcho family was a major focus, including the street-oriented Honcho Street, off-road Honcho Trail, and newly unveiled Honcho Skate, a stripped-down addition to the modular platform. The booth also included LiveWire’s larger S2 electric motorcycles, creating a pretty broad spectrum from lightweight urban machines up through full-size highway-capable electric motorcycles.",
-      "The other big piece of the booth was DUST Moto, which LiveWire acquired earlier this year. The production-intent DUST Hightail was displayed alongside the newly revealed DUST Spur, giving LiveWire an immediate presence in the increasingly popular lightweight electric dirt bike category.",
-      "Add in STACYC’s electric balance bikes for young riders, and the entire booth almost looked like an electric two-wheeler progression chart: start a kid on a STACYC, move up through lightweight DUST and Honcho machines, and eventually graduate to a full-size LiveWire.",
-      "GR1T Motorcycles is a relatively young European electric motorcycle startup that caught my eye at EICMA with its G1 platform, a lightweight electric motorcycle designed and engineered in Italy. The basic recipe is pretty compelling: 130 km/h (81 mph) top speed, 11 kW of continuous power and 26.6 kW (36 hp) peak, all while weighing just 130 kg (287 lb).",
-      "Perhaps most importantly for urban riders, its roughly 6 kWh battery is actually split into two removable 3 kWh packs, meaning apartment dwellers can pull the batteries out and charge them inside. They’re big, but removing them is doable."
-    ],
-    "bullet_points": [
-      "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase.",
-      "That means that all of the newest electric motorcycle announcements happen in one place, and we get a chance to check out the coolest developments and most interesting new gear.",
-      "Official reporting verified via Electrek news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026",
-        "badge": "Breaking",
-        "text": "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&strip=all&w=1600",
-        "alt": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026 cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "That means that all of the newest electric motorcycle announcements happen in one place, and we get a chance to check out the coolest developments and most interesting new gear.",
-        "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase.",
-        "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "EVs & Clean Mobility",
-        "text": "That means that all of the newest electric motorcycle announcements happen in one place, and we get a chance to check out the coolest developments and most interesting new gear.",
-        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 55
-  },
-  {
-    "id": "art_1794590339_9",
-    "slug": "tesla-kills-41990-model-y-awd-all-wheel-drive-now-costs-8000-more",
-    "category": "business",
-    "category_name": "Auto Industry & Deals",
-    "category_color": "#10b981",
-    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-    "category_icon": "📈",
-    "source": "Electrek",
-    "raw_title": "Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more",
-    "title": "Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more",
-    "raw_summary": "Tesla has pulled the $41,990 Model Y All-Wheel Drive from its US online configurator. The cheapest dual-motor Model Y you can order now is the Model Y Premium AWD at $49,990, an $8,000 jump. The trim lasted just over nine months. Tesla launched it in early February, and it’s gone without a word from the company.",
-    "summary": "Tesla has pulled the $41,990 Model Y All-Wheel Drive from its US online configurator. The cheapest dual-motor Model Y you can order now is the Model Y Premium AWD at $49,990, an $8,000 jump. The trim lasted just over nine months. Tesla launched it in early February, and it’s gone without a word from the company.",
-    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Model-Y-Standard.png?w=1600",
-    "original_url": "https://electrek.co/2026/11/13/tesla-kills-41990-model-y-awd-configurator/",
-    "published_at": "2026-11-13T15:32:28+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Tesla has pulled the $41,990 Model Y All-Wheel Drive from its US online configurator. The cheapest dual-motor Model Y you can order now is the Model Y Premium AWD at $49,990, an $8,000 jump.",
-      "The trim lasted just over nine months. Tesla launched it in early February, and it’s gone without a word from the company.",
-      "Here’s what Tesla’s US Model Y design studio lists as of today (prices before the destination fee):",
-      "When Tesla launched the base Model Y AWD in February , it was basically the stripped-down Model Y with a second motor. It had 294 miles of range, did 0-60 mph in 4.6 seconds and kept the same cut-down cabin as the base RWD. At a $2,000 premium over the single-motor version, it was the most sensible AWD pricing Tesla had offered in years.",
-      "And the AWD trim isn’t the only change. In February, the Premium RWD cost $44,990 and the Premium AWD cost $48,990. Both are now $1,000 higher.",
-      "Add it up and the cheapest all-wheel-drive Model Y went from $41,990 to $49,990 in nine months. That’s a 19% increase.",
-      "The timing isn’t great for Tesla’s competitive position. Chevrolet’s 2027 Equinox EV LT 1 AWD starts at $40,295 before destination, with 307 miles of EPA range. Ford’s Mustang Mach-E Select AWD starts at $40,795.",
-      "If you live somewhere it snows and you were shopping for a new Model Y, the math just got a lot worse. You can still find some base AWD units in Tesla’s inventory, but once those are gone, that’s it."
-    ],
-    "bullet_points": [
-      "Tesla has pulled the $41,990 Model Y All-Wheel Drive from its US online configurator.",
-      "The cheapest dual-motor Model Y you can order now is the Model Y Premium AWD at $49,990, an $8,000 jump.",
-      "The trim lasted just over nine months."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more",
-        "badge": "Breaking",
-        "text": "Tesla has pulled the $41,990 Model Y All-Wheel Drive from its US online configurator.",
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Model-Y-Standard.png?w=1600",
-        "alt": "Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The cheapest dual-motor Model Y you can order now is the Model Y Premium AWD at $49,990, an $8,000 jump.",
-        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The trim lasted just over nine months.",
-        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Auto Industry & Deals",
-        "text": "Tesla launched it in early February, and it’s gone without a word from the company.",
-        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Electrek.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 56
-  },
-  {
-    "id": "art_1794590339_8",
-    "slug": "europes-hydrogen-strategy-should-begin-with-the-industrial-custom",
-    "category": "ai-future",
-    "category_name": "Robo-Taxis & Autonomous",
-    "category_color": "#8b5cf6",
-    "category_gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
-    "category_icon": "🤖",
-    "source": "CleanTechnica",
-    "raw_title": "Europe’s Hydrogen Strategy Should Begin With the Industrial Customer",
-    "title": "Europe's Hydrogen Strategy Should Begin With the Industrial Customer",
-    "raw_summary": "A European fertiliser manufacturer buys ammonia. Its immediate concern is getting the right product, at the right quality and price, with reliable deliveries. The manufacturer may produce ammonia using hydrogen made on its own site, buy hydrogen through a pipeline, or import ammonia made somewhere else. The last choice preserves much of the downstream industrial work but creates no demand for additional hydrogen production or pipelines inside Europe. That distinction belongs at the start of Europe’s hydrogen strategy. The European Commission has reopened the strategy for consultation, with submissions due November 23. The Commission acknowledges that renewable and low-carbon hydrogen production and use have grown more slowly than expected. Europe’s public investment decisions now need a closer look at the industries expected to use hydrogen, the products they make, and the routes by which those products can be supplied competitively. The consultation is open until November 23, 2026.",
-    "summary": "A European fertiliser manufacturer buys ammonia. Its immediate concern is getting the right product, at the right quality and price, with reliable deliveries. The manufacturer may produce ammonia using hydrogen made on its own site, buy hydrogen through a pipeline, or import ammonia made somewhere else.",
-    "image_url": "https://cleantechnica.com/wp-content/uploads/2026/11/Original_Hero_1600x900.png",
-    "original_url": "https://cleantechnica.com/2026/11/13/eu-hydrogen-strategy-industrial-demand-pipeline-cost/",
-    "published_at": "2026-11-13T15:28:46+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "A European fertiliser manufacturer buys ammonia. Its immediate concern is getting the right product, at the right quality and price, with reliable deliveries. The manufacturer may produce ammonia using hydrogen made on its own site, buy hydrogen through a pipeline, or import ammonia made somewhere else. The last choice preserves much of the downstream industrial work but creates no demand for additional hydrogen production or pipelines inside Europe. That distinction belongs at the start of Europe’s hydrogen strategy.",
-      "The European Commission has reopened the strategy for consultation, with submissions due November 23. The Commission acknowledges that renewable and low-carbon hydrogen production and use have grown more slowly than expected. Europe’s public investment decisions now need a closer look at the industries expected to use hydrogen, the products they make, and the routes by which those products can be supplied competitively. The consultation is open until November 23, 2026.",
-      "I submitted a demand-led assessment to the Commission on November 11. My TFIE Strategy Briefing explains the industrial argument, and the open research report documents the model and its assumptions.",
-      "Europe’s existing hydrogen market is primarily a market for industrial chemicals. ACER estimated EU consumption of about 7.4 million tons in 2024, including 4.2 million tons for petroleum refining and 1.9 million tons for ammonia. Passenger cars, building heat and power generation account for very little of that established market. Refining faces structural decline as petroleum demand changes, while fertiliser and chemical producers can keep manufacturing products even when some upstream inputs come from elsewhere.",
-      "Steelmaking also has choices that cannot be captured by a single hydrogen-demand target. Producers can use recycled scrap, purchase reduced iron made where electricity is cheaper, or use hydrogen-based direct reduction where its economics work. The equipment, feedstock quality and production location determine the actual hydrogen requirement. Industrial heat offers direct electrical options for many duties. Transport electrification cuts the amount of liquid fuel that must be produced in the first place. These choices determine hydrogen demand long before anyone chooses a pipeline route.",
-      "Electricity costs expose why the industrial comparison matters. Electrolysis consuming 55 kWh/kg uses €3.30 of electricity per kilogram at €60/MWh, and €5.50 at €100/MWh. Those prices exclude the electrolyser, finance, maintenance, compression and delivery. An industrial customer pays for the finished product, not for the complexity of the process used to manufacture it.",
-      "The new assessment compares qualifying green ammonia imported into Europe at modelled 2050 delivered costs of €755–839/t with European ammonia made using on-site hydrogen at about €1,222/t. The €383–467/t gap puts a substantial price on choosing the domestic route in this model. Emissions certification, quality, reliability and supply concentration belong in the procurement appraisal, alongside the cost and strategic value of retaining European upstream production. They do not turn a forecast of ammonia demand into a forecast of domestic hydrogen demand.",
-      "Industrial policy has reasons to support European production beyond the lowest immediate price. Domestic facilities provide employment, technical capabilities and supply security. The right decision is to identify those benefits, calculate the extra cost and state who will pay it. Hydrogen production quotas bury that choice in a volume target and risk making European industrial products less competitive."
-    ],
-    "bullet_points": [
-      "A European fertiliser manufacturer buys ammonia.",
-      "Its immediate concern is getting the right product, at the right quality and price, with reliable deliveries.",
-      "The manufacturer may produce ammonia using hydrogen made on its own site, buy hydrogen through a pipeline, or import ammonia made somewhere else."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Europe's Hydrogen Strategy Should Begin With the Industrial Customer",
-        "badge": "Breaking",
-        "text": "A European fertiliser manufacturer buys ammonia.",
-        "image": "https://cleantechnica.com/wp-content/uploads/2026/11/Original_Hero_1600x900.png",
-        "alt": "Europe's Hydrogen Strategy Should Begin With the Industrial Customer cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Its immediate concern is getting the right product, at the right quality and price, with reliable deliveries.",
-        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "The manufacturer may produce ammonia using hydrogen made on its own site, buy hydrogen through a pipeline, or import ammonia made somewhere else.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Robo-Taxis & Autonomous",
-        "text": "Its immediate concern is getting the right product, at the right quality and price, with reliable deliveries.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from CleanTechnica.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 46
-  },
-  {
-    "id": "art_1794590339_13",
-    "slug": "these-are-the-new-cars-that-excite-our-audience-the-most",
-    "category": "entertainment",
-    "category_name": "Car Culture & Restomods",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-    "category_icon": "🎬",
-    "source": "Jalopnik",
-    "raw_title": "These Are The New Cars That Excite Our Audience The Most",
-    "title": "These Are The New Cars That Excite Our Audience The Most",
-    "raw_summary": "Earlier this week we asked the fabulous Jalopnik audience which new cars excite them the most, and unsurprisingly you all did not disappoint. From cheap electric trucks to super expensive supercars , I was pleased to see a wide spread of different types of vehicles at all different price points. It seems that late-stage capitalism's relentless pursuit of innovation for innovation's sake hasn't deterred everyone just yet. I said the Rivian R2 is the new car that excites me the most, since it offers a unique and compelling combination of style, affordability, speed, capability, technology, efficiency, and desirability. Plus, it offers compact electric SUV buyers a genuinely exciting alternative to the butt-ugly and Musk-stained Tesla Model Y , so nobody should feel obligated to buy one of those anymore. This is a roundup of a few popular responses, but feel free to head back and look through the other great answers that didn't make the cut . These are the new cars that excite the Jalopnik audience the most.",
-    "summary": "Earlier this week we asked the fabulous Jalopnik audience which new cars excite them the most, and unsurprisingly you all did not disappoint. From cheap electric trucks to super expensive supercars , I was pleased to see a wide spread of different types of vehicles at all different price points.",
-    "image_url": "https://www.jalopnik.com/img/gallery/these-are-the-new-cars-that-excite-our-audience-the-most/l-intro-1794533526.jpg",
-    "original_url": "https://www.jalopnik.com/2315560/these-new-cars-excite-our-audience-most-reader-answers/",
-    "published_at": "2026-11-13T15:25:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Earlier this week we asked the fabulous Jalopnik audience which new cars excite them the most, and unsurprisingly you all did not disappoint. From cheap electric trucks to super expensive supercars , I was pleased to see a wide spread of different types of vehicles at all different price points. It seems that late-stage capitalism's relentless pursuit of innovation for innovation's sake hasn't deterred everyone just yet.",
-      "I said the Rivian R2 is the new car that excites me the most, since it offers a unique and compelling combination of style, affordability, speed, capability, technology, efficiency, and desirability. Plus, it offers compact electric SUV buyers a genuinely exciting alternative to the butt-ugly and Musk-stained Tesla Model Y , so nobody should feel obligated to buy one of those anymore. This is a roundup of a few popular responses, but feel free to head back and look through the other great answers that didn't make the cut . These are the new cars that excite the Jalopnik audience the most.",
-      "The Slate truck. I think cars and trucks have gotten way to complex and boring in that aspect. While I wish it was a bit cheaper, it's hard to start manufacturing cars. Hopefully the price will come down with scale.",
-      "The Ford Fathom but not because I am at all interested in a pickup truck. I will be waiting for the SUV that I expect will be be following on that UEV platform. I'm currently driving a Ford Mach-E and am convinced that Ford can build an EV as good or at least equal to the competition. The Mach-E is very good in all respects but what I want would be a little more SUV and a little less Mustang.",
-      "The new Toyota GR GT looks to be pretty awesome. And I may not be able to afford it, but I'm still glad it will be made.",
-      "Toyota's apparently upcoming Celica and/or MR2 (I'm not sure if this is one car or two). I'm worried that Toyota will get silly on the pricing, but they are one of only a handful of companies that are still thinking about fun to drive cars that normal-ish folks can actually afford.",
-      "The Rivian R3. The right size, the right price, the right (presumed) specs, and coming (hopefully) at the right time to be my first full EV.",
-      "Lotus Emira with the Toyota V6 is the best impractical new car for sale that is attainable for most people with a good income."
-    ],
-    "bullet_points": [
-      "Earlier this week we asked the fabulous Jalopnik audience which new cars excite them the most, and unsurprisingly you all did not disappoint.",
-      "From cheap electric trucks to super expensive supercars , I was pleased to see a wide spread of different types of vehicles at all different price points.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "These Are The New Cars That Excite Our Audience The Most",
-        "badge": "Breaking",
-        "text": "Earlier this week we asked the fabulous Jalopnik audience which new cars excite them the most, and unsurprisingly you all did not disappoint.",
-        "image": "https://www.jalopnik.com/img/gallery/these-are-the-new-cars-that-excite-our-audience-the-most/l-intro-1794533526.jpg",
-        "alt": "These Are The New Cars That Excite Our Audience The Most cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "From cheap electric trucks to super expensive supercars , I was pleased to see a wide spread of different types of vehicles at all different price points.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Earlier this week we asked the fabulous Jalopnik audience which new cars excite them the most, and unsurprisingly you all did not disappoint.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Car Culture & Restomods",
-        "text": "From cheap electric trucks to super expensive supercars , I was pleased to see a wide spread of different types of vehicles at all different price points.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 50
-  },
-  {
-    "id": "art_1794590339_14",
-    "slug": "elon-musk-wont-let-a-blue-wave-stop-his-spacex-tesla-merger",
-    "category": "entertainment",
-    "category_name": "Car Culture & Restomods",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-    "category_icon": "🎬",
-    "source": "Jalopnik",
-    "raw_title": "Elon Musk Won't Let A Blue Wave Stop His SpaceX-Tesla Merger",
-    "title": "Elon Musk Won't Let A Blue Wave Stop His SpaceX-Tesla Merger",
-    "raw_summary": "Happy Friday! It's November 13, 2026, and this is The Morning Shift — your daily roundup of the top automotive headlines from around the world, in one place. This is where you'll find the most important stories that are shaping the way Americans drive and get around. In this morning's edition we're looking at the continued efforts for a SpaceX-Tesla merger, and Mercedes dialing back its Germanity. We'll also look at EV sales in the U.S., and a BMW recall.",
-    "summary": "It's November 13, 2026, and this is The Morning Shift — your daily roundup of the top automotive headlines from around the world, in one place. This is where you'll find the most important stories that are shaping the way Americans drive and get around.",
-    "image_url": "https://www.jalopnik.com/img/gallery/elon-musk-wont-let-a-blue-wave-stop-his-spacex-tesla-merger/l-intro-1794583065.jpg",
-    "original_url": "https://www.jalopnik.com/2315917/elon-musk-spacex-tesla-merger-blue-wave-peril/",
-    "published_at": "2026-11-13T15:23:39+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Happy Friday! It's November 13, 2026, and this is The Morning Shift — your daily roundup of the top automotive headlines from around the world, in one place. This is where you'll find the most important stories that are shaping the way Americans drive and get around.",
-      "In this morning's edition we're looking at the continued efforts for a SpaceX-Tesla merger, and Mercedes dialing back its Germanity. We'll also look at EV sales in the U.S., and a BMW recall.",
-      "Elon Musk wants to merge his biggest companies, giving Robinhood addicts a single ticker to watch to satisfy their obsession with Musk's weird antics. Tesla and SpaceX are still figuring out how to make a deal, despite the midterm blue wave which could meaningfully impede the merger. From Reuters :",
-      "Nov 12 (Reuters) – SpaceX and Tesla are progressing in their merger negotiations, and a ​deal could be announced as early as ‌December, Bloomberg News reported on Thursday, citing people familiar with the matter.",
-      "The proposed merger would unify Elon Musk's ​AI, robotics, EV and aerospace ambitions under ​a single corporate roof, though it faces steep ⁠regulatory hurdles over SpaceX's US defense contracts ​and Tesla's reliance on China.",
-      "We've known this deal was coming for a while, but it'll be interesting to watch how newly blue regulators approach it. Will they take the midterm elections as a mandate to stand against business consolidation, or will they rubber-stamp the merger of a U.S. government contractor in order to show business donors they're not all bad?",
-      "Mercedes-Benz, noted German automaker, has decided that being German is just too expensive. The company's latest round of negotiations with unions hasn't yielded any cost savings, so the company is now halting new spending on its German factories — and considering closing some altogether. From Automotive News :",
-      "FRANKFURT — Mercedes-Benz is freezing investment in its German plants and exploring site closures after failing to agree with worker representatives on labor cost cuts."
-    ],
-    "bullet_points": [
-      "It's November 13, 2026, and this is The Morning Shift — your daily roundup of the top automotive headlines from around the world, in one place.",
-      "This is where you'll find the most important stories that are shaping the way Americans drive and get around.",
-      "Official reporting verified via Jalopnik news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Elon Musk Won't Let A Blue Wave Stop His SpaceX-Tesla Merger",
-        "badge": "Breaking",
-        "text": "It's November 13, 2026, and this is The Morning Shift — your daily roundup of the top automotive headlines from around the world, in one place.",
-        "image": "https://www.jalopnik.com/img/gallery/elon-musk-wont-let-a-blue-wave-stop-his-spacex-tesla-merger/l-intro-1794583065.jpg",
-        "alt": "Elon Musk Won't Let A Blue Wave Stop His SpaceX-Tesla Merger cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "This is where you'll find the most important stories that are shaping the way Americans drive and get around.",
-        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "It's November 13, 2026, and this is The Morning Shift — your daily roundup of the top automotive headlines from around the world, in one place.",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Car Culture & Restomods",
-        "text": "This is where you'll find the most important stories that are shaping the way Americans drive and get around.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Jalopnik.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 45
-  },
-  {
-    "id": "art_1794590339_6",
-    "slug": "comparison-test-2026-jeep-recon-moab-vs-2027-rivian-r2-performanc",
-    "category": "tech",
-    "category_name": "Supercars & Hypercars",
-    "category_color": "#ef4444",
-    "category_gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-    "category_icon": "🏎️",
-    "source": "Car and Driver",
-    "raw_title": "Comparison Test: 2026 Jeep Recon Moab vs. 2027 Rivian R2 Performance",
-    "title": "Comparison Test: 2026 Jeep Recon Moab vs. 2027 Rivian R2 Performance",
-    "raw_summary": "Normally, it’s easy to identify an incumbent. Establishment figures tend to enjoy advantages—experience, name recognition, resources—that are scarce for upstarts. But in the case of the 2027 Rivian R2 and the 2026 Jeep Recon Moab, it’s hard to say who’s the incumbent and who’s the challenger. Jeep has been building SUVs since the 1940s, as it’s happy to constantly remind you, but is relatively new to EVs. Meanwhile, the first Rivians hit the road just five years ago, but EVs are all that it builds, and the R2 is the brand’s third model. Which incumbency is more advantageous? Let’s take a look. The fresh-out-of-the-oven R2 hews to the typical launch strategy of offering the most expensive version first. Thus, our 2027 model is a Performance trim with the Launch package, which brings a 4400-pound tow rating and hands-free driving assist. Simpler variants are coming soon, priced closer to 50 grand, but our tester with its $2000 Launch Green paint tallied $61,485. Happily, the R2’s most delightful feature, its power roll-down hatch glass, is standard. Sorry, Toyota 4Runner , Rivian is onto the lifestyle appeal of a dropped rear window with a surfboard poking out. Or a dog or two who won’t be breathing exhaust fumes.",
-    "summary": "Normally, it’s easy to identify an incumbent. Establishment figures tend to enjoy advantages—experience, name recognition, resources—that are scarce for upstarts. But in the case of the 2027 Rivian R2 and the 2026 Jeep Recon Moab, it’s hard to say who’s the incumbent and who’s the challenger.",
-    "image_url": "https://hips.hearstapps.com/hmg-prod/images/c74d30ca-ec8e-471f-b103-bc9e30fee696.jpeg?crop=0.704xw:0.528xh;0.143xw,0.218xh&resize=1200:*",
-    "original_url": "https://www.caranddriver.com/reviews/comparison-test/a74386999/2026-jeep-recon-vs-2027-rivian-r2-comparison-test/",
-    "published_at": "2026-11-13T15:02:38+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Normally, it’s easy to identify an incumbent. Establishment figures tend to enjoy advantages—experience, name recognition, resources—that are scarce for upstarts. But in the case of the 2027 Rivian R2 and the 2026 Jeep Recon Moab, it’s hard to say who’s the incumbent and who’s the challenger. Jeep has been building SUVs since the 1940s, as it’s happy to constantly remind you, but is relatively new to EVs. Meanwhile, the first Rivians hit the road just five years ago, but EVs are all that it builds, and the R2 is the brand’s third model. Which incumbency is more advantageous? Let’s take a look.",
-      "The fresh-out-of-the-oven R2 hews to the typical launch strategy of offering the most expensive version first. Thus, our 2027 model is a Performance trim with the Launch package, which brings a 4400-pound tow rating and hands-free driving assist. Simpler variants are coming soon, priced closer to 50 grand, but our tester with its $2000 Launch Green paint tallied $61,485. Happily, the R2’s most delightful feature, its power roll-down hatch glass, is standard. Sorry, Toyota 4Runner , Rivian is onto the lifestyle appeal of a dropped rear window with a surfboard poking out. Or a dog or two who won’t be breathing exhaust fumes.",
-      "See all results for new 2026 Jeep Recon EV for sale near 51503",
-      "The Recon is so far only available in Moab trim, which at Jeep signifies elevated off-road capability along with an elevated price. Indeed, the Recon’s $68,990 base sticker exceeds the R2’s as-tested figure, and an assortment of goodies further inflated our as-tested price to $73,345. Major options included the $1995 Comfort package, which adds ventilated front seats and heated second-row seats, and the $995 towing package (max capacity: 3300 pounds). Plenty of off-road hardware is standard: skid plates, an electronically locking rear differential, and 33-inch all-terrain tires. And because Jeep is leaning into the “Wrangler, but electric” theme, the Recon’s doors and rear windows are removable without tools. But, at about 70 pounds each, the doors might not be removable without a daily swig of creatine.",
-      "The R2’s styling is “Honey, I Shrunk the R1.” It’s clean, modern, and employs the signature Rivian ovoid headlights. There’s nothing too revolutionary about it, but that works to its advantage—Rivian wants to sell the hell out of this thing, and divisive styling is not a smart play for conquesting market share from internal-combustion rivals. (Just ask the Tesla Cybertruck .) And, hey, you can’t go wrong with big wheels pushed out to the corners. Our tester had all-season tires on 21-inch wheels, the mall-crawler spec, but Rivian does offer tougher-looking 20-inch wheels with all-terrain tires. Those, however, will drop EPA-rated range from 330 miles to 307 miles.",
-      "See all results for new 2026 Jeep Recon EV for sale near 51503",
-      "The Recon’s aesthetic is intentionally anti-EV, with nary a concession to aerodynamics or rolling resistance. It’s square, tall, and has a front bumper that looks like a bulldog’s underbite, all of which contributes to an atmosphere-battling 0.404 coefficient of drag. It doesn’t quite pull off the Wrangler’s studied minimalism, but the Recon is the most off-road-forward EV this side of a Hummer or a Mercedes-Benz G580e. It’s also capable of changing up its look, depending on whether the doors and windows are removed. Buttoned up, it’s a regular SUV with an off-road bent, but ditch the doors and open the full-length canvas roof, and it’s like you’re driving something from the car-stripping contest in I’m Gonna Git You Sucka .",
-      "Inside, the R2 and Recon represent their respective manufacturers’ design philosophies. Whether you prefer the spare, screen-centric Rivian or the more conventional Jeep is a matter of your priorities (and, maybe, age), but the Recon is undeniably more user-friendly. Stellantis may whipsaw on its product planning— EVs! No, V-8s! —but its interiors are consistently good, from Jeep to Ram to the Chrysler Pacifica . A splash of tan leather across the top of the steering wheel matches the seats, and a red panel on the console draws attention to the rocker switch for the terrain modes. Both the Rivian and Jeep feature large touchscreens, but the Recon augments its touchscreen functions with hard buttons (on both the dash and the steering wheel) and knobs for volume and tuning. The Jeep’s Uconnect 5 system also supports wireless Apple CarPlay and Android Auto, while the Rivian doesn’t allow phone mirroring."
-    ],
-    "bullet_points": [
-      "Normally, it’s easy to identify an incumbent.",
-      "Establishment figures tend to enjoy advantages—experience, name recognition, resources—that are scarce for upstarts.",
-      "But in the case of the 2027 Rivian R2 and the 2026 Jeep Recon Moab, it’s hard to say who’s the incumbent and who’s the challenger."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Comparison Test: 2026 Jeep Recon Moab vs. 2027 Rivian R2 Performance",
-        "badge": "Breaking",
-        "text": "Normally, it’s easy to identify an incumbent.",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/c74d30ca-ec8e-471f-b103-bc9e30fee696.jpeg?crop=0.704xw:0.528xh;0.143xw,0.218xh&resize=1200:*",
-        "alt": "Comparison Test: 2026 Jeep Recon Moab vs. 2027 Rivian R2 Performance cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "Establishment figures tend to enjoy advantages—experience, name recognition, resources—that are scarce for upstarts.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "But in the case of the 2027 Rivian R2 and the 2026 Jeep Recon Moab, it’s hard to say who’s the incumbent and who’s the challenger.",
-        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Supercars & Hypercars",
-        "text": "Establishment figures tend to enjoy advantages—experience, name recognition, resources—that are scarce for upstarts.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Car and Driver.",
-        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 46
-  },
-  {
-    "id": "art_1794661161_5",
-    "slug": "lucids-cosmos-ev-takes-shape-but-its-launching-later-than-planned",
-    "category": "business",
-    "category_name": "Auto Industry & Deals",
-    "category_color": "#10b981",
-    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-    "category_icon": "📈",
-    "source": "Carscoops",
-    "raw_title": "Lucid's Cosmos EV Takes Shape, But It's Launching Later Than Planned",
-    "title": "Lucid's Cosmos EV Takes Shape, But It's Launching Later Than Planned",
-    "raw_summary": "Months after patent drawings leaked online, Lucid dropped fresh teaser footage of its upcoming Cosmos EV Lucid has dropped a new video that teases its upcoming entry-level Cosmos electric SUV ahead of the car's debut next year. The Cosmos is arguably the most important vehicle the American brand has designed to date and could be make-or-break for Lucid, given that it is still unprofitable after launching and selling the Air sedan and Gravity SUV.",
-    "summary": "Months after patent drawings leaked online, Lucid dropped fresh teaser footage of its upcoming Cosmos EV Lucid has dropped a new video that teases its upcoming entry-level Cosmos electric SUV ahead of the car's debut next year. The Cosmos is arguably the most important vehicle the American brand has designed to date and could be make-or-break for Lucid, given that it is still unprofitable after launching and selling the Air sedan and Gravity SUV.",
-    "image_url": "https://www.carscoops.com/img/gallery/lucids-cosmos-ev-takes-shape-but-its-launching-later-than-planned/l-intro-1794581318.jpg",
-    "original_url": "https://www.carscoops.com/2315861/lucid-cosmos-ev-teaser-video/",
-    "published_at": "2026-11-13T14:58:07+00:00",
-    "time_ago": "22h ago",
-    "reading_time": "2 min read",
-    "article_paragraphs": [
-      "Months after patent drawings leaked online, Lucid dropped fresh teaser footage of its upcoming Cosmos EV",
-      "Lucid has dropped a new video that teases its upcoming entry-level Cosmos electric SUV ahead of the car's debut next year. The Cosmos is arguably the most important vehicle the American brand has designed to date and could be make-or-break for Lucid, given that it is still unprofitable after launching and selling the Air sedan and Gravity SUV.",
-      "In a promotional video shared on X, Lucid describes how it has \"always looked at movement differently.\" It's a nice video, showcasing the brand's models in a host of different environments, including outdoors, on the beach, and in city centers. The clip then gets especially intriguing toward the end, where a camouflaged prototype of the Cosmos is showcased during winter testing in New Zealand. The video ends with clips previewing the front and rear of the vehicle.",
-      "As leaked patent images from earlier this year revealed, the Cosmos will follow a familiar design theme as the Air and Gravity, albeit in a slightly smaller package. The teaser shows a thin LED headlight with an intricate daytime running light pattern. Lucid has also previewed the SUV's rear, which includes an illuminated Lucid badge and narrow LED taillights.",
-      "The shape of the Cosmos's rear end somewhat reminds us of the Genesis GV60. Like that EV, the Cosmos has a small lip spoiler running across the rear and essentially splitting the rear window into two segments. Admittedly, the Lucid does appear longer than the GV60, and the roof seems to sit slightly more upright.",
-      "Lucid had originally intended to launch the Cosmos in late 2026, but in August, it confirmed the model won't hit the production line until the second half of 2027. It will be built at the company's AM2 facility in Saudi Arabia, rather than at the Arizona factory that currently builds the Air and Gravity models.",
-      "The Cosmos won't simply be a smaller version of the Gravity. Instead, it's going to be the first model underpinned by Lucid's new midsize platform that will also spawn a second EV known as the Earth. This platform will include a new electric drive unit called Atlas. It uses 30% fewer parts than the drive units featured in the Air and Gravity and will also be lighter and cheaper. The Cosmos is expected to initially hit the market with a 69-kWh battery and a targeted driving range of more than 300 miles, and a larger pack may be added in the future.",
-      "We've always looked at movement differently. From the calm of a well-crafted cabin to the ease of a journey and the thrill of acceleration, it's about elevating the experience of movement, mile after mile. And as we build new vehicles and push technology further, we can't wait to... pic.twitter.com/CwbKeAqc92"
-    ],
-    "bullet_points": [
-      "Months after patent drawings leaked online, Lucid dropped fresh teaser footage of its upcoming Cosmos EV Lucid has dropped a new video that teases its upcoming entry-level Cosmos electric SUV ahead of the car's debut next year.",
-      "The Cosmos is arguably the most important vehicle the American brand has designed to date and could be make-or-break for Lucid, given that it is still unprofitable after launching and selling the Air sedan and Gravity SUV.",
-      "Official reporting verified via Carscoops news desk."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Lucid's Cosmos EV Takes Shape, But It's Launching Later Than Planned",
-        "badge": "Breaking",
-        "text": "Months after patent drawings leaked online, Lucid dropped fresh teaser footage of its upcoming Cosmos EV Lucid has dropped a new video that teases its upcoming entry-level Cosmos electric SUV ahead of the car's debut next year.",
-        "image": "https://www.carscoops.com/img/gallery/lucids-cosmos-ev-takes-shape-but-its-launching-later-than-planned/l-intro-1794581318.jpg",
-        "alt": "Lucid's Cosmos EV Takes Shape, But It's Launching Later Than Planned cover image"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Event",
-        "badge": "What Happened",
-        "text": "The Cosmos is arguably the most important vehicle the American brand has designed to date and could be make-or-break for Lucid, given that it is still unprofitable after launching and selling the Air sedan and Gravity SUV.",
-        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Key Facts",
-        "badge": "Details",
-        "text": "Months after patent drawings leaked online, Lucid dropped fresh teaser footage of its upcoming Cosmos EV Lucid has dropped a new video that teases its upcoming entry-level Cosmos electric SUV ahead of the car's debut next year.",
-        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "Context & Significance",
-        "badge": "Auto Industry & Deals",
-        "text": "The Cosmos is arguably the most important vehicle the American brand has designed to date and could be make-or-break for Lucid, given that it is still unprofitable after launching and selling the Air sedan and Gravity SUV.",
-        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
-        "alt": "Context visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Outlook",
-        "badge": "Takeaway",
-        "text": "Stay updated with continuous reporting from Carscoops.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop",
-        "alt": "Outlook visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 74
   }
 ]

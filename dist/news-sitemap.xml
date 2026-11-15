@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/a-radically-different-approach-to-ai/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T22:05:07+00:00</news:publication_date>
+      <news:title>A Radically Different Approach to AI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Fuzzy-definition-Luke-Jones-Unsplash.jpg</image:loc>
+      <image:title>A Radically Different Approach to AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-largest-hummer-in-the-world-has-two-stories-and-a-full-kitche/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T22:05:00+00:00</news:publication_date>
+      <news:title>The Largest Hummer In The World Has Two Stories And A Full Kitchen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-largest-hummer-in-the-world-has-two-stories-and-a-full-kitchen/l-intro-1794225088.jpg</image:loc>
+      <image:title>The Largest Hummer In The World Has Two Stories And A Full Kitchen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-fast-prototype-army-off-roader-owes-its-existence-to-the-par/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T21:05:00+00:00</news:publication_date>
+      <news:title>This Fast Prototype Army Off-Roader Owes Its Existence To The Paris-Dakar Rally</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/this-fast-prototype-army-off-roader-owes-its-existence-to-the-paris-dakar-rally/l-intro-1793997880.jpg</image:loc>
+      <image:title>This Fast Prototype Army Off-Roader Owes Its Existence To The Paris-Dakar Rally</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-you-should-clean-brake-dust-off-your-rims-and-how-to-do-it-ef/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T21:00:00+00:00</news:publication_date>
+      <news:title>Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/why-you-should-clean-brake-dust-off-your-rims-and-how-to-do-it-effectively/l-intro-1794200700.jpg</image:loc>
+      <image:title>Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/lamborghinis-own-test-driver-says-the-famous-195-mph-countach-was/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T20:50:00+00:00</news:publication_date>
+      <news:title>Lamborghini&#x27;s Own Test Driver Says The Famous 195 MPH Countach Wasn&#x27;t Exactly Stock</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/lamborghinis-own-test-driver-says-the-famous-195-mph-countach-wasnt-exactly-stock/l-intro-1793991940.jpg</image:loc>
+      <image:title>Lamborghini&#x27;s Own Test Driver Says The Famous 195 MPH Countach Wasn&#x27;t Exactly Stock</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-did-make-diesel-engines-heres-why-they-disappeared/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T20:25:00+00:00</news:publication_date>
+      <news:title>Honda Did Make Diesel Engines, Here&#x27;s Why They Disappeared</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/honda-did-make-diesel-engines-heres-why-they-disappeared/l-intro-1793978171.jpg</image:loc>
+      <image:title>Honda Did Make Diesel Engines, Here&#x27;s Why They Disappeared</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/can-the-right-spark-plugs-really-increase-engine-horsepower/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T20:00:00+00:00</news:publication_date>
+      <news:title>Can The Right Spark Plugs Really Increase Engine Horsepower?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/can-the-right-spark-plugs-really-increase-engine-horsepower/l-intro-1794511344.jpg</image:loc>
+      <image:title>Can The Right Spark Plugs Really Increase Engine Horsepower?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/the-reason-why-ev-tires-are-so-expensive/</loc>
     <news:news>
       <news:publication>
@@ -468,6 +573,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/denza-d9-and-z9-gt-launched-in-india-price-specs-features-more/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T07:37:26+00:00</news:publication_date>
+      <news:title>Denza D9 and Z9 GT Launched in India - Price, Specs, Features &amp; More!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/11/denza-d9-z9-gt-launch-india.jpg</image:loc>
+      <image:title>Denza D9 and Z9 GT Launched in India - Price, Specs, Features &amp; More!</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/denza-d9-vs-mg-m9-specs-comparison/</loc>
     <news:news>
       <news:publication>
@@ -570,6 +690,21 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
       <image:title>Toyota Innova Hycross Facelift Teased Ahead Of November 25 Launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-sales-analysis-october-2026-nexon-punch-tiago-sierra-aeris-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T02:30:39+00:00</news:publication_date>
+      <news:title>Tata Sales Analysis October 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/Tata-Nexon-Camo-5.jpg</image:loc>
+      <image:title>Tata Sales Analysis October 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier</image:title>
     </image:image>
   </url>
   <url>
@@ -1605,261 +1740,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/john-hennessey-says-the-blackbird-is-about-much-more-than-big-numbers/l-intro-1794602449.jpg</image:loc>
       <image:title>John Hennessey Says The Blackbird Is About Much More Than Big Numbers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-isnt-a-new-ducati-its-actually-a-chinese-superbike/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T22:42:30+00:00</news:publication_date>
-      <news:title>This Isn&#x27;t A New Ducati, It&#x27;s Actually A Chinese Superbike</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-isnt-a-new-ducati-its-actually-a-chinese-superbike/l-intro-1794609567.jpg</image:loc>
-      <image:title>This Isn&#x27;t A New Ducati, It&#x27;s Actually A Chinese Superbike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T22:41:31+00:00</news:publication_date>
-      <news:title>32 Hospitalized After Asphalt Tanker Slams Into And Sinks Docked Riverboat In New Orleans</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-riverboat-in-new-orleans/l-intro-1794609632.jpg</image:loc>
-      <image:title>32 Hospitalized After Asphalt Tanker Slams Into And Sinks Docked Riverboat In New Orleans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ask-a-scientist-who-has-a-voice-in-clean-air-protections/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T22:38:11+00:00</news:publication_date>
-      <news:title>Ask a Scientist: Who Has a Voice in Clean Air Protections?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/06/NYC-bike-path-CleanTechnica.jpg</image:loc>
-      <image:title>Ask a Scientist: Who Has a Voice in Clean Air Protections?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/spied-ford-may-finally-be-working-on-a-two-door-f-150-lobo-street/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T22:15:00+00:00</news:publication_date>
-      <news:title>Spied! Ford May Finally Be Working on a Two-Door F-150 Lobo Street Truck</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/719b859d-c30c-422a-876c-0ba9006dfd81.png</image:loc>
-      <image:title>Spied! Ford May Finally Be Working on a Two-Door F-150 Lobo Street Truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-may-have-just-hinted-at-the-name-of-its-next-affordabl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T22:14:38+00:00</news:publication_date>
-      <news:title>Volkswagen may have just hinted at the name of its next affordable EV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Volkswagen may have just hinted at the name of its next affordable EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/next-gen-lotus-esprit-packs-a-986-hp-twin-turbo-v8-hybrid-punch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T21:53:50+00:00</news:publication_date>
-      <news:title>Next-Gen Lotus Esprit Packs A 986+ HP Twin-Turbo V8 Hybrid Punch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/heres-the-v8-thatll-power-the-986-hp-lotus-esprit/l-intro-1794606807.jpg</image:loc>
-      <image:title>Next-Gen Lotus Esprit Packs A 986+ HP Twin-Turbo V8 Hybrid Punch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/michelle-yeoh-says-window-seats-are-underrated-and-shes-right-tha/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T21:45:00+00:00</news:publication_date>
-      <news:title>Michelle Yeoh Says Window Seats Are Underrated, And She&#x27;s Right (That You Should Leave The Aisle Seats For Me)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/michelle-yeoh-says-window-seats-are-underrated-and-shes-right-that-you-should-leave-the-aisle-seats-for-me/l-intro-1794354020.jpg</image:loc>
-      <image:title>Michelle Yeoh Says Window Seats Are Underrated, And She&#x27;s Right (That You Should Leave The Aisle Seats For Me)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/us-government-grounds-all-flights-across-the-united-states-due-to/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T21:44:38+00:00</news:publication_date>
-      <news:title>US government grounds all flights across the United States &#x27;due to extraordinary circumstances</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1600,1067</image:loc>
-      <image:title>US government grounds all flights across the United States &#x27;due to extraordinary circumstances</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/faas-nationwide-ground-stop-definitely-not-because-of-new-ai-air-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T21:44:32+00:00</news:publication_date>
-      <news:title>FAA&#x27;s Nationwide Ground Stop Definitely Not Because Of New AI Air Traffic Control Tool... Probably</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/faa-orders-nationwide-ground-stop-due-to-extraordinary-circumstances/l-intro-1794611312.jpg</image:loc>
-      <image:title>FAA&#x27;s Nationwide Ground Stop Definitely Not Because Of New AI Air Traffic Control Tool... Probably</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-new-flagship-tang-suv-starts-at-about-34000-with-two-enormou/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T21:38:04+00:00</news:publication_date>
-      <news:title>BYD&#x27;s new flagship Tang SUV starts at about $34,000 with two enormous screens</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Tang-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD&#x27;s new flagship Tang SUV starts at about $34,000 with two enormous screens</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-the-developers-of-007-first-light-nailed-the-feeling-of-being/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T21:01:09+00:00</news:publication_date>
-      <news:title>How The Developers Of &#x27;007 First Light&#x27; Nailed The Feeling Of Being James Bond Through Its Cars And Vehicles</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/how-the-developers-of-007-first-light-nailed-the-feeling-of-being-james-bond-through-its-cars-and-vehicles/l-intro-1794603578.jpg</image:loc>
-      <image:title>How The Developers Of &#x27;007 First Light&#x27; Nailed The Feeling Of Being James Bond Through Its Cars And Vehicles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/you-can-buy-a-plymouth-superbird-that-once-went-220-mph/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T21:00:00+00:00</news:publication_date>
-      <news:title>You Can Buy A Plymouth Superbird That Once Went 220 MPH</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/you-can-buy-a-plymouth-superbird-that-once-went-220-mph/l-intro-1794299994.jpg</image:loc>
-      <image:title>You Can Buy A Plymouth Superbird That Once Went 220 MPH</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/worst-possible-news-cybertruck-fans-melt-down-after-tesla-cancels/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T20:56:46+00:00</news:publication_date>
-      <news:title>Worst Possible News&#x27;: Cybertruck Fans Melt Down After Tesla Cancels Its Wheeled Electric Dumpster</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/worst-possible-news-cybertruck-fans-melt-down-after-tesla-cancels-its-wheeled-electric-dumpster/l-intro-1794603321.jpg</image:loc>
-      <image:title>Worst Possible News&#x27;: Cybertruck Fans Melt Down After Tesla Cancels Its Wheeled Electric Dumpster</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rimac-is-ending-nevera-production-with-just-71-units-built/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T20:37:32+00:00</news:publication_date>
-      <news:title>Rimac Is Ending Nevera Production With Just 71 Units Built</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/rimac-is-ending-nevera-production-with-just-71-units-built/l-intro-1794602121.jpg</image:loc>
-      <image:title>Rimac Is Ending Nevera Production With Just 71 Units Built</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-aston-martin-valhalla/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T20:23:09+00:00</news:publication_date>
-      <news:title>2027 Aston Martin Valhalla</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/76bc6da0-a443-4ba6-a27e-1358a6d94f0c.jpg?crop=0.708xw:0.530xh;0.190xw,0.314xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Aston Martin Valhalla</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2028-ford-mustang-cobra-with-a-race-car-derived-v-8-is-worth-wait/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T20:00:00+00:00</news:publication_date>
-      <news:title>2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6722cd71-0f94-4dc2-a361-89c21b889153.jpg</image:loc>
-      <image:title>2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T19:41:44+00:00</news:publication_date>
-      <news:title>Blazing Phoenix Yellow Adorns 2027 Acura Integra Type S Heritage Edition</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-edition/l-intro-1794598688.jpg</image:loc>
-      <image:title>Blazing Phoenix Yellow Adorns 2027 Acura Integra Type S Heritage Edition</image:title>
     </image:image>
   </url>
 </urlset>
