@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-15T02:08:29Z</lastmod>
+    <lastmod>2026-11-15T09:39:11Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-15T02:08:29Z</lastmod>
+    <lastmod>2026-11-15T09:39:11Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-15T02:08:29Z</lastmod>
+    <lastmod>2026-11-15T09:39:11Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-15T02:08:29Z</lastmod>
+    <lastmod>2026-11-15T09:39:11Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-15T02:08:29Z</lastmod>
+    <lastmod>2026-11-15T09:39:11Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-15T02:08:29Z</lastmod>
+    <lastmod>2026-11-15T09:39:11Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-williams-has-turned-sainz-and-albon-into-test-drivers/</loc>
+    <lastmod>2026-11-15T09:12:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451432_HiRes.jpg</image:loc>
+      <image:title>Why Williams has turned Sainz and Albon into test drivers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/why-williams-has-turned-sainz-and-albon-into-test-drivers/</loc>
+    <lastmod>2026-11-15T09:12:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451432_HiRes.jpg</image:loc>
+      <image:title>Why Williams has turned Sainz and Albon into test drivers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-model-wise-sales-october-2026-innova-hyryder-fortuner-tais/</loc>
+    <lastmod>2026-11-15T08:30:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Hyryder-2.jpg</image:loc>
+      <image:title>Toyota Model Wise Sales October 2026 - Innova, Hyryder, Fortuner, Taisor, Rumion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-model-wise-sales-october-2026-innova-hyryder-fortuner-tais/</loc>
+    <lastmod>2026-11-15T08:30:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Hyryder-2.jpg</image:loc>
+      <image:title>Toyota Model Wise Sales October 2026 - Innova, Hyryder, Fortuner, Taisor, Rumion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/updated-mahindra-thar-roxx-with-davinci-og-alloys-spotted-outside/</loc>
+    <lastmod>2026-11-15T05:47:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Mahindra-Thar-Roxx-With-DaVinci-OG-Alloys-launch.jpg</image:loc>
+      <image:title>Updated Mahindra Thar Roxx With DaVinci, OG Alloys Spotted Outside Dealer Showroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/updated-mahindra-thar-roxx-with-davinci-og-alloys-spotted-outside/</loc>
+    <lastmod>2026-11-15T05:47:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Mahindra-Thar-Roxx-With-DaVinci-OG-Alloys-launch.jpg</image:loc>
+      <image:title>Updated Mahindra Thar Roxx With DaVinci, OG Alloys Spotted Outside Dealer Showroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home/</loc>
+    <lastmod>2026-11-15T04:39:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/02/energy-storage-vpp-solrite.png</image:loc>
+      <image:title>Sonnen, SOLRITE, &amp; ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home/</loc>
+    <lastmod>2026-11-15T04:39:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/02/energy-storage-vpp-solrite.png</image:loc>
+      <image:title>Sonnen, SOLRITE, &amp; ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hummer-h1s-may-be-nearly-indestructible-but-some-serious-flaws-li/</loc>
+    <lastmod>2026-11-15T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/hummer-h1s-may-be-nearly-indestructible-but-some-serious-flaws-live-in-that-nearly-part/l-intro-1793810821.jpg</image:loc>
+      <image:title>Hummer H1s May Be Nearly Indestructible, But Some Serious Flaws Live In That &#x27;Nearly&#x27; Part</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hummer-h1s-may-be-nearly-indestructible-but-some-serious-flaws-li/</loc>
+    <lastmod>2026-11-15T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/hummer-h1s-may-be-nearly-indestructible-but-some-serious-flaws-live-in-that-nearly-part/l-intro-1793810821.jpg</image:loc>
+      <image:title>Hummer H1s May Be Nearly Indestructible, But Some Serious Flaws Live In That &#x27;Nearly&#x27; Part</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rocket-fuel-the-last-frontier-for-natural-gas/</loc>
+    <lastmod>2026-11-15T03:40:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/ngpipelines_map.us-eiapng.png</image:loc>
+      <image:title>Rocket Fuel: The Last Frontier For Natural Gas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rocket-fuel-the-last-frontier-for-natural-gas/</loc>
+    <lastmod>2026-11-15T03:40:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/ngpipelines_map.us-eiapng.png</image:loc>
+      <image:title>Rocket Fuel: The Last Frontier For Natural Gas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/this-honda-civic-is-the-direct-ancestor-of-the-og-tesla-roadster/</loc>
+    <lastmod>2026-11-15T02:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/this-honda-civic-is-the-direct-ancestor-of-the-og-tesla-roadster/l-intro-1793980209.jpg</image:loc>
+      <image:title>This Honda Civic Is The Direct Ancestor Of The OG Tesla Roadster</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/this-honda-civic-is-the-direct-ancestor-of-the-og-tesla-roadster/</loc>
+    <lastmod>2026-11-15T02:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/this-honda-civic-is-the-direct-ancestor-of-the-og-tesla-roadster/l-intro-1793980209.jpg</image:loc>
+      <image:title>This Honda Civic Is The Direct Ancestor Of The OG Tesla Roadster</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/what-the-us-midterm-elections-mean-for-climate-progress/</loc>
@@ -2895,146 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/worker-solar-facility-nevada-46186.webp</image:loc>
       <image:title>What Happens in Vegas Should Inform the Rest of the Country</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-india-sales-breakup-oct-2026-seltos-sonet-clavis-sorento-syro/</loc>
-    <lastmod>2026-11-13T02:20:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-kia-seltos-sales-record.jpg</image:loc>
-      <image:title>Kia India Sales Breakup Oct 2026 - Seltos, Sonet, Clavis, Sorento, Syros, Carnival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/kia-india-sales-breakup-oct-2026-seltos-sonet-clavis-sorento-syro/</loc>
-    <lastmod>2026-11-13T02:20:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-kia-seltos-sales-record.jpg</image:loc>
-      <image:title>Kia India Sales Breakup Oct 2026 - Seltos, Sonet, Clavis, Sorento, Syros, Carnival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/sonnens-new-smart-breakers-help-your-home-battery-last-longer/</loc>
-    <lastmod>2026-11-12T23:22:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/sonnen-batteries-smart-breakers.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>sonnen&#x27;s new smart breakers help your home battery last longer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/sonnens-new-smart-breakers-help-your-home-battery-last-longer/</loc>
-    <lastmod>2026-11-12T23:22:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/sonnen-batteries-smart-breakers.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>sonnen&#x27;s new smart breakers help your home battery last longer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/a-kei-sized-rwd-coupe-by-toyota-sounds-like-a-treat/</loc>
-    <lastmod>2026-11-12T23:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/a-kei-sized-rwd-coupe-by-toyota-sounds-like-a-treat/l-intro-1794393293.jpg</image:loc>
-      <image:title>A Kei-Sized RWD Coupe By Toyota Sounds Like A Treat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/a-kei-sized-rwd-coupe-by-toyota-sounds-like-a-treat/</loc>
-    <lastmod>2026-11-12T23:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/a-kei-sized-rwd-coupe-by-toyota-sounds-like-a-treat/l-intro-1794393293.jpg</image:loc>
-      <image:title>A Kei-Sized RWD Coupe By Toyota Sounds Like A Treat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/four-of-seven-dutch-green-hydrogen-projects-have-been-cancelled-t/</loc>
-    <lastmod>2026-11-12T22:40:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Hero_Original_1600x900.png</image:loc>
-      <image:title>Four of Seven Dutch Green Hydrogen Projects Have Been Cancelled. The Subsidies Keep Coming</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/four-of-seven-dutch-green-hydrogen-projects-have-been-cancelled-t/</loc>
-    <lastmod>2026-11-12T22:40:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Hero_Original_1600x900.png</image:loc>
-      <image:title>Four of Seven Dutch Green Hydrogen Projects Have Been Cancelled. The Subsidies Keep Coming</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nhtsa-probing-12-million-ford-explorer-airbags-that-could-burn-pa/</loc>
-    <lastmod>2026-11-12T22:26:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/nhtsa-probing-1-3-million-ford-explorer-airbags-that-could-burn-passengers/l-intro-1794522144.jpg</image:loc>
-      <image:title>NHTSA Probing 1.2 Million Ford Explorer Airbags That Could Burn Passengers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/nhtsa-probing-12-million-ford-explorer-airbags-that-could-burn-pa/</loc>
-    <lastmod>2026-11-12T22:26:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/nhtsa-probing-1-3-million-ford-explorer-airbags-that-could-burn-passengers/l-intro-1794522144.jpg</image:loc>
-      <image:title>NHTSA Probing 1.2 Million Ford Explorer Airbags That Could Burn Passengers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-wins-round-one-in-defender-copycat-battle-as-jlr-is-told-to-d/</loc>
-    <lastmod>2026-11-12T22:03:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-JLR-Defender-copycat.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD wins round one in Defender-copycat battle as JLR is told to destroy documents</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-wins-round-one-in-defender-copycat-battle-as-jlr-is-told-to-d/</loc>
-    <lastmod>2026-11-12T22:03:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-JLR-Defender-copycat.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>BYD wins round one in Defender-copycat battle as JLR is told to destroy documents</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/we-explored-the-ford-vault-the-new-home-of-fords-heritage-fleet/</loc>
-    <lastmod>2026-11-12T22:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b7b1b285-6484-42ba-9587-da28f63fd923.jpg</image:loc>
-      <image:title>We Explored the Ford Vault, the New Home of Ford&#x27;s Heritage Fleet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/we-explored-the-ford-vault-the-new-home-of-fords-heritage-fleet/</loc>
-    <lastmod>2026-11-12T22:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/b7b1b285-6484-42ba-9587-da28f63fd923.jpg</image:loc>
-      <image:title>We Explored the Ford Vault, the New Home of Ford&#x27;s Heritage Fleet</image:title>
     </image:image>
   </url>
 </urlset>
