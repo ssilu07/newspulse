@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-14T22:35:09Z</lastmod>
+    <lastmod>2026-11-15T02:08:29Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-14T22:35:09Z</lastmod>
+    <lastmod>2026-11-15T02:08:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-14T22:35:09Z</lastmod>
+    <lastmod>2026-11-15T02:08:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-14T22:35:09Z</lastmod>
+    <lastmod>2026-11-15T02:08:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-14T22:35:09Z</lastmod>
+    <lastmod>2026-11-15T02:08:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-14T22:35:09Z</lastmod>
+    <lastmod>2026-11-15T02:08:29Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-the-us-midterm-elections-mean-for-climate-progress/</loc>
+    <lastmod>2026-11-15T00:52:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/05/Florida-sunset-Cynthia-Shahan.jpeg</image:loc>
+      <image:title>What The US Midterm Elections Mean For Climate Progress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-the-us-midterm-elections-mean-for-climate-progress/</loc>
+    <lastmod>2026-11-15T00:52:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/05/Florida-sunset-Cynthia-Shahan.jpeg</image:loc>
+      <image:title>What The US Midterm Elections Mean For Climate Progress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-crucial-difference-between-flock-cameras-and-plate-readers-in/</loc>
+    <lastmod>2026-11-15T00:50:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-crucial-difference-between-flock-cameras-and-plate-readers-in-other-countries/l-intro-1794692445.jpg</image:loc>
+      <image:title>The Crucial Difference Between Flock Cameras And Plate Readers In Other Countries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-crucial-difference-between-flock-cameras-and-plate-readers-in/</loc>
+    <lastmod>2026-11-15T00:50:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-crucial-difference-between-flock-cameras-and-plate-readers-in-other-countries/l-intro-1794692445.jpg</image:loc>
+      <image:title>The Crucial Difference Between Flock Cameras And Plate Readers In Other Countries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/34-billion-anthropic-order-for-gas-power-plants/</loc>
+    <lastmod>2026-11-15T00:33:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Caterpillar-gas-engine-genset.jpg</image:loc>
+      <image:title>$3.4 Billion - Anthropic Order for Gas Power Plants!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/34-billion-anthropic-order-for-gas-power-plants/</loc>
+    <lastmod>2026-11-15T00:33:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Caterpillar-gas-engine-genset.jpg</image:loc>
+      <image:title>$3.4 Billion - Anthropic Order for Gas Power Plants!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-a-road-sign-with-a-black-y-means-and-other-letters-too/</loc>
+    <lastmod>2026-11-15T00:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-a-road-sign-with-a-black-y-means-and-other-letters-too/l-intro-1793739871.jpg</image:loc>
+      <image:title>What A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/what-a-road-sign-with-a-black-y-means-and-other-letters-too/</loc>
+    <lastmod>2026-11-15T00:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-a-road-sign-with-a-black-y-means-and-other-letters-too/l-intro-1793739871.jpg</image:loc>
+      <image:title>What A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/every-car-brand-thats-made-a-v10-powered-sedan/</loc>
+    <lastmod>2026-11-14T23:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/every-car-brand-thats-made-a-v10-powered-sedan/l-intro-1793978663.jpg</image:loc>
+      <image:title>Every Car Brand That&#x27;s Made A V10-Powered Sedan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/every-car-brand-thats-made-a-v10-powered-sedan/</loc>
+    <lastmod>2026-11-14T23:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/every-car-brand-thats-made-a-v10-powered-sedan/l-intro-1793978663.jpg</image:loc>
+      <image:title>Every Car Brand That&#x27;s Made A V10-Powered Sedan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/</loc>
+    <lastmod>2026-11-14T23:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/l-intro-1794580515.jpg</image:loc>
+      <image:title>Chinese Competition May Cause EV Tariff Delays In The EU And UK</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/</loc>
+    <lastmod>2026-11-14T23:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/l-intro-1794580515.jpg</image:loc>
+      <image:title>Chinese Competition May Cause EV Tariff Delays In The EU And UK</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/</loc>
@@ -158,6 +278,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/waymo-encounters-police-blockade-and-speeds-right-by-because-of-c/</loc>
+    <lastmod>2026-11-14T20:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/waymo-encounters-police-blockade-and-speeds-right-by-because-of-course-it-did/l-intro-1794503899.jpg</image:loc>
+      <image:title>Waymo Encounters Police Blockade And Speeds Right By, Because Of Course It Did</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/waymo-encounters-police-blockade-and-speeds-right-by-because-of-c/</loc>
+    <lastmod>2026-11-14T20:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/waymo-encounters-police-blockade-and-speeds-right-by-because-of-course-it-did/l-intro-1794503899.jpg</image:loc>
+      <image:title>Waymo Encounters Police Blockade And Speeds Right By, Because Of Course It Did</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restric/</loc>
     <lastmod>2026-11-14T20:04:44+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -215,6 +355,26 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
       <image:title>AI Businesses Still Bleeding Billions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-much-power-would-an-evs-solar-roof-provide/</loc>
+    <lastmod>2026-11-14T19:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-much-power-would-an-evs-solar-roof-provide/l-intro-1793820224.jpg</image:loc>
+      <image:title>How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-much-power-would-an-evs-solar-roof-provide/</loc>
+    <lastmod>2026-11-14T19:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-much-power-would-an-evs-solar-roof-provide/l-intro-1793820224.jpg</image:loc>
+      <image:title>How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
     </image:image>
   </url>
   <url>
@@ -878,6 +1038,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/renault-nissan-sales-oct-2026-duster-tekton-gravite-triber-kiger-/</loc>
+    <lastmod>2026-11-14T07:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/Nissan-Tekton-India-1.jpg</image:loc>
+      <image:title>Renault &amp; Nissan Sales Oct 2026 - Duster, Tekton, Gravite, Triber, Kiger, Kwid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/renault-nissan-sales-oct-2026-duster-tekton-gravite-triber-kiger-/</loc>
+    <lastmod>2026-11-14T07:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/Nissan-Tekton-India-1.jpg</image:loc>
+      <image:title>Renault &amp; Nissan Sales Oct 2026 - Duster, Tekton, Gravite, Triber, Kiger, Kwid</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/royal-enfield-650-int-will-not-get-750cc-engine-report/</loc>
     <lastmod>2026-11-14T06:36:31+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -975,6 +1155,26 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-toyota-fortuner-spied-testing-abroad.jpg</image:loc>
       <image:title>New Toyota Fortuner Spied In Argentina</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-motors-records-best-ever-quarterly-revenue-sales-up-40/</loc>
+    <lastmod>2026-11-14T04:00:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Tata-Curvv-Series-X-3.jpg</image:loc>
+      <image:title>Tata Motors Records Best Ever Quarterly Revenue, Sales Up 40%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tata-motors-records-best-ever-quarterly-revenue-sales-up-40/</loc>
+    <lastmod>2026-11-14T04:00:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Tata-Curvv-Series-X-3.jpg</image:loc>
+      <image:title>Tata Motors Records Best Ever Quarterly Revenue, Sales Up 40%</image:title>
     </image:image>
   </url>
   <url>
@@ -2835,206 +3035,6 @@
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/b7b1b285-6484-42ba-9587-da28f63fd923.jpg</image:loc>
       <image:title>We Explored the Ford Vault, the New Home of Ford&#x27;s Heritage Fleet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/lunars-new-home-dc-fast-charger-puts-your-ev-battery-to-work/</loc>
-    <lastmod>2026-11-12T21:41:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Lunar-Energy-home-fast-charger.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Lunar&#x27;s new home DC fast charger puts your EV battery to work</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/lunars-new-home-dc-fast-charger-puts-your-ev-battery-to-work/</loc>
-    <lastmod>2026-11-12T21:41:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Lunar-Energy-home-fast-charger.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Lunar&#x27;s new home DC fast charger puts your EV battery to work</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/oedro-car-accessories-fix-common-family-road-trip-interior-proble/</loc>
-    <lastmod>2026-11-12T21:38:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-11.59.36-AM.png</image:loc>
-      <image:title>OEDRO Car Accessories Fix Common Family Road Trip Interior Problems for SUV &amp; Pickup Owners</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/oedro-car-accessories-fix-common-family-road-trip-interior-proble/</loc>
-    <lastmod>2026-11-12T21:38:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-11.59.36-AM.png</image:loc>
-      <image:title>OEDRO Car Accessories Fix Common Family Road Trip Interior Problems for SUV &amp; Pickup Owners</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/pickup-truck-popemobiles-headline-pope-leo-xivs-south-american-vi/</loc>
-    <lastmod>2026-11-12T21:34:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/pickup-truck-popemobiles-headline-pope-leos-south-american-journey/l-intro-1794527771.jpg</image:loc>
-      <image:title>Pickup Truck Popemobiles Headline Pope Leo XIV&#x27;s South American Visit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/pickup-truck-popemobiles-headline-pope-leo-xivs-south-american-vi/</loc>
-    <lastmod>2026-11-12T21:34:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/pickup-truck-popemobiles-headline-pope-leos-south-american-journey/l-intro-1794527771.jpg</image:loc>
-      <image:title>Pickup Truck Popemobiles Headline Pope Leo XIV&#x27;s South American Visit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-is-combining-solar-energy-storage-five-minute-flash-charging-/</loc>
-    <lastmod>2026-11-12T21:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/byd-is-combining-solar-energy-storage-five-minute-flash-charging-and-robotic-arms-for-its-new-charging-stations/l-intro-1794340560.jpg</image:loc>
-      <image:title>BYD Is Combining Solar Energy Storage, Five-Minute Flash Charging, And Robotic Arms For Its New Charging Stations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-is-combining-solar-energy-storage-five-minute-flash-charging-/</loc>
-    <lastmod>2026-11-12T21:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/byd-is-combining-solar-energy-storage-five-minute-flash-charging-and-robotic-arms-for-its-new-charging-stations/l-intro-1794340560.jpg</image:loc>
-      <image:title>BYD Is Combining Solar Energy Storage, Five-Minute Flash Charging, And Robotic Arms For Its New Charging Stations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/that-mystery-suv-spied-in-moab-is-an-audi-bodied-test-mule-for-th/</loc>
-    <lastmod>2026-11-12T21:16:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/that-mystery-suv-spied-in-moab-is-an-audi-bodied-test-mule-for-the-new-scouts/l-intro-1794524733.jpg</image:loc>
-      <image:title>That Mystery SUV Spied In Moab Is An Audi-Bodied Test Mule For The New Scouts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/that-mystery-suv-spied-in-moab-is-an-audi-bodied-test-mule-for-th/</loc>
-    <lastmod>2026-11-12T21:16:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/that-mystery-suv-spied-in-moab-is-an-audi-bodied-test-mule-for-the-new-scouts/l-intro-1794524733.jpg</image:loc>
-      <image:title>That Mystery SUV Spied In Moab Is An Audi-Bodied Test Mule For The New Scouts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/1979-porsche-924-rejoins-uaes-police-fleet/</loc>
-    <lastmod>2026-11-12T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/1979-porsche-924-rejoins-uaes-police-fleet/l-intro-1794414332.jpg</image:loc>
-      <image:title>1979 Porsche 924 Rejoins UAE&#x27;s Police Fleet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/1979-porsche-924-rejoins-uaes-police-fleet/</loc>
-    <lastmod>2026-11-12T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/1979-porsche-924-rejoins-uaes-police-fleet/l-intro-1794414332.jpg</image:loc>
-      <image:title>1979 Porsche 924 Rejoins UAE&#x27;s Police Fleet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-just-teased-a-new-hybrid-suv-called-the-avancier/</loc>
-    <lastmod>2026-11-12T20:36:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/9fca1e0c-2181-41de-bdea-891b95812995.png</image:loc>
-      <image:title>Honda Just Teased a New Hybrid SUV Called the Avancier</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-just-teased-a-new-hybrid-suv-called-the-avancier/</loc>
-    <lastmod>2026-11-12T20:36:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/9fca1e0c-2181-41de-bdea-891b95812995.png</image:loc>
-      <image:title>Honda Just Teased a New Hybrid SUV Called the Avancier</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gift-guide-the-absolute-best-gifts-for-car-lovers/</loc>
-    <lastmod>2026-11-12T20:27:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cd-car-lovers-67193b70c53b5.jpg</image:loc>
-      <image:title>Gift Guide: The Absolute Best Gifts for Car Lovers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gift-guide-the-absolute-best-gifts-for-car-lovers/</loc>
-    <lastmod>2026-11-12T20:27:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/cd-car-lovers-67193b70c53b5.jpg</image:loc>
-      <image:title>Gift Guide: The Absolute Best Gifts for Car Lovers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-mclaren-w1/</loc>
-    <lastmod>2026-11-12T20:22:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1-mclaren-w1-front-3q-high-6701823553014.jpg?crop=1.00xw:0.668xh;0,0.186xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 McLaren W1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-mclaren-w1/</loc>
-    <lastmod>2026-11-12T20:22:41+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/1-mclaren-w1-front-3q-high-6701823553014.jpg?crop=1.00xw:0.668xh;0,0.186xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 McLaren W1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/quantumscape-has-an-osprey-up-its-solid-state-ev-battery-sleeve/</loc>
-    <lastmod>2026-11-12T20:19:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/quantumscape-ev-battery.png</image:loc>
-      <image:title>QuantumScape Has An Osprey Up Its Solid-State EV Battery Sleeve</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/quantumscape-has-an-osprey-up-its-solid-state-ev-battery-sleeve/</loc>
-    <lastmod>2026-11-12T20:19:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/quantumscape-ev-battery.png</image:loc>
-      <image:title>QuantumScape Has An Osprey Up Its Solid-State EV Battery Sleeve</image:title>
     </image:image>
   </url>
 </urlset>

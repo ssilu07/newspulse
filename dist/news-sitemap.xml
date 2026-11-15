@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/what-the-us-midterm-elections-mean-for-climate-progress/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T00:52:25+00:00</news:publication_date>
+      <news:title>What The US Midterm Elections Mean For Climate Progress</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/05/Florida-sunset-Cynthia-Shahan.jpeg</image:loc>
+      <image:title>What The US Midterm Elections Mean For Climate Progress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-crucial-difference-between-flock-cameras-and-plate-readers-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T00:50:00+00:00</news:publication_date>
+      <news:title>The Crucial Difference Between Flock Cameras And Plate Readers In Other Countries</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/the-crucial-difference-between-flock-cameras-and-plate-readers-in-other-countries/l-intro-1794692445.jpg</image:loc>
+      <image:title>The Crucial Difference Between Flock Cameras And Plate Readers In Other Countries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/34-billion-anthropic-order-for-gas-power-plants/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T00:33:38+00:00</news:publication_date>
+      <news:title>$3.4 Billion - Anthropic Order for Gas Power Plants!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Caterpillar-gas-engine-genset.jpg</image:loc>
+      <image:title>$3.4 Billion - Anthropic Order for Gas Power Plants!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/what-a-road-sign-with-a-black-y-means-and-other-letters-too/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T00:25:00+00:00</news:publication_date>
+      <news:title>What A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/what-a-road-sign-with-a-black-y-means-and-other-letters-too/l-intro-1793739871.jpg</image:loc>
+      <image:title>What A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/every-car-brand-thats-made-a-v10-powered-sedan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T23:25:00+00:00</news:publication_date>
+      <news:title>Every Car Brand That&#x27;s Made A V10-Powered Sedan</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/every-car-brand-thats-made-a-v10-powered-sedan/l-intro-1793978663.jpg</image:loc>
+      <image:title>Every Car Brand That&#x27;s Made A V10-Powered Sedan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T23:00:00+00:00</news:publication_date>
+      <news:title>Chinese Competition May Cause EV Tariff Delays In The EU And UK</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/l-intro-1794580515.jpg</image:loc>
+      <image:title>Chinese Competition May Cause EV Tariff Delays In The EU And UK</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/</loc>
     <news:news>
       <news:publication>
@@ -93,6 +183,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/waymo-encounters-police-blockade-and-speeds-right-by-because-of-c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T20:05:00+00:00</news:publication_date>
+      <news:title>Waymo Encounters Police Blockade And Speeds Right By, Because Of Course It Did</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/waymo-encounters-police-blockade-and-speeds-right-by-because-of-course-it-did/l-intro-1794503899.jpg</image:loc>
+      <image:title>Waymo Encounters Police Blockade And Speeds Right By, Because Of Course It Did</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restric/</loc>
     <news:news>
       <news:publication>
@@ -135,6 +240,21 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
       <image:title>AI Businesses Still Bleeding Billions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-much-power-would-an-evs-solar-roof-provide/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T19:05:00+00:00</news:publication_date>
+      <news:title>How Much Power Would An EV&#x27;s Solar Roof Provide?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/how-much-power-would-an-evs-solar-roof-provide/l-intro-1793820224.jpg</image:loc>
+      <image:title>How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
     </image:image>
   </url>
   <url>
@@ -633,6 +753,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/renault-nissan-sales-oct-2026-duster-tekton-gravite-triber-kiger-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T07:00:00+00:00</news:publication_date>
+      <news:title>Renault &amp; Nissan Sales Oct 2026 - Duster, Tekton, Gravite, Triber, Kiger, Kwid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/Nissan-Tekton-India-1.jpg</image:loc>
+      <image:title>Renault &amp; Nissan Sales Oct 2026 - Duster, Tekton, Gravite, Triber, Kiger, Kwid</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/royal-enfield-650-int-will-not-get-750cc-engine-report/</loc>
     <news:news>
       <news:publication>
@@ -705,6 +840,21 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-toyota-fortuner-spied-testing-abroad.jpg</image:loc>
       <image:title>New Toyota Fortuner Spied In Argentina</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-motors-records-best-ever-quarterly-revenue-sales-up-40/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T04:00:20+00:00</news:publication_date>
+      <news:title>Tata Motors Records Best Ever Quarterly Revenue, Sales Up 40%</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Tata-Curvv-Series-X-3.jpg</image:loc>
+      <image:title>Tata Motors Records Best Ever Quarterly Revenue, Sales Up 40%</image:title>
     </image:image>
   </url>
   <url>
@@ -2010,51 +2160,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-kia-seltos-sales-record.jpg</image:loc>
       <image:title>Kia India Sales Breakup Oct 2026 - Seltos, Sonet, Clavis, Sorento, Syros, Carnival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/sonnens-new-smart-breakers-help-your-home-battery-last-longer/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T23:22:43+00:00</news:publication_date>
-      <news:title>sonnen&#x27;s new smart breakers help your home battery last longer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/sonnen-batteries-smart-breakers.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>sonnen&#x27;s new smart breakers help your home battery last longer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/a-kei-sized-rwd-coupe-by-toyota-sounds-like-a-treat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T23:00:00+00:00</news:publication_date>
-      <news:title>A Kei-Sized RWD Coupe By Toyota Sounds Like A Treat</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/a-kei-sized-rwd-coupe-by-toyota-sounds-like-a-treat/l-intro-1794393293.jpg</image:loc>
-      <image:title>A Kei-Sized RWD Coupe By Toyota Sounds Like A Treat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/four-of-seven-dutch-green-hydrogen-projects-have-been-cancelled-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:40:02+00:00</news:publication_date>
-      <news:title>Four of Seven Dutch Green Hydrogen Projects Have Been Cancelled. The Subsidies Keep Coming</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Hero_Original_1600x900.png</image:loc>
-      <image:title>Four of Seven Dutch Green Hydrogen Projects Have Been Cancelled. The Subsidies Keep Coming</image:title>
     </image:image>
   </url>
 </urlset>
