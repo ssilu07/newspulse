@@ -3,39 +3,299 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-15T13:28:30Z</lastmod>
+    <lastmod>2026-11-15T16:30:27Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-15T13:28:30Z</lastmod>
+    <lastmod>2026-11-15T16:30:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-15T13:28:30Z</lastmod>
+    <lastmod>2026-11-15T16:30:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-15T13:28:30Z</lastmod>
+    <lastmod>2026-11-15T16:30:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-15T13:28:30Z</lastmod>
+    <lastmod>2026-11-15T16:30:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-15T13:28:30Z</lastmod>
+    <lastmod>2026-11-15T16:30:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/</loc>
+    <lastmod>2026-11-15T16:07:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/</loc>
+    <lastmod>2026-11-15T16:07:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/scout-steps-toward-mass-production-with-200000-reservations-on-th/</loc>
+    <lastmod>2026-11-15T16:01:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Scout-Traveler-and-Scout-Terra-factory-in-South-Carolina.png</image:loc>
+      <image:title>Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/scout-steps-toward-mass-production-with-200000-reservations-on-th/</loc>
+    <lastmod>2026-11-15T16:01:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Scout-Traveler-and-Scout-Terra-factory-in-South-Carolina.png</image:loc>
+      <image:title>Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/</loc>
+    <lastmod>2026-11-15T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/l-intro-1794515871.jpg</image:loc>
+      <image:title>Your Car&#x27;s D3 Gear Has A Purpose, And Here&#x27;s What It Does</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/</loc>
+    <lastmod>2026-11-15T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carscoops.com/img/gallery/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/l-intro-1794515871.jpg</image:loc>
+      <image:title>Your Car&#x27;s D3 Gear Has A Purpose, And Here&#x27;s What It Does</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/darlingtons-first-smr-is-late-and-over-budget-ontario-needs-to-re/</loc>
+    <lastmod>2026-11-15T15:56:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Published_Approved_Darlington_Hero_1600x900.png</image:loc>
+      <image:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/darlingtons-first-smr-is-late-and-over-budget-ontario-needs-to-re/</loc>
+    <lastmod>2026-11-15T15:56:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Published_Approved_Darlington_Hero_1600x900.png</image:loc>
+      <image:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/renault-nissan-sales-breakup-oct-2026-triber-kwid-duster-magnite-/</loc>
+    <lastmod>2026-11-15T15:28:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/renault-triber-turbo-review-2.jpg</image:loc>
+      <image:title>Renault, Nissan Sales Breakup Oct 2026 - Triber, Kwid, Duster, Magnite, Gravite, Tekton</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/renault-nissan-sales-breakup-oct-2026-triber-kwid-duster-magnite-/</loc>
+    <lastmod>2026-11-15T15:28:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/renault-triber-turbo-review-2.jpg</image:loc>
+      <image:title>Renault, Nissan Sales Breakup Oct 2026 - Triber, Kwid, Duster, Magnite, Gravite, Tekton</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/which-highway-really-has-the-highest-number-of-lanes/</loc>
+    <lastmod>2026-11-15T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/which-highway-really-has-the-highest-number-of-lanes/l-intro-1793814853.jpg</image:loc>
+      <image:title>Which Highway Really Has The Highest Number Of Lanes?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/which-highway-really-has-the-highest-number-of-lanes/</loc>
+    <lastmod>2026-11-15T15:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/which-highway-really-has-the-highest-number-of-lanes/l-intro-1793814853.jpg</image:loc>
+      <image:title>Which Highway Really Has The Highest Number Of Lanes?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-/</loc>
+    <lastmod>2026-11-15T15:02:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/SANY_EACON_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-/</loc>
+    <lastmod>2026-11-15T15:02:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/SANY_EACON_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chinas-electric-airliner-era-starts-with-a-19-seat-plane-and-400-/</loc>
+    <lastmod>2026-11-15T14:43:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/CE-25A-Comac-electric-plane-flying.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>China&#x27;s electric airliner era starts with a 19-seat plane and 400 km of range</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/chinas-electric-airliner-era-starts-with-a-19-seat-plane-and-400-/</loc>
+    <lastmod>2026-11-15T14:43:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/CE-25A-Comac-electric-plane-flying.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
+      <image:title>China&#x27;s electric airliner era starts with a 19-seat plane and 400 km of range</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/whats-your-most-unforgettable-close-call/</loc>
+    <lastmod>2026-11-15T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-most-unforgettable-close-call/l-intro-1794604813.jpg</image:loc>
+      <image:title>What&#x27;s Your Most Unforgettable Close Call?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/whats-your-most-unforgettable-close-call/</loc>
+    <lastmod>2026-11-15T14:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-most-unforgettable-close-call/l-intro-1794604813.jpg</image:loc>
+      <image:title>What&#x27;s Your Most Unforgettable Close Call?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/accelerating-electrification-can-unlock-the-full-benefits-of-spai/</loc>
+    <lastmod>2026-11-15T14:17:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/07/Floating-Solar-PV-Power-in-Valencia-Port-Spain-copy.jpeg</image:loc>
+      <image:title>Accelerating Electrification Can Unlock the Full Benefits of Spain&#x27;s Renewables Leadership</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/accelerating-electrification-can-unlock-the-full-benefits-of-spai/</loc>
+    <lastmod>2026-11-15T14:17:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/07/Floating-Solar-PV-Power-in-Valencia-Port-Spain-copy.jpeg</image:loc>
+      <image:title>Accelerating Electrification Can Unlock the Full Benefits of Spain&#x27;s Renewables Leadership</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-could-finally-bring-the-perfect-s-fr-concept-to-production/</loc>
+    <lastmod>2026-11-15T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/toyota-could-finally-bring-the-perfect-s-fr-concept-to-production-with-the-help-of-daihatsu/l-intro-1794595317.jpg</image:loc>
+      <image:title>Toyota Could Finally Bring The Perfect S-FR Concept To Production With The Help Of Daihatsu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-could-finally-bring-the-perfect-s-fr-concept-to-production/</loc>
+    <lastmod>2026-11-15T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/toyota-could-finally-bring-the-perfect-s-fr-concept-to-production-with-the-help-of-daihatsu/l-intro-1794595317.jpg</image:loc>
+      <image:title>Toyota Could Finally Bring The Perfect S-FR Concept To Production With The Help Of Daihatsu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/sanrivatti-one-is-a-v-10-hypercar-with-a-motorcycle-like-seating-/</loc>
+    <lastmod>2026-11-15T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7fdc52ba-2703-4c2c-a627-acfa148b4c57.jpg</image:loc>
+      <image:title>Sanrivatti One Is a V-10 Hypercar with a Motorcycle-Like Seating Position</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/sanrivatti-one-is-a-v-10-hypercar-with-a-motorcycle-like-seating-/</loc>
+    <lastmod>2026-11-15T14:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7fdc52ba-2703-4c2c-a627-acfa148b4c57.jpg</image:loc>
+      <image:title>Sanrivatti One Is a V-10 Hypercar with a Motorcycle-Like Seating Position</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/12-plug-in-hybrids-with-the-longest-electric-only-range/</loc>
+    <lastmod>2026-11-15T13:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/12-plug-in-hybrids-with-the-longest-electric-only-range/l-intro-1794583474.jpg</image:loc>
+      <image:title>12 Plug-In Hybrids With The Longest Electric-Only Range</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/12-plug-in-hybrids-with-the-longest-electric-only-range/</loc>
+    <lastmod>2026-11-15T13:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/12-plug-in-hybrids-with-the-longest-electric-only-range/l-intro-1794583474.jpg</image:loc>
+      <image:title>12 Plug-In Hybrids With The Longest Electric-Only Range</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/retaining-lawson-isnt-enough-red-bull-must-stop-treating-him-like/</loc>
@@ -235,6 +495,26 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Hyryder-2.jpg</image:loc>
       <image:title>Toyota Model Wise Sales October 2026 - Innova, Hyryder, Fortuner, Taisor, Rumion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/denza-d9-vs-mg-m9-specs-comparison/</loc>
+    <lastmod>2026-11-15T07:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Denza-D9-vs-MG-M9.jpg</image:loc>
+      <image:title>Denza D9 vs MG M9 : Specs Comparison</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/denza-d9-vs-mg-m9-specs-comparison/</loc>
+    <lastmod>2026-11-15T07:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Denza-D9-vs-MG-M9.jpg</image:loc>
+      <image:title>Denza D9 vs MG M9 : Specs Comparison</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Denza-D9-MPV-2.jpg</image:loc>
       <image:title>Denza D9 and Z9 GT Launched In India, Priced From Rs. 90 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-madrid-f1-races-economic-impact-compares-to-barcelonas/</loc>
-    <lastmod>2026-11-13T11:24:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1436818_HiRes.jpg</image:loc>
-      <image:title>How Madrid F1 race&#x27;s economic impact compares to Barcelona&#x27;s</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-madrid-f1-races-economic-impact-compares-to-barcelonas/</loc>
-    <lastmod>2026-11-13T11:24:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1436818_HiRes.jpg</image:loc>
-      <image:title>How Madrid F1 race&#x27;s economic impact compares to Barcelona&#x27;s</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/next-gen-audi-rs6-avant-coming-to-the-us-report/</loc>
-    <lastmod>2026-11-13T11:13:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/next-gen-audi-rs6-avant-coming-to-the-us-report/l-intro-1794568098.jpg</image:loc>
-      <image:title>Next-Gen Audi RS6 Avant Coming To The US: Report</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/next-gen-audi-rs6-avant-coming-to-the-us-report/</loc>
-    <lastmod>2026-11-13T11:13:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/next-gen-audi-rs6-avant-coming-to-the-us-report/l-intro-1794568098.jpg</image:loc>
-      <image:title>Next-Gen Audi RS6 Avant Coming To The US: Report</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in/</loc>
-    <lastmod>2026-11-13T10:38:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in-sight/l-intro-1794566136.jpg</image:loc>
-      <image:title>Koenigsegg Bids Farewell To The Jesko With No Direct Successor In Sight</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in/</loc>
-    <lastmod>2026-11-13T10:38:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/koenigsegg-bids-farewell-to-the-jesko-with-no-direct-successor-in-sight/l-intro-1794566136.jpg</image:loc>
-      <image:title>Koenigsegg Bids Farewell To The Jesko With No Direct Successor In Sight</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-n/</loc>
-    <lastmod>2026-11-13T10:04:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/0o5AwKwY/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
-      <image:title>The Antonelli you don&#x27;t know: Inside the Mercedes garage with F1&#x27;s new world champion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-n/</loc>
-    <lastmod>2026-11-13T10:04:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-5.motorsport.com/images/amp/0o5AwKwY/s6/andrea-kimi-antonelli-mercedes-2.jpg</image:loc>
-      <image:title>The Antonelli you don&#x27;t know: Inside the Mercedes garage with F1&#x27;s new world champion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ultra-wide-r32-and-r34-gt-rs-bring-back-nfs-underground-nostalgia/</loc>
-    <lastmod>2026-11-13T09:14:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/ultra-wide-r32-and-r34-gt-rs-bring-back-nfs-underground-nostalgia/l-intro-1794561064.jpg</image:loc>
-      <image:title>Ultra-Wide R32 And R34 GT-Rs Bring Back NFS Underground Nostalgia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ultra-wide-r32-and-r34-gt-rs-bring-back-nfs-underground-nostalgia/</loc>
-    <lastmod>2026-11-13T09:14:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/ultra-wide-r32-and-r34-gt-rs-bring-back-nfs-underground-nostalgia/l-intro-1794561064.jpg</image:loc>
-      <image:title>Ultra-Wide R32 And R34 GT-Rs Bring Back NFS Underground Nostalgia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-denza-z9-gt-india-launch-price-rs-157-cr-670-km-range-270-kmh/</loc>
-    <lastmod>2026-11-13T08:41:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-denza-z9-gt-india-launch-cover.jpg</image:loc>
-      <image:title>BYD Denza Z9 GT India Launch Price Rs 1.57 Cr - 670 km Range, 270 km/h Topspeed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-denza-z9-gt-india-launch-price-rs-157-cr-670-km-range-270-kmh/</loc>
-    <lastmod>2026-11-13T08:41:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-denza-z9-gt-india-launch-cover.jpg</image:loc>
-      <image:title>BYD Denza Z9 GT India Launch Price Rs 1.57 Cr - 670 km Range, 270 km/h Topspeed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-denza-d9-launch-price-rs-90-lakh-luxury-mpv-rivals-vellfire-m/</loc>
-    <lastmod>2026-11-13T08:35:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-denza-d9-india-launch-cover.jpg</image:loc>
-      <image:title>BYD Denza D9 Launch Price Rs 90 Lakh - Luxury MPV Rivals Vellfire, M9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-denza-d9-launch-price-rs-90-lakh-luxury-mpv-rivals-vellfire-m/</loc>
-    <lastmod>2026-11-13T08:35:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-denza-d9-india-launch-cover.jpg</image:loc>
-      <image:title>BYD Denza D9 Launch Price Rs 90 Lakh - Luxury MPV Rivals Vellfire, M9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-sales-analysis-october-2026-scorpio-bolero-thar-7xo-xev-/</loc>
-    <lastmod>2026-11-13T08:30:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/Mahindra-Scorpio-N-Facelift-6.jpg</image:loc>
-      <image:title>Mahindra Sales Analysis October 2026 - Scorpio, Bolero, Thar, 7XO, XEV 9S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mahindra-sales-analysis-october-2026-scorpio-bolero-thar-7xo-xev-/</loc>
-    <lastmod>2026-11-13T08:30:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/Mahindra-Scorpio-N-Facelift-6.jpg</image:loc>
-      <image:title>Mahindra Sales Analysis October 2026 - Scorpio, Bolero, Thar, 7XO, XEV 9S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ferraris-leclerc-hamilton-problem-is-far-from-solved/</loc>
-    <lastmod>2026-11-13T07:52:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/261108_R20_BRAZIL_DP_FGO08149_05ba8680-c2fd-4e37-a8aa-17dbaf7a4ddb.jpg</image:loc>
-      <image:title>Ferrari&#x27;s Leclerc-Hamilton problem is far from solved</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ferraris-leclerc-hamilton-problem-is-far-from-solved/</loc>
-    <lastmod>2026-11-13T07:52:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/261108_R20_BRAZIL_DP_FGO08149_05ba8680-c2fd-4e37-a8aa-17dbaf7a4ddb.jpg</image:loc>
-      <image:title>Ferrari&#x27;s Leclerc-Hamilton problem is far from solved</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2-new-maruti-suzuki-cars-likely-to-debut-at-bharat-mobility-expo-/</loc>
-    <lastmod>2026-11-13T07:00:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Maruti-Suzuki-Fronx-facelift.jpg</image:loc>
-      <image:title>2 New Maruti Suzuki Cars Likely To Debut At Bharat Mobility Expo 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2-new-maruti-suzuki-cars-likely-to-debut-at-bharat-mobility-expo-/</loc>
-    <lastmod>2026-11-13T07:00:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/Maruti-Suzuki-Fronx-facelift.jpg</image:loc>
-      <image:title>2 New Maruti Suzuki Cars Likely To Debut At Bharat Mobility Expo 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-aiming-10k-sales-per-month-for-first-suv-based-on-nu-iq-/</loc>
-    <lastmod>2026-11-13T06:26:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/08/Mahindra-Vision-S-Interiors-17.jpeg</image:loc>
-      <image:title>Mahindra Aiming 10k Sales Per Month For First SUV Based On NU_IQ - Vision S?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mahindra-aiming-10k-sales-per-month-for-first-suv-based-on-nu-iq-/</loc>
-    <lastmod>2026-11-13T06:26:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/08/Mahindra-Vision-S-Interiors-17.jpeg</image:loc>
-      <image:title>Mahindra Aiming 10k Sales Per Month For First SUV Based On NU_IQ - Vision S?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/electric-car-sales-cross-3-lakh-units-in-2026-set-new-annual-reco/</loc>
-    <lastmod>2026-11-13T05:30:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/Mahindra-XEV-9S-17.jpg</image:loc>
-      <image:title>Electric Car Sales Cross 3 Lakh Units In 2026, Set New Annual Record</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/electric-car-sales-cross-3-lakh-units-in-2026-set-new-annual-reco/</loc>
-    <lastmod>2026-11-13T05:30:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/Mahindra-XEV-9S-17.jpg</image:loc>
-      <image:title>Electric Car Sales Cross 3 Lakh Units In 2026, Set New Annual Record</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/data-centers-ai-the-growing-demand-for-energy-impacts-risks-solut/</loc>
-    <lastmod>2026-11-13T04:50:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/AI-has-an-energy-problem.webp</image:loc>
-      <image:title>Data Centers, AI, &amp; the Growing Demand for Energy: Impacts, Risks, &amp; Solutions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/data-centers-ai-the-growing-demand-for-energy-impacts-risks-solut/</loc>
-    <lastmod>2026-11-13T04:50:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/AI-has-an-energy-problem.webp</image:loc>
-      <image:title>Data Centers, AI, &amp; the Growing Demand for Energy: Impacts, Risks, &amp; Solutions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-new-hyundai-suvs-expected-in-india-new-creta-to-off-road-suv/</loc>
-    <lastmod>2026-11-13T04:13:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/Hyundai-Boulder-Concept-2.jpg</image:loc>
-      <image:title>5 New Hyundai SUVs Expected In India - New Creta To Off-Road SUV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-new-hyundai-suvs-expected-in-india-new-creta-to-off-road-suv/</loc>
-    <lastmod>2026-11-13T04:13:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/Hyundai-Boulder-Concept-2.jpg</image:loc>
-      <image:title>5 New Hyundai SUVs Expected In India - New Creta To Off-Road SUV</image:title>
     </image:image>
   </url>
 </urlset>
