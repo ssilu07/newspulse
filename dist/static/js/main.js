@@ -53,6 +53,7 @@
     setupEventListeners();
     initEngagementTracking();
     initFloatingDock();
+    initPushPrompt();
   }
 
   // Live UTC/Local Clock
@@ -847,6 +848,55 @@
         trackGAEvent('floating_dock_dismiss');
       });
     }
+  }
+
+  // Web Push Notification Prompt (RTO & Traffic Rules Alerts)
+  function initPushPrompt() {
+    if (!('Notification' in window)) return;
+    if (Notification.permission === 'granted' || Notification.permission === 'denied') return;
+    if (localStorage.getItem('newsseconds_push_dismissed')) return;
+
+    // Show after 4 seconds of reading
+    setTimeout(() => {
+      if (document.getElementById('pushPromptBanner')) return;
+      const banner = document.createElement('div');
+      banner.id = 'pushPromptBanner';
+      banner.className = 'push-prompt-banner';
+      banner.innerHTML = `
+        <div class="push-prompt-content">
+          <span class="push-icon">🚨</span>
+          <div class="push-text">
+            <strong>Get Instant RTO Challan &amp; Flash Car Discounts</strong>
+            <p>Direct breaking alerts on your device. Zero spam, unsubscribe anytime.</p>
+          </div>
+        </div>
+        <div class="push-actions">
+          <button id="pushAcceptBtn" class="push-btn-accept">Enable Alerts</button>
+          <button id="pushDismissBtn" class="push-btn-dismiss" title="Dismiss">✕</button>
+        </div>
+      `;
+      document.body.appendChild(banner);
+
+      document.getElementById('pushAcceptBtn')?.addEventListener('click', () => {
+        Notification.requestPermission().then(permission => {
+          banner.remove();
+          if (permission === 'granted') {
+            showToast('🎉 Traffic &amp; RTO alerts enabled!');
+            try {
+              new Notification('NewsSeconds Auto Intelligence', {
+                body: 'Welcome! You will now receive instant breaking RTO rule updates &amp; car discounts.',
+                icon: '/favicon-48x48.png'
+              });
+            } catch(e) {}
+          }
+        });
+      });
+
+      document.getElementById('pushDismissBtn')?.addEventListener('click', () => {
+        banner.remove();
+        localStorage.setItem('newsseconds_push_dismissed', 'true');
+      });
+    }, 4000);
   }
 
   // Run on DOM Ready

@@ -126,8 +126,8 @@ def get_base_header(active_nav: str = "home") -> str:
       </div>
 
       <div class="header-actions">
-        <a href="/#interactiveGarage" class="garage-header-pill" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(6, 182, 212, 0.18); border: 1px solid rgba(6, 182, 212, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 700; transition: all 0.2s;" title="The Pit Stop: Supercar Drag Battle & EV Calculator">
-          <span>🏎️</span> <span>Pit Stop Lab</span>
+        <a href="/#interactiveGarage" class="garage-header-pill" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(6, 182, 212, 0.18); border: 1px solid rgba(6, 182, 212, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 700; transition: all 0.2s;" title="The Indian Mobility Lab: RTO Challan Wizard, NGT Expiry & SUV Pit Stop">
+          <span>🏎️</span> <span>RTO &amp; Auto Lab</span>
         </a>
         <a href="https://t.me/minutenewshub" target="_blank" rel="noopener" class="telegram-header-badge" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 136, 204, 0.18); border: 1px solid rgba(0, 136, 204, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 600; transition: all 0.2s;" title="Join {config.SITE_NAME} on Telegram">
           <span>✈️</span> <span>Telegram</span>
@@ -212,39 +212,340 @@ def get_base_footer() -> str:
 
 def get_interactive_garage_html() -> str:
     """
-    Renders 100% AdSense-compliant, viral-grade interactive automotive hub:
-    - 1/4-Mile Head-to-Head Drag Race Simulator (with telemetry, tree lights & audio)
-    - EV vs Gas Fuel Savings & Range Calculator (with dynamic EPA metrics)
+    Renders 100% AdSense-compliant, viral-grade interactive Indian mobility & RTO hub:
+    - RTO Challan & Traffic Fine Directory Wizard
+    - NGT 10-Year Diesel & 15-Year Petrol Expiry & NOC Calculator
+    - Highway Trip Fuel & FASTag Toll Cost Calculator
+    - Daily Indian Driver & Traffic Rules IQ Quiz
+    - 1/4-Mile Indian SUV Drag Battle
+    - EV vs Gas Fuel Savings Calculator in INR
     """
     return """
-    <!-- 🏎️ THE PIT STOP: Interactive Garage, 1/4-Mile Drag Battle & EV Calculator -->
-    <section class="interactive-garage-section" id="interactiveGarage" aria-label="The Pit Stop: Interactive Automotive Lab">
+    <!-- 🚨 THE INDIAN MOBILITY LAB: RTO Challan Wizard, NGT Expiry & SUV Drag Strip -->
+    <section class="interactive-garage-section" id="interactiveGarage" aria-label="India Mobility & RTO Intelligence Lab">
       <div class="garage-header">
-        <div class="garage-badge">⚡ Interactive Mobility Lab</div>
-        <h2 class="garage-title">The Pit Stop: Supercar Drag Strip &amp; EV Calculator</h2>
-        <p class="garage-subtitle">Launch head-to-head 1/4-mile telemetry battles between top supercars &amp; EVs, or benchmark your exact monthly fuel savings switching to clean electric drive.</p>
+        <div class="garage-badge">🚨 India Driver &amp; RTO Intelligence Lab</div>
+        <h2 class="garage-title">The Indian Mobility Lab: RTO Challan Wizard, NGT Expiry &amp; SUV Drag Strip</h2>
+        <p class="garage-subtitle">Lookup instant RTO traffic fines and legal defense rights, check NGT 10-year diesel expiry dates, calculate highway trip fuel &amp; FASTag tolls, or launch head-to-head SUV drag telemetry battles.</p>
         
         <div class="garage-nav-bar">
           <div class="garage-tabs" role="tablist" aria-label="Garage Modes">
-            <button class="garage-tab-btn active" data-tab="tabDragRace" role="tab" aria-selected="true" aria-controls="tabDragRace">
-              <span>🏁</span> <span>1/4-Mile Drag Battle</span>
+            <button class="garage-tab-btn active" data-tab="tabChallan" role="tab" aria-selected="true" aria-controls="tabChallan">
+              <span>🚨</span> <span>RTO Challan &amp; Fines</span>
+            </button>
+            <button class="garage-tab-btn" data-tab="tabNgtAlert" role="tab" aria-selected="false" aria-controls="tabNgtAlert">
+              <span>⏳</span> <span>NGT 10-Yr Expiry Alert</span>
+            </button>
+            <button class="garage-tab-btn" data-tab="tabTripToll" role="tab" aria-selected="false" aria-controls="tabTripToll">
+              <span>🛣️</span> <span>Trip &amp; Toll Calculator</span>
+            </button>
+            <button class="garage-tab-btn" data-tab="tabQuiz" role="tab" aria-selected="false" aria-controls="tabQuiz">
+              <span>🏆</span> <span>Daily Driver Quiz</span>
+            </button>
+            <button class="garage-tab-btn" data-tab="tabDragRace" role="tab" aria-selected="false" aria-controls="tabDragRace">
+              <span>🏁</span> <span>SUV Drag Battle</span>
             </button>
             <button class="garage-tab-btn" data-tab="tabEvCalc" role="tab" aria-selected="false" aria-controls="tabEvCalc">
-              <span>⚡</span> <span>EV Fuel Savings Calculator</span>
+              <span>⚡</span> <span>EV Fuel Savings</span>
             </button>
           </div>
           <button class="sound-toggle-btn" id="soundToggleBtn" aria-label="Toggle simulator sound">🔇 Sound: OFF</button>
         </div>
       </div>
 
-      <!-- TAB 1: 1/4-Mile Drag Race Simulator -->
-      <div class="garage-tab-panel active" id="tabDragRace" role="tabpanel">
+      <!-- TAB 1: RTO Challan & Fine Wizard -->
+      <div class="garage-tab-panel active" id="tabChallan" role="tabpanel">
+        <div class="tool-wrapper">
+          <div class="tool-intro">
+            <span class="tool-badge">🚨 Motor Vehicles Act (Amendment) 2019-2026</span>
+            <h3 class="tool-heading">Instant RTO Challan &amp; Traffic Fine Directory</h3>
+            <p class="tool-desc">Select any traffic rule violation to check official legal sections, on-the-spot vs court fine amounts, and your 3-step legal defense rights.</p>
+          </div>
+
+          <div class="challan-grid">
+            <div class="challan-input-card">
+              <label for="challanOffenseSelect" class="input-label">Select Traffic Rule Violation / Offense</label>
+              <select id="challanOffenseSelect" class="styled-select" aria-label="Select Traffic Offense">
+                <option value="sunfilm">🚨 Tinted Glass / Sunfilm (&lt; 50% Transparency)</option>
+                <option value="exhaust">🔊 Modified Exhaust / Loud Silencer (Aftermarket Mufflers)</option>
+                <option value="overspeed">⚡ Overspeeding / Radar Speed Detection (LMV Car)</option>
+                <option value="redlight">🛑 Red Light Jump / Stop Line Crossing</option>
+                <option value="hsrp">🔢 Non-HSRP Number Plate / Defective Fancy Font</option>
+                <option value="seatbelt">🦺 Driving Without Seatbelt (Front / Rear Passenger)</option>
+                <option value="drunk">🍷 Drunk Driving (BAC &gt; 30mg per 100ml blood)</option>
+                <option value="mobile">📱 Dangerous Driving / Using Mobile Phone in Hand</option>
+                <option value="pucc">💨 Expired Pollution Certificate (PUCC)</option>
+                <option value="highbeam">💡 Blinding High-Beam LED / Roof Mounted Lightbars</option>
+                <option value="helmet">🛵 Riding Without Helmet (Rider / Pillion)</option>
+                <option value="insurance">📄 Driving Without Valid Third-Party Insurance</option>
+              </select>
+
+              <div class="challan-fine-display">
+                <div class="fine-badge-row">
+                  <span class="fine-badge" id="challanSection">Section 190(2) &amp; CMVR Rule 100</span>
+                  <span class="court-badge" id="challanCourtStatus">Compoundable / Police &amp; Virtual Court</span>
+                </div>
+                <div class="fine-amount-row">
+                  <div class="fine-amount-box">
+                    <span class="fine-label">First Offense Fine</span>
+                    <span class="fine-val" id="challanFirstFine">₹10,000</span>
+                  </div>
+                  <div class="fine-amount-box">
+                    <span class="fine-label">Subsequent Offense</span>
+                    <span class="fine-val" id="challanRepeatFine">₹10,000 + Strip Film</span>
+                  </div>
+                </div>
+                <div class="license-risk" id="challanLicenseRisk">⚠️ License suspension: Up to 3 months in repeat cases</div>
+              </div>
+
+              <button class="whatsapp-share-btn" id="challanShareBtn" type="button">
+                <span>📲 Share This Challan Alert on WhatsApp</span>
+              </button>
+            </div>
+
+            <div class="challan-guide-card">
+              <h4 class="guide-title">🛡️ Your 3-Step Legal Rights &amp; Defense Checklist</h4>
+              <div class="defense-step">
+                <div class="step-num">1</div>
+                <div class="step-content">
+                  <strong id="step1Title">Light Meter Requirement: </strong>
+                  <p id="step1Desc">Delhi High Court &amp; Supreme Court guidelines mandate that traffic police must use an approved VLT Lux Meter. Any visual naked-eye assumption can be challenged.</p>
+                </div>
+              </div>
+              <div class="defense-step">
+                <div class="step-num">2</div>
+                <div class="step-content">
+                  <strong id="step2Title">Permissible Limits: </strong>
+                  <p id="step2Desc">Front/Rear windscreens must have minimum 70% visual light transmission (VLT); side door glasses require minimum 50% VLT.</p>
+                </div>
+              </div>
+              <div class="defense-step">
+                <div class="step-num">3</div>
+                <div class="step-content">
+                  <strong id="step3Title">Virtual Court Appeal: </strong>
+                  <p id="step3Desc">If challan is issued for company-fitted dark green tinted glass (complying with Rule 100), upload ARAI certificate copy on vcourts.gov.in.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB 2: NGT 10-Yr Diesel & 15-Yr Petrol Expiry Alert -->
+      <div class="garage-tab-panel" id="tabNgtAlert" role="tabpanel">
+        <div class="tool-wrapper">
+          <div class="tool-intro">
+            <span class="tool-badge">⏳ Delhi-NCR CAQM &amp; NGT Compliance</span>
+            <h3 class="tool-heading">10-Year Diesel &amp; 15-Year Petrol Expiry &amp; NOC Guide</h3>
+            <p class="tool-desc">Check exact days remaining before vehicle deregistrations in Delhi, Gurgaon, Noida, Ghaziabad &amp; Faridabad, plus step-by-step NOC transfer protocol.</p>
+          </div>
+
+          <div class="ngt-grid">
+            <div class="ngt-input-card">
+              <div class="form-group">
+                <label class="input-label">Vehicle Fuel Type</label>
+                <div class="fuel-toggle-group">
+                  <button type="button" class="fuel-toggle-btn active" data-fuel="diesel">⛽ Diesel (10 Yrs Limit)</button>
+                  <button type="button" class="fuel-toggle-btn" data-fuel="petrol">⚡ Petrol / CNG (15 Yrs Limit)</button>
+                </div>
+              </div>
+
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="regMonth" class="input-label">Registration Month</label>
+                  <select id="regMonth" class="styled-select">
+                    <option value="1">January</option>
+                    <option value="2">February</option>
+                    <option value="3" selected>March</option>
+                    <option value="4">April</option>
+                    <option value="5">May</option>
+                    <option value="6">June</option>
+                    <option value="7">July</option>
+                    <option value="8">August</option>
+                    <option value="9">September</option>
+                    <option value="10">October</option>
+                    <option value="11">November</option>
+                    <option value="12">December</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="regYear" class="input-label">Registration Year</label>
+                  <select id="regYear" class="styled-select"></select>
+                </div>
+              </div>
+
+              <div class="ngt-result-card" id="ngtResultCard">
+                <div class="ngt-status-badge" id="ngtStatusBadge">✅ ACTIVE &amp; ROAD LEGAL IN NCR</div>
+                <div class="ngt-countdown">
+                  <span class="countdown-num" id="ngtDaysLeft">1,248</span>
+                  <span class="countdown-label">Days Left Before NCR Deregistration</span>
+                </div>
+                <div class="ngt-expiry-date" id="ngtExpiryDate">Expiry Deadline: March 2029</div>
+              </div>
+
+              <button class="whatsapp-share-btn" id="ngtShareBtn" type="button">
+                <span>📲 Share NGT Expiry Alert on WhatsApp</span>
+              </button>
+            </div>
+
+            <div class="ngt-guide-card">
+              <h4 class="guide-title">📋 3-Step Protocol: Save Vehicle Value Before Ban</h4>
+              <div class="protocol-step">
+                <span class="step-pill">Step 1</span>
+                <div>
+                  <strong>Apply for Parivahan NOC Early:</strong>
+                  <p>Apply for RTO No Objection Certificate (NOC) at least 6 to 12 months before vehicle turns 10 (Diesel) or 15 (Petrol). Once expired, RTO will refuse to issue an NOC.</p>
+                </div>
+              </div>
+              <div class="protocol-step">
+                <span class="step-pill">Step 2</span>
+                <div>
+                  <strong>Eligible Non-NCR States:</strong>
+                  <p>Cars can be legally re-registered in Rajasthan (except NCR districts), Punjab, Uttarakhand, MP, and Eastern UP without any age impound penalties.</p>
+                </div>
+              </div>
+              <div class="protocol-step">
+                <span class="step-pill">Step 3</span>
+                <div>
+                  <strong>Scrappage Incentive Certificate:</strong>
+                  <p>If scraping with a Registered Vehicle Scrapping Facility (RVSF), obtain Certificate of Deposit (CoD) to get up to 25% road-tax concession on purchasing your next car.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB 3: Highway Trip Fuel & FASTag Toll Calculator -->
+      <div class="garage-tab-panel" id="tabTripToll" role="tabpanel">
+        <div class="tool-wrapper">
+          <div class="tool-intro">
+            <span class="tool-badge">🛣️ Expressways &amp; Highways of India</span>
+            <h3 class="tool-heading">Highway Fuel &amp; FASTag Toll Cost Calculator</h3>
+            <p class="tool-desc">Calculate total real trip cost, fuel consumption, and toll charges for popular Indian expressways or enter your custom highway distance.</p>
+          </div>
+
+          <div class="trip-grid">
+            <div class="trip-input-card">
+              <label class="input-label">Select Highway Corridor or Custom</label>
+              <div class="route-preset-chips" id="routePresets">
+                <button type="button" class="route-chip active" data-km="280" data-toll="345">Delhi ⇄ Jaipur (280 km)</button>
+                <button type="button" class="route-chip" data-km="94" data-toll="320">Mumbai ⇄ Pune (94 km)</button>
+                <button type="button" class="route-chip" data-km="510" data-toll="815">Delhi ⇄ Lucknow (510 km)</button>
+                <button type="button" class="route-chip" data-km="345" data-toll="410">Bengaluru ⇄ Chennai (345 km)</button>
+                <button type="button" class="route-chip" data-km="1386" data-toll="2450">Delhi ⇄ Mumbai NE4 (1,386 km)</button>
+                <button type="button" class="route-chip" data-km="100" data-toll="150">Custom</button>
+              </div>
+
+              <div class="form-group" style="margin-top: 16px;">
+                <label for="tripDistance" class="input-label">Trip Distance (One-Way): <span id="tripDistVal" class="slider-badge">280 km</span></label>
+                <input type="range" id="tripDistance" min="20" max="2000" step="10" value="280" class="styled-slider">
+              </div>
+
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="tripVehicleType" class="input-label">Vehicle &amp; Fuel Class</label>
+                  <select id="tripVehicleType" class="styled-select">
+                    <option value="petrol-compact">Petrol Hatchback (15 kmpl @ ₹96.50/L)</option>
+                    <option value="diesel-suv" selected>Diesel SUV (Thar/Scorpio/Safari - 12 kmpl @ ₹89.50/L)</option>
+                    <option value="strong-hybrid">Strong Hybrid (Grand Vitara/Hycross - 22 kmpl @ ₹96.50/L)</option>
+                    <option value="cng-car">CNG Car (Ertiga/Dzire - 23 km/kg @ ₹76.00/kg)</option>
+                    <option value="electric-suv">Electric SUV (Nexon.ev - 15 kWh/100km @ ₹7.50/unit)</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="tripTollInput" class="input-label">Estimated FASTag Tolls (₹)</label>
+                  <input type="number" id="tripTollInput" value="345" class="styled-input">
+                </div>
+              </div>
+
+              <button class="whatsapp-share-btn" id="tripShareBtn" type="button" style="margin-top: 14px;">
+                <span>📲 Share Trip Cost Estimate on WhatsApp</span>
+              </button>
+            </div>
+
+            <div class="trip-summary-card">
+              <h4 class="summary-heading">💰 Trip Expenditure Breakdown</h4>
+              <div class="trip-big-stat">
+                <div class="trip-total-cost" id="tripTotalCost">₹2,433</div>
+                <div class="trip-per-km" id="tripCostPerKm">₹8.69 / km</div>
+              </div>
+
+              <div class="trip-breakdown-list">
+                <div class="breakdown-item">
+                  <span>⛽ Fuel / Energy Expense</span>
+                  <strong id="tripFuelExpense">₹2,088</strong>
+                </div>
+                <div class="breakdown-item">
+                  <span>💳 FASTag Toll Charges</span>
+                  <strong id="tripTollExpense">₹345</strong>
+                </div>
+                <div class="breakdown-item">
+                  <span>📊 Fuel Required</span>
+                  <strong id="tripFuelUnits">23.3 Litres</strong>
+                </div>
+                <div class="breakdown-item highlight-green">
+                  <span>⚡ Electric Equivalent Cost</span>
+                  <strong id="tripEvCost">₹315 (Save ₹1,773)</strong>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB 4: Daily Indian Driver & Traffic Rules IQ Quiz -->
+      <div class="garage-tab-panel" id="tabQuiz" role="tabpanel">
+        <div class="tool-wrapper">
+          <div class="tool-intro">
+            <span class="tool-badge">🏆 Daily Indian Driver Challenge</span>
+            <h3 class="tool-heading">Daily Indian RTO &amp; Traffic Rules IQ Quiz</h3>
+            <p class="tool-desc">Test your knowledge on hidden Indian traffic laws, fines, and vehicle hacks. Score 3/3 to unlock your verified Driver Badge!</p>
+          </div>
+
+          <div class="quiz-container">
+            <div class="quiz-card" id="quizCard">
+              <div class="quiz-progress-bar">
+                <div class="quiz-progress-fill" id="quizProgressFill" style="width: 33%;"></div>
+              </div>
+              <div class="quiz-meta-row">
+                <span class="quiz-question-num" id="quizQNum">Question 1 of 3</span>
+                <span class="quiz-score-badge" id="quizScoreBadge">Score: 0</span>
+              </div>
+
+              <h4 class="quiz-question-text" id="quizQuestionText">Loading question...</h4>
+              <div class="quiz-options-list" id="quizOptionsList"></div>
+
+              <div class="quiz-feedback-box" id="quizFeedbackBox" style="display: none;">
+                <div class="feedback-title" id="feedbackTitle"></div>
+                <div class="feedback-desc" id="feedbackDesc"></div>
+                <button class="quiz-next-btn" id="quizNextBtn" type="button">Next Question →</button>
+              </div>
+
+              <!-- Quiz Completion View -->
+              <div class="quiz-complete-box" id="quizCompleteBox" style="display: none;">
+                <canvas id="confettiCanvas" class="confetti-canvas"></canvas>
+                <div class="quiz-badge-icon">🎖️</div>
+                <h3 class="complete-title" id="completeTitle">RTO Master!</h3>
+                <p class="complete-desc" id="completeDesc">You scored 3/3 on today's Indian traffic rules and car quiz.</p>
+                <button class="whatsapp-share-btn" id="quizShareBtn" type="button" style="margin-top: 14px;">
+                  <span>📲 Share My Score on WhatsApp</span>
+                </button>
+                <button class="quiz-retry-btn" id="quizRetryBtn" type="button" style="margin-top: 8px;">Play Again ↺</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB 5: 1/4-Mile Drag Race Simulator -->
+      <div class="garage-tab-panel" id="tabDragRace" role="tabpanel">
         <div class="drag-selectors-grid">
           <div class="drag-car-card">
             <label for="carASelect">Lane 1 Contender</label>
             <select id="carASelect" class="car-select" aria-label="Select Car A"></select>
-            <div style="margin-top: 8px; font-size: 13px; font-weight: 700; color: #38bdf8;" id="carAName">Tesla Model S Plaid</div>
-            <div style="font-size: 11px; color: #94a3b8;" id="carAType">AWD Tri-Motor EV</div>
+            <div style="margin-top: 8px; font-size: 13px; font-weight: 700; color: #38bdf8;" id="carAName">Mahindra Thar Roxx 4x4</div>
+            <div style="font-size: 11px; color: #94a3b8;" id="carAType">2.0L mStallion Turbo-Petrol</div>
           </div>
 
           <div class="vs-badge">VS</div>
@@ -252,8 +553,8 @@ def get_interactive_garage_html() -> str:
           <div class="drag-car-card">
             <label for="carBSelect">Lane 2 Contender</label>
             <select id="carBSelect" class="car-select" aria-label="Select Car B"></select>
-            <div style="margin-top: 8px; font-size: 13px; font-weight: 700; color: #f59e0b;" id="carBName">Porsche 911 Turbo S</div>
-            <div style="font-size: 11px; color: #94a3b8;" id="carBType">3.7L Twin-Turbo Flat-6 Gas</div>
+            <div style="margin-top: 8px; font-size: 13px; font-weight: 700; color: #f59e0b;" id="carBName">Mahindra Scorpio-N</div>
+            <div style="font-size: 11px; color: #94a3b8;" id="carBType">2.2L mHawk CRDe Diesel</div>
           </div>
         </div>
 
@@ -298,71 +599,85 @@ def get_interactive_garage_html() -> str:
           
           <!-- Christmas Tree Starting Lights -->
           <div class="tree-lights-container" aria-label="Christmas tree start lights">
-            <div class="tree-light amber" id="treeAmber1" title="Stage 1"></div>
-            <div class="tree-light amber" id="treeAmber2" title="Stage 2"></div>
-            <div class="tree-light amber" id="treeAmber3" title="Stage 3"></div>
-            <div class="tree-light green" id="treeGreen" title="Green Flag"></div>
+            <div class="tree-light staged" id="lightStage"></div>
+            <div class="tree-light amber" id="lightAmber1"></div>
+            <div class="tree-light amber" id="lightAmber2"></div>
+            <div class="tree-light green" id="lightGreen"></div>
           </div>
 
-          <!-- Track Lanes -->
-          <div class="track-lanes">
-            <!-- Lane 1 -->
-            <div class="track-lane">
-              <div class="finish-line-banner" aria-hidden="true"></div>
-              <div class="drag-car-sprite" id="carATrack">
+          <div class="tracks-wrapper">
+            <!-- Lane 1 Track -->
+            <div class="race-lane" id="lane1">
+              <div class="lane-label">LANE 1</div>
+              <div class="race-car car-a" id="carATrack">
                 <span class="car-icon">🏎️</span>
-                <span class="car-tag-mini" style="border-left: 3px solid #38bdf8;">Lane 1</span>
+                <span class="car-tag-float" id="carATag">Lane 1</span>
               </div>
+              <div class="finish-line"></div>
             </div>
 
-            <!-- Lane 2 -->
-            <div class="track-lane">
-              <div class="finish-line-banner" aria-hidden="true"></div>
-              <div class="drag-car-sprite" id="carBTrack">
-                <span class="car-icon">🚗</span>
-                <span class="car-tag-mini" style="border-left: 3px solid #f59e0b;">Lane 2</span>
+            <!-- Lane 2 Track -->
+            <div class="race-lane" id="lane2">
+              <div class="lane-label">LANE 2</div>
+              <div class="race-car car-b" id="carBTrack">
+                <span class="car-icon">🏎️</span>
+                <span class="car-tag-float" id="carBTag">Lane 2</span>
               </div>
+              <div class="finish-line"></div>
             </div>
-          </div>
-
-          <!-- Live Digital Telemetry HUD -->
-          <div class="telemetry-row">
-            <div><strong>LANE 1:</strong> <span id="telemetryA">Ready (0.0s)</span></div>
-            <div><strong>LANE 2:</strong> <span id="telemetryB">Ready (0.0s)</span></div>
           </div>
         </div>
 
-        <!-- Result Box -->
-        <div class="race-result-box" id="raceResultBox" role="status">
-          <span id="raceResultText"></span>
+        <!-- Real-Time Telemetry Bar -->
+        <div class="telemetry-readout">
+          <div class="telemetry-lane">
+            <span class="tel-label">Lane 1 Telemetry:</span>
+            <span class="tel-val" id="telTimeA">0.00s @ 0 mph</span>
+          </div>
+          <div class="telemetry-lane">
+            <span class="tel-label">Lane 2 Telemetry:</span>
+            <span class="tel-val" id="telTimeB">0.00s @ 0 mph</span>
+          </div>
         </div>
 
-        <!-- Launch Button Bar -->
-        <div class="launch-controls-bar">
-          <button class="btn-launch" id="launchRaceBtn">🚀 LAUNCH CONTROL</button>
-          <button class="btn-share-result" id="shareRaceBtn">🔗 Share Battle Result</button>
+        <!-- Launch Race Controls -->
+        <div class="drag-controls-row">
+          <button class="launch-race-btn" id="launchRaceBtn">
+            <span>🏁</span> <span>LAUNCH HEAD-TO-HEAD BATTLE</span>
+          </button>
+        </div>
+
+        <!-- Winner Podium Box -->
+        <div class="race-result-box" id="raceResultBox" style="display: none;">
+          <h3 class="result-title" id="raceResultText">🏁 RACE WINNER</h3>
+          <p class="result-sub">Physics-based simulation using certified dynamometer horsepower, weight ratio, and 1/4-mile trap speeds.</p>
+          <button class="share-race-btn" id="shareRaceBtn">
+            <span>🔗</span> <span>Share Telemetry Battle</span>
+          </button>
         </div>
       </div>
 
-      <!-- TAB 2: EV vs Gas Savings Calculator -->
+      <!-- TAB 6: EV vs Gas Savings Calculator -->
       <div class="garage-tab-panel" id="tabEvCalc" role="tabpanel">
         <div class="calc-grid">
           <!-- Inputs Card -->
           <div class="calc-inputs-card">
+            <h3 class="calc-card-title">⚡ Configure Your Commute</h3>
+            
             <div class="calc-field">
               <div class="calc-label-row">
                 <label for="calcCommute">Daily Commute Distance</label>
                 <span class="calc-val-badge" id="commuteVal">35 km</span>
               </div>
-              <input type="range" id="calcCommute" class="calc-range-slider" min="10" max="150" step="5" value="35">
+              <input type="range" id="calcCommute" class="calc-range-slider" min="5" max="250" step="5" value="35">
             </div>
 
             <div class="calc-field">
               <div class="calc-label-row">
-                <label for="calcMpg">Current Petrol/Diesel Car Mileage</label>
+                <label for="calcMpg">Current Petrol/Diesel Car Mileage (kmpl)</label>
                 <span class="calc-val-badge" id="mpgVal">14 kmpl</span>
               </div>
-              <input type="range" id="calcMpg" class="calc-range-slider" min="8" max="25" step="1" value="14">
+              <input type="range" id="calcMpg" class="calc-range-slider" min="8" max="28" step="1" value="14">
             </div>
 
             <div class="calc-field">
@@ -1067,6 +1382,161 @@ def generate_editorial_take(article: dict, author: dict) -> dict:
     }
 
 
+def generate_article_faqs(article: dict, cat_slug: str) -> tuple[str, str]:
+    """
+    Generates structured, contextual FAQs for Indian motorists based on category and topic.
+    Returns:
+      (faq_html, faq_schema_json)
+    """
+    source = article.get("source", config.SITE_NAME)
+    title = article.get("title", "")
+    
+    faqs = []
+    if cat_slug == "rules-challan":
+        faqs = [
+            {
+                "q": "How can motorists verify or contest a wrongful online traffic challan in India?",
+                "a": "Vehicle owners can log onto the official Ministry of Road Transport portal (echallan.parivahan.gov.in) or the Virtual Court website (vcourts.gov.in) with vehicle registration details. If an automated camera misidentified an obscured or similar number plate, an online dispute grievance can be filed before the Virtual Judge."
+            },
+            {
+                "q": "What are the legal permissible limits for window sunfilm on cars in India?",
+                "a": "Under CMVR Rule 100 and Supreme Court directives, front and rear windscreens must maintain at least 70% Visual Light Transmission (VLT), while side window glasses must maintain at least 50% VLT. Tinted glasses must comply with BIS standards without aftermarket black films."
+            },
+            {
+                "q": "Can traffic police seize vehicle ignition keys or physical documents during an inspection?",
+                "a": "As per MoRTH advisories and High Court directives, traffic police personnel are strictly prohibited from snatching ignition keys. Showing verified digital documents on DigiLocker or mParivahan has full legal standing under Rule 139 of the Central Motor Vehicles Rules."
+            }
+        ]
+    elif cat_slug == "suvs-comparisons":
+        faqs = [
+            {
+                "q": "Why does real-world city mileage differ significantly from official ARAI figures?",
+                "a": "ARAI mileage is certified under standardized laboratory conditions with steady-state cruising, no AC load, and empty passenger cabins. In heavy Indian urban stop-and-go traffic, real-world fuel economy typically drops by 25% to 40%."
+            },
+            {
+                "q": "Which SUV powertrain offers the lowest running cost for 1,500+ km monthly running?",
+                "a": "For high monthly usage exceeding 1,500 km, factory-fitted CNG (₹2.80 - ₹3.40/km) and pure Electric SUVs (₹1.20 - ₹1.80/km) deliver substantial running-cost savings compared to Turbo-Petrol (₹7.50 - ₹10.00/km) and Diesel (₹6.50 - ₹8.50/km)."
+            },
+            {
+                "q": "How does an automatic gearbox affect SUV fuel efficiency in dense city traffic?",
+                "a": "While modern Torque Converters and DCTs are efficient on highways, in crawling city traffic, dual-clutch and torque converter gearboxes consume 10-15% more fuel compared to manuals or e-CVT strong hybrids."
+            }
+        ]
+    elif cat_slug == "discounts-offers":
+        faqs = [
+            {
+                "q": "How can buyers negotiate unadvertised dealer discounts on new cars in India?",
+                "a": "Dealers hold monthly and quarterly inventory sales targets. Visiting dealerships in the final 5 days of the month, requesting written competitor quotations, and opting for ready-stock VINs can yield substantial dealer-end price cuts."
+            },
+            {
+                "q": "Are car buyers required to purchase mandatory dealer insurance?",
+                "a": "No. Car buyers are legally entitled under Competition Commission of India (CCI) rulings to purchase vehicle insurance from any IRDAI-registered provider. Buying independent comprehensive insurance online with 1-year Zero Depreciation typically saves ₹15,000 to ₹40,000 over dealer quotes."
+            },
+            {
+                "q": "What is the difference between MY (Manufacturing Year) discounts and festive offers?",
+                "a": "Year-end (November-December) inventory discounts specifically clear stock with earlier manufacturing dates, offering higher direct cash deductions compared to standard festive exchange loan schemes."
+            }
+        ]
+    elif cat_slug == "car-hacks":
+        faqs = [
+            {
+                "q": "How can car owners cool down the cabin in extreme Indian summer heat?",
+                "a": "Roll down the passenger-side window and open/close the driver door 5 times to pump out hot trapped air. Then start the engine, set the AC to fresh air mode for 60 seconds before switching to recirculation mode for maximum rapid cooling."
+            },
+            {
+                "q": "Does using premium higher-octane fuel increase mileage in regular commuter cars?",
+                "a": "Regular commuter engines tuned for 91-octane fuel do not gain measurable power or mileage from 95 or 100-octane fuel. High-octane fuel only prevents pre-ignition knock in high-compression turbo or performance engines."
+            },
+            {
+                "q": "How can windshield fogging be permanently eliminated during monsoon driving?",
+                "a": "Turn on the AC with temperature set to moderate, switch air intake to Fresh Air mode (not recirculation), and engage the front defogger vents. Applying a thin film of anti-fog coating on the inside glass prevents condensation."
+            }
+        ]
+    elif cat_slug == "spied-upcoming":
+        faqs = [
+            {
+                "q": "How long after test-mule spyshots do manufacturers commercially launch cars in India?",
+                "a": "Production-ready test mules with near-final body panels and lighting typically signal that official commercial launch is 3 to 6 months away, following final ARAI homologation testing."
+            },
+            {
+                "q": "Are official pre-launch car bookings 100% refundable?",
+                "a": "Yes, official pre-launch bookings made via authorized manufacturer portals are 100% refundable prior to vehicle billing, as governed by Indian consumer protection norms."
+            },
+            {
+                "q": "What features can be deduced from camouflage test mules?",
+                "a": "Rear suspension architecture (torsion beam vs multi-link), ADAS radar modules on lower air dams, disc brakes on all four wheels, and sunroof cuts indicate the variant level being tested."
+            }
+        ]
+    elif cat_slug == "safety-crashes":
+        faqs = [
+            {
+                "q": "What are the key criteria for a car to achieve 5 Stars in Bharat NCAP?",
+                "a": "A vehicle must achieve a minimum of 27 adult points and 41 child occupant points, pass the 64 km/h frontal offset crash test, side barrier impact, mandatory side pole impact test, and offer Electronic Stability Control (ESC) as standard."
+            },
+            {
+                "q": "Does having 6 airbags guarantee a 5-star crash safety rating?",
+                "a": "No. Airbags only cushion passengers if the underlying cabin body shell integrity is rated 'Stable'. Without high-strength steel structural rigidity, airbags cannot prevent passenger cabin intrusion."
+            },
+            {
+                "q": "What is ISOFIX and why is it mandatory for child safety in passenger cars?",
+                "a": "ISOFIX provides rigid metal attachment points directly welded to the car chassis, securing child safety seats without relying on adult seatbelts, drastically reducing forward and rotational child head movement in crashes."
+            }
+        ]
+    else:  # ev-reality and general
+        faqs = [
+            {
+                "q": "What is the real-world highway range of mass-market Indian electric cars?",
+                "a": "High-speed highway cruising at 90-100 km/h with continuous AC typically yields 60% to 70% of the manufacturer's certified MIDC range. A 400 km claimed EV will realistically achieve 250 to 280 km on open highways."
+            },
+            {
+                "q": "How much does it cost to charge an EV at home vs public DC fast chargers?",
+                "a": "Home AC wallbox charging costs ₹6 to ₹9 per unit (kWh), resulting in running costs under ₹1.50/km. Commercial DC fast chargers cost ₹18 to ₹24 per unit, bringing highway running costs to around ₹3.00/km."
+            },
+            {
+                "q": "Does extreme Indian summer heat degrade modern EV battery packs?",
+                "a": "Modern Indian EVs feature liquid-cooled thermal management systems that circulate coolant through battery cells, keeping operating temperatures within safe thresholds (25°C - 35°C) and protecting battery warranty for 8 years / 1,60,000 km."
+            }
+        ]
+
+    faq_items_html = []
+    schema_entities = []
+    for item in faqs:
+        q = escape(item["q"])
+        a = escape(item["a"])
+        faq_items_html.append(f"""
+          <details class="faq-item">
+            <summary class="faq-question">{q}</summary>
+            <div class="faq-answer"><p>{a}</p></div>
+          </details>""")
+        schema_entities.append({
+            "@type": "Question",
+            "name": item["q"],
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": item["a"]
+            }
+        })
+
+    faq_section_html = f"""
+        <section class="article-faq-section" aria-label="Frequently Asked Questions">
+          <h3 class="faq-section-title">
+            <span>❓</span>
+            <span>Frequently Asked Questions &amp; Driver Rules</span>
+          </h3>
+          <div class="faq-list">
+            {"".join(faq_items_html)}
+          </div>
+        </section>"""
+
+    faq_schema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": schema_entities
+    }
+
+    return faq_section_html, json.dumps(faq_schema, ensure_ascii=False)
+
+
 def render_article_page_html(article: dict, all_articles: list) -> str:
     """
     Renders a dedicated, in-depth, AdSense & Google News-compliant article page.
@@ -1094,6 +1564,8 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
     # Assign Expert Author (E-E-A-T Compliance)
     author = AUTHORS.get(cat_slug, AUTHORS.get("suvs-comparisons", list(AUTHORS.values())[0]))
     take_info = generate_editorial_take(article, author)
+    faq_section_html, faq_schema_json = generate_article_faqs(article, cat_slug)
+    wa_share_text = urllib.parse.quote(f"🚨 {article.get('title', '')}\n\n👉 Full details & fine check: {config.SITE_URL}/news/{slug}/")
 
 
     # Format Takeaways Box & Filter Out Repetitive Default Stubs
@@ -1353,6 +1825,11 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
   <script type="application/ld+json">
 {schema_json}
   </script>
+
+  <!-- FAQPage JSON-LD Structured Data -->
+  <script type="application/ld+json">
+{faq_schema_json}
+  </script>
 </head>
 <body>
   <!-- Global Top Header -->
@@ -1512,6 +1989,25 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
           <span>Buyer / Driver Action Plan &amp; Final Verdict</span>
         </h2>
         <p class="article-p">{sec5_text}</p>
+
+        <!-- WhatsApp Community Viral Alert Card -->
+        <aside class="article-whatsapp-card" aria-label="WhatsApp Community Alert">
+          <div class="whatsapp-card-content">
+            <div class="whatsapp-icon-circle">
+              <svg viewBox="0 0 24 24" width="28" height="28" fill="#25D366"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19.01L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 14.99 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67M9.53 7.34C9.36 7.34 9.09 7.4 8.87 7.65C8.65 7.89 8.02 8.48 8.02 9.7C8.02 10.92 8.91 12.1 9.03 12.26C9.15 12.42 10.74 14.88 13.19 15.94C15.23 16.82 15.64 16.64 16.08 16.61C16.53 16.57 17.51 16.02 17.72 15.44C17.93 14.86 17.93 14.36 17.87 14.26C17.81 14.16 17.65 14.1 17.41 13.98C17.16 13.86 15.93 13.25 15.7 13.17C15.48 13.09 15.31 13.05 15.15 13.29C14.98 13.54 14.51 14.1 14.36 14.26C14.22 14.43 14.07 14.45 13.83 14.33C13.59 14.2 12.56 13.87 11.35 12.79C10.41 11.95 9.77 10.91 9.61 10.63C9.45 10.35 9.59 10.2 9.71 10.08C9.82 9.97 9.96 9.79 10.08 9.65C10.2 9.51 10.24 9.41 10.32 9.25C10.4 9.09 10.36 8.95 10.3 8.83C10.24 8.71 9.75 7.51 9.53 7.34Z"/></svg>
+            </div>
+            <div class="whatsapp-card-text">
+              <strong>Alert Fellow Drivers on WhatsApp</strong>
+              <p>Forward this verified automotive briefing to save friends and family from wrongful fines or dealer markup traps.</p>
+            </div>
+          </div>
+          <a href="https://api.whatsapp.com/send?text={wa_share_text}" target="_blank" rel="noopener" class="whatsapp-card-btn" data-ga-source="whatsapp_share">
+            Share Alert 📲
+          </a>
+        </aside>
+
+        <!-- Google Search Accordion FAQ Section -->
+        {faq_section_html}
 
         <!-- Editorial Integrity & Attribution Box -->
         <div class="editorial-trust-box">
