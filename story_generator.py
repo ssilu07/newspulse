@@ -43,7 +43,7 @@ def crop_to_aspect(img: Image.Image, target_ratio: float, target_w: int, target_
     return cropped
 
 
-def create_gradient_fallback(category_slug: str = "trending", width: int = 1600, height: int = 1200) -> Image.Image:
+def create_gradient_fallback(category_slug: str = "suvs-comparisons", width: int = 1600, height: int = 1200) -> Image.Image:
     """Creates a sleek, high-resolution dark editorial background with brand glow if offline."""
     img = Image.new("RGB", (width, height), (9, 13, 22))
     draw = ImageDraw.Draw(img)
@@ -104,9 +104,9 @@ def ensure_story_posters(article: dict, output_dir: Path, keep_local_posters: bo
     """
     output_dir.mkdir(parents=True, exist_ok=True)
     slug = article["slug"]
-    cat_slug = article.get("category", "trending")
+    cat_slug = article.get("category", "suvs-comparisons")
     if cat_slug not in config.CATEGORIES:
-        cat_slug = "trending"
+        cat_slug = "suvs-comparisons"
     
     p_portrait = output_dir / "poster-portrait.jpg"
     p_square = output_dir / "poster-square.jpg"
@@ -273,7 +273,7 @@ def generate_amp_story_html(article: dict, poster_urls: dict = None) -> str:
     # Render slides HTML
     slides_html_list = []
     total_slides = len(slides)
-    cat_slug = article.get("category", "trending")
+    cat_slug = article.get("category", "suvs-comparisons")
 
     for i, slide in enumerate(slides):
         page_id = f"slide-{i + 1}"

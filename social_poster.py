@@ -48,15 +48,15 @@ def save_posted_history(history: dict):
 def get_category_hashtags(category: str) -> str:
     """Generates viral hashtags based on topic."""
     tags = {
-        "world": "#EV #ElectricVehicles #Tesla #CleanMobility #BatteryTech #NewsSeconds",
-        "tech": "#Supercars #Hypercars #Ferrari #Porsche #Lamborghini #CarPorn #NewsSeconds",
-        "ai-future": "#AutonomousDriving #TeslaFSD #Waymo #RoboTaxi #FutureMobility #AutoTech",
-        "business": "#AutoIndustry #Automotive #Gigafactory #CarNews #EVNews",
-        "trending": "#ConceptCar #CarCulture #Hypercar #ViralCars #NewsSeconds",
-        "sports": "#Formula1 #F1 #Motorsport #LeMans #RacingTech #GrandPrix",
-        "entertainment": "#CarCulture #Restomod #ClassicCars #VintageCars #Gearhead"
+        "rules-challan": "#Challan #TrafficFine #RTO #TrafficPolice #MotorVehiclesAct #NewsSeconds",
+        "car-hacks": "#CarHacks #CarTips #HiddenFeatures #CarMaintenance #AutoTricks #NewsSeconds",
+        "suvs-comparisons": "#IndianSUVs #RealMileage #TharRoxx #ScorpioN #TataSafari #Creta #NewsSeconds",
+        "discounts-offers": "#CarDiscounts #YearEndSale #CarOffers #WaitingPeriod #BestCarDeals #NewsSeconds",
+        "spied-upcoming": "#UpcomingCars #Spied #Spyshots #NewCarLaunch #CarLeaks #NewsSeconds",
+        "safety-crashes": "#BharatNCAP #GlobalNCAP #CarSafety #BuildQuality #CrashTest #NewsSeconds",
+        "ev-reality": "#ElectricVehicles #TataEV #NexonEV #RealRange #EVIndia #HybridVsEV #NewsSeconds",
     }
-    return tags.get(category, "#Cars #EV #Supercars #Automotive #NewsSeconds")
+    return tags.get(category, "#IndianCars #SUVs #Automotive #NewsSeconds")
 
 
 # ==============================================================================
@@ -302,15 +302,15 @@ def post_to_linkedin(article: dict) -> bool:
 def get_tumblr_tags(category: str) -> str:
     """Returns comma-separated tags tailored for Tumblr discovery."""
     tags_map = {
-        "world": "EV, Electric Vehicles, Tesla, Clean Energy, Battery Tech, NewsSeconds, Cars",
-        "tech": "Supercars, Hypercars, Ferrari, Porsche, Lamborghini, Sports Cars, Automotive",
-        "ai-future": "Autonomous Driving, Tesla FSD, RoboTaxi, Future Mobility, Auto Tech",
-        "business": "Auto Industry, Cars, Electric Cars, Automotive News, Gigafactory, Business",
-        "trending": "Concept Cars, Hypercar, Supercar, Auto Show, Custom Cars, NewsSeconds",
-        "sports": "Formula 1, F1, Motorsport, Racing, Grand Prix, Le Mans, Speed",
-        "entertainment": "Car Culture, Restomod, Classic Cars, Vintage Cars, Automobiles, V8"
+        "rules-challan": "Traffic Rules, RTO Challan, Traffic Fine, High Security Number Plate, Motor Vehicles Act, India, NewsSeconds",
+        "car-hacks": "Car Hacks, Hidden Car Features, Car Maintenance, DIY Auto, Driving Tips, NewsSeconds",
+        "suvs-comparisons": "Indian SUVs, Real World Mileage, Thar Roxx, Mahindra Scorpio, Tata Safari, Hyundai Creta, Cars",
+        "discounts-offers": "Car Discounts, Year End Offers, Dealership Discounts, Waiting Period, Buying Advice, NewsSeconds",
+        "spied-upcoming": "Upcoming Cars, Car Spyshots, Automobile Launches, Facelift, Auto Leaks, NewsSeconds",
+        "safety-crashes": "Bharat NCAP, Car Crash Safety, 5 Star Safety, Build Quality, Road Safety, NewsSeconds",
+        "ev-reality": "Electric Vehicles, EV Range Test, Tata Nexon EV, Hybrid Cars, Battery Life, India EV, NewsSeconds",
     }
-    return tags_map.get(category, "Cars, Supercars, EV, Automotive, NewsSeconds")
+    return tags_map.get(category, "Indian Cars, SUVs, EV, Automotive, NewsSeconds")
 
 
 _RESOLVED_TUMBLR_BLOG: str = ""

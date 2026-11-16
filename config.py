@@ -18,21 +18,21 @@ TEMPLATES_DIR = BASE_DIR / "templates"
 
 # Site Identity & Branding
 SITE_NAME = os.getenv("SITE_NAME", "News Seconds")
-SITE_TAGLINE = os.getenv("SITE_TAGLINE", "Bite-Sized EVs, Supercars & Future Mobility in Seconds")
+SITE_TAGLINE = os.getenv("SITE_TAGLINE", "India's High-Velocity Automotive & RTO Intelligence")
 SITE_DESCRIPTION = os.getenv(
     "SITE_DESCRIPTION",
-    "Your 60-second pit stop for breaking electric vehicle breakthroughs, supercar debuts, Tesla leaks, and autonomous mobility."
+    "Unfiltered Indian automobile news, new traffic challan rules, real-world mileage tests, year-end car discounts, and leaked SUV spyshots in bite-sized seconds."
 )
 SITE_URL = os.getenv("SITE_URL", "https://newsseconds.com").rstrip("/")
-SITE_LOCALE = "en_US"
+SITE_LOCALE = "en_IN"
 SITE_LANGUAGE = "en"
 
 # Publisher Details for Schema & Compliance
-PUBLISHER_NAME = os.getenv("PUBLISHER_NAME", "News Seconds Media Network")
+PUBLISHER_NAME = os.getenv("PUBLISHER_NAME", "News Seconds Automotive Network")
 PUBLISHER_LOGO = f"{SITE_URL}/static/assets/logo.png"
 EDITORIAL_EMAIL = os.getenv("EDITORIAL_EMAIL", "editorial@newsseconds.com")
 DMCA_EMAIL = os.getenv("DMCA_EMAIL", "dmca@newsseconds.com")
-CONTACT_ADDRESS = os.getenv("CONTACT_ADDRESS", "548 Market St, Suite 72401, San Francisco, CA 94104")
+CONTACT_ADDRESS = os.getenv("CONTACT_ADDRESS", "DLF Cyber City, Phase II, Sector 24, Gurugram, Haryana 122002, India")
 
 # Gemini AI Settings
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
@@ -77,195 +77,178 @@ INDEXNOW_KEY = os.getenv("INDEXNOW_KEY", "79624caa6fca40dfbc227ab2ed0f7f42")
 ADSENSE_PUB_ID = os.getenv("ADSENSE_PUB_ID", "")
 
 
-# Categories and High-Reliability RSS Feeds
+# Categories and High-Reliability Viral Indian RSS Feeds
 CATEGORIES = {
-    "india": {
-        "name": "India Drives & SUVs",
-        "slug": "india",
-        "color": "#ea580c",
-        "gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
-        "icon": "🚙",
-        "description": "Tata Motors, Mahindra Thar & Scorpio, Maruti Suzuki, Hyundai India, Bharat NCAP crash safety ratings, and mass-market SUV launches.",
+    "rules-challan": {
+        "name": "Challan & RTO Alerts",
+        "slug": "rules-challan",
+        "color": "#dc2626",
+        "gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+        "icon": "🚨",
+        "description": "New traffic challans, Motor Vehicles Act fines, speed cameras, HSRP number plates, tinted glass rules, and RTO updates.",
         "feeds": [
-            "https://www.rushlane.com/feed",
-            "https://www.motorbeam.com/feed/",
-            "https://gaadiwaadi.com/feed/",
-            "https://www.carblogindia.com/feed/",
-            "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms"
+            "https://www.cartoq.com/feed/",
+            "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms",
+            "https://www.rushlane.com/feed"
         ],
         "default_image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop"
     },
-    "world": {
-        "name": "EVs & Clean Mobility",
-        "slug": "world",
-        "color": "#06b6d4",
-        "gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-        "icon": "⚡",
-        "description": "Tesla, BYD, Rivian, next-gen sodium and solid-state batteries, and electric charging networks.",
-        "feeds": [
-            "https://electrek.co/feed/",
-            "https://cleantechnica.com/feed/",
-            "https://techcrunch.com/category/transportation/feed/"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1600&h=900&fit=crop"
-    },
-    "tech": {
-        "name": "Supercars & Hypercars",
-        "slug": "tech",
-        "color": "#ef4444",
-        "gradient": "linear-gradient(135deg, #ef4444, #f97316)",
-        "icon": "🏎️",
-        "description": "Ferrari, Porsche, Lamborghini, McLaren, hypercar track telemetry, and aero breakthroughs.",
-        "feeds": [
-            "https://www.caranddriver.com/rss/all.xml",
-            "https://www.carscoops.com/feed/",
-            "https://jalopnik.com/rss"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1600&h=900&fit=crop"
-    },
-    "ai-future": {
-        "name": "Robo-Taxis & Autonomous",
-        "slug": "ai-future",
+    "car-hacks": {
+        "name": "Car Hacks & Secrets",
+        "slug": "car-hacks",
         "color": "#8b5cf6",
-        "gradient": "linear-gradient(135deg, #8b5cf6, #ec4899)",
-        "icon": "🤖",
-        "description": "Tesla Full Self-Driving (FSD), Waymo, robotaxis, automotive lidar, and AI smart cockpits.",
+        "gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
+        "icon": "💡",
+        "description": "Hidden dashboard features, AC defogging hacks, real mileage boost tricks, DIY car maintenance, and secrets dealerships hide.",
         "feeds": [
-            "https://techcrunch.com/category/transportation/feed/",
-            "https://electrek.co/category/autonomous/feed/",
-            "https://cleantechnica.com/feed/"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop"
-    },
-    "business": {
-        "name": "Auto Industry & Deals",
-        "slug": "business",
-        "color": "#10b981",
-        "gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-        "icon": "📈",
-        "description": "Automaker earnings, gigafactory expansions, battery supply-chains, and global automotive tariffs.",
-        "feeds": [
-            "https://electrek.co/feed/",
-            "https://cleantechnica.com/feed/",
-            "https://www.carscoops.com/feed/"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1600&h=900&fit=crop"
-    },
-    "trending": {
-        "name": "Viral Drives & Concepts",
-        "slug": "trending",
-        "color": "#f43f5e",
-        "gradient": "linear-gradient(135deg, #f43f5e, #fb923c)",
-        "icon": "🔥",
-        "description": "Radical concept vehicles, world speed records, spy shots, and viral custom engineering.",
-        "feeds": [
-            "https://jalopnik.com/rss",
-            "https://www.carscoops.com/feed/",
-            "https://www.caranddriver.com/rss/all.xml"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop"
-    },
-    "sports": {
-        "name": "Motorsport & F1 Tech",
-        "slug": "sports",
-        "color": "#f59e0b",
-        "gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-        "icon": "🏁",
-        "description": "Formula 1 telemetry, aerodynamic upgrades, Formula E electric racing, and Le Mans hypercars.",
-        "feeds": [
-            "https://the-race.com/feed/",
-            "https://www.autosport.com/rss/f1/news/"
-        ],
-        "default_image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1600&h=900&fit=crop"
-    },
-    "entertainment": {
-        "name": "Car Culture & Restomods",
-        "slug": "entertainment",
-        "color": "#ec4899",
-        "gradient": "linear-gradient(135deg, #ec4899, #8b5cf6)",
-        "icon": "🎬",
-        "description": "V8 restomods, legendary barn finds, cinema car chases, and iconic gearhead culture.",
-        "feeds": [
-            "https://silodrome.com/feed/",
-            "https://jalopnik.com/rss",
-            "https://www.caranddriver.com/rss/all.xml"
+            "https://www.cartoq.com/feed/",
+            "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms",
+            "https://www.carblogindia.com/feed/"
         ],
         "default_image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop"
     },
-    "india": {
-        "name": "India Drives & SUVs",
-        "slug": "india",
+    "suvs-comparisons": {
+        "name": "SUV Wars & Real Mileage",
+        "slug": "suvs-comparisons",
         "color": "#ea580c",
         "gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
         "icon": "🚙",
-        "description": "Tata Motors, Mahindra Thar & Scorpio, Maruti Suzuki, Hyundai India, Bharat NCAP crash safety ratings, and mass-market SUV launches.",
+        "description": "Mahindra Thar Roxx, Scorpio-N, Tata Nexon, Safari, Curvv, Creta, Brezza, real-world city mileage, and head-to-head SUV shootouts.",
         "feeds": [
             "https://www.rushlane.com/feed",
             "https://www.motorbeam.com/feed/",
+            "https://gaadiwaadi.com/feed/"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1600&h=900&fit=crop"
+    },
+    "discounts-offers": {
+        "name": "Discounts & Waiting Periods",
+        "slug": "discounts-offers",
+        "color": "#10b981",
+        "gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+        "icon": "🏷️",
+        "description": "Year-end cash discounts, exchange bonuses, dealer inventory clearances, and realistic waiting periods for popular cars in India.",
+        "feeds": [
             "https://gaadiwaadi.com/feed/",
             "https://www.carblogindia.com/feed/",
-            "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms"
+            "https://www.rushlane.com/feed"
         ],
-        "default_image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop"
+        "default_image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop"
+    },
+    "spied-upcoming": {
+        "name": "Leaked Spyshots & Launches",
+        "slug": "spied-upcoming",
+        "color": "#ec4899",
+        "gradient": "linear-gradient(135deg, #ec4899, #f43f5e)",
+        "icon": "📸",
+        "description": "Leaked spy photos, camouflaged test mules, 2026-2027 facelifts, interior leaks, and upcoming car launches in India.",
+        "feeds": [
+            "https://www.carblogindia.com/feed/",
+            "https://www.rushlane.com/feed",
+            "https://www.motorbeam.com/feed/"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop"
+    },
+    "safety-crashes": {
+        "name": "Crash Safety & Build Quality",
+        "slug": "safety-crashes",
+        "color": "#f59e0b",
+        "gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+        "icon": "🛡️",
+        "description": "Bharat NCAP safety star ratings, crash test analysis, real-world highway accident survival, and build quality comparisons.",
+        "feeds": [
+            "https://www.cartoq.com/feed/",
+            "https://www.motorbeam.com/feed/",
+            "https://www.carblogindia.com/feed/"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1600&h=900&fit=crop"
+    },
+    "ev-reality": {
+        "name": "EV Range & Hybrid Reality",
+        "slug": "ev-reality",
+        "color": "#06b6d4",
+        "gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
+        "icon": "⚡",
+        "description": "Real highway range vs ARAI claims, electric car battery replacement costs, home charging truths, and hybrid vs EV ownership math in India.",
+        "feeds": [
+            "https://www.cartoq.com/feed/",
+            "https://www.motorbeam.com/feed/",
+            "https://gaadiwaadi.com/feed/"
+        ],
+        "default_image": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1600&h=900&fit=crop"
     }
 }
 
-# Curated High-Definition Story Background Images per category for AMP slide sequencing
+# Curated High-Definition Story Background Images per category for AMP slide sequencing (1080x1920)
 SLIDE_IMAGE_COLLECTIONS = {
-    "india": [
+    "rules-challan": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop"
+    ],
+    "car-hacks": [
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop"
+    ],
+    "suvs-comparisons": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop"
+    ],
+    "discounts-offers": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop"
+    ],
+    "spied-upcoming": [
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop"
-    ],
-    "world": [
-        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop"
-    ],
-    "tech": [
-        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop"
-    ],
-    "ai-future": [
-        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop"
-    ],
-    "business": [
-        "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1080&h=1920&fit=crop"
-    ],
-    "trending": [
-        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop"
-    ],
-    "sports": [
+        "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1080&h=1920&fit=crop"
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop"
     ],
-    "entertainment": [
-        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1080&h=1920&fit=crop",
+    "safety-crashes": [
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
         "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1080&h=1920&fit=crop"
+        "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop"
+    ],
+    "ev-reality": [
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1080&h=1920&fit=crop"
     ]
 }

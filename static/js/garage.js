@@ -9,6 +9,72 @@
 
   // --- CAR DATABASE (Accurate official specs & 1/4 mile test telemetry) ---
   const CARS = {
+    'mahindra-thar-roxx': {
+      name: 'Mahindra Thar Roxx 4x4',
+      type: '2.0L mStallion Turbo-Petrol',
+      hp: 177,
+      zeroToSixty: 9.80,
+      quarterMile: 16.90,
+      trapSpeed: 82,
+      topSpeed: 160,
+      color: '#ea580c',
+      badge: '🚙 4x4'
+    },
+    'mahindra-scorpio-n': {
+      name: 'Mahindra Scorpio-N',
+      type: '2.2L mHawk CRDe Diesel',
+      hp: 175,
+      zeroToSixty: 10.10,
+      quarterMile: 17.20,
+      trapSpeed: 80,
+      topSpeed: 165,
+      color: '#f59e0b',
+      badge: '🚙 SUV'
+    },
+    'tata-safari': {
+      name: 'Tata Safari Dark Edition',
+      type: '2.0L Kryotec Diesel',
+      hp: 170,
+      zeroToSixty: 10.40,
+      quarterMile: 17.40,
+      trapSpeed: 79,
+      topSpeed: 175,
+      color: '#38bdf8',
+      badge: '🚙 7-Seater'
+    },
+    'mahindra-xuv700': {
+      name: 'Mahindra XUV 7XO / 700',
+      type: '2.0L mStallion Turbo-Petrol',
+      hp: 200,
+      zeroToSixty: 8.80,
+      quarterMile: 16.20,
+      trapSpeed: 87,
+      topSpeed: 195,
+      color: '#10b981',
+      badge: '🚙 Flagship'
+    },
+    'toyota-fortuner': {
+      name: 'Toyota Fortuner GR-Sport 4x4',
+      type: '2.8L Turbo Diesel 4WD',
+      hp: 204,
+      zeroToSixty: 10.20,
+      quarterMile: 17.10,
+      trapSpeed: 81,
+      topSpeed: 180,
+      color: '#ef4444',
+      badge: '🚙 4WD'
+    },
+    'tata-nexon-ev': {
+      name: 'Tata Nexon.ev Long Range',
+      type: 'Permanent Magnet AC EV',
+      hp: 143,
+      zeroToSixty: 8.90,
+      quarterMile: 16.50,
+      trapSpeed: 85,
+      topSpeed: 150,
+      color: '#06b6d4',
+      badge: '⚡ Electric'
+    },
     'tesla-plaid': {
       name: 'Tesla Model S Plaid',
       type: 'AWD Tri-Motor EV',
@@ -487,7 +553,7 @@
     updateSpecsCards();
   }
 
-  // --- SETUP EV VS GAS CALCULATOR ---
+  // --- SETUP EV VS GAS CALCULATOR (Indian Market INR Metrics) ---
   function initEvCalculator(section) {
     const dailyCommuteInput = document.getElementById('calcCommute');
     const commuteValueDisplay = document.getElementById('commuteVal');
@@ -501,63 +567,69 @@
 
     if (!dailyCommuteInput || !gasMpgInput) return;
 
-    // EV Model Presets (kWh per 100 miles)
+    // EV Model Presets (kWh per 100 km on Indian road conditions)
     const EV_PRESETS = {
-      'tesla-3': 25,     // Tesla Model 3 RWD / Long Range (High efficiency)
-      'tesla-y': 28,     // Tesla Model Y
-      'byd-seal': 26,    // BYD Seal
-      'hyundai-ioniq5': 29, // Hyundai Ioniq 5
-      'rivian-r1t': 45,  // Rivian R1T (Heavy truck)
-      'porsche-taycan': 38 // Porsche Taycan
+      'tata-nexon': 13.5,     // Tata Nexon.ev (Best Seller)
+      'tata-punch': 12.8,     // Tata Punch.ev (Compact City EV)
+      'mg-zs': 15.2,          // MG ZS EV (Premium Crossover)
+      'byd-seal': 15.5,       // BYD Seal (AWD Sedan)
+      'mahindra-xuv400': 14.8 // Mahindra XUV400
     };
 
     function recalculate() {
-      const commute = parseFloat(dailyCommuteInput.value) || 35;
-      const mpg = parseFloat(gasMpgInput.value) || 25;
-      const gasPrice = parseFloat(gasPriceInput.value) || 3.60;
-      const electPrice = parseFloat(electPriceInput.value) || 0.15;
-      const evKwhPer100 = EV_PRESETS[evPresetSelect.value] || 27;
+      const commuteKm = parseFloat(dailyCommuteInput.value) || 35;
+      const kmpl = parseFloat(gasMpgInput.value) || 14;
+      const fuelPricePerLitre = parseFloat(gasPriceInput.value) || 96.50;
+      const electricityPricePerKwh = parseFloat(electPriceInput.value) || 7.50;
+      const evKwhPer100Km = EV_PRESETS[evPresetSelect ? evPresetSelect.value : 'tata-nexon'] || 13.5;
 
       // Update slider badges
-      if (commuteValueDisplay) commuteValueDisplay.textContent = `${commute} miles`;
-      if (mpgValueDisplay) mpgValueDisplay.textContent = `${mpg} MPG`;
-      if (gasPriceValueDisplay) gasPriceValueDisplay.textContent = `$${gasPrice.toFixed(2)}/gal`;
-      if (electPriceValueDisplay) electPriceValueDisplay.textContent = `$${electPrice.toFixed(2)}/kWh`;
+      if (commuteValueDisplay) commuteValueDisplay.textContent = `${commuteKm} km`;
+      if (mpgValueDisplay) mpgValueDisplay.textContent = `${kmpl} kmpl`;
+      if (gasPriceValueDisplay) gasPriceValueDisplay.textContent = `₹${fuelPricePerLitre.toFixed(2)}/L`;
+      if (electPriceValueDisplay) electPriceValueDisplay.textContent = `₹${electricityPricePerKwh.toFixed(2)}/unit`;
 
       // Monthly distance (30.4 days avg)
-      const monthlyMiles = commute * 30.4;
-      const yearlyMiles = commute * 365;
+      const monthlyKm = commuteKm * 30.4;
+      const yearlyKm = commuteKm * 365;
 
-      // Gas Cost
-      const monthlyGasGallons = monthlyMiles / mpg;
-      const monthlyGasCost = monthlyGasGallons * gasPrice;
-      const yearlyGasCost = (yearlyMiles / mpg) * gasPrice;
+      // Fuel Cost in Rupees (Petrol / Diesel)
+      const monthlyFuelLitres = monthlyKm / kmpl;
+      const monthlyGasCost = monthlyFuelLitres * fuelPricePerLitre;
+      const yearlyGasCost = (yearlyKm / kmpl) * fuelPricePerLitre;
 
-      // EV Cost
-      const monthlyKwh = (monthlyMiles / 100) * evKwhPer100;
-      const monthlyEvCost = monthlyKwh * electPrice;
-      const yearlyEvCost = ((yearlyMiles / 100) * evKwhPer100) * electPrice;
+      // EV Charging Cost in Rupees
+      const monthlyKwh = (monthlyKm / 100) * evKwhPer100Km;
+      const monthlyEvCost = monthlyKwh * electricityPricePerKwh;
+      const yearlyEvCost = ((yearlyKm / 100) * evKwhPer100Km) * electricityPricePerKwh;
 
-      // Savings
+      // Direct Rupee Savings
       const monthlySavings = Math.max(0, monthlyGasCost - monthlyEvCost);
       const fiveYearSavings = monthlySavings * 60;
+      const fiveYearLakhs = (fiveYearSavings / 100000).toFixed(2);
 
-      // CO2 reduction (approx 19.6 lbs CO2 per gallon of gasoline burned minus EV grid mix)
-      const annualGasCo2 = (yearlyMiles / mpg) * 19.6;
-      const annualEvCo2 = (yearlyMiles / 100) * evKwhPer100 * 0.85; // avg US grid lbs CO2/kWh
-      const annualCo2SavedLbs = Math.max(0, annualGasCo2 - annualEvCo2);
-      const treesEquivalent = Math.round(annualCo2SavedLbs / 48); // ~48 lbs CO2 absorbed per tree/yr
+      // CO2 reduction (approx 2.31 kg CO2 per litre of petrol burned minus clean grid factor)
+      const annualGasCo2Kg = (yearlyKm / kmpl) * 2.31;
+      const annualEvCo2Kg = ((yearlyKm / 100) * evKwhPer100Km) * 0.72; // India grid average kg CO2/kWh
+      const annualCo2SavedKg = Math.max(0, annualGasCo2Kg - annualEvCo2Kg);
+      const treesEquivalent = Math.round(annualCo2SavedKg / 22); // ~22 kg CO2 absorbed per mature tree/yr
 
-      // Home Charging Time (7.7 kW Level 2 wallbox)
-      const dailyKwh = (commute / 100) * evKwhPer100;
-      const chargingHours = (dailyKwh / 7.7).toFixed(1);
+      // Home Charging Time (assuming standard 3.3 kW home wall socket / 7.2 kW AC box)
+      const dailyKwh = (commuteKm / 100) * evKwhPer100Km;
+      const chargingHours = (dailyKwh / 3.3).toFixed(1);
 
-      // Render outputs
-      document.getElementById('calcMonthlySavings').textContent = `$${Math.round(monthlySavings).toLocaleString()}`;
-      document.getElementById('calc5YearSavings').textContent = `$${Math.round(fiveYearSavings).toLocaleString()}`;
-      document.getElementById('calcCo2Saved').textContent = `${Math.round(annualCo2SavedLbs).toLocaleString()} lbs`;
-      document.getElementById('calcTreesSaved').textContent = `~${treesEquivalent} trees planted`;
-      document.getElementById('calcChargeTime').textContent = `${chargingHours} hrs / night`;
+      // Render outputs in Indian Rupees (₹)
+      const monthlyEl = document.getElementById('calcMonthlySavings');
+      const fiveYearEl = document.getElementById('calc5YearSavings');
+      const co2El = document.getElementById('calcCo2Saved');
+      const treesEl = document.getElementById('calcTreesSaved');
+      const chargeEl = document.getElementById('calcChargeTime');
+
+      if (monthlyEl) monthlyEl.textContent = `₹${Math.round(monthlySavings).toLocaleString('en-IN')}`;
+      if (fiveYearEl) fiveYearEl.textContent = `₹${fiveYearLakhs} Lakh`;
+      if (co2El) co2El.textContent = `${Math.round(annualCo2SavedKg).toLocaleString('en-IN')} kg`;
+      if (treesEl) treesEl.textContent = `~${treesEquivalent} trees planted`;
+      if (chargeEl) chargeEl.textContent = `${chargingHours} hrs / night`;
     }
 
     [dailyCommuteInput, gasMpgInput, gasPriceInput, electPriceInput, evPresetSelect].forEach(el => {

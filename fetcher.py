@@ -30,53 +30,40 @@ HEADERS = {
 
 # Curated high-resolution editorial backup images (per category) if an article has no photo
 CATEGORY_CURATED_POOLS = {
-    "world": [
-        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1600&h=900&fit=crop"
-    ],
-    "tech": [
-        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop"
-    ],
-    "ai-future": [
+    "rules-challan": [
         "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1600&h=900&fit=crop"
+        "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop"
     ],
-    "business": [
-        "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1600&h=900&fit=crop"
-    ],
-    "trending": [
-        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop",
+    "car-hacks": [
         "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop"
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop"
     ],
-    "sports": [
-        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop"
-    ],
-    "entertainment": [
-        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop",
-        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop"
-    ],
-    "india": [
-        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop",
+    "suvs-comparisons": [
         "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop"
+    ],
+    "discounts-offers": [
         "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop",
         "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&h=900&fit=crop"
+    ],
+    "spied-upcoming": [
+        "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1600&h=900&fit=crop"
+    ],
+    "safety-crashes": [
+        "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1600&h=900&fit=crop"
+    ],
+    "ev-reality": [
+        "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1600&h=900&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1600&h=900&fit=crop"
     ]
 }
 
@@ -192,7 +179,7 @@ def extract_article_body(url: str, timeout: float = 3.5) -> list:
         return []
 
 
-def upgrade_image_resolution(url: str, category_slug: str = "trending") -> str:
+def upgrade_image_resolution(url: str, category_slug: str = "suvs-comparisons") -> str:
     """
     Transforms news media image URLs to Google-compliant high-resolution (>= 1200px width):
     - BBC: upgrades /240/, /320/, /480/, /640/, /800/, /1024/ to /1600/ HD.
@@ -294,7 +281,10 @@ def extract_image_url(entry, feed_url: str, category_slug: str, entry_link: str 
             return upgrade_image_resolution(og_img, category_slug)
 
     # 6. High-Res Diverse Curated Pool Fallback
-    pool = CATEGORY_CURATED_POOLS.get(category_slug, CATEGORY_CURATED_POOLS["trending"])
+    fallback_pool = list(CATEGORY_CURATED_POOLS.values())[0] if CATEGORY_CURATED_POOLS else []
+    pool = CATEGORY_CURATED_POOLS.get(category_slug, CATEGORY_CURATED_POOLS.get("suvs-comparisons", fallback_pool))
+    if not pool:
+        return "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1600&h=900&fit=crop"
     seed = int(hashlib.md5((title or category_slug).encode("utf-8")).hexdigest()[:6], 16)
     return pool[seed % len(pool)]
 

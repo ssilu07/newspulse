@@ -157,14 +157,13 @@ def get_base_footer() -> str:
         <div class="footer-col">
           <h4>Coverage</h4>
           <ul class="footer-links">
-            <li><a href="/#world">⚡ EVs & Clean Mobility</a></li>
-            <li><a href="/#tech">🏎️ Supercars & Hypercars</a></li>
-            <li><a href="/#ai-future">🤖 Robo-Taxis & Autonomous</a></li>
-            <li><a href="/#business">📈 Auto Industry & Deals</a></li>
-            <li><a href="/#trending">🔥 Viral Drives & Concepts</a></li>
-            <li><a href="/#sports">🏁 Motorsport & F1 Tech</a></li>
-            <li><a href="/#entertainment">🎬 Car Culture & Restomods</a></li>
-            <li><a href="/#india">🚙 India Drives & SUVs</a></li>
+            <li><a href="/#rules-challan">🚨 Challan & RTO Alerts</a></li>
+            <li><a href="/#car-hacks">🔧 Car Hacks & Secrets</a></li>
+            <li><a href="/#suvs-comparisons">⚔️ SUV Wars & Real Mileage</a></li>
+            <li><a href="/#discounts-offers">💰 Discounts & Waiting Periods</a></li>
+            <li><a href="/#spied-upcoming">📸 Leaked Spyshots & Launches</a></li>
+            <li><a href="/#safety-crashes">🛡️ Crash Safety & Build Quality</a></li>
+            <li><a href="/#ev-reality">⚡ EV Range & Hybrid Reality</a></li>
           </ul>
         </div>
 
@@ -353,33 +352,33 @@ def get_interactive_garage_html() -> str:
             <div class="calc-field">
               <div class="calc-label-row">
                 <label for="calcCommute">Daily Commute Distance</label>
-                <span class="calc-val-badge" id="commuteVal">35 miles</span>
+                <span class="calc-val-badge" id="commuteVal">35 km</span>
               </div>
               <input type="range" id="calcCommute" class="calc-range-slider" min="10" max="150" step="5" value="35">
             </div>
 
             <div class="calc-field">
               <div class="calc-label-row">
-                <label for="calcMpg">Current Gas Car Fuel Economy</label>
-                <span class="calc-val-badge" id="mpgVal">25 MPG</span>
+                <label for="calcMpg">Current Petrol/Diesel Car Mileage</label>
+                <span class="calc-val-badge" id="mpgVal">14 kmpl</span>
               </div>
-              <input type="range" id="calcMpg" class="calc-range-slider" min="15" max="50" step="1" value="25">
+              <input type="range" id="calcMpg" class="calc-range-slider" min="8" max="25" step="1" value="14">
             </div>
 
             <div class="calc-field">
               <div class="calc-label-row">
-                <label for="calcGasPrice">Gasoline Price Per Gallon</label>
-                <span class="calc-val-badge" id="gasPriceVal">$3.60/gal</span>
+                <label for="calcGasPrice">Fuel Price Per Litre (₹)</label>
+                <span class="calc-val-badge" id="gasPriceVal">₹96.50/L</span>
               </div>
-              <input type="range" id="calcGasPrice" class="calc-range-slider" min="2.50" max="6.50" step="0.10" value="3.60">
+              <input type="range" id="calcGasPrice" class="calc-range-slider" min="88.00" max="115.00" step="0.50" value="96.50">
             </div>
 
             <div class="calc-field">
               <div class="calc-label-row">
-                <label for="calcElectPrice">Residential Electricity Rate</label>
-                <span class="calc-val-badge" id="electPriceVal">$0.15/kWh</span>
+                <label for="calcElectPrice">Home Electricity Tariff (₹/unit)</label>
+                <span class="calc-val-badge" id="electPriceVal">₹7.50/kWh</span>
               </div>
-              <input type="range" id="calcElectPrice" class="calc-range-slider" min="0.08" max="0.45" step="0.01" value="0.15">
+              <input type="range" id="calcElectPrice" class="calc-range-slider" min="4.00" max="15.00" step="0.25" value="7.50">
             </div>
 
             <div class="calc-field" style="margin-top: 14px;">
@@ -387,12 +386,11 @@ def get_interactive_garage_html() -> str:
                 <label for="evModelPreset">Target EV Comparison Profile</label>
               </div>
               <select id="evModelPreset" class="car-select">
-                <option value="tesla-3" selected>Tesla Model 3 (25 kWh / 100 mi - Ultra Efficient)</option>
-                <option value="tesla-y">Tesla Model Y (28 kWh / 100 mi - Compact SUV)</option>
-                <option value="byd-seal">BYD Seal (26 kWh / 100 mi - Performance Sedan)</option>
-                <option value="hyundai-ioniq5">Hyundai Ioniq 5 (29 kWh / 100 mi - Crossover)</option>
-                <option value="porsche-taycan">Porsche Taycan (38 kWh / 100 mi - Sport EV)</option>
-                <option value="rivian-r1t">Rivian R1T (45 kWh / 100 mi - Adventure Truck)</option>
+                <option value="tata-nexon" selected>Tata Nexon.ev (13.5 kWh / 100 km - Best Seller)</option>
+                <option value="tata-punch">Tata Punch.ev (12.8 kWh / 100 km - Compact City EV)</option>
+                <option value="mg-zs">MG ZS EV (15.2 kWh / 100 km - Premium Electric SUV)</option>
+                <option value="byd-seal">BYD Seal (15.5 kWh / 100 km - Performance Sedan)</option>
+                <option value="mahindra-xuv400">Mahindra XUV400 (14.8 kWh / 100 km - Crossover)</option>
               </select>
             </div>
           </div>
@@ -401,30 +399,30 @@ def get_interactive_garage_html() -> str:
           <div class="calc-results-grid">
             <div class="calc-metric-card highlight">
               <div class="metric-title">💵 Estimated Monthly Fuel Savings</div>
-              <div class="metric-number emerald" id="calcMonthlySavings">$118</div>
-              <div class="metric-sub">Money kept in your pocket every 30 days</div>
+              <div class="metric-number emerald" id="calcMonthlySavings">₹6,840</div>
+              <div class="metric-sub">Direct money saved in your bank every 30 days</div>
             </div>
 
             <div class="calc-metric-card">
               <div class="metric-title">💰 5-Year Ownership Savings</div>
-              <div class="metric-number cyan" id="calc5YearSavings">$7,080</div>
-              <div class="metric-sub">Direct gasoline cost displacement</div>
+              <div class="metric-number cyan" id="calc5YearSavings">₹4.10 Lakh</div>
+              <div class="metric-sub">Direct gasoline cost displacement in India</div>
             </div>
 
             <div class="calc-metric-card">
               <div class="metric-title">🌲 Annual CO2 Reduced</div>
-              <div class="metric-number" id="calcCo2Saved">3,850 lbs</div>
-              <div class="metric-sub" id="calcTreesSaved">~80 trees planted equivalent</div>
+              <div class="metric-number" id="calcCo2Saved">1,420 kg</div>
+              <div class="metric-sub" id="calcTreesSaved">~65 trees planted equivalent</div>
             </div>
 
             <div class="calc-metric-card">
               <div class="metric-title">⏱️ Daily Home Charge Time</div>
-              <div class="metric-number" id="calcChargeTime">1.1 hrs / night</div>
-              <div class="metric-sub">Standard 240V Level 2 Home Wallbox</div>
+              <div class="metric-number" id="calcChargeTime">1.8 hrs / night</div>
+              <div class="metric-sub">Standard 3.3 kW / 7.2 kW Home AC Wallbox</div>
             </div>
 
             <div class="calc-disclaimer">
-              * Calculations are estimations based on official EPA energy consumption ratings and current user inputs. Real-world consumption may vary based on weather, driving style, and utility rate tiers. Provided for educational and informational purposes.
+              * Calculations are estimations based on real-world Indian road driving benchmarks and current user inputs. Real-world consumption may vary based on weather, AC usage, and state electricity tariffs. Provided for educational and informational purposes.
             </div>
           </div>
         </div>
@@ -493,12 +491,7 @@ def render_homepage_html(articles: list) -> str:
         h_bullets_list_html = "".join([f"<li>{escape(b)}</li>" for b in h_bullets[:3]])
 
         # Author for Hero E-E-A-T
-        h_author = AUTHORS.get(h_cat_slug, AUTHORS.get("world", {
-            "name": "Dr. Ethan Vance",
-            "role": "Chief Mobility Fellow",
-            "initials": "EV",
-            "color": "#06b6d4"
-        }))
+        h_author = AUTHORS.get(h_cat_slug, AUTHORS.get("suvs-comparisons", list(AUTHORS.values())[0]))
 
         # Trending Sidekick Cards (Story #2 & Story #3)
         sidekicks_list_html = []
@@ -816,19 +809,19 @@ def render_homepage_html(articles: list) -> str:
   <div class="telemetry-bar" aria-label="Live Automotive Telemetry">
     <div class="container telemetry-inner">
       <div class="telemetry-badge">
-        <span class="live-dot" style="background: #06b6d4;"></span>
-        <span>MOBILITY PULSE</span>
+        <span class="live-dot" style="background: #ea580c;"></span>
+        <span>INDIA AUTO PULSE</span>
       </div>
       <div class="telemetry-items">
-        <span class="telemetry-item"><strong class="t-accent">⚡ 0-60 RECORD:</strong> 1.40s (McMurtry Spéirling)</span>
+        <span class="telemetry-item"><strong class="t-accent">🚙 TOP 4x4:</strong> Thar Roxx &amp; Scorpio-N</span>
         <span class="telemetry-sep">•</span>
-        <span class="telemetry-item"><strong class="t-accent">🔋 SOLID-STATE:</strong> 1,020 km Range (CATL Shenxing+)</span>
+        <span class="telemetry-item"><strong class="t-accent">🚨 RTO ENFORCEMENT:</strong> Light Meter Sunfilm Drive</span>
         <span class="telemetry-sep">•</span>
-        <span class="telemetry-item"><strong class="t-accent">🏎️ F1 2026:</strong> 50% Hybrid Electrified</span>
+        <span class="telemetry-item"><strong class="t-accent">⚡ REAL MILEAGE:</strong> City 11 kmpl vs ARAI 18 kmpl</span>
         <span class="telemetry-sep">•</span>
-        <span class="telemetry-item"><strong class="t-accent">🤖 ROBOTAXIS:</strong> L4 in 18 Global Hubs</span>
+        <span class="telemetry-item"><strong class="t-accent">🛡️ BHARAT NCAP:</strong> 5-Star Safety Benchmark</span>
         <span class="telemetry-sep">•</span>
-        <span class="telemetry-item"><strong class="t-accent">🚀 HYPERCAR TOP:</strong> 508 km/h (Bugatti Tourbillon)</span>
+        <span class="telemetry-item"><strong class="t-accent">🏷️ YEAR-END:</strong> Up to ₹2 Lakh Discount Clearance</span>
       </div>
     </div>
   </div>
@@ -940,143 +933,132 @@ def render_homepage_html(articles: list) -> str:
 
 
 AUTHORS = {
-    "world": {
-        "name": "Dr. Ethan Vance",
-        "role": "Chief EV & Battery Systems Fellow",
-        "initials": "EV",
-        "color": "#06b6d4",
-        "bio": "Dr. Vance tracks battery cell chemistries (solid-state, LFP, sodium-ion), megawatt charging protocols, and gigafactory scaling across North America and Europe.",
-        "email": "ethan.vance@newsseconds.com"
+    "rules-challan": {
+        "name": "Priya Verma",
+        "role": "Legal & RTO Regulatory Analyst",
+        "initials": "PV",
+        "color": "#dc2626",
+        "bio": "Advocate Priya Verma specializes in Indian transport law, the Motor Vehicles Act, automated speed camera networks, and e-challan legal rights.",
+        "email": "priya.verma@newsseconds.com"
     },
-    "tech": {
-        "name": "Marco Rossi",
-        "role": "Senior Supercar & Aerodynamics Editor",
-        "initials": "MR",
-        "color": "#ef4444",
-        "bio": "Marco reports on mid-engine twin-turbos, performance hybrid powertrains, active aero, and Nürburgring lap records across Maranello, Stuttgart, and Silverstone.",
-        "email": "marco.rossi@newsseconds.com"
-    },
-    "ai-future": {
-        "name": "Aria Tanaka",
-        "role": "Autonomous Driving & Sensor Architect",
-        "initials": "AT",
+    "car-hacks": {
+        "name": "Rohan Kapoor",
+        "role": "Senior Technical Mechanic & DIY Specialist",
+        "initials": "RK",
         "color": "#8b5cf6",
-        "bio": "Aria covers neural network computer vision, automotive lidar suites, Waymo commercial expansion, and Tesla Full Self-Driving regulatory safety filings.",
-        "email": "aria.tanaka@newsseconds.com"
+        "bio": "Rohan brings 14 years of automotive workshop experience, investigating DIY maintenance hacks, defogging secrets, real fuel economy tricks, and dealership service upselling.",
+        "email": "rohan.kapoor@newsseconds.com"
     },
-    "business": {
-        "name": "Elena Rostova",
-        "role": "Global Automotive Industry & Supply-Chain Analyst",
-        "initials": "ER",
-        "color": "#10b981",
-        "bio": "Elena investigates automaker quarterly earnings, gigafactory capital allocations, critical battery mineral supply-chains, and global automotive tariffs.",
-        "email": "elena.rostova@newsseconds.com"
-    },
-    "trending": {
-        "name": "Tyler Brooks",
-        "role": "Viral Concepts & Prototype Lead",
-        "initials": "TB",
-        "color": "#f43f5e",
-        "bio": "Tyler tracks unreleased hypercar prototypes, world speed record runs, radical design concepts, and viral custom engineering projects.",
-        "email": "tyler.brooks@newsseconds.com"
-    },
-    "sports": {
-        "name": "David Miller",
-        "role": "Formula 1 & Motorsport Telemetry Specialist",
-        "initials": "DM",
-        "color": "#f59e0b",
-        "bio": "David covers Formula 1 ground-effect aerodynamics, FIA power-unit regulations, Formula E gen-spec powertrains, and Le Mans Hypercar endurance racing.",
-        "email": "david.miller@newsseconds.com"
-    },
-    "entertainment": {
-        "name": "Chloe Adams",
-        "role": "Car Culture & Restomod Editor",
-        "initials": "CA",
-        "color": "#ec4899",
-        "bio": "Chloe chronicles bespoke V8 restomod builds, million-dollar Monterey Car Week auctions, cinematic chase vehicles, and classic automotive preservation.",
-        "email": "chloe.adams@newsseconds.com"
-    },
-    "india": {
+    "suvs-comparisons": {
         "name": "Kabir Sharma",
-        "role": "Indian Automotive & SUV Specialist",
+        "role": "Chief Indian SUV & Mileage Editor",
         "initials": "KS",
         "color": "#ea580c",
-        "bio": "Kabir specializes in the Indian passenger vehicle market, tracking Tata Motors, Mahindra 4x4s, Maruti Suzuki hybrids, Bharat NCAP crash safety ratings, and mass-market EV adoption.",
+        "bio": "Kabir tracks Tata Motors, Mahindra 4x4s, Maruti Suzuki hybrids, and real-world city vs highway fuel economy across Indian road conditions.",
         "email": "kabir.sharma@newsseconds.com"
+    },
+    "discounts-offers": {
+        "name": "Ananya Sengupta",
+        "role": "Consumer Pricing & Car Deals Analyst",
+        "initials": "AS",
+        "color": "#10b981",
+        "bio": "Ananya tracks dealer floor inventory, year-end clearance campaigns, manufacturer exchange bonuses, and illegal showroom handling fees across metro cities.",
+        "email": "ananya.sengupta@newsseconds.com"
+    },
+    "spied-upcoming": {
+        "name": "Aryan Deshmukh",
+        "role": "Automotive Spy Photographer & Prototype Lead",
+        "initials": "AD",
+        "color": "#ec4899",
+        "bio": "Aryan monitors uncamouflaged test mules, ARAI homologation documents, design patent filings, and upcoming generation vehicle facelifts in India.",
+        "email": "aryan.deshmukh@newsseconds.com"
+    },
+    "safety-crashes": {
+        "name": "Vikramaditya Rathore",
+        "role": "Bharat NCAP & Vehicle Crash Safety Specialist",
+        "initials": "VR",
+        "color": "#f59e0b",
+        "bio": "Vikramaditya analyzes Bharat NCAP laboratory crash tests, high-strength steel bodyshell integrity, and real-world highway collision survival metrics.",
+        "email": "vikram.rathore@newsseconds.com"
+    },
+    "ev-reality": {
+        "name": "Dr. Sameer Nair",
+        "role": "Electric Mobility & Battery Systems Fellow",
+        "initials": "SN",
+        "color": "#06b6d4",
+        "bio": "Dr. Nair evaluates real-world highway range vs ARAI claims, battery degradation in Indian heat, fast-charging networks, and total cost of electric ownership.",
+        "email": "sameer.nair@newsseconds.com"
     }
 }
 
 
 def generate_editorial_take(article: dict, author: dict) -> dict:
     """Generates an insightful, value-adding 'Why It Matters / Editor's Take' perspective to eliminate scraped content penalties."""
-    cat = article.get("category", "world")
+    cat = article.get("category", "suvs-comparisons")
     source = article.get("source", config.SITE_NAME)
-    cat_name = article.get("category_name", "Automotive")
 
-    if cat == "world":
-        takeaway_title = "The Electrification & Charging Infrastructure Horizon"
+    if cat == "rules-challan":
+        takeaway_title = "Motor Vehicles Act Enforcement & Digital Driver Rights"
         takeaway_body = (
-            f"Beyond the immediate headline, this development marks a critical inflection point in the broader EV transition. "
-            f"As automakers and charging networks race to lower consumer friction, the reporting from {source} highlights that "
-            f"battery energy density, thermal management, and raw cost per kilowatt-hour remain the ultimate battlegrounds. "
-            f"For prospective EV buyers and fleet operators, tracking these operational metrics offers clear guidance on vehicle longevity and residual value."
+            f"Automated traffic enforcement via AI cameras and handheld digital meters marks a permanent shift toward zero physical checkpoints. "
+            f"As verified by {source}, motorists must ensure their digital documents are properly synced on DigiLocker or mParivahan. "
+            f"Understanding your legal rights under Section 9A of the IT Act protects you from arbitrary on-the-spot harassment and unlawful challan notices."
         )
-        big_picture = "Global battery production scale and grid upgrades will define whether mass-market adoption targets are met over the next 24 months."
-    elif cat == "tech":
-        takeaway_title = "The Benchmark for Track-Tolerant Engineering"
+        big_picture = "State transport departments are scaling automated ANPR gantries nationwide, making digital compliance essential for every Indian vehicle owner."
+    elif cat == "car-hacks":
+        takeaway_title = "Practical DIY Maintenance & Workshop Fee Protection"
         takeaway_body = (
-            f"In the high-stakes supercar arena, pure horsepower is no longer enough to claim supremacy. "
-            f"This dispatch from {source} emphasizes how cutting-edge downforce balance, electronic limited-slip differentials, and hybrid torque-vectoring "
-            f"are reshaping driver engagement. Exotic marques must prove that extreme performance can harmonize with reliability, thermal endurance, and road compliance."
+            f"Modern passenger vehicles are sophisticated machines, but simple physics often dictates everyday usability and cabin health. "
+            f"This operational guide reported via {source} demonstrates that simple DIY adjustments—like airflow manipulation for defogging and moisture absorption— "
+            f"eliminate the need for expensive dealership upselling. Protecting your vehicle's factory wiring and cabin air quality saves thousands over a 5-year ownership cycle."
         )
-        big_picture = "Lap times at benchmark proving grounds and early client allocations will reveal whether this performance envelope disrupts the existing supercar hierarchy."
-    elif cat == "ai-future":
-        takeaway_title = "Autonomous Validation & Edge-Case Reliability"
+        big_picture = "Educated car owners who master basic preventative maintenance avoid up to 40% in routine dealership service bill inflation."
+    elif cat == "suvs-comparisons":
+        takeaway_title = "Real-World Road Readiness & Practical Mileage Economics"
         takeaway_body = (
-            f"Scaling driverless technology demands an uncompromising safety threshold that exceeds human reaction time. "
-            f"As verified by {source}, breakthroughs in multi-modal sensor fusion and end-to-end neural network driving models are shifting the industry "
-            f"from geofenced testing toward true commercial viability. The primary hurdle now centers on regulatory certification and public trust."
+            f"In India's competitive SUV battlefield, certified ARAI figures should never be the sole basis for a purchase decision. "
+            f"Field reporting from {source} emphasizes that bumper-to-bumper city fuel economy, low-end torque for quick urban overtakes, and suspension suppleness "
+            f"over broken monsoon tarmac determine genuine daily driving satisfaction far more than high-spec dashboard gadgetry."
         )
-        big_picture = "Commercial deployment permits in tier-one metropolitan test beds will serve as the litmus test for autonomous scalability."
-    elif cat == "business":
-        takeaway_title = "Capital Allocation Across Global Automakers"
+        big_picture = "Consumer preference is overwhelmingly favoring vehicles that balance rugged rough-road capability with realistic fuel operating economics."
+    elif cat == "discounts-offers":
+        takeaway_title = "Dealership Inventory Economics & Price Negotiation"
         takeaway_body = (
-            f"From an institutional perspective, the economic figures outlined in this dispatch from {source} reflect monumental shifts in automotive capital. "
-            f"Legacy original equipment manufacturers (OEMs) and agile EV startups alike must balance heavy gigafactory capital expenditures against fluctuating consumer demand and trade tariffs. "
-            f"Supply chain resilience—especially across lithium, cathode precursor materials, and semiconductors—is determining profitability."
+            f"Year-end and inventory clearance cycles offer substantial financial leverage for prepared car buyers. "
+            f"As dispatches from {source} reveal, dealerships carrying floor-plan financing debt on unsold vehicles are willing to waive accessory margins and match outside insurance quotes. "
+            f"Insisting on an itemized price sheet prevents dealers from sneaking in arbitrary 'logistics or handling charges' that have been deemed unlawful."
         )
-        big_picture = "Upcoming quarterly delivery reports and operating margins will indicate which manufacturers are successfully navigating the EV transformation curve."
-    elif cat == "sports":
-        takeaway_title = "Aerodynamic Efficiency & Motorsport Racecraft"
+        big_picture = "Securing direct cash discounts of Rs 1.5 Lakh or more easily offsets minor future resale differentials for owners keeping vehicles for 4+ years."
+    elif cat == "spied-upcoming":
+        takeaway_title = "Next-Gen Design Evolution & Market Homologation"
         takeaway_body = (
-            f"In premier motorsport disciplines, millisecond gains represent months of high-intensity computational fluid dynamics (CFD) research. "
-            f"The developments reported by {source} underline how tire degradation curves, ground-effect aero seals, and power-unit energy recovery systems "
-            f"dictate race outcomes. Technical compliance under strict cost caps continues to test team engineering depth."
+            f"Spy shots and patent disclosures provide invaluable early intelligence on automaker engineering cycles and platform facelifts. "
+            f"Dispatches from {source} demonstrate how customer feedback on cabin ergonomics, Level-2 ADAS sensor calibration, and connected screens "
+            f"is shaping upcoming generation models. Homologation filings often telegraph major powertrain revisions months ahead of official showroom debuts."
         )
-        big_picture = "Upcoming grand prix telemetry and trackside upgrades will reveal which teams hold the definitive technical advantage."
-    elif cat == "entertainment":
-        takeaway_title = "Heritage Preservation vs Modern Performance"
+        big_picture = "Prospective buyers on the fence should weigh immediate discounts on current inventory against upcoming technological leaps in facelifts."
+    elif cat == "safety-crashes":
+        takeaway_title = "Structural Bodyshell Integrity & Passenger Protection"
         takeaway_body = (
-            f"Automotive passion is increasingly defined by the synthesis of analog soul and contemporary engineering. "
-            f"This coverage from {source} illustrates how bespoke builders, private collectors, and restomod artists are preserving the golden eras "
-            f"of internal combustion while adopting carbon fiber composites and precision craftsmanship."
+            f"Bharat NCAP has fundamentally transformed Indian car buying from cosmetic feature chasing to structural safety priority. "
+            f"Analysis reported by {source} highlights that a stable passenger cell under 64 kmph crash tests represents the true difference between survivability and catastrophic intrusion. "
+            f"Standard 6 airbags and Electronic Stability Control are now non-negotiable minimums for Indian highways."
         )
-        big_picture = "Auction hammer prices and enthusiast demand indicate sustained historical appreciation for rare, analog driver's vehicles."
-    elif cat == "india":
-        takeaway_title = "Bharat NCAP Safety Standards & Indian Road Readiness"
-        takeaway_body = (
-            f"In India's rapidly evolving automotive landscape, crashworthiness and real-world durability are driving consumer purchase decisions like never before. "
-            f"As reported by {source}, indigenous automakers like Tata Motors and Mahindra are setting global safety benchmarks while optimizing suspension and ground clearance for unpredictable road conditions."
-        )
-        big_picture = "Upcoming monthly FADA retail delivery reports and Bharat NCAP rating scorecards will reveal which domestic models capture mass-market dominance."
+        big_picture = "Automakers failing to deliver certified 5-star crash resilience face rapid consumer rejection in the Indian passenger vehicle marketplace."
     else:
-        takeaway_title = "Automotive Innovation & Market Feasibility"
+        takeaway_title = "Real-World Highway Range & Electric Ownership Economics"
         takeaway_body = (
-            f"Concept prototypes and viral vehicle reveals offer an exciting window into the automotive industry's future design language. "
-            f"Dispatches from {source} demonstrate how radical styling, lightweight materials, and powertrain packaging can transition from design studios "
-            f"to production assembly lines. Engineering feasibility and homologation standards remain the true measures of impact."
+            f"The electric transition in India is moving from early-adopter urban commuters to mass-market family transport. "
+            f"Technical telemetry from {source} demonstrates that understanding real-world highway range—factoring in high-speed aero drag and active air conditioning— "
+            f"is vital for stress-free ownership. Home wallbox charging remains the foundational prerequisite for true operating savings."
         )
-        big_picture = "Market reception and formal OEM production announcements will determine which concept innovations make it to consumer streets."
+        big_picture = "Expanding fast-charging corridors along national expressways are progressively closing the range anxiety gap for Indian EV road trips."
+
+    return {
+        "heading": takeaway_title,
+        "body": takeaway_body,
+        "big_picture": big_picture
+    }
 
     return {
         "heading": takeaway_title,
@@ -1094,7 +1076,7 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
     import urllib.parse
     title = escape(article.get("title", ""))
     slug = article.get("slug", "")
-    cat_slug = article.get("category", "trending")
+    cat_slug = article.get("category", "suvs-comparisons")
     cat_info = config.CATEGORIES.get(cat_slug, {})
     cat_name = escape(article.get("category_name", cat_info.get("name", "News")))
     cat_color = escape(article.get("category_color", cat_info.get("color", "#3b82f6")))
@@ -1110,7 +1092,7 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
     slides = article.get("slides", [])
 
     # Assign Expert Author (E-E-A-T Compliance)
-    author = AUTHORS.get(cat_slug, AUTHORS["trending"])
+    author = AUTHORS.get(cat_slug, AUTHORS.get("suvs-comparisons", list(AUTHORS.values())[0]))
     take_info = generate_editorial_take(article, author)
 
 
@@ -1135,35 +1117,28 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
 
     bullets_html = "".join([f"<li>{b}</li>" for b in clean_bullets[:4]])
 
-    # Multi-Section Substantive Editorial Narrative
-    if paras:
+    # Multi-Section Substantive Editorial Narrative (450-550 words)
+    if len(paras) >= 5:
         lead_text = paras[0]
-        remaining = paras[1:]
-        if len(remaining) >= 6:
-            sec1_text = "</p><p class=\"article-p\">".join(remaining[0:2])
-            sec2_text = "</p><p class=\"article-p\">".join(remaining[2:4])
-            sec3_text = "</p><p class=\"article-p\">".join(remaining[4:5])
-            sec4_text = "</p><p class=\"article-p\">".join(remaining[5:])
-        elif len(remaining) >= 4:
-            sec1_text = remaining[0]
-            sec2_text = remaining[1]
-            sec3_text = remaining[2]
-            sec4_text = "</p><p class=\"article-p\">".join(remaining[3:])
-        elif len(remaining) >= 2:
-            sec1_text = remaining[0]
-            sec2_text = remaining[1]
-            sec3_text = f"Industry insights from {source} indicate significant structural shifts underway across the {cat_name.lower()} landscape."
-            sec4_text = f"Follow-up milestones over the coming days will clarify long-term impacts as reported by {source} correspondents."
-        elif len(remaining) == 1:
-            sec1_text = remaining[0]
-            sec2_text = f"This latest development follows growing attention across the {cat_name.lower()} sector as analyzed by {source}."
-            sec3_text = f"The broader implications are expected to influence operational frameworks and consumer adoption."
-            sec4_text = f"Observers and market participants are advised to monitor official briefings from {source}."
-        else:
-            sec1_text = f"According to verified dispatches reported by {source}, key developments accelerated rapidly around this story."
-            sec2_text = f"This latest development follows growing attention across the {cat_name.lower()} landscape."
-            sec3_text = f"The broader implications are expected to influence operational frameworks and consumer adoption."
-            sec4_text = f"Key milestones over the coming days will clarify long-term impacts as reported by {source}."
+        sec1_text = paras[0]
+        sec2_text = paras[1]
+        sec3_text = paras[2]
+        sec4_text = paras[3]
+        sec5_text = paras[4]
+    elif len(paras) >= 3:
+        lead_text = paras[0]
+        sec1_text = paras[0]
+        sec2_text = paras[1]
+        sec3_text = paras[2]
+        sec4_text = f"Field intelligence from {source} highlights ongoing market shifts across the {cat_name.lower()} segment."
+        sec5_text = f"Motorists and prospective buyers should verify local Vahan and dealer policies before taking action."
+    elif len(paras) >= 1:
+        lead_text = paras[0]
+        sec1_text = paras[0]
+        sec2_text = f"This latest development follows growing attention across the {cat_name.lower()} sector as analyzed by {source}."
+        sec3_text = f"The broader implications are expected to influence operational frameworks and consumer adoption."
+        sec4_text = f"Key milestones over the coming days will clarify long-term impacts as reported by {source}."
+        sec5_text = f"Observers and market participants are advised to monitor official briefings from {source}."
     else:
         # Fallback if no full article paragraphs
         s_texts = [s.get("text", "").strip() for s in slides if s.get("text") and s.get("text").strip() != summary]
@@ -1176,6 +1151,33 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
         sec3_text = f"{raw_sec3} Beyond the initial disclosures, ecosystem participants have signaled that structural adjustments and strategic adaptations will be necessary." if (raw_sec3 and len(raw_sec3) > 20) else f"The broader implications of this development are expected to influence operational frameworks, regulatory considerations, and consumer engagement."
         raw_sec4 = s_texts[3] if len(s_texts) > 3 and s_texts[3] != summary else ""
         sec4_text = f"{raw_sec4} As subsequent updates continue to unfold, analysts emphasize that key follow-up benchmarks over the coming days will clarify long-term impacts." if (raw_sec4 and len(raw_sec4) > 20) else f"As updates continue to unfold, analysts emphasize that key milestones in the coming days will clarify long-term impacts."
+        sec5_text = "Final strategic assessments will depend on upcoming consumer adoption trends and regulatory disclosures."
+
+    # Structured Data Specs & Facts Sheet Table
+    specs_table = article.get("specs_table", [])
+    if specs_table:
+        table_rows = []
+        for r in specs_table:
+            lbl = escape(r.get("label", ""))
+            val = escape(r.get("val", ""))
+            table_rows.append(f"""
+              <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
+                <th style="padding: 10px 14px; text-align: left; color: #94a3b8; font-weight: 600; width: 38%;">{lbl}</th>
+                <td style="padding: 10px 14px; text-align: left; color: #38bdf8; font-weight: 700;">{val}</td>
+              </tr>""")
+        specs_table_html = f"""
+        <div class="article-specs-card" style="margin: 24px 0; background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(56, 189, 248, 0.28); border-radius: 12px; padding: 18px; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
+          <div style="font-weight: 700; font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; color: #38bdf8; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">
+            <span>📋</span> <span>Verified Facts, Specifications &amp; Legal Telemetry</span>
+          </div>
+          <table style="width: 100%; border-collapse: collapse; font-size: 13px;">
+            <tbody>
+              {"".join(table_rows)}
+            </tbody>
+          </table>
+        </div>"""
+    else:
+        specs_table_html = ""
 
 
     # AdSense Non-Intrusive Placement Slot
@@ -1307,7 +1309,7 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
             "@id": page_url
         },
         "articleSection": cat_name,
-        "wordCount": len((lead_text + " " + sec1_text + " " + sec2_text + " " + sec3_text + " " + sec4_text + " " + take_info["body"]).split())
+        "wordCount": len((lead_text + " " + sec1_text + " " + sec2_text + " " + sec3_text + " " + sec4_text + " " + sec5_text + " " + take_info["body"]).split())
     }
     schema_json = json.dumps(schema_data, indent=2, ensure_ascii=False)
 
@@ -1442,7 +1444,7 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
 
         <h2 class="article-section-title">
           <span>📌</span>
-          <span>The Core Development</span>
+          <span>The Ground Reality &amp; Core Development</span>
         </h2>
         <p class="article-p">{sec1_text}</p>
 
@@ -1451,9 +1453,12 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
 
         <h2 class="article-section-title">
           <span>🔍</span>
-          <span>Background & Sector Context</span>
+          <span>Technical Specifications &amp; Regulatory Rules</span>
         </h2>
         <p class="article-p">{sec2_text}</p>
+
+        <!-- Verified Facts & Specs Sheet Table -->
+        {specs_table_html}
 
         <!-- Mid-Article Contextual Recirculation Card -->
         <aside class="inline-recirc-card" aria-label="Trending Next">
@@ -1472,8 +1477,8 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
         </aside>
 
         <h2 class="article-section-title">
-          <span>📊</span>
-          <span>Industry & Real-World Impact</span>
+          <span>💡</span>
+          <span>What Dealerships &amp; Official Portals Hide</span>
         </h2>
         <p class="article-p">{sec3_text}</p>
 
@@ -1482,7 +1487,7 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
           <div class="pitstop-cta-icon">🏎️⚡</div>
           <div class="pitstop-cta-text">
             <h4>Benchmark Telemetry &amp; EV Fuel Savings</h4>
-            <p>Put top supercars and EVs to the test in <strong>The Pit Stop Lab</strong> — launch head-to-head 1/4-mile drag strip battles &amp; compute EPA electric fuel cost savings.</p>
+            <p>Put top supercars and SUVs to the test in <strong>The Pit Stop Lab</strong> — launch head-to-head 1/4-mile drag strip battles &amp; compute electric fuel cost savings in Indian Rupees (₹).</p>
           </div>
           <a href="/#interactiveGarage" class="pitstop-cta-btn" data-ga-source="article_pitstop">Open Pit Stop Lab ➔</a>
         </div>
@@ -1491,16 +1496,22 @@ def render_article_page_html(article: dict, all_articles: list) -> str:
         <div class="article-story-cta-box">
           <div class="story-cta-text">
             <h4>⚡ Prefer Visual Stories on Mobile?</h4>
-            <p>Experience this news piece in an interactive 5-slide visual format crafted for mobile devices & Google Discover.</p>
+            <p>Experience this news piece in an interactive 6-slide visual story crafted for mobile readers &amp; Google Discover.</p>
           </div>
           <a href="/stories/{slug}/" class="story-cta-btn">View Web Story ⚡</a>
         </div>
 
         <h2 class="article-section-title">
-          <span>🔮</span>
-          <span>Strategic Outlook & What Lies Ahead</span>
+          <span>📊</span>
+          <span>Segment Rival Comparison &amp; Benchmarks</span>
         </h2>
         <p class="article-p">{sec4_text}</p>
+
+        <h2 class="article-section-title">
+          <span>🎯</span>
+          <span>Buyer / Driver Action Plan &amp; Final Verdict</span>
+        </h2>
+        <p class="article-p">{sec5_text}</p>
 
         <!-- Editorial Integrity & Attribution Box -->
         <div class="editorial-trust-box">
@@ -2062,9 +2073,9 @@ def generate_rss_feed(articles: list, dist_dir: Path):
         raw_img = art.get("image_url", "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&fit=crop")
         esc_img = escape(raw_img)
         esc_page = escape(page_url)
-        cat_slug = art.get("category", "trending")
+        cat_slug = art.get("category", "suvs-comparisons")
         cat_name = art.get("category_name", config.CATEGORIES.get(cat_slug, {}).get("name", "News"))
-        author = AUTHORS.get(cat_slug, AUTHORS["trending"])
+        author = AUTHORS.get(cat_slug, AUTHORS.get("suvs-comparisons", list(AUTHORS.values())[0]))
 
         # Parse published_at date to RFC 822
         pub_raw = art.get("published_at")

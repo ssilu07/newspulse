@@ -3,37 +3,37 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-16T11:36:46Z</lastmod>
+    <lastmod>2026-11-16T12:08:13Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-16T11:36:46Z</lastmod>
+    <lastmod>2026-11-16T12:08:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-16T11:36:46Z</lastmod>
+    <lastmod>2026-11-16T12:08:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-16T11:36:46Z</lastmod>
+    <lastmod>2026-11-16T12:08:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-16T11:36:46Z</lastmod>
+    <lastmod>2026-11-16T12:08:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-16T11:36:46Z</lastmod>
+    <lastmod>2026-11-16T12:08:13Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -78,13 +78,33 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/jsw-combat-pre-bookings-open-ahead-of-december-debut/</loc>
+    <lastmod>2026-11-16T06:25:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_pre_bookings_open_cd39cf4367.webp</image:loc>
+      <image:title>JSW Combat Pre-Bookings Open Ahead of December Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-combat-pre-bookings-open-ahead-of-december-debut/</loc>
+    <lastmod>2026-11-16T06:25:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_pre_bookings_open_cd39cf4367.webp</image:loc>
+      <image:title>JSW Combat Pre-Bookings Open Ahead of December Debut</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/chery-tiggo-7-patented-in-india-harrier-xuv7xo-rival-from-jsw/</loc>
     <lastmod>2026-11-16T05:14:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/chery-tiggo-7-patented-in-india-3.jpg</image:loc>
-      <image:title>Chery Tiggo 7 Patented In India - Harrier, XUV7XO Rival From JSW?</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -94,7 +114,27 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/chery-tiggo-7-patented-in-india-3.jpg</image:loc>
-      <image:title>Chery Tiggo 7 Patented In India - Harrier, XUV7XO Rival From JSW?</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/upcoming-new-sub-4m-suvs-in-2027-tata-mahindra-hyundai-honda-maru/</loc>
+    <lastmod>2026-11-16T04:41:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/upcoming-sub-4m-suv-list-cover.jpg</image:loc>
+      <image:title>Upcoming New Sub 4m SUVs In 2027 - Tata, Mahindra, Hyundai, Honda, Maruti</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/upcoming-new-sub-4m-suvs-in-2027-tata-mahindra-hyundai-honda-maru/</loc>
+    <lastmod>2026-11-16T04:41:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/upcoming-sub-4m-suv-list-cover.jpg</image:loc>
+      <image:title>Upcoming New Sub 4m SUVs In 2027 - Tata, Mahindra, Hyundai, Honda, Maruti</image:title>
     </image:image>
   </url>
   <url>
@@ -104,7 +144,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/two-seat-suvs-are-stupendously-rare/l-intro-1794244212.jpg</image:loc>
-      <image:title>Two-Seat SUVs Are Stupendously Rare</image:title>
+      <image:title>Inside Look: Two-Seat SUVs Are Stupendously Rare - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -114,7 +154,27 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/two-seat-suvs-are-stupendously-rare/l-intro-1794244212.jpg</image:loc>
-      <image:title>Two-Seat SUVs Are Stupendously Rare</image:title>
+      <image:title>Inside Look: Two-Seat SUVs Are Stupendously Rare - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/sanam-teri-kasam-producer-gifts-harshvardhan-rane-a-land-rover-de/</loc>
+    <lastmod>2026-11-16T03:59:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/deepak_mukut_gifts_harshvardhan_rane_land_rover_defender_octa_5df73389a3.webp</image:loc>
+      <image:title>Sanam Teri Kasam Producer Gifts Harshvardhan Rane A Land Rover Defender Octa</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/sanam-teri-kasam-producer-gifts-harshvardhan-rane-a-land-rover-de/</loc>
+    <lastmod>2026-11-16T03:59:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/deepak_mukut_gifts_harshvardhan_rane_land_rover_defender_octa_5df73389a3.webp</image:loc>
+      <image:title>Sanam Teri Kasam Producer Gifts Harshvardhan Rane A Land Rover Defender Octa</image:title>
     </image:image>
   </url>
   <url>
@@ -124,7 +184,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-audi-a5-sedan-spied-in-india-2.jpg</image:loc>
-      <image:title>2027 Audi A5 Sedan Spied In India Without Camouflage Before Launch</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -134,7 +194,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-audi-a5-sedan-spied-in-india-2.jpg</image:loc>
-      <image:title>2027 Audi A5 Sedan Spied In India Without Camouflage Before Launch</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -218,13 +278,33 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/top-10-two-wheeler-brands-oct-2026-honda-hero-tvs-bajaj-royal-enf/</loc>
+    <lastmod>2026-11-16T01:30:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Honda-CB350C-Special-Edition.jpg</image:loc>
+      <image:title>Top 10 Two-Wheeler Brands Oct 2026 - Honda, Hero, TVS, Bajaj, Royal Enfield</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/top-10-two-wheeler-brands-oct-2026-honda-hero-tvs-bajaj-royal-enf/</loc>
+    <lastmod>2026-11-16T01:30:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Honda-CB350C-Special-Edition.jpg</image:loc>
+      <image:title>Top 10 Two-Wheeler Brands Oct 2026 - Honda, Hero, TVS, Bajaj, Royal Enfield</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/this-40-year-old-econobox-has-the-top-epa-mpg-rating-of-any-non-h/</loc>
     <lastmod>2026-11-16T00:50:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/this-40-year-old-econobox-has-the-top-epa-mpg-rating-of-any-non-hybrid-production-car/l-intro-1794221487.jpg</image:loc>
-      <image:title>This 40-Year-Old Econobox Has The Top EPA MPG Rating Of Any Non-Hybrid Production Car</image:title>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
     </image:image>
   </url>
   <url>
@@ -234,7 +314,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/this-40-year-old-econobox-has-the-top-epa-mpg-rating-of-any-non-hybrid-production-car/l-intro-1794221487.jpg</image:loc>
-      <image:title>This 40-Year-Old Econobox Has The Top EPA MPG Rating Of Any Non-Hybrid Production Car</image:title>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
     </image:image>
   </url>
   <url>
@@ -318,13 +398,33 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/mahindra-thar-roxx-spotted-with-davinci-suspension-upgrade/</loc>
+    <lastmod>2026-11-15T22:09:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/11/mahindra-thar-roxx-update-suspension-davinci.jpg</image:loc>
+      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-thar-roxx-spotted-with-davinci-suspension-upgrade/</loc>
+    <lastmod>2026-11-15T22:09:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/11/mahindra-thar-roxx-update-suspension-davinci.jpg</image:loc>
+      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/a-radically-different-approach-to-ai/</loc>
     <lastmod>2026-11-15T22:05:07+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Fuzzy-definition-Luke-Jones-Unsplash.jpg</image:loc>
-      <image:title>A Radically Different Approach to AI</image:title>
+      <image:title>Inside Look: A Radically Different Approach to AI - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -334,7 +434,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Fuzzy-definition-Luke-Jones-Unsplash.jpg</image:loc>
-      <image:title>A Radically Different Approach to AI</image:title>
+      <image:title>Inside Look: A Radically Different Approach to AI - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -384,7 +484,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/why-you-should-clean-brake-dust-off-your-rims-and-how-to-do-it-effectively/l-intro-1794200700.jpg</image:loc>
-      <image:title>Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)</image:title>
+      <image:title>The Hidden Reason Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)</image:title>
     </image:image>
   </url>
   <url>
@@ -394,7 +494,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/why-you-should-clean-brake-dust-off-your-rims-and-how-to-do-it-effectively/l-intro-1794200700.jpg</image:loc>
-      <image:title>Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)</image:title>
+      <image:title>The Hidden Reason Why You Should Clean Brake Dust Off Your Rims (And How To Do It Effectively)</image:title>
     </image:image>
   </url>
   <url>
@@ -584,7 +684,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyota-or-daihatsu/l-intro-1794416255.jpg</image:loc>
-      <image:title>How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</image:title>
+      <image:title>The Truth Revealed: How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</image:title>
     </image:image>
   </url>
   <url>
@@ -594,7 +694,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyota-or-daihatsu/l-intro-1794416255.jpg</image:loc>
-      <image:title>How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</image:title>
+      <image:title>The Truth Revealed: How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</image:title>
     </image:image>
   </url>
   <url>
@@ -684,7 +784,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Published_Approved_Darlington_Hero_1600x900.png</image:loc>
-      <image:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three</image:title>
+      <image:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three.</image:title>
     </image:image>
   </url>
   <url>
@@ -694,7 +794,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Published_Approved_Darlington_Hero_1600x900.png</image:loc>
-      <image:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three</image:title>
+      <image:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three.</image:title>
     </image:image>
   </url>
   <url>
@@ -784,7 +884,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/whats-your-most-unforgettable-close-call/l-intro-1794604813.jpg</image:loc>
-      <image:title>What&#x27;s Your Most Unforgettable Close Call?</image:title>
+      <image:title>Inside Look: What&#x27;s Your Most Unforgettable Close Call? - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -794,7 +894,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/whats-your-most-unforgettable-close-call/l-intro-1794604813.jpg</image:loc>
-      <image:title>What&#x27;s Your Most Unforgettable Close Call?</image:title>
+      <image:title>Inside Look: What&#x27;s Your Most Unforgettable Close Call? - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -884,7 +984,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cdn-1.motorsport.com/images/amp/YP743Le2/s6/liam-lawson-red-bull-2.jpg</image:loc>
-      <image:title>Retaining Lawson isn&#x27;t enough</image:title>
+      <image:title>Inside Look: Retaining Lawson isn&#x27;t enough - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -894,7 +994,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cdn-1.motorsport.com/images/amp/YP743Le2/s6/liam-lawson-red-bull-2.jpg</image:loc>
-      <image:title>Retaining Lawson isn&#x27;t enough</image:title>
+      <image:title>Inside Look: Retaining Lawson isn&#x27;t enough - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -984,7 +1084,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Tata-Nexon-6.jpg</image:loc>
-      <image:title>2027 Tata Nexon Spied With Big Changes Inside &amp; Out</image:title>
+      <image:title>First Clear Look: Tata Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -994,7 +1094,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Tata-Nexon-6.jpg</image:loc>
-      <image:title>2027 Tata Nexon Spied With Big Changes Inside &amp; Out</image:title>
+      <image:title>First Clear Look: Tata Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1004,7 +1104,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-vinfast-electric-scooter-motrocycle-for-india.jpg</image:loc>
-      <image:title>New VinFast Electric Scooter, Motorcycle Patented - Launch At Bharat Auto Expo?</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1014,7 +1114,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-vinfast-electric-scooter-motrocycle-for-india.jpg</image:loc>
-      <image:title>New VinFast Electric Scooter, Motorcycle Patented - Launch At Bharat Auto Expo?</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1044,7 +1144,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451432_HiRes.jpg</image:loc>
-      <image:title>Why Williams has turned Sainz and Albon into test drivers</image:title>
+      <image:title>The Hidden Reason Why Williams has turned Sainz and Albon into test drivers</image:title>
     </image:image>
   </url>
   <url>
@@ -1054,7 +1154,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451432_HiRes.jpg</image:loc>
-      <image:title>Why Williams has turned Sainz and Albon into test drivers</image:title>
+      <image:title>The Hidden Reason Why Williams has turned Sainz and Albon into test drivers</image:title>
     </image:image>
   </url>
   <url>
@@ -1124,7 +1224,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Mahindra-Thar-Roxx-With-DaVinci-OG-Alloys-launch.jpg</image:loc>
-      <image:title>Updated Mahindra Thar Roxx With DaVinci, OG Alloys Spotted Outside Dealer Showroom</image:title>
+      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1134,7 +1234,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Mahindra-Thar-Roxx-With-DaVinci-OG-Alloys-launch.jpg</image:loc>
-      <image:title>Updated Mahindra Thar Roxx With DaVinci, OG Alloys Spotted Outside Dealer Showroom</image:title>
+      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1224,7 +1324,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
-      <image:title>Toyota Innova Hycross Facelift Teased Ahead Of November 25 Launch</image:title>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1234,7 +1334,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
-      <image:title>Toyota Innova Hycross Facelift Teased Ahead Of November 25 Launch</image:title>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1284,7 +1384,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/05/Florida-sunset-Cynthia-Shahan.jpeg</image:loc>
-      <image:title>What The US Midterm Elections Mean For Climate Progress</image:title>
+      <image:title>Inside Look: What Really Happens With The US Midterm Elections Mean For Climate Progress</image:title>
     </image:image>
   </url>
   <url>
@@ -1294,7 +1394,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2023/05/Florida-sunset-Cynthia-Shahan.jpeg</image:loc>
-      <image:title>What The US Midterm Elections Mean For Climate Progress</image:title>
+      <image:title>Inside Look: What Really Happens With The US Midterm Elections Mean For Climate Progress</image:title>
     </image:image>
   </url>
   <url>
@@ -1344,7 +1444,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/what-a-road-sign-with-a-black-y-means-and-other-letters-too/l-intro-1793739871.jpg</image:loc>
-      <image:title>What A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
+      <image:title>Inside Look: What Really Happens With A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
     </image:image>
   </url>
   <url>
@@ -1354,7 +1454,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/what-a-road-sign-with-a-black-y-means-and-other-letters-too/l-intro-1793739871.jpg</image:loc>
-      <image:title>What A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
+      <image:title>Inside Look: What Really Happens With A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
     </image:image>
   </url>
   <url>
@@ -1444,7 +1544,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/concrete-beam-half-as-much-steel.jpg</image:loc>
-      <image:title>Fabric Molds Could Bring Material-Saving Concrete Beams Within Reach</image:title>
+      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Top SUVs - Variant-Wise Offers</image:title>
     </image:image>
   </url>
   <url>
@@ -1454,7 +1554,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/concrete-beam-half-as-much-steel.jpg</image:loc>
-      <image:title>Fabric Molds Could Bring Material-Saving Concrete Beams Within Reach</image:title>
+      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Top SUVs - Variant-Wise Offers</image:title>
     </image:image>
   </url>
   <url>
@@ -1504,7 +1604,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/why-some-cars-will-have-more-physical-buttons-in-the-near-future/l-intro-1793817075.jpg</image:loc>
-      <image:title>Why Some Cars Will Have More Physical Buttons In The Near Future</image:title>
+      <image:title>The Hidden Reason Why Some Cars Will Have More Physical Buttons In The Near Future</image:title>
     </image:image>
   </url>
   <url>
@@ -1514,7 +1614,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/why-some-cars-will-have-more-physical-buttons-in-the-near-future/l-intro-1793817075.jpg</image:loc>
-      <image:title>Why Some Cars Will Have More Physical Buttons In The Near Future</image:title>
+      <image:title>The Hidden Reason Why Some Cars Will Have More Physical Buttons In The Near Future</image:title>
     </image:image>
   </url>
   <url>
@@ -1584,7 +1684,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
-      <image:title>AI Businesses Still Bleeding Billions</image:title>
+      <image:title>Inside Look: AI Businesses Still Bleeding Billions - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -1594,7 +1694,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
-      <image:title>AI Businesses Still Bleeding Billions</image:title>
+      <image:title>Inside Look: AI Businesses Still Bleeding Billions - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -1604,7 +1704,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/how-much-power-would-an-evs-solar-roof-provide/l-intro-1793820224.jpg</image:loc>
-      <image:title>How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
+      <image:title>The Truth Revealed: How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
     </image:image>
   </url>
   <url>
@@ -1614,7 +1714,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/how-much-power-would-an-evs-solar-roof-provide/l-intro-1793820224.jpg</image:loc>
-      <image:title>How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
+      <image:title>The Truth Revealed: How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
     </image:image>
   </url>
   <url>
@@ -1624,7 +1724,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt-driven/l-intro-1794427747.jpg</image:loc>
-      <image:title>How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</image:title>
+      <image:title>The Truth Revealed: How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</image:title>
     </image:image>
   </url>
   <url>
@@ -1634,7 +1734,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt-driven/l-intro-1794427747.jpg</image:loc>
-      <image:title>How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</image:title>
+      <image:title>The Truth Revealed: How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</image:title>
     </image:image>
   </url>
   <url>
@@ -1644,7 +1744,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/why-some-traffic-lights-have-a-yellow-border/l-intro-1794607802.jpg</image:loc>
-      <image:title>Why Some Traffic Lights Have A Yellow Border</image:title>
+      <image:title>The Hidden Reason Why Some Traffic Lights Have A Yellow Border</image:title>
     </image:image>
   </url>
   <url>
@@ -1654,7 +1754,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/why-some-traffic-lights-have-a-yellow-border/l-intro-1794607802.jpg</image:loc>
-      <image:title>Why Some Traffic Lights Have A Yellow Border</image:title>
+      <image:title>The Hidden Reason Why Some Traffic Lights Have A Yellow Border</image:title>
     </image:image>
   </url>
   <url>
@@ -1704,7 +1804,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Zoox-Robotaxi-Atlanta.jpeg</image:loc>
-      <image:title>Zoox Launches Robotaxis in Atlanta</image:title>
+      <image:title>Inside Look: Zoox Launches Robotaxis in Atlanta - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -1714,7 +1814,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Zoox-Robotaxi-Atlanta.jpeg</image:loc>
-      <image:title>Zoox Launches Robotaxis in Atlanta</image:title>
+      <image:title>Inside Look: Zoox Launches Robotaxis in Atlanta - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -1764,7 +1864,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/is-using-launch-control-hard-on-your-car-especially-if-you-use-it-a-lot/l-intro-1793960152.jpg</image:loc>
-      <image:title>Is Using Launch Control Hard On Your Car, Especially If You Use It A Lot?</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1774,7 +1874,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/is-using-launch-control-hard-on-your-car-especially-if-you-use-it-a-lot/l-intro-1793960152.jpg</image:loc>
-      <image:title>Is Using Launch Control Hard On Your Car, Especially If You Use It A Lot?</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1844,7 +1944,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/hero.png</image:loc>
-      <image:title>The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine</image:title>
+      <image:title>The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine.</image:title>
     </image:image>
   </url>
   <url>
@@ -1854,7 +1954,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/hero.png</image:loc>
-      <image:title>The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine</image:title>
+      <image:title>The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine.</image:title>
     </image:image>
   </url>
   <url>
@@ -1884,7 +1984,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/what-do-all-the-flags-mean-in-racing/l-intro-1794349066.jpg</image:loc>
-      <image:title>What Do All The Flags Mean In Racing?</image:title>
+      <image:title>Inside Look: What Really Happens With Do All The Flags Mean In Racing?</image:title>
     </image:image>
   </url>
   <url>
@@ -1894,7 +1994,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/what-do-all-the-flags-mean-in-racing/l-intro-1794349066.jpg</image:loc>
-      <image:title>What Do All The Flags Mean In Racing?</image:title>
+      <image:title>Inside Look: What Really Happens With Do All The Flags Mean In Racing?</image:title>
     </image:image>
   </url>
   <url>
@@ -1944,7 +2044,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/heres-how-to-prevent-your-car-windows-from-fogging-up/l-intro-1794410495.jpg</image:loc>
-      <image:title>Here&#x27;s How To Prevent Your Car Windows From Fogging Up</image:title>
+      <image:title>The 10-Second Car Window Defogging Hack That Dealerships Never Teach You</image:title>
     </image:image>
   </url>
   <url>
@@ -1954,7 +2054,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/heres-how-to-prevent-your-car-windows-from-fogging-up/l-intro-1794410495.jpg</image:loc>
-      <image:title>Here&#x27;s How To Prevent Your Car Windows From Fogging Up</image:title>
+      <image:title>The 10-Second Car Window Defogging Hack That Dealerships Never Teach You</image:title>
     </image:image>
   </url>
   <url>
@@ -1964,7 +2064,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-toyota-innova-hycross-teaser-first-official-launch-1.jpg</image:loc>
-      <image:title>New Toyota Innova Hycross Facelift First Official Teaser Out</image:title>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -1974,7 +2074,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-toyota-innova-hycross-teaser-first-official-launch-1.jpg</image:loc>
-      <image:title>New Toyota Innova Hycross Facelift First Official Teaser Out</image:title>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2064,7 +2164,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/how-to-remove-stubborn-stains-from-car-seats-with-baking-soda/l-intro-1793855486.jpg</image:loc>
-      <image:title>How To Remove Stubborn Stains From Car Seats With Baking Soda</image:title>
+      <image:title>The Truth Revealed: How To Remove Stubborn Stains From Car Seats With Baking Soda</image:title>
     </image:image>
   </url>
   <url>
@@ -2074,7 +2174,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/how-to-remove-stubborn-stains-from-car-seats-with-baking-soda/l-intro-1793855486.jpg</image:loc>
-      <image:title>How To Remove Stubborn Stains From Car Seats With Baking Soda</image:title>
+      <image:title>The Truth Revealed: How To Remove Stubborn Stains From Car Seats With Baking Soda</image:title>
     </image:image>
   </url>
   <url>
@@ -2104,7 +2204,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-norton-atlas-gt-manx-r-patented-in-india-cover.jpg</image:loc>
-      <image:title>TVS Norton Atlas GT, Manx R Patented In India - Launch 2027?</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2114,7 +2214,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-norton-atlas-gt-manx-r-patented-in-india-cover.jpg</image:loc>
-      <image:title>TVS Norton Atlas GT, Manx R Patented In India - Launch 2027?</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2244,7 +2344,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-maruti-brezza-spied-testing-cover.jpg</image:loc>
-      <image:title>New Maruti SUV Spied Testing - Next Gen Brezza 2028?</image:title>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2254,7 +2354,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-maruti-brezza-spied-testing-cover.jpg</image:loc>
-      <image:title>New Maruti SUV Spied Testing - Next Gen Brezza 2028?</image:title>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2364,7 +2464,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Tesla-Cybercab-on-sale.jpeg</image:loc>
-      <image:title>Tesla Starts Selling Cybercab - $30,000*</image:title>
+      <image:title>Inside Look: Tesla Starts Selling Cybercab - $30,000* - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -2374,7 +2474,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Tesla-Cybercab-on-sale.jpeg</image:loc>
-      <image:title>Tesla Starts Selling Cybercab - $30,000*</image:title>
+      <image:title>Inside Look: Tesla Starts Selling Cybercab - $30,000* - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -2384,7 +2484,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-toyota-fortuner-spied-testing-abroad.jpg</image:loc>
-      <image:title>New Toyota Fortuner Spied In Argentina</image:title>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2394,7 +2494,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-toyota-fortuner-spied-testing-abroad.jpg</image:loc>
-      <image:title>New Toyota Fortuner Spied In Argentina</image:title>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2424,7 +2524,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/waste-flooding-climate-change.jpeg</image:loc>
-      <image:title>Who Can Weather the Health Storm?</image:title>
+      <image:title>Inside Look: Who Can Weather the Health Storm? - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -2434,7 +2534,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/waste-flooding-climate-change.jpeg</image:loc>
-      <image:title>Who Can Weather the Health Storm?</image:title>
+      <image:title>Inside Look: Who Can Weather the Health Storm? - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -2704,7 +2804,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/719b859d-c30c-422a-876c-0ba9006dfd81.png</image:loc>
-      <image:title>Spied! Ford May Finally Be Working on a Two-Door F-150 Lobo Street Truck</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2714,7 +2814,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/719b859d-c30c-422a-876c-0ba9006dfd81.png</image:loc>
-      <image:title>Spied! Ford May Finally Be Working on a Two-Door F-150 Lobo Street Truck</image:title>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2844,7 +2944,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/how-the-developers-of-007-first-light-nailed-the-feeling-of-being-james-bond-through-its-cars-and-vehicles/l-intro-1794603578.jpg</image:loc>
-      <image:title>How The Developers Of &#x27;007 First Light&#x27; Nailed The Feeling Of Being James Bond Through Its Cars And Vehicles</image:title>
+      <image:title>The Truth Revealed: How The Developers Of &#x27;007 First Light&#x27; Nailed The Feeling Of Being James Bond Through Its Cars And Vehicles</image:title>
     </image:image>
   </url>
   <url>
@@ -2854,7 +2954,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/how-the-developers-of-007-first-light-nailed-the-feeling-of-being-james-bond-through-its-cars-and-vehicles/l-intro-1794603578.jpg</image:loc>
-      <image:title>How The Developers Of &#x27;007 First Light&#x27; Nailed The Feeling Of Being James Bond Through Its Cars And Vehicles</image:title>
+      <image:title>The Truth Revealed: How The Developers Of &#x27;007 First Light&#x27; Nailed The Feeling Of Being James Bond Through Its Cars And Vehicles</image:title>
     </image:image>
   </url>
   <url>
@@ -2924,7 +3024,7 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/76bc6da0-a443-4ba6-a27e-1358a6d94f0c.jpg?crop=0.708xw:0.530xh;0.190xw,0.314xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Aston Martin Valhalla</image:title>
+      <image:title>Inside Look: 2027 Aston Martin Valhalla - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
   <url>
@@ -2934,107 +3034,7 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://hips.hearstapps.com/hmg-prod/images/76bc6da0-a443-4ba6-a27e-1358a6d94f0c.jpg?crop=0.708xw:0.530xh;0.190xw,0.314xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Aston Martin Valhalla</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2028-ford-mustang-cobra-with-a-race-car-derived-v-8-is-worth-wait/</loc>
-    <lastmod>2026-11-13T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6722cd71-0f94-4dc2-a361-89c21b889153.jpg</image:loc>
-      <image:title>2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2028-ford-mustang-cobra-with-a-race-car-derived-v-8-is-worth-wait/</loc>
-    <lastmod>2026-11-13T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/6722cd71-0f94-4dc2-a361-89c21b889153.jpg</image:loc>
-      <image:title>2028 Ford Mustang Cobra with a Race Car-Derived V-8 Is Worth Waiting For</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-/</loc>
-    <lastmod>2026-11-13T19:41:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-edition/l-intro-1794598688.jpg</image:loc>
-      <image:title>Blazing Phoenix Yellow Adorns 2027 Acura Integra Type S Heritage Edition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-/</loc>
-    <lastmod>2026-11-13T19:41:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/blazing-phoenix-yellow-adorns-2027-acura-integra-type-s-heritage-edition/l-intro-1794598688.jpg</image:loc>
-      <image:title>Blazing Phoenix Yellow Adorns 2027 Acura Integra Type S Heritage Edition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/more-bugatti-customers-should-spec-polished-engine-covers-but-the/</loc>
-    <lastmod>2026-11-13T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/more-bugatti-customers-should-spec-polished-engine-covers-but-theyre-all-too-chicken/l-intro-1794432827.jpg</image:loc>
-      <image:title>More Bugatti Customers Should Spec Polished Engine Covers, But They&#x27;re All Too Chicken</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/more-bugatti-customers-should-spec-polished-engine-covers-but-the/</loc>
-    <lastmod>2026-11-13T19:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/more-bugatti-customers-should-spec-polished-engine-covers-but-theyre-all-too-chicken/l-intro-1794432827.jpg</image:loc>
-      <image:title>More Bugatti Customers Should Spec Polished Engine Covers, But They&#x27;re All Too Chicken</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/stellantis-reappoints-broderdorf-promotes-kuniskis-in-ceo-shuffle/</loc>
-    <lastmod>2026-11-13T19:19:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/11294ed4-9ff1-49d6-9a6f-b543147e7cec.jpg</image:loc>
-      <image:title>Stellantis Reappoints Broderdorf, Promotes Kuniskis In CEO Shuffle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/stellantis-reappoints-broderdorf-promotes-kuniskis-in-ceo-shuffle/</loc>
-    <lastmod>2026-11-13T19:19:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/11294ed4-9ff1-49d6-9a6f-b543147e7cec.jpg</image:loc>
-      <image:title>Stellantis Reappoints Broderdorf, Promotes Kuniskis In CEO Shuffle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-updates-cbr1000rr-r-fireblade-with-exposed-titanium-tank-an/</loc>
-    <lastmod>2026-11-13T19:11:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/honda-updates-cbr1000rr-r-fireblade-with-exposed-titanium-tank-and-racing-performance/l-intro-1794596475.jpg</image:loc>
-      <image:title>Honda Updates CBR1000RR-R Fireblade With Exposed Titanium Tank And Racing Performance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-updates-cbr1000rr-r-fireblade-with-exposed-titanium-tank-an/</loc>
-    <lastmod>2026-11-13T19:11:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/honda-updates-cbr1000rr-r-fireblade-with-exposed-titanium-tank-and-racing-performance/l-intro-1794596475.jpg</image:loc>
-      <image:title>Honda Updates CBR1000RR-R Fireblade With Exposed Titanium Tank And Racing Performance</image:title>
+      <image:title>Inside Look: 2027 Aston Martin Valhalla - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
 </urlset>
