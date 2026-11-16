@@ -333,6 +333,15 @@
     // --- SETUP DAILY DRIVER QUIZ ---
     initQuizWidget(section);
 
+    // --- SETUP BH-SERIES TAX CALCULATOR ---
+    initBhTaxCalculator(section);
+
+    // --- SETUP DAILY FUEL TRACKER ---
+    initFuelTracker(section);
+
+    // --- SETUP IN-CAR RADIO MODE ---
+    initInCarRadio(section);
+
     // --- SETUP DRAG RACE SIMULATOR ---
     initDragRace(section);
 
@@ -1161,6 +1170,316 @@
     }
 
     renderQuestion();
+  }
+
+
+  // ==============================================================================
+  // 5. BH-SERIES VS STATE RTO ROAD TAX CALCULATOR
+  // ==============================================================================
+  function initBhTaxCalculator(section) {
+    const priceSlider = document.getElementById('bhPriceSlider');
+    const priceVal = document.getElementById('bhPriceVal');
+    const stateSelect = document.getElementById('bhStateSelect');
+    const fuelSelect = document.getElementById('bhFuelSelect');
+    const savingsAmountEl = document.getElementById('bhSavingsAmount');
+    const stateTaxEl = document.getElementById('bhStateTaxAmount');
+    const bhInitialEl = document.getElementById('bhInitialTaxAmount');
+    const bhBiannualEl = document.getElementById('bhBiannualAmount');
+    const bh15YrEl = document.getElementById('bh15YrTotalAmount');
+    const stateNameEl = document.getElementById('bhSelectedStateName');
+    const shareBtn = document.getElementById('bhShareBtn');
+
+    if (!priceSlider || !stateSelect) return;
+
+    // State Lifetime Tax percentage approximations
+    const STATE_RATES = {
+      'karnataka': { under10: 0.17, between1020: 0.18, over20: 0.20, cess: 0.11, name: 'Karnataka' },
+      'maharashtra': { under10: 0.11, between1020: 0.12, over20: 0.13, cess: 0.0, name: 'Maharashtra' },
+      'delhi': { under10: 0.08, between1020: 0.10, over20: 0.125, cess: 0.0, name: 'Delhi' },
+      'up': { under10: 0.08, between1020: 0.10, over20: 0.10, cess: 0.0, name: 'Uttar Pradesh' },
+      'haryana': { under10: 0.08, between1020: 0.10, over20: 0.10, cess: 0.0, name: 'Haryana' },
+      'tamilnadu': { under10: 0.12, between1020: 0.15, over20: 0.15, cess: 0.0, name: 'Tamil Nadu' },
+      'kerala': { under10: 0.11, between1020: 0.13, over20: 0.15, cess: 0.0, name: 'Kerala' },
+      'gujarat': { under10: 0.06, between1020: 0.06, over20: 0.06, cess: 0.0, name: 'Gujarat' },
+      'telangana': { under10: 0.14, between1020: 0.17, over20: 0.18, cess: 0.0, name: 'Telangana' },
+      'wb': { under10: 0.10, between1020: 0.10, over20: 0.10, cess: 0.0, name: 'West Bengal' }
+    };
+
+    function recalculate() {
+      const price = parseFloat(priceSlider.value) || 1500000;
+      const stateKey = stateSelect.value;
+      const fuel = fuelSelect.value;
+      const stateInfo = STATE_RATES[stateKey] || STATE_RATES['karnataka'];
+
+      if (priceVal) {
+        const lakhs = (price / 100000).toFixed(2);
+        priceVal.textContent = `₹${lakhs} Lakh`;
+      }
+
+      // 1. Calculate State Upfront 15-Year Lifetime Road Tax
+      let stateRate = stateInfo.between1020;
+      if (price < 1000000) stateRate = stateInfo.under10;
+      else if (price > 2000000) stateRate = stateInfo.over20;
+
+      if (fuel === 'diesel') stateRate += 0.02; // diesel surcharge
+      else if (fuel === 'electric') stateRate = 0.0; // many states 0 tax on EV
+
+      let stateTax = price * stateRate;
+      if (stateInfo.cess > 0) stateTax += stateTax * stateInfo.cess;
+
+      // 2. Calculate BH Series Formula (MoRTH official gazette)
+      // Base: <10L = 8%, 10-20L = 10%, >20L = 12%
+      let bhRate = 0.10;
+      if (price < 1000000) bhRate = 0.08;
+      else if (price > 2000000) bhRate = 0.12;
+
+      if (fuel === 'diesel') bhRate += 0.02;
+      else if (fuel === 'electric') bhRate -= 0.02;
+
+      // 2-Year Bi-Annual Payment = ((Price * bhRate * 1.25) / 15) * 2
+      const bh2YrPayment = Math.round(((price * bhRate * 1.25) / 15) * 2);
+      const bh15YrTotal = Math.round(bh2YrPayment * 7.5); // total over 15 yrs
+
+      // Direct Upfront Cash Savings on day of vehicle delivery
+      const upfrontSaved = Math.max(0, Math.round(stateTax - bh2YrPayment));
+
+      if (savingsAmountEl) savingsAmountEl.textContent = `₹${upfrontSaved.toLocaleString('en-IN')}`;
+      if (stateNameEl) stateNameEl.textContent = stateInfo.name;
+      if (stateTaxEl) stateTaxEl.textContent = `₹${Math.round(stateTax).toLocaleString('en-IN')}`;
+      if (bhInitialEl) bhInitialEl.textContent = `₹${bh2YrPayment.toLocaleString('en-IN')}`;
+      if (bhBiannualEl) bhBiannualEl.textContent = `₹${bh2YrPayment.toLocaleString('en-IN')}`;
+      if (bh15YrEl) bh15YrEl.textContent = `₹${bh15YrTotal.toLocaleString('en-IN')}`;
+    }
+
+    priceSlider.addEventListener('input', recalculate);
+    stateSelect.addEventListener('change', recalculate);
+    fuelSelect.addEventListener('change', recalculate);
+    recalculate();
+
+    if (shareBtn) {
+      shareBtn.addEventListener('click', () => {
+        const saved = savingsAmountEl ? savingsAmountEl.textContent : '';
+        const stateName = stateNameEl ? stateNameEl.textContent : '';
+        const lakhs = (priceSlider.value / 100000).toFixed(2);
+        const text = `🏛️ *BH-Series Road Tax Savings*: Choosing BH Series instead of ${stateName} RTO saves *${saved} UPFRONT* on a ₹${lakhs} Lakh car!\n\nCalculate your road tax savings & 4-office eligibility checklist:\nhttps://newsseconds.com/#interactiveGarage`;
+        const waUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`;
+        window.open(waUrl, '_blank');
+      });
+    }
+  }
+
+  // ==============================================================================
+  // 6. LIVE DAILY CITY FUEL PRICE TRACKER & TANK REFILL CALCULATOR
+  // ==============================================================================
+  const CITY_FUEL_RATES = {
+    'delhi': { name: 'Delhi', petrol: 94.72, diesel: 87.62, cng: 75.09 },
+    'mumbai': { name: 'Mumbai', petrol: 104.21, diesel: 92.15, cng: 76.00 },
+    'bengaluru': { name: 'Bengaluru', petrol: 102.86, diesel: 88.94, cng: 82.50 },
+    'hyderabad': { name: 'Hyderabad', petrol: 107.41, diesel: 95.65, cng: 90.00 },
+    'chennai': { name: 'Chennai', petrol: 100.75, diesel: 92.34, cng: 86.00 },
+    'kolkata': { name: 'Kolkata', petrol: 103.94, diesel: 90.76, cng: 79.00 },
+    'pune': { name: 'Pune', petrol: 104.05, diesel: 90.58, cng: 83.00 },
+    'noida': { name: 'Noida / NCR', petrol: 94.66, diesel: 87.76, cng: 79.70 },
+    'jaipur': { name: 'Jaipur', petrol: 104.88, diesel: 90.36, cng: 81.50 },
+    'chandigarh': { name: 'Chandigarh', petrol: 94.24, diesel: 82.40, cng: 84.50 }
+  };
+
+  function initFuelTracker(section) {
+    const citySelect = document.getElementById('fuelCitySelect');
+    const fuelTypeSelect = document.getElementById('fuelTypeSelect');
+    const tankSlider = document.getElementById('tankCapacitySlider');
+    const tankVal = document.getElementById('tankCapacityVal');
+    const tankCostEl = document.getElementById('tankTotalCost');
+    const pricePerUnitEl = document.getElementById('fuelUnitRate');
+    const arbitrageEl = document.getElementById('fuelArbitrageNote');
+    const presetBtns = section.querySelectorAll('.tank-preset-btn');
+    const shareBtn = document.getElementById('fuelShareBtn');
+
+    if (!citySelect || !tankSlider) return;
+
+    function recalculate() {
+      const cityKey = citySelect.value;
+      const fuelType = fuelTypeSelect.value;
+      const capacity = parseFloat(tankSlider.value) || 57;
+      const city = CITY_FUEL_RATES[cityKey] || CITY_FUEL_RATES['delhi'];
+
+      let rate = city.petrol;
+      let unit = 'Litre';
+      if (fuelType === 'diesel') rate = city.diesel;
+      else if (fuelType === 'cng') { rate = city.cng; unit = 'kg'; }
+
+      if (tankVal) tankVal.textContent = `${capacity} ${unit === 'kg' ? 'kg' : 'Litres'}`;
+
+      const totalCost = Math.round(capacity * rate);
+      if (tankCostEl) tankCostEl.textContent = `₹${totalCost.toLocaleString('en-IN')}`;
+      if (pricePerUnitEl) pricePerUnitEl.textContent = `₹${rate.toFixed(2)} / ${unit} in ${city.name}`;
+
+      // Arbitrage savings vs highest city (Mumbai/Hyderabad)
+      const highestRate = (fuelType === 'diesel') ? 95.65 : (fuelType === 'cng' ? 90.00 : 107.41);
+      const lowestRate = (fuelType === 'diesel') ? 82.40 : (fuelType === 'cng' ? 75.09 : 94.24);
+      const diffVsHighest = Math.round(capacity * (highestRate - rate));
+
+      if (arbitrageEl) {
+        if (cityKey === 'delhi' || cityKey === 'noida' || cityKey === 'chandigarh') {
+          arbitrageEl.textContent = `💡 State Tax Arbitrage: Refueling a ${capacity}L tank in ${city.name} saves ~₹${diffVsHighest.toLocaleString('en-IN')} compared to Mumbai or Hyderabad!`;
+          arbitrageEl.style.display = 'block';
+        } else {
+          const excess = Math.round(capacity * (rate - lowestRate));
+          arbitrageEl.textContent = `⚠️ You pay ~₹${excess.toLocaleString('en-IN')} extra on a full tank in ${city.name} due to higher state VAT compared to Delhi/NCR.`;
+          arbitrageEl.style.display = 'block';
+        }
+      }
+    }
+
+    presetBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        presetBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const cap = btn.getAttribute('data-cap');
+        if (cap && tankSlider) tankSlider.value = cap;
+        recalculate();
+      });
+    });
+
+    tankSlider.addEventListener('input', recalculate);
+    citySelect.addEventListener('change', recalculate);
+    fuelTypeSelect.addEventListener('change', recalculate);
+    recalculate();
+
+    if (shareBtn) {
+      shareBtn.addEventListener('click', () => {
+        const city = CITY_FUEL_RATES[citySelect.value] || CITY_FUEL_RATES['delhi'];
+        const cost = tankCostEl ? tankCostEl.textContent : '';
+        const cap = tankSlider.value;
+        const text = `⛽ *Today's Fuel Rate Alert*: Petrol is ₹${city.petrol}/L, Diesel is ₹${city.diesel}/L in ${city.name}. A ${cap}L full tank costs *${cost}*.\n\nCompare fuel rates & tank costs across Indian cities:\nhttps://newsseconds.com/#interactiveGarage`;
+        const waUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`;
+        window.open(waUrl, '_blank');
+      });
+    }
+  }
+
+  // ==============================================================================
+  // 7. IN-CAR RADIO MODE / 2-MIN AUDIO BRIEFING
+  // ==============================================================================
+  function initInCarRadio(section) {
+    const radioBtn = document.getElementById('inCarRadioBtn');
+    if (!radioBtn) return;
+
+    let isPlaying = false;
+    let synth = window.speechSynthesis;
+    let utterance = null;
+    let storyIndex = 0;
+    let stories = [];
+
+    // Collect top 5 stories from the page
+    const cards = document.querySelectorAll('.news-card');
+    cards.forEach((c, i) => {
+      if (i < 5) {
+        const title = c.getAttribute('data-title') || '';
+        const summary = c.getAttribute('data-summary') || '';
+        if (title) stories.push({ title, summary });
+      }
+    });
+
+    let dock = null;
+
+    function playCurrentStory() {
+      if (!synth || stories.length === 0) return;
+      synth.cancel();
+
+      if (storyIndex >= stories.length) {
+        storyIndex = 0;
+        stopRadio();
+        return;
+      }
+
+      const st = stories[storyIndex];
+      const textToSpeak = `Story ${storyIndex + 1}. ${st.title}. ${st.summary}`;
+      utterance = new SpeechSynthesisUtterance(textToSpeak);
+      utterance.rate = 1.05;
+      utterance.pitch = 1.0;
+
+      // Select natural English/Hindi voice if available
+      const voices = synth.getVoices();
+      const preferred = voices.find(v => v.lang.includes('en-IN') || v.lang.includes('hi-IN')) || voices[0];
+      if (preferred) utterance.voice = preferred;
+
+      utterance.onend = () => {
+        storyIndex++;
+        if (isPlaying) {
+          playCurrentStory();
+        }
+      };
+
+      utterance.onerror = () => {
+        stopRadio();
+      };
+
+      synth.speak(utterance);
+      updateDockUI();
+    }
+
+    function startRadio() {
+      isPlaying = true;
+      showDock();
+      playCurrentStory();
+    }
+
+    function stopRadio() {
+      isPlaying = false;
+      if (synth) synth.cancel();
+      if (dock) dock.remove();
+      dock = null;
+    }
+
+    function showDock() {
+      if (dock) return;
+      dock = document.createElement('div');
+      dock.className = 'radio-dock-bar';
+      dock.innerHTML = `
+        <div class="radio-wave-anim">
+          <div class="radio-wave-bar"></div>
+          <div class="radio-wave-bar"></div>
+          <div class="radio-wave-bar"></div>
+          <div class="radio-wave-bar"></div>
+        </div>
+        <div class="radio-status-text" id="radioStatus">📻 NewsSeconds Radio: Briefing...</div>
+        <button class="radio-ctrl-btn" id="radioPlayPause" title="Play/Pause">⏸️</button>
+        <button class="radio-ctrl-btn" id="radioNext" title="Next Story">⏭️</button>
+        <button class="radio-ctrl-btn radio-close-btn" id="radioClose" title="Close Radio">✕</button>
+      `;
+      document.body.appendChild(dock);
+
+      document.getElementById('radioPlayPause')?.addEventListener('click', () => {
+        if (synth.speaking && !synth.paused) {
+          synth.pause();
+          document.getElementById('radioPlayPause').textContent = '▶️';
+        } else if (synth.paused) {
+          synth.resume();
+          document.getElementById('radioPlayPause').textContent = '⏸️';
+        }
+      });
+
+      document.getElementById('radioNext')?.addEventListener('click', () => {
+        storyIndex++;
+        playCurrentStory();
+      });
+
+      document.getElementById('radioClose')?.addEventListener('click', stopRadio);
+    }
+
+    function updateDockUI() {
+      const status = document.getElementById('radioStatus');
+      if (status && stories[storyIndex]) {
+        status.textContent = `📻 [${storyIndex + 1}/${stories.length}] ${stories[storyIndex].title.slice(0, 35)}...`;
+      }
+    }
+
+    radioBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      if (isPlaying) stopRadio();
+      else startRadio();
+    });
   }
 
   // Self-init on DOMContentLoaded

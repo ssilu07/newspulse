@@ -126,7 +126,10 @@ def get_base_header(active_nav: str = "home") -> str:
       </div>
 
       <div class="header-actions">
-        <a href="/#interactiveGarage" class="garage-header-pill" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(6, 182, 212, 0.18); border: 1px solid rgba(6, 182, 212, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 700; transition: all 0.2s;" title="The Indian Mobility Lab: RTO Challan Wizard, NGT Expiry & SUV Pit Stop">
+        <button id="inCarRadioBtn" class="garage-header-pill" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(245, 158, 11, 0.18); border: 1px solid rgba(245, 158, 11, 0.45); color: #fbbf24; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 700; cursor: pointer;" title="Listen to 2-Min Live Automotive Audio Briefing">
+            <span>📻</span> <span>Radio Mode</span>
+          </button>
+          <a href="/#interactiveGarage" class="garage-header-pill" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(6, 182, 212, 0.18); border: 1px solid rgba(6, 182, 212, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 700; transition: all 0.2s;" title="The Indian Mobility Lab: RTO Challan Wizard, NGT Expiry & SUV Pit Stop">
           <span>🏎️</span> <span>RTO &amp; Auto Lab</span>
         </a>
         <a href="https://t.me/minutenewshub" target="_blank" rel="noopener" class="telegram-header-badge" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 136, 204, 0.18); border: 1px solid rgba(0, 136, 204, 0.45); color: #38bdf8; text-decoration: none; padding: 6px 14px; border-radius: 9999px; font-size: 13px; font-weight: 600; transition: all 0.2s;" title="Join {config.SITE_NAME} on Telegram">
@@ -244,6 +247,12 @@ def get_interactive_garage_html() -> str:
             </button>
             <button class="garage-tab-btn" data-tab="tabDragRace" role="tab" aria-selected="false" aria-controls="tabDragRace">
               <span>🏁</span> <span>SUV Drag Battle</span>
+            </button>
+            <button class="garage-tab-btn" data-tab="tabBhTax" role="tab" aria-selected="false" aria-controls="tabBhTax">
+              <span>🏛️</span> <span>BH-Series Road Tax</span>
+            </button>
+            <button class="garage-tab-btn" data-tab="tabFuelTracker" role="tab" aria-selected="false" aria-controls="tabFuelTracker">
+              <span>⛽</span> <span>Daily Fuel Prices</span>
             </button>
             <button class="garage-tab-btn" data-tab="tabEvCalc" role="tab" aria-selected="false" aria-controls="tabEvCalc">
               <span>⚡</span> <span>EV Fuel Savings</span>
@@ -654,6 +663,210 @@ def get_interactive_garage_html() -> str:
           <button class="share-race-btn" id="shareRaceBtn">
             <span>🔗</span> <span>Share Telemetry Battle</span>
           </button>
+        </div>
+      </div>
+
+
+      <!-- TAB 7: BH-Series vs State Road Tax Calculator -->
+      <div class="garage-tab-panel" id="tabBhTax" role="tabpanel">
+        <div class="tool-wrapper">
+          <div class="tool-intro">
+            <span class="tool-badge">🏛️ Bharat (BH) Series Vehicle Registration</span>
+            <h3 class="tool-heading">BH-Series vs State RTO Road Tax Savings Calculator</h3>
+            <p class="tool-desc">Calculate exact road tax savings on new car purchase and check if you qualify under the MoRTH 4-state office employee criteria.</p>
+          </div>
+
+          <div class="bhtax-grid">
+            <div class="bhtax-input-card">
+              <div class="form-group">
+                <label for="bhPriceSlider" class="input-label">Vehicle Ex-Showroom Price: <span id="bhPriceVal" class="slider-badge">₹15.00 Lakh</span></label>
+                <input type="range" id="bhPriceSlider" min="500000" max="6000000" step="50000" value="1500000" class="styled-slider">
+              </div>
+
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="bhStateSelect" class="input-label">Your Home State / RTO</label>
+                  <select id="bhStateSelect" class="styled-select">
+                    <option value="karnataka" selected>Karnataka (18% - Highest Tax)</option>
+                    <option value="maharashtra">Maharashtra (11-13%)</option>
+                    <option value="delhi">Delhi (10-12.5%)</option>
+                    <option value="up">Uttar Pradesh (8-10%)</option>
+                    <option value="haryana">Haryana (8-10%)</option>
+                    <option value="tamilnadu">Tamil Nadu (12-15%)</option>
+                    <option value="kerala">Kerala (13-15%)</option>
+                    <option value="gujarat">Gujarat (6% - Lowest State Tax)</option>
+                    <option value="telangana">Telangana (14-17%)</option>
+                    <option value="wb">West Bengal (10%)</option>
+                  </select>
+                </div>
+
+                <div class="form-group">
+                  <label for="bhFuelSelect" class="input-label">Engine Fuel Type</label>
+                  <select id="bhFuelSelect" class="styled-select">
+                    <option value="petrol" selected>Petrol / CNG (Standard Base)</option>
+                    <option value="diesel">Diesel (+2% Surcharge)</option>
+                    <option value="electric">Electric (-2% Green Subsidy)</option>
+                  </select>
+                </div>
+              </div>
+
+              <button class="whatsapp-share-btn" id="bhShareBtn" type="button" style="margin-top: 14px;">
+                <span>📲 Share Road Tax Savings on WhatsApp</span>
+              </button>
+
+              <div class="eligibility-box">
+                <div class="eligibility-title">📋 Who is Eligible for BH Series Number Plate?</div>
+                <ul class="eligibility-list">
+                  <li><span class="check">✓</span> Central / State Government, Defence &amp; Railway Personnel.</li>
+                  <li><span class="check">✓</span> PSU / Bank Employees with transferable posts across India.</li>
+                  <li><span class="check">✓</span> Private Sector Employees: Company must have registered offices in at least 4 States/UTs.</li>
+                  <li><span class="check">✓</span> Mandatory Document: Official Form 60 / Working Certificate signed by HR.</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="bhtax-summary-card">
+              <div class="tax-savings-hero">
+                <div class="tax-savings-label">Direct Upfront Cash Saved on Delivery Day</div>
+                <div class="tax-savings-amount" id="bhSavingsAmount">₹2,45,000</div>
+                <div class="tax-savings-sub">Money stays in your bank account instead of paying 15-year upfront state tax</div>
+              </div>
+
+              <table class="tax-compare-table">
+                <thead>
+                  <tr>
+                    <th>Tax Parameter</th>
+                    <th>Standard State RTO</th>
+                    <th>Bharat (BH) Series</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Registered Authority</td>
+                    <td id="bhSelectedStateName">Karnataka</td>
+                    <td style="color: #38bdf8; font-weight: 700;">Pan-India MoRTH</td>
+                  </tr>
+                  <tr>
+                    <td>Upfront Payment at Delivery</td>
+                    <td class="highlight-red" id="bhStateTaxAmount">₹2,70,000 (15 Yrs)</td>
+                    <td class="highlight-green" id="bhInitialTaxAmount">₹25,000 (Initial 2 Yrs)</td>
+                  </tr>
+                  <tr>
+                    <td>Payment Frequency</td>
+                    <td>15-Year Lump Sum</td>
+                    <td style="color: #38bdf8;">Every 2 Years</td>
+                  </tr>
+                  <tr>
+                    <td>Bi-Annual Installment</td>
+                    <td>₹0 (Already paid)</td>
+                    <td id="bhBiannualAmount">₹25,000 / 2 Yrs</td>
+                  </tr>
+                  <tr>
+                    <td>15-Year Lifetime Total</td>
+                    <td id="bhStateTotalAmount">₹2,70,000</td>
+                    <td id="bh15YrTotalAmount">₹1,87,500</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB 8: Live Daily City Fuel Price Tracker & Tank Cost Calculator -->
+      <div class="garage-tab-panel" id="tabFuelTracker" role="tabpanel">
+        <div class="tool-wrapper">
+          <div class="tool-intro">
+            <span class="tool-badge">⛽ Daily Fuel &amp; Energy Intelligence</span>
+            <h3 class="tool-heading">Live City Fuel Rates &amp; Full Tank Cost Calculator</h3>
+            <p class="tool-desc">Check verified daily Petrol, Diesel &amp; CNG prices across major Indian cities and calculate full tank refill cost for your vehicle.</p>
+          </div>
+
+          <div class="fuel-tracker-grid">
+            <div class="fuel-calc-card">
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="fuelCitySelect" class="input-label">Select City</label>
+                  <select id="fuelCitySelect" class="styled-select">
+                    <option value="delhi" selected>Delhi (NCR)</option>
+                    <option value="mumbai">Mumbai</option>
+                    <option value="bengaluru">Bengaluru</option>
+                    <option value="hyderabad">Hyderabad</option>
+                    <option value="chennai">Chennai</option>
+                    <option value="kolkata">Kolkata</option>
+                    <option value="pune">Pune</option>
+                    <option value="noida">Noida / Greater Noida</option>
+                    <option value="jaipur">Jaipur</option>
+                    <option value="chandigarh">Chandigarh</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="fuelTypeSelect" class="input-label">Fuel Category</label>
+                  <select id="fuelTypeSelect" class="styled-select">
+                    <option value="petrol" selected>Petrol</option>
+                    <option value="diesel">Diesel</option>
+                    <option value="cng">CNG (Natural Gas)</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label class="input-label">Select Tank Size Preset</label>
+                <div class="route-preset-chips">
+                  <button type="button" class="tank-preset-btn route-chip" data-cap="37">37L (Swift/Baleno)</button>
+                  <button type="button" class="tank-preset-btn route-chip" data-cap="45">45L (Creta/Brezza)</button>
+                  <button type="button" class="tank-preset-btn route-chip active" data-cap="57">57L (Scorpio/Thar)</button>
+                  <button type="button" class="tank-preset-btn route-chip" data-cap="60">60L (Safari)</button>
+                  <button type="button" class="tank-preset-btn route-chip" data-cap="80">80L (Fortuner)</button>
+                  <button type="button" class="tank-preset-btn route-chip" data-cap="10">10kg (CNG)</button>
+                </div>
+              </div>
+
+              <div class="form-group" style="margin-top: 14px;">
+                <label for="tankCapacitySlider" class="input-label">Fuel Tank Capacity: <span id="tankCapacityVal" class="slider-badge">57 Litres</span></label>
+                <input type="range" id="tankCapacitySlider" min="5" max="90" step="1" value="57" class="styled-slider">
+              </div>
+
+              <div class="tank-cost-display">
+                <div class="tank-cost-amount" id="tankTotalCost">₹5,399</div>
+                <div class="tank-cost-sub" id="fuelUnitRate">₹94.72 / Litre in Delhi</div>
+              </div>
+
+              <div class="arbitrage-pill" id="fuelArbitrageNote">
+                💡 State Tax Arbitrage: Refueling in Delhi saves ~₹540 compared to Mumbai!
+              </div>
+
+              <button class="whatsapp-share-btn" id="fuelShareBtn" type="button">
+                <span>📲 Share Today's Fuel Rates on WhatsApp</span>
+              </button>
+            </div>
+
+            <div class="fuel-cities-card">
+              <h4 class="guide-title">📊 Today's Major Indian Metro Fuel Rates</h4>
+              <table class="city-price-table">
+                <thead>
+                  <tr>
+                    <th>City</th>
+                    <th>Petrol</th>
+                    <th>Diesel</th>
+                    <th>CNG</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td class="city-name">Delhi</td><td>₹94.72</td><td>₹87.62</td><td>₹75.09</td></tr>
+                  <tr><td class="city-name">Mumbai</td><td>₹104.21</td><td>₹92.15</td><td>₹76.00</td></tr>
+                  <tr><td class="city-name">Bengaluru</td><td>₹102.86</td><td>₹88.94</td><td>₹82.50</td></tr>
+                  <tr><td class="city-name">Hyderabad</td><td>₹107.41</td><td>₹95.65</td><td>₹90.00</td></tr>
+                  <tr><td class="city-name">Chennai</td><td>₹100.75</td><td>₹92.34</td><td>₹86.00</td></tr>
+                  <tr><td class="city-name">Kolkata</td><td>₹103.94</td><td>₹90.76</td><td>₹79.00</td></tr>
+                  <tr><td class="city-name">Pune</td><td>₹104.05</td><td>₹90.58</td><td>₹83.00</td></tr>
+                  <tr><td class="city-name">Noida/NCR</td><td>₹94.66</td><td>₹87.76</td><td>₹79.70</td></tr>
+                  <tr><td class="city-name">Jaipur</td><td>₹104.88</td><td>₹90.36</td><td>₹81.50</td></tr>
+                  <tr><td class="city-name">Chandigarh</td><td>₹94.24</td><td>₹82.40</td><td>₹84.50</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
         </div>
       </div>
 
