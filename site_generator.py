@@ -50,27 +50,48 @@ def get_tracking_head_tags() -> str:
 
     ga_id = getattr(config, "GA_MEASUREMENT_ID", "").strip()
     if ga_id:
-        tags.append(f"""  <!-- Google Analytics (gtag.js) with Headless Bot Shield -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={ga_id}"></script>
+        tags.append(f"""  <!-- Google Analytics (gtag.js) - Real-User Engagement Triggered -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){{dataLayer.push(arguments);}}
 
-    // Shield GA4 from 0-second automated headless cloud scrapers
-    var isAutomatedBot = false;
-    try {{
-      isAutomatedBot = !!(navigator.webdriver ||
-                          /bot|crawler|spider|headless|puppeteer|selenium|slurp/i.test(navigator.userAgent) ||
-                          (!window.navigator.languages || window.navigator.languages.length === 0));
-    }} catch(e) {{}}
+    // Anti-bot & real human engagement gate:
+    // Only loads and fires GA4 when a real user scrolls, clicks, touches, or stays for >= 3 seconds.
+    // 0-second cloud scrapers and headless bots are completely prevented from firing GA4.
+    (function() {{
+      var gaLoaded = false;
+      function loadGA4() {{
+        if (gaLoaded) return;
+        gaLoaded = true;
+        
+        ['scroll', 'touchstart', 'mousemove', 'click', 'keydown'].forEach(function(evt) {{
+          window.removeEventListener(evt, loadGA4);
+        }});
 
-    if (!isAutomatedBot) {{
-      gtag('js', new Date());
-      gtag('config', '{ga_id}', {{
-        'anonymize_ip': true,
-        'cookie_flags': 'SameSite=None;Secure'
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id={ga_id}';
+        document.head.appendChild(s);
+
+        gtag('js', new Date());
+        gtag('config', '{ga_id}', {{
+          'anonymize_ip': true,
+          'cookie_flags': 'SameSite=None;Secure'
+        }});
+      }}
+
+      try {{
+        if (navigator.webdriver || /bot|crawler|spider|headless|puppeteer|selenium|slurp/i.test(navigator.userAgent) || (!window.navigator.languages || window.navigator.languages.length === 0)) {{
+          return;
+        }}
+      }} catch(e) {{}}
+
+      ['scroll', 'touchstart', 'mousemove', 'click', 'keydown'].forEach(function(evt) {{
+        window.addEventListener(evt, loadGA4, {{ passive: true, once: true }});
       }});
-    }}
+
+      setTimeout(loadGA4, 3000);
+    }})();
   </script>""")
 
     # Default Theme Enforcer: guarantees dark/black theme (#07090e) unless explicitly set to light
