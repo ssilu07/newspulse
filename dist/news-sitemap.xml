@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/4500-kia-sorentos-sold-since-launch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T13:58:52+00:00</news:publication_date>
+      <news:title>First Clear Look: Kia Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4500_kia_sorento_sales_milestone_3d127d15fd.webp</image:loc>
+      <image:title>First Clear Look: Kia Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/horse-powertrain-unveils-it-first-v8-engine-makes-680ps-and-hybri/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T13:05:00+00:00</news:publication_date>
+      <news:title>Horse Powertrain Unveils It First V8 Engine- Makes 680PS And Hybrid-Ready!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/horse_powertrain_first_680_ps_v8_engine_2d7935b1a6.webp</image:loc>
+      <image:title>Horse Powertrain Unveils It First V8 Engine- Makes 680PS And Hybrid-Ready!</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/haas-sticks-with-camara-for-las-vegas-gp-hirakawa-in-for-fp1/</loc>
     <news:news>
       <news:publication>
@@ -33,6 +63,66 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/bangalore-man-buys-tata-safari-and-drives-2000-kms-for-chhath-poo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T08:37:21+00:00</news:publication_date>
+      <news:title>Bangalore Man Buys Tata Safari And Drives 2000 Kms For Chhath Pooja As Train, Flight Tickets Were &#x27;Too Expensive</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/buys_safari_to_home_3b37e16a9a.webp</image:loc>
+      <image:title>Bangalore Man Buys Tata Safari And Drives 2000 Kms For Chhath Pooja As Train, Flight Tickets Were &#x27;Too Expensive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/cant-cut-fuel-prices-despite-lower-crude-oil-prices-petroleum-min/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T08:02:15+00:00</news:publication_date>
+      <news:title>Can&#x27;t Cut Fuel Prices Despite Lower Crude Oil Prices: Petroleum Minister Explains Why</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/minister_suresh_gopi_about_fuel_price_reduction_06e1eec0e1.webp</image:loc>
+      <image:title>Can&#x27;t Cut Fuel Prices Despite Lower Crude Oil Prices: Petroleum Minister Explains Why</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/akash-ambani-spotted-driving-20-crore-rupee-bullet-proof-rolls-ro/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T07:58:10+00:00</news:publication_date>
+      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/akash_ambani_drives_bulletproof_rolls_royce_cullinan_black_badge_fbc496d478.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ola-electric-in-trouble-only-rs-750-crore-cash-reserve-left-down-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T07:18:43+00:00</news:publication_date>
+      <news:title>Ola Electric In Trouble: Only Rs 750 Crore Cash Reserve Left, Down 87% From 2 Years Ago</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/ola_electric_cash_reserve_falls_05087b2628.webp</image:loc>
+      <image:title>Ola Electric In Trouble: Only Rs 750 Crore Cash Reserve Left, Down 87% From 2 Years Ago</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/jsw-combat-pre-bookings-open-ahead-of-december-debut/</loc>
     <news:news>
       <news:publication>
@@ -48,6 +138,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/maruti-suzuki-oct-2026-sales-analysis-swift-brezza-wagonr-victori/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T05:30:33+00:00</news:publication_date>
+      <news:title>Maruti Suzuki Oct 2026 Sales Analysis - Swift, Brezza, WagonR, Victoris, Vitara, Fronx</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/07/2026-Maruti-Suzuki-Brezza-3.jpg</image:loc>
+      <image:title>Maruti Suzuki Oct 2026 Sales Analysis - Swift, Brezza, WagonR, Victoris, Vitara, Fronx</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/chery-tiggo-7-patented-in-india-harrier-xuv7xo-rival-from-jsw/</loc>
     <news:news>
       <news:publication>
@@ -60,6 +165,21 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/chery-tiggo-7-patented-in-india-3.jpg</image:loc>
       <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/trying-to-escape-cops-using-edge-to-edge-sunfilm-cops-are-using-l/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T05:05:00+00:00</news:publication_date>
+      <news:title>RTO Alert: Cops Deploying Light Meters To Bust Tinted Glass &amp; Sunfilm - Huge Fines Explained</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/police_using_light_meters_to_bust_sun_films_dbc9166ea3.webp</image:loc>
+      <image:title>RTO Alert: Cops Deploying Light Meters To Bust Tinted Glass &amp; Sunfilm - Huge Fines Explained</image:title>
     </image:image>
   </url>
   <url>
@@ -93,6 +213,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/will-upcoming-ioniq-p-be-a-real-game-changer-for-hyundai-analysis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T04:00:21+00:00</news:publication_date>
+      <news:title>Will Upcoming Ioniq P Be A Real Game Changer For Hyundai?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/hyundai-ioniq-small-suv-rear.jpg</image:loc>
+      <image:title>Will Upcoming Ioniq P Be A Real Game Changer For Hyundai?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/sanam-teri-kasam-producer-gifts-harshvardhan-rane-a-land-rover-de/</loc>
     <news:news>
       <news:publication>
@@ -123,6 +258,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/5-upcoming-electrified-cars-from-kia-and-hyundai-in-the-next-12-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T03:15:00+00:00</news:publication_date>
+      <news:title>5 Upcoming Electrified Cars From Kia And Hyundai In The Next 12 Months</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_electrified_hyundai_and_kia_cars_launching_in_2027_featured_9a8df05246.webp</image:loc>
+      <image:title>5 Upcoming Electrified Cars From Kia And Hyundai In The Next 12 Months</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/naed-unveils-pv-1-pecvd-v-a-us-engineered-vertical-deposition-pla/</loc>
     <news:news>
       <news:publication>
@@ -150,6 +300,21 @@
     <image:image>
       <image:loc>https://silodrome.com/wp-content/uploads/2026/11/MAN-KAT-1-Rally-Truck-9.jpg</image:loc>
       <image:title>There&#x27;s A MAN &quot;Rothmans Porsche&quot; 4×4 Rally Truck Up For Grabs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/electric-two-wheeler-sales-oct-2026-tvs-heads-bajaj-ather-vida-ol/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T02:30:01+00:00</news:publication_date>
+      <news:title>Electric Two-Wheeler Sales Oct 2026 - TVS Heads Bajaj, Ather, Vida, Ola</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/03/tvs-orbiter-.jpg</image:loc>
+      <image:title>Electric Two-Wheeler Sales Oct 2026 - TVS Heads Bajaj, Ather, Vida, Ola</image:title>
     </image:image>
   </url>
   <url>
@@ -1515,111 +1680,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/heres-how-to-prevent-your-car-windows-from-fogging-up/l-intro-1794410495.jpg</image:loc>
       <image:title>The 10-Second Car Window Defogging Hack That Dealerships Never Teach You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-toyota-innova-hycross-facelift-first-official-teaser-out/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:55:44+00:00</news:publication_date>
-      <news:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-toyota-innova-hycross-teaser-first-official-launch-1.jpg</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/12-of-the-longest-range-electric-suvs-in-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:45:00+00:00</news:publication_date>
-      <news:title>12 Of The Longest Range Electric SUVs In 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/12-of-the-longest-range-electric-suvs-in-2026/l-intro-1794313663.jpg</image:loc>
-      <image:title>12 Of The Longest Range Electric SUVs In 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-cybercabs-autonomy-agreement-is-insane-299mo-or-it-doesnt-m/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:33:00+00:00</news:publication_date>
-      <news:title>Tesla Cybercab&#x27;s autonomy agreement is insane: $299/mo or it doesn&#x27;t move</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla Cybercab&#x27;s autonomy agreement is insane: $299/mo or it doesn&#x27;t move</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/if-the-temerarios-exhaust-note-stopped-you-buying-one-lamborghini/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:25:00+00:00</news:publication_date>
-      <news:title>If The Temerario&#x27;s Exhaust Note Stopped You Buying One, Lamborghini Has Some Good News Made From Titanium</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/if-the-temerarios-exhaust-note-stopped-you-buying-one-lamborghini-has-some-good-news-made-from-titanium/l-intro-1794434173.jpg</image:loc>
-      <image:title>If The Temerario&#x27;s Exhaust Note Stopped You Buying One, Lamborghini Has Some Good News Made From Titanium</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-r/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:02:00+00:00</news:publication_date>
-      <news:title>I finally got a USB-C charging e-bike, and it costs 75% less than Rivian&#x27;s bike</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/05/engwe-zip-foldig-bike-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>I finally got a USB-C charging e-bike, and it costs 75% less than Rivian&#x27;s bike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-to-remove-stubborn-stains-from-car-seats-with-baking-soda/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:00:00+00:00</news:publication_date>
-      <news:title>The Truth Revealed: How To Remove Stubborn Stains From Car Seats With Baking Soda</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/how-to-remove-stubborn-stains-from-car-seats-with-baking-soda/l-intro-1793855486.jpg</image:loc>
-      <image:title>The Truth Revealed: How To Remove Stubborn Stains From Car Seats With Baking Soda</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-subaru-wrx-sti-sport-r-brings-back-the-real-sti-manual-just-n/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T12:58:00+00:00</news:publication_date>
-      <news:title>New Subaru WRX STI Sport R Brings Back The Real STI Manual, Just Not In America</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/subaru-wrx-sti-sport-r-brings-back-the-real-sti-manual-gearbox-just-not-in-america/l-intro-1794660663.jpg</image:loc>
-      <image:title>New Subaru WRX STI Sport R Brings Back The Real STI Manual, Just Not In America</image:title>
     </image:image>
   </url>
 </urlset>
