@@ -3,39 +3,199 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-16T02:24:21Z</lastmod>
+    <lastmod>2026-11-16T09:57:35Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-16T02:24:21Z</lastmod>
+    <lastmod>2026-11-16T09:57:35Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-16T02:24:21Z</lastmod>
+    <lastmod>2026-11-16T09:57:35Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-16T02:24:21Z</lastmod>
+    <lastmod>2026-11-16T09:57:35Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-16T02:24:21Z</lastmod>
+    <lastmod>2026-11-16T09:57:35Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-16T02:24:21Z</lastmod>
+    <lastmod>2026-11-16T09:57:35Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/haas-sticks-with-camara-for-las-vegas-gp-hirakawa-in-for-fp1/</loc>
+    <lastmod>2026-11-16T09:52:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/YWKAR5KY/s6/rafael-camara-haas-f1-team.jpg</image:loc>
+      <image:title>Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/haas-sticks-with-camara-for-las-vegas-gp-hirakawa-in-for-fp1/</loc>
+    <lastmod>2026-11-16T09:52:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn-9.motorsport.com/images/amp/YWKAR5KY/s6/rafael-camara-haas-f1-team.jpg</image:loc>
+      <image:title>Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/vegas-gives-camara-chance-to-put-messy-debut-behind-him/</loc>
+    <lastmod>2026-11-16T09:10:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453194_HiRes.jpg</image:loc>
+      <image:title>Vegas gives Camara chance to put messy debut behind him</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/vegas-gives-camara-chance-to-put-messy-debut-behind-him/</loc>
+    <lastmod>2026-11-16T09:10:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453194_HiRes.jpg</image:loc>
+      <image:title>Vegas gives Camara chance to put messy debut behind him</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chery-tiggo-7-patented-in-india-harrier-xuv7xo-rival-from-jsw/</loc>
+    <lastmod>2026-11-16T05:14:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/chery-tiggo-7-patented-in-india-3.jpg</image:loc>
+      <image:title>Chery Tiggo 7 Patented In India - Harrier, XUV7XO Rival From JSW?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/chery-tiggo-7-patented-in-india-harrier-xuv7xo-rival-from-jsw/</loc>
+    <lastmod>2026-11-16T05:14:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/chery-tiggo-7-patented-in-india-3.jpg</image:loc>
+      <image:title>Chery Tiggo 7 Patented In India - Harrier, XUV7XO Rival From JSW?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/two-seat-suvs-are-stupendously-rare/</loc>
+    <lastmod>2026-11-16T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/two-seat-suvs-are-stupendously-rare/l-intro-1794244212.jpg</image:loc>
+      <image:title>Two-Seat SUVs Are Stupendously Rare</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/two-seat-suvs-are-stupendously-rare/</loc>
+    <lastmod>2026-11-16T04:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/two-seat-suvs-are-stupendously-rare/l-intro-1794244212.jpg</image:loc>
+      <image:title>Two-Seat SUVs Are Stupendously Rare</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-audi-a5-sedan-spied-in-india-without-camouflage-before-launc/</loc>
+    <lastmod>2026-11-16T03:54:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-audi-a5-sedan-spied-in-india-2.jpg</image:loc>
+      <image:title>2027 Audi A5 Sedan Spied In India Without Camouflage Before Launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-audi-a5-sedan-spied-in-india-without-camouflage-before-launc/</loc>
+    <lastmod>2026-11-16T03:54:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-audi-a5-sedan-spied-in-india-2.jpg</image:loc>
+      <image:title>2027 Audi A5 Sedan Spied In India Without Camouflage Before Launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/naed-unveils-pv-1-pecvd-v-a-us-engineered-vertical-deposition-pla/</loc>
+    <lastmod>2026-11-16T02:50:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/pv-1-main-hero-shot-e1794795612887.jpeg</image:loc>
+      <image:title>NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/naed-unveils-pv-1-pecvd-v-a-us-engineered-vertical-deposition-pla/</loc>
+    <lastmod>2026-11-16T02:50:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/pv-1-main-hero-shot-e1794795612887.jpeg</image:loc>
+      <image:title>NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/theres-a-man-rothmans-porsche-44-rally-truck-up-for-grabs/</loc>
+    <lastmod>2026-11-16T02:30:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/MAN-KAT-1-Rally-Truck-9.jpg</image:loc>
+      <image:title>There&#x27;s A MAN &quot;Rothmans Porsche&quot; 4×4 Rally Truck Up For Grabs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/theres-a-man-rothmans-porsche-44-rally-truck-up-for-grabs/</loc>
+    <lastmod>2026-11-16T02:30:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/MAN-KAT-1-Rally-Truck-9.jpg</image:loc>
+      <image:title>There&#x27;s A MAN &quot;Rothmans Porsche&quot; 4×4 Rally Truck Up For Grabs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/high-speed-rail-isnt-just-fast-trains-there-are-rigidly-defined-c/</loc>
+    <lastmod>2026-11-16T02:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/high-speed-rail-isnt-just-fast-trains-there-are-rigidly-defined-categories/l-intro-1794242955.jpg</image:loc>
+      <image:title>High Speed Rail Isn&#x27;t Just Fast Trains, There Are Rigidly Defined Categories</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/high-speed-rail-isnt-just-fast-trains-there-are-rigidly-defined-c/</loc>
+    <lastmod>2026-11-16T02:25:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.jalopnik.com/img/gallery/high-speed-rail-isnt-just-fast-trains-there-are-rigidly-defined-categories/l-intro-1794242955.jpg</image:loc>
+      <image:title>High Speed Rail Isn&#x27;t Just Fast Trains, There Are Rigidly Defined Categories</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/tata-car-sales-2026-overtakes-2025-total-with-2-months-to-spare/</loc>
@@ -2875,166 +3035,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/honda-updates-cbr1000rr-r-fireblade-with-exposed-titanium-tank-and-racing-performance/l-intro-1794596475.jpg</image:loc>
       <image:title>Honda Updates CBR1000RR-R Fireblade With Exposed Titanium Tank And Racing Performance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-is-delaying-another-ev-based-on-the-ssp/</loc>
-    <lastmod>2026-11-13T19:03:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Volkswagen is delaying another EV based on the SSP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/volkswagen-is-delaying-another-ev-based-on-the-ssp/</loc>
-    <lastmod>2026-11-13T19:03:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Volkswagen is delaying another EV based on the SSP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/washington-police-arrest-21-year-old-after-high-speed-chase-in-hi/</loc>
-    <lastmod>2026-11-13T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/washington-police-arrest-21-year-old-after-high-speed-chase-in-his-porsche-911-gt3/l-intro-1794406873.jpg</image:loc>
-      <image:title>Washington Police Arrest 21-Year-Old After High-Speed Chase In His Porsche 911 GT3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/washington-police-arrest-21-year-old-after-high-speed-chase-in-hi/</loc>
-    <lastmod>2026-11-13T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/washington-police-arrest-21-year-old-after-high-speed-chase-in-his-porsche-911-gt3/l-intro-1794406873.jpg</image:loc>
-      <image:title>Washington Police Arrest 21-Year-Old After High-Speed Chase In His Porsche 911 GT3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/theons-oak-green-porsche-911-looks-like-the-perfect-drivers-car/</loc>
-    <lastmod>2026-11-13T18:36:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/theons-oak-green-porsche-911-looks-like-the-perfect-drivers-car/l-intro-1794594896.jpg</image:loc>
-      <image:title>Theon&#x27;s Oak Green Porsche 911 Looks Like The Perfect Driver&#x27;s Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/theons-oak-green-porsche-911-looks-like-the-perfect-drivers-car/</loc>
-    <lastmod>2026-11-13T18:36:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/theons-oak-green-porsche-911-looks-like-the-perfect-drivers-car/l-intro-1794594896.jpg</image:loc>
-      <image:title>Theon&#x27;s Oak Green Porsche 911 Looks Like The Perfect Driver&#x27;s Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-stops-selling-every-cybertruck-except-the-109990-cyberbeast/</loc>
-    <lastmod>2026-11-13T18:13:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla stops selling every Cybertruck except the $109,990 Cyberbeast</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-stops-selling-every-cybertruck-except-the-109990-cyberbeast/</loc>
-    <lastmod>2026-11-13T18:13:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla stops selling every Cybertruck except the $109,990 Cyberbeast</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-is-overhauling-the-kona-and-it-looks-like-it-may-still-be/</loc>
-    <lastmod>2026-11-13T17:47:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundai-is-overhauling-the-kona-and-it-looks-like-it-may-still-be/</loc>
-    <lastmod>2026-11-13T17:47:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&amp;strip=all&amp;w=1400</image:loc>
-      <image:title>Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-acura-integra-type-s/</loc>
-    <lastmod>2026-11-13T17:40:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f44705d1-9439-4417-9624-fd0b3f9a08d3.jpg?crop=0.477xw:0.358xh;0.154xw,0.275xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Acura Integra Type S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-acura-integra-type-s/</loc>
-    <lastmod>2026-11-13T17:40:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/f44705d1-9439-4417-9624-fd0b3f9a08d3.jpg?crop=0.477xw:0.358xh;0.154xw,0.275xh&amp;resize=1200:*</image:loc>
-      <image:title>2027 Acura Integra Type S</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/view-photos-of-the-2027-acura-integra-type-s/</loc>
-    <lastmod>2026-11-13T17:37:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7aa61686-dca4-45f6-a060-3c0ab95333f6.jpg</image:loc>
-      <image:title>First Look: The 2027 Acura Integra Type S Revealed In Stunning Detail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/view-photos-of-the-2027-acura-integra-type-s/</loc>
-    <lastmod>2026-11-13T17:37:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/7aa61686-dca4-45f6-a060-3c0ab95333f6.jpg</image:loc>
-      <image:title>First Look: The 2027 Acura Integra Type S Revealed In Stunning Detail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rimac-is-reportedly-ending-nevera-production-after-selling-just-7/</loc>
-    <lastmod>2026-11-13T17:30:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/nevera-time-attack-8-64dfbd9801268.jpg</image:loc>
-      <image:title>Rimac Is Reportedly Ending Nevera Production After Selling Just 71 Cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rimac-is-reportedly-ending-nevera-production-after-selling-just-7/</loc>
-    <lastmod>2026-11-13T17:30:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/nevera-time-attack-8-64dfbd9801268.jpg</image:loc>
-      <image:title>Rimac Is Reportedly Ending Nevera Production After Selling Just 71 Cars</image:title>
     </image:image>
   </url>
 </urlset>
