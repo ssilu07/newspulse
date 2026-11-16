@@ -3,39 +3,119 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-16T14:51:26Z</lastmod>
+    <lastmod>2026-11-16T19:46:31Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-16T14:51:26Z</lastmod>
+    <lastmod>2026-11-16T19:46:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-16T14:51:26Z</lastmod>
+    <lastmod>2026-11-16T19:46:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-16T14:51:26Z</lastmod>
+    <lastmod>2026-11-16T19:46:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-16T14:51:26Z</lastmod>
+    <lastmod>2026-11-16T19:46:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-16T14:51:26Z</lastmod>
+    <lastmod>2026-11-16T19:46:31Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/skoda-vw-sales-breakup-oct-2026-kylaq-slavia-kushaq-virtus-taigun/</loc>
+    <lastmod>2026-11-16T17:28:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/03/skoda-kylaq-sales-feb-2025.jpeg</image:loc>
+      <image:title>Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/skoda-vw-sales-breakup-oct-2026-kylaq-slavia-kushaq-virtus-taigun/</loc>
+    <lastmod>2026-11-16T17:28:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/03/skoda-kylaq-sales-feb-2025.jpeg</image:loc>
+      <image:title>Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-racing-unveils-804-bhp-m13electro-for-2027-formula-e-sea/</loc>
+    <lastmod>2026-11-16T17:10:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-racing-formula-e-new-2027-car-1.jpg</image:loc>
+      <image:title>Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-racing-unveils-804-bhp-m13electro-for-2027-formula-e-sea/</loc>
+    <lastmod>2026-11-16T17:10:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-racing-formula-e-new-2027-car-1.jpg</image:loc>
+      <image:title>Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/evs-outgrow-petrol-diesel-cars-during-festive-season-reason-is-si/</loc>
+    <lastmod>2026-11-16T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/festive_season_ev_sales_44e35b0dba.webp</image:loc>
+      <image:title>EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/evs-outgrow-petrol-diesel-cars-during-festive-season-reason-is-si/</loc>
+    <lastmod>2026-11-16T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/festive_season_ev_sales_44e35b0dba.webp</image:loc>
+      <image:title>EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-audi-a5-spotted-in-india-without-camouflage-launch-in-2027/</loc>
+    <lastmod>2026-11-16T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/audi_a5_spied_in_india_without_camouflage_689e8cb7c5.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-audi-a5-spotted-in-india-without-camouflage-launch-in-2027/</loc>
+    <lastmod>2026-11-16T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/audi_a5_spied_in_india_without_camouflage_689e8cb7c5.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/4500-kia-sorentos-sold-since-launch/</loc>
@@ -418,6 +498,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/byd-will-now-be-able-to-sell-a-lot-more-electric-cars-in-india-he/</loc>
+    <lastmod>2026-11-16T02:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/byd_india_sales_to_increase_actual_reason_fa271052b5.webp</image:loc>
+      <image:title>BYD Will Now Be Able To Sell A Lot More Electric Cars In India: Here&#x27;s Why</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-will-now-be-able-to-sell-a-lot-more-electric-cars-in-india-he/</loc>
+    <lastmod>2026-11-16T02:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/byd_india_sales_to_increase_actual_reason_fa271052b5.webp</image:loc>
+      <image:title>BYD Will Now Be Able To Sell A Lot More Electric Cars In India: Here&#x27;s Why</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/theres-a-man-rothmans-porsche-44-rally-truck-up-for-grabs/</loc>
     <lastmod>2026-11-16T02:30:32+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -478,6 +578,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/5-electric-suv-launches-confirmed-for-2027-hyundai-ioniq-p-to-tat/</loc>
+    <lastmod>2026-11-16T02:17:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_electric_suvs_2027_ced0e6254f.webp</image:loc>
+      <image:title>5 Electric SUV Launches Confirmed For 2027: Hyundai IONIQ P To Tata Safari.EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/5-electric-suv-launches-confirmed-for-2027-hyundai-ioniq-p-to-tat/</loc>
+    <lastmod>2026-11-16T02:17:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_electric_suvs_2027_ced0e6254f.webp</image:loc>
+      <image:title>5 Electric SUV Launches Confirmed For 2027: Hyundai IONIQ P To Tata Safari.EV</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tata-car-sales-2026-overtakes-2025-total-with-2-months-to-spare/</loc>
     <lastmod>2026-11-16T01:50:50+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -498,6 +618,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/jsw-motors-to-displace-tata-motors-as-biggest-exhibitor-at-bharat/</loc>
+    <lastmod>2026-11-16T01:46:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_motors_to_have_bigger_bharat_mobility_expo_pavilion_than_tata_motors_featured_455ee5355d.webp</image:loc>
+      <image:title>JSW Motors To Displace Tata Motors As Biggest Exhibitor At Bharat Mobility Expo 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-motors-to-displace-tata-motors-as-biggest-exhibitor-at-bharat/</loc>
+    <lastmod>2026-11-16T01:46:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_motors_to_have_bigger_bharat_mobility_expo_pavilion_than_tata_motors_featured_455ee5355d.webp</image:loc>
+      <image:title>JSW Motors To Displace Tata Motors As Biggest Exhibitor At Bharat Mobility Expo 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/top-10-two-wheeler-brands-oct-2026-honda-hero-tvs-bajaj-royal-enf/</loc>
     <lastmod>2026-11-16T01:30:21+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -515,6 +655,26 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Honda-CB350C-Special-Edition.jpg</image:loc>
       <image:title>Top 10 Two-Wheeler Brands Oct 2026 - Honda, Hero, TVS, Bajaj, Royal Enfield</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-new-sub-4-metre-suvs-launching-in-the-next-12-months-mahindra-v/</loc>
+    <lastmod>2026-11-16T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/7_new_sub_4m_suv_in_12_months_d9604ea359.webp</image:loc>
+      <image:title>7 New Sub-4 Metre SUVs Launching In The Next 12 Months: Mahindra Vision S To Renault Bridger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/7-new-sub-4-metre-suvs-launching-in-the-next-12-months-mahindra-v/</loc>
+    <lastmod>2026-11-16T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/7_new_sub_4m_suv_in_12_months_d9604ea359.webp</image:loc>
+      <image:title>7 New Sub-4 Metre SUVs Launching In The Next 12 Months: Mahindra Vision S To Renault Bridger</image:title>
     </image:image>
   </url>
   <url>
@@ -918,6 +1078,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/2-new-affordable-bmw-twin-cylinder-bikes-launching-soon/</loc>
+    <lastmod>2026-11-15T16:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/upcoming_bmw_twin_cylinder_affordable_450cc_motorcycles_featured_a8dc0c6371.webp</image:loc>
+      <image:title>2 New Affordable BMW Twin Cylinder Bikes Launching Soon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2-new-affordable-bmw-twin-cylinder-bikes-launching-soon/</loc>
+    <lastmod>2026-11-15T16:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/upcoming_bmw_twin_cylinder_affordable_450cc_motorcycles_featured_a8dc0c6371.webp</image:loc>
+      <image:title>2 New Affordable BMW Twin Cylinder Bikes Launching Soon</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/is-tesla-rushing-out-a-half-baked-cybercab-just-to-shave-mkbhds-h/</loc>
     <lastmod>2026-11-15T16:31:24+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -955,6 +1135,26 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-new-adventure-bikes-launching-in-6-months-himalayan-750-to-hero/</loc>
+    <lastmod>2026-11-15T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_advs_in_6_months_9a8868795b.webp</image:loc>
+      <image:title>5 New Adventure Bikes Launching In 6 months: Himalayan 750 To Hero XPulse 450</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/5-new-adventure-bikes-launching-in-6-months-himalayan-750-to-hero/</loc>
+    <lastmod>2026-11-15T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_advs_in_6_months_9a8868795b.webp</image:loc>
+      <image:title>5 New Adventure Bikes Launching In 6 months: Himalayan 750 To Hero XPulse 450</image:title>
     </image:image>
   </url>
   <url>
@@ -2835,206 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/tata-sierra-ev-review-images-2.jpg</image:loc>
       <image:title>Tata Car Sales Breakup Oct 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier, Altroz, Curvv, Safari</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/royal-enfield-posts-highest-ever-quarterly-bike-sales-with-376-la/</loc>
-    <lastmod>2026-11-14T02:30:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/royal-enfield-himalayan-440.jpg</image:loc>
-      <image:title>Royal Enfield Posts Highest Ever Quarterly Bike Sales With 3.76 Lakh+ Units</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/royal-enfield-posts-highest-ever-quarterly-bike-sales-with-376-la/</loc>
-    <lastmod>2026-11-14T02:30:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/royal-enfield-himalayan-440.jpg</image:loc>
-      <image:title>Royal Enfield Posts Highest Ever Quarterly Bike Sales With 3.76 Lakh+ Units</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-cybercab-orders-open-at-29990-299mo-only-in-robotaxi-zones/</loc>
-    <lastmod>2026-11-14T02:11:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-cybercab-orders-open-at-29990-299mo-only-in-robotaxi-zones/</loc>
-    <lastmod>2026-11-14T02:11:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/10-reasons-for-the-big-blue-wave/</loc>
-    <lastmod>2026-11-14T01:10:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Blue-Tsunami-2026-US-Midterm-Election.png</image:loc>
-      <image:title>10 Reasons for the Big Blue Wave</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/10-reasons-for-the-big-blue-wave/</loc>
-    <lastmod>2026-11-14T01:10:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Blue-Tsunami-2026-US-Midterm-Election.png</image:loc>
-      <image:title>10 Reasons for the Big Blue Wave</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rinnais-new-heat-pump-water-heaters-get-smarter-and-easier-to-ins/</loc>
-    <lastmod>2026-11-14T00:53:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/3583_Rinnai_REHP_Storage_0000.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Rinnai&#x27;s new heat pump water heaters get smarter</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rinnais-new-heat-pump-water-heaters-get-smarter-and-easier-to-ins/</loc>
-    <lastmod>2026-11-14T00:53:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/3583_Rinnai_REHP_Storage_0000.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Rinnai&#x27;s new heat pump water heaters get smarter</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hydropower-generation-in-the-southwest-fell-to-record-lows-this-s/</loc>
-    <lastmod>2026-11-13T23:17:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/US-Southwest-Hydropower-Generation-Monthly.png</image:loc>
-      <image:title>Hydropower Generation in the Southwest Fell to Record Lows This Summer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hydropower-generation-in-the-southwest-fell-to-record-lows-this-s/</loc>
-    <lastmod>2026-11-13T23:17:06+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/US-Southwest-Hydropower-Generation-Monthly.png</image:loc>
-      <image:title>Hydropower Generation in the Southwest Fell to Record Lows This Summer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/john-hennessey-says-the-blackbird-is-about-much-more-than-big-num/</loc>
-    <lastmod>2026-11-13T23:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/john-hennessey-says-the-blackbird-is-about-much-more-than-big-numbers/l-intro-1794602449.jpg</image:loc>
-      <image:title>John Hennessey Says The Blackbird Is About Much More Than Big Numbers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/john-hennessey-says-the-blackbird-is-about-much-more-than-big-num/</loc>
-    <lastmod>2026-11-13T23:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/john-hennessey-says-the-blackbird-is-about-much-more-than-big-numbers/l-intro-1794602449.jpg</image:loc>
-      <image:title>John Hennessey Says The Blackbird Is About Much More Than Big Numbers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-isnt-a-new-ducati-its-actually-a-chinese-superbike/</loc>
-    <lastmod>2026-11-13T22:42:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-isnt-a-new-ducati-its-actually-a-chinese-superbike/l-intro-1794609567.jpg</image:loc>
-      <image:title>This Isn&#x27;t A New Ducati, It&#x27;s Actually A Chinese Superbike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-isnt-a-new-ducati-its-actually-a-chinese-superbike/</loc>
-    <lastmod>2026-11-13T22:42:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/this-isnt-a-new-ducati-its-actually-a-chinese-superbike/l-intro-1794609567.jpg</image:loc>
-      <image:title>This Isn&#x27;t A New Ducati, It&#x27;s Actually A Chinese Superbike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-/</loc>
-    <lastmod>2026-11-13T22:41:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-riverboat-in-new-orleans/l-intro-1794609632.jpg</image:loc>
-      <image:title>32 Hospitalized After Asphalt Tanker Slams Into And Sinks Docked Riverboat In New Orleans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-/</loc>
-    <lastmod>2026-11-13T22:41:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/32-hospitalized-after-asphalt-tanker-slams-into-and-sinks-docked-riverboat-in-new-orleans/l-intro-1794609632.jpg</image:loc>
-      <image:title>32 Hospitalized After Asphalt Tanker Slams Into And Sinks Docked Riverboat In New Orleans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ask-a-scientist-who-has-a-voice-in-clean-air-protections/</loc>
-    <lastmod>2026-11-13T22:38:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/06/NYC-bike-path-CleanTechnica.jpg</image:loc>
-      <image:title>Ask a Scientist: Who Has a Voice in Clean Air Protections?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ask-a-scientist-who-has-a-voice-in-clean-air-protections/</loc>
-    <lastmod>2026-11-13T22:38:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2025/06/NYC-bike-path-CleanTechnica.jpg</image:loc>
-      <image:title>Ask a Scientist: Who Has a Voice in Clean Air Protections?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/spied-ford-may-finally-be-working-on-a-two-door-f-150-lobo-street/</loc>
-    <lastmod>2026-11-13T22:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/719b859d-c30c-422a-876c-0ba9006dfd81.png</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/spied-ford-may-finally-be-working-on-a-two-door-f-150-lobo-street/</loc>
-    <lastmod>2026-11-13T22:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/719b859d-c30c-422a-876c-0ba9006dfd81.png</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
 </urlset>

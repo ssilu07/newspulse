@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/skoda-vw-sales-breakup-oct-2026-kylaq-slavia-kushaq-virtus-taigun/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T17:28:32+00:00</news:publication_date>
+      <news:title>Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/03/skoda-kylaq-sales-feb-2025.jpeg</image:loc>
+      <image:title>Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-racing-unveils-804-bhp-m13electro-for-2027-formula-e-sea/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T17:10:39+00:00</news:publication_date>
+      <news:title>Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-racing-formula-e-new-2027-car-1.jpg</image:loc>
+      <image:title>Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/evs-outgrow-petrol-diesel-cars-during-festive-season-reason-is-si/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T16:05:00+00:00</news:publication_date>
+      <news:title>EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/festive_season_ev_sales_44e35b0dba.webp</image:loc>
+      <image:title>EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-audi-a5-spotted-in-india-without-camouflage-launch-in-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T15:05:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/audi_a5_spied_in_india_without_camouflage_689e8cb7c5.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/4500-kia-sorentos-sold-since-launch/</loc>
     <news:news>
       <news:publication>
@@ -288,6 +348,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/byd-will-now-be-able-to-sell-a-lot-more-electric-cars-in-india-he/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T02:42:00+00:00</news:publication_date>
+      <news:title>BYD Will Now Be Able To Sell A Lot More Electric Cars In India: Here&#x27;s Why</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/byd_india_sales_to_increase_actual_reason_fa271052b5.webp</image:loc>
+      <image:title>BYD Will Now Be Able To Sell A Lot More Electric Cars In India: Here&#x27;s Why</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/theres-a-man-rothmans-porsche-44-rally-truck-up-for-grabs/</loc>
     <news:news>
       <news:publication>
@@ -333,6 +408,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/5-electric-suv-launches-confirmed-for-2027-hyundai-ioniq-p-to-tat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T02:17:00+00:00</news:publication_date>
+      <news:title>5 Electric SUV Launches Confirmed For 2027: Hyundai IONIQ P To Tata Safari.EV</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_electric_suvs_2027_ced0e6254f.webp</image:loc>
+      <image:title>5 Electric SUV Launches Confirmed For 2027: Hyundai IONIQ P To Tata Safari.EV</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tata-car-sales-2026-overtakes-2025-total-with-2-months-to-spare/</loc>
     <news:news>
       <news:publication>
@@ -348,6 +438,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/jsw-motors-to-displace-tata-motors-as-biggest-exhibitor-at-bharat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T01:46:00+00:00</news:publication_date>
+      <news:title>JSW Motors To Displace Tata Motors As Biggest Exhibitor At Bharat Mobility Expo 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_motors_to_have_bigger_bharat_mobility_expo_pavilion_than_tata_motors_featured_455ee5355d.webp</image:loc>
+      <image:title>JSW Motors To Displace Tata Motors As Biggest Exhibitor At Bharat Mobility Expo 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/top-10-two-wheeler-brands-oct-2026-honda-hero-tvs-bajaj-royal-enf/</loc>
     <news:news>
       <news:publication>
@@ -360,6 +465,21 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Honda-CB350C-Special-Edition.jpg</image:loc>
       <image:title>Top 10 Two-Wheeler Brands Oct 2026 - Honda, Hero, TVS, Bajaj, Royal Enfield</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/7-new-sub-4-metre-suvs-launching-in-the-next-12-months-mahindra-v/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T01:15:00+00:00</news:publication_date>
+      <news:title>7 New Sub-4 Metre SUVs Launching In The Next 12 Months: Mahindra Vision S To Renault Bridger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/7_new_sub_4m_suv_in_12_months_d9604ea359.webp</image:loc>
+      <image:title>7 New Sub-4 Metre SUVs Launching In The Next 12 Months: Mahindra Vision S To Renault Bridger</image:title>
     </image:image>
   </url>
   <url>
@@ -663,6 +783,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/2-new-affordable-bmw-twin-cylinder-bikes-launching-soon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T16:42:00+00:00</news:publication_date>
+      <news:title>2 New Affordable BMW Twin Cylinder Bikes Launching Soon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/upcoming_bmw_twin_cylinder_affordable_450cc_motorcycles_featured_a8dc0c6371.webp</image:loc>
+      <image:title>2 New Affordable BMW Twin Cylinder Bikes Launching Soon</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/is-tesla-rushing-out-a-half-baked-cybercab-just-to-shave-mkbhds-h/</loc>
     <news:news>
       <news:publication>
@@ -690,6 +825,21 @@
     <image:image>
       <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
       <image:title>Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-new-adventure-bikes-launching-in-6-months-himalayan-750-to-hero/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T16:05:00+00:00</news:publication_date>
+      <news:title>5 New Adventure Bikes Launching In 6 months: Himalayan 750 To Hero XPulse 450</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_advs_in_6_months_9a8868795b.webp</image:loc>
+      <image:title>5 New Adventure Bikes Launching In 6 months: Himalayan 750 To Hero XPulse 450</image:title>
     </image:image>
   </url>
   <url>
@@ -1395,291 +1545,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/do-you-really-need-to-change-your-oil-every-5000-miles/l-intro-1794432867.jpg</image:loc>
       <image:title>Do You Really Need To Change Your Oil Every 5,000 Miles?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ai-businesses-still-bleeding-billions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T19:08:46+00:00</news:publication_date>
-      <news:title>Inside Look: AI Businesses Still Bleeding Billions - What Every Indian Car Owner Must Know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
-      <image:title>Inside Look: AI Businesses Still Bleeding Billions - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-much-power-would-an-evs-solar-roof-provide/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T19:05:00+00:00</news:publication_date>
-      <news:title>The Truth Revealed: How Much Power Would An EV&#x27;s Solar Roof Provide?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/how-much-power-would-an-evs-solar-roof-provide/l-intro-1793820224.jpg</image:loc>
-      <image:title>The Truth Revealed: How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T19:00:00+00:00</news:publication_date>
-      <news:title>The Truth Revealed: How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt-driven/l-intro-1794427747.jpg</image:loc>
-      <image:title>The Truth Revealed: How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-some-traffic-lights-have-a-yellow-border/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T18:25:00+00:00</news:publication_date>
-      <news:title>The Hidden Reason Why Some Traffic Lights Have A Yellow Border</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-some-traffic-lights-have-a-yellow-border/l-intro-1794607802.jpg</image:loc>
-      <image:title>The Hidden Reason Why Some Traffic Lights Have A Yellow Border</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/study-pinpoints-states-with-steepest-warming-trends-since-1980/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T18:19:27+00:00</news:publication_date>
-      <news:title>Study Pinpoints States with Steepest Warming Trends Since 1980</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Global-heating-across-the-US-states.png</image:loc>
-      <image:title>Study Pinpoints States with Steepest Warming Trends Since 1980</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-5-worst-rebadges-in-automotive-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T18:00:00+00:00</news:publication_date>
-      <news:title>The 5 Worst Rebadges In Automotive History</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/the-5-worst-rebadges-in-automotive-history/l-intro-1794314235.jpg</image:loc>
-      <image:title>The 5 Worst Rebadges In Automotive History</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/zoox-launches-robotaxis-in-atlanta/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T17:44:08+00:00</news:publication_date>
-      <news:title>Inside Look: Zoox Launches Robotaxis in Atlanta - What Every Indian Car Owner Must Know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Zoox-Robotaxi-Atlanta.jpeg</image:loc>
-      <image:title>Inside Look: Zoox Launches Robotaxis in Atlanta - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/check-your-ego-at-the-door-stellantis-new-electric-dolly-turns-an/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T17:35:39+00:00</news:publication_date>
-      <news:title>Check your ego at the door: Stellantis&#x27; new electric dolly turns ANY car into a tow rig</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/500e_HAUL_MONSTER.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Check your ego at the door: Stellantis&#x27; new electric dolly turns ANY car into a tow rig</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hot-wheels-crowns-a-1979-ss-monte-mino-as-the-2026-legends-winner/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T17:30:00+00:00</news:publication_date>
-      <news:title>Hot Wheels Crowns a 1979 &#x27;SS Monte Mino&#x27; as the 2026 Legends Winner</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://hips.hearstapps.com/hmg-prod/images/2479e4b5-6032-4676-8198-fbe71e7e1871.jpeg</image:loc>
-      <image:title>Hot Wheels Crowns a 1979 &#x27;SS Monte Mino&#x27; as the 2026 Legends Winner</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-using-launch-control-hard-on-your-car-especially-if-you-use-it/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T17:25:00+00:00</news:publication_date>
-      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/is-using-launch-control-hard-on-your-car-especially-if-you-use-it-a-lot/l-intro-1793960152.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/diesel-prices-used-to-be-cheaper-than-gas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T17:05:00+00:00</news:publication_date>
-      <news:title>Diesel Prices Used To Be Cheaper Than Gas</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/diesel-prices-used-to-be-cheaper-than-gas-heres-why-that-changed/l-intro-1794587705.jpg</image:loc>
-      <image:title>Diesel Prices Used To Be Cheaper Than Gas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-pays-tribute-to-alex-zanardi-with-a-very-special-m3/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T17:00:00+00:00</news:publication_date>
-      <news:title>BMW Pays Tribute To Alex Zanardi With A Very Special M3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/bmw-pays-tribute-to-alex-zanardi-with-a-very-special-m3/l-intro-1794420620.jpg</image:loc>
-      <image:title>BMW Pays Tribute To Alex Zanardi With A Very Special M3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-batte/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T16:25:02+00:00</news:publication_date>
-      <news:title>Huawei set to challenge Tesla Powerwall with new, 20 kW home battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/huawei_home-battery.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Huawei set to challenge Tesla Powerwall with new, 20 kW home battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-us-is-auctioning-seabed-near-american-samoa-a-3-million-bid-w/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T16:13:50+00:00</news:publication_date>
-      <news:title>The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/hero.png</image:loc>
-      <image:title>The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/was-the-tesla-roadster-reveal-realistic-engineering-explained-fac/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T16:05:00+00:00</news:publication_date>
-      <news:title>Was The Tesla Roadster Reveal Realistic? Engineering Explained Fact Checked It</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/was-the-tesla-roadster-reveal-realistic-engineering-explained-fact-checked-it/l-intro-1793976928.jpg</image:loc>
-      <image:title>Was The Tesla Roadster Reveal Realistic? Engineering Explained Fact Checked It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-do-all-the-flags-mean-in-racing/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T16:00:00+00:00</news:publication_date>
-      <news:title>Inside Look: What Really Happens With Do All The Flags Mean In Racing?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-do-all-the-flags-mean-in-racing/l-intro-1794349066.jpg</image:loc>
-      <image:title>Inside Look: What Really Happens With Do All The Flags Mean In Racing?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T15:05:00+00:00</news:publication_date>
-      <news:title>This Tractor Supply Mini-Excavator May Not Be The Smallest, But It Is One Of The Cutest</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it-is-one-of-the-cutest/l-intro-1794600593.jpg</image:loc>
-      <image:title>This Tractor Supply Mini-Excavator May Not Be The Smallest, But It Is One Of The Cutest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/are-there-differences-between-lexus-and-toyota-engines/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T15:00:00+00:00</news:publication_date>
-      <news:title>Are There Differences Between Lexus And Toyota Engines?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/are-there-differences-between-lexus-and-toyota-engines/l-intro-1794284590.jpg</image:loc>
-      <image:title>Are There Differences Between Lexus And Toyota Engines?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/heres-how-to-prevent-your-car-windows-from-fogging-up/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T15:00:00+00:00</news:publication_date>
-      <news:title>The 10-Second Car Window Defogging Hack That Dealerships Never Teach You</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/heres-how-to-prevent-your-car-windows-from-fogging-up/l-intro-1794410495.jpg</image:loc>
-      <image:title>The 10-Second Car Window Defogging Hack That Dealerships Never Teach You</image:title>
     </image:image>
   </url>
 </urlset>
