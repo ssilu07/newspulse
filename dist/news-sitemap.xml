@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/5-upcoming-rugged-suvs-for-india-toyota-fortuner-to-mahindra-life/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:45:00+00:00</news:publication_date>
+      <news:title>5 Upcoming Rugged SUVs For India: Toyota Fortuner To Mahindra Lifestyler</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_rugged_suvs_launching_soon_8385e8d523.webp</image:loc>
+      <image:title>5 Upcoming Rugged SUVs For India: Toyota Fortuner To Mahindra Lifestyler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-denza-d9-luxury-mpv-vs-rivals-compared-mg-m9-v-class-vellfire/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:37:05+00:00</news:publication_date>
+      <news:title>BYD Denza D9 Luxury MPV vs Rivals Compared - MG M9, V-Class, Vellfire</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-denza-d9-luxury-mpv-vs-rivals-cover-new.jpg</image:loc>
+      <image:title>BYD Denza D9 Luxury MPV vs Rivals Compared - MG M9, V-Class, Vellfire</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/maruti-800-becomes-first-indian-car-to-win-fiva-world-vehicle-her/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:30:48+00:00</news:publication_date>
+      <news:title>Maruti 800 Becomes First Indian Car To Win FIVA World Vehicle Heritage Award</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/MARUTI-SUZUKI-800-FIVA-WORLD-HERITAGE-AWARD.jpeg.jpg</image:loc>
+      <image:title>Maruti 800 Becomes First Indian Car To Win FIVA World Vehicle Heritage Award</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-new-royal-enfields-launching-starting-this-month-himalayan-750-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:15:00+00:00</news:publication_date>
+      <news:title>5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_royal_enfields_a813b17978.webp</image:loc>
+      <image:title>5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/skoda-vw-sales-breakup-oct-2026-kylaq-slavia-kushaq-virtus-taigun/</loc>
     <news:news>
       <news:publication>
@@ -1413,6 +1473,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/tatas-5-upcoming-electric-cars-safariev-to-kuno/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T03:15:00+00:00</news:publication_date>
+      <news:title>Tata&#x27;s 5 Upcoming Electric Cars: Safari.EV To Kuno</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_tata_electric_cars_069a068aa0.webp</image:loc>
+      <image:title>Tata&#x27;s 5 Upcoming Electric Cars: Safari.EV To Kuno</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tata-sales-analysis-october-2026-nexon-punch-tiago-sierra-aeris-h/</loc>
     <news:news>
       <news:publication>
@@ -1440,81 +1515,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/this-honda-civic-is-the-direct-ancestor-of-the-og-tesla-roadster/l-intro-1793980209.jpg</image:loc>
       <image:title>This Honda Civic Is The Direct Ancestor Of The OG Tesla Roadster</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-the-us-midterm-elections-mean-for-climate-progress/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T00:52:25+00:00</news:publication_date>
-      <news:title>Inside Look: What Really Happens With The US Midterm Elections Mean For Climate Progress</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/05/Florida-sunset-Cynthia-Shahan.jpeg</image:loc>
-      <image:title>Inside Look: What Really Happens With The US Midterm Elections Mean For Climate Progress</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-crucial-difference-between-flock-cameras-and-plate-readers-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T00:50:00+00:00</news:publication_date>
-      <news:title>The Crucial Difference Between Flock Cameras And Plate Readers In Other Countries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-crucial-difference-between-flock-cameras-and-plate-readers-in-other-countries/l-intro-1794692445.jpg</image:loc>
-      <image:title>The Crucial Difference Between Flock Cameras And Plate Readers In Other Countries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/34-billion-anthropic-order-for-gas-power-plants/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T00:33:38+00:00</news:publication_date>
-      <news:title>$3.4 Billion - Anthropic Order for Gas Power Plants!</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Caterpillar-gas-engine-genset.jpg</image:loc>
-      <image:title>$3.4 Billion - Anthropic Order for Gas Power Plants!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-a-road-sign-with-a-black-y-means-and-other-letters-too/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T00:25:00+00:00</news:publication_date>
-      <news:title>Inside Look: What Really Happens With A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-a-road-sign-with-a-black-y-means-and-other-letters-too/l-intro-1793739871.jpg</image:loc>
-      <image:title>Inside Look: What Really Happens With A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/every-car-brand-thats-made-a-v10-powered-sedan/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T23:25:00+00:00</news:publication_date>
-      <news:title>Every Car Brand That&#x27;s Made A V10-Powered Sedan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/every-car-brand-thats-made-a-v10-powered-sedan/l-intro-1793978663.jpg</image:loc>
-      <image:title>Every Car Brand That&#x27;s Made A V10-Powered Sedan</image:title>
     </image:image>
   </url>
 </urlset>
