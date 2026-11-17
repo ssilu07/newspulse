@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-17T04:47:35Z</lastmod>
+    <lastmod>2026-11-17T10:53:53Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-17T04:47:35Z</lastmod>
+    <lastmod>2026-11-17T10:53:53Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-17T04:47:35Z</lastmod>
+    <lastmod>2026-11-17T10:53:53Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-17T04:47:35Z</lastmod>
+    <lastmod>2026-11-17T10:53:53Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-17T04:47:35Z</lastmod>
+    <lastmod>2026-11-17T10:53:53Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-17T04:47:35Z</lastmod>
+    <lastmod>2026-11-17T10:53:53Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-neira-electric-mpv-revealed-ahead-of-market-launch/</loc>
+    <lastmod>2026-11-17T10:40:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_neira_mpv_revealed_b7c750b881.webp</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-neira-electric-mpv-revealed-ahead-of-market-launch/</loc>
+    <lastmod>2026-11-17T10:40:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_neira_mpv_revealed_b7c750b881.webp</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ampere-fy27-registrations-beat-greaves-full-year-fy26-total/</loc>
+    <lastmod>2026-11-17T10:31:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Ampere-FY27-registrations-up.jpeg</image:loc>
+      <image:title>Ampere FY27 Registrations Beat Greaves&#x27; Full-Year FY26 Total</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ampere-fy27-registrations-beat-greaves-full-year-fy26-total/</loc>
+    <lastmod>2026-11-17T10:31:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Ampere-FY27-registrations-up.jpeg</image:loc>
+      <image:title>Ampere FY27 Registrations Beat Greaves&#x27; Full-Year FY26 Total</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-jsw-new-energy-suvs-to-launch-in-12-months-launch-timelines/</loc>
+    <lastmod>2026-11-17T10:19:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_new_jsw_12_months_32c2ff9343.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-new-jsw-new-energy-suvs-to-launch-in-12-months-launch-timelines/</loc>
+    <lastmod>2026-11-17T10:19:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_new_jsw_12_months_32c2ff9343.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/evs-outsell-ice-powered-cars-in-festive-season-record-69-yoy-grow/</loc>
+    <lastmod>2026-11-17T10:00:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2023/09/2023-tata-nexon-ev-facelift-30.jpg</image:loc>
+      <image:title>EVs Outsell ICE-Powered Cars In Festive Season, Record 69% YoY Growth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/evs-outsell-ice-powered-cars-in-festive-season-record-69-yoy-grow/</loc>
+    <lastmod>2026-11-17T10:00:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2023/09/2023-tata-nexon-ev-facelift-30.jpg</image:loc>
+      <image:title>EVs Outsell ICE-Powered Cars In Festive Season, Record 69% YoY Growth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-10-electric-scooters-oct-2026-chetak-iqube-vida-rizta-orbiter/</loc>
+    <lastmod>2026-11-17T09:18:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/01/bajaj-chetak-c25-first-ride-review.jpg</image:loc>
+      <image:title>Top 10 Electric Scooters Oct 2026 - Chetak, iQube, Vida, Rizta, Orbiter, Magnus, Konarc, Indie</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/top-10-electric-scooters-oct-2026-chetak-iqube-vida-rizta-orbiter/</loc>
+    <lastmod>2026-11-17T09:18:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/01/bajaj-chetak-c25-first-ride-review.jpg</image:loc>
+      <image:title>Top 10 Electric Scooters Oct 2026 - Chetak, iQube, Vida, Rizta, Orbiter, Magnus, Konarc, Indie</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-bayon-hx3-second-base-variant-on-video/</loc>
+    <lastmod>2026-11-17T09:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_bayon_hx3_variant_walkaround_video_34530e4257.webp</image:loc>
+      <image:title>Hyundai Bayon HX3: Second Base Variant On Video</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-bayon-hx3-second-base-variant-on-video/</loc>
+    <lastmod>2026-11-17T09:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_bayon_hx3_variant_walkaround_video_34530e4257.webp</image:loc>
+      <image:title>Hyundai Bayon HX3: Second Base Variant On Video</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-mini-cooper-se-paul-smith-edition-bookings-open-in-india/</loc>
+    <lastmod>2026-11-17T08:52:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/MINI-Convertible-Paul-Smith-Edition.jpeg</image:loc>
+      <image:title>New MINI Cooper SE, Paul Smith Edition: Bookings Open in India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-mini-cooper-se-paul-smith-edition-bookings-open-in-india/</loc>
+    <lastmod>2026-11-17T08:52:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/MINI-Convertible-Paul-Smith-Edition.jpeg</image:loc>
+      <image:title>New MINI Cooper SE, Paul Smith Edition: Bookings Open in India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-10-two-wheelers-oct-2026-splendor-activa-shine-jupiter-pulsar/</loc>
+    <lastmod>2026-11-17T08:40:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/01/2w-sales-and-exports-nov-2024-cover-splendor.jpg</image:loc>
+      <image:title>Top 10 Two Wheelers Oct 2026 - Splendor, Activa, Shine, Jupiter, Pulsar, Deluxe, Access, Apache</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/top-10-two-wheelers-oct-2026-splendor-activa-shine-jupiter-pulsar/</loc>
+    <lastmod>2026-11-17T08:40:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/01/2w-sales-and-exports-nov-2024-cover-splendor.jpg</image:loc>
+      <image:title>Top 10 Two Wheelers Oct 2026 - Splendor, Activa, Shine, Jupiter, Pulsar, Deluxe, Access, Apache</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-xev-9s-scores-5-star-rating-in-bharat-ncap-crash-tests/</loc>
+    <lastmod>2026-11-17T07:56:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/mahindra_xev_9s_bharat_ncap_safety_rating_30465f92a7.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Mahindra</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-xev-9s-scores-5-star-rating-in-bharat-ncap-crash-tests/</loc>
+    <lastmod>2026-11-17T07:56:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/mahindra_xev_9s_bharat_ncap_safety_rating_30465f92a7.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Mahindra</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/indian-cricketer-shivam-dube-buys-mahindra-xev-9s-electric-suv/</loc>
+    <lastmod>2026-11-17T07:46:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/cricketer_shivam_dube_buys_mahindra_xev_9s_006292cf39.webp</image:loc>
+      <image:title>Indian Cricketer Shivam Dube Buys Mahindra XEV 9S Electric SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/indian-cricketer-shivam-dube-buys-mahindra-xev-9s-electric-suv/</loc>
+    <lastmod>2026-11-17T07:46:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/cricketer_shivam_dube_buys_mahindra_xev_9s_006292cf39.webp</image:loc>
+      <image:title>Indian Cricketer Shivam Dube Buys Mahindra XEV 9S Electric SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/electric-charger-network-ceo-india-must-exit-fossil-fuels-in-14-y/</loc>
+    <lastmod>2026-11-17T07:35:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/statiq_ceo_cto_about_oil_independence_18f5032b6f.webp</image:loc>
+      <image:title>Electric Charger Network CEO: India Must Exit Fossil Fuels In 14 Years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/electric-charger-network-ceo-india-must-exit-fossil-fuels-in-14-y/</loc>
+    <lastmod>2026-11-17T07:35:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/statiq_ceo_cto_about_oil_independence_18f5032b6f.webp</image:loc>
+      <image:title>Electric Charger Network CEO: India Must Exit Fossil Fuels In 14 Years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/6-upcoming-electric-suvs-to-watch-out-for-in-india/</loc>
+    <lastmod>2026-11-17T07:20:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/08/Mahindra-Vision.T-1.jpg</image:loc>
+      <image:title>6 Upcoming Electric SUVs To Watch Out For In India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/6-upcoming-electric-suvs-to-watch-out-for-in-india/</loc>
+    <lastmod>2026-11-17T07:20:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/08/Mahindra-Vision.T-1.jpg</image:loc>
+      <image:title>6 Upcoming Electric SUVs To Watch Out For In India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-seltos-modified-into-bmw-x1-video/</loc>
+    <lastmod>2026-11-17T07:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/kia_seltos_bmw_conversion_video_d2b8a4208f.webp</image:loc>
+      <image:title>Kia Seltos Modified Into BMW X1 [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-seltos-modified-into-bmw-x1-video/</loc>
+    <lastmod>2026-11-17T07:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/kia_seltos_bmw_conversion_video_d2b8a4208f.webp</image:loc>
+      <image:title>Kia Seltos Modified Into BMW X1 [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/chinas-biggest-electric-charger-network-bans-two-wheelers-from-ch/</loc>
+    <lastmod>2026-11-17T06:40:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/electric_two_wheelers_banned_at_charging_stations_d9c36d2db6.webp</image:loc>
+      <image:title>China&#x27;s Biggest Electric Charger Network Bans Two Wheelers From Charging: What India Can Learn From This</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/chinas-biggest-electric-charger-network-bans-two-wheelers-from-ch/</loc>
+    <lastmod>2026-11-17T06:40:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/electric_two_wheelers_banned_at_charging_stations_d9c36d2db6.webp</image:loc>
+      <image:title>China&#x27;s Biggest Electric Charger Network Bans Two Wheelers From Charging: What India Can Learn From This</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/mahindra-racing-debuts-m13electro-for-formula-e-gen4-season/</loc>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/hero.png</image:loc>
       <image:title>The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/was-the-tesla-roadster-reveal-realistic-engineering-explained-fac/</loc>
-    <lastmod>2026-11-14T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/was-the-tesla-roadster-reveal-realistic-engineering-explained-fact-checked-it/l-intro-1793976928.jpg</image:loc>
-      <image:title>Was The Tesla Roadster Reveal Realistic? Engineering Explained Fact Checked It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/was-the-tesla-roadster-reveal-realistic-engineering-explained-fac/</loc>
-    <lastmod>2026-11-14T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/was-the-tesla-roadster-reveal-realistic-engineering-explained-fact-checked-it/l-intro-1793976928.jpg</image:loc>
-      <image:title>Was The Tesla Roadster Reveal Realistic? Engineering Explained Fact Checked It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-do-all-the-flags-mean-in-racing/</loc>
-    <lastmod>2026-11-14T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-do-all-the-flags-mean-in-racing/l-intro-1794349066.jpg</image:loc>
-      <image:title>Inside Look: What Really Happens With Do All The Flags Mean In Racing?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-do-all-the-flags-mean-in-racing/</loc>
-    <lastmod>2026-11-14T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/what-do-all-the-flags-mean-in-racing/l-intro-1794349066.jpg</image:loc>
-      <image:title>Inside Look: What Really Happens With Do All The Flags Mean In Racing?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it/</loc>
-    <lastmod>2026-11-14T15:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it-is-one-of-the-cutest/l-intro-1794600593.jpg</image:loc>
-      <image:title>This Tractor Supply Mini-Excavator May Not Be The Smallest, But It Is One Of The Cutest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it/</loc>
-    <lastmod>2026-11-14T15:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it-is-one-of-the-cutest/l-intro-1794600593.jpg</image:loc>
-      <image:title>This Tractor Supply Mini-Excavator May Not Be The Smallest, But It Is One Of The Cutest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/are-there-differences-between-lexus-and-toyota-engines/</loc>
-    <lastmod>2026-11-14T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/are-there-differences-between-lexus-and-toyota-engines/l-intro-1794284590.jpg</image:loc>
-      <image:title>Are There Differences Between Lexus And Toyota Engines?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/are-there-differences-between-lexus-and-toyota-engines/</loc>
-    <lastmod>2026-11-14T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/are-there-differences-between-lexus-and-toyota-engines/l-intro-1794284590.jpg</image:loc>
-      <image:title>Are There Differences Between Lexus And Toyota Engines?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/heres-how-to-prevent-your-car-windows-from-fogging-up/</loc>
-    <lastmod>2026-11-14T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/heres-how-to-prevent-your-car-windows-from-fogging-up/l-intro-1794410495.jpg</image:loc>
-      <image:title>The 10-Second Car Window Defogging Hack That Dealerships Never Teach You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/heres-how-to-prevent-your-car-windows-from-fogging-up/</loc>
-    <lastmod>2026-11-14T15:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/heres-how-to-prevent-your-car-windows-from-fogging-up/l-intro-1794410495.jpg</image:loc>
-      <image:title>The 10-Second Car Window Defogging Hack That Dealerships Never Teach You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-toyota-innova-hycross-facelift-first-official-teaser-out/</loc>
-    <lastmod>2026-11-14T13:55:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-toyota-innova-hycross-teaser-first-official-launch-1.jpg</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-toyota-innova-hycross-facelift-first-official-teaser-out/</loc>
-    <lastmod>2026-11-14T13:55:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-toyota-innova-hycross-teaser-first-official-launch-1.jpg</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/12-of-the-longest-range-electric-suvs-in-2026/</loc>
-    <lastmod>2026-11-14T13:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/12-of-the-longest-range-electric-suvs-in-2026/l-intro-1794313663.jpg</image:loc>
-      <image:title>12 Of The Longest Range Electric SUVs In 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/12-of-the-longest-range-electric-suvs-in-2026/</loc>
-    <lastmod>2026-11-14T13:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/12-of-the-longest-range-electric-suvs-in-2026/l-intro-1794313663.jpg</image:loc>
-      <image:title>12 Of The Longest Range Electric SUVs In 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-cybercabs-autonomy-agreement-is-insane-299mo-or-it-doesnt-m/</loc>
-    <lastmod>2026-11-14T13:33:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla Cybercab&#x27;s autonomy agreement is insane: $299/mo or it doesn&#x27;t move</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-cybercabs-autonomy-agreement-is-insane-299mo-or-it-doesnt-m/</loc>
-    <lastmod>2026-11-14T13:33:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Tesla Cybercab&#x27;s autonomy agreement is insane: $299/mo or it doesn&#x27;t move</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/if-the-temerarios-exhaust-note-stopped-you-buying-one-lamborghini/</loc>
-    <lastmod>2026-11-14T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/if-the-temerarios-exhaust-note-stopped-you-buying-one-lamborghini-has-some-good-news-made-from-titanium/l-intro-1794434173.jpg</image:loc>
-      <image:title>If The Temerario&#x27;s Exhaust Note Stopped You Buying One, Lamborghini Has Some Good News Made From Titanium</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/if-the-temerarios-exhaust-note-stopped-you-buying-one-lamborghini/</loc>
-    <lastmod>2026-11-14T13:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/if-the-temerarios-exhaust-note-stopped-you-buying-one-lamborghini-has-some-good-news-made-from-titanium/l-intro-1794434173.jpg</image:loc>
-      <image:title>If The Temerario&#x27;s Exhaust Note Stopped You Buying One, Lamborghini Has Some Good News Made From Titanium</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-r/</loc>
-    <lastmod>2026-11-14T13:02:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/05/engwe-zip-foldig-bike-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>I finally got a USB-C charging e-bike, and it costs 75% less than Rivian&#x27;s bike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-r/</loc>
-    <lastmod>2026-11-14T13:02:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/05/engwe-zip-foldig-bike-head.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>I finally got a USB-C charging e-bike, and it costs 75% less than Rivian&#x27;s bike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-to-remove-stubborn-stains-from-car-seats-with-baking-soda/</loc>
-    <lastmod>2026-11-14T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/how-to-remove-stubborn-stains-from-car-seats-with-baking-soda/l-intro-1793855486.jpg</image:loc>
-      <image:title>The Truth Revealed: How To Remove Stubborn Stains From Car Seats With Baking Soda</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-to-remove-stubborn-stains-from-car-seats-with-baking-soda/</loc>
-    <lastmod>2026-11-14T13:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/how-to-remove-stubborn-stains-from-car-seats-with-baking-soda/l-intro-1793855486.jpg</image:loc>
-      <image:title>The Truth Revealed: How To Remove Stubborn Stains From Car Seats With Baking Soda</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-subaru-wrx-sti-sport-r-brings-back-the-real-sti-manual-just-n/</loc>
-    <lastmod>2026-11-14T12:58:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/subaru-wrx-sti-sport-r-brings-back-the-real-sti-manual-gearbox-just-not-in-america/l-intro-1794660663.jpg</image:loc>
-      <image:title>New Subaru WRX STI Sport R Brings Back The Real STI Manual, Just Not In America</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-subaru-wrx-sti-sport-r-brings-back-the-real-sti-manual-just-n/</loc>
-    <lastmod>2026-11-14T12:58:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/subaru-wrx-sti-sport-r-brings-back-the-real-sti-manual-gearbox-just-not-in-america/l-intro-1794660663.jpg</image:loc>
-      <image:title>New Subaru WRX STI Sport R Brings Back The Real STI Manual, Just Not In America</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tvs-norton-atlas-gt-manx-r-patented-in-india-launch-2027/</loc>
-    <lastmod>2026-11-14T12:22:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-norton-atlas-gt-manx-r-patented-in-india-cover.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tvs-norton-atlas-gt-manx-r-patented-in-india-launch-2027/</loc>
-    <lastmod>2026-11-14T12:22:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-norton-atlas-gt-manx-r-patented-in-india-cover.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-us-navy-will-retire-its-oldest-active-aircraft-carrier-after-/</loc>
-    <lastmod>2026-11-14T12:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-us-navy-will-retire-its-oldest-active-aircraft-carrier-after-52-years-of-service/l-intro-1794584609.jpg</image:loc>
-      <image:title>The US Navy Will Retire Its Oldest Active Aircraft Carrier After 52 Years Of Service</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-us-navy-will-retire-its-oldest-active-aircraft-carrier-after-/</loc>
-    <lastmod>2026-11-14T12:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-us-navy-will-retire-its-oldest-active-aircraft-carrier-after-52-years-of-service/l-intro-1794584609.jpg</image:loc>
-      <image:title>The US Navy Will Retire Its Oldest Active Aircraft Carrier After 52 Years Of Service</image:title>
     </image:image>
   </url>
 </urlset>
