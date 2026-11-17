@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/valvoline-to-lubricate-mahindra-racings-gen4-formula-e-race-car/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T16:42:00+00:00</news:publication_date>
+      <news:title>Valvoline To Lubricate Mahindra Racing&#x27;s Gen4 Formula-E Race Car</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/valvoline_to_lubricate_mahindra_gen4_formula_e_car_0439f5615c.webp</image:loc>
+      <image:title>Valvoline To Lubricate Mahindra Racing&#x27;s Gen4 Formula-E Race Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-mini-cooper-se-bookings-open-in-india-bigger-battery-november/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T16:05:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/new_mini_cooper_se_bookings_open_08d3871395.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/new-hero-xtreme-250r-variant-patented-in-india/</loc>
     <news:news>
       <news:publication>
@@ -1215,201 +1245,6 @@
     <image:image>
       <image:loc>https://www.carscoops.com/img/gallery/the-reason-why-ev-tires-are-so-expensive/l-intro-1794498389.jpg</image:loc>
       <image:title>The Reason Why EV Tires Are So Expensive</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/no-cars-lines-were-ruined-more-thoroughly-than-when-the-avanti-wa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T18:25:00+00:00</news:publication_date>
-      <news:title>No Car&#x27;s Lines Were Ruined More Thoroughly Than When The Avanti Was Made Into A Sedan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/no-cars-lines-were-ruined-more-thoroughly-than-when-the-avanti-was-made-into-a-sedan/l-intro-1793826586.jpg</image:loc>
-      <image:title>No Car&#x27;s Lines Were Ruined More Thoroughly Than When The Avanti Was Made Into A Sedan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/are-tires-from-costco-as-good-as-ones-youd-buy-elsewhere/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T18:00:00+00:00</news:publication_date>
-      <news:title>Are Tires From Costco As Good As Ones You&#x27;d Buy Elsewhere?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/are-tires-from-costco-as-good-as-ones-youd-buy-elsewhere/l-intro-1794411056.jpg</image:loc>
-      <image:title>Are Tires From Costco As Good As Ones You&#x27;d Buy Elsewhere?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-fuel-sipping-classic-cars-for-thrifty-driving-enthusiasts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T17:25:00+00:00</news:publication_date>
-      <news:title>7 Fuel Sipping Classic Cars For Thrifty Driving Enthusiasts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-fuel-sipping-classic-cars-for-thrifty-driving-enthusiasts/l-intro-1793813909.jpg</image:loc>
-      <image:title>7 Fuel Sipping Classic Cars For Thrifty Driving Enthusiasts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-drivin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T17:05:00+00:00</news:publication_date>
-      <news:title>TechCrunch Mobility: The Nvidia backup plan for China&#x27;s self-driving industry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1600</image:loc>
-      <image:title>TechCrunch Mobility: The Nvidia backup plan for China&#x27;s self-driving industry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-four-cylinder-engines-with-terrible-reputations-for-reliability/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T17:05:00+00:00</news:publication_date>
-      <news:title>5 Four-Cylinder Engines With Terrible Reputations For Reliability</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/5-four-cylinder-engines-with-terrible-reputations-for-reliability/l-intro-1793823516.jpg</image:loc>
-      <image:title>5 Four-Cylinder Engines With Terrible Reputations For Reliability</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyot/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T17:00:00+00:00</news:publication_date>
-      <news:title>The Truth Revealed: How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/how-a-single-piece-of-plastic-turns-scions-kei-truck-into-a-toyota-or-daihatsu/l-intro-1794416255.jpg</image:loc>
-      <image:title>The Truth Revealed: How A Single Piece Of Plastic Turns Scion&#x27;s Kei Truck Into A Toyota Or Daihatsu</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2-new-affordable-bmw-twin-cylinder-bikes-launching-soon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T16:42:00+00:00</news:publication_date>
-      <news:title>2 New Affordable BMW Twin Cylinder Bikes Launching Soon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/upcoming_bmw_twin_cylinder_affordable_450cc_motorcycles_featured_a8dc0c6371.webp</image:loc>
-      <image:title>2 New Affordable BMW Twin Cylinder Bikes Launching Soon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-tesla-rushing-out-a-half-baked-cybercab-just-to-shave-mkbhds-h/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T16:31:24+00:00</news:publication_date>
-      <news:title>Is Tesla rushing out a half-baked Cybercab just to shave MKBHD&#x27;s head?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Is Tesla rushing out a half-baked Cybercab just to shave MKBHD&#x27;s head?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T16:07:39+00:00</news:publication_date>
-      <news:title>Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-new-adventure-bikes-launching-in-6-months-himalayan-750-to-hero/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T16:05:00+00:00</news:publication_date>
-      <news:title>5 New Adventure Bikes Launching In 6 months: Himalayan 750 To Hero XPulse 450</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_new_advs_in_6_months_9a8868795b.webp</image:loc>
-      <image:title>5 New Adventure Bikes Launching In 6 months: Himalayan 750 To Hero XPulse 450</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/scout-steps-toward-mass-production-with-200000-reservations-on-th/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T16:01:50+00:00</news:publication_date>
-      <news:title>Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Scout-Traveler-and-Scout-Terra-factory-in-South-Carolina.png</image:loc>
-      <image:title>Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T16:00:00+00:00</news:publication_date>
-      <news:title>Your Car&#x27;s D3 Gear Has A Purpose, And Here&#x27;s What It Does</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/l-intro-1794515871.jpg</image:loc>
-      <image:title>Your Car&#x27;s D3 Gear Has A Purpose, And Here&#x27;s What It Does</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/darlingtons-first-smr-is-late-and-over-budget-ontario-needs-to-re/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T15:56:31+00:00</news:publication_date>
-      <news:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Published_Approved_Darlington_Hero_1600x900.png</image:loc>
-      <image:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three.</image:title>
     </image:image>
   </url>
 </urlset>

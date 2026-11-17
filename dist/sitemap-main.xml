@@ -3,39 +3,79 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-17T15:31:46Z</lastmod>
+    <lastmod>2026-11-17T18:42:42Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-17T15:31:46Z</lastmod>
+    <lastmod>2026-11-17T18:42:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-17T15:31:46Z</lastmod>
+    <lastmod>2026-11-17T18:42:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-17T15:31:46Z</lastmod>
+    <lastmod>2026-11-17T18:42:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-17T15:31:46Z</lastmod>
+    <lastmod>2026-11-17T18:42:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-17T15:31:46Z</lastmod>
+    <lastmod>2026-11-17T18:42:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/valvoline-to-lubricate-mahindra-racings-gen4-formula-e-race-car/</loc>
+    <lastmod>2026-11-17T16:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/valvoline_to_lubricate_mahindra_gen4_formula_e_car_0439f5615c.webp</image:loc>
+      <image:title>Valvoline To Lubricate Mahindra Racing&#x27;s Gen4 Formula-E Race Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/valvoline-to-lubricate-mahindra-racings-gen4-formula-e-race-car/</loc>
+    <lastmod>2026-11-17T16:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/valvoline_to_lubricate_mahindra_gen4_formula_e_car_0439f5615c.webp</image:loc>
+      <image:title>Valvoline To Lubricate Mahindra Racing&#x27;s Gen4 Formula-E Race Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-mini-cooper-se-bookings-open-in-india-bigger-battery-november/</loc>
+    <lastmod>2026-11-17T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/new_mini_cooper_se_bookings_open_08d3871395.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-mini-cooper-se-bookings-open-in-india-bigger-battery-november/</loc>
+    <lastmod>2026-11-17T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/new_mini_cooper_se_bookings_open_08d3871395.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/new-hero-xtreme-250r-variant-patented-in-india/</loc>
@@ -2995,46 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
       <image:title>Inside Look: AI Businesses Still Bleeding Billions - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-much-power-would-an-evs-solar-roof-provide/</loc>
-    <lastmod>2026-11-14T19:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/how-much-power-would-an-evs-solar-roof-provide/l-intro-1793820224.jpg</image:loc>
-      <image:title>The Truth Revealed: How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-much-power-would-an-evs-solar-roof-provide/</loc>
-    <lastmod>2026-11-14T19:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/how-much-power-would-an-evs-solar-roof-provide/l-intro-1793820224.jpg</image:loc>
-      <image:title>The Truth Revealed: How Much Power Would An EV&#x27;s Solar Roof Provide?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt/</loc>
-    <lastmod>2026-11-14T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt-driven/l-intro-1794427747.jpg</image:loc>
-      <image:title>The Truth Revealed: How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt/</loc>
-    <lastmod>2026-11-14T19:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/how-long-does-it-take-for-engine-oil-to-go-bad-when-your-car-isnt-driven/l-intro-1794427747.jpg</image:loc>
-      <image:title>The Truth Revealed: How Long Does It Take For Engine Oil To Go Bad When Your Car Isn&#x27;t Driven?</image:title>
     </image:image>
   </url>
 </urlset>
