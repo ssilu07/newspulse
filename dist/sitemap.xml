@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-18T03:52:48Z</lastmod>
+    <lastmod>2026-11-18T10:25:05Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-18T03:52:48Z</lastmod>
+    <lastmod>2026-11-18T10:25:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-18T03:52:48Z</lastmod>
+    <lastmod>2026-11-18T10:25:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-18T03:52:48Z</lastmod>
+    <lastmod>2026-11-18T10:25:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-18T03:52:48Z</lastmod>
+    <lastmod>2026-11-18T10:25:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-18T03:52:48Z</lastmod>
+    <lastmod>2026-11-18T10:25:05Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/royal-enfield-flying-flea-c6-arrives-in-kochi-as-expansion-on-ful/</loc>
+    <lastmod>2026-11-18T09:30:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Royal-Enfield-Flying-Flea-Kochi-1.jpg</image:loc>
+      <image:title>Royal Enfield Flying Flea C6 Arrives In Kochi As Expansion On Full Swing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/royal-enfield-flying-flea-c6-arrives-in-kochi-as-expansion-on-ful/</loc>
+    <lastmod>2026-11-18T09:30:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Royal-Enfield-Flying-Flea-Kochi-1.jpg</image:loc>
+      <image:title>Royal Enfield Flying Flea C6 Arrives In Kochi As Expansion On Full Swing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/blend-17-cbg-into-cng-indias-leading-industry-body/</loc>
+    <lastmod>2026-11-18T09:15:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/blend_17_percent_cbg_in_cng_7a3ace4462.webp</image:loc>
+      <image:title>Blend 17 % CBG Into CNG: India&#x27;s Leading Industry Body</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/blend-17-cbg-into-cng-indias-leading-industry-body/</loc>
+    <lastmod>2026-11-18T09:15:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/blend_17_percent_cbg_in_cng_7a3ace4462.webp</image:loc>
+      <image:title>Blend 17 % CBG Into CNG: India&#x27;s Leading Industry Body</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-sierra-ev-scored-5-star-rating-in-bharat-ncap-crash-test-ana/</loc>
+    <lastmod>2026-11-18T09:06:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tata-sierra-ev-bharat-ncap-crash-test-results-5.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Tata</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tata-sierra-ev-scored-5-star-rating-in-bharat-ncap-crash-test-ana/</loc>
+    <lastmod>2026-11-18T09:06:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tata-sierra-ev-bharat-ncap-crash-test-results-5.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Tata</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-sierraev-scores-perfect-5-star-bharat-ncap-safety-rating/</loc>
+    <lastmod>2026-11-18T08:42:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/sierra_ev_bncap_1770fe03c9.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Tata</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tata-sierraev-scores-perfect-5-star-bharat-ncap-safety-rating/</loc>
+    <lastmod>2026-11-18T08:42:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/sierra_ev_bncap_1770fe03c9.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Tata</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-verna-scores-5-star-safety-rating-in-bharat-ncap-crash-te/</loc>
+    <lastmod>2026-11-18T08:31:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_verna_bharat_ncap_safety_rating_38c597260b.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-verna-scores-5-star-safety-rating-in-bharat-ncap-crash-te/</loc>
+    <lastmod>2026-11-18T08:31:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_verna_bharat_ncap_safety_rating_38c597260b.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/triumph-bonneville-t4-vs-re-classic-350-top-end-price-specs-featu/</loc>
+    <lastmod>2026-11-18T08:30:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Bonneville_T4_vs_Classic_350_1.jpg</image:loc>
+      <image:title>Triumph Bonneville T4 Vs RE Classic 350 Top End - Price, Specs &amp; Features Compared</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/triumph-bonneville-t4-vs-re-classic-350-top-end-price-specs-featu/</loc>
+    <lastmod>2026-11-18T08:30:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Bonneville_T4_vs_Classic_350_1.jpg</image:loc>
+      <image:title>Triumph Bonneville T4 Vs RE Classic 350 Top End - Price, Specs &amp; Features Compared</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-verna-bharat-ncap-ratings-published-gets-5-stars-crash-sa/</loc>
+    <lastmod>2026-11-18T08:07:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hyundai-verna-bharat-ncap-crash-test-results-3.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-verna-bharat-ncap-ratings-published-gets-5-stars-crash-sa/</loc>
+    <lastmod>2026-11-18T08:07:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hyundai-verna-bharat-ncap-crash-test-results-3.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/local-taxi-union-storms-greensm-office-and-stops-driver-recruitme/</loc>
+    <lastmod>2026-11-18T07:56:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/taxi_unions_storm_green_sm_office_stop_driver_recruitment_2839493cf4.webp</image:loc>
+      <image:title>Local Taxi Union Storms GreenSM Office And Stops Driver Recruitment In Bangalore: GreenSM Files FIR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/local-taxi-union-storms-greensm-office-and-stops-driver-recruitme/</loc>
+    <lastmod>2026-11-18T07:56:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/taxi_unions_storm_green_sm_office_stop_driver_recruitment_2839493cf4.webp</image:loc>
+      <image:title>Local Taxi Union Storms GreenSM Office And Stops Driver Recruitment In Bangalore: GreenSM Files FIR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/no-insurance-crossing-a-toll-plaza-will-get-you-a-rs-10000-fine/</loc>
+    <lastmod>2026-11-18T07:35:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/no_insurance_10k_fine_at_toll_plaza_455f74b3f9.webp</image:loc>
+      <image:title>New Traffic Rules &amp; Challan Alert: What Indian Drivers Need To Know About No Insurance? Crossing A Toll Plaza Will Get</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/no-insurance-crossing-a-toll-plaza-will-get-you-a-rs-10000-fine/</loc>
+    <lastmod>2026-11-18T07:35:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/no_insurance_10k_fine_at_toll_plaza_455f74b3f9.webp</image:loc>
+      <image:title>New Traffic Rules &amp; Challan Alert: What Indian Drivers Need To Know About No Insurance? Crossing A Toll Plaza Will Get</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-bajaj-dominar-400-tft-cluster-tpms-listed-on-website-launch-/</loc>
+    <lastmod>2026-11-18T07:03:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-2027-bajaj-dominar-400-tft-variant-confirmed.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-bajaj-dominar-400-tft-cluster-tpms-listed-on-website-launch-/</loc>
+    <lastmod>2026-11-18T07:03:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-2027-bajaj-dominar-400-tft-variant-confirmed.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/worlds-biggest-ev-battery-maker-wants-you-to-swap-ev-batteries-ra/</loc>
+    <lastmod>2026-11-18T06:32:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/catl_battery_swapping_c507ad48d4.webp</image:loc>
+      <image:title>World&#x27;s Biggest EV Battery Maker Wants You To Swap EV Batteries Rather Than Charging Them: Here&#x27;s Why</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/worlds-biggest-ev-battery-maker-wants-you-to-swap-ev-batteries-ra/</loc>
+    <lastmod>2026-11-18T06:32:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/catl_battery_swapping_c507ad48d4.webp</image:loc>
+      <image:title>World&#x27;s Biggest EV Battery Maker Wants You To Swap EV Batteries Rather Than Charging Them: Here&#x27;s Why</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/half-helmets-to-be-banned-karnataka-govt/</loc>
+    <lastmod>2026-11-18T05:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/karnataka_government_ban_half_face_helmet_0236f761f2.webp</image:loc>
+      <image:title>Half Helmets To Be Banned: Karnataka Govt</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/half-helmets-to-be-banned-karnataka-govt/</loc>
+    <lastmod>2026-11-18T05:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/karnataka_government_ban_half_face_helmet_0236f761f2.webp</image:loc>
+      <image:title>Half Helmets To Be Banned: Karnataka Govt</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/vinfast-electric-scooters-for-india-range-specs-battery-details/</loc>
+    <lastmod>2026-11-18T05:24:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/india-bound-vinfast-scooters-specs-cover.jpg</image:loc>
+      <image:title>VinFast Electric Scooters For India - Range, Specs, Battery, Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/vinfast-electric-scooters-for-india-range-specs-battery-details/</loc>
+    <lastmod>2026-11-18T05:24:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/india-bound-vinfast-scooters-specs-cover.jpg</image:loc>
+      <image:title>VinFast Electric Scooters For India - Range, Specs, Battery, Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/i-did-it-on-purpose-young-man-crashes-car-into-auto-showroom-whil/</loc>
+    <lastmod>2026-11-18T04:38:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/man_crashes_pajero_into_hyundai_showroom_de67903e49.webp</image:loc>
+      <image:title>I Did It On Purpose&#x27;; Young Man Crashes Car Into Auto Showroom While Intoxicated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/i-did-it-on-purpose-young-man-crashes-car-into-auto-showroom-whil/</loc>
+    <lastmod>2026-11-18T04:38:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/man_crashes_pajero_into_hyundai_showroom_de67903e49.webp</image:loc>
+      <image:title>I Did It On Purpose&#x27;; Young Man Crashes Car Into Auto Showroom While Intoxicated</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/indias-top-five-safest-electric-cars-are-mahindras-and-tatas/</loc>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/ngpipelines_map.us-eiapng.png</image:loc>
       <image:title>Rocket Fuel: The Last Frontier For Natural Gas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-teased-ahead-of-november-25-launch/</loc>
-    <lastmod>2026-11-15T03:29:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-innova-hycross-facelift-teased-ahead-of-november-25-launch/</loc>
-    <lastmod>2026-11-15T03:29:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tatas-5-upcoming-electric-cars-safariev-to-kuno/</loc>
-    <lastmod>2026-11-15T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_tata_electric_cars_069a068aa0.webp</image:loc>
-      <image:title>Tata&#x27;s 5 Upcoming Electric Cars: Safari.EV To Kuno</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tatas-5-upcoming-electric-cars-safariev-to-kuno/</loc>
-    <lastmod>2026-11-15T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_tata_electric_cars_069a068aa0.webp</image:loc>
-      <image:title>Tata&#x27;s 5 Upcoming Electric Cars: Safari.EV To Kuno</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tata-sales-analysis-october-2026-nexon-punch-tiago-sierra-aeris-h/</loc>
-    <lastmod>2026-11-15T02:30:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/Tata-Nexon-Camo-5.jpg</image:loc>
-      <image:title>Tata Sales Analysis October 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tata-sales-analysis-october-2026-nexon-punch-tiago-sierra-aeris-h/</loc>
-    <lastmod>2026-11-15T02:30:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/Tata-Nexon-Camo-5.jpg</image:loc>
-      <image:title>Tata Sales Analysis October 2026 - Nexon, Punch, Tiago, Sierra, Aeris, Harrier</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-honda-civic-is-the-direct-ancestor-of-the-og-tesla-roadster/</loc>
-    <lastmod>2026-11-15T02:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-honda-civic-is-the-direct-ancestor-of-the-og-tesla-roadster/l-intro-1793980209.jpg</image:loc>
-      <image:title>This Honda Civic Is The Direct Ancestor Of The OG Tesla Roadster</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-honda-civic-is-the-direct-ancestor-of-the-og-tesla-roadster/</loc>
-    <lastmod>2026-11-15T02:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-honda-civic-is-the-direct-ancestor-of-the-og-tesla-roadster/l-intro-1793980209.jpg</image:loc>
-      <image:title>This Honda Civic Is The Direct Ancestor Of The OG Tesla Roadster</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-the-us-midterm-elections-mean-for-climate-progress/</loc>
-    <lastmod>2026-11-15T00:52:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/05/Florida-sunset-Cynthia-Shahan.jpeg</image:loc>
-      <image:title>Inside Look: What Really Happens With The US Midterm Elections Mean For Climate Progress</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-the-us-midterm-elections-mean-for-climate-progress/</loc>
-    <lastmod>2026-11-15T00:52:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2023/05/Florida-sunset-Cynthia-Shahan.jpeg</image:loc>
-      <image:title>Inside Look: What Really Happens With The US Midterm Elections Mean For Climate Progress</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-crucial-difference-between-flock-cameras-and-plate-readers-in/</loc>
-    <lastmod>2026-11-15T00:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-crucial-difference-between-flock-cameras-and-plate-readers-in-other-countries/l-intro-1794692445.jpg</image:loc>
-      <image:title>The Crucial Difference Between Flock Cameras And Plate Readers In Other Countries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-crucial-difference-between-flock-cameras-and-plate-readers-in/</loc>
-    <lastmod>2026-11-15T00:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-crucial-difference-between-flock-cameras-and-plate-readers-in-other-countries/l-intro-1794692445.jpg</image:loc>
-      <image:title>The Crucial Difference Between Flock Cameras And Plate Readers In Other Countries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/34-billion-anthropic-order-for-gas-power-plants/</loc>
-    <lastmod>2026-11-15T00:33:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Caterpillar-gas-engine-genset.jpg</image:loc>
-      <image:title>$3.4 Billion - Anthropic Order for Gas Power Plants!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/34-billion-anthropic-order-for-gas-power-plants/</loc>
-    <lastmod>2026-11-15T00:33:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Caterpillar-gas-engine-genset.jpg</image:loc>
-      <image:title>$3.4 Billion - Anthropic Order for Gas Power Plants!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/what-a-road-sign-with-a-black-y-means-and-other-letters-too/</loc>
-    <lastmod>2026-11-15T00:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-a-road-sign-with-a-black-y-means-and-other-letters-too/l-intro-1793739871.jpg</image:loc>
-      <image:title>Inside Look: What Really Happens With A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/what-a-road-sign-with-a-black-y-means-and-other-letters-too/</loc>
-    <lastmod>2026-11-15T00:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/what-a-road-sign-with-a-black-y-means-and-other-letters-too/l-intro-1793739871.jpg</image:loc>
-      <image:title>Inside Look: What Really Happens With A Road Sign With A Black &#x27;Y&#x27; Means (And Other Letters, Too)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/every-car-brand-thats-made-a-v10-powered-sedan/</loc>
-    <lastmod>2026-11-14T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/every-car-brand-thats-made-a-v10-powered-sedan/l-intro-1793978663.jpg</image:loc>
-      <image:title>Every Car Brand That&#x27;s Made A V10-Powered Sedan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/every-car-brand-thats-made-a-v10-powered-sedan/</loc>
-    <lastmod>2026-11-14T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/every-car-brand-thats-made-a-v10-powered-sedan/l-intro-1793978663.jpg</image:loc>
-      <image:title>Every Car Brand That&#x27;s Made A V10-Powered Sedan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/</loc>
-    <lastmod>2026-11-14T23:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/l-intro-1794580515.jpg</image:loc>
-      <image:title>Chinese Competition May Cause EV Tariff Delays In The EU And UK</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/</loc>
-    <lastmod>2026-11-14T23:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/chinese-competition-may-cause-ev-tariff-delays-in-the-eu-and-uk/l-intro-1794580515.jpg</image:loc>
-      <image:title>Chinese Competition May Cause EV Tariff Delays In The EU And UK</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/</loc>
-    <lastmod>2026-11-14T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/l-intro-1794507246.jpg</image:loc>
-      <image:title>SpaceX&#x27;s Rivals Are Already Filling The Void Left By Falcon 9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/</loc>
-    <lastmod>2026-11-14T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/spacexs-rivals-are-already-filling-the-void-left-by-falcon-9/l-intro-1794507246.jpg</image:loc>
-      <image:title>SpaceX&#x27;s Rivals Are Already Filling The Void Left By Falcon 9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/9-cheaper-alternatives-to-the-toyota-land-cruiser/</loc>
-    <lastmod>2026-11-14T21:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/9-cheaper-alternatives-to-the-toyota-land-cruiser/l-intro-1794345198.jpg</image:loc>
-      <image:title>9 Cheaper Alternatives To The Toyota Land Cruiser</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/9-cheaper-alternatives-to-the-toyota-land-cruiser/</loc>
-    <lastmod>2026-11-14T21:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/9-cheaper-alternatives-to-the-toyota-land-cruiser/l-intro-1794345198.jpg</image:loc>
-      <image:title>9 Cheaper Alternatives To The Toyota Land Cruiser</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/fabric-molds-could-bring-material-saving-concrete-beams-within-re/</loc>
-    <lastmod>2026-11-14T21:06:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/concrete-beam-half-as-much-steel.jpg</image:loc>
-      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Top SUVs - Variant-Wise Offers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/fabric-molds-could-bring-material-saving-concrete-beams-within-re/</loc>
-    <lastmod>2026-11-14T21:06:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/concrete-beam-half-as-much-steel.jpg</image:loc>
-      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Top SUVs - Variant-Wise Offers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-wort/</loc>
-    <lastmod>2026-11-14T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-worth-today/l-intro-1793733430.jpg</image:loc>
-      <image:title>7 Of The Rarest Fox Body Mustangs Ever Built And What They&#x27;re Worth Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-wort/</loc>
-    <lastmod>2026-11-14T21:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-worth-today/l-intro-1793733430.jpg</image:loc>
-      <image:title>7 Of The Rarest Fox Body Mustangs Ever Built And What They&#x27;re Worth Today</image:title>
     </image:image>
   </url>
 </urlset>
