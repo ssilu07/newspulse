@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/2026-kia-seltos-scores-5-stars-in-euro-ncap-petrol-and-hybrid-var/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T17:19:56+00:00</news:publication_date>
+      <news:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/2026-kia-seltos-euro-ncap-5-star-safety-11.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-jsw-combat-suv-spied-undisguised-during-tvc-shoot-in-daman/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T16:41:46+00:00</news:publication_date>
+      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-combat-spied-undisguised-daman-launch-new-suv.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/how-jlr-is-dragging-tata-motors-down/</loc>
     <news:news>
       <news:publication>
@@ -183,6 +213,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/tata-sierra-ev-scores-5-star-rating-in-bharat-ncap-crash-test/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T09:06:28+00:00</news:publication_date>
+      <news:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Tata</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tata-sierra-ev-bharat-ncap-crash-test-results-5.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Tata</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tata-sierra-ev-scored-5-star-rating-in-bharat-ncap-crash-test-ana/</loc>
     <news:news>
       <news:publication>
@@ -240,6 +285,21 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Bonneville_T4_vs_Classic_350_1.jpg</image:loc>
       <image:title>Triumph Bonneville T4 Vs RE Classic 350 Top End - Price, Specs &amp; Features Compared</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-verna-scores-5-star-safety-rating-in-bharat-ncap/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T08:07:39+00:00</news:publication_date>
+      <news:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hyundai-verna-bharat-ncap-crash-test-results-3.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
     </image:image>
   </url>
   <url>
@@ -405,6 +465,21 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/08/new-tvs-jupiter-sales-record.jpg</image:loc>
       <image:title>Top 10 Scooters Oct 2026 - Activa, Jupiter, Access, Chetak, iQube, Ntorq, Destini, Burgman, Dio, Vida</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-xev-9s-gets-5-star-bharat-ncap-safety-rating/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T04:00:54+00:00</news:publication_date>
+      <news:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Mahindra</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XEV-9S-Safety-Bharat-NCAP.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Mahindra</image:title>
     </image:image>
   </url>
   <url>
@@ -1065,51 +1140,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/5_upcoming_royal_enfields_a813b17978.webp</image:loc>
       <image:title>5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/skoda-vw-sales-breakup-oct-2026-kylaq-slavia-kushaq-virtus-taigun/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T17:28:32+00:00</news:publication_date>
-      <news:title>Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/03/skoda-kylaq-sales-feb-2025.jpeg</image:loc>
-      <image:title>Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-racing-unveils-804-bhp-m13electro-for-2027-formula-e-sea/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T17:10:39+00:00</news:publication_date>
-      <news:title>Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-racing-formula-e-new-2027-car-1.jpg</image:loc>
-      <image:title>Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/evs-outgrow-petrol-diesel-cars-during-festive-season-reason-is-si/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:05:00+00:00</news:publication_date>
-      <news:title>EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/festive_season_ev_sales_44e35b0dba.webp</image:loc>
-      <image:title>EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple</image:title>
     </image:image>
   </url>
 </urlset>
