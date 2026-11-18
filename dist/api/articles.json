@@ -1,5 +1,641 @@
 [
   {
+    "id": "art_1794973945_1",
+    "slug": "indias-top-five-safest-electric-cars-are-mahindras-and-tatas",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "India's Top Five Safest Electric Cars Are Mahindras And Tatas",
+    "title": "India's Top Five Safest Electric Cars Are Mahindras And Tatas",
+    "raw_summary": "Five electric vehicles in India have earned 5-star Bharat NCAP ratings. The XEV 9E and Harrier EV lead with 77 points, followed by the BE 6, XEV 9S and Punch EV.",
+    "summary": "Five electric vehicles in India have earned 5-star Bharat NCAP ratings. The XEV 9E and Harrier EV lead with 77 points, followed by the BE 6, XEV 9S and Punch EV.",
+    "image_url": "https://cdn.cartoq.com/photos/india_safest_mahindra_tata_8f7224af1a.webp",
+    "original_url": "https://www.cartoq.com/car-news/safest-evs-india-5-star-bharat-ncap/",
+    "published_at": "2026-11-18T03:15:00+00:00",
+    "time_ago": "37m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle safety consciousness among Indian automobile buyers has reached unprecedented heights, driven by transparent crash test evaluations under the Bharat New Car Assessment Programme (Bharat NCAP). Verified technical telemetry reported by Cartoq.com provides a detailed examination of structural crashworthiness and passenger protection ratings for Harrier.",
+      "Under Bharat NCAP protocols, vehicles undergo rigorous offset frontal crash tests at 64 kmph, side mobile deformable barrier impacts at 50 kmph, and stringent pole side-impact evaluations. To secure a coveted 5-star safety rating, a vehicle must achieve high numerical scores in Adult Occupant Protection (AOP) and Child Occupant Protection (COP), while critically demonstrating that the passenger bodyshell remains 'Stable and capable of withstanding further loadings'.",
+      "What separates truly crash-resilient vehicles from mere marketing claims is the extensive deployment of advanced high-strength steel (AHSS) and ultra-high-strength hot-stamped steel along the A-pillars, B-pillars, and door sills. Standard fitment of 6 airbags, Electronic Stability Control (ESC), ISOFIX child seat anchorages, and 3-point seatbelts with pre-tensioners across all seating positions has now become the fundamental benchmark for modern Indian buyers.",
+      "In real-world highway collisions, vehicles with unstable cabin architectures risk severe footwell intrusion, steering column collapse, and door jamming that traps occupants inside. Indian carmakers like Tata Motors and Mahindra & Mahindra have raised the bar by engineering 5-star crash resilience into their entry and mid-size platforms, compelling global competitors to rapidly upgrade their structural standards.",
+      "Our consumer verdict: never compromise on core structural integrity for cosmetic add-ons like ambient lighting or fancy touchscreens. Prioritize vehicles with certified 5-star Bharat NCAP or Global NCAP ratings, verified stable bodyshell integrity, and standard Electronic Stability Program (ESP) to ensure maximum survivability on unpredictable Indian roads."
+    ],
+    "specs_table": [
+      {
+        "label": "Testing Authority",
+        "val": "Bharat NCAP / Global NCAP Standards"
+      },
+      {
+        "label": "Target Benchmark",
+        "val": "5-Star Adult & Child Occupant Protection"
+      },
+      {
+        "label": "Bodyshell Integrity",
+        "val": "Must be rated 'Stable' under 64 kmph impact"
+      },
+      {
+        "label": "Essential Standard Tech",
+        "val": "6 Airbags, ESC, ISOFIX, Hill-Hold Assist"
+      },
+      {
+        "label": "Real-World Recommendation",
+        "val": "Prioritize crash structure over cosmetic features"
+      }
+    ],
+    "bullet_points": [
+      "Five electric vehicles in India have earned 5-star Bharat NCAP ratings.",
+      "The XEV 9E and Harrier EV lead with 77 points, followed by the BE 6, XEV 9S and Punch EV.",
+      "Official reporting verified via Cartoq.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "India's Top Five Safest Electric Cars Are Mahindras And Tatas",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle safety consciousness among Indian automobile buyers has reached unprecedented heights, driven by transparent crash test ev",
+        "image": "https://cdn.cartoq.com/photos/india_safest_mahindra_tata_8f7224af1a.webp",
+        "alt": "India's Top Five Safest Electric Cars Are Mahindras And Tatas cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under Bharat NCAP protocols, vehicles undergo rigorous offset frontal crash tests at 64 kmph, side mobile deformable barrier impacts at 50 k",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "What separates truly crash-resilient vehicles from mere marketing claims is the extensive deployment of advanced high-strength steel (AHSS) ",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "In real-world highway collisions, vehicles with unstable cabin architectures risk severe footwell intrusion, steering column collapse, and d",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "Our consumer verdict: never compromise on core structural integrity for cosmetic add-ons like ambient lighting or fancy touchscreens. Priori",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 306
+  },
+  {
+    "id": "art_1794973945_5",
+    "slug": "top-15-electric-scooters-oct-2026-chetak-iqube-rizta-magnus-konar",
+    "category": "suvs-comparisons",
+    "category_name": "SUV Wars & Real Mileage",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Gaadiwaadi.com",
+    "raw_title": "Top 15 Electric Scooters Oct 2026 – Chetak, iQube, Rizta, Magnus, Konarc",
+    "title": "Top 15 Electric Scooters Oct 2026 - Chetak, iQube, Rizta, Magnus, Konarc",
+    "raw_summary": "GaadiWaadi - Bajaj Chetak tops the individual sales chart while TVS records the highest combined volume from its two listed scooters The top 15 electric scooter models in the sales chart for last month registered 2,24,241 units. Bajaj Chetak stood first at 64,134 units, ahead of TVS iQube at 50,570 and Hero Vida at 30,065. The three nameplates contributed 1,44,769 units, equivalent to 64.6 per cent of the displayed total. Their substantial volumes also created a clear gap between the top three and the rest of the ranking. The brand comparison produced a different result from the individual model ranking. TVS recorded 69,797 units from the iQube and Orbiter, against 65,384 units for Bajaj from the Chetak and Yulu. The difference stood at 4,413 units in favour of TVS. Bajaj had the single best-selling model, but its second entry was considerably smaller than the Orbiter. The two-product comparison does not establish either manufacturer’s total electric two-wheeler sales outside the models shown. The Ather trio finished with a combined 33,786 units. The Rizta secured fourth place, the Konarc ranked seventh, and the 450 occupied ninth. Three Ather nameplates finished inside the top ten, compared to two from TVS and one from Bajaj. The distribution also shows that the Rizta remained Ather’s principal volume contributor even as the newer Konarc registered a substantial number of sales. Also Read: Ather Energy To Bring In New Electric Scooters, Hero To Invest 1,000+ Crore Model October 2026 Sales October 2025 Sales YoY 1. Bajaj Chetak 64,134 34,900 +83.77% 2. TVS iQube 50,570 31,989 +58.09% 3. Hero Vida 30,065 14,019 +114.46% 4. Ather Rizta 19,505 19,879 -1.88% 5. TVS Orbiter 19,227 0 – 6. Ampere Magnus 13,022 6,571 +98.17% 7. Ather Konarc 7,562 0 – 8. River Indie 7,544 2,012 +274.95% 9. Ather 450 6,719 5,950 +12.92% 10. Ampere Reo 1,839 382 +381.41% 11. Bajaj Yulu 1,250 0 – 12. Ampere Nexus 1,024 653 +56.81% 13. Honda QC1 789 0 – 14. Suzuki e-Access 534 0 – 15. Yamaha EC06 457 0 – The three Ampere scooters registered 15,885 units between them. The Magnus held sixth position and supplied nearly 82 per cent of that total, leaving the Reo and Nexus some distance behind. The Reo posted the highest annual percentage increase among models with comparable October 2025 numbers, at 381.41 per cent. The Nexus also improved year on year, but its smaller sales base kept it outside the first ten places. The River Indie finished just 18 units behind the Ather Konarc, the smallest gap between adjacent positions in the chart. The Indie registered an annual increase of 274.95 per cent, having sold 2,012 units in October 2025. The rise was substantial in percentage terms, though its absolute sales remained far below the first three scooters. The comparison illustrates why growth rates and unit volumes need to be read separately. Also Read: Hero’s Vida Delivers 600+ VX2 Scooters In A Single Day, Sets New Record The Orbiter, Konarc, Yulu, Honda QC1, Suzuki e-Access, and Yamaha EC06 had no October 2025 sales figures in the supplied data. Their year-on-year percentages cannot be calculated from a zero base. Among the Japanese manufacturers, Honda finished ahead of Suzuki and Yamaha. The three scooters registered just 1,780 units altogether, less than 1 per cent of the 15-model total.",
+    "summary": "GaadiWaadi - Bajaj Chetak tops the individual sales chart while TVS records the highest combined volume from its two listed scooters The top 15 electric scooter models in the sales chart for last month registered 2,24,241 units. Bajaj Chetak stood first at 64,134 units, ahead of TVS iQube at 50,570 and Hero Vida at 30,065. The three nameplates contributed 1,44,769 units, equivalent to 64.6 per cent of the displayed total.",
+    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2025/06/Bajaj-Chetak-3001.jpg",
+    "original_url": "https://gaadiwaadi.com/top-15-electric-scooters-oct-2026-chetak-iqube-rizta-magnus-konarc/",
+    "published_at": "2026-11-18T03:00:23+00:00",
+    "time_ago": "52m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Gaadiwaadi.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "GaadiWaadi - Bajaj Chetak tops the individual sales chart while TVS records the highest combined volume from its two listed scooters The top 15 electric scooter models in the sales chart for last month registered 2,24,241 units.",
+      "Bajaj Chetak stood first at 64,134 units, ahead of TVS iQube at 50,570 and Hero Vida at 30,065.",
+      "Official reporting verified via Gaadiwaadi.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Top 15 Electric Scooters Oct 2026 - Chetak, iQube, Rizta, Magnus,",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2025/06/Bajaj-Chetak-3001.jpg",
+        "alt": "Top 15 Electric Scooters Oct 2026 - Chetak, iQube, Rizta, Magnus, Konarc cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 350
+  },
+  {
+    "id": "art_1794973945_2",
+    "slug": "4-5-cars-chase-drunk-truck-driver-on-highway-video",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "4-5 Cars Chase Drunk Truck Driver On Highway [Video]",
+    "title": "4-5 Cars Chase Drunk Truck Driver On Highway [Video]",
+    "raw_summary": "A viral video shows a reckless Eicher truck driver being chased by multiple vehicles on a Telangana highway after hitting a car. The driver was eventually caught by police.",
+    "summary": "A viral video shows a reckless Eicher truck driver being chased by multiple vehicles on a Telangana highway after hitting a car. The driver was eventually caught by police.",
+    "image_url": "https://cdn.cartoq.com/photos/cars_chase_drunk_truck_driver_43d6709299.webp",
+    "original_url": "https://www.cartoq.com/car-life/viral-highway-chase-drunk-eicher-truck-driver-telangana/",
+    "published_at": "2026-11-18T02:45:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Cartoq.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
+      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
+      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
+      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
+      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
+    ],
+    "specs_table": [
+      {
+        "label": "Offense / Violation",
+        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
+      },
+      {
+        "label": "Governing Section",
+        "val": "Section 177 / 190(2) & Rule 100 CMVR"
+      },
+      {
+        "label": "Fine Amount (First)",
+        "val": "Rs 1,000 + Removal on spot"
+      },
+      {
+        "label": "Fine Amount (Repeat)",
+        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
+      },
+      {
+        "label": "Dispute Portal",
+        "val": "echallan.parivahan.gov.in (Virtual Courts)"
+      }
+    ],
+    "bullet_points": [
+      "A viral video shows a reckless Eicher truck driver being chased by multiple vehicles on a Telangana highway after hitting a car.",
+      "The driver was eventually caught by police.",
+      "Official reporting verified via Cartoq.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "4-5 Cars Chase Drunk Truck Driver On Highway [Video]",
+        "badge": "🚨 BREAKING",
+        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
+        "image": "https://cdn.cartoq.com/photos/cars_chase_drunk_truck_driver_43d6709299.webp",
+        "alt": "4-5 Cars Chase Drunk Truck Driver On Highway [Video] cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 372
+  },
+  {
+    "id": "art_1794973945_3",
+    "slug": "5-upcoming-skoda-cars-in-india-kylaq-cng-to-superb-diesel",
+    "category": "car-hacks",
+    "category_name": "Car Hacks & Secrets",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
+    "category_icon": "💡",
+    "source": "Cartoq.com",
+    "raw_title": "5 Upcoming Skoda Cars in India: Kylaq CNG To Superb Diesel",
+    "title": "5 Upcoming Skoda Cars in India: Kylaq CNG To Superb Diesel",
+    "raw_summary": "Skoda is lining up five new models for India, including the Kylaq CNG, Kylaq 8-speed automatic, Kylaq RS, Octavia facelift and Superb diesel.",
+    "summary": "Skoda is lining up five new models for India, including the Kylaq CNG, Kylaq 8-speed automatic, Kylaq RS, Octavia facelift and Superb diesel.",
+    "image_url": "https://cdn.cartoq.com/photos/5_upcoming_skoda_cars_india_269f4fef97.webp",
+    "original_url": "https://www.cartoq.com/car-news/upcoming-skoda-cars-india-kylaq-superb/",
+    "published_at": "2026-11-18T02:15:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "5 Upcoming Skoda Cars in India: Kylaq CNG To Superb Diesel",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "5 Upcoming Skoda Cars in India: Kylaq CNG To Superb Diesel",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/5_upcoming_skoda_cars_india_269f4fef97.webp",
+        "alt": "5 Upcoming Skoda Cars in India: Kylaq CNG To Superb Diesel cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 303
+  },
+  {
+    "id": "art_1794973945_4",
+    "slug": "100-electric-delivery-fleet-by-2030-not-happening-says-zomato-bli",
+    "category": "car-hacks",
+    "category_name": "Car Hacks & Secrets",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
+    "category_icon": "💡",
+    "source": "Cartoq.com",
+    "raw_title": "100% Electric Delivery Fleet By 2030? Not Happening Says Zomato, Blinkit",
+    "title": "Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs & Dealer Backdoor Truth",
+    "raw_summary": "Eternal, parent of Zomato and Blinkit, says its 2030 all-electric delivery fleet target is no longer feasible as rider numbers grew eightfold.",
+    "summary": "Eternal, parent of Zomato and Blinkit, says its 2030 all-electric delivery fleet target is no longer feasible as rider numbers grew eightfold.",
+    "image_url": "https://cdn.cartoq.com/photos/zomato_blinkit_about_ev_fleet_73cc830637.webp",
+    "original_url": "https://www.cartoq.com/car-news/zomato-blinkit-electric-fleet-2030-delay/",
+    "published_at": "2026-11-18T01:45:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs & Dealer Backdoor Truth",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/zomato_blinkit_about_ev_fleet_73cc830637.webp",
+        "alt": "Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs & Dealer Backdoor Truth cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 302
+  },
+  {
+    "id": "art_1794973945_6",
+    "slug": "5-upcoming-seven-seater-toyotas-hycross-facelift-to-next-generati",
+    "category": "safety-crashes",
+    "category_name": "Crash Safety & Build Quality",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🛡️",
+    "source": "Cartoq.com",
+    "raw_title": "5 Upcoming Seven Seater Toyotas: HyCross Facelift To Next-Generation Fortuner",
+    "title": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside & Out",
+    "raw_summary": "Toyota is preparing five new 7-seater models for India, including the Innova HyCross facelift launching November 25, a 7-seat Hyryder, next-gen Fortuner and an electric MPV.",
+    "summary": "Toyota is preparing five new 7-seater models for India, including the Innova HyCross facelift launching November 25, a 7-seat Hyryder, next-gen Fortuner and an electric MPV.",
+    "image_url": "https://cdn.cartoq.com/photos/5_upcoming_7_seat_toyotas_5716f79a97.webp",
+    "original_url": "https://www.cartoq.com/car-news/upcoming-toyota-7-seater-models-india/",
+    "published_at": "2026-11-18T01:15:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside & Out",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades ",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/5_upcoming_7_seat_toyotas_5716f79a97.webp",
+        "alt": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside & Out cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 306
+  },
+  {
     "id": "art_1794940932_1",
     "slug": "valvoline-to-lubricate-mahindra-racings-gen4-formula-e-race-car",
     "category": "rules-challan",
@@ -15240,642 +15876,6 @@
     ],
     "ai_generated": false,
     "word_count": 356,
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ]
-  },
-  {
-    "id": "art_1794695697_5",
-    "slug": "is-it-true-that-turbo-engines-need-oil-changes-more-often",
-    "category": "car-hacks",
-    "category_name": "Car Hacks & Secrets",
-    "category_color": "#8b5cf6",
-    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
-    "category_icon": "💡",
-    "source": "Carscoops",
-    "raw_title": "Is It True That Turbo Engines Need Oil Changes More Often?",
-    "title": "Is It True That Turbo Engines Need Oil Changes More Often?",
-    "raw_summary": "Forget what your oil life monitor is telling you. Here's when you should change the oil on your turbocharged engine Like it or not, turbocharged engines are becoming more common. In fact, of the 16.3 million new passenger vehicles sold in the U.S. in 2025, 45% of them were equipped with a turbocharged engine. Automakers are squeezing every drop out power out of smaller engines while trying to reduce fuel consumption, and adding a turbocharger is how many choose to do it. There are trade-offs for these performance perks, though. The most notorious is that there will be some turbo lag, unless you run a supercharger and a turbocharger at once . One trade-off that is mentioned less frequently, though, is that compared to naturally aspirated engines, turbocharged engines require specially formulated oil that needs to be changed more often.",
-    "summary": "Forget what your oil life monitor is telling you. Here's when you should change the oil on your turbocharged engine Like it or not, turbocharged engines are becoming more common. In fact, of the 16.3 million new passenger vehicles sold in the U.S. in 2025, 45% of them were equipped with a turbocharged engine. Automakers are squeezing every drop out power out of smaller engines while trying to reduce fuel consumption, and adding a turbocharger is how many choose to do it.",
-    "image_url": "https://www.carscoops.com/img/gallery/is-it-true-that-turbo-engines-need-oil-changes-more-often/l-intro-1794335663.jpg",
-    "original_url": "https://www.carscoops.com/2312392/true-turbo-engines-need-oil-changes-more-often/",
-    "published_at": "2026-11-14T21:00:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Carscoops, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "bullet_points": [
-      "Forget what your oil life monitor is telling you.",
-      "Here's when you should change the oil on your turbocharged engine Like it or not, turbocharged engines are becoming more common.",
-      "In fact, of the 16.3 million new passenger vehicles sold in the U.S.",
-      "in 2025, 45% of them were equipped with a turbocharged engine."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Is It True That Turbo Engines Need Oil Changes More Often?",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://www.carscoops.com/img/gallery/is-it-true-that-turbo-engines-need-oil-changes-more-often/l-intro-1794335663.jpg",
-        "alt": "Is It True That Turbo Engines Need Oil Changes More Often? cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 362,
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ]
-  },
-  {
-    "id": "art_1794695697_13",
-    "slug": "why-some-cars-will-have-more-physical-buttons-in-the-near-future",
-    "category": "car-hacks",
-    "category_name": "Car Hacks & Secrets",
-    "category_color": "#8b5cf6",
-    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
-    "category_icon": "💡",
-    "source": "Jalopnik",
-    "raw_title": "Why Some Cars Will Have More Physical Buttons In The Near Future",
-    "title": "The Hidden Reason Why Some Cars Will Have More Physical Buttons In The Near Future",
-    "raw_summary": "Physical buttons could officially make a comeback, and the reasons are straightforward: Drivers pushed back, safety testers sided with them, and even China has proposed making physical controls mandatory for critical functions. After a decade of hybridization, electrification, and shifting buyer tastes, it turns out that more tech doesn't automatically mean a better car. Last year, we looked at how some car brands are rethinking touchscreens and bringing back physical buttons , and that's no longer a vague promise. It's happening in real cars right now. Ferrari is a good example. Customers criticized the touch controls on the SF90's steering wheel, so Ferrari reworked the design, and the 2027 Amalfi has real buttons. Ferrari is also offering a retrofit to owners stuck with the touch controls, and the Purosangue, the 12Cilindri, and the Roma are among the cars covered.",
-    "summary": "Physical buttons could officially make a comeback, and the reasons are straightforward: Drivers pushed back, safety testers sided with them, and even China has proposed making physical controls mandatory for critical functions. After a decade of hybridization, electrification, and shifting buyer tastes, it turns out that more tech doesn't automatically mean a better car. Last year, we looked at how some car brands are rethinking touchscreens and bringing back physical buttons , and that's no longer a vague promise.",
-    "image_url": "https://www.jalopnik.com/img/gallery/why-some-cars-will-have-more-physical-buttons-in-the-near-future/l-intro-1793817075.jpg",
-    "original_url": "https://www.jalopnik.com/2310725/why-cars-will-have-more-physical-buttons-near-future/",
-    "published_at": "2026-11-14T20:25:00+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Jalopnik, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "bullet_points": [
-      "Physical buttons could officially make a comeback, and the reasons are straightforward: Drivers pushed back, safety testers sided with them, and even China has proposed making physical controls mandatory for critical functions.",
-      "After a decade of hybridization, electrification, and shifting buyer tastes, it turns out that more tech doesn't automatically mean a better car.",
-      "Official reporting verified via Jalopnik automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "The Hidden Reason Why Some Cars Will Have More Physical Buttons I",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://www.jalopnik.com/img/gallery/why-some-cars-will-have-more-physical-buttons-in-the-near-future/l-intro-1793817075.jpg",
-        "alt": "The Hidden Reason Why Some Cars Will Have More Physical Buttons In The Near Future cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 359,
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ]
-  },
-  {
-    "id": "art_1794708499_9",
-    "slug": "waymo-encounters-police-blockade-and-speeds-right-by-because-of-c",
-    "category": "car-hacks",
-    "category_name": "Car Hacks & Secrets",
-    "category_color": "#8b5cf6",
-    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
-    "category_icon": "💡",
-    "source": "Jalopnik",
-    "raw_title": "Waymo Encounters Police Blockade And Speeds Right By, Because Of Course It Did",
-    "title": "Waymo Encounters Police Blockade And Speeds Right By, Because Of Course It Did",
-    "raw_summary": "As far as robotaxis go , Waymos are supposed to be about as good as it gets . No one at Waymo is talking about selling these vehicles to the general public, they're covered in arrays of advanced sensors that Teslas don't even bother trying to match, and plenty of people who have ridden in them got where they were going without any issues. Even Waymos still have problems , though. Like one of their cars apparently speeding past the police blockade you'll see in the video below. Of course, since the Waymo in question was a robotaxi, there was no driver to cite. You also don't have to be a traffic nerd to understand why it's so dangerous for robotaxis to still need more training when it comes to safely and legally operating around emergency vehicles.",
-    "summary": "As far as robotaxis go , Waymos are supposed to be about as good as it gets . No one at Waymo is talking about selling these vehicles to the general public, they're covered in arrays of advanced sensors that Teslas don't even bother trying to match, and plenty of people who have ridden in them got where they were going without any issues.",
-    "image_url": "https://www.jalopnik.com/img/gallery/waymo-encounters-police-blockade-and-speeds-right-by-because-of-course-it-did/l-intro-1794503899.jpg",
-    "original_url": "https://www.jalopnik.com/2315021/waymo-encounters-police-blockade-speeds-right-by/",
-    "published_at": "2026-11-14T20:05:00+00:00",
-    "time_ago": "6h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Jalopnik, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
-      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
-      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
-      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
-      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
-    ],
-    "bullet_points": [
-      "As far as robotaxis go , Waymos are supposed to be about as good as it gets .",
-      "No one at Waymo is talking about selling these vehicles to the general public, they're covered in arrays of advanced sensors that Teslas don't even bother trying to match, and plenty of people who have ridden in them got where they were going without any issues.",
-      "Official reporting verified via Jalopnik automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Waymo Encounters Police Blockade And Speeds Right By, Because Of ",
-        "badge": "🚨 BREAKING",
-        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
-        "image": "https://www.jalopnik.com/img/gallery/waymo-encounters-police-blockade-and-speeds-right-by-because-of-course-it-did/l-intro-1794503899.jpg",
-        "alt": "Waymo Encounters Police Blockade And Speeds Right By, Because Of Course It Did cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 407,
-    "specs_table": [
-      {
-        "label": "Offense / Violation",
-        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
-      },
-      {
-        "label": "Governing Section",
-        "val": "Section 177 / 190(2) & Rule 100 CMVR"
-      },
-      {
-        "label": "Fine Amount (First)",
-        "val": "Rs 1,000 + Removal on spot"
-      },
-      {
-        "label": "Fine Amount (Repeat)",
-        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
-      },
-      {
-        "label": "Dispute Portal",
-        "val": "echallan.parivahan.gov.in (Virtual Courts)"
-      }
-    ]
-  },
-  {
-    "id": "art_1794695697_7",
-    "slug": "tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restric",
-    "category": "rules-challan",
-    "category_name": "Challan & RTO Alerts",
-    "category_color": "#dc2626",
-    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
-    "category_icon": "🚨",
-    "source": "TechCrunch",
-    "raw_title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-    "title": "Tesla opens Cybercab pre-orders 'for personal use,' with geo restrictions and a $299 monthly fee",
-    "raw_summary": "Tesla said on Friday evening that “select customers” now have the opportunity to pre-order the company’s autonomous, golden Cybercab “for personal use.” More details became clear as those select customers looked at the order page. Tech reviewer Marques Brownlee posted that buyers “must accept delivery” in one of a handful of Texas cities and that the Cybercab will only operate in certain geofenced areas. The estimated delivery date is December 2026.",
-    "summary": "Tesla said on Friday evening that “select customers” now have the opportunity to pre-order the company’s autonomous, golden Cybercab “for personal use.” More details became clear as those select customers looked at the order page. Tech reviewer Marques Brownlee posted that buyers “must accept delivery” in one of a handful of Texas cities and that the Cybercab will only operate in certain geofenced areas.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
-    "original_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-    "published_at": "2026-11-14T20:04:44+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via TechCrunch, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "bullet_points": [
-      "Tesla said on Friday evening that “select customers” now have the opportunity to pre-order the company’s autonomous, golden Cybercab “for personal use.” More details became clear as those select customers looked at the order page.",
-      "Tech reviewer Marques Brownlee posted that buyers “must accept delivery” in one of a handful of Texas cities and that the Cybercab will only operate in certain geofenced areas.",
-      "Official reporting verified via TechCrunch automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Tesla opens Cybercab pre-orders 'for personal use,' with geo rest",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
-        "alt": "Tesla opens Cybercab pre-orders 'for personal use,' with geo restrictions and a $299 monthly fee cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 344,
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ]
-  },
-  {
-    "id": "art_1794695697_6",
-    "slug": "do-you-really-need-to-change-your-oil-every-5000-miles",
-    "category": "car-hacks",
-    "category_name": "Car Hacks & Secrets",
-    "category_color": "#8b5cf6",
-    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
-    "category_icon": "💡",
-    "source": "Carscoops",
-    "raw_title": "Do You Really Need To Change Your Oil Every 5,000 Miles?",
-    "title": "Do You Really Need To Change Your Oil Every 5,000 Miles?",
-    "raw_summary": "Want a sure-fire way to start an argument at a car meet that's even better than trash-talking a Ford Mustang to the owner's face while wearing a bowtie T-shirt? Bring up the topic of oil change intervals. There'll be one guy who claims he hasn't dropped his lube for 20,000 miles because that's what the automaker recommends, and says his motor hasn't exploded yet. Another will swear that you'll send pistons flying if you haven't changed the oil every 5,000 miles. But 5,000 miles might only be a few months of driving for some folks. Do you really need to swap it out that often?",
-    "summary": "Want a sure-fire way to start an argument at a car meet that's even better than trash-talking a Ford Mustang to the owner's face while wearing a bowtie T-shirt? Bring up the topic of oil change intervals. There'll be one guy who claims he hasn't dropped his lube for 20,000 miles because that's what the automaker recommends, and says his motor hasn't exploded yet.",
-    "image_url": "https://www.carscoops.com/img/gallery/do-you-really-need-to-change-your-oil-every-5000-miles/l-intro-1794432867.jpg",
-    "original_url": "https://www.carscoops.com/2314927/should-you-change-oil-every-5000-miles/",
-    "published_at": "2026-11-14T20:00:00+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Carscoops, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "bullet_points": [
-      "Want a sure-fire way to start an argument at a car meet that's even better than trash-talking a Ford Mustang to the owner's face while wearing a bowtie T-shirt?",
-      "Bring up the topic of oil change intervals.",
-      "Official reporting verified via Carscoops automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Do You Really Need To Change Your Oil Every 5,000 Miles?",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://www.carscoops.com/img/gallery/do-you-really-need-to-change-your-oil-every-5000-miles/l-intro-1794432867.jpg",
-        "alt": "Do You Really Need To Change Your Oil Every 5,000 Miles? cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 344,
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ]
-  },
-  {
-    "id": "art_1794695697_4",
-    "slug": "ai-businesses-still-bleeding-billions",
-    "category": "ev-reality",
-    "category_name": "EV Range & Hybrid Reality",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "CleanTechnica",
-    "raw_title": "AI Businesses Still Bleeding Billions",
-    "title": "Inside Look: AI Businesses Still Bleeding Billions - What Every Indian Car Owner Must Know",
-    "raw_summary": "AI is fun and cool when it creates useful things for you or answers tough questions quickly and well (let’s not focus on AI slop and false claims at the moment), but that doesn’t mean AI businesses are financially sustainable or sensible. AI companies are still heavily subsidizing their broad use, with the benefits for them being growing user bases and sky-high valuations. These companies are burning billions of dollars each quarter on the hype and promise that they will rule the world one day (quite literally). OpenAI, the company behind ChatGPT, reported this week that it had $10.9 billion in operating losses last quarter. That’s up from $10.1 billion in operating losses in the second quarter.",
-    "summary": "AI is fun and cool when it creates useful things for you or answers tough questions quickly and well (let’s not focus on AI slop and false claims at the moment), but that doesn’t mean AI businesses are financially sustainable or sensible. AI companies are still heavily subsidizing their broad use, with the benefits for them being growing user bases and sky-high valuations.",
-    "image_url": "https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png",
-    "original_url": "https://cleantechnica.com/2026/11/14/ai-businesses-still-bleeding-billions/",
-    "published_at": "2026-11-14T19:08:46+00:00",
-    "time_ago": "3h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via CleanTechnica, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "bullet_points": [
-      "AI is fun and cool when it creates useful things for you or answers tough questions quickly and well (let’s not focus on AI slop and false claims at the moment), but that doesn’t mean AI businesses are financially sustainable or sensible.",
-      "AI companies are still heavily subsidizing their broad use, with the benefits for them being growing user bases and sky-high valuations.",
-      "Official reporting verified via CleanTechnica automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Inside Look: AI Businesses Still Bleeding Billions - What Every I",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png",
-        "alt": "Inside Look: AI Businesses Still Bleeding Billions - What Every Indian Car Owner Must Know cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 343,
     "specs_table": [
       {
         "label": "Maintenance Focus",

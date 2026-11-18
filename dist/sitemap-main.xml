@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-18T01:02:54Z</lastmod>
+    <lastmod>2026-11-18T03:52:48Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-18T01:02:54Z</lastmod>
+    <lastmod>2026-11-18T03:52:48Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-18T01:02:54Z</lastmod>
+    <lastmod>2026-11-18T03:52:48Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-18T01:02:54Z</lastmod>
+    <lastmod>2026-11-18T03:52:48Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-18T01:02:54Z</lastmod>
+    <lastmod>2026-11-18T03:52:48Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-18T01:02:54Z</lastmod>
+    <lastmod>2026-11-18T03:52:48Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/indias-top-five-safest-electric-cars-are-mahindras-and-tatas/</loc>
+    <lastmod>2026-11-18T03:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/india_safest_mahindra_tata_8f7224af1a.webp</image:loc>
+      <image:title>India&#x27;s Top Five Safest Electric Cars Are Mahindras And Tatas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/indias-top-five-safest-electric-cars-are-mahindras-and-tatas/</loc>
+    <lastmod>2026-11-18T03:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/india_safest_mahindra_tata_8f7224af1a.webp</image:loc>
+      <image:title>India&#x27;s Top Five Safest Electric Cars Are Mahindras And Tatas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-15-electric-scooters-oct-2026-chetak-iqube-rizta-magnus-konar/</loc>
+    <lastmod>2026-11-18T03:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/06/Bajaj-Chetak-3001.jpg</image:loc>
+      <image:title>Top 15 Electric Scooters Oct 2026 - Chetak, iQube, Rizta, Magnus, Konarc</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/top-15-electric-scooters-oct-2026-chetak-iqube-rizta-magnus-konar/</loc>
+    <lastmod>2026-11-18T03:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/06/Bajaj-Chetak-3001.jpg</image:loc>
+      <image:title>Top 15 Electric Scooters Oct 2026 - Chetak, iQube, Rizta, Magnus, Konarc</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-5-cars-chase-drunk-truck-driver-on-highway-video/</loc>
+    <lastmod>2026-11-18T02:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/cars_chase_drunk_truck_driver_43d6709299.webp</image:loc>
+      <image:title>4-5 Cars Chase Drunk Truck Driver On Highway [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-5-cars-chase-drunk-truck-driver-on-highway-video/</loc>
+    <lastmod>2026-11-18T02:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/cars_chase_drunk_truck_driver_43d6709299.webp</image:loc>
+      <image:title>4-5 Cars Chase Drunk Truck Driver On Highway [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-upcoming-skoda-cars-in-india-kylaq-cng-to-superb-diesel/</loc>
+    <lastmod>2026-11-18T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_skoda_cars_india_269f4fef97.webp</image:loc>
+      <image:title>5 Upcoming Skoda Cars in India: Kylaq CNG To Superb Diesel</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/5-upcoming-skoda-cars-in-india-kylaq-cng-to-superb-diesel/</loc>
+    <lastmod>2026-11-18T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_skoda_cars_india_269f4fef97.webp</image:loc>
+      <image:title>5 Upcoming Skoda Cars in India: Kylaq CNG To Superb Diesel</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/100-electric-delivery-fleet-by-2030-not-happening-says-zomato-bli/</loc>
+    <lastmod>2026-11-18T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/zomato_blinkit_about_ev_fleet_73cc830637.webp</image:loc>
+      <image:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/100-electric-delivery-fleet-by-2030-not-happening-says-zomato-bli/</loc>
+    <lastmod>2026-11-18T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/zomato_blinkit_about_ev_fleet_73cc830637.webp</image:loc>
+      <image:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-upcoming-seven-seater-toyotas-hycross-facelift-to-next-generati/</loc>
+    <lastmod>2026-11-18T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_7_seat_toyotas_5716f79a97.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/5-upcoming-seven-seater-toyotas-hycross-facelift-to-next-generati/</loc>
+    <lastmod>2026-11-18T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_7_seat_toyotas_5716f79a97.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/valvoline-to-lubricate-mahindra-racings-gen4-formula-e-race-car/</loc>
@@ -2915,126 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-worth-today/l-intro-1793733430.jpg</image:loc>
       <image:title>7 Of The Rarest Fox Body Mustangs Ever Built And What They&#x27;re Worth Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-it-true-that-turbo-engines-need-oil-changes-more-often/</loc>
-    <lastmod>2026-11-14T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/is-it-true-that-turbo-engines-need-oil-changes-more-often/l-intro-1794335663.jpg</image:loc>
-      <image:title>Is It True That Turbo Engines Need Oil Changes More Often?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/is-it-true-that-turbo-engines-need-oil-changes-more-often/</loc>
-    <lastmod>2026-11-14T21:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/is-it-true-that-turbo-engines-need-oil-changes-more-often/l-intro-1794335663.jpg</image:loc>
-      <image:title>Is It True That Turbo Engines Need Oil Changes More Often?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-some-cars-will-have-more-physical-buttons-in-the-near-future/</loc>
-    <lastmod>2026-11-14T20:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-some-cars-will-have-more-physical-buttons-in-the-near-future/l-intro-1793817075.jpg</image:loc>
-      <image:title>The Hidden Reason Why Some Cars Will Have More Physical Buttons In The Near Future</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-some-cars-will-have-more-physical-buttons-in-the-near-future/</loc>
-    <lastmod>2026-11-14T20:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/why-some-cars-will-have-more-physical-buttons-in-the-near-future/l-intro-1793817075.jpg</image:loc>
-      <image:title>The Hidden Reason Why Some Cars Will Have More Physical Buttons In The Near Future</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/waymo-encounters-police-blockade-and-speeds-right-by-because-of-c/</loc>
-    <lastmod>2026-11-14T20:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/waymo-encounters-police-blockade-and-speeds-right-by-because-of-course-it-did/l-intro-1794503899.jpg</image:loc>
-      <image:title>Waymo Encounters Police Blockade And Speeds Right By, Because Of Course It Did</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/waymo-encounters-police-blockade-and-speeds-right-by-because-of-c/</loc>
-    <lastmod>2026-11-14T20:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/waymo-encounters-police-blockade-and-speeds-right-by-because-of-course-it-did/l-intro-1794503899.jpg</image:loc>
-      <image:title>Waymo Encounters Police Blockade And Speeds Right By, Because Of Course It Did</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restric/</loc>
-    <lastmod>2026-11-14T20:04:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834</image:loc>
-      <image:title>Tesla opens Cybercab pre-orders &#x27;for personal use,&#x27; with geo restrictions and a $299 monthly fee</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restric/</loc>
-    <lastmod>2026-11-14T20:04:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834</image:loc>
-      <image:title>Tesla opens Cybercab pre-orders &#x27;for personal use,&#x27; with geo restrictions and a $299 monthly fee</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/do-you-really-need-to-change-your-oil-every-5000-miles/</loc>
-    <lastmod>2026-11-14T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/do-you-really-need-to-change-your-oil-every-5000-miles/l-intro-1794432867.jpg</image:loc>
-      <image:title>Do You Really Need To Change Your Oil Every 5,000 Miles?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/do-you-really-need-to-change-your-oil-every-5000-miles/</loc>
-    <lastmod>2026-11-14T20:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/do-you-really-need-to-change-your-oil-every-5000-miles/l-intro-1794432867.jpg</image:loc>
-      <image:title>Do You Really Need To Change Your Oil Every 5,000 Miles?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ai-businesses-still-bleeding-billions/</loc>
-    <lastmod>2026-11-14T19:08:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
-      <image:title>Inside Look: AI Businesses Still Bleeding Billions - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ai-businesses-still-bleeding-billions/</loc>
-    <lastmod>2026-11-14T19:08:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-09.02.45-A-panoramic-image-depicting-a-surreal-scene-of-a-gigaliter-of-water-contained-within-a-gigantic-transparent-bubble-suspended-400-meters-above-the-gro.png</image:loc>
-      <image:title>Inside Look: AI Businesses Still Bleeding Billions - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
 </urlset>
