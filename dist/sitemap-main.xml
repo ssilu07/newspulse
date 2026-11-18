@@ -3,39 +3,239 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-18T10:25:05Z</lastmod>
+    <lastmod>2026-11-18T15:09:43Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-18T10:25:05Z</lastmod>
+    <lastmod>2026-11-18T15:09:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-18T10:25:05Z</lastmod>
+    <lastmod>2026-11-18T15:09:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-18T10:25:05Z</lastmod>
+    <lastmod>2026-11-18T15:09:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-18T10:25:05Z</lastmod>
+    <lastmod>2026-11-18T15:09:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-18T10:25:05Z</lastmod>
+    <lastmod>2026-11-18T15:09:43Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-jlr-is-dragging-tata-motors-down/</loc>
+    <lastmod>2026-11-18T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jlr_dragging_tata_motors_down_explained_c8262152d8.webp</image:loc>
+      <image:title>The Truth Revealed: How JLR Is Dragging Tata Motors Down</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-jlr-is-dragging-tata-motors-down/</loc>
+    <lastmod>2026-11-18T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jlr_dragging_tata_motors_down_explained_c8262152d8.webp</image:loc>
+      <image:title>The Truth Revealed: How JLR Is Dragging Tata Motors Down</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/shahid-kapoor-buys-land-rover-defender-octa/</loc>
+    <lastmod>2026-11-18T14:29:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/shahid_kapoor_defender_octa_c6e3824fc0.webp</image:loc>
+      <image:title>Shahid Kapoor Buys Land Rover Defender Octa</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/shahid-kapoor-buys-land-rover-defender-octa/</loc>
+    <lastmod>2026-11-18T14:29:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/shahid_kapoor_defender_octa_c6e3824fc0.webp</image:loc>
+      <image:title>Shahid Kapoor Buys Land Rover Defender Octa</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-sealion7-beats-bmw-ix1-to-become-indias-best-selling-premium-/</loc>
+    <lastmod>2026-11-18T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/byd_sealion_sales_october_2026_cc6887e78e.webp</image:loc>
+      <image:title>BYD Sealion7 Beats BMW iX1 To Become India&#x27;s Best Selling Premium Electric Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-sealion7-beats-bmw-ix1-to-become-indias-best-selling-premium-/</loc>
+    <lastmod>2026-11-18T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/byd_sealion_sales_october_2026_cc6887e78e.webp</image:loc>
+      <image:title>BYD Sealion7 Beats BMW iX1 To Become India&#x27;s Best Selling Premium Electric Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tvs-star-city-plus-likely-discontinued-in-india-de-listed-on-webs/</loc>
+    <lastmod>2026-11-18T13:11:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-star-city-plus-discontinued.jpg</image:loc>
+      <image:title>TVS Star City Plus Likely Discontinued In India - De-Listed On Website</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tvs-star-city-plus-likely-discontinued-in-india-de-listed-on-webs/</loc>
+    <lastmod>2026-11-18T13:11:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-star-city-plus-discontinued.jpg</image:loc>
+      <image:title>TVS Star City Plus Likely Discontinued In India - De-Listed On Website</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gadkari-says-hes-responsible-for-40-of-indias-air-pollution-what-/</loc>
+    <lastmod>2026-11-18T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/gadkari_responsible_for_40_percent_of_pollution_what_he_means_f59f956909.webp</image:loc>
+      <image:title>Gadkari Says He&#x27;s Responsible For 40% Of India&#x27;s Air Pollution: What He Actually Means</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gadkari-says-hes-responsible-for-40-of-indias-air-pollution-what-/</loc>
+    <lastmod>2026-11-18T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/gadkari_responsible_for_40_percent_of_pollution_what_he_means_f59f956909.webp</image:loc>
+      <image:title>Gadkari Says He&#x27;s Responsible For 40% Of India&#x27;s Air Pollution: What He Actually Means</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-electric-scooter-spied-river-rx02-for-2027-launch/</loc>
+    <lastmod>2026-11-18T11:48:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-river-rx02-electric-scooter-spied-testing.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-electric-scooter-spied-river-rx02-for-2027-launch/</loc>
+    <lastmod>2026-11-18T11:48:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-river-rx02-electric-scooter-spied-testing.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-kia-seltos-scores-5-star-safety-rating-in-euro-ncap-crash-tes/</loc>
+    <lastmod>2026-11-18T11:33:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/kia_seltos_5_star_euro_ncap_rating_618f9563ad.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-kia-seltos-scores-5-star-safety-rating-in-euro-ncap-crash-tes/</loc>
+    <lastmod>2026-11-18T11:33:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/kia_seltos_5_star_euro_ncap_rating_618f9563ad.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-sierra-ev-garners-5-stars-in-latest-round-of-bharat-ncap-cra/</loc>
+    <lastmod>2026-11-18T10:50:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Tata-Sierra-EV-Bharat-NCAP.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Tata</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tata-sierra-ev-garners-5-stars-in-latest-round-of-bharat-ncap-cra/</loc>
+    <lastmod>2026-11-18T10:50:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Tata-Sierra-EV-Bharat-NCAP.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Tata</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-verna-secures-full-5-star-rating-in-bharat-ncap-crash-tes/</loc>
+    <lastmod>2026-11-18T10:43:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Hyundai-Verna-Bharat-NCAP.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-verna-secures-full-5-star-rating-in-bharat-ncap-crash-tes/</loc>
+    <lastmod>2026-11-18T10:43:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Hyundai-Verna-Bharat-NCAP.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/minister-demands-that-e10-petrol-be-made-available-for-those-who-/</loc>
+    <lastmod>2026-11-18T10:34:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/minister_reply_says_e10_petrol_made_available_e4cdff0bbf.webp</image:loc>
+      <image:title>Minister Demands That E10 Petrol Be Made Available For Those Who Don&#x27;t Want E20</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/minister-demands-that-e10-petrol-be-made-available-for-those-who-/</loc>
+    <lastmod>2026-11-18T10:34:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/minister_reply_says_e10_petrol_made_available_e4cdff0bbf.webp</image:loc>
+      <image:title>Minister Demands That E10 Petrol Be Made Available For Those Who Don&#x27;t Want E20</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/royal-enfield-flying-flea-c6-arrives-in-kochi-as-expansion-on-ful/</loc>
@@ -238,6 +438,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/new-triumph-street-triple-798-rs-launched-in-india-with-big-updat/</loc>
+    <lastmod>2026-11-18T07:00:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Triumph-Street-Triple-RS-798.jpg</image:loc>
+      <image:title>New Triumph Street Triple 798 RS Launched In India With Big Updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-triumph-street-triple-798-rs-launched-in-india-with-big-updat/</loc>
+    <lastmod>2026-11-18T07:00:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Triumph-Street-Triple-RS-798.jpg</image:loc>
+      <image:title>New Triumph Street Triple 798 RS Launched In India With Big Updates</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/worlds-biggest-ev-battery-maker-wants-you-to-swap-ev-batteries-ra/</loc>
     <lastmod>2026-11-18T06:32:22+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -278,6 +498,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/all-new-mini-cooper-electric-pre-bookings-open-in-india/</loc>
+    <lastmod>2026-11-18T05:36:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mini-Cooper-SE-Electric.jpg</image:loc>
+      <image:title>All-new Mini Cooper Electric Pre-Bookings Open In India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/all-new-mini-cooper-electric-pre-bookings-open-in-india/</loc>
+    <lastmod>2026-11-18T05:36:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mini-Cooper-SE-Electric.jpg</image:loc>
+      <image:title>All-new Mini Cooper Electric Pre-Bookings Open In India</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/vinfast-electric-scooters-for-india-range-specs-battery-details/</loc>
     <lastmod>2026-11-18T05:24:40+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -315,6 +555,46 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/man_crashes_pajero_into_hyundai_showroom_de67903e49.webp</image:loc>
       <image:title>I Did It On Purpose&#x27;; Young Man Crashes Car Into Auto Showroom While Intoxicated</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-10-scooters-oct-2026-activa-jupiter-access-chetak-iqube-ntorq/</loc>
+    <lastmod>2026-11-18T04:07:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/08/new-tvs-jupiter-sales-record.jpg</image:loc>
+      <image:title>Top 10 Scooters Oct 2026 - Activa, Jupiter, Access, Chetak, iQube, Ntorq, Destini, Burgman, Dio, Vida</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/top-10-scooters-oct-2026-activa-jupiter-access-chetak-iqube-ntorq/</loc>
+    <lastmod>2026-11-18T04:07:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/08/new-tvs-jupiter-sales-record.jpg</image:loc>
+      <image:title>Top 10 Scooters Oct 2026 - Activa, Jupiter, Access, Chetak, iQube, Ntorq, Destini, Burgman, Dio, Vida</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-10-motorcycles-oct-2026-splendor-shine-pulsar-apache-classic-/</loc>
+    <lastmod>2026-11-18T03:53:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/new-tvs-apache-160-sales-high.jpg</image:loc>
+      <image:title>Top 10 Motorcycles Oct 2026 - Splendor, Shine, Pulsar, Apache, Classic, Unicorn, Raider, Bullet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/top-10-motorcycles-oct-2026-splendor-shine-pulsar-apache-classic-/</loc>
+    <lastmod>2026-11-18T03:53:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/new-tvs-apache-160-sales-high.jpg</image:loc>
+      <image:title>Top 10 Motorcycles Oct 2026 - Splendor, Shine, Pulsar, Apache, Classic, Unicorn, Raider, Bullet</image:title>
     </image:image>
   </url>
   <url>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://cdn-1.motorsport.com/images/amp/YE9EVzGY/s6/track-action-2.jpg</image:loc>
       <image:title>Inside Turkey&#x27;s revamp for the return of a modern F1 classic</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-williams-has-turned-sainz-and-albon-into-test-drivers/</loc>
-    <lastmod>2026-11-15T09:12:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451432_HiRes.jpg</image:loc>
-      <image:title>The Hidden Reason Why Williams has turned Sainz and Albon into test drivers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-williams-has-turned-sainz-and-albon-into-test-drivers/</loc>
-    <lastmod>2026-11-15T09:12:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451432_HiRes.jpg</image:loc>
-      <image:title>The Hidden Reason Why Williams has turned Sainz and Albon into test drivers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-model-wise-sales-october-2026-innova-hyryder-fortuner-tais/</loc>
-    <lastmod>2026-11-15T08:30:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Hyryder-2.jpg</image:loc>
-      <image:title>Toyota Model Wise Sales October 2026 - Innova, Hyryder, Fortuner, Taisor, Rumion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-model-wise-sales-october-2026-innova-hyryder-fortuner-tais/</loc>
-    <lastmod>2026-11-15T08:30:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Hyryder-2.jpg</image:loc>
-      <image:title>Toyota Model Wise Sales October 2026 - Innova, Hyryder, Fortuner, Taisor, Rumion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/maruti-victoris-is-indias-fastest-selling-suv-15-lakh-units-sold-/</loc>
-    <lastmod>2026-11-15T08:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/maruti_victoris_sales_milestone_976d00fc3b.webp</image:loc>
-      <image:title>Maruti Victoris Is India&#x27;s Fastest-Selling SUV: 1.5 Lakh Units Sold In 13 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/maruti-victoris-is-indias-fastest-selling-suv-15-lakh-units-sold-/</loc>
-    <lastmod>2026-11-15T08:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/maruti_victoris_sales_milestone_976d00fc3b.webp</image:loc>
-      <image:title>Maruti Victoris Is India&#x27;s Fastest-Selling SUV: 1.5 Lakh Units Sold In 13 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/denza-d9-and-z9-gt-launched-in-india-price-specs-features-more/</loc>
-    <lastmod>2026-11-15T07:37:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/11/denza-d9-z9-gt-launch-india.jpg</image:loc>
-      <image:title>Denza D9 and Z9 GT Launched in India - Price, Specs, Features &amp; More!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/denza-d9-and-z9-gt-launched-in-india-price-specs-features-more/</loc>
-    <lastmod>2026-11-15T07:37:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/11/denza-d9-z9-gt-launch-india.jpg</image:loc>
-      <image:title>Denza D9 and Z9 GT Launched in India - Price, Specs, Features &amp; More!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/3-new-hatchbacks-in-the-next-12-months-maruti-wagonr-facelift-to-/</loc>
-    <lastmod>2026-11-15T07:03:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_new_hatchbacks_in_12_months_88e9f65b72.webp</image:loc>
-      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/3-new-hatchbacks-in-the-next-12-months-maruti-wagonr-facelift-to-/</loc>
-    <lastmod>2026-11-15T07:03:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_new_hatchbacks_in_12_months_88e9f65b72.webp</image:loc>
-      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/denza-d9-vs-mg-m9-specs-comparison/</loc>
-    <lastmod>2026-11-15T07:00:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Denza-D9-vs-MG-M9.jpg</image:loc>
-      <image:title>Denza D9 vs MG M9 : Specs Comparison</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/denza-d9-vs-mg-m9-specs-comparison/</loc>
-    <lastmod>2026-11-15T07:00:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Denza-D9-vs-MG-M9.jpg</image:loc>
-      <image:title>Denza D9 vs MG M9 : Specs Comparison</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mini-cooper-crash-high-court-judge-wants-to-reduce-age-of-prosecu/</loc>
-    <lastmod>2026-11-15T06:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/mini_cooper_crash_kerala_high_court_fb8e7511fb.webp</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mini-cooper-crash-high-court-judge-wants-to-reduce-age-of-prosecu/</loc>
-    <lastmod>2026-11-15T06:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/mini_cooper_crash_kerala_high_court_fb8e7511fb.webp</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/updated-mahindra-thar-roxx-with-davinci-og-alloys-spotted-outside/</loc>
-    <lastmod>2026-11-15T05:47:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Mahindra-Thar-Roxx-With-DaVinci-OG-Alloys-launch.jpg</image:loc>
-      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/updated-mahindra-thar-roxx-with-davinci-og-alloys-spotted-outside/</loc>
-    <lastmod>2026-11-15T05:47:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Mahindra-Thar-Roxx-With-DaVinci-OG-Alloys-launch.jpg</image:loc>
-      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-seater-car-sales-october-2026-ertiga-scorpio-xuv-7xo-innova-car/</loc>
-    <lastmod>2026-11-15T05:30:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XUV-7XO-20.jpg</image:loc>
-      <image:title>7-Seater Car Sales October 2026 - Ertiga, Scorpio, XUV 7XO, Innova, Carens</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-seater-car-sales-october-2026-ertiga-scorpio-xuv-7xo-innova-car/</loc>
-    <lastmod>2026-11-15T05:30:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XUV-7XO-20.jpg</image:loc>
-      <image:title>7-Seater Car Sales October 2026 - Ertiga, Scorpio, XUV 7XO, Innova, Carens</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/indian-family-buys-3-rolls-royces-worth-nearly-50-crore-on-same-d/</loc>
-    <lastmod>2026-11-15T05:07:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/mumbai_family_ev_home_builders_buy_3_rolls_royce_cars_50_crore_same_day_featured_ed8d03583d.webp</image:loc>
-      <image:title>Indian Family Buys 3 Rolls Royces Worth Nearly 50 Crore On Same Day [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/indian-family-buys-3-rolls-royces-worth-nearly-50-crore-on-same-d/</loc>
-    <lastmod>2026-11-15T05:07:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/mumbai_family_ev_home_builders_buy_3_rolls_royce_cars_50_crore_same_day_featured_ed8d03583d.webp</image:loc>
-      <image:title>Indian Family Buys 3 Rolls Royces Worth Nearly 50 Crore On Same Day [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home/</loc>
-    <lastmod>2026-11-15T04:39:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/02/energy-storage-vpp-solrite.png</image:loc>
-      <image:title>Sonnen, SOLRITE, &amp; ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home/</loc>
-    <lastmod>2026-11-15T04:39:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/02/energy-storage-vpp-solrite.png</image:loc>
-      <image:title>Sonnen, SOLRITE, &amp; ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hummer-h1s-may-be-nearly-indestructible-but-some-serious-flaws-li/</loc>
-    <lastmod>2026-11-15T04:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/hummer-h1s-may-be-nearly-indestructible-but-some-serious-flaws-live-in-that-nearly-part/l-intro-1793810821.jpg</image:loc>
-      <image:title>Hummer H1s May Be Nearly Indestructible, But Some Serious Flaws Live In That &#x27;Nearly&#x27; Part</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hummer-h1s-may-be-nearly-indestructible-but-some-serious-flaws-li/</loc>
-    <lastmod>2026-11-15T04:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/hummer-h1s-may-be-nearly-indestructible-but-some-serious-flaws-live-in-that-nearly-part/l-intro-1793810821.jpg</image:loc>
-      <image:title>Hummer H1s May Be Nearly Indestructible, But Some Serious Flaws Live In That &#x27;Nearly&#x27; Part</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/diesel-still-king-of-suvs-cng-and-evs-are-growing-fast-as-pure-pe/</loc>
-    <lastmod>2026-11-15T04:03:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/diesel_suv_sales_india_faec1b508a.webp</image:loc>
-      <image:title>Diesel Still King Of SUVs, CNG and EVs Are Growing Fast As Pure-Petrol Declines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/diesel-still-king-of-suvs-cng-and-evs-are-growing-fast-as-pure-pe/</loc>
-    <lastmod>2026-11-15T04:03:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/diesel_suv_sales_india_faec1b508a.webp</image:loc>
-      <image:title>Diesel Still King Of SUVs, CNG and EVs Are Growing Fast As Pure-Petrol Declines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rocket-fuel-the-last-frontier-for-natural-gas/</loc>
-    <lastmod>2026-11-15T03:40:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/ngpipelines_map.us-eiapng.png</image:loc>
-      <image:title>Rocket Fuel: The Last Frontier For Natural Gas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rocket-fuel-the-last-frontier-for-natural-gas/</loc>
-    <lastmod>2026-11-15T03:40:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/ngpipelines_map.us-eiapng.png</image:loc>
-      <image:title>Rocket Fuel: The Last Frontier For Natural Gas</image:title>
     </image:image>
   </url>
 </urlset>
