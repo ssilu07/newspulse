@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-19T03:52:11Z</lastmod>
+    <lastmod>2026-11-19T10:32:41Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-19T03:52:11Z</lastmod>
+    <lastmod>2026-11-19T10:32:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-19T03:52:11Z</lastmod>
+    <lastmod>2026-11-19T10:32:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-19T03:52:11Z</lastmod>
+    <lastmod>2026-11-19T10:32:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-19T03:52:11Z</lastmod>
+    <lastmod>2026-11-19T10:32:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-19T03:52:11Z</lastmod>
+    <lastmod>2026-11-19T10:32:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-sales-breakup-oct-2026-hyryder-hycross-crysta-fortuner-gla/</loc>
+    <lastmod>2026-11-19T10:05:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/10/new-toyota-glanza-launch-price-14.jpg</image:loc>
+      <image:title>Toyota Sales Breakup Oct 2026 - Hyryder, Hycross, Crysta, Fortuner, Glanza</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-sales-breakup-oct-2026-hyryder-hycross-crysta-fortuner-gla/</loc>
+    <lastmod>2026-11-19T10:05:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/10/new-toyota-glanza-launch-price-14.jpg</image:loc>
+      <image:title>Toyota Sales Breakup Oct 2026 - Hyryder, Hycross, Crysta, Fortuner, Glanza</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-boss-high-global-ncap-rating-not-equal-to-high-safety/</loc>
+    <lastmod>2026-11-19T10:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/toyota_boss_about_global_ncap_rating_9fa6bc4533.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-boss-high-global-ncap-rating-not-equal-to-high-safety/</loc>
+    <lastmod>2026-11-19T10:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/toyota_boss_about_global_ncap_rating_9fa6bc4533.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/vinfast-evo-kyo-kinet-scooters-to-launch-in-india-in-2027-up-to-1/</loc>
+    <lastmod>2026-11-19T10:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/vinfast-kinet-press.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/vinfast-evo-kyo-kinet-scooters-to-launch-in-india-in-2027-up-to-1/</loc>
+    <lastmod>2026-11-19T10:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/vinfast-kinet-press.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-rebel-500-launched-in-india-at-rs-450-lakh-bookings-open/</loc>
+    <lastmod>2026-11-19T09:51:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Honda-Rebel-500.jpg</image:loc>
+      <image:title>Honda Rebel 500 Launched In India At Rs. 4.50 Lakh, Bookings Open</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-rebel-500-launched-in-india-at-rs-450-lakh-bookings-open/</loc>
+    <lastmod>2026-11-19T09:51:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Honda-Rebel-500.jpg</image:loc>
+      <image:title>Honda Rebel 500 Launched In India At Rs. 4.50 Lakh, Bookings Open</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-hyundai-want-tech-from-tata-motors-details/</loc>
+    <lastmod>2026-11-19T09:30:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_hyundai_tata_partnership_aa8e5af870.webp</image:loc>
+      <image:title>Honda &amp; Hyundai Want Tech From Tata Motors: Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-hyundai-want-tech-from-tata-motors-details/</loc>
+    <lastmod>2026-11-19T09:30:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_hyundai_tata_partnership_aa8e5af870.webp</image:loc>
+      <image:title>Honda &amp; Hyundai Want Tech From Tata Motors: Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-honda-rebel-500-launch-price-rs-45-lakh-e-clutch-rs-40k-more/</loc>
+    <lastmod>2026-11-19T08:59:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-honda-rebel-500-launch-india-3.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-honda-rebel-500-launch-price-rs-45-lakh-e-clutch-rs-40k-more/</loc>
+    <lastmod>2026-11-19T08:59:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-honda-rebel-500-launch-india-3.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2026-honda-rebel-500-launched-at-rs-450-lakh/</loc>
+    <lastmod>2026-11-19T08:39:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_rebel_500_launched_in_india_045e48e358.webp</image:loc>
+      <image:title>2026 Honda Rebel 500 Launched At Rs 4.50 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2026-honda-rebel-500-launched-at-rs-450-lakh/</loc>
+    <lastmod>2026-11-19T08:39:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_rebel_500_launched_in_india_045e48e358.webp</image:loc>
+      <image:title>2026 Honda Rebel 500 Launched At Rs 4.50 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-carens-cng-sales-cross-6200-units-within-two-months/</loc>
+    <lastmod>2026-11-19T08:27:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Kia-Carens-Clavis-CNG.jpeg</image:loc>
+      <image:title>Kia Carens CNG Sales Cross 6,200 Units Within Two Months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-carens-cng-sales-cross-6200-units-within-two-months/</loc>
+    <lastmod>2026-11-19T08:27:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Kia-Carens-Clavis-CNG.jpeg</image:loc>
+      <image:title>Kia Carens CNG Sales Cross 6,200 Units Within Two Months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hero-dispatched-15k-units-of-flex-fuel-e85-bikes-splendor-hf-delu/</loc>
+    <lastmod>2026-11-19T08:00:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/06/hero-splendor-flex-fuel-discount-offer-1.jpeg</image:loc>
+      <image:title>Hero Dispatched 15k Units of Flex Fuel E85 Bikes - Splendor+, HF Deluxe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hero-dispatched-15k-units-of-flex-fuel-e85-bikes-splendor-hf-delu/</loc>
+    <lastmod>2026-11-19T08:00:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/06/hero-splendor-flex-fuel-discount-offer-1.jpeg</image:loc>
+      <image:title>Hero Dispatched 15k Units of Flex Fuel E85 Bikes - Splendor+, HF Deluxe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mercedes-wants-to-cut-new-car-development-time-by-30-how-software/</loc>
+    <lastmod>2026-11-19T07:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/mercedes_benz_product_development_time_adfdb3358b.webp</image:loc>
+      <image:title>Mercedes Wants To Cut New Car Development Time By 30%: How Software Will Help</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mercedes-wants-to-cut-new-car-development-time-by-30-how-software/</loc>
+    <lastmod>2026-11-19T07:30:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/mercedes_benz_product_development_time_adfdb3358b.webp</image:loc>
+      <image:title>Mercedes Wants To Cut New Car Development Time By 30%: How Software Will Help</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundais-upcoming-7-seater-suv-ni1i-spied-for-the-first-time/</loc>
+    <lastmod>2026-11-19T06:28:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_7_seat_suv_spied_fae2e06334.webp</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundais-upcoming-7-seater-suv-ni1i-spied-for-the-first-time/</loc>
+    <lastmod>2026-11-19T06:28:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_7_seat_suv_spied_fae2e06334.webp</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/we-dont-have-rs-5000-crore-to-remove-cattle-from-highways-nhai-to/</loc>
+    <lastmod>2026-11-19T06:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/nhai_to_supreme_court_remove_cattle_cade4e45e3.webp</image:loc>
+      <image:title>We Don&#x27;t Have Rs 5,000 Crore To Remove Cattle From Highways: NHAI To Supreme Court</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/we-dont-have-rs-5000-crore-to-remove-cattle-from-highways-nhai-to/</loc>
+    <lastmod>2026-11-19T06:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/nhai_to_supreme_court_remove_cattle_cade4e45e3.webp</image:loc>
+      <image:title>We Don&#x27;t Have Rs 5,000 Crore To Remove Cattle From Highways: NHAI To Supreme Court</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-seltos-attains-5-stars-in-euro-ncap-crash-tests/</loc>
+    <lastmod>2026-11-19T05:30:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/kia-seltos-2026-euro-ncap.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-seltos-attains-5-stars-in-euro-ncap-crash-tests/</loc>
+    <lastmod>2026-11-19T05:30:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/kia-seltos-2026-euro-ncap.jpg</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/upcoming-jsw-combat-fully-revealed-during-ad-shoot/</loc>
+    <lastmod>2026-11-19T05:06:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_revealed_ad_shoot_02a0073d9d.webp</image:loc>
+      <image:title>Upcoming JSW Combat Fully Revealed During Ad Shoot</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/upcoming-jsw-combat-fully-revealed-during-ad-shoot/</loc>
+    <lastmod>2026-11-19T05:06:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_revealed_ad_shoot_02a0073d9d.webp</image:loc>
+      <image:title>Upcoming JSW Combat Fully Revealed During Ad Shoot</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/new-hyundai-electric-mpv-based-on-kia-carens-clavis-ev-debuts-in-/</loc>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/upcoming_bmw_twin_cylinder_affordable_450cc_motorcycles_featured_a8dc0c6371.webp</image:loc>
       <image:title>2 New Affordable BMW Twin Cylinder Bikes Launching Soon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/is-tesla-rushing-out-a-half-baked-cybercab-just-to-shave-mkbhds-h/</loc>
-    <lastmod>2026-11-15T16:31:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Is Tesla rushing out a half-baked Cybercab just to shave MKBHD&#x27;s head?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/is-tesla-rushing-out-a-half-baked-cybercab-just-to-shave-mkbhds-h/</loc>
-    <lastmod>2026-11-15T16:31:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Is Tesla rushing out a half-baked Cybercab just to shave MKBHD&#x27;s head?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/</loc>
-    <lastmod>2026-11-15T16:07:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/</loc>
-    <lastmod>2026-11-15T16:07:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-new-adventure-bikes-launching-in-6-months-himalayan-750-to-hero/</loc>
-    <lastmod>2026-11-15T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_new_advs_in_6_months_9a8868795b.webp</image:loc>
-      <image:title>5 New Adventure Bikes Launching In 6 months: Himalayan 750 To Hero XPulse 450</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-new-adventure-bikes-launching-in-6-months-himalayan-750-to-hero/</loc>
-    <lastmod>2026-11-15T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_new_advs_in_6_months_9a8868795b.webp</image:loc>
-      <image:title>5 New Adventure Bikes Launching In 6 months: Himalayan 750 To Hero XPulse 450</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/scout-steps-toward-mass-production-with-200000-reservations-on-th/</loc>
-    <lastmod>2026-11-15T16:01:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Scout-Traveler-and-Scout-Terra-factory-in-South-Carolina.png</image:loc>
-      <image:title>Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/scout-steps-toward-mass-production-with-200000-reservations-on-th/</loc>
-    <lastmod>2026-11-15T16:01:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Scout-Traveler-and-Scout-Terra-factory-in-South-Carolina.png</image:loc>
-      <image:title>Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/</loc>
-    <lastmod>2026-11-15T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/l-intro-1794515871.jpg</image:loc>
-      <image:title>Your Car&#x27;s D3 Gear Has A Purpose, And Here&#x27;s What It Does</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/</loc>
-    <lastmod>2026-11-15T16:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/your-cars-d3-gear-has-a-purpose-and-heres-what-it-does/l-intro-1794515871.jpg</image:loc>
-      <image:title>Your Car&#x27;s D3 Gear Has A Purpose, And Here&#x27;s What It Does</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/darlingtons-first-smr-is-late-and-over-budget-ontario-needs-to-re/</loc>
-    <lastmod>2026-11-15T15:56:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Published_Approved_Darlington_Hero_1600x900.png</image:loc>
-      <image:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/darlingtons-first-smr-is-late-and-over-budget-ontario-needs-to-re/</loc>
-    <lastmod>2026-11-15T15:56:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Published_Approved_Darlington_Hero_1600x900.png</image:loc>
-      <image:title>Darlington&#x27;s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/renault-nissan-sales-breakup-oct-2026-triber-kwid-duster-magnite-/</loc>
-    <lastmod>2026-11-15T15:28:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/renault-triber-turbo-review-2.jpg</image:loc>
-      <image:title>Renault, Nissan Sales Breakup Oct 2026 - Triber, Kwid, Duster, Magnite, Gravite, Tekton</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/renault-nissan-sales-breakup-oct-2026-triber-kwid-duster-magnite-/</loc>
-    <lastmod>2026-11-15T15:28:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/renault-triber-turbo-review-2.jpg</image:loc>
-      <image:title>Renault, Nissan Sales Breakup Oct 2026 - Triber, Kwid, Duster, Magnite, Gravite, Tekton</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/which-highway-really-has-the-highest-number-of-lanes/</loc>
-    <lastmod>2026-11-15T15:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/which-highway-really-has-the-highest-number-of-lanes/l-intro-1793814853.jpg</image:loc>
-      <image:title>Which Highway Really Has The Highest Number Of Lanes?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/which-highway-really-has-the-highest-number-of-lanes/</loc>
-    <lastmod>2026-11-15T15:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/which-highway-really-has-the-highest-number-of-lanes/l-intro-1793814853.jpg</image:loc>
-      <image:title>Which Highway Really Has The Highest Number Of Lanes?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-/</loc>
-    <lastmod>2026-11-15T15:02:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/SANY_EACON_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-/</loc>
-    <lastmod>2026-11-15T15:02:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/SANY_EACON_MAIN.jpg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/chinas-electric-airliner-era-starts-with-a-19-seat-plane-and-400-/</loc>
-    <lastmod>2026-11-15T14:43:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/CE-25A-Comac-electric-plane-flying.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>China&#x27;s electric airliner era starts with a 19-seat plane and 400 km of range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/chinas-electric-airliner-era-starts-with-a-19-seat-plane-and-400-/</loc>
-    <lastmod>2026-11-15T14:43:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://electrek.co/wp-content/uploads/sites/3/2026/11/CE-25A-Comac-electric-plane-flying.jpeg?quality=82&amp;strip=all&amp;w=1600</image:loc>
-      <image:title>China&#x27;s electric airliner era starts with a 19-seat plane and 400 km of range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/whats-your-most-unforgettable-close-call/</loc>
-    <lastmod>2026-11-15T14:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-most-unforgettable-close-call/l-intro-1794604813.jpg</image:loc>
-      <image:title>Inside Look: What&#x27;s Your Most Unforgettable Close Call? - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/whats-your-most-unforgettable-close-call/</loc>
-    <lastmod>2026-11-15T14:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/whats-your-most-unforgettable-close-call/l-intro-1794604813.jpg</image:loc>
-      <image:title>Inside Look: What&#x27;s Your Most Unforgettable Close Call? - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/accelerating-electrification-can-unlock-the-full-benefits-of-spai/</loc>
-    <lastmod>2026-11-15T14:17:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/07/Floating-Solar-PV-Power-in-Valencia-Port-Spain-copy.jpeg</image:loc>
-      <image:title>Accelerating Electrification Can Unlock the Full Benefits of Spain&#x27;s Renewables Leadership</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/accelerating-electrification-can-unlock-the-full-benefits-of-spai/</loc>
-    <lastmod>2026-11-15T14:17:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/07/Floating-Solar-PV-Power-in-Valencia-Port-Spain-copy.jpeg</image:loc>
-      <image:title>Accelerating Electrification Can Unlock the Full Benefits of Spain&#x27;s Renewables Leadership</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/heros-next-big-launch-is-the-xpulse-450-adventure-bike-royal-enfi/</loc>
-    <lastmod>2026-11-15T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/2027_hero_xpulse_450_adventure_motorcycle_eicma_2026_reveal_featured_d7b1f404b7.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/heros-next-big-launch-is-the-xpulse-450-adventure-bike-royal-enfi/</loc>
-    <lastmod>2026-11-15T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/2027_hero_xpulse_450_adventure_motorcycle_eicma_2026_reveal_featured_d7b1f404b7.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-could-finally-bring-the-perfect-s-fr-concept-to-production/</loc>
-    <lastmod>2026-11-15T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/toyota-could-finally-bring-the-perfect-s-fr-concept-to-production-with-the-help-of-daihatsu/l-intro-1794595317.jpg</image:loc>
-      <image:title>Toyota Could Finally Bring The Perfect S-FR Concept To Production With The Help Of Daihatsu</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-could-finally-bring-the-perfect-s-fr-concept-to-production/</loc>
-    <lastmod>2026-11-15T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/toyota-could-finally-bring-the-perfect-s-fr-concept-to-production-with-the-help-of-daihatsu/l-intro-1794595317.jpg</image:loc>
-      <image:title>Toyota Could Finally Bring The Perfect S-FR Concept To Production With The Help Of Daihatsu</image:title>
     </image:image>
   </url>
 </urlset>
