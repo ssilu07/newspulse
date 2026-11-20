@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-20T03:45:03Z</lastmod>
+    <lastmod>2026-11-20T10:13:40Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-20T03:45:03Z</lastmod>
+    <lastmod>2026-11-20T10:13:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-20T03:45:03Z</lastmod>
+    <lastmod>2026-11-20T10:13:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-20T03:45:03Z</lastmod>
+    <lastmod>2026-11-20T10:13:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-20T03:45:03Z</lastmod>
+    <lastmod>2026-11-20T10:13:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-20T03:45:03Z</lastmod>
+    <lastmod>2026-11-20T10:13:40Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/indias-oldest-rolls-royce-cullinan-series-ii-owner-takes-delivery/</loc>
+    <lastmod>2026-11-20T10:07:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/india_oldest_rolls_royce_cullinan_series_2_owner_e73c8d3fd8.webp</image:loc>
+      <image:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/indias-oldest-rolls-royce-cullinan-series-ii-owner-takes-delivery/</loc>
+    <lastmod>2026-11-20T10:07:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/india_oldest_rolls_royce_cullinan_series_2_owner_e73c8d3fd8.webp</image:loc>
+      <image:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-india-doubles-deliveries-in-just-over-a-year/</loc>
+    <lastmod>2026-11-20T09:48:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/BYD-Sealion-7.jpeg</image:loc>
+      <image:title>BYD India Doubles Deliveries in Just Over a Year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-india-doubles-deliveries-in-just-over-a-year/</loc>
+    <lastmod>2026-11-20T09:48:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/BYD-Sealion-7.jpeg</image:loc>
+      <image:title>BYD India Doubles Deliveries in Just Over a Year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagens-new-sub-4-meter-suv-called-tengo-for-south-africa-ind/</loc>
+    <lastmod>2026-11-20T09:14:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/volkswagen_tengo_south_africa_fcbd948fb8.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagens-new-sub-4-meter-suv-called-tengo-for-south-africa-ind/</loc>
+    <lastmod>2026-11-20T09:14:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/volkswagen_tengo_south_africa_fcbd948fb8.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-tengo-compact-suv-production-begins-derived-from-tera/</loc>
+    <lastmod>2026-11-20T08:30:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/volkswagen-tengo-city-promotional.jpg</image:loc>
+      <image:title>Volkswagen Tengo Compact SUV Production Begins, Derived From Tera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagen-tengo-compact-suv-production-begins-derived-from-tera/</loc>
+    <lastmod>2026-11-20T08:30:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/volkswagen-tengo-city-promotional.jpg</image:loc>
+      <image:title>Volkswagen Tengo Compact SUV Production Begins, Derived From Tera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-jsw-motors-combat-suv-first-official-teaser-out-ahead-of-debu/</loc>
+    <lastmod>2026-11-20T07:46:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-combat-teaser-launch-2.jpg</image:loc>
+      <image:title>New JSW Motors Combat SUV First Official Teaser Out Ahead Of Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-jsw-motors-combat-suv-first-official-teaser-out-ahead-of-debu/</loc>
+    <lastmod>2026-11-20T07:46:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-combat-teaser-launch-2.jpg</image:loc>
+      <image:title>New JSW Motors Combat SUV First Official Teaser Out Ahead Of Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-gen-hyundai-elantra-revealed-157-ps-hybrid-larger-cabin-more-/</loc>
+    <lastmod>2026-11-20T07:24:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/01_FEATURED_Elantra_city_front.jpg</image:loc>
+      <image:title>New Gen Hyundai Elantra Revealed - 157 PS Hybrid, Larger Cabin, More Tech</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-gen-hyundai-elantra-revealed-157-ps-hybrid-larger-cabin-more-/</loc>
+    <lastmod>2026-11-20T07:24:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/01_FEATURED_Elantra_city_front.jpg</image:loc>
+      <image:title>New Gen Hyundai Elantra Revealed - 157 PS Hybrid, Larger Cabin, More Tech</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/taarzan-the-wonder-car-is-back-on-the-road-video/</loc>
+    <lastmod>2026-11-20T07:19:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/taarzan_wonder_car_back_on_the_road_2190bd3cdf.webp</image:loc>
+      <image:title>Taarzan The Wonder Car Is Back On The Road [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/taarzan-the-wonder-car-is-back-on-the-road-video/</loc>
+    <lastmod>2026-11-20T07:19:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/taarzan_wonder_car_back_on_the_road_2190bd3cdf.webp</image:loc>
+      <image:title>Taarzan The Wonder Car Is Back On The Road [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-avancier-44-fortuner-rival-breaks-cover-with-hybrid-engine/</loc>
+    <lastmod>2026-11-20T07:00:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/01_Avancier_front.jpg</image:loc>
+      <image:title>Honda Avancier 4×4 (Fortuner Rival) Breaks Cover With Hybrid Engine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-avancier-44-fortuner-rival-breaks-cover-with-hybrid-engine/</loc>
+    <lastmod>2026-11-20T07:00:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/01_Avancier_front.jpg</image:loc>
+      <image:title>Honda Avancier 4×4 (Fortuner Rival) Breaks Cover With Hybrid Engine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-ti-9-suv-launched-with-folding-steering-wheel-1630-km-claimed/</loc>
+    <lastmod>2026-11-20T06:36:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-suv-foldable-steering-launch-price.jpg</image:loc>
+      <image:title>BYD Ti 9 SUV Launched With Folding Steering Wheel - 1,630 Km Claimed Range</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-ti-9-suv-launched-with-folding-steering-wheel-1630-km-claimed/</loc>
+    <lastmod>2026-11-20T06:36:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-suv-foldable-steering-launch-price.jpg</image:loc>
+      <image:title>BYD Ti 9 SUV Launched With Folding Steering Wheel - 1,630 Km Claimed Range</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-creta-electric-owners-demand-lifetime-battery-warranty-15/</loc>
+    <lastmod>2026-11-20T06:11:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/creta_ev_owners_lifetime_warranty_0d9ea81435.webp</image:loc>
+      <image:title>Hyundai Creta Electric Owners Demand Lifetime Battery Warranty- 150 Owners Sign Petition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-creta-electric-owners-demand-lifetime-battery-warranty-15/</loc>
+    <lastmod>2026-11-20T06:11:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/creta_ev_owners_lifetime_warranty_0d9ea81435.webp</image:loc>
+      <image:title>Hyundai Creta Electric Owners Demand Lifetime Battery Warranty- 150 Owners Sign Petition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-combat-fully-leaked-new-video-shows-the-plug-in-hybrid-suv-fr/</loc>
+    <lastmod>2026-11-20T06:08:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_featured_287e319db1.webp</image:loc>
+      <image:title>JSW Combat Fully Leaked: New Video Shows The Plug-In Hybrid SUV From All Angles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-combat-fully-leaked-new-video-shows-the-plug-in-hybrid-suv-fr/</loc>
+    <lastmod>2026-11-20T06:08:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_featured_287e319db1.webp</image:loc>
+      <image:title>JSW Combat Fully Leaked: New Video Shows The Plug-In Hybrid SUV From All Angles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-avancier-officially-revealed-toyota-fortuner-challenger-is-/</loc>
+    <lastmod>2026-11-20T04:52:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_avancier_revealed_9aeac296c2.webp</image:loc>
+      <image:title>Honda Avancier Officially Revealed: Toyota Fortuner Challenger Is Finally Here!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-avancier-officially-revealed-toyota-fortuner-challenger-is-/</loc>
+    <lastmod>2026-11-20T04:52:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_avancier_revealed_9aeac296c2.webp</image:loc>
+      <image:title>Honda Avancier Officially Revealed: Toyota Fortuner Challenger Is Finally Here!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-honda-avancier-suv-debuts-next-gen-hybrid-electric-awd-7-seat/</loc>
+    <lastmod>2026-11-20T04:51:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/New-Honda-Avancier-SUV-Debuts-2.jpg</image:loc>
+      <image:title>New Honda Avancier SUV Debuts - Next Gen Hybrid, Electric AWD, 7 Seater For Asian Market</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-honda-avancier-suv-debuts-next-gen-hybrid-electric-awd-7-seat/</loc>
+    <lastmod>2026-11-20T04:51:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/New-Honda-Avancier-SUV-Debuts-2.jpg</image:loc>
+      <image:title>New Honda Avancier SUV Debuts - Next Gen Hybrid, Electric AWD, 7 Seater For Asian Market</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ghost-cars-are-fooling-barrierless-toll-plazas-260-lakh-cars-evad/</loc>
+    <lastmod>2026-11-20T04:46:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/ghost_cars_fooling_barrierless_toll_plazas_ce23389bc1.webp</image:loc>
+      <image:title>Ghost Cars Are Fooling Barrierless Toll Plazas: 2.60 Lakh Cars Evade Toll At A Single Toll In 3 Months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ghost-cars-are-fooling-barrierless-toll-plazas-260-lakh-cars-evad/</loc>
+    <lastmod>2026-11-20T04:46:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/ghost_cars_fooling_barrierless_toll_plazas_ce23389bc1.webp</image:loc>
+      <image:title>Ghost Cars Are Fooling Barrierless Toll Plazas: 2.60 Lakh Cars Evade Toll At A Single Toll In 3 Months</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/4-new-hyundai-suvs-launching-in-2027-ioniq-p-to-hyundai-creta/</loc>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/hyundai-ioniq-small-suv-rear.jpg</image:loc>
       <image:title>Will Upcoming Ioniq P Be A Real Game Changer For Hyundai?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/sanam-teri-kasam-producer-gifts-harshvardhan-rane-a-land-rover-de/</loc>
-    <lastmod>2026-11-16T03:59:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/deepak_mukut_gifts_harshvardhan_rane_land_rover_defender_octa_5df73389a3.webp</image:loc>
-      <image:title>Sanam Teri Kasam Producer Gifts Harshvardhan Rane A Land Rover Defender Octa</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/sanam-teri-kasam-producer-gifts-harshvardhan-rane-a-land-rover-de/</loc>
-    <lastmod>2026-11-16T03:59:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/deepak_mukut_gifts_harshvardhan_rane_land_rover_defender_octa_5df73389a3.webp</image:loc>
-      <image:title>Sanam Teri Kasam Producer Gifts Harshvardhan Rane A Land Rover Defender Octa</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2027-audi-a5-sedan-spied-in-india-without-camouflage-before-launc/</loc>
-    <lastmod>2026-11-16T03:54:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-audi-a5-sedan-spied-in-india-2.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2027-audi-a5-sedan-spied-in-india-without-camouflage-before-launc/</loc>
-    <lastmod>2026-11-16T03:54:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-audi-a5-sedan-spied-in-india-2.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-upcoming-electrified-cars-from-kia-and-hyundai-in-the-next-12-m/</loc>
-    <lastmod>2026-11-16T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_electrified_hyundai_and_kia_cars_launching_in_2027_featured_9a8df05246.webp</image:loc>
-      <image:title>5 Upcoming Electrified Cars From Kia And Hyundai In The Next 12 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-upcoming-electrified-cars-from-kia-and-hyundai-in-the-next-12-m/</loc>
-    <lastmod>2026-11-16T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_electrified_hyundai_and_kia_cars_launching_in_2027_featured_9a8df05246.webp</image:loc>
-      <image:title>5 Upcoming Electrified Cars From Kia And Hyundai In The Next 12 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/naed-unveils-pv-1-pecvd-v-a-us-engineered-vertical-deposition-pla/</loc>
-    <lastmod>2026-11-16T02:50:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/pv-1-main-hero-shot-e1794795612887.jpeg</image:loc>
-      <image:title>NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/naed-unveils-pv-1-pecvd-v-a-us-engineered-vertical-deposition-pla/</loc>
-    <lastmod>2026-11-16T02:50:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/pv-1-main-hero-shot-e1794795612887.jpeg</image:loc>
-      <image:title>NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-will-now-be-able-to-sell-a-lot-more-electric-cars-in-india-he/</loc>
-    <lastmod>2026-11-16T02:42:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/byd_india_sales_to_increase_actual_reason_fa271052b5.webp</image:loc>
-      <image:title>BYD Will Now Be Able To Sell A Lot More Electric Cars In India: Here&#x27;s Why</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-will-now-be-able-to-sell-a-lot-more-electric-cars-in-india-he/</loc>
-    <lastmod>2026-11-16T02:42:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/byd_india_sales_to_increase_actual_reason_fa271052b5.webp</image:loc>
-      <image:title>BYD Will Now Be Able To Sell A Lot More Electric Cars In India: Here&#x27;s Why</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/theres-a-man-rothmans-porsche-44-rally-truck-up-for-grabs/</loc>
-    <lastmod>2026-11-16T02:30:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/MAN-KAT-1-Rally-Truck-9.jpg</image:loc>
-      <image:title>There&#x27;s A MAN &quot;Rothmans Porsche&quot; 4×4 Rally Truck Up For Grabs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/theres-a-man-rothmans-porsche-44-rally-truck-up-for-grabs/</loc>
-    <lastmod>2026-11-16T02:30:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://silodrome.com/wp-content/uploads/2026/11/MAN-KAT-1-Rally-Truck-9.jpg</image:loc>
-      <image:title>There&#x27;s A MAN &quot;Rothmans Porsche&quot; 4×4 Rally Truck Up For Grabs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/electric-two-wheeler-sales-oct-2026-tvs-heads-bajaj-ather-vida-ol/</loc>
-    <lastmod>2026-11-16T02:30:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/03/tvs-orbiter-.jpg</image:loc>
-      <image:title>Electric Two-Wheeler Sales Oct 2026 - TVS Heads Bajaj, Ather, Vida, Ola</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/electric-two-wheeler-sales-oct-2026-tvs-heads-bajaj-ather-vida-ol/</loc>
-    <lastmod>2026-11-16T02:30:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/03/tvs-orbiter-.jpg</image:loc>
-      <image:title>Electric Two-Wheeler Sales Oct 2026 - TVS Heads Bajaj, Ather, Vida, Ola</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/high-speed-rail-isnt-just-fast-trains-there-are-rigidly-defined-c/</loc>
-    <lastmod>2026-11-16T02:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/high-speed-rail-isnt-just-fast-trains-there-are-rigidly-defined-categories/l-intro-1794242955.jpg</image:loc>
-      <image:title>High Speed Rail Isn&#x27;t Just Fast Trains, There Are Rigidly Defined Categories</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/high-speed-rail-isnt-just-fast-trains-there-are-rigidly-defined-c/</loc>
-    <lastmod>2026-11-16T02:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/high-speed-rail-isnt-just-fast-trains-there-are-rigidly-defined-categories/l-intro-1794242955.jpg</image:loc>
-      <image:title>High Speed Rail Isn&#x27;t Just Fast Trains, There Are Rigidly Defined Categories</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-electric-suv-launches-confirmed-for-2027-hyundai-ioniq-p-to-tat/</loc>
-    <lastmod>2026-11-16T02:17:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_new_electric_suvs_2027_ced0e6254f.webp</image:loc>
-      <image:title>5 Electric SUV Launches Confirmed For 2027: Hyundai IONIQ P To Tata Safari.EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-electric-suv-launches-confirmed-for-2027-hyundai-ioniq-p-to-tat/</loc>
-    <lastmod>2026-11-16T02:17:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_new_electric_suvs_2027_ced0e6254f.webp</image:loc>
-      <image:title>5 Electric SUV Launches Confirmed For 2027: Hyundai IONIQ P To Tata Safari.EV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tata-car-sales-2026-overtakes-2025-total-with-2-months-to-spare/</loc>
-    <lastmod>2026-11-16T01:50:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/02/2026-tata-punch-ev-facelift-first-drive-review.jpg</image:loc>
-      <image:title>Tata Car Sales 2026 Overtakes 2025 Total With 2 Months To Spare</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tata-car-sales-2026-overtakes-2025-total-with-2-months-to-spare/</loc>
-    <lastmod>2026-11-16T01:50:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/02/2026-tata-punch-ev-facelift-first-drive-review.jpg</image:loc>
-      <image:title>Tata Car Sales 2026 Overtakes 2025 Total With 2 Months To Spare</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-motors-to-displace-tata-motors-as-biggest-exhibitor-at-bharat/</loc>
-    <lastmod>2026-11-16T01:46:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_motors_to_have_bigger_bharat_mobility_expo_pavilion_than_tata_motors_featured_455ee5355d.webp</image:loc>
-      <image:title>JSW Motors To Displace Tata Motors As Biggest Exhibitor At Bharat Mobility Expo 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jsw-motors-to-displace-tata-motors-as-biggest-exhibitor-at-bharat/</loc>
-    <lastmod>2026-11-16T01:46:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_motors_to_have_bigger_bharat_mobility_expo_pavilion_than_tata_motors_featured_455ee5355d.webp</image:loc>
-      <image:title>JSW Motors To Displace Tata Motors As Biggest Exhibitor At Bharat Mobility Expo 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-10-two-wheeler-brands-oct-2026-honda-hero-tvs-bajaj-royal-enf/</loc>
-    <lastmod>2026-11-16T01:30:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Honda-CB350C-Special-Edition.jpg</image:loc>
-      <image:title>Top 10 Two-Wheeler Brands Oct 2026 - Honda, Hero, TVS, Bajaj, Royal Enfield</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/top-10-two-wheeler-brands-oct-2026-honda-hero-tvs-bajaj-royal-enf/</loc>
-    <lastmod>2026-11-16T01:30:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Honda-CB350C-Special-Edition.jpg</image:loc>
-      <image:title>Top 10 Two-Wheeler Brands Oct 2026 - Honda, Hero, TVS, Bajaj, Royal Enfield</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-new-sub-4-metre-suvs-launching-in-the-next-12-months-mahindra-v/</loc>
-    <lastmod>2026-11-16T01:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/7_new_sub_4m_suv_in_12_months_d9604ea359.webp</image:loc>
-      <image:title>7 New Sub-4 Metre SUVs Launching In The Next 12 Months: Mahindra Vision S To Renault Bridger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-new-sub-4-metre-suvs-launching-in-the-next-12-months-mahindra-v/</loc>
-    <lastmod>2026-11-16T01:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/7_new_sub_4m_suv_in_12_months_d9604ea359.webp</image:loc>
-      <image:title>7 New Sub-4 Metre SUVs Launching In The Next 12 Months: Mahindra Vision S To Renault Bridger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/this-40-year-old-econobox-has-the-top-epa-mpg-rating-of-any-non-h/</loc>
-    <lastmod>2026-11-16T00:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-40-year-old-econobox-has-the-top-epa-mpg-rating-of-any-non-hybrid-production-car/l-intro-1794221487.jpg</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/this-40-year-old-econobox-has-the-top-epa-mpg-rating-of-any-non-h/</loc>
-    <lastmod>2026-11-16T00:50:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/this-40-year-old-econobox-has-the-top-epa-mpg-rating-of-any-non-hybrid-production-car/l-intro-1794221487.jpg</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
     </image:image>
   </url>
 </urlset>
