@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-20T00:42:56Z</lastmod>
+    <lastmod>2026-11-20T03:45:03Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-20T00:42:56Z</lastmod>
+    <lastmod>2026-11-20T03:45:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-20T00:42:56Z</lastmod>
+    <lastmod>2026-11-20T03:45:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-20T00:42:56Z</lastmod>
+    <lastmod>2026-11-20T03:45:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-20T00:42:56Z</lastmod>
+    <lastmod>2026-11-20T03:45:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-20T00:42:56Z</lastmod>
+    <lastmod>2026-11-20T03:45:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-hyundai-suvs-launching-in-2027-ioniq-p-to-hyundai-creta/</loc>
+    <lastmod>2026-11-20T03:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_new_hyundai_suvs_in_2027_8c2b944962.webp</image:loc>
+      <image:title>4 New Hyundai SUVs Launching In 2027: Ioniq P To Hyundai Creta</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-new-hyundai-suvs-launching-in-2027-ioniq-p-to-hyundai-creta/</loc>
+    <lastmod>2026-11-20T03:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_new_hyundai_suvs_in_2027_8c2b944962.webp</image:loc>
+      <image:title>4 New Hyundai SUVs Launching In 2027: Ioniq P To Hyundai Creta</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2-new-toyota-7-seaters-in-2-weeks-all-you-need-to-know/</loc>
+    <lastmod>2026-11-20T02:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/2_new_toyota_7_seater_in_2_weeks_0ae87267fd.webp</image:loc>
+      <image:title>2 New Toyota 7 Seaters In 2 Weeks: All You Need To Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2-new-toyota-7-seaters-in-2-weeks-all-you-need-to-know/</loc>
+    <lastmod>2026-11-20T02:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/2_new_toyota_7_seater_in_2_weeks_0ae87267fd.webp</image:loc>
+      <image:title>2 New Toyota 7 Seaters In 2 Weeks: All You Need To Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-mont/</loc>
+    <lastmod>2026-11-20T02:30:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Kia-Carens-CNG-amp-Carens-Clavis-CNG-Launched-From-Rs.-12.11-Lakh.jpg</image:loc>
+      <image:title>Kia Carens CNG &amp; Clavis CNG Sales Get Past 6,200 Units Within 2 Months In India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-mont/</loc>
+    <lastmod>2026-11-20T02:30:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Kia-Carens-CNG-amp-Carens-Clavis-CNG-Launched-From-Rs.-12.11-Lakh.jpg</image:loc>
+      <image:title>Kia Carens CNG &amp; Clavis CNG Sales Get Past 6,200 Units Within 2 Months In India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/four-new-jsw-suvs-launching-in-12-months-we-tell-you-what-they-ar/</loc>
+    <lastmod>2026-11-20T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_new_jses_in_12_months_6c1e85bb00.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/four-new-jsw-suvs-launching-in-12-months-we-tell-you-what-they-ar/</loc>
+    <lastmod>2026-11-20T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_new_jses_in_12_months_6c1e85bb00.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/kia-sorento-hybrid-outsells-diesel-again/</loc>
+    <lastmod>2026-11-20T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/kia_sorento_hybrid_outsells_diesel_5dd00bba41.webp</image:loc>
+      <image:title>Inside Look: Kia Sorento Hybrid Outsells Diesel, Again! - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/kia-sorento-hybrid-outsells-diesel-again/</loc>
+    <lastmod>2026-11-20T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/kia_sorento_hybrid_outsells_diesel_5dd00bba41.webp</image:loc>
+      <image:title>Inside Look: Kia Sorento Hybrid Outsells Diesel, Again! - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bmw-r-12-gs-launched-in-india-at-rs-2540-lakh/</loc>
+    <lastmod>2026-11-20T01:30:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/02_BMW_R12_GS_parked_three_quarter.jpg</image:loc>
+      <image:title>BMW R 12 G/S Launched In India At Rs. 25.40 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bmw-r-12-gs-launched-in-india-at-rs-2540-lakh/</loc>
+    <lastmod>2026-11-20T01:30:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/02_BMW_R12_GS_parked_three_quarter.jpg</image:loc>
+      <image:title>BMW R 12 G/S Launched In India At Rs. 25.40 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2-new-7-seat-electric-suvs-from-tata-and-mahindra-launching-soon-/</loc>
+    <lastmod>2026-11-20T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/2_7_seater_electric_suvs_from_tata_mahindra_1_a40170cc5f.webp</image:loc>
+      <image:title>2 New 7-Seat Electric SUVs From Tata And Mahindra Launching Soon: All You Need To Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2-new-7-seat-electric-suvs-from-tata-and-mahindra-launching-soon-/</loc>
+    <lastmod>2026-11-20T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/2_7_seater_electric_suvs_from_tata_mahindra_1_a40170cc5f.webp</image:loc>
+      <image:title>2 New 7-Seat Electric SUVs From Tata And Mahindra Launching Soon: All You Need To Know</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/signify-extends-lighting-partnership-with-mercedes-amg-petronas-f/</loc>
@@ -2895,146 +3035,6 @@
     <image:image>
       <image:loc>https://www.jalopnik.com/img/gallery/this-40-year-old-econobox-has-the-top-epa-mpg-rating-of-any-non-hybrid-production-car/l-intro-1794221487.jpg</image:loc>
       <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-chevy-el-camino-launched-in-1959-and-this-is-the-utes-most-so/</loc>
-    <lastmod>2026-11-16T00:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-chevy-el-camino-launched-in-1959-and-this-is-the-utes-most-sought-after-model-year/l-intro-1794231517.jpg</image:loc>
-      <image:title>The Chevy El Camino Launched In 1959, And This Is The Ute&#x27;s Most Sought-After Model Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-chevy-el-camino-launched-in-1959-and-this-is-the-utes-most-so/</loc>
-    <lastmod>2026-11-16T00:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-chevy-el-camino-launched-in-1959-and-this-is-the-utes-most-sought-after-model-year/l-intro-1794231517.jpg</image:loc>
-      <image:title>The Chevy El Camino Launched In 1959, And This Is The Ute&#x27;s Most Sought-After Model Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/if-they-can-get-in-here-it-is-what-it-is-detroit-bus-driver-welco/</loc>
-    <lastmod>2026-11-15T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/if-they-can-get-in-here-it-is-what-it-is-detroit-bus-driver-welcomes-two-horses-to-board/l-intro-1794610604.jpg</image:loc>
-      <image:title>If They Can Get In Here, It Is What It Is&#x27; Detroit Bus Driver Welcomes Two Horses To Board</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/if-they-can-get-in-here-it-is-what-it-is-detroit-bus-driver-welco/</loc>
-    <lastmod>2026-11-15T23:25:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/if-they-can-get-in-here-it-is-what-it-is-detroit-bus-driver-welcomes-two-horses-to-board/l-intro-1794610604.jpg</image:loc>
-      <image:title>If They Can Get In Here, It Is What It Is&#x27; Detroit Bus Driver Welcomes Two Horses To Board</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-best-rental-car-companies-in-2026-according-to-jd-power/</loc>
-    <lastmod>2026-11-15T23:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-best-rental-car-companies-in-2026-according-to-jd-power/l-intro-1794228707.jpg</image:loc>
-      <image:title>The Best Rental Car Companies In 2026 According To JD Power</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-best-rental-car-companies-in-2026-according-to-jd-power/</loc>
-    <lastmod>2026-11-15T23:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-best-rental-car-companies-in-2026-according-to-jd-power/l-intro-1794228707.jpg</image:loc>
-      <image:title>The Best Rental Car Companies In 2026 According To JD Power</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/updated-mercedes-sl-brings-back-proper-benz-grand-tourer-report-s/</loc>
-    <lastmod>2026-11-15T23:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/updated-mercedes-sl-brings-back-proper-benz-grand-tourer-report-says/l-intro-1794582084.jpg</image:loc>
-      <image:title>Updated Mercedes SL Brings Back Proper Benz Grand Tourer, Report Says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/updated-mercedes-sl-brings-back-proper-benz-grand-tourer-report-s/</loc>
-    <lastmod>2026-11-15T23:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carscoops.com/img/gallery/updated-mercedes-sl-brings-back-proper-benz-grand-tourer-report-says/l-intro-1794582084.jpg</image:loc>
-      <image:title>Updated Mercedes SL Brings Back Proper Benz Grand Tourer, Report Says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-thar-roxx-spotted-with-davinci-suspension-upgrade/</loc>
-    <lastmod>2026-11-15T22:09:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/11/mahindra-thar-roxx-update-suspension-davinci.jpg</image:loc>
-      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mahindra-thar-roxx-spotted-with-davinci-suspension-upgrade/</loc>
-    <lastmod>2026-11-15T22:09:21+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.carblogindia.com/wp-content/uploads/2026/11/mahindra-thar-roxx-update-suspension-davinci.jpg</image:loc>
-      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/a-radically-different-approach-to-ai/</loc>
-    <lastmod>2026-11-15T22:05:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Fuzzy-definition-Luke-Jones-Unsplash.jpg</image:loc>
-      <image:title>Inside Look: A Radically Different Approach to AI - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/a-radically-different-approach-to-ai/</loc>
-    <lastmod>2026-11-15T22:05:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cleantechnica.com/wp-content/uploads/2026/11/Fuzzy-definition-Luke-Jones-Unsplash.jpg</image:loc>
-      <image:title>Inside Look: A Radically Different Approach to AI - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/the-largest-hummer-in-the-world-has-two-stories-and-a-full-kitche/</loc>
-    <lastmod>2026-11-15T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-largest-hummer-in-the-world-has-two-stories-and-a-full-kitchen/l-intro-1794225088.jpg</image:loc>
-      <image:title>The Largest Hummer In The World Has Two Stories And A Full Kitchen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/the-largest-hummer-in-the-world-has-two-stories-and-a-full-kitche/</loc>
-    <lastmod>2026-11-15T22:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.jalopnik.com/img/gallery/the-largest-hummer-in-the-world-has-two-stories-and-a-full-kitchen/l-intro-1794225088.jpg</image:loc>
-      <image:title>The Largest Hummer In The World Has Two Stories And A Full Kitchen</image:title>
     </image:image>
   </url>
 </urlset>
