@@ -3,39 +3,99 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-20T14:56:02Z</lastmod>
+    <lastmod>2026-11-20T17:57:28Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-20T14:56:02Z</lastmod>
+    <lastmod>2026-11-20T17:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-20T14:56:02Z</lastmod>
+    <lastmod>2026-11-20T17:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-20T14:56:02Z</lastmod>
+    <lastmod>2026-11-20T17:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-20T14:56:02Z</lastmod>
+    <lastmod>2026-11-20T17:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-20T14:56:02Z</lastmod>
+    <lastmod>2026-11-20T17:57:28Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hero-motocorp-dispatches-nearly-15000-flex-fuel-bikes-amid-limite/</loc>
+    <lastmod>2026-11-20T16:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hero_sells_15000_flex_fuel_bikes_bb5b48b823.webp</image:loc>
+      <image:title>Hero Motocorp Dispatches Nearly 15,000 Flex-Fuel Bikes Amid Limited E85 Availability</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hero-motocorp-dispatches-nearly-15000-flex-fuel-bikes-amid-limite/</loc>
+    <lastmod>2026-11-20T16:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hero_sells_15000_flex_fuel_bikes_bb5b48b823.webp</image:loc>
+      <image:title>Hero Motocorp Dispatches Nearly 15,000 Flex-Fuel Bikes Amid Limited E85 Availability</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bmw-alpina-to-launch-in-india-next-year-will-compete-with-mercede/</loc>
+    <lastmod>2026-11-20T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/bmw_alpina_coming_to_india_68a34545a3.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bmw-alpina-to-launch-in-india-next-year-will-compete-with-mercede/</loc>
+    <lastmod>2026-11-20T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/bmw_alpina_coming_to_india_68a34545a3.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/bmw-r-12-gs-off-roader-launched-in-india-at-rs-2540-lakh/</loc>
+    <lastmod>2026-11-20T15:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/bme_r12_gs_launched_in_india_7ad20645aa.webp</image:loc>
+      <image:title>BMW R 12 G/S Off-Roader Launched In India At Rs 25.40 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/bmw-r-12-gs-off-roader-launched-in-india-at-rs-2540-lakh/</loc>
+    <lastmod>2026-11-20T15:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/bme_r12_gs_launched_in_india_7ad20645aa.webp</image:loc>
+      <image:title>BMW R 12 G/S Off-Roader Launched In India At Rs 25.40 Lakh</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/byds-fang-cheng-bao-launches-ti-9-with-folding-steering-wheel/</loc>
@@ -2975,66 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/4500_kia_sorento_sales_milestone_3d127d15fd.webp</image:loc>
       <image:title>First Clear Look: Kia Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/horse-powertrain-unveils-it-first-v8-engine-makes-680ps-and-hybri/</loc>
-    <lastmod>2026-11-16T13:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/horse_powertrain_first_680_ps_v8_engine_2d7935b1a6.webp</image:loc>
-      <image:title>Horse Powertrain Unveils It First V8 Engine- Makes 680PS And Hybrid-Ready!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/horse-powertrain-unveils-it-first-v8-engine-makes-680ps-and-hybri/</loc>
-    <lastmod>2026-11-16T13:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/horse_powertrain_first_680_ps_v8_engine_2d7935b1a6.webp</image:loc>
-      <image:title>Horse Powertrain Unveils It First V8 Engine- Makes 680PS And Hybrid-Ready!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/haas-sticks-with-camara-for-las-vegas-gp-hirakawa-in-for-fp1/</loc>
-    <lastmod>2026-11-16T09:52:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn-9.motorsport.com/images/amp/YWKAR5KY/s6/rafael-camara-haas-f1-team.jpg</image:loc>
-      <image:title>Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/haas-sticks-with-camara-for-las-vegas-gp-hirakawa-in-for-fp1/</loc>
-    <lastmod>2026-11-16T09:52:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn-9.motorsport.com/images/amp/YWKAR5KY/s6/rafael-camara-haas-f1-team.jpg</image:loc>
-      <image:title>Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/vegas-gives-camara-chance-to-put-messy-debut-behind-him/</loc>
-    <lastmod>2026-11-16T09:10:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453194_HiRes.jpg</image:loc>
-      <image:title>Vegas gives Camara chance to put messy debut behind him</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/vegas-gives-camara-chance-to-put-messy-debut-behind-him/</loc>
-    <lastmod>2026-11-16T09:10:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453194_HiRes.jpg</image:loc>
-      <image:title>Vegas gives Camara chance to put messy debut behind him</image:title>
     </image:image>
   </url>
 </urlset>
