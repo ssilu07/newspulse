@@ -3,39 +3,59 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-21T14:16:25Z</lastmod>
+    <lastmod>2026-11-21T16:55:19Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-21T14:16:25Z</lastmod>
+    <lastmod>2026-11-21T16:55:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-21T14:16:25Z</lastmod>
+    <lastmod>2026-11-21T16:55:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-21T14:16:25Z</lastmod>
+    <lastmod>2026-11-21T16:55:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-21T14:16:25Z</lastmod>
+    <lastmod>2026-11-21T16:55:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-21T14:16:25Z</lastmod>
+    <lastmod>2026-11-21T16:55:19Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-ti7-faces-eu-ban-over-defender-design-tata-owned-jlr-secures-/</loc>
+    <lastmod>2026-11-21T14:19:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-jlr-defender-court-case-ti7-2.jpg</image:loc>
+      <image:title>BYD Ti7 Faces EU Ban Over Defender Design</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-ti7-faces-eu-ban-over-defender-design-tata-owned-jlr-secures-/</loc>
+    <lastmod>2026-11-21T14:19:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-jlr-defender-court-case-ti7-2.jpg</image:loc>
+      <image:title>BYD Ti7 Faces EU Ban Over Defender Design</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/hyundais-mahindra-xuv-7x0-rival-what-itll-offer/</loc>
@@ -3015,26 +3035,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2023/09/2023-tata-nexon-ev-facelift-30.jpg</image:loc>
       <image:title>EVs Outsell ICE-Powered Cars In Festive Season, Record 69% YoY Growth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-10-electric-scooters-oct-2026-chetak-iqube-vida-rizta-orbiter/</loc>
-    <lastmod>2026-11-17T09:18:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/01/bajaj-chetak-c25-first-ride-review.jpg</image:loc>
-      <image:title>Top 10 Electric Scooters Oct 2026 - Chetak, iQube, Vida, Rizta, Orbiter, Magnus, Konarc, Indie</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/top-10-electric-scooters-oct-2026-chetak-iqube-vida-rizta-orbiter/</loc>
-    <lastmod>2026-11-17T09:18:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/01/bajaj-chetak-c25-first-ride-review.jpg</image:loc>
-      <image:title>Top 10 Electric Scooters Oct 2026 - Chetak, iQube, Vida, Rizta, Orbiter, Magnus, Konarc, Indie</image:title>
     </image:image>
   </url>
 </urlset>

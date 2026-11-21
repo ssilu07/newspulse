@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/byd-ti7-faces-eu-ban-over-defender-design-tata-owned-jlr-secures-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:19:07+00:00</news:publication_date>
+      <news:title>BYD Ti7 Faces EU Ban Over Defender Design</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-jlr-defender-court-case-ti7-2.jpg</image:loc>
+      <image:title>BYD Ti7 Faces EU Ban Over Defender Design</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/hyundais-mahindra-xuv-7x0-rival-what-itll-offer/</loc>
     <news:news>
       <news:publication>
@@ -960,51 +975,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/2_7_seater_electric_suvs_from_tata_mahindra_1_a40170cc5f.webp</image:loc>
       <image:title>2 New 7-Seat Electric SUVs From Tata And Mahindra Launching Soon: All You Need To Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/signify-extends-lighting-partnership-with-mercedes-amg-petronas-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:42:00+00:00</news:publication_date>
-      <news:title>Signify Extends Lighting Partnership With Mercedes-AMG PETRONAS Formula One Team</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/signify_mercedes_amg_petronas_partnership_20e477174d.webp</image:loc>
-      <image:title>Signify Extends Lighting Partnership With Mercedes-AMG PETRONAS Formula One Team</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/heavy-duty-electric-trucks-deployed-at-adani-cements-plant/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T15:33:04+00:00</news:publication_date>
-      <news:title>Heavy-Duty Electric Trucks Deployed At Adani Cement&#x27;s Plant</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/adani_cement_sany_electric_truck_9df0b6c2e2.webp</image:loc>
-      <image:title>Heavy-Duty Electric Trucks Deployed At Adani Cement&#x27;s Plant</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ola-electric-ends-direct-store-orders-sales-shift-completely-to-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T15:05:00+00:00</news:publication_date>
-      <news:title>Ola Electric Ends Direct Store Orders, Sales Shift Completely To Dealer Outlets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/ola_no_more_direct_store_orders_b515253ab3.webp</image:loc>
-      <image:title>Ola Electric Ends Direct Store Orders, Sales Shift Completely To Dealer Outlets</image:title>
     </image:image>
   </url>
 </urlset>
