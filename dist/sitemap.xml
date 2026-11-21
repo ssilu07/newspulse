@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-21T00:03:24Z</lastmod>
+    <lastmod>2026-11-21T03:29:57Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-21T00:03:24Z</lastmod>
+    <lastmod>2026-11-21T03:29:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-21T00:03:24Z</lastmod>
+    <lastmod>2026-11-21T03:29:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-21T00:03:24Z</lastmod>
+    <lastmod>2026-11-21T03:29:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-21T00:03:24Z</lastmod>
+    <lastmod>2026-11-21T03:29:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-21T00:03:24Z</lastmod>
+    <lastmod>2026-11-21T03:29:57Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-confirmed-unveilsunveils-of-december-next-generation-fortuner-t/</loc>
+    <lastmod>2026-11-21T03:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_unveils_launches_of_december_aa2443f8d0.webp</image:loc>
+      <image:title>4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner To Honda ALPHA</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-confirmed-unveilsunveils-of-december-next-generation-fortuner-t/</loc>
+    <lastmod>2026-11-21T03:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_unveils_launches_of_december_aa2443f8d0.webp</image:loc>
+      <image:title>4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner To Honda ALPHA</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-xev-9s-vs-mg-tomahawk-ev-video-comparison/</loc>
+    <lastmod>2026-11-21T02:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/mahindra_xev_9s_vs_mg_hector_tomahawk_ev_35587fa518.webp</image:loc>
+      <image:title>Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-xev-9s-vs-mg-tomahawk-ev-video-comparison/</loc>
+    <lastmod>2026-11-21T02:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/mahindra_xev_9s_vs_mg_hector_tomahawk_ev_35587fa518.webp</image:loc>
+      <image:title>Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-india-records-20000-cumulative-ev-deliveries-tally-doubles-in/</loc>
+    <lastmod>2026-11-21T02:30:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/BYD-SEALION-7_Dynamic-Variant.jpg</image:loc>
+      <image:title>BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles In 14 Months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/byd-india-records-20000-cumulative-ev-deliveries-tally-doubles-in/</loc>
+    <lastmod>2026-11-21T02:30:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/BYD-SEALION-7_Dynamic-Variant.jpg</image:loc>
+      <image:title>BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles In 14 Months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-new-honda-cars-for-india-honda-alpha-to-prelude/</loc>
+    <lastmod>2026-11-21T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_hondas_in_india_e2cba6736e.webp</image:loc>
+      <image:title>5 New Honda Cars For India: Honda ALPHA To Prelude</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/5-new-honda-cars-for-india-honda-alpha-to-prelude/</loc>
+    <lastmod>2026-11-21T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_hondas_in_india_e2cba6736e.webp</image:loc>
+      <image:title>5 New Honda Cars For India: Honda ALPHA To Prelude</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-alpha/</loc>
+    <lastmod>2026-11-21T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_electric_suv_details_85639479f8.webp</image:loc>
+      <image:title>Inside Look: Honda ALPHA - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-alpha/</loc>
+    <lastmod>2026-11-21T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_electric_suv_details_85639479f8.webp</image:loc>
+      <image:title>Inside Look: Honda ALPHA - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-and-mahindra-electric-suvs-launching-in-2027-avinya-to-be07/</loc>
+    <lastmod>2026-11-21T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/upcoming_tata_mahindra_electric_suvs_82339e483a.webp</image:loc>
+      <image:title>Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tata-and-mahindra-electric-suvs-launching-in-2027-avinya-to-be07/</loc>
+    <lastmod>2026-11-21T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/upcoming_tata_mahindra_electric_suvs_82339e483a.webp</image:loc>
+      <image:title>Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/hero-motocorp-dispatches-nearly-15000-flex-fuel-bikes-amid-limite/</loc>
@@ -2915,126 +3035,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/MARUTI-SUZUKI-800-FIVA-WORLD-HERITAGE-AWARD.jpeg.jpg</image:loc>
       <image:title>Maruti 800 Becomes First Indian Car To Win FIVA World Vehicle Heritage Award</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-new-royal-enfields-launching-starting-this-month-himalayan-750-/</loc>
-    <lastmod>2026-11-17T01:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_royal_enfields_a813b17978.webp</image:loc>
-      <image:title>5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-new-royal-enfields-launching-starting-this-month-himalayan-750-/</loc>
-    <lastmod>2026-11-17T01:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_royal_enfields_a813b17978.webp</image:loc>
-      <image:title>5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/skoda-vw-sales-breakup-oct-2026-kylaq-slavia-kushaq-virtus-taigun/</loc>
-    <lastmod>2026-11-16T17:28:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/03/skoda-kylaq-sales-feb-2025.jpeg</image:loc>
-      <image:title>Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/skoda-vw-sales-breakup-oct-2026-kylaq-slavia-kushaq-virtus-taigun/</loc>
-    <lastmod>2026-11-16T17:28:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/03/skoda-kylaq-sales-feb-2025.jpeg</image:loc>
-      <image:title>Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-racing-unveils-804-bhp-m13electro-for-2027-formula-e-sea/</loc>
-    <lastmod>2026-11-16T17:10:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-racing-formula-e-new-2027-car-1.jpg</image:loc>
-      <image:title>Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mahindra-racing-unveils-804-bhp-m13electro-for-2027-formula-e-sea/</loc>
-    <lastmod>2026-11-16T17:10:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-racing-formula-e-new-2027-car-1.jpg</image:loc>
-      <image:title>Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/evs-outgrow-petrol-diesel-cars-during-festive-season-reason-is-si/</loc>
-    <lastmod>2026-11-16T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/festive_season_ev_sales_44e35b0dba.webp</image:loc>
-      <image:title>EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/evs-outgrow-petrol-diesel-cars-during-festive-season-reason-is-si/</loc>
-    <lastmod>2026-11-16T16:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/festive_season_ev_sales_44e35b0dba.webp</image:loc>
-      <image:title>EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-audi-a5-spotted-in-india-without-camouflage-launch-in-2027/</loc>
-    <lastmod>2026-11-16T15:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/audi_a5_spied_in_india_without_camouflage_689e8cb7c5.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-audi-a5-spotted-in-india-without-camouflage-launch-in-2027/</loc>
-    <lastmod>2026-11-16T15:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/audi_a5_spied_in_india_without_camouflage_689e8cb7c5.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4500-kia-sorentos-sold-since-launch/</loc>
-    <lastmod>2026-11-16T13:58:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4500_kia_sorento_sales_milestone_3d127d15fd.webp</image:loc>
-      <image:title>First Clear Look: Kia Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/4500-kia-sorentos-sold-since-launch/</loc>
-    <lastmod>2026-11-16T13:58:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4500_kia_sorento_sales_milestone_3d127d15fd.webp</image:loc>
-      <image:title>First Clear Look: Kia Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
 </urlset>

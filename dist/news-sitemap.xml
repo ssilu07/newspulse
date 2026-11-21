@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/4-confirmed-unveilsunveils-of-december-next-generation-fortuner-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T03:15:00+00:00</news:publication_date>
+      <news:title>4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner To Honda ALPHA</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_unveils_launches_of_december_aa2443f8d0.webp</image:loc>
+      <image:title>4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner To Honda ALPHA</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-xev-9s-vs-mg-tomahawk-ev-video-comparison/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T02:45:00+00:00</news:publication_date>
+      <news:title>Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/mahindra_xev_9s_vs_mg_hector_tomahawk_ev_35587fa518.webp</image:loc>
+      <image:title>Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/byd-india-records-20000-cumulative-ev-deliveries-tally-doubles-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T02:30:29+00:00</news:publication_date>
+      <news:title>BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles In 14 Months</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/BYD-SEALION-7_Dynamic-Variant.jpg</image:loc>
+      <image:title>BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles In 14 Months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-new-honda-cars-for-india-honda-alpha-to-prelude/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T02:15:00+00:00</news:publication_date>
+      <news:title>5 New Honda Cars For India: Honda ALPHA To Prelude</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_hondas_in_india_e2cba6736e.webp</image:loc>
+      <image:title>5 New Honda Cars For India: Honda ALPHA To Prelude</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-alpha/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T01:45:00+00:00</news:publication_date>
+      <news:title>Inside Look: Honda ALPHA - What Every Indian Car Owner Must Know</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_electric_suv_details_85639479f8.webp</image:loc>
+      <image:title>Inside Look: Honda ALPHA - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-and-mahindra-electric-suvs-launching-in-2027-avinya-to-be07/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T01:15:00+00:00</news:publication_date>
+      <news:title>Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/upcoming_tata_mahindra_electric_suvs_82339e483a.webp</image:loc>
+      <image:title>Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/hero-motocorp-dispatches-nearly-15000-flex-fuel-bikes-amid-limite/</loc>
     <news:news>
       <news:publication>
@@ -945,96 +1035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hyundai-neira-electric-mpv-revealed.jpg</image:loc>
       <image:title>New Hyundai Electric MPV Based On Kia Carens Clavis EV Debuts In Prod-Spec</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-upcoming-mpvs-hyundai-neira-to-toyota-innova-hycross-facelift/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T03:15:00+00:00</news:publication_date>
-      <news:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/7_upcoming_mpvs_ac6f158968.webp</image:loc>
-      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/e20-critics-are-idiots-says-union-minister/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T02:45:00+00:00</news:publication_date>
-      <news:title>E20 Critics Are Idiots, Says Union Minister</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/suresh_gopi_about_e20_critics_7ea19a0106.webp</image:loc>
-      <image:title>E20 Critics Are Idiots, Says Union Minister</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-alpina-brand-to-reportedly-arrive-in-india-in-2027-first-mode/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T02:30:17+00:00</news:publication_date>
-      <news:title>BMW Alpina Brand To Reportedly Arrive In India In 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BMW-Alpina.jpg</image:loc>
-      <image:title>BMW Alpina Brand To Reportedly Arrive In India In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/3-new-sedans-launching-soon-volkswagen-virtus-facelift-to-skoda-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T02:15:00+00:00</news:publication_date>
-      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_new_sedans_coming_soon_4343c962c9.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/minister-85-of-petrol-bunks-in-karnataka-are-not-dispensing-corre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T01:45:00+00:00</news:publication_date>
-      <news:title>Minister: 85% Of Petrol Bunks In Karnataka Are Not Dispensing Correct Quantity Of Fuel [Video]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/minister_says_karnataka_pumps_not_selling_correct_amount_of_fuel_823da685b5.webp</image:loc>
-      <image:title>Minister: 85% Of Petrol Bunks In Karnataka Are Not Dispensing Correct Quantity Of Fuel [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-upcoming-affordable-adventure-bikes-hero-xpulse-450-to-royal-en/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T01:15:00+00:00</news:publication_date>
-      <news:title>5 Upcoming Affordable Adventure Bikes: Hero XPulse 450 To Royal Enfield Himalayan 750</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_adventure_bikes_2b08f49c08.webp</image:loc>
-      <image:title>5 Upcoming Affordable Adventure Bikes: Hero XPulse 450 To Royal Enfield Himalayan 750</image:title>
     </image:image>
   </url>
 </urlset>

@@ -1,5 +1,641 @@
 [
   {
+    "id": "art_1795231772_1",
+    "slug": "4-confirmed-unveilsunveils-of-december-next-generation-fortuner-t",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner To Honda ALPHA",
+    "title": "4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner To Honda ALPHA",
+    "raw_summary": "Four confirmed unveils in December 2026: the next-gen Toyota Fortuner, Honda Alpha EV, JSW Combat plug-in hybrid, and Volkswagen Virtus facelift.",
+    "summary": "Four confirmed unveils in December 2026: the next-gen Toyota Fortuner, Honda Alpha EV, JSW Combat plug-in hybrid, and Volkswagen Virtus facelift.",
+    "image_url": "https://cdn.cartoq.com/photos/4_unveils_launches_of_december_aa2443f8d0.webp",
+    "original_url": "https://www.cartoq.com/car-news/cars-suvs-unveiling-december-2026/",
+    "published_at": "2026-11-21T03:15:00+00:00",
+    "time_ago": "14m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner To Honda ALPHA",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/4_unveils_launches_of_december_aa2443f8d0.webp",
+        "alt": "4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner To Honda ALPHA cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 301
+  },
+  {
+    "id": "art_1795231772_2",
+    "slug": "mahindra-xev-9s-vs-mg-tomahawk-ev-video-comparison",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison",
+    "title": "Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison",
+    "raw_summary": "The Mahindra XEV 9S and MG Hector Tomahawk EV go head to head on battery, range, space, features and pricing around Rs 25 lakh.",
+    "summary": "The Mahindra XEV 9S and MG Hector Tomahawk EV go head to head on battery, range, space, features and pricing around Rs 25 lakh.",
+    "image_url": "https://cdn.cartoq.com/photos/mahindra_xev_9s_vs_mg_hector_tomahawk_ev_35587fa518.webp",
+    "original_url": "https://www.cartoq.com/car-news/mahindra-xev-9s-vs-mg-tomahawk-ev-comparison/",
+    "published_at": "2026-11-21T02:45:00+00:00",
+    "time_ago": "44m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/mahindra_xev_9s_vs_mg_hector_tomahawk_ev_35587fa518.webp",
+        "alt": "Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 304
+  },
+  {
+    "id": "art_1795231772_5",
+    "slug": "byd-india-records-20000-cumulative-ev-deliveries-tally-doubles-in",
+    "category": "suvs-comparisons",
+    "category_name": "SUV Wars & Real Mileage",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Gaadiwaadi.com",
+    "raw_title": "BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles In 14 Months",
+    "title": "BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles In 14 Months",
+    "raw_summary": "GaadiWaadi - BYD India surpasses 20,000 customer deliveries as the Atto 3 and Sealion 7 secure over 14,000 handovers and the retail network reaches 40 cities BYD India has crossed 20,000 cumulative electric passenger car deliveries, twice the 10,000-unit total it announced in September 2025. The next 10,000 handovers took about 14 months, compared to almost four years for the first. The company presented its 20,000th vehicle to a customer at PPS BYD in Delhi on November 20, 2026. Importantly, the November figure represents cumulative customer deliveries since its entry into the passenger car market in 2021. The Atto 3 has contributed more than 9,000 deliveries, the largest disclosed model tally in the portfolio. The Sealion 7, which entered the market in February 2025, has already surpassed 5,000 customer handovers. Consequently, the two electric SUVs have together recorded more than 14,000 deliveries, a substantial portion of the company total. The Sealion 7 achieved its figure just 21 months after its introduction. The dealer network now consists of 51 showrooms in 40 cities, a notable development for a manufacturer whose first electric passenger model primarily served fleet operators. The company now caters to private customers as well, and its retail presence has grown alongside a more varied choice of vehicles. The current BYD portfolio comprises the Atto 3 and Sealion 7 SUVs, the Seal sedan and the eMAX 7 MPV. Model Body Style Technical Figure Basis Atto 3 Electric SUV Up to 521 km ARAI range Sealion 7 Electric SUV 0–100 kmph in 4.5 seconds Dual-motor AWD variant Seal Electric sedan Up to 650 km NEDC range eMax 7 Three-row electric MPV Up to 530 km NEDC range The original e6 introduced BYD passenger cars to India in 2021 and catered chiefly to commercial operators. Its successor, the eMAX 7, offers six- and seven-seat layouts, a distinctive alternative to the two SUVs and the Seal sedan. Meanwhile, the Seal provides a low-slung fastback body for customers who prefer a car to an SUV. The four models consequently address different passenger capacities and vehicle requirements. The electrical architecture provides another technical distinction between BYD and its established rivals. The proprietary Blade Battery employs a cell arrangement developed for durability and thermal safety. Cell-to-Body construction integrates battery components into the vehicle structure itself and can improve body rigidity and space efficiency. Separately, e-Platform 3.0 supplies the electrical and mechanical foundation for compatible BYD models and is designed specifically for electric propulsion. BYD has also entered the luxury vehicle category under the Denza name. The marque made its debut in November 2026 via the D9 electric MPV and Z9 GT grand tourer. The two cars occupy a different price category from the four established BYD passenger vehicles. Their introduction gives the company two distinct brands and a choice of vehicle types at the upper end of the electric car market. The manufacturer originally established operations in India in 2007 in the electric bus sector, well before its passenger vehicle debut. The current passenger car portfolio consists of imports, in contrast to locally manufactured alternatives. Separately, BYD has confirmed plans for the Seal U as its first plug-in hybrid in the country. The model combines a petrol engine and rechargeable battery, a departure from the battery-electric powertrains of the current BYD range.",
+    "summary": "GaadiWaadi - BYD India surpasses 20,000 customer deliveries as the Atto 3 and Sealion 7 secure over 14,000 handovers and the retail network reaches 40 cities BYD India has crossed 20,000 cumulative electric passenger car deliveries, twice the 10,000-unit total it announced in September 2025. The next 10,000 handovers took about 14 months, compared to almost four years for the first.",
+    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/08/BYD-SEALION-7_Dynamic-Variant.jpg",
+    "original_url": "https://gaadiwaadi.com/byd-india-records-20000-cumulative-ev-deliveries-tally-doubles-in-14-months/",
+    "published_at": "2026-11-21T02:30:29+00:00",
+    "time_ago": "59m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Gaadiwaadi.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "GaadiWaadi - BYD India surpasses 20,000 customer deliveries as the Atto 3 and Sealion 7 secure over 14,000 handovers and the retail network reaches 40 cities BYD India has crossed 20,000 cumulative electric passenger car deliveries, twice the 10,000-unit total it announced in September 2025.",
+      "The next 10,000 handovers took about 14 months, compared to almost four years for the first.",
+      "Official reporting verified via Gaadiwaadi.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/BYD-SEALION-7_Dynamic-Variant.jpg",
+        "alt": "BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles In 14 Months cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 341
+  },
+  {
+    "id": "art_1795231772_3",
+    "slug": "5-new-honda-cars-for-india-honda-alpha-to-prelude",
+    "category": "car-hacks",
+    "category_name": "Car Hacks & Secrets",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
+    "category_icon": "💡",
+    "source": "Cartoq.com",
+    "raw_title": "5 New Honda Cars For India: Honda ALPHA To Prelude",
+    "title": "5 New Honda Cars For India: Honda ALPHA To Prelude",
+    "raw_summary": "Honda is planning five new models for India, starting with the Alpha electric SUV on December 2. A sub-4-metre SUV, Creta rival, CR-V, and Prelude follow.",
+    "summary": "Honda is planning five new models for India, starting with the Alpha electric SUV on December 2. A sub-4-metre SUV, Creta rival, CR-V, and Prelude follow.",
+    "image_url": "https://cdn.cartoq.com/photos/5_new_hondas_in_india_e2cba6736e.webp",
+    "original_url": "https://www.cartoq.com/car-news/upcoming-honda-cars-launching-india/",
+    "published_at": "2026-11-21T02:15:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Creta, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
+      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
+      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
+      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
+      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
+    ],
+    "specs_table": [
+      {
+        "label": "Vehicle Contender",
+        "val": "Creta & Segment Rivals"
+      },
+      {
+        "label": "Powertrain Options",
+        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
+      },
+      {
+        "label": "ARAI Claimed Mileage",
+        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
+      },
+      {
+        "label": "Real-World City Mileage",
+        "val": "11.2 to 14.5 kmpl (Actual city commute)"
+      },
+      {
+        "label": "Real-World Highway Mileage",
+        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
+      }
+    ],
+    "bullet_points": [
+      "Honda is planning five new models for India, starting with the Alpha electric SUV on December 2.",
+      "A sub-4-metre SUV, Creta rival, CR-V, and Prelude follow.",
+      "Official reporting verified via Cartoq.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "5 New Honda Cars For India: Honda ALPHA To Prelude",
+        "badge": "🚨 BREAKING",
+        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
+        "image": "https://cdn.cartoq.com/photos/5_new_hondas_in_india_e2cba6736e.webp",
+        "alt": "5 New Honda Cars For India: Honda ALPHA To Prelude cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 299
+  },
+  {
+    "id": "art_1795231772_4",
+    "slug": "honda-alpha",
+    "category": "car-hacks",
+    "category_name": "Car Hacks & Secrets",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
+    "category_icon": "💡",
+    "source": "Cartoq.com",
+    "raw_title": "Honda ALPHA",
+    "title": "Inside Look: Honda ALPHA - What Every Indian Car Owner Must Know",
+    "raw_summary": "Honda ALPHA electric SUV debuts in India on December 2, 2026. Expected with LFP battery packs, 450–500 km range and a price between Rs 18–24 lakh.",
+    "summary": "Honda ALPHA electric SUV debuts in India on December 2, 2026. Expected with LFP battery packs, 450–500 km range and a price between Rs 18–24 lakh.",
+    "image_url": "https://cdn.cartoq.com/photos/honda_alpha_electric_suv_details_85639479f8.webp",
+    "original_url": "https://www.cartoq.com/car-news/honda-alpha-electric-suv-global-debut-details/",
+    "published_at": "2026-11-21T01:45:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "Honda ALPHA electric SUV debuts in India on December 2, 2026.",
+      "Expected with LFP battery packs, 450–500 km range and a price between Rs 18–24 lakh.",
+      "Official reporting verified via Cartoq.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Inside Look: Honda ALPHA - What Every Indian Car Owner Must Know",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/honda_alpha_electric_suv_details_85639479f8.webp",
+        "alt": "Inside Look: Honda ALPHA - What Every Indian Car Owner Must Know cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 306
+  },
+  {
+    "id": "art_1795231772_6",
+    "slug": "tata-and-mahindra-electric-suvs-launching-in-2027-avinya-to-be07",
+    "category": "safety-crashes",
+    "category_name": "Crash Safety & Build Quality",
+    "category_color": "#f59e0b",
+    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
+    "category_icon": "🛡️",
+    "source": "Cartoq.com",
+    "raw_title": "Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07",
+    "title": "Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07",
+    "raw_summary": "Five electric SUVs from Tata and Mahindra are expected in 2027, including the Safari EV, Avinya X, next-gen Nexon EV, BE 07 and Vision S.",
+    "summary": "Five electric SUVs from Tata and Mahindra are expected in 2027, including the Safari EV, Avinya X, next-gen Nexon EV, BE 07 and Vision S.",
+    "image_url": "https://cdn.cartoq.com/photos/upcoming_tata_mahindra_electric_suvs_82339e483a.webp",
+    "original_url": "https://www.cartoq.com/car-news/tata-mahindra-ev-suvs-launching-2027/",
+    "published_at": "2026-11-21T01:15:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Nexon, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
+      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
+      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
+      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
+      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
+    ],
+    "specs_table": [
+      {
+        "label": "Vehicle Contender",
+        "val": "Nexon & Segment Rivals"
+      },
+      {
+        "label": "Powertrain Options",
+        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
+      },
+      {
+        "label": "ARAI Claimed Mileage",
+        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
+      },
+      {
+        "label": "Real-World City Mileage",
+        "val": "11.2 to 14.5 kmpl (Actual city commute)"
+      },
+      {
+        "label": "Real-World Highway Mileage",
+        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
+      }
+    ],
+    "bullet_points": [
+      "Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07",
+        "badge": "🚨 BREAKING",
+        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
+        "image": "https://cdn.cartoq.com/photos/upcoming_tata_mahindra_electric_suvs_82339e483a.webp",
+        "alt": "Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07 cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 298
+  },
+  {
     "id": "art_1795197426_1",
     "slug": "hero-motocorp-dispatches-nearly-15000-flex-fuel-bikes-amid-limite",
     "category": "rules-challan",
@@ -15262,641 +15898,5 @@
     ],
     "ai_generated": false,
     "word_count": 343
-  },
-  {
-    "id": "art_1794880456_2",
-    "slug": "5-new-royal-enfields-launching-starting-this-month-himalayan-750-",
-    "category": "rules-challan",
-    "category_name": "Challan & RTO Alerts",
-    "category_color": "#dc2626",
-    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
-    "category_icon": "🚨",
-    "source": "Cartoq.com",
-    "raw_title": "5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6",
-    "title": "5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6",
-    "raw_summary": "5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6",
-    "summary": "5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6",
-    "image_url": "https://cdn.cartoq.com/photos/5_upcoming_royal_enfields_a813b17978.webp",
-    "original_url": "https://www.cartoq.com/bike-news/royal-enfield-five-new-motorcycles-india-launch/",
-    "published_at": "2026-11-17T01:15:00+00:00",
-    "time_ago": "39m ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Indian Passenger Vehicle, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
-      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
-      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
-      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
-      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
-    ],
-    "specs_table": [
-      {
-        "label": "Vehicle Contender",
-        "val": "Indian Passenger Vehicle & Segment Rivals"
-      },
-      {
-        "label": "Powertrain Options",
-        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
-      },
-      {
-        "label": "ARAI Claimed Mileage",
-        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
-      },
-      {
-        "label": "Real-World City Mileage",
-        "val": "11.2 to 14.5 kmpl (Actual city commute)"
-      },
-      {
-        "label": "Real-World Highway Mileage",
-        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
-      }
-    ],
-    "bullet_points": [
-      "5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "5 New Royal Enfields Launching Starting This Month: Himalayan 750",
-        "badge": "🚨 BREAKING",
-        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
-        "image": "https://cdn.cartoq.com/photos/5_upcoming_royal_enfields_a813b17978.webp",
-        "alt": "5 New Royal Enfields Launching Starting This Month: Himalayan 750 To Flying Flea S6 cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 289
-  },
-  {
-    "id": "art_1794858363_5",
-    "slug": "skoda-vw-sales-breakup-oct-2026-kylaq-slavia-kushaq-virtus-taigun",
-    "category": "suvs-comparisons",
-    "category_name": "SUV Wars & Real Mileage",
-    "category_color": "#ea580c",
-    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
-    "category_icon": "🚙",
-    "source": "Rushlane.com",
-    "raw_title": "Skoda VW Sales Breakup Oct 2026 – Kylaq, Slavia, Kushaq, Virtus, Taigun",
-    "title": "Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun",
-    "raw_summary": "Skoda and Volkswagen sold a combined 10,718 cars in October 2026, up 28.82% from 8,320 units in September. Both brands gained month on month, with Skoda adding 1,703 units and Volkswagen adding 695 units. Combined sales were down 12.86% from 12,300 units in October 2025. The Slavia and Virtus drove the monthly recovery. The two sedans added 2,645 units between them over September, exceeding the brands’ combined net gain of 2,398 units as several SUVs, including the Kylaq, Kushaq and Taigun, lost volume.",
-    "summary": "Skoda and Volkswagen sold a combined 10,718 cars in October 2026, up 28.82% from 8,320 units in September. Both brands gained month on month, with Skoda adding 1,703 units and Volkswagen adding 695 units. Combined sales were down 12.86% from 12,300 units in October 2025. The Slavia and Virtus drove the monthly recovery. The two sedans added 2,645 units between them over September, exceeding the brands’ combined net gain of 2,398 units as several SUVs, including the Kylaq, Kushaq and Taigun, lost volume.",
-    "image_url": "https://www.rushlane.com/wp-content/uploads/2025/03/skoda-kylaq-sales-feb-2025.jpeg",
-    "original_url": "https://www.rushlane.com/skoda-vw-sales-breakup-oct-2026-kylaq-slavia-kushaq-virtus-taigun-12561298.html",
-    "published_at": "2026-11-16T17:28:32+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Rushlane.com highlight pivotal updates regarding Indian Passenger Vehicle, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
-      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
-      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
-      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
-      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
-    ],
-    "specs_table": [
-      {
-        "label": "Vehicle Contender",
-        "val": "Indian Passenger Vehicle & Segment Rivals"
-      },
-      {
-        "label": "Powertrain Options",
-        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
-      },
-      {
-        "label": "ARAI Claimed Mileage",
-        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
-      },
-      {
-        "label": "Real-World City Mileage",
-        "val": "11.2 to 14.5 kmpl (Actual city commute)"
-      },
-      {
-        "label": "Real-World Highway Mileage",
-        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
-      }
-    ],
-    "bullet_points": [
-      "Skoda and Volkswagen sold a combined 10,718 cars in October 2026, up 28.82% from 8,320 units in September.",
-      "Both brands gained month on month, with Skoda adding 1,703 units and Volkswagen adding 695 units.",
-      "Combined sales were down 12.86% from 12,300 units in October 2025.",
-      "The Slavia and Virtus drove the monthly recovery."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, ",
-        "badge": "🚨 BREAKING",
-        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
-        "image": "https://www.rushlane.com/wp-content/uploads/2025/03/skoda-kylaq-sales-feb-2025.jpeg",
-        "alt": "Skoda VW Sales Breakup Oct 2026 - Kylaq, Slavia, Kushaq, Virtus, Taigun cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 358
-  },
-  {
-    "id": "art_1794858363_6",
-    "slug": "mahindra-racing-unveils-804-bhp-m13electro-for-2027-formula-e-sea",
-    "category": "suvs-comparisons",
-    "category_name": "SUV Wars & Real Mileage",
-    "category_color": "#ea580c",
-    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
-    "category_icon": "🚙",
-    "source": "Rushlane.com",
-    "raw_title": "Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season – Gen 4 Era",
-    "title": "Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season",
-    "raw_summary": "Mahindra Racing has unveiled the M13Electro, its challenger for the 2027 ABB FIA Formula E World Championship. The car marks the Indian team’s switch to Formula E’s GEN4 regulations, which introduce active all-wheel drive, up to 600 kW (around 804 bhp) of peak power and a claimed 0–100 km/h time of 1.8 seconds. The M13Electro made its debut online in Mahindra Racing’s signature red livery. The team has retained Nyck de Vries and Edoardo Mortara for a fourth consecutive season , giving Mahindra continuity in its driver lineup as it begins work with an all-new car.",
-    "summary": "Mahindra Racing has unveiled the M13Electro, its challenger for the 2027 ABB FIA Formula E World Championship. The car marks the Indian team’s switch to Formula E’s GEN4 regulations, which introduce active all-wheel drive, up to 600 kW (around 804 bhp) of peak power and a claimed 0–100 km/h time of 1.8 seconds. The M13Electro made its debut online in Mahindra Racing’s signature red livery.",
-    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-racing-formula-e-new-2027-car-1.jpg",
-    "original_url": "https://www.rushlane.com/mahindra-racing-unveils-804-bhp-m13electro-for-2027-formula-e-12561314.html",
-    "published_at": "2026-11-16T17:10:39+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Rushlane.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ],
-    "bullet_points": [
-      "Mahindra Racing has unveiled the M13Electro, its challenger for the 2027 ABB FIA Formula E World Championship.",
-      "The car marks the Indian team’s switch to Formula E’s GEN4 regulations, which introduce active all-wheel drive, up to 600 kW (around 804 bhp) of peak power and a claimed 0–100 km/h time of 1.8 seconds.",
-      "Official reporting verified via Rushlane.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Sea",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-racing-formula-e-new-2027-car-1.jpg",
-        "alt": "Mahindra Racing Unveils 804 bhp M13Electro For 2027 Formula E Season cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 345
-  },
-  {
-    "id": "art_1794858363_1",
-    "slug": "evs-outgrow-petrol-diesel-cars-during-festive-season-reason-is-si",
-    "category": "rules-challan",
-    "category_name": "Challan & RTO Alerts",
-    "category_color": "#dc2626",
-    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
-    "category_icon": "🚨",
-    "source": "Cartoq.com",
-    "raw_title": "EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple",
-    "title": "EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple",
-    "raw_summary": "Electric car sales rose 69% during the festive season, but a low base and an unusually strong prior year explain much of the headline gap with petrol and diesel.",
-    "summary": "Electric car sales rose 69% during the festive season, but a low base and an unusually strong prior year explain much of the headline gap with petrol and diesel.",
-    "image_url": "https://cdn.cartoq.com/photos/festive_season_ev_sales_44e35b0dba.webp",
-    "original_url": "https://www.cartoq.com/car-news/ev-sales-festive-season-growth-context/",
-    "published_at": "2026-11-16T16:05:00+00:00",
-    "time_ago": "3h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Cartoq.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
-      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
-      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
-      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
-      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
-    ],
-    "specs_table": [
-      {
-        "label": "Offense / Violation",
-        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
-      },
-      {
-        "label": "Governing Section",
-        "val": "Section 177 / 190(2) & Rule 100 CMVR"
-      },
-      {
-        "label": "Fine Amount (First)",
-        "val": "Rs 1,000 + Removal on spot"
-      },
-      {
-        "label": "Fine Amount (Repeat)",
-        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
-      },
-      {
-        "label": "Dispute Portal",
-        "val": "echallan.parivahan.gov.in (Virtual Courts)"
-      }
-    ],
-    "bullet_points": [
-      "EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is ",
-        "badge": "🚨 BREAKING",
-        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
-        "image": "https://cdn.cartoq.com/photos/festive_season_ev_sales_44e35b0dba.webp",
-        "alt": "EVs Outgrow Petrol, Diesel Cars During Festive Season: Reason Is Simple cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 372
-  },
-  {
-    "id": "art_1794858363_2",
-    "slug": "new-audi-a5-spotted-in-india-without-camouflage-launch-in-2027",
-    "category": "rules-challan",
-    "category_name": "Challan & RTO Alerts",
-    "category_color": "#dc2626",
-    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
-    "category_icon": "🚨",
-    "source": "Cartoq.com",
-    "raw_title": "New Audi A5 Spotted In India Without Camouflage, Launch In 2027",
-    "title": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside & Out",
-    "raw_summary": "The Audi A5, replacing the A4, has been spotted uncamouflaged in India. Built on a new platform, it is expected to launch in February 2027 with local assembly.",
-    "summary": "The Audi A5, replacing the A4, has been spotted uncamouflaged in India. Built on a new platform, it is expected to launch in February 2027 with local assembly.",
-    "image_url": "https://cdn.cartoq.com/photos/audi_a5_spied_in_india_without_camouflage_689e8cb7c5.webp",
-    "original_url": "https://www.cartoq.com/car-news/audi-a5-spied-india-launch-2027/",
-    "published_at": "2026-11-16T15:05:00+00:00",
-    "time_ago": "4h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ],
-    "bullet_points": [
-      "The Audi A5, replacing the A4, has been spotted uncamouflaged in India.",
-      "Built on a new platform, it is expected to launch in February 2027 with local assembly.",
-      "Official reporting verified via Cartoq.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades ",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://cdn.cartoq.com/photos/audi_a5_spied_in_india_without_camouflage_689e8cb7c5.webp",
-        "alt": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside & Out cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 308
-  },
-  {
-    "id": "art_1794840662_1",
-    "slug": "4500-kia-sorentos-sold-since-launch",
-    "category": "rules-challan",
-    "category_name": "Challan & RTO Alerts",
-    "category_color": "#dc2626",
-    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
-    "category_icon": "🚨",
-    "source": "Cartoq.com",
-    "raw_title": "4500 Kia Sorentos Sold Since Launch!",
-    "title": "First Clear Look: Kia Leaked With Major Design Upgrades Inside & Out",
-    "raw_summary": "Kia reports over 4,500 wholesale dispatches of the Sorento within two months of its September launch, signalling strong initial momentum against the Fortuner.",
-    "summary": "Kia reports over 4,500 wholesale dispatches of the Sorento within two months of its September launch, signalling strong initial momentum against the Fortuner.",
-    "image_url": "https://cdn.cartoq.com/photos/4500_kia_sorento_sales_milestone_3d127d15fd.webp",
-    "original_url": "https://www.cartoq.com/car-news/kia-sorento-4500-sales-since-launch/",
-    "published_at": "2026-11-16T13:58:52+00:00",
-    "time_ago": "52m ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Fortuner, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
-      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
-      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
-      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
-      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
-    ],
-    "specs_table": [
-      {
-        "label": "Vehicle Contender",
-        "val": "Fortuner & Segment Rivals"
-      },
-      {
-        "label": "Powertrain Options",
-        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
-      },
-      {
-        "label": "ARAI Claimed Mileage",
-        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
-      },
-      {
-        "label": "Real-World City Mileage",
-        "val": "11.2 to 14.5 kmpl (Actual city commute)"
-      },
-      {
-        "label": "Real-World Highway Mileage",
-        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
-      }
-    ],
-    "bullet_points": [
-      "First Clear Look: Kia Leaked With Major Design Upgrades Inside & Out",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "First Clear Look: Kia Leaked With Major Design Upgrades Inside & ",
-        "badge": "🚨 BREAKING",
-        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
-        "image": "https://cdn.cartoq.com/photos/4500_kia_sorento_sales_milestone_3d127d15fd.webp",
-        "alt": "First Clear Look: Kia Leaked With Major Design Upgrades Inside & Out cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 296
   }
 ]
