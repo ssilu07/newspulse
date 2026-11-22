@@ -3,39 +3,79 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-22T14:06:15Z</lastmod>
+    <lastmod>2026-11-22T17:17:27Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-22T14:06:15Z</lastmod>
+    <lastmod>2026-11-22T17:17:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-22T14:06:15Z</lastmod>
+    <lastmod>2026-11-22T17:17:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-22T14:06:15Z</lastmod>
+    <lastmod>2026-11-22T17:17:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-22T14:06:15Z</lastmod>
+    <lastmod>2026-11-22T17:17:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-22T14:06:15Z</lastmod>
+    <lastmod>2026-11-22T17:17:27Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/pm-advisor-evs-to-become-major-electricity-consumers-power-compan/</loc>
+    <lastmod>2026-11-22T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/pm_advisor_about_power_companies_and_ev_b6d01aa05f.webp</image:loc>
+      <image:title>PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/pm-advisor-evs-to-become-major-electricity-consumers-power-compan/</loc>
+    <lastmod>2026-11-22T15:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/pm_advisor_about_power_companies_and_ev_b6d01aa05f.webp</image:loc>
+      <image:title>PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-maruti-suvs-fronx-facelift-to-y43/</loc>
+    <lastmod>2026-11-22T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_eb72ceb848.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-new-maruti-suvs-fronx-facelift-to-y43/</loc>
+    <lastmod>2026-11-22T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_eb72ceb848.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/suzuki-access-new-colours-royal-bronze-and-mat-bordeaux-red-in-me/</loc>
@@ -2995,46 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/08/new-tvs-jupiter-sales-record.jpg</image:loc>
       <image:title>Top 10 Scooters Oct 2026 - Activa, Jupiter, Access, Chetak, iQube, Ntorq, Destini, Burgman, Dio, Vida</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-xev-9s-gets-5-star-bharat-ncap-safety-rating/</loc>
-    <lastmod>2026-11-18T04:00:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XEV-9S-Safety-Bharat-NCAP.jpg</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Mahindra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mahindra-xev-9s-gets-5-star-bharat-ncap-safety-rating/</loc>
-    <lastmod>2026-11-18T04:00:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XEV-9S-Safety-Bharat-NCAP.jpg</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Mahindra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-10-motorcycles-oct-2026-splendor-shine-pulsar-apache-classic-/</loc>
-    <lastmod>2026-11-18T03:53:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/new-tvs-apache-160-sales-high.jpg</image:loc>
-      <image:title>Top 10 Motorcycles Oct 2026 - Splendor, Shine, Pulsar, Apache, Classic, Unicorn, Raider, Bullet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/top-10-motorcycles-oct-2026-splendor-shine-pulsar-apache-classic-/</loc>
-    <lastmod>2026-11-18T03:53:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/new-tvs-apache-160-sales-high.jpg</image:loc>
-      <image:title>Top 10 Motorcycles Oct 2026 - Splendor, Shine, Pulsar, Apache, Classic, Unicorn, Raider, Bullet</image:title>
     </image:image>
   </url>
 </urlset>

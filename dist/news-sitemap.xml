@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/pm-advisor-evs-to-become-major-electricity-consumers-power-compan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T15:05:00+00:00</news:publication_date>
+      <news:title>PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/pm_advisor_about_power_companies_and_ev_b6d01aa05f.webp</image:loc>
+      <image:title>PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-maruti-suvs-fronx-facelift-to-y43/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T14:05:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_eb72ceb848.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/suzuki-access-new-colours-royal-bronze-and-mat-bordeaux-red-in-me/</loc>
     <news:news>
       <news:publication>
@@ -720,66 +750,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/upcoming_tata_mahindra_electric_suvs_82339e483a.webp</image:loc>
       <image:title>Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hero-motocorp-dispatches-nearly-15000-flex-fuel-bikes-amid-limite/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T16:42:00+00:00</news:publication_date>
-      <news:title>Hero Motocorp Dispatches Nearly 15,000 Flex-Fuel Bikes Amid Limited E85 Availability</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/hero_sells_15000_flex_fuel_bikes_bb5b48b823.webp</image:loc>
-      <image:title>Hero Motocorp Dispatches Nearly 15,000 Flex-Fuel Bikes Amid Limited E85 Availability</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-alpina-to-launch-in-india-next-year-will-compete-with-mercede/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T16:05:00+00:00</news:publication_date>
-      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/bmw_alpina_coming_to_india_68a34545a3.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-r-12-gs-off-roader-launched-in-india-at-rs-2540-lakh/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T15:42:00+00:00</news:publication_date>
-      <news:title>BMW R 12 G/S Off-Roader Launched In India At Rs 25.40 Lakh</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/bme_r12_gs_launched_in_india_7ad20645aa.webp</image:loc>
-      <image:title>BMW R 12 G/S Off-Roader Launched In India At Rs 25.40 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-fang-cheng-bao-launches-ti-9-with-folding-steering-wheel/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T14:17:15+00:00</news:publication_date>
-      <news:title>BYD&#x27;s Fang Cheng Bao Launches Ti 9 With Folding Steering Wheel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BYDs-Fang-Cheng-Bao-Ti-9.jpg</image:loc>
-      <image:title>BYD&#x27;s Fang Cheng Bao Launches Ti 9 With Folding Steering Wheel</image:title>
     </image:image>
   </url>
 </urlset>

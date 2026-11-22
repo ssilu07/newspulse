@@ -1,5 +1,217 @@
 [
   {
+    "id": "art_1795367827_1",
+    "slug": "pm-advisor-evs-to-become-major-electricity-consumers-power-compan",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready",
+    "title": "PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready",
+    "raw_summary": "PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready",
+    "summary": "PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready",
+    "image_url": "https://cdn.cartoq.com/photos/pm_advisor_about_power_companies_and_ev_b6d01aa05f.webp",
+    "original_url": "https://www.cartoq.com/car-news/evs-electricity-demand-discoms-pm-adviser/",
+    "published_at": "2026-11-22T15:05:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Indian Passenger Vehicle, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
+      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
+      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
+      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
+      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
+    ],
+    "specs_table": [
+      {
+        "label": "Vehicle Contender",
+        "val": "Indian Passenger Vehicle & Segment Rivals"
+      },
+      {
+        "label": "Powertrain Options",
+        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
+      },
+      {
+        "label": "ARAI Claimed Mileage",
+        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
+      },
+      {
+        "label": "Real-World City Mileage",
+        "val": "11.2 to 14.5 kmpl (Actual city commute)"
+      },
+      {
+        "label": "Real-World Highway Mileage",
+        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
+      }
+    ],
+    "bullet_points": [
+      "PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "PM Advisor: EVs To Become Major Electricity Consumers, Power Comp",
+        "badge": "🚨 BREAKING",
+        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
+        "image": "https://cdn.cartoq.com/photos/pm_advisor_about_power_companies_and_ev_b6d01aa05f.webp",
+        "alt": "PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 288
+  },
+  {
+    "id": "art_1795367827_2",
+    "slug": "4-new-maruti-suvs-fronx-facelift-to-y43",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "4 New Maruti SUVs- Fronx Facelift To Y43",
+    "title": "First Clear Look: Maruti Leaked With Major Design Upgrades Inside & Out",
+    "raw_summary": "Maruti Suzuki is readying four new SUVs including the Fronx facelift, Grand Vitara 7-seater, and Y43 micro-SUV. Here are launch timelines and expected features.",
+    "summary": "Maruti Suzuki is readying four new SUVs including the Fronx facelift, Grand Vitara 7-seater, and Y43 micro-SUV. Here are launch timelines and expected features.",
+    "image_url": "https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_eb72ceb848.webp",
+    "original_url": "https://www.cartoq.com/car-news/upcoming-maruti-suzuki-suvs-2027/",
+    "published_at": "2026-11-22T14:05:00+00:00",
+    "time_ago": "3h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "Maruti Suzuki is readying four new SUVs including the Fronx facelift, Grand Vitara 7-seater, and Y43 micro-SUV.",
+      "Here are launch timelines and expected features.",
+      "Official reporting verified via Cartoq.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "First Clear Look: Maruti Leaked With Major Design Upgrades Inside",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_eb72ceb848.webp",
+        "alt": "First Clear Look: Maruti Leaked With Major Design Upgrades Inside & Out cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 304
+  },
+  {
     "id": "art_1795356349_4",
     "slug": "suzuki-access-new-colours-royal-bronze-and-mat-bordeaux-red-in-me",
     "category": "suvs-comparisons",
@@ -15686,217 +15898,5 @@
     ],
     "ai_generated": false,
     "word_count": 346
-  },
-  {
-    "id": "art_1795025858_5",
-    "slug": "mahindra-xev-9s-gets-5-star-bharat-ncap-safety-rating",
-    "category": "discounts-offers",
-    "category_name": "Discounts & Waiting Periods",
-    "category_color": "#10b981",
-    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-    "category_icon": "🏷️",
-    "source": "Gaadiwaadi.com",
-    "raw_title": "Mahindra XEV 9S Gets 5-Star Bharat NCAP Safety Rating",
-    "title": "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Mahindra",
-    "raw_summary": "GaadiWaadi - Mahindra’s three-row electric SUV, the XEV 9S, becomes the safest seven-seat electric car made in India as per the Bharat NCAP Mahindra has announced that the 9S, the latest model in its premium electric car line-up, has received the five-star safety rating under the Bharat New Car Assessment Programme (Bharat NCAP). The company claims this is India’s first 7-seat electric vehicle to achieve this top-tier rating under Bharat NCAP. In Adult Occupant Protection (AOP), the Mahindra XEV 9S scored 31.15 out of the maximum 32 points. In Child Occupant Protection (COP), the three-row electric SUV achieved 45 out of the maximum 49 points. These results gave the EV a combined score of 76.15 out of the total 81 points. In AOP specifically, the Mahindra XEV 9S scored 15.15 out of the maximum 16 points in the frontal offset deformable barrier test and 16 out of the maximum 16 points in the side movable deformable barrier test. The only reason the EV couldn’t achieve the maximum score in the frontal offset deformable barrier test was that the chest protection for the front passenger was found adequate instead of good. Moving to COP, the Mahindra XEV 9S achieved the maximum 24 and 12 points in dynamic score and Child Restraint System installation score, respectively. It lost four points in vehicle assessment score, though, achieving 9 out of the maximum 12 points. Mahindra offers the XEV 9S in ten configurations, with prices ranging from Rs. 20,65,000 (ex-showroom) to Rs. 30,15,000 (ex-showroom). Bharat NCAP says the five-star rating applies to a total of 18 configurations, including eight unlisted ones: One Above 59 kWh 6-seater, One Above 70 kWh 6-seater, One Above 79 kWh 6-seater, One Above 70 kWh 7-seater, Two Above 59 kWh 6-seater, Two Above 59 kWh 7-seater, Three 59 kWh 6-seater, and Three 59 kWh 7-seater. Bharat NCAP used a Pack Two Above 79 kWh 6-seater unit and a Pack Three Above 79 kWh 7-seater unit for its tests. Both configurations feature front, front-side, and curtain airbags, and the latter also comes with a driver’s knee airbag. Another difference between the two is that the latter comes with five radars instead of just one in the former. It offers a long list of additional advanced driver assistance systems, including Forward Cross Traffic Alert (FCTA), Rear Cross Traffic Alert (RCTA), Autonomous Emergency Steering (AES), Evasive Steering Assist (ESA), Emergency Lane Keep Assist (ELKA), Blind Spot Detection (BSD), Highway Assist (including Driver Initiated Auto Lane Change), Rear Collision Warning (RCW), and Door Open Alert (DOA).",
-    "summary": "GaadiWaadi - Mahindra’s three-row electric SUV, the XEV 9S, becomes the safest seven-seat electric car made in India as per the Bharat NCAP Mahindra has announced that the 9S, the latest model in its premium electric car line-up, has received the five-star safety rating under the Bharat New Car Assessment Programme (Bharat NCAP). The company claims this is India’s first 7-seat electric vehicle to achieve this top-tier rating under Bharat NCAP.",
-    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XEV-9S-Safety-Bharat-NCAP.jpg",
-    "original_url": "https://gaadiwaadi.com/mahindra-xev-9s-gets-5-star-bharat-ncap-safety-rating/",
-    "published_at": "2026-11-18T04:00:54+00:00",
-    "time_ago": "14h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Gaadiwaadi.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
-      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
-      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
-      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
-      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
-    ],
-    "specs_table": [
-      {
-        "label": "Offense / Violation",
-        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
-      },
-      {
-        "label": "Governing Section",
-        "val": "Section 177 / 190(2) & Rule 100 CMVR"
-      },
-      {
-        "label": "Fine Amount (First)",
-        "val": "Rs 1,000 + Removal on spot"
-      },
-      {
-        "label": "Fine Amount (Repeat)",
-        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
-      },
-      {
-        "label": "Dispute Portal",
-        "val": "echallan.parivahan.gov.in (Virtual Courts)"
-      }
-    ],
-    "bullet_points": [
-      "GaadiWaadi - Mahindra’s three-row electric SUV, the XEV 9S, becomes the safest seven-seat electric car made in India as per the Bharat NCAP Mahindra has announced that the 9S, the latest model in its premium electric car line-up, has received the five-star safety rating under the Bharat New Car Assessment Programme (Bharat NCAP).",
-      "The company claims this is India’s first 7-seat electric vehicle to achieve this top-tier rating under Bharat NCAP.",
-      "Official reporting verified via Gaadiwaadi.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Te",
-        "badge": "🚨 BREAKING",
-        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
-        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XEV-9S-Safety-Bharat-NCAP.jpg",
-        "alt": "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Mahindra cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 414
-  },
-  {
-    "id": "art_1795014555_10",
-    "slug": "top-10-motorcycles-oct-2026-splendor-shine-pulsar-apache-classic-",
-    "category": "spied-upcoming",
-    "category_name": "Leaked Spyshots & Launches",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #f43f5e)",
-    "category_icon": "📸",
-    "source": "Rushlane.com",
-    "raw_title": "Top 10 Motorcycles Oct 2026 – Splendor, Shine, Pulsar, Apache, Classic, Unicorn, Raider, Bullet",
-    "title": "Top 10 Motorcycles Oct 2026 - Splendor, Shine, Pulsar, Apache, Classic, Unicorn, Raider, Bullet",
-    "raw_summary": "After taking a look at the total two wheeler sales , let us now take a look at the motorcycle sales, which reached 18,81,438 units in October 2026, including domestic sales and exports. Volumes rose 9.58% from 17,17,017 units in October 2025 and 0.23% from 18,77,173 units in September 2026. Hero Splendor led the domestic rankings with 4,15,144 units, while motorcycle exports grew more than three times as fast as domestic sales year on year. October’s 10 bestselling motorcycles accounted for 11,34,833 domestic sales, up 18.57% from 9,57,136 units for the same models a year earlier. Together, they represented nearly 80% of domestic motorcycle sales. The Splendor alone accounted for 36.58% of the top 10 tally and just over 29% of the domestic motorcycle market.",
-    "summary": "After taking a look at the total two wheeler sales , let us now take a look at the motorcycle sales, which reached 18,81,438 units in October 2026, including domestic sales and exports. Volumes rose 9.58% from 17,17,017 units in October 2025 and 0.23% from 18,77,173 units in September 2026. Hero Splendor led the domestic rankings with 4,15,144 units, while motorcycle exports grew more than three times as fast as domestic sales year on year.",
-    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/09/new-tvs-apache-160-sales-high.jpg",
-    "original_url": "https://www.rushlane.com/top-10-motorcycles-oct-2026-splendor-shine-pulsar-apache-12561417.html",
-    "published_at": "2026-11-18T03:53:43+00:00",
-    "time_ago": "11h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Rushlane.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ],
-    "bullet_points": [
-      "After taking a look at the total two wheeler sales , let us now take a look at the motorcycle sales, which reached 18,81,438 units in October 2026, including domestic sales and exports.",
-      "Volumes rose 9.58% from 17,17,017 units in October 2025 and 0.23% from 18,77,173 units in September 2026.",
-      "Official reporting verified via Rushlane.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Top 10 Motorcycles Oct 2026 - Splendor, Shine, Pulsar, Apache, Cl",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/09/new-tvs-apache-160-sales-high.jpg",
-        "alt": "Top 10 Motorcycles Oct 2026 - Splendor, Shine, Pulsar, Apache, Classic, Unicorn, Raider, Bullet cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 355
   }
 ]
