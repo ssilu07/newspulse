@@ -3,39 +3,139 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-22T09:58:37Z</lastmod>
+    <lastmod>2026-11-22T14:06:15Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-22T09:58:37Z</lastmod>
+    <lastmod>2026-11-22T14:06:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-22T09:58:37Z</lastmod>
+    <lastmod>2026-11-22T14:06:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-22T09:58:37Z</lastmod>
+    <lastmod>2026-11-22T14:06:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-22T09:58:37Z</lastmod>
+    <lastmod>2026-11-22T14:06:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-22T09:58:37Z</lastmod>
+    <lastmod>2026-11-22T14:06:15Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/suzuki-access-new-colours-royal-bronze-and-mat-bordeaux-red-in-me/</loc>
+    <lastmod>2026-11-22T13:11:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Metallic-Mat-Bordeaux-Red-colour-Suzuki-Access.jpeg</image:loc>
+      <image:title>Suzuki Access new colours -  Royal Bronze, and Mat Bordeaux Red in Metallic</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/suzuki-access-new-colours-royal-bronze-and-mat-bordeaux-red-in-me/</loc>
+    <lastmod>2026-11-22T13:11:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Metallic-Mat-Bordeaux-Red-colour-Suzuki-Access.jpeg</image:loc>
+      <image:title>Suzuki Access new colours -  Royal Bronze, and Mat Bordeaux Red in Metallic</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/17500-vehicles-seized-in-delhi-to-prevent-air-pollution/</loc>
+    <lastmod>2026-11-22T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/1750_vehicles_seized_in_delhi_pollution_afd0ca4b77.webp</image:loc>
+      <image:title>17500+ Vehicles Seized In Delhi To Prevent Air Pollution</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/17500-vehicles-seized-in-delhi-to-prevent-air-pollution/</loc>
+    <lastmod>2026-11-22T13:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/1750_vehicles_seized_in_delhi_pollution_afd0ca4b77.webp</image:loc>
+      <image:title>17500+ Vehicles Seized In Delhi To Prevent Air Pollution</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/3-new-toyota-suvs-launching-next-year-new-generation-fortuner-to-/</loc>
+    <lastmod>2026-11-22T12:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_toypta_suvs_ab1807a13c.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/3-new-toyota-suvs-launching-next-year-new-generation-fortuner-to-/</loc>
+    <lastmod>2026-11-22T12:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_toypta_suvs_ab1807a13c.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gujarat-govt-no-more-caste-names-or-symbols-on-vehicles/</loc>
+    <lastmod>2026-11-22T11:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/gujarat_caste_names_symbols_ban_on_vehicles_02bea64fee.webp</image:loc>
+      <image:title>Gujarat Govt: No More Caste Names Or Symbols On Vehicles!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/gujarat-govt-no-more-caste-names-or-symbols-on-vehicles/</loc>
+    <lastmod>2026-11-22T11:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/gujarat_caste_names_symbols_ban_on_vehicles_02bea64fee.webp</image:loc>
+      <image:title>Gujarat Govt: No More Caste Names Or Symbols On Vehicles!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundais-two-upcoming-7-seater-cars-for-india-explained/</loc>
+    <lastmod>2026-11-22T10:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Hyundai-Neira.jpg</image:loc>
+      <image:title>Hyundai&#x27;s Two Upcoming 7-Seater Cars For India Explained</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundais-two-upcoming-7-seater-cars-for-india-explained/</loc>
+    <lastmod>2026-11-22T10:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Hyundai-Neira.jpg</image:loc>
+      <image:title>Hyundai&#x27;s Two Upcoming 7-Seater Cars For India Explained</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/byd-ti7-suv-banned-across-europe-for-copying-land-rover-defender/</loc>
@@ -2935,106 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/new-tvs-apache-160-sales-high.jpg</image:loc>
       <image:title>Top 10 Motorcycles Oct 2026 - Splendor, Shine, Pulsar, Apache, Classic, Unicorn, Raider, Bullet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/indias-top-five-safest-electric-cars-are-mahindras-and-tatas/</loc>
-    <lastmod>2026-11-18T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/india_safest_mahindra_tata_8f7224af1a.webp</image:loc>
-      <image:title>India&#x27;s Top Five Safest Electric Cars Are Mahindras And Tatas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/indias-top-five-safest-electric-cars-are-mahindras-and-tatas/</loc>
-    <lastmod>2026-11-18T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/india_safest_mahindra_tata_8f7224af1a.webp</image:loc>
-      <image:title>India&#x27;s Top Five Safest Electric Cars Are Mahindras And Tatas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-15-electric-scooters-oct-2026-chetak-iqube-rizta-magnus-konar/</loc>
-    <lastmod>2026-11-18T03:00:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/06/Bajaj-Chetak-3001.jpg</image:loc>
-      <image:title>Top 15 Electric Scooters Oct 2026 - Chetak, iQube, Rizta, Magnus, Konarc</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/top-15-electric-scooters-oct-2026-chetak-iqube-rizta-magnus-konar/</loc>
-    <lastmod>2026-11-18T03:00:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/06/Bajaj-Chetak-3001.jpg</image:loc>
-      <image:title>Top 15 Electric Scooters Oct 2026 - Chetak, iQube, Rizta, Magnus, Konarc</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-5-cars-chase-drunk-truck-driver-on-highway-video/</loc>
-    <lastmod>2026-11-18T02:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/cars_chase_drunk_truck_driver_43d6709299.webp</image:loc>
-      <image:title>4-5 Cars Chase Drunk Truck Driver On Highway [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/4-5-cars-chase-drunk-truck-driver-on-highway-video/</loc>
-    <lastmod>2026-11-18T02:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/cars_chase_drunk_truck_driver_43d6709299.webp</image:loc>
-      <image:title>4-5 Cars Chase Drunk Truck Driver On Highway [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-upcoming-skoda-cars-in-india-kylaq-cng-to-superb-diesel/</loc>
-    <lastmod>2026-11-18T02:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_skoda_cars_india_269f4fef97.webp</image:loc>
-      <image:title>5 Upcoming Skoda Cars in India: Kylaq CNG To Superb Diesel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-upcoming-skoda-cars-in-india-kylaq-cng-to-superb-diesel/</loc>
-    <lastmod>2026-11-18T02:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_skoda_cars_india_269f4fef97.webp</image:loc>
-      <image:title>5 Upcoming Skoda Cars in India: Kylaq CNG To Superb Diesel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/100-electric-delivery-fleet-by-2030-not-happening-says-zomato-bli/</loc>
-    <lastmod>2026-11-18T01:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/zomato_blinkit_about_ev_fleet_73cc830637.webp</image:loc>
-      <image:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/100-electric-delivery-fleet-by-2030-not-happening-says-zomato-bli/</loc>
-    <lastmod>2026-11-18T01:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/zomato_blinkit_about_ev_fleet_73cc830637.webp</image:loc>
-      <image:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</image:title>
     </image:image>
   </url>
 </urlset>

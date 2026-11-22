@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/suzuki-access-new-colours-royal-bronze-and-mat-bordeaux-red-in-me/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T13:11:12+00:00</news:publication_date>
+      <news:title>Suzuki Access new colours -  Royal Bronze, and Mat Bordeaux Red in Metallic</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Metallic-Mat-Bordeaux-Red-colour-Suzuki-Access.jpeg</image:loc>
+      <image:title>Suzuki Access new colours -  Royal Bronze, and Mat Bordeaux Red in Metallic</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/17500-vehicles-seized-in-delhi-to-prevent-air-pollution/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T13:05:00+00:00</news:publication_date>
+      <news:title>17500+ Vehicles Seized In Delhi To Prevent Air Pollution</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/1750_vehicles_seized_in_delhi_pollution_afd0ca4b77.webp</image:loc>
+      <image:title>17500+ Vehicles Seized In Delhi To Prevent Air Pollution</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/3-new-toyota-suvs-launching-next-year-new-generation-fortuner-to-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T12:05:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_toypta_suvs_ab1807a13c.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/gujarat-govt-no-more-caste-names-or-symbols-on-vehicles/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T11:05:00+00:00</news:publication_date>
+      <news:title>Gujarat Govt: No More Caste Names Or Symbols On Vehicles!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/gujarat_caste_names_symbols_ban_on_vehicles_02bea64fee.webp</image:loc>
+      <image:title>Gujarat Govt: No More Caste Names Or Symbols On Vehicles!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundais-two-upcoming-7-seater-cars-for-india-explained/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T10:00:17+00:00</news:publication_date>
+      <news:title>Hyundai&#x27;s Two Upcoming 7-Seater Cars For India Explained</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Hyundai-Neira.jpg</image:loc>
+      <image:title>Hyundai&#x27;s Two Upcoming 7-Seater Cars For India Explained</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/byd-ti7-suv-banned-across-europe-for-copying-land-rover-defender/</loc>
     <news:news>
       <news:publication>
@@ -705,141 +780,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BYDs-Fang-Cheng-Bao-Ti-9.jpg</image:loc>
       <image:title>BYD&#x27;s Fang Cheng Bao Launches Ti 9 With Folding Steering Wheel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/yamaha-sales-breakup-oct-2026-rayzr-fz-mt15-r15-fascino-xsr-aerox/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T13:51:36+00:00</news:publication_date>
-      <news:title>Yamaha Sales Breakup Oct 2026 - RayZR, FZ, MT15, R15, Fascino, XSR, Aerox, EC06</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/03/yamaha-r15-sales-new.jpeg</image:loc>
-      <image:title>Yamaha Sales Breakup Oct 2026 - RayZR, FZ, MT15, R15, Fascino, XSR, Aerox, EC06</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bajaj-pulsar-rs200-gets-more-power-ride-modes-and-a-new-tft-displ/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T13:38:22+00:00</news:publication_date>
-      <news:title>Bajaj Pulsar RS200 Gets More Power, Ride Modes And A New TFT Display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Bajaj-Pulsar-RS200-2.jpg</image:loc>
-      <image:title>Bajaj Pulsar RS200 Gets More Power, Ride Modes And A New TFT Display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rs-10000-fine-for-sunfilm-on-car-windows-cops-fine-298-cars-colle/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T13:05:00+00:00</news:publication_date>
-      <news:title>RTO Alert: Cops Deploying Light Meters To Bust Tinted Glass &amp; Sunfilm - Huge Fines Explained</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/gurgaon_police_sunfilm_fine_81654cdfba.webp</image:loc>
-      <image:title>RTO Alert: Cops Deploying Light Meters To Bust Tinted Glass &amp; Sunfilm - Huge Fines Explained</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rto-suspends-ferrari-dealers-trade-certificate-heres-why/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T12:29:47+00:00</news:publication_date>
-      <news:title>RTO Suspends Ferrari Dealer&#x27;s Trade Certificate: Here&#x27;s Why</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/rto_suspends_ferrari_dealer_trade_certificate_6dee452896.webp</image:loc>
-      <image:title>RTO Suspends Ferrari Dealer&#x27;s Trade Certificate: Here&#x27;s Why</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-bajaj-pulsar-rs200-launch-price-rs-198-lakh-usd-forks-tft-rid/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T12:16:57+00:00</news:publication_date>
-      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-bajaj-pulsar-rs-200-launch-price-usd-forks-tft-display-29.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/skoda-kylaq-cng-spied-testing-well-scam-alert/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T12:11:23+00:00</news:publication_date>
-      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/cng_skoda_kylaq_fake_debunked_edda50bfcc.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-releases-official-teaser-for-upcoming-combat-suv-ahead-of-lau/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T10:30:35+00:00</news:publication_date>
-      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_first_official_teaser_b67a533fb6.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/42m-to-45m-suv-sales-oct-2026-creta-victoris-seltos-vitara-hyryde/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T10:24:18+00:00</news:publication_date>
-      <news:title>4.2m to 4.5m SUV Sales Oct 2026 - Creta, Victoris, Seltos, Vitara, Hyryder, Sierra, ROXX, Elevate</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/hyundai-creta-sales-no-1.jpg</image:loc>
-      <image:title>4.2m to 4.5m SUV Sales Oct 2026 - Creta, Victoris, Seltos, Vitara, Hyryder, Sierra, ROXX, Elevate</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/indias-oldest-rolls-royce-cullinan-series-ii-owner-takes-delivery/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T10:07:23+00:00</news:publication_date>
-      <news:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/india_oldest_rolls_royce_cullinan_series_2_owner_e73c8d3fd8.webp</image:loc>
-      <image:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</image:title>
     </image:image>
   </url>
 </urlset>
