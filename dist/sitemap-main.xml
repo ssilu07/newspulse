@@ -3,39 +3,119 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-21T23:29:22Z</lastmod>
+    <lastmod>2026-11-22T02:39:56Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-21T23:29:22Z</lastmod>
+    <lastmod>2026-11-22T02:39:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-21T23:29:22Z</lastmod>
+    <lastmod>2026-11-22T02:39:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-21T23:29:22Z</lastmod>
+    <lastmod>2026-11-22T02:39:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-21T23:29:22Z</lastmod>
+    <lastmod>2026-11-22T02:39:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-21T23:29:22Z</lastmod>
+    <lastmod>2026-11-22T02:39:56Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-motors-to-launch-j5-and-v23-electric-suvs-next-year/</loc>
+    <lastmod>2026-11-22T02:30:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/02/chery-icar-v23-india-mg.-1.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-motors-to-launch-j5-and-v23-electric-suvs-next-year/</loc>
+    <lastmod>2026-11-22T02:30:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/02/chery-icar-v23-india-mg.-1.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/karnataka-plans-new-bike-taxi-rules-after-supreme-court-verdict-d/</loc>
+    <lastmod>2026-11-22T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/new_rules_coming_for_karnataka_bike_taxi_187905a7de.webp</image:loc>
+      <image:title>Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/karnataka-plans-new-bike-taxi-rules-after-supreme-court-verdict-d/</loc>
+    <lastmod>2026-11-22T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/new_rules_coming_for_karnataka_bike_taxi_187905a7de.webp</image:loc>
+      <image:title>Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/cng-is-costlier-or-almost-equal-to-petrol-price-in-hyderabad-ahme/</loc>
+    <lastmod>2026-11-22T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/cng_price_petrol_price_indian_cities_99b0cc0786.webp</image:loc>
+      <image:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cng-is-costlier-or-almost-equal-to-petrol-price-in-hyderabad-ahme/</loc>
+    <lastmod>2026-11-22T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/cng_price_petrol_price_indian_cities_99b0cc0786.webp</image:loc>
+      <image:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-maruti-suzuki-suvs-launching-soon-in-india-y43-to-grand-vitara-/</loc>
+    <lastmod>2026-11-22T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_0128ad8c77.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-maruti-suzuki-suvs-launching-soon-in-india-y43-to-grand-vitara-/</loc>
+    <lastmod>2026-11-22T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_0128ad8c77.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/byd-ti7-faces-eu-ban-over-defender-design-tata-owned-jlr-secures-/</loc>
@@ -2955,86 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/2027-bajaj-pulsar-ns125-tft-variant-spied.jpg</image:loc>
       <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-neira-electric-mpv-revealed-ahead-of-market-launch/</loc>
-    <lastmod>2026-11-17T10:40:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/hyundai_neira_mpv_revealed_b7c750b881.webp</image:loc>
-      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundai-neira-electric-mpv-revealed-ahead-of-market-launch/</loc>
-    <lastmod>2026-11-17T10:40:58+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/hyundai_neira_mpv_revealed_b7c750b881.webp</image:loc>
-      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ampere-fy27-registrations-beat-greaves-full-year-fy26-total/</loc>
-    <lastmod>2026-11-17T10:31:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Ampere-FY27-registrations-up.jpeg</image:loc>
-      <image:title>Ampere FY27 Registrations Beat Greaves&#x27; Full-Year FY26 Total</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ampere-fy27-registrations-beat-greaves-full-year-fy26-total/</loc>
-    <lastmod>2026-11-17T10:31:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Ampere-FY27-registrations-up.jpeg</image:loc>
-      <image:title>Ampere FY27 Registrations Beat Greaves&#x27; Full-Year FY26 Total</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-new-jsw-new-energy-suvs-to-launch-in-12-months-launch-timelines/</loc>
-    <lastmod>2026-11-17T10:19:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_new_jsw_12_months_32c2ff9343.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/4-new-jsw-new-energy-suvs-to-launch-in-12-months-launch-timelines/</loc>
-    <lastmod>2026-11-17T10:19:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_new_jsw_12_months_32c2ff9343.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/evs-outsell-ice-powered-cars-in-festive-season-record-69-yoy-grow/</loc>
-    <lastmod>2026-11-17T10:00:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2023/09/2023-tata-nexon-ev-facelift-30.jpg</image:loc>
-      <image:title>EVs Outsell ICE-Powered Cars In Festive Season, Record 69% YoY Growth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/evs-outsell-ice-powered-cars-in-festive-season-record-69-yoy-grow/</loc>
-    <lastmod>2026-11-17T10:00:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2023/09/2023-tata-nexon-ev-facelift-30.jpg</image:loc>
-      <image:title>EVs Outsell ICE-Powered Cars In Festive Season, Record 69% YoY Growth</image:title>
     </image:image>
   </url>
 </urlset>

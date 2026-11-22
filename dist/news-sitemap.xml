@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/jsw-motors-to-launch-j5-and-v23-electric-suvs-next-year/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T02:30:16+00:00</news:publication_date>
+      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/02/chery-icar-v23-india-mg.-1.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/karnataka-plans-new-bike-taxi-rules-after-supreme-court-verdict-d/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T02:15:00+00:00</news:publication_date>
+      <news:title>Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/new_rules_coming_for_karnataka_bike_taxi_187905a7de.webp</image:loc>
+      <image:title>Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/cng-is-costlier-or-almost-equal-to-petrol-price-in-hyderabad-ahme/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T01:45:00+00:00</news:publication_date>
+      <news:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/cng_price_petrol_price_indian_cities_99b0cc0786.webp</image:loc>
+      <image:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-maruti-suzuki-suvs-launching-soon-in-india-y43-to-grand-vitara-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T01:15:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_0128ad8c77.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/byd-ti7-faces-eu-ban-over-defender-design-tata-owned-jlr-secures-/</loc>
     <news:news>
       <news:publication>
@@ -900,81 +960,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/2_new_toyota_7_seater_in_2_weeks_0ae87267fd.webp</image:loc>
       <image:title>2 New Toyota 7 Seaters In 2 Weeks: All You Need To Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-mont/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T02:30:45+00:00</news:publication_date>
-      <news:title>Kia Carens CNG &amp; Clavis CNG Sales Get Past 6,200 Units Within 2 Months In India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Kia-Carens-CNG-amp-Carens-Clavis-CNG-Launched-From-Rs.-12.11-Lakh.jpg</image:loc>
-      <image:title>Kia Carens CNG &amp; Clavis CNG Sales Get Past 6,200 Units Within 2 Months In India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/four-new-jsw-suvs-launching-in-12-months-we-tell-you-what-they-ar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T02:15:00+00:00</news:publication_date>
-      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_new_jses_in_12_months_6c1e85bb00.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-sorento-hybrid-outsells-diesel-again/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T01:45:00+00:00</news:publication_date>
-      <news:title>Inside Look: Kia Sorento Hybrid Outsells Diesel, Again! - What Every Indian Car Owner Must Know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/kia_sorento_hybrid_outsells_diesel_5dd00bba41.webp</image:loc>
-      <image:title>Inside Look: Kia Sorento Hybrid Outsells Diesel, Again! - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-r-12-gs-launched-in-india-at-rs-2540-lakh/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T01:30:47+00:00</news:publication_date>
-      <news:title>BMW R 12 G/S Launched In India At Rs. 25.40 Lakh</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/02_BMW_R12_GS_parked_three_quarter.jpg</image:loc>
-      <image:title>BMW R 12 G/S Launched In India At Rs. 25.40 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2-new-7-seat-electric-suvs-from-tata-and-mahindra-launching-soon-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T01:15:00+00:00</news:publication_date>
-      <news:title>2 New 7-Seat Electric SUVs From Tata And Mahindra Launching Soon: All You Need To Know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/2_7_seater_electric_suvs_from_tata_mahindra_1_a40170cc5f.webp</image:loc>
-      <image:title>2 New 7-Seat Electric SUVs From Tata And Mahindra Launching Soon: All You Need To Know</image:title>
     </image:image>
   </url>
 </urlset>
