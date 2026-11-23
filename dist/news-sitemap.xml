@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/kia-seltos-owners-accident-reveals-dangers-of-aftermarket-seat-co/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T02:42:00+00:00</news:publication_date>
+      <news:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/seat_cover_on_6_airbags_car_bad_idea_featured_93f7213944.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-new-compact-suvs-launching-soon-honda-alpha-to-vinfast-vf5/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T02:22:38+00:00</news:publication_date>
+      <news:title>5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/Launching_Soon_5_New_Compact_SU_Vs_Featured_8255fba227.webp</image:loc>
+      <image:title>5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/why-is-honda-revealing-alpha-in-india-first/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T02:16:45+00:00</news:publication_date>
+      <news:title>The Hidden Reason Why Is Honda Revealing ALPHA In India First?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_ev_india_reveal_first_featured_f875a1714d.webp</image:loc>
+      <image:title>The Hidden Reason Why Is Honda Revealing ALPHA In India First?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/3-confirmed-car-launches-of-december/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T02:04:01+00:00</news:publication_date>
+      <news:title>Inside Look: 3 Confirmed Car Launches Of December - What Every Indian Car Owner Must Know</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_confirmed_december_2026_car_launches_featured_5292a5d482.webp</image:loc>
+      <image:title>Inside Look: 3 Confirmed Car Launches Of December - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/pm-advisor-evs-to-become-major-electricity-consumers-power-compan/</loc>
     <news:news>
       <news:publication>
@@ -675,81 +735,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/4_unveils_launches_of_december_aa2443f8d0.webp</image:loc>
       <image:title>4 Confirmed Unveils/Unveils Of December: Next-Generation Fortuner To Honda ALPHA</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-xev-9s-vs-mg-tomahawk-ev-video-comparison/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T02:45:00+00:00</news:publication_date>
-      <news:title>Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/mahindra_xev_9s_vs_mg_hector_tomahawk_ev_35587fa518.webp</image:loc>
-      <image:title>Mahindra XEV 9S Vs MG Tomahawk EV: Video Comparison</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-india-records-20000-cumulative-ev-deliveries-tally-doubles-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T02:30:29+00:00</news:publication_date>
-      <news:title>BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles In 14 Months</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/BYD-SEALION-7_Dynamic-Variant.jpg</image:loc>
-      <image:title>BYD India Records 20,000+ Cumulative EV Deliveries; Tally Doubles In 14 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-new-honda-cars-for-india-honda-alpha-to-prelude/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T02:15:00+00:00</news:publication_date>
-      <news:title>5 New Honda Cars For India: Honda ALPHA To Prelude</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_new_hondas_in_india_e2cba6736e.webp</image:loc>
-      <image:title>5 New Honda Cars For India: Honda ALPHA To Prelude</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-alpha/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T01:45:00+00:00</news:publication_date>
-      <news:title>Inside Look: Honda ALPHA - What Every Indian Car Owner Must Know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_electric_suv_details_85639479f8.webp</image:loc>
-      <image:title>Inside Look: Honda ALPHA - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tata-and-mahindra-electric-suvs-launching-in-2027-avinya-to-be07/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T01:15:00+00:00</news:publication_date>
-      <news:title>Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/upcoming_tata_mahindra_electric_suvs_82339e483a.webp</image:loc>
-      <image:title>Tata And Mahindra Electric SUVs Launching In 2027: Avinya To BE07</image:title>
     </image:image>
   </url>
 </urlset>

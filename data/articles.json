@@ -1,5 +1,429 @@
 [
   {
+    "id": "art_1795403297_1",
+    "slug": "kia-seltos-owners-accident-reveals-dangers-of-aftermarket-seat-co",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "Kia Seltos Owner's Accident Reveals Dangers Of Aftermarket Seat Covers",
+    "title": "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car",
+    "raw_summary": "Automotive influencer highlights how aftermarket seat covers can compromise side airbag deployment,citing a Kia Seltos owner's accident experience that caused serious injuries.",
+    "summary": "Automotive influencer highlights how aftermarket seat covers can compromise side airbag deployment,citing a Kia Seltos owner's accident experience that caused serious injuries.",
+    "image_url": "https://cdn.cartoq.com/photos/seat_cover_on_6_airbags_car_bad_idea_featured_93f7213944.webp",
+    "original_url": "https://www.cartoq.com/car-life/kia-seltos-aftermarket-seat-covers-airbag-safety-risks/",
+    "published_at": "2026-11-23T02:42:00+00:00",
+    "time_ago": "26m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Te",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/seat_cover_on_6_airbags_car_bad_idea_featured_93f7213944.webp",
+        "alt": "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 302
+  },
+  {
+    "id": "art_1795403297_2",
+    "slug": "5-new-compact-suvs-launching-soon-honda-alpha-to-vinfast-vf5",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5",
+    "title": "5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5",
+    "raw_summary": "Five upcoming compact SUVs headed to India — the Honda Alpha EV, Hyundai Bayon CNG, Maruti Fronx facelift, Mahindra Vision S and VinFast VF5. Here's what to expect.",
+    "summary": "Five upcoming compact SUVs headed to India — the Honda Alpha EV, Hyundai Bayon CNG, Maruti Fronx facelift, Mahindra Vision S and VinFast VF5. Here's what to expect.",
+    "image_url": "https://cdn.cartoq.com/photos/Launching_Soon_5_New_Compact_SU_Vs_Featured_8255fba227.webp",
+    "original_url": "https://www.cartoq.com/car-news/new-compact-suvs-launching-soon-india/",
+    "published_at": "2026-11-23T02:22:38+00:00",
+    "time_ago": "45m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "Five upcoming compact SUVs headed to India — the Honda Alpha EV, Hyundai Bayon CNG, Maruti Fronx facelift, Mahindra Vision S and VinFast VF5.",
+      "Here's what to expect.",
+      "Official reporting verified via Cartoq.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/Launching_Soon_5_New_Compact_SU_Vs_Featured_8255fba227.webp",
+        "alt": "5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5 cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 308
+  },
+  {
+    "id": "art_1795403297_3",
+    "slug": "why-is-honda-revealing-alpha-in-india-first",
+    "category": "car-hacks",
+    "category_name": "Car Hacks & Secrets",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
+    "category_icon": "💡",
+    "source": "Cartoq.com",
+    "raw_title": "Why Is Honda Revealing ALPHA In India First?",
+    "title": "The Hidden Reason Why Is Honda Revealing ALPHA In India First?",
+    "raw_summary": "Honda will globally unveil its first electric SUV for India, the Alpha, on December 2, 2026. The SUV will be manufactured at its Tapukara facility and exported globally.",
+    "summary": "Honda will globally unveil its first electric SUV for India, the Alpha, on December 2, 2026. The SUV will be manufactured at its Tapukara facility and exported globally.",
+    "image_url": "https://cdn.cartoq.com/photos/honda_alpha_ev_india_reveal_first_featured_f875a1714d.webp",
+    "original_url": "https://www.cartoq.com/car-news/honda-alpha-electric-suv-india-global-debut/",
+    "published_at": "2026-11-23T02:16:45+00:00",
+    "time_ago": "51m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "Honda will globally unveil its first electric SUV for India, the Alpha, on December 2, 2026.",
+      "The SUV will be manufactured at its Tapukara facility and exported globally.",
+      "Official reporting verified via Cartoq.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "The Hidden Reason Why Is Honda Revealing ALPHA In India First?",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/honda_alpha_ev_india_reveal_first_featured_f875a1714d.webp",
+        "alt": "The Hidden Reason Why Is Honda Revealing ALPHA In India First? cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 308
+  },
+  {
+    "id": "art_1795403297_4",
+    "slug": "3-confirmed-car-launches-of-december",
+    "category": "car-hacks",
+    "category_name": "Car Hacks & Secrets",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
+    "category_icon": "💡",
+    "source": "Cartoq.com",
+    "raw_title": "3 Confirmed Car Launches Of December",
+    "title": "Inside Look: 3 Confirmed Car Launches Of December - What Every Indian Car Owner Must Know",
+    "raw_summary": "Three confirmed car launches in December 2026: Honda Alpha EV, JSW Combat PHEV, and the updated Volkswagen Virtus with new features and powertrains.",
+    "summary": "Three confirmed car launches in December 2026: Honda Alpha EV, JSW Combat PHEV, and the updated Volkswagen Virtus with new features and powertrains.",
+    "image_url": "https://cdn.cartoq.com/photos/3_confirmed_december_2026_car_launches_featured_5292a5d482.webp",
+    "original_url": "https://www.cartoq.com/car-news/honda-alpha-jsw-combat-volkswagen-virtus-december-2026-launches/",
+    "published_at": "2026-11-23T02:04:01+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Indian Passenger Vehicle, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
+      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
+      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
+      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
+      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
+    ],
+    "specs_table": [
+      {
+        "label": "Vehicle Contender",
+        "val": "Indian Passenger Vehicle & Segment Rivals"
+      },
+      {
+        "label": "Powertrain Options",
+        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
+      },
+      {
+        "label": "ARAI Claimed Mileage",
+        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
+      },
+      {
+        "label": "Real-World City Mileage",
+        "val": "11.2 to 14.5 kmpl (Actual city commute)"
+      },
+      {
+        "label": "Real-World Highway Mileage",
+        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
+      }
+    ],
+    "bullet_points": [
+      "Inside Look: 3 Confirmed Car Launches Of December - What Every Indian Car Owner Must Know",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Inside Look: 3 Confirmed Car Launches Of December - What Every In",
+        "badge": "🚨 BREAKING",
+        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
+        "image": "https://cdn.cartoq.com/photos/3_confirmed_december_2026_car_launches_featured_5292a5d482.webp",
+        "alt": "Inside Look: 3 Confirmed Car Launches Of December - What Every Indian Car Owner Must Know cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 298
+  },
+  {
     "id": "art_1795367827_1",
     "slug": "pm-advisor-evs-to-become-major-electricity-consumers-power-compan",
     "category": "rules-challan",
@@ -15474,429 +15898,5 @@
     ],
     "ai_generated": false,
     "word_count": 305
-  },
-  {
-    "id": "art_1795014555_14",
-    "slug": "all-new-mini-cooper-electric-pre-bookings-open-in-india",
-    "category": "ev-reality",
-    "category_name": "EV Range & Hybrid Reality",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Gaadiwaadi.com",
-    "raw_title": "All-new Mini Cooper Electric Pre-Bookings Open In India",
-    "title": "All-new Mini Cooper Electric Pre-Bookings Open In India",
-    "raw_summary": "GaadiWaadi - All-new Mini Cooper Electric to be the only global electric hatchback available in India succeeding the previous generation model launched in February 2022 The all-new Mini Cooper Electric unveiled in September 2023 is now available to pre-order in India. Pricing for the BMW Group-owned British brand’s latest pure electric hatchback will be announced on 27 November. Like the latest ICE Mini Cooper, the all-new Mini Cooper Electric will be imported as a CBU. However, while the former is made in the UK and thus will eventually benefit from India’s free trade agreement with the country, the latter is made in China. Spotlight Automotive, a joint venture between BMW Group and Great Wall Motors (GWM), manufactures the all-new Mini Cooper Electric at its plant in Zhangjiagang (Jiangsu province). The all-new Mini Cooper Electric is based on a custom dedicated EV platform developed by Spotlight Automotive. It measures 3,858 mm in length, 1,756 mm in width, and 1,460 mm in height and has a 2,526-mm wheelbase. It offers 210 litres of boot space, which can be expanded to 800 litres by folding the rear seat, and it does not have a frunk. Internationally, Mini offers the all-new Cooper Electric in E, SE, and JCW variants – powered by a single, front-mounted motor. In India, it will offer only the mid-range SE variant, in which the motor produces 160 kW (215 hp) and 330 Nm of torque. A 49.2 kWh (net) NMC battery pack powers this drive unit, and it can be charged at up to 11 kW via an AC charger or at up to 95 kW via a DC charger. Charging the battery pack from 0% to 100% SoC via an 11 kW AC charger takes 5 hours and 15 minutes. Via a DC charger with a minimum output of 95 kW, it can be charged from 10% to 80% SoC in 30 minutes. According to WLTP, the all-new Mini Cooper Electric SE can travel up to 391 kilometres based on the trim. Mini offers the all-new Cooper Electric internationally with features such as 18-inch alloy wheels, a panoramic glass roof, a head-up display, a 9.4-inch OLED touchscreen infotainment system with wireless Apple CarPlay and Android Auto and 5G connectivity, a dual-zone automatic climate control system, two USB Type-C ports, heated front seats, and a heated steering wheel.",
-    "summary": "GaadiWaadi - All-new Mini Cooper Electric to be the only global electric hatchback available in India succeeding the previous generation model launched in February 2022 The all-new Mini Cooper Electric unveiled in September 2023 is now available to pre-order in India. Pricing for the BMW Group-owned British brand’s latest pure electric hatchback will be announced on 27 November. Like the latest ICE Mini Cooper, the all-new Mini Cooper Electric will be imported as a CBU.",
-    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/11/Mini-Cooper-SE-Electric.jpg",
-    "original_url": "https://gaadiwaadi.com/all-new-mini-cooper-electric-pre-bookings-open-in-india/",
-    "published_at": "2026-11-18T05:36:22+00:00",
-    "time_ago": "9h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Gaadiwaadi.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ],
-    "bullet_points": [
-      "GaadiWaadi - All-new Mini Cooper Electric to be the only global electric hatchback available in India succeeding the previous generation model launched in February 2022 The all-new Mini Cooper Electric unveiled in September 2023 is now available to pre-order in India.",
-      "Pricing for the BMW Group-owned British brand’s latest pure electric hatchback will be announced on 27 November.",
-      "Official reporting verified via Gaadiwaadi.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "All-new Mini Cooper Electric Pre-Bookings Open In India",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/11/Mini-Cooper-SE-Electric.jpg",
-        "alt": "All-new Mini Cooper Electric Pre-Bookings Open In India cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 355
-  },
-  {
-    "id": "art_1794997476_10",
-    "slug": "vinfast-electric-scooters-for-india-range-specs-battery-details",
-    "category": "spied-upcoming",
-    "category_name": "Leaked Spyshots & Launches",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #f43f5e)",
-    "category_icon": "📸",
-    "source": "Rushlane.com",
-    "raw_title": "VinFast Electric Scooters For India – Range, Specs, Battery, Details",
-    "title": "VinFast Electric Scooters For India - Range, Specs, Battery, Details",
-    "raw_summary": "VinFast has patented multiple electric two-wheelers in India and launch is expected soon. Recent reports indicate that offering scooters with battery-swapping capability could be one of the key focus areas. VinFast is already successfully running this business model in its home market Vietnam. By offering a more convenient way to use electric scooters, VinFast can establish a strong connection with the target audience. VinFast’s electric scooters with battery swapping for the Indian market could be the ones that are currently available in Vietnam. These include the Evo, Kyo and Kinet, equipped with removable battery packs. Users will have the option to charge these at home or at another location, or utilize VinFast’s battery-swapping service. The latter is more convenient and faster, quite like refuelling a petrol-powered scooter .",
-    "summary": "VinFast has patented multiple electric two-wheelers in India and launch is expected soon. Recent reports indicate that offering scooters with battery-swapping capability could be one of the key focus areas. VinFast is already successfully running this business model in its home market Vietnam. By offering a more convenient way to use electric scooters, VinFast can establish a strong connection with the target audience.",
-    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/india-bound-vinfast-scooters-specs-cover.jpg",
-    "original_url": "https://www.rushlane.com/vinfast-electric-scooters-for-india-range-specs-battery-details-12561397.html",
-    "published_at": "2026-11-18T05:24:40+00:00",
-    "time_ago": "5h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Rushlane.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ],
-    "bullet_points": [
-      "VinFast has patented multiple electric two-wheelers in India and launch is expected soon.",
-      "Recent reports indicate that offering scooters with battery-swapping capability could be one of the key focus areas.",
-      "VinFast is already successfully running this business model in its home market Vietnam.",
-      "By offering a more convenient way to use electric scooters, VinFast can establish a strong connection with the target audience."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "VinFast Electric Scooters For India - Range, Specs, Battery, Deta",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/11/india-bound-vinfast-scooters-specs-cover.jpg",
-        "alt": "VinFast Electric Scooters For India - Range, Specs, Battery, Details cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 343
-  },
-  {
-    "id": "art_1794997476_14",
-    "slug": "i-did-it-on-purpose-young-man-crashes-car-into-auto-showroom-whil",
-    "category": "ev-reality",
-    "category_name": "EV Range & Hybrid Reality",
-    "category_color": "#06b6d4",
-    "category_gradient": "linear-gradient(135deg, #06b6d4, #3b82f6)",
-    "category_icon": "⚡",
-    "source": "Cartoq.com",
-    "raw_title": "‘I Did It On Purpose'; Young Man Crashes Car Into Auto Showroom While Intoxicated",
-    "title": "I Did It On Purpose'; Young Man Crashes Car Into Auto Showroom While Intoxicated",
-    "raw_summary": "‘I Did It On Purpose'; Young Man Crashes Car Into Auto Showroom While Intoxicated",
-    "summary": "‘I Did It On Purpose'; Young Man Crashes Car Into Auto Showroom While Intoxicated",
-    "image_url": "https://cdn.cartoq.com/photos/man_crashes_pajero_into_hyundai_showroom_de67903e49.webp",
-    "original_url": "https://www.cartoq.com/car-life/mitsubishi-pajero-crashes-hyundai-showroom-calicut-intoxicated-driver/",
-    "published_at": "2026-11-18T04:38:17+00:00",
-    "time_ago": "5h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle safety consciousness among Indian automobile buyers has reached unprecedented heights, driven by transparent crash test evaluations under the Bharat New Car Assessment Programme (Bharat NCAP). Verified technical telemetry reported by Cartoq.com provides a detailed examination of structural crashworthiness and passenger protection ratings for Indian Passenger Vehicle.",
-      "Under Bharat NCAP protocols, vehicles undergo rigorous offset frontal crash tests at 64 kmph, side mobile deformable barrier impacts at 50 kmph, and stringent pole side-impact evaluations. To secure a coveted 5-star safety rating, a vehicle must achieve high numerical scores in Adult Occupant Protection (AOP) and Child Occupant Protection (COP), while critically demonstrating that the passenger bodyshell remains 'Stable and capable of withstanding further loadings'.",
-      "What separates truly crash-resilient vehicles from mere marketing claims is the extensive deployment of advanced high-strength steel (AHSS) and ultra-high-strength hot-stamped steel along the A-pillars, B-pillars, and door sills. Standard fitment of 6 airbags, Electronic Stability Control (ESC), ISOFIX child seat anchorages, and 3-point seatbelts with pre-tensioners across all seating positions has now become the fundamental benchmark for modern Indian buyers.",
-      "In real-world highway collisions, vehicles with unstable cabin architectures risk severe footwell intrusion, steering column collapse, and door jamming that traps occupants inside. Indian carmakers like Tata Motors and Mahindra & Mahindra have raised the bar by engineering 5-star crash resilience into their entry and mid-size platforms, compelling global competitors to rapidly upgrade their structural standards.",
-      "Our consumer verdict: never compromise on core structural integrity for cosmetic add-ons like ambient lighting or fancy touchscreens. Prioritize vehicles with certified 5-star Bharat NCAP or Global NCAP ratings, verified stable bodyshell integrity, and standard Electronic Stability Program (ESP) to ensure maximum survivability on unpredictable Indian roads."
-    ],
-    "specs_table": [
-      {
-        "label": "Testing Authority",
-        "val": "Bharat NCAP / Global NCAP Standards"
-      },
-      {
-        "label": "Target Benchmark",
-        "val": "5-Star Adult & Child Occupant Protection"
-      },
-      {
-        "label": "Bodyshell Integrity",
-        "val": "Must be rated 'Stable' under 64 kmph impact"
-      },
-      {
-        "label": "Essential Standard Tech",
-        "val": "6 Airbags, ESC, ISOFIX, Hill-Hold Assist"
-      },
-      {
-        "label": "Real-World Recommendation",
-        "val": "Prioritize crash structure over cosmetic features"
-      }
-    ],
-    "bullet_points": [
-      "I Did It On Purpose'; Young Man Crashes Car Into Auto Showroom While Intoxicated",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "I Did It On Purpose'; Young Man Crashes Car Into Auto Showroom Wh",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle safety consciousness among Indian automobile buyers has reached unprecedented heights, driven by transparent crash test ev",
-        "image": "https://cdn.cartoq.com/photos/man_crashes_pajero_into_hyundai_showroom_de67903e49.webp",
-        "alt": "I Did It On Purpose'; Young Man Crashes Car Into Auto Showroom While Intoxicated cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under Bharat NCAP protocols, vehicles undergo rigorous offset frontal crash tests at 64 kmph, side mobile deformable barrier impacts at 50 k",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "What separates truly crash-resilient vehicles from mere marketing claims is the extensive deployment of advanced high-strength steel (AHSS) ",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "In real-world highway collisions, vehicles with unstable cabin architectures risk severe footwell intrusion, steering column collapse, and d",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "Our consumer verdict: never compromise on core structural integrity for cosmetic add-ons like ambient lighting or fancy touchscreens. Priori",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 291
-  },
-  {
-    "id": "art_1795014555_9",
-    "slug": "top-10-scooters-oct-2026-activa-jupiter-access-chetak-iqube-ntorq",
-    "category": "spied-upcoming",
-    "category_name": "Leaked Spyshots & Launches",
-    "category_color": "#ec4899",
-    "category_gradient": "linear-gradient(135deg, #ec4899, #f43f5e)",
-    "category_icon": "📸",
-    "source": "Rushlane.com",
-    "raw_title": "Top 10 Scooters Oct 2026 – Activa, Jupiter, Access, Chetak, iQube, Ntorq, Destini, Burgman, Dio, Vida",
-    "title": "Top 10 Scooters Oct 2026 - Activa, Jupiter, Access, Chetak, iQube, Ntorq, Destini, Burgman, Dio, Vida",
-    "raw_summary": "After taking a look at the motorcycle sales , let us now take a look at the scooter sales, which have reached 11,82,048 units in October 2026, including domestic sales and exports. Volumes grew 34.19% from 8,80,895 units in October 2025 and 10.27% from 10,71,946 units in September 2026. Honda Activa led the domestic rankings with 3,86,029 units, while three electric entries made the top 10. October’s 10 bestselling scooters accounted for 9,25,693 domestic sales, up 27.06% from 7,28,544 units for the same models a year earlier. They made up 84.40% of the domestic scooter total. The Activa and Jupiter alone sold a combined 5,51,205 units, accounting for just over half of all domestic scooter sales in October.",
-    "summary": "After taking a look at the motorcycle sales , let us now take a look at the scooter sales, which have reached 11,82,048 units in October 2026, including domestic sales and exports. Volumes grew 34.19% from 8,80,895 units in October 2025 and 10.27% from 10,71,946 units in September 2026. Honda Activa led the domestic rankings with 3,86,029 units, while three electric entries made the top 10.",
-    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/08/new-tvs-jupiter-sales-record.jpg",
-    "original_url": "https://www.rushlane.com/top-10-scooters-oct-2026-activa-jupiter-access-chetak-12561422.html",
-    "published_at": "2026-11-18T04:07:05+00:00",
-    "time_ago": "11h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Rushlane.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ],
-    "bullet_points": [
-      "After taking a look at the motorcycle sales , let us now take a look at the scooter sales, which have reached 11,82,048 units in October 2026, including domestic sales and exports.",
-      "Volumes grew 34.19% from 8,80,895 units in October 2025 and 10.27% from 10,71,946 units in September 2026.",
-      "Official reporting verified via Rushlane.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Top 10 Scooters Oct 2026 - Activa, Jupiter, Access, Chetak, iQube",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/08/new-tvs-jupiter-sales-record.jpg",
-        "alt": "Top 10 Scooters Oct 2026 - Activa, Jupiter, Access, Chetak, iQube, Ntorq, Destini, Burgman, Dio, Vida cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 346
   }
 ]
