@@ -3,39 +3,159 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-24T04:01:01Z</lastmod>
+    <lastmod>2026-11-24T06:25:42Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-24T04:01:01Z</lastmod>
+    <lastmod>2026-11-24T06:25:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-24T04:01:01Z</lastmod>
+    <lastmod>2026-11-24T06:25:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-24T04:01:01Z</lastmod>
+    <lastmod>2026-11-24T06:25:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-24T04:01:01Z</lastmod>
+    <lastmod>2026-11-24T06:25:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-24T04:01:01Z</lastmod>
+    <lastmod>2026-11-24T06:25:42Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-motors-signs-mou-with-arai-ahead-of-combat-suv-debut/</loc>
+    <lastmod>2026-11-24T06:11:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-motors-arai-partner-combat-suv-specs-india.jpg</image:loc>
+      <image:title>JSW Motors Signs MoU With ARAI Ahead Of Combat SUV Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-motors-signs-mou-with-arai-ahead-of-combat-suv-debut/</loc>
+    <lastmod>2026-11-24T06:11:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-motors-arai-partner-combat-suv-specs-india.jpg</image:loc>
+      <image:title>JSW Motors Signs MoU With ARAI Ahead Of Combat SUV Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-cb500-retro-roadster-all-key-specs-features-revealed/</loc>
+    <lastmod>2026-11-24T05:30:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/honda-cb500-pearl-igneous-black-1400x800-1.jpg</image:loc>
+      <image:title>Inside Look: Honda CB500 Retro Roadster - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-cb500-retro-roadster-all-key-specs-features-revealed/</loc>
+    <lastmod>2026-11-24T05:30:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/honda-cb500-pearl-igneous-black-1400x800-1.jpg</image:loc>
+      <image:title>Inside Look: Honda CB500 Retro Roadster - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-combat-phev-launching-next-week-what-we-know-so-far/</loc>
+    <lastmod>2026-11-24T04:57:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_suv_details_f3670e105e.webp</image:loc>
+      <image:title>JSW Combat PHEV Launching Next Week: What We Know So Far</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-combat-phev-launching-next-week-what-we-know-so-far/</loc>
+    <lastmod>2026-11-24T04:57:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_suv_details_f3670e105e.webp</image:loc>
+      <image:title>JSW Combat PHEV Launching Next Week: What We Know So Far</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/maruti-suzuki-4th-price-hike-for-2026-announced-details/</loc>
+    <lastmod>2026-11-24T04:08:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/10/all-maruti-suzuki-cars-mileage-ranked-swift.jpg</image:loc>
+      <image:title>Price Hike Alert: Maruti Suzuki 4th Becomes More Expensive Starting This Month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/maruti-suzuki-4th-price-hike-for-2026-announced-details/</loc>
+    <lastmod>2026-11-24T04:08:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/10/all-maruti-suzuki-cars-mileage-ranked-swift.jpg</image:loc>
+      <image:title>Price Hike Alert: Maruti Suzuki 4th Becomes More Expensive Starting This Month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-to-launch-tomorrow-top-5-highlight/</loc>
+    <lastmod>2026-11-24T04:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-innova-hycross-facelift-to-launch-tomorrow-top-5-highlight/</loc>
+    <lastmod>2026-11-24T04:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-cb500-specs-fully-revealed-28-ps-433-nm-tbt-nav/</loc>
+    <lastmod>2026-11-24T03:58:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-honda-cb500-launch-price-bookings-16.jpeg</image:loc>
+      <image:title>Honda CB500 Specs Fully Revealed - 28 PS, 43.3 Nm, TBT Nav</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-cb500-specs-fully-revealed-28-ps-433-nm-tbt-nav/</loc>
+    <lastmod>2026-11-24T03:58:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-honda-cb500-launch-price-bookings-16.jpeg</image:loc>
+      <image:title>Honda CB500 Specs Fully Revealed - 28 PS, 43.3 Nm, TBT Nav</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/hiding-your-number-plate-to-avoid-barrierless-toll-pay-8-times-to/</loc>
@@ -2915,126 +3035,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Hyundai-Neira-MPV.jpeg</image:loc>
       <image:title>Production-Spec Hyundai Neira MPV (Rebadged Carens Clavis) Breaks Cover</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-hyundai-electric-mpv-based-on-kia-carens-clavis-ev-debuts-in-/</loc>
-    <lastmod>2026-11-19T03:32:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hyundai-neira-electric-mpv-revealed.jpg</image:loc>
-      <image:title>New Hyundai Electric MPV Based On Kia Carens Clavis EV Debuts In Prod-Spec</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-hyundai-electric-mpv-based-on-kia-carens-clavis-ev-debuts-in-/</loc>
-    <lastmod>2026-11-19T03:32:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/hyundai-neira-electric-mpv-revealed.jpg</image:loc>
-      <image:title>New Hyundai Electric MPV Based On Kia Carens Clavis EV Debuts In Prod-Spec</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/7-upcoming-mpvs-hyundai-neira-to-toyota-innova-hycross-facelift/</loc>
-    <lastmod>2026-11-19T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/7_upcoming_mpvs_ac6f158968.webp</image:loc>
-      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/7-upcoming-mpvs-hyundai-neira-to-toyota-innova-hycross-facelift/</loc>
-    <lastmod>2026-11-19T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/7_upcoming_mpvs_ac6f158968.webp</image:loc>
-      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/e20-critics-are-idiots-says-union-minister/</loc>
-    <lastmod>2026-11-19T02:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/suresh_gopi_about_e20_critics_7ea19a0106.webp</image:loc>
-      <image:title>E20 Critics Are Idiots, Says Union Minister</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/e20-critics-are-idiots-says-union-minister/</loc>
-    <lastmod>2026-11-19T02:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/suresh_gopi_about_e20_critics_7ea19a0106.webp</image:loc>
-      <image:title>E20 Critics Are Idiots, Says Union Minister</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-alpina-brand-to-reportedly-arrive-in-india-in-2027-first-mode/</loc>
-    <lastmod>2026-11-19T02:30:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BMW-Alpina.jpg</image:loc>
-      <image:title>BMW Alpina Brand To Reportedly Arrive In India In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-alpina-brand-to-reportedly-arrive-in-india-in-2027-first-mode/</loc>
-    <lastmod>2026-11-19T02:30:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BMW-Alpina.jpg</image:loc>
-      <image:title>BMW Alpina Brand To Reportedly Arrive In India In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/3-new-sedans-launching-soon-volkswagen-virtus-facelift-to-skoda-s/</loc>
-    <lastmod>2026-11-19T02:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_new_sedans_coming_soon_4343c962c9.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/3-new-sedans-launching-soon-volkswagen-virtus-facelift-to-skoda-s/</loc>
-    <lastmod>2026-11-19T02:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_new_sedans_coming_soon_4343c962c9.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/minister-85-of-petrol-bunks-in-karnataka-are-not-dispensing-corre/</loc>
-    <lastmod>2026-11-19T01:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/minister_says_karnataka_pumps_not_selling_correct_amount_of_fuel_823da685b5.webp</image:loc>
-      <image:title>Minister: 85% Of Petrol Bunks In Karnataka Are Not Dispensing Correct Quantity Of Fuel [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/minister-85-of-petrol-bunks-in-karnataka-are-not-dispensing-corre/</loc>
-    <lastmod>2026-11-19T01:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/minister_says_karnataka_pumps_not_selling_correct_amount_of_fuel_823da685b5.webp</image:loc>
-      <image:title>Minister: 85% Of Petrol Bunks In Karnataka Are Not Dispensing Correct Quantity Of Fuel [Video]</image:title>
     </image:image>
   </url>
 </urlset>

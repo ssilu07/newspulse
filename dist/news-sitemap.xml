@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/jsw-motors-signs-mou-with-arai-ahead-of-combat-suv-debut/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T06:11:52+00:00</news:publication_date>
+      <news:title>JSW Motors Signs MoU With ARAI Ahead Of Combat SUV Debut</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-motors-arai-partner-combat-suv-specs-india.jpg</image:loc>
+      <image:title>JSW Motors Signs MoU With ARAI Ahead Of Combat SUV Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-cb500-retro-roadster-all-key-specs-features-revealed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T05:30:59+00:00</news:publication_date>
+      <news:title>Inside Look: Honda CB500 Retro Roadster - What Every Indian Car Owner Must Know</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/honda-cb500-pearl-igneous-black-1400x800-1.jpg</image:loc>
+      <image:title>Inside Look: Honda CB500 Retro Roadster - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-combat-phev-launching-next-week-what-we-know-so-far/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T04:57:45+00:00</news:publication_date>
+      <news:title>JSW Combat PHEV Launching Next Week: What We Know So Far</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_suv_details_f3670e105e.webp</image:loc>
+      <image:title>JSW Combat PHEV Launching Next Week: What We Know So Far</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/maruti-suzuki-4th-price-hike-for-2026-announced-details/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T04:08:47+00:00</news:publication_date>
+      <news:title>Price Hike Alert: Maruti Suzuki 4th Becomes More Expensive Starting This Month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/10/all-maruti-suzuki-cars-mileage-ranked-swift.jpg</image:loc>
+      <image:title>Price Hike Alert: Maruti Suzuki 4th Becomes More Expensive Starting This Month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-to-launch-tomorrow-top-5-highlight/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T04:00:23+00:00</news:publication_date>
+      <news:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-cb500-specs-fully-revealed-28-ps-433-nm-tbt-nav/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T03:58:18+00:00</news:publication_date>
+      <news:title>Honda CB500 Specs Fully Revealed - 28 PS, 43.3 Nm, TBT Nav</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-honda-cb500-launch-price-bookings-16.jpeg</image:loc>
+      <image:title>Honda CB500 Specs Fully Revealed - 28 PS, 43.3 Nm, TBT Nav</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/hiding-your-number-plate-to-avoid-barrierless-toll-pay-8-times-to/</loc>
     <news:news>
       <news:publication>
@@ -645,36 +735,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/2026-Hunter-350-3.jpg</image:loc>
       <image:title>Royal Enfield Plans Affordable 250 cc Motorcycles, Targeting First-Time Buyers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mg-windsor-facelift-to-offer-higher-range-and-new-features-in-202/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T05:30:28+00:00</news:publication_date>
-      <news:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Top SUVs - Variant-Wise Offers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/10/MG-Windsor-Inspire-Edition-1.jpg</image:loc>
-      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Top SUVs - Variant-Wise Offers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-carens-cng-and-carens-clavis-cng-sell-6200-units-in-2-months/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T05:05:00+00:00</news:publication_date>
-      <news:title>Kia Carens CNG And Carens Clavis CNG Sell 6,200 Units In 2 Months</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/kia_carens_clavis_cng_sales_d9b086bbcb.webp</image:loc>
-      <image:title>Kia Carens CNG And Carens Clavis CNG Sell 6,200 Units In 2 Months</image:title>
     </image:image>
   </url>
 </urlset>
