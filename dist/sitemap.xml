@@ -3,39 +3,79 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-24T12:44:14Z</lastmod>
+    <lastmod>2026-11-24T17:00:34Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-24T12:44:14Z</lastmod>
+    <lastmod>2026-11-24T17:00:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-24T12:44:14Z</lastmod>
+    <lastmod>2026-11-24T17:00:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-24T12:44:14Z</lastmod>
+    <lastmod>2026-11-24T17:00:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-24T12:44:14Z</lastmod>
+    <lastmod>2026-11-24T17:00:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-24T12:44:14Z</lastmod>
+    <lastmod>2026-11-24T17:00:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/karnataka-cm-visits-toyotas-japan-factory-wants-hybrid-cabs-launc/</loc>
+    <lastmod>2026-11-24T14:53:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/Karnataka_CM_DK_Shivakumar_Checking_Out_Toyota_s_JPN_Hybrid_Taxi_Featured_684b9019ba.webp</image:loc>
+      <image:title>Karnataka CM Visits Toyota&#x27;s Japan Factory: Wants Hybrid Cabs Launched In Bangalore</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/karnataka-cm-visits-toyotas-japan-factory-wants-hybrid-cabs-launc/</loc>
+    <lastmod>2026-11-24T14:53:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/Karnataka_CM_DK_Shivakumar_Checking_Out_Toyota_s_JPN_Hybrid_Taxi_Featured_684b9019ba.webp</image:loc>
+      <image:title>Karnataka CM Visits Toyota&#x27;s Japan Factory: Wants Hybrid Cabs Launched In Bangalore</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tvs-jupiter-fastest-to-reach-1-crore-production-milestone-new-rec/</loc>
+    <lastmod>2026-11-24T13:50:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-jupiter-1-crore-production-milestone-2.jpg</image:loc>
+      <image:title>TVS Jupiter Fastest To Reach 1 Crore Production Milestone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tvs-jupiter-fastest-to-reach-1-crore-production-milestone-new-rec/</loc>
+    <lastmod>2026-11-24T13:50:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/tvs-jupiter-1-crore-production-milestone-2.jpg</image:loc>
+      <image:title>TVS Jupiter Fastest To Reach 1 Crore Production Milestone</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/december-2026-brings-05-percent-price-increase-for-tata-cars/</loc>
@@ -255,6 +295,26 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/jsw-Combat.jpg</image:loc>
       <image:title>JSW Motors Signs MoU With ARAI For New Energy Vehicle Development</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tvs-sales-breakup-oct-2026-jupiter-apache-xl-iqube-raider-ntorq-r/</loc>
+    <lastmod>2026-11-24T06:58:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/08/2024-tvs-jupiter-110-new-launch-price-colours-features-specs-mileage-21.jpg</image:loc>
+      <image:title>TVS Sales Breakup Oct 2026 - Jupiter, Apache, XL, iQube, Raider, Ntorq, Radeon, Ronin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tvs-sales-breakup-oct-2026-jupiter-apache-xl-iqube-raider-ntorq-r/</loc>
+    <lastmod>2026-11-24T06:58:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/08/2024-tvs-jupiter-110-new-launch-price-colours-features-specs-mileage-21.jpg</image:loc>
+      <image:title>TVS Sales Breakup Oct 2026 - Jupiter, Apache, XL, iQube, Raider, Ntorq, Radeon, Ronin</image:title>
     </image:image>
   </url>
   <url>
@@ -2975,66 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/10/new-toyota-glanza-launch-price-14.jpg</image:loc>
       <image:title>Toyota Sales Breakup Oct 2026 - Hyryder, Hycross, Crysta, Fortuner, Glanza</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-boss-high-global-ncap-rating-not-equal-to-high-safety/</loc>
-    <lastmod>2026-11-19T10:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/toyota_boss_about_global_ncap_rating_9fa6bc4533.webp</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-boss-high-global-ncap-rating-not-equal-to-high-safety/</loc>
-    <lastmod>2026-11-19T10:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/toyota_boss_about_global_ncap_rating_9fa6bc4533.webp</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/vinfast-evo-kyo-kinet-scooters-to-launch-in-india-in-2027-up-to-1/</loc>
-    <lastmod>2026-11-19T10:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/vinfast-kinet-press.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/vinfast-evo-kyo-kinet-scooters-to-launch-in-india-in-2027-up-to-1/</loc>
-    <lastmod>2026-11-19T10:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/vinfast-kinet-press.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-rebel-500-launched-in-india-at-rs-450-lakh-bookings-open/</loc>
-    <lastmod>2026-11-19T09:51:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Honda-Rebel-500.jpg</image:loc>
-      <image:title>Honda Rebel 500 Launched In India At Rs. 4.50 Lakh, Bookings Open</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-rebel-500-launched-in-india-at-rs-450-lakh-bookings-open/</loc>
-    <lastmod>2026-11-19T09:51:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Honda-Rebel-500.jpg</image:loc>
-      <image:title>Honda Rebel 500 Launched In India At Rs. 4.50 Lakh, Bookings Open</image:title>
     </image:image>
   </url>
 </urlset>
