@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/bentleys-first-electric-suv-coming-to-india-in-2027-why-it-wont-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T17:08:43+00:00</news:publication_date>
+      <news:title>Bentley&#x27;s First Electric SUV Coming To India In 2027: Why It Won&#x27;t Be Built Here</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/bentley_torcal_electric_suv_india_launch_2027_featured_21e5b02f76.webp</image:loc>
+      <image:title>Bentley&#x27;s First Electric SUV Coming To India In 2027: Why It Won&#x27;t Be Built Here</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/karnataka-cm-visits-toyotas-japan-factory-wants-hybrid-cabs-launc/</loc>
     <news:news>
       <news:publication>
