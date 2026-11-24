@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/hiding-your-number-plate-to-avoid-barrierless-toll-pay-8-times-to/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T03:35:47+00:00</news:publication_date>
+      <news:title>Number Plate Alert: Massive Fine For Non-HSRP Plates &amp; How To Avoid Impoundment</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/barrierfree_toll_penalty_hiding_number_plate_8_X_toll_featured_7373395af2.webp</image:loc>
+      <image:title>Number Plate Alert: Massive Fine For Non-HSRP Plates &amp; How To Avoid Impoundment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nhai-to-bust-bad-contractors-using-dashcams-50000-kms-of-highways/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T03:08:50+00:00</news:publication_date>
+      <news:title>NHAI To Bust Bad Contractors Using Dashcams: 50,000 Kms Of Highways Under Watch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/Dashcam_Pothole_Detection_On_Highways_Featured_4d780d82ac.webp</image:loc>
+      <image:title>NHAI To Bust Bad Contractors Using Dashcams: 50,000 Kms Of Highways Under Watch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-cb500-launched-at-rs-275-lakh-the-only-long-stroke-air-cool/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T02:47:19+00:00</news:publication_date>
+      <news:title>Honda CB500 Launched At Rs. 2.75 Lakh: The Only Long-Stroke Air-Cooled Thumper You Can Buy Today!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_cb500_launched_india_featured_f16a04b95a.webp</image:loc>
+      <image:title>Honda CB500 Launched At Rs. 2.75 Lakh: The Only Long-Stroke Air-Cooled Thumper You Can Buy Today!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-alpha-midsize-e-suv-to-debut-next-week-what-we-know-so-far/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T02:30:50+00:00</news:publication_date>
+      <news:title>Honda Alpha Midsize e-SUV To Debut Next Week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/10/Honda-0-α-Alpha-EV-India-2.jpg</image:loc>
+      <image:title>Honda Alpha Midsize e-SUV To Debut Next Week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-new-7-seat-suvs-from-tata-and-mahindra-safariev-to-be07/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T02:30:22+00:00</news:publication_date>
+      <news:title>5 New 7 Seat SUVs From Tata And Mahindra: Safari.EV To BE07</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_new_7_seat_tata_and_mahindra_suvs_featured_d86ccbc17a.webp</image:loc>
+      <image:title>5 New 7 Seat SUVs From Tata And Mahindra: Safari.EV To BE07</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-mahindra-suvs-confirmed-for-launch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T02:08:14+00:00</news:publication_date>
+      <news:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_new_mahindra_suvs_confirmed_for_launch_featured_c85919f60c.webp</image:loc>
+      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ultraviolette-x-47-venom-deliveries-start-price-range-rs-rs-25-l-/</loc>
     <news:news>
       <news:publication>
@@ -585,111 +675,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/kia_carens_clavis_cng_sales_d9b086bbcb.webp</image:loc>
       <image:title>Kia Carens CNG And Carens Clavis CNG Sell 6,200 Units In 2 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/upcoming-tata-cars-in-india-4-new-models-to-look-forward-in-2027/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T04:00:18+00:00</news:publication_date>
-      <news:title>Upcoming Tata Cars In India: 4 New Models To Look Forward In 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Tata-Nexon-5.jpg</image:loc>
-      <image:title>Upcoming Tata Cars In India: 4 New Models To Look Forward In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/3-upcoming-electric-mpvs-hyundai-neira-to-maruti-ymc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T03:15:00+00:00</news:publication_date>
-      <news:title>3 Upcoming Electric MPVs: Hyundai Neira To Maruti YMC</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_electric_mpvs_e6a1e55ad6.webp</image:loc>
-      <image:title>3 Upcoming Electric MPVs: Hyundai Neira To Maruti YMC</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/upcoming-hyundai-neira-first-time-on-video/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T02:45:00+00:00</news:publication_date>
-      <news:title>Upcoming Hyundai Neira: First Time On Video</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/hyundai_neira_video_walkaround_3621b20b62.webp</image:loc>
-      <image:title>Upcoming Hyundai Neira: First Time On Video</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-motors-to-launch-j5-and-v23-electric-suvs-next-year/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T02:30:16+00:00</news:publication_date>
-      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/02/chery-icar-v23-india-mg.-1.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/karnataka-plans-new-bike-taxi-rules-after-supreme-court-verdict-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T02:15:00+00:00</news:publication_date>
-      <news:title>Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/new_rules_coming_for_karnataka_bike_taxi_187905a7de.webp</image:loc>
-      <image:title>Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/cng-is-costlier-or-almost-equal-to-petrol-price-in-hyderabad-ahme/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T01:45:00+00:00</news:publication_date>
-      <news:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/cng_price_petrol_price_indian_cities_99b0cc0786.webp</image:loc>
-      <image:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-maruti-suzuki-suvs-launching-soon-in-india-y43-to-grand-vitara-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T01:15:00+00:00</news:publication_date>
-      <news:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_0128ad8c77.webp</image:loc>
-      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
 </urlset>
