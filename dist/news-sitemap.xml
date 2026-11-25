@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/tata-motors-to-hike-prices-from-dec-2026-as-ice-cars-evs-will-get/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T02:30:01+00:00</news:publication_date>
+      <news:title>Tata Motors To Hike Prices From Dec 2026 As ICE Cars &amp; EVs Will Get Costlier</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/Tata-Nexon-Camo-3.jpg</image:loc>
+      <image:title>Tata Motors To Hike Prices From Dec 2026 As ICE Cars &amp; EVs Will Get Costlier</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-upcoming-new-adventure-bikes-royal-enfield-himalayan-750-to-nor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T02:15:00+00:00</news:publication_date>
+      <news:title>5 Upcoming New Adventure Bikes: Royal Enfield Himalayan 750 To Norton Atlas</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_adv_motorcycles_0d9d004daa.webp</image:loc>
+      <image:title>5 Upcoming New Adventure Bikes: Royal Enfield Himalayan 750 To Norton Atlas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-motors-unveils-logo-ahead-of-combat-phev-launch-on-december-3/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T01:39:55+00:00</news:publication_date>
+      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_motors_brand_logo_reveal_featured_94e826c6dc.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/6-new-suvs-from-renault-and-nissan-renault-bridger-to-nissan-patr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T01:15:00+00:00</news:publication_date>
+      <news:title>6 New SUVs From Renault And Nissan: Renault Bridger To Nissan Patrol</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/6_upcoming_renault_nissan_1_8433feaec5.webp</image:loc>
+      <image:title>6 New SUVs From Renault And Nissan: Renault Bridger To Nissan Patrol</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/bentleys-first-electric-suv-coming-to-india-in-2027-why-it-wont-b/</loc>
     <news:news>
       <news:publication>
@@ -765,51 +825,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/seat_cover_on_6_airbags_car_bad_idea_featured_93f7213944.webp</image:loc>
       <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-new-compact-suvs-launching-soon-honda-alpha-to-vinfast-vf5/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T02:22:38+00:00</news:publication_date>
-      <news:title>5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/Launching_Soon_5_New_Compact_SU_Vs_Featured_8255fba227.webp</image:loc>
-      <image:title>5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-is-honda-revealing-alpha-in-india-first/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T02:16:45+00:00</news:publication_date>
-      <news:title>The Hidden Reason Why Is Honda Revealing ALPHA In India First?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_ev_india_reveal_first_featured_f875a1714d.webp</image:loc>
-      <image:title>The Hidden Reason Why Is Honda Revealing ALPHA In India First?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/3-confirmed-car-launches-of-december/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T02:04:01+00:00</news:publication_date>
-      <news:title>Inside Look: 3 Confirmed Car Launches Of December - What Every Indian Car Owner Must Know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_confirmed_december_2026_car_launches_featured_5292a5d482.webp</image:loc>
-      <image:title>Inside Look: 3 Confirmed Car Launches Of December - What Every Indian Car Owner Must Know</image:title>
     </image:image>
   </url>
 </urlset>
