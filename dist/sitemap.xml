@@ -3,39 +3,239 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-25T11:30:30Z</lastmod>
+    <lastmod>2026-11-25T16:50:50Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-25T11:30:30Z</lastmod>
+    <lastmod>2026-11-25T16:50:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-25T11:30:30Z</lastmod>
+    <lastmod>2026-11-25T16:50:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-25T11:30:30Z</lastmod>
+    <lastmod>2026-11-25T16:50:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-25T11:30:30Z</lastmod>
+    <lastmod>2026-11-25T16:50:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-25T11:30:30Z</lastmod>
+    <lastmod>2026-11-25T16:50:50Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/royal-enfield-offers-free-10-year-warranty-in-uk-why-india-could-/</loc>
+    <lastmod>2026-11-25T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/royal_enfield_10_year_warranty_a8509f02c4.webp</image:loc>
+      <image:title>Royal Enfield Offers Free 10-Year Warranty In UK: Why India Could Be Next!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/royal-enfield-offers-free-10-year-warranty-in-uk-why-india-could-/</loc>
+    <lastmod>2026-11-25T16:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/royal_enfield_10_year_warranty_a8509f02c4.webp</image:loc>
+      <image:title>Royal Enfield Offers Free 10-Year Warranty In UK: Why India Could Be Next!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-brochure-variants-wise-features-g-/</loc>
+    <lastmod>2026-11-25T15:47:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/toyota-innova-hycross-facelift-brochure.jpg</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-innova-hycross-facelift-brochure-variants-wise-features-g-/</loc>
+    <lastmod>2026-11-25T15:47:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/toyota-innova-hycross-facelift-brochure.jpg</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2026-toyota-innova-hycross-facelift-photo-gallery/</loc>
+    <lastmod>2026-11-25T15:14:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hycross_featured_68e749c8ac.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2026-toyota-innova-hycross-facelift-photo-gallery/</loc>
+    <lastmod>2026-11-25T15:14:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hycross_featured_68e749c8ac.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/the-ignis-is-back-and-youll-be-surprised-at-how-it-looks-now/</loc>
+    <lastmod>2026-11-25T14:59:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/maruti_ignis_coming_back_as_ev_d52768c7c8.webp</image:loc>
+      <image:title>The Ignis Is Back, And You&#x27;ll Be Surprised At How It Looks Now!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/the-ignis-is-back-and-youll-be-surprised-at-how-it-looks-now/</loc>
+    <lastmod>2026-11-25T14:59:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/maruti_ignis_coming_back_as_ev_d52768c7c8.webp</image:loc>
+      <image:title>The Ignis Is Back, And You&#x27;ll Be Surprised At How It Looks Now!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-does-a-mahindra-gifts-paralympian-sheetal-devi-bayon-suv/</loc>
+    <lastmod>2026-11-25T14:39:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_bayon_sheetal_devi_featured_5b49161d10.webp</image:loc>
+      <image:title>Hyundai Does A Mahindra: Gifts Paralympian Sheetal Devi Bayon SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-does-a-mahindra-gifts-paralympian-sheetal-devi-bayon-suv/</loc>
+    <lastmod>2026-11-25T14:39:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_bayon_sheetal_devi_featured_5b49161d10.webp</image:loc>
+      <image:title>Hyundai Does A Mahindra: Gifts Paralympian Sheetal Devi Bayon SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/electric-two-wheelers-tvs-motors-leads-with-26-marketshare-ola-el/</loc>
+    <lastmod>2026-11-25T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/electric_2_wheelers_rankings_72dda32464.webp</image:loc>
+      <image:title>Electric Two-Wheelers: TVS Motors Leads With 26% Marketshare, Ola Electric Crashes To 6.7%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/electric-two-wheelers-tvs-motors-leads-with-26-marketshare-ola-el/</loc>
+    <lastmod>2026-11-25T14:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/electric_2_wheelers_rankings_72dda32464.webp</image:loc>
+      <image:title>Electric Two-Wheelers: TVS Motors Leads With 26% Marketshare, Ola Electric Crashes To 6.7%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2026-toyota-innova-hycross-facelift-launched-at-rs-1959-lakh/</loc>
+    <lastmod>2026-11-25T12:52:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2026-Toyota-Innova-HyCross-Facelift-3.jpg</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2026-toyota-innova-hycross-facelift-launched-at-rs-1959-lakh/</loc>
+    <lastmod>2026-11-25T12:52:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2026-Toyota-Innova-HyCross-Facelift-3.jpg</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-e85-flex-fuel-hybrid-launch-price-/</loc>
+    <lastmod>2026-11-25T12:44:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-E85-Flex-Fuel-Hybrid-Launch-Price-Rs-19.99-L-1.jpg</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-innova-hycross-facelift-e85-flex-fuel-hybrid-launch-price-/</loc>
+    <lastmod>2026-11-25T12:44:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-E85-Flex-Fuel-Hybrid-Launch-Price-Rs-19.99-L-1.jpg</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-toyota-innova-hycross-facelift-launched-in-india-at-rs-1959-l/</loc>
+    <lastmod>2026-11-25T12:38:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hycross_facelift_launched_featured_20bd6267ce.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-toyota-innova-hycross-facelift-launched-in-india-at-rs-1959-l/</loc>
+    <lastmod>2026-11-25T12:38:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hycross_facelift_launched_featured_20bd6267ce.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-hycross-facelift-final-production-version-revealed-launch-/</loc>
+    <lastmod>2026-11-25T12:11:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/toyota_hycross_faceliftp_live_blog_featured_3c337920b8.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-hycross-facelift-final-production-version-revealed-launch-/</loc>
+    <lastmod>2026-11-25T12:11:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/toyota_hycross_faceliftp_live_blog_featured_3c337920b8.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/suzuki-ignis-returns-as-small-electric-car-26-kwh-90-hp-36m-1080-/</loc>
@@ -238,6 +438,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/hyundai-gifts-new-bayon-suv-to-paralympic-champion-sheetal-devi/</loc>
+    <lastmod>2026-11-25T06:22:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/sheetal-devi-paralympic-medalist-hyundai-bayon.jpg</image:loc>
+      <image:title>Hyundai Gifts New Bayon SUV To Paralympic Champion Sheetal Devi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-gifts-new-bayon-suv-to-paralympic-champion-sheetal-devi/</loc>
+    <lastmod>2026-11-25T06:22:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/sheetal-devi-paralympic-medalist-hyundai-bayon.jpg</image:loc>
+      <image:title>Hyundai Gifts New Bayon SUV To Paralympic Champion Sheetal Devi</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ola-electric-runs-into-battery-problems-too-many-cells-failing-qu/</loc>
     <lastmod>2026-11-25T06:05:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -278,6 +498,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/jsw-motors-reveals-official-brand-logo-inspired-by-indias-unity-i/</loc>
+    <lastmod>2026-11-25T05:33:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-motors-logo-official.jpg</image:loc>
+      <image:title>JSW Motors Reveals Official Brand Logo - Inspired By India&#x27;s Unity In Diversity</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-motors-reveals-official-brand-logo-inspired-by-indias-unity-i/</loc>
+    <lastmod>2026-11-25T05:33:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-motors-logo-official.jpg</image:loc>
+      <image:title>JSW Motors Reveals Official Brand Logo - Inspired By India&#x27;s Unity In Diversity</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/renault-duster-hybrid-owner-getting-20-22-kmpl-mileage-in-real-wo/</loc>
     <lastmod>2026-11-25T05:33:10+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -295,6 +535,26 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/renault_duster_hybrid_mileage_416113ff04.webp</image:loc>
       <image:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/maruti-suzuki-increases-car-prices-for-the-4th-time-due-to-rising/</loc>
+    <lastmod>2026-11-25T05:30:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/05/Maruti-Victoris-10.jpg</image:loc>
+      <image:title>Maruti Suzuki Increases Car Prices For The 4th Time Due To Rising Costs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/maruti-suzuki-increases-car-prices-for-the-4th-time-due-to-rising/</loc>
+    <lastmod>2026-11-25T05:30:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/05/Maruti-Victoris-10.jpg</image:loc>
+      <image:title>Maruti Suzuki Increases Car Prices For The 4th Time Due To Rising Costs</image:title>
     </image:image>
   </url>
   <url>
@@ -2775,266 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-bajaj-pulsar-rs-200-launch-price-usd-forks-tft-display-29.jpg</image:loc>
       <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/skoda-kylaq-cng-spied-testing-well-scam-alert/</loc>
-    <lastmod>2026-11-20T12:11:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/cng_skoda_kylaq_fake_debunked_edda50bfcc.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/skoda-kylaq-cng-spied-testing-well-scam-alert/</loc>
-    <lastmod>2026-11-20T12:11:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/cng_skoda_kylaq_fake_debunked_edda50bfcc.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-releases-official-teaser-for-upcoming-combat-suv-ahead-of-lau/</loc>
-    <lastmod>2026-11-20T10:30:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_first_official_teaser_b67a533fb6.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jsw-releases-official-teaser-for-upcoming-combat-suv-ahead-of-lau/</loc>
-    <lastmod>2026-11-20T10:30:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_first_official_teaser_b67a533fb6.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/42m-to-45m-suv-sales-oct-2026-creta-victoris-seltos-vitara-hyryde/</loc>
-    <lastmod>2026-11-20T10:24:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/hyundai-creta-sales-no-1.jpg</image:loc>
-      <image:title>4.2m to 4.5m SUV Sales Oct 2026 - Creta, Victoris, Seltos, Vitara, Hyryder, Sierra, ROXX, Elevate</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/42m-to-45m-suv-sales-oct-2026-creta-victoris-seltos-vitara-hyryde/</loc>
-    <lastmod>2026-11-20T10:24:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/09/hyundai-creta-sales-no-1.jpg</image:loc>
-      <image:title>4.2m to 4.5m SUV Sales Oct 2026 - Creta, Victoris, Seltos, Vitara, Hyryder, Sierra, ROXX, Elevate</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/indias-oldest-rolls-royce-cullinan-series-ii-owner-takes-delivery/</loc>
-    <lastmod>2026-11-20T10:07:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/india_oldest_rolls_royce_cullinan_series_2_owner_e73c8d3fd8.webp</image:loc>
-      <image:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/indias-oldest-rolls-royce-cullinan-series-ii-owner-takes-delivery/</loc>
-    <lastmod>2026-11-20T10:07:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/india_oldest_rolls_royce_cullinan_series_2_owner_e73c8d3fd8.webp</image:loc>
-      <image:title>Delivery Timeline Crisis: Real Waiting Period On Top Selling SUVs &amp; Dealer Backdoor Truth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-india-doubles-deliveries-in-just-over-a-year/</loc>
-    <lastmod>2026-11-20T09:48:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/BYD-Sealion-7.jpeg</image:loc>
-      <image:title>BYD India Doubles Deliveries in Just Over a Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-india-doubles-deliveries-in-just-over-a-year/</loc>
-    <lastmod>2026-11-20T09:48:33+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/BYD-Sealion-7.jpeg</image:loc>
-      <image:title>BYD India Doubles Deliveries in Just Over a Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagens-new-sub-4-meter-suv-called-tengo-for-south-africa-ind/</loc>
-    <lastmod>2026-11-20T09:14:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/volkswagen_tengo_south_africa_fcbd948fb8.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/volkswagens-new-sub-4-meter-suv-called-tengo-for-south-africa-ind/</loc>
-    <lastmod>2026-11-20T09:14:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/volkswagen_tengo_south_africa_fcbd948fb8.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/volkswagen-tengo-compact-suv-production-begins-derived-from-tera/</loc>
-    <lastmod>2026-11-20T08:30:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/volkswagen-tengo-city-promotional.jpg</image:loc>
-      <image:title>Volkswagen Tengo Compact SUV Production Begins, Derived From Tera</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/volkswagen-tengo-compact-suv-production-begins-derived-from-tera/</loc>
-    <lastmod>2026-11-20T08:30:48+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/volkswagen-tengo-city-promotional.jpg</image:loc>
-      <image:title>Volkswagen Tengo Compact SUV Production Begins, Derived From Tera</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-jsw-motors-combat-suv-first-official-teaser-out-ahead-of-debu/</loc>
-    <lastmod>2026-11-20T07:46:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-combat-teaser-launch-2.jpg</image:loc>
-      <image:title>New JSW Motors Combat SUV First Official Teaser Out Ahead Of Debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-jsw-motors-combat-suv-first-official-teaser-out-ahead-of-debu/</loc>
-    <lastmod>2026-11-20T07:46:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-combat-teaser-launch-2.jpg</image:loc>
-      <image:title>New JSW Motors Combat SUV First Official Teaser Out Ahead Of Debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-gen-hyundai-elantra-revealed-157-ps-hybrid-larger-cabin-more-/</loc>
-    <lastmod>2026-11-20T07:24:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/01_FEATURED_Elantra_city_front.jpg</image:loc>
-      <image:title>New Gen Hyundai Elantra Revealed - 157 PS Hybrid, Larger Cabin, More Tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-gen-hyundai-elantra-revealed-157-ps-hybrid-larger-cabin-more-/</loc>
-    <lastmod>2026-11-20T07:24:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/01_FEATURED_Elantra_city_front.jpg</image:loc>
-      <image:title>New Gen Hyundai Elantra Revealed - 157 PS Hybrid, Larger Cabin, More Tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/taarzan-the-wonder-car-is-back-on-the-road-video/</loc>
-    <lastmod>2026-11-20T07:19:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/taarzan_wonder_car_back_on_the_road_2190bd3cdf.webp</image:loc>
-      <image:title>Taarzan The Wonder Car Is Back On The Road [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/taarzan-the-wonder-car-is-back-on-the-road-video/</loc>
-    <lastmod>2026-11-20T07:19:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/taarzan_wonder_car_back_on_the_road_2190bd3cdf.webp</image:loc>
-      <image:title>Taarzan The Wonder Car Is Back On The Road [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-avancier-44-fortuner-rival-breaks-cover-with-hybrid-engine/</loc>
-    <lastmod>2026-11-20T07:00:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/01_Avancier_front.jpg</image:loc>
-      <image:title>Honda Avancier 4×4 (Fortuner Rival) Breaks Cover With Hybrid Engine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-avancier-44-fortuner-rival-breaks-cover-with-hybrid-engine/</loc>
-    <lastmod>2026-11-20T07:00:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/01_Avancier_front.jpg</image:loc>
-      <image:title>Honda Avancier 4×4 (Fortuner Rival) Breaks Cover With Hybrid Engine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-ti-9-suv-launched-with-folding-steering-wheel-1630-km-claimed/</loc>
-    <lastmod>2026-11-20T06:36:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-suv-foldable-steering-launch-price.jpg</image:loc>
-      <image:title>BYD Ti 9 SUV Launched With Folding Steering Wheel - 1,630 Km Claimed Range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-ti-9-suv-launched-with-folding-steering-wheel-1630-km-claimed/</loc>
-    <lastmod>2026-11-20T06:36:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-suv-foldable-steering-launch-price.jpg</image:loc>
-      <image:title>BYD Ti 9 SUV Launched With Folding Steering Wheel - 1,630 Km Claimed Range</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundai-creta-electric-owners-demand-lifetime-battery-warranty-15/</loc>
-    <lastmod>2026-11-20T06:11:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/creta_ev_owners_lifetime_warranty_0d9ea81435.webp</image:loc>
-      <image:title>Hyundai Creta Electric Owners Demand Lifetime Battery Warranty- 150 Owners Sign Petition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundai-creta-electric-owners-demand-lifetime-battery-warranty-15/</loc>
-    <lastmod>2026-11-20T06:11:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/creta_ev_owners_lifetime_warranty_0d9ea81435.webp</image:loc>
-      <image:title>Hyundai Creta Electric Owners Demand Lifetime Battery Warranty- 150 Owners Sign Petition</image:title>
     </image:image>
   </url>
 </urlset>
