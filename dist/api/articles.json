@@ -1,5 +1,641 @@
 [
   {
+    "id": "art_1795582934_1",
+    "slug": "skoda-peaq-scores-5-stars-in-euro-ncap-crash-tests",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "Skoda Peaq Scores 5 Stars In Euro NCAP Crash Tests",
+    "title": "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car",
+    "raw_summary": "Skoda's Peaq electric SUV earns a record 94% crash protection score in Euro NCAP tests, but its India launch remains unconfirmed and pricing is the key hurdle.",
+    "summary": "Skoda's Peaq electric SUV earns a record 94% crash protection score in Euro NCAP tests, but its India launch remains unconfirmed and pricing is the key hurdle.",
+    "image_url": "https://cdn.cartoq.com/photos/skoda_peaq_euro_ncap_rating_362daf02c6.webp",
+    "original_url": "https://www.cartoq.com/car-news/skoda-peaq-euro-ncap-india-pricing/",
+    "published_at": "2026-11-25T04:30:47+00:00",
+    "time_ago": "31m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Cartoq.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
+      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
+      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
+      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
+      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
+    ],
+    "specs_table": [
+      {
+        "label": "Offense / Violation",
+        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
+      },
+      {
+        "label": "Governing Section",
+        "val": "Section 177 / 190(2) & Rule 100 CMVR"
+      },
+      {
+        "label": "Fine Amount (First)",
+        "val": "Rs 1,000 + Removal on spot"
+      },
+      {
+        "label": "Fine Amount (Repeat)",
+        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
+      },
+      {
+        "label": "Dispute Portal",
+        "val": "echallan.parivahan.gov.in (Virtual Courts)"
+      }
+    ],
+    "bullet_points": [
+      "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Te",
+        "badge": "🚨 BREAKING",
+        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
+        "image": "https://cdn.cartoq.com/photos/skoda_peaq_euro_ncap_rating_362daf02c6.webp",
+        "alt": "Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 370
+  },
+  {
+    "id": "art_1795582934_6",
+    "slug": "next-gen-rexton-suv-teased-with-jeep-range-rover-design-cues",
+    "category": "discounts-offers",
+    "category_name": "Discounts & Waiting Periods",
+    "category_color": "#10b981",
+    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
+    "category_icon": "🏷️",
+    "source": "Gaadiwaadi.com",
+    "raw_title": "Next Gen Rexton SUV Teased With Jeep & Range Rover Design Cues",
+    "title": "Next Gen Rexton SUV Teased With Jeep & Range Rover Design Cues",
+    "raw_summary": "GaadiWaadi - KG Mobility will launch the new Rexton PHEV in South Korea in January 2027 and the flagship SUV will reportedly utilise a monocoque architecture Four years after the Mahindra Alturas G4 disappeared from showrooms in India, its South Korean counterpart is about to undergo a generational change. KG Mobility released the first teaser images of the new Rexton yesterday and confirmed that the SUV will feature a plug-in hybrid powertrain. Its commercial debut in South Korea will take place in January 2027. The association between Mahindra and the Rexton dates back to October 2012 when the SUV arrived in India under the SsangYong badge. Mahindra had acquired a controlling stake in the South Korean automaker a year earlier. The RX5 manual variant cost Rs. 17.67 lakh while the RX7 automatic version commanded Rs. 19.67 lakh (ex-showroom, Mumbai). Both derived power from a 2.7-litre diesel engine. Six years later, Mahindra introduced the second generation Rexton domestically as the Alturas G4 at an introductory price of Rs. 26.95 lakh (ex-showroom). The seven-seater SUV employed a 2.2-litre diesel engine rated at 178 bhp and 420 Nm. It competed against the Toyota Fortuner and Ford Endeavour and boasted equipment such as ventilated front seats, nine airbags and a 360-degree camera system on the top variant. As for the new Rexton, the rear profile bears a noticeable resemblance to the current generation Range Rover. The black trim on either side of the tailgate houses slender vertical LED elements and discreetly integrated turn indicators. The registration plate sits lower down on the tailgate beneath the prominently displayed Rexton lettering. Meanwhile, the five illuminated grille slots at the front evoke the design of Jeep SUVs. KGM has employed a similar arrangement on its Musso pickup truck but the Rexton gets slimmer headlamp clusters split into two sections. The squared bonnet and angular bumper further differentiate it from the outgoing model. Arguably, the biggest departure from previous Rexton generations lies beneath the bodywork. KGM secured the rights to use Chery Automobile’s T2X architecture in October 2024 and the new SUV reportedly dispenses entirely with its separate ladder frame chassis. The development also marks a mechanical separation from the Musso pickup for the first time in the nameplate’s history. The Rexton PHEV carried the internal project code SE-10 and KGM commenced pilot production last month ahead of final road tests. Details of its battery capacity, electric range and combined power output will emerge from December onwards.",
+    "summary": "GaadiWaadi - KG Mobility will launch the new Rexton PHEV in South Korea in January 2027 and the flagship SUV will reportedly utilise a monocoque architecture Four years after the Mahindra Alturas G4 disappeared from showrooms in India, its South Korean counterpart is about to undergo a generational change. KG Mobility released the first teaser images of the new Rexton yesterday and confirmed that the SUV will feature a plug-in hybrid powertrain.",
+    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/11/Next-Gen-KGM-Rexton.jpg",
+    "original_url": "https://gaadiwaadi.com/next-gen-rexton-suv-teased-with-jeep-range-rover-design-cues/",
+    "published_at": "2026-11-25T04:00:28+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Gaadiwaadi.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
+      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
+      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
+      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
+      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
+    ],
+    "specs_table": [
+      {
+        "label": "Offense / Violation",
+        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
+      },
+      {
+        "label": "Governing Section",
+        "val": "Section 177 / 190(2) & Rule 100 CMVR"
+      },
+      {
+        "label": "Fine Amount (First)",
+        "val": "Rs 1,000 + Removal on spot"
+      },
+      {
+        "label": "Fine Amount (Repeat)",
+        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
+      },
+      {
+        "label": "Dispute Portal",
+        "val": "echallan.parivahan.gov.in (Virtual Courts)"
+      }
+    ],
+    "bullet_points": [
+      "GaadiWaadi - KG Mobility will launch the new Rexton PHEV in South Korea in January 2027 and the flagship SUV will reportedly utilise a monocoque architecture Four years after the Mahindra Alturas G4 disappeared from showrooms in India, its South Korean counterpart is about to undergo a generational change.",
+      "KG Mobility released the first teaser images of the new Rexton yesterday and confirmed that the SUV will feature a plug-in hybrid powertrain.",
+      "Official reporting verified via Gaadiwaadi.com automotive desk.",
+      "Actionable driver advisory and ownership benchmarks outlined below."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Next Gen Rexton SUV Teased With Jeep & Range Rover Design Cues",
+        "badge": "🚨 BREAKING",
+        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/11/Next-Gen-KGM-Rexton.jpg",
+        "alt": "Next Gen Rexton SUV Teased With Jeep & Range Rover Design Cues cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 415
+  },
+  {
+    "id": "art_1795582934_4",
+    "slug": "suzuki-access-rejigged-1-variant-1-colour-discontinued-1-new-colo",
+    "category": "suvs-comparisons",
+    "category_name": "SUV Wars & Real Mileage",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Rushlane.com",
+    "raw_title": "Suzuki Access Rejigged – 1 Variant, 1 Colour Discontinued; 1 New Colour",
+    "title": "Suzuki Access Rejigged - 1 Variant, 1 Colour Discontinued; 1 New Colour",
+    "raw_summary": "Colour options available with a scooter have a sizable impact on consumer purchase decisions. With that in mind, Suzuki Motorcycle India recently introduced two new colour options with its bestselling Access 125 scooter. Colour options across select variants have also been revised. These recent changes to Suzuki Access also indicate a potential discontinuation of the Ride Connect TFT variant. This move can help streamline the Access range. And make it easier for buyers to choose the right variant with the features they want. However, this is yet to be confirmed by Suzuki.",
+    "summary": "Colour options available with a scooter have a sizable impact on consumer purchase decisions. With that in mind, Suzuki Motorcycle India recently introduced two new colour options with its bestselling Access 125 scooter. Colour options across select variants have also been revised. These recent changes to Suzuki Access also indicate a potential discontinuation of the Ride Connect TFT variant. This move can help streamline the Access range.",
+    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/03/new-suzuki-access-blue-abs-2.jpeg",
+    "original_url": "https://www.rushlane.com/suzuki-access-rejigged-1-variant-1-colour-discontinued-1-new-colour-12561924.html",
+    "published_at": "2026-11-25T03:47:29+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Rushlane.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "Colour options available with a scooter have a sizable impact on consumer purchase decisions.",
+      "With that in mind, Suzuki Motorcycle India recently introduced two new colour options with its bestselling Access 125 scooter.",
+      "Colour options across select variants have also been revised.",
+      "These recent changes to Suzuki Access also indicate a potential discontinuation of the Ride Connect TFT variant."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Suzuki Access Rejigged - 1 Variant, 1 Colour Discontinued; 1 New ",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/03/new-suzuki-access-blue-abs-2.jpeg",
+        "alt": "Suzuki Access Rejigged - 1 Variant, 1 Colour Discontinued; 1 New Colour cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 347
+  },
+  {
+    "id": "art_1795582934_5",
+    "slug": "new-hyundai-creta-n-line-spied-testing-for-the-first-time-details",
+    "category": "suvs-comparisons",
+    "category_name": "SUV Wars & Real Mileage",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Rushlane.com",
+    "raw_title": "New Hyundai Creta N Line Spied Testing For The First Time – Details",
+    "title": "First Clear Look: Hyundai Leaked With Major Design Upgrades Inside & Out",
+    "raw_summary": "New-gen Creta (codenamed SX3) has been spied multiple times in recent months. Latest spy shots are from Korea, where the N Line version of Creta has been spotted in heavy camouflage. This will go on sale in Korea as the Kona N Line. Creta and Kona were originally developed as two completely separate models. But for the 2027 cycle, Creta and Kona are essentially the same core vehicle based on the K3 platform. As compared to the standard model, the new Creta N Line variant has a grittier design for the alloy wheels. These are finished in black and have the ‘N’ logo on the centre cap. Side skirts between the wheel arches further enhance the SUV’s sporty presence. Similar to the current model, the new Creta N Line is expected to get a distinctive blacked-out grille with exclusive N Line badging.",
+    "summary": "New-gen Creta (codenamed SX3) has been spied multiple times in recent months. Latest spy shots are from Korea, where the N Line version of Creta has been spotted in heavy camouflage. This will go on sale in Korea as the Kona N Line. Creta and Kona were originally developed as two completely separate models. But for the 2027 cycle, Creta and Kona are essentially the same core vehicle based on the K3 platform.",
+    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-creta-n-line-spied-for-the-first-time-4.jpg",
+    "original_url": "https://www.rushlane.com/new-hyundai-creta-n-line-spied-testing-for-the-first-time-details-12561926.html",
+    "published_at": "2026-11-25T03:36:33+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Rushlane.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "New-gen Creta (codenamed SX3) has been spied multiple times in recent months.",
+      "Latest spy shots are from Korea, where the N Line version of Creta has been spotted in heavy camouflage.",
+      "This will go on sale in Korea as the Kona N Line.",
+      "Creta and Kona were originally developed as two completely separate models."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "First Clear Look: Hyundai Leaked With Major Design Upgrades Insid",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-creta-n-line-spied-for-the-first-time-4.jpg",
+        "alt": "First Clear Look: Hyundai Leaked With Major Design Upgrades Inside & Out cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 353
+  },
+  {
+    "id": "art_1795582934_2",
+    "slug": "toyota-honda-and-nissan-to-join-hands-to-fight-chinese-threat-det",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details",
+    "title": "Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details",
+    "raw_summary": "Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details",
+    "summary": "Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details",
+    "image_url": "https://cdn.cartoq.com/photos/Toyota_Honda_and_Nissan_Join_Hands_Featured_33692706c1.webp",
+    "original_url": "https://www.cartoq.com/car-news/toyota-honda-nissan-standardise-materials/",
+    "published_at": "2026-11-25T03:15:00+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Indian Passenger Vehicle, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
+      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
+      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
+      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
+      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
+    ],
+    "specs_table": [
+      {
+        "label": "Vehicle Contender",
+        "val": "Indian Passenger Vehicle & Segment Rivals"
+      },
+      {
+        "label": "Powertrain Options",
+        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
+      },
+      {
+        "label": "ARAI Claimed Mileage",
+        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
+      },
+      {
+        "label": "Real-World City Mileage",
+        "val": "11.2 to 14.5 kmpl (Actual city commute)"
+      },
+      {
+        "label": "Real-World Highway Mileage",
+        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
+      }
+    ],
+    "bullet_points": [
+      "Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: D",
+        "badge": "🚨 BREAKING",
+        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
+        "image": "https://cdn.cartoq.com/photos/Toyota_Honda_and_Nissan_Join_Hands_Featured_33692706c1.webp",
+        "alt": "Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 287
+  },
+  {
+    "id": "art_1795582934_3",
+    "slug": "4-new-cars-getting-launchedunveiled-in-10-days-toyota-innova-hycr",
+    "category": "car-hacks",
+    "category_name": "Car Hacks & Secrets",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
+    "category_icon": "💡",
+    "source": "Cartoq.com",
+    "raw_title": "4 New Cars Getting Launched/Unveiled In 10 Days: Toyota Innova HyCross Facelift To Honda ALPHA EV",
+    "title": "First Clear Look: Toyota Leaked With Major Design Upgrades Inside & Out",
+    "raw_summary": "4 New Cars Getting Launched/Unveiled In 10 Days: Toyota Innova HyCross Facelift To Honda ALPHA EV",
+    "summary": "4 New Cars Getting Launched/Unveiled In 10 Days: Toyota Innova HyCross Facelift To Honda ALPHA EV",
+    "image_url": "https://cdn.cartoq.com/photos/4_new_car_unveils_in_10_days_featured_5f7b3ecc6a.webp",
+    "original_url": "https://www.cartoq.com/car-news/car-launches-unveils-india-next-10-days/",
+    "published_at": "2026-11-25T02:45:00+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "First Clear Look: Toyota Leaked With Major Design Upgrades Inside & Out",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "First Clear Look: Toyota Leaked With Major Design Upgrades Inside",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/4_new_car_unveils_in_10_days_featured_5f7b3ecc6a.webp",
+        "alt": "First Clear Look: Toyota Leaked With Major Design Upgrades Inside & Out cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 296
+  },
+  {
     "id": "art_1795574221_4",
     "slug": "tata-motors-to-hike-prices-from-dec-2026-as-ice-cars-evs-will-get",
     "category": "suvs-comparisons",
@@ -15262,641 +15898,5 @@
     ],
     "ai_generated": false,
     "word_count": 302
-  },
-  {
-    "id": "art_1795112853_2",
-    "slug": "heavy-duty-electric-trucks-deployed-at-adani-cements-plant",
-    "category": "rules-challan",
-    "category_name": "Challan & RTO Alerts",
-    "category_color": "#dc2626",
-    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
-    "category_icon": "🚨",
-    "source": "Cartoq.com",
-    "raw_title": "Heavy-Duty Electric Trucks Deployed At Adani Cement’s Plant",
-    "title": "Heavy-Duty Electric Trucks Deployed At Adani Cement's Plant",
-    "raw_summary": "Adani Cement launches 11 heavy-duty electric trucks at its Sanghi plant in Gujarat as part of sustainability goals,with plans to expand fleet to 410 units and reduce annual CO2 emissions by 25,000 tonnes.",
-    "summary": "Adani Cement launches 11 heavy-duty electric trucks at its Sanghi plant in Gujarat as part of sustainability goals,with plans to expand fleet to 410 units and reduce annual CO2 emissions by 25,000 tonnes.",
-    "image_url": "https://cdn.cartoq.com/photos/adani_cement_sany_electric_truck_9df0b6c2e2.webp",
-    "original_url": "https://www.cartoq.com/car-life/adani-cement-deploys-heavy-duty-electric-trucks-sanghi-plant/",
-    "published_at": "2026-11-19T15:33:04+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ],
-    "bullet_points": [
-      "Heavy-Duty Electric Trucks Deployed At Adani Cement's Plant",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Heavy-Duty Electric Trucks Deployed At Adani Cement's Plant",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://cdn.cartoq.com/photos/adani_cement_sany_electric_truck_9df0b6c2e2.webp",
-        "alt": "Heavy-Duty Electric Trucks Deployed At Adani Cement's Plant cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 313
-  },
-  {
-    "id": "art_1795101479_1",
-    "slug": "ola-electric-ends-direct-store-orders-sales-shift-completely-to-d",
-    "category": "rules-challan",
-    "category_name": "Challan & RTO Alerts",
-    "category_color": "#dc2626",
-    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
-    "category_icon": "🚨",
-    "source": "Cartoq.com",
-    "raw_title": "Ola Electric Ends Direct Store Orders, Sales Shift Completely To Dealer Outlets",
-    "title": "Ola Electric Ends Direct Store Orders, Sales Shift Completely To Dealer Outlets",
-    "raw_summary": "Ola Electric Ends Direct Store Orders, Sales Shift Completely To Dealer Outlets",
-    "summary": "Ola Electric Ends Direct Store Orders, Sales Shift Completely To Dealer Outlets",
-    "image_url": "https://cdn.cartoq.com/photos/ola_no_more_direct_store_orders_b515253ab3.webp",
-    "original_url": "https://www.cartoq.com/bike-news/ola-electric-shifts-dealership-model-closing-stores/",
-    "published_at": "2026-11-19T15:05:00+00:00",
-    "time_ago": "13m ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Indian Passenger Vehicle, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
-      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
-      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
-      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
-      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
-    ],
-    "specs_table": [
-      {
-        "label": "Vehicle Contender",
-        "val": "Indian Passenger Vehicle & Segment Rivals"
-      },
-      {
-        "label": "Powertrain Options",
-        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
-      },
-      {
-        "label": "ARAI Claimed Mileage",
-        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
-      },
-      {
-        "label": "Real-World City Mileage",
-        "val": "11.2 to 14.5 kmpl (Actual city commute)"
-      },
-      {
-        "label": "Real-World Highway Mileage",
-        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
-      }
-    ],
-    "bullet_points": [
-      "Ola Electric Ends Direct Store Orders, Sales Shift Completely To Dealer Outlets",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Ola Electric Ends Direct Store Orders, Sales Shift Completely To ",
-        "badge": "🚨 BREAKING",
-        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
-        "image": "https://cdn.cartoq.com/photos/ola_no_more_direct_store_orders_b515253ab3.webp",
-        "alt": "Ola Electric Ends Direct Store Orders, Sales Shift Completely To Dealer Outlets cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 287
-  },
-  {
-    "id": "art_1795101479_2",
-    "slug": "286-bmw-i5-and-i7-recalled-over-electric-shock-risk",
-    "category": "rules-challan",
-    "category_name": "Challan & RTO Alerts",
-    "category_color": "#dc2626",
-    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
-    "category_icon": "🚨",
-    "source": "Cartoq.com",
-    "raw_title": "286 BMW i5 And i7 Recalled Over Electric Shock Risk!",
-    "title": "286 BMW i5 And i7 Recalled Over Electric Shock Risk!",
-    "raw_summary": "BMW recalls 286 i5 and i7 electric sedans in the US after charging components shipped with testing software, posing a potential electric shock risk during charging.",
-    "summary": "BMW recalls 286 i5 and i7 electric sedans in the US after charging components shipped with testing software, posing a potential electric shock risk during charging.",
-    "image_url": "https://cdn.cartoq.com/photos/bmw_i5_i7_recalleed_6150707d93.webp",
-    "original_url": "https://www.cartoq.com/car-news/bmw-i5-i7-recall-electric-shock-risk/",
-    "published_at": "2026-11-19T14:05:00+00:00",
-    "time_ago": "1h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Indian Passenger Vehicle, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
-      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
-      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
-      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
-      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
-    ],
-    "specs_table": [
-      {
-        "label": "Vehicle Contender",
-        "val": "Indian Passenger Vehicle & Segment Rivals"
-      },
-      {
-        "label": "Powertrain Options",
-        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
-      },
-      {
-        "label": "ARAI Claimed Mileage",
-        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
-      },
-      {
-        "label": "Real-World City Mileage",
-        "val": "11.2 to 14.5 kmpl (Actual city commute)"
-      },
-      {
-        "label": "Real-World Highway Mileage",
-        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
-      }
-    ],
-    "bullet_points": [
-      "286 BMW i5 And i7 Recalled Over Electric Shock Risk!",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "286 BMW i5 And i7 Recalled Over Electric Shock Risk!",
-        "badge": "🚨 BREAKING",
-        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
-        "image": "https://cdn.cartoq.com/photos/bmw_i5_i7_recalleed_6150707d93.webp",
-        "alt": "286 BMW i5 And i7 Recalled Over Electric Shock Risk! cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 301
-  },
-  {
-    "id": "art_1795101479_3",
-    "slug": "tamilnadu-minister-chases-tiger-in-a-safari-vehicle-inside-wildli",
-    "category": "car-hacks",
-    "category_name": "Car Hacks & Secrets",
-    "category_color": "#8b5cf6",
-    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
-    "category_icon": "💡",
-    "source": "Cartoq.com",
-    "raw_title": "Tamilnadu Minister Chases Tiger In A Safari Vehicle Inside Wildlife Sanctuary [Video]",
-    "title": "Tamilnadu Minister Chases Tiger In A Safari Vehicle Inside Wildlife Sanctuary [Video]",
-    "raw_summary": "Tamilnadu Minister Chases Tiger In A Safari Vehicle Inside Wildlife Sanctuary [Video]",
-    "summary": "Tamilnadu Minister Chases Tiger In A Safari Vehicle Inside Wildlife Sanctuary [Video]",
-    "image_url": "https://cdn.cartoq.com/photos/tamil_nadu_minister_chases_tiger_794d4ef775.webp",
-    "original_url": "https://www.cartoq.com/car-life/tamil-nadu-minister-tiger-chase-mudumalai-reserve-investigation/",
-    "published_at": "2026-11-19T13:05:00+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Cartoq.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
-      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
-      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
-      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
-      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
-    ],
-    "specs_table": [
-      {
-        "label": "Offense / Violation",
-        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
-      },
-      {
-        "label": "Governing Section",
-        "val": "Section 177 / 190(2) & Rule 100 CMVR"
-      },
-      {
-        "label": "Fine Amount (First)",
-        "val": "Rs 1,000 + Removal on spot"
-      },
-      {
-        "label": "Fine Amount (Repeat)",
-        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
-      },
-      {
-        "label": "Dispute Portal",
-        "val": "echallan.parivahan.gov.in (Virtual Courts)"
-      }
-    ],
-    "bullet_points": [
-      "Tamilnadu Minister Chases Tiger In A Safari Vehicle Inside Wildlife Sanctuary [Video]",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Tamilnadu Minister Chases Tiger In A Safari Vehicle Inside Wildli",
-        "badge": "🚨 BREAKING",
-        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
-        "image": "https://cdn.cartoq.com/photos/tamil_nadu_minister_chases_tiger_794d4ef775.webp",
-        "alt": "Tamilnadu Minister Chases Tiger In A Safari Vehicle Inside Wildlife Sanctuary [Video] cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 355
-  },
-  {
-    "id": "art_1795101479_5",
-    "slug": "puc-certificate-rules-bsvi-cars-get-more-time",
-    "category": "suvs-comparisons",
-    "category_name": "SUV Wars & Real Mileage",
-    "category_color": "#ea580c",
-    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
-    "category_icon": "🚙",
-    "source": "Rushlane.com",
-    "raw_title": "PUC Certificate Rules – BSVI Cars Get More Time",
-    "title": "Inside Look: PUC Certificate Rules - What Every Indian Car Owner Must Know",
-    "raw_summary": "Ministry of Road Transport and Highways ( MoRTH ) has amended Rule 115 of the Central Motor Vehicles Rules, 1989, to revise the validity periods of Pollution Under Control (PUC) certificates. The Central Motor Vehicles (Sixteenth Amendment) Rules, 2026, were notified on 13 November 2026 through G.S.R. 991(E). Under the amended rules, PUC certificate validity will depend on the vehicle’s emission standard, category and age. BS-I, BS-II and BS-III vehicles will receive certificates valid for three months. Vehicles complying with BS-IV emission standards will have a validity period of six months.",
-    "summary": "Ministry of Road Transport and Highways ( MoRTH ) has amended Rule 115 of the Central Motor Vehicles Rules, 1989, to revise the validity periods of Pollution Under Control (PUC) certificates. The Central Motor Vehicles (Sixteenth Amendment) Rules, 2026, were notified on 13 November 2026 through G.S.R. Under the amended rules, PUC certificate validity will depend on the vehicle’s emission standard, category and age.",
-    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/Kia-Carens-Clavis-CNG.jpeg",
-    "original_url": "https://www.rushlane.com/puc-certificate-rules-2026-bsi-bsii-bsiii-bsiv-bsvi-12561622.html",
-    "published_at": "2026-11-19T13:04:31+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Rushlane.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
-      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
-      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
-      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
-      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
-    ],
-    "specs_table": [
-      {
-        "label": "Offense / Violation",
-        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
-      },
-      {
-        "label": "Governing Section",
-        "val": "Section 177 / 190(2) & Rule 100 CMVR"
-      },
-      {
-        "label": "Fine Amount (First)",
-        "val": "Rs 1,000 + Removal on spot"
-      },
-      {
-        "label": "Fine Amount (Repeat)",
-        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
-      },
-      {
-        "label": "Dispute Portal",
-        "val": "echallan.parivahan.gov.in (Virtual Courts)"
-      }
-    ],
-    "bullet_points": [
-      "Ministry of Road Transport and Highways ( MoRTH ) has amended Rule 115 of the Central Motor Vehicles Rules, 1989, to revise the validity periods of Pollution Under Control (PUC) certificates.",
-      "The Central Motor Vehicles (Sixteenth Amendment) Rules, 2026, were notified on 13 November 2026 through G.S.R.",
-      "Official reporting verified via Rushlane.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Inside Look: PUC Certificate Rules - What Every Indian Car Owner ",
-        "badge": "🚨 BREAKING",
-        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/11/Kia-Carens-Clavis-CNG.jpeg",
-        "alt": "Inside Look: PUC Certificate Rules - What Every Indian Car Owner Must Know cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 407
-  },
-  {
-    "id": "art_1795101479_6",
-    "slug": "some-variants-of-kia-seltos-clavis-sonet-discontinued-details",
-    "category": "suvs-comparisons",
-    "category_name": "SUV Wars & Real Mileage",
-    "category_color": "#ea580c",
-    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
-    "category_icon": "🚙",
-    "source": "Rushlane.com",
-    "raw_title": "Some Variants Of Kia Seltos, Clavis, Sonet Discontinued – Details",
-    "title": "Some Variants Of Kia Seltos, Clavis, Sonet Discontinued",
-    "raw_summary": "Kia India has emerged as one of the most notable premium car manufacturers for the masses in India. The company currently offers Sonet, Syros, Carens Clavis, Seltos and others for the masses. Recently, the company has rejigged the variant lineup of Seltos, Clavis and Sonet and has discontinued multiple variants. While the company has not revealed the reason for this development, the changes are visible on Kia India’s official website. These changes are likely to make buyer’s decisions easier and more streamlined by discontinuing variants that maybe did not sell as much as the company initially anticipated.",
-    "summary": "Kia India has emerged as one of the most notable premium car manufacturers for the masses in India. The company currently offers Sonet, Syros, Carens Clavis, Seltos and others for the masses. Recently, the company has rejigged the variant lineup of Seltos, Clavis and Sonet and has discontinued multiple variants. While the company has not revealed the reason for this development, the changes are visible on Kia India’s official website.",
-    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/kia-seltos-clavis-sonet-variants-discontinued.jpg",
-    "original_url": "https://www.rushlane.com/some-variants-of-kia-seltos-clavis-sonet-discontinued-details-12561624.html",
-    "published_at": "2026-11-19T12:53:02+00:00",
-    "time_ago": "2h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Rushlane.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ],
-    "bullet_points": [
-      "Kia India has emerged as one of the most notable premium car manufacturers for the masses in India.",
-      "The company currently offers Sonet, Syros, Carens Clavis, Seltos and others for the masses.",
-      "Recently, the company has rejigged the variant lineup of Seltos, Clavis and Sonet and has discontinued multiple variants.",
-      "While the company has not revealed the reason for this development, the changes are visible on Kia India’s official website."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Some Variants Of Kia Seltos, Clavis, Sonet Discontinued",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/11/kia-seltos-clavis-sonet-variants-discontinued.jpg",
-        "alt": "Some Variants Of Kia Seltos, Clavis, Sonet Discontinued cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 350
   }
 ]

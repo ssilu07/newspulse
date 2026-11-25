@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/skoda-peaq-scores-5-stars-in-euro-ncap-crash-tests/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T04:30:47+00:00</news:publication_date>
+      <news:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/skoda_peaq_euro_ncap_rating_362daf02c6.webp</image:loc>
+      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/next-gen-rexton-suv-teased-with-jeep-range-rover-design-cues/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T04:00:28+00:00</news:publication_date>
+      <news:title>Next Gen Rexton SUV Teased With Jeep &amp; Range Rover Design Cues</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Next-Gen-KGM-Rexton.jpg</image:loc>
+      <image:title>Next Gen Rexton SUV Teased With Jeep &amp; Range Rover Design Cues</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/suzuki-access-rejigged-1-variant-1-colour-discontinued-1-new-colo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T03:47:29+00:00</news:publication_date>
+      <news:title>Suzuki Access Rejigged - 1 Variant, 1 Colour Discontinued; 1 New Colour</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/03/new-suzuki-access-blue-abs-2.jpeg</image:loc>
+      <image:title>Suzuki Access Rejigged - 1 Variant, 1 Colour Discontinued; 1 New Colour</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-hyundai-creta-n-line-spied-testing-for-the-first-time-details/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T03:36:33+00:00</news:publication_date>
+      <news:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-creta-n-line-spied-for-the-first-time-4.jpg</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-honda-and-nissan-to-join-hands-to-fight-chinese-threat-det/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T03:15:00+00:00</news:publication_date>
+      <news:title>Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/Toyota_Honda_and_Nissan_Join_Hands_Featured_33692706c1.webp</image:loc>
+      <image:title>Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-cars-getting-launchedunveiled-in-10-days-toyota-innova-hycr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T02:45:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_new_car_unveils_in_10_days_featured_5f7b3ecc6a.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/tata-motors-to-hike-prices-from-dec-2026-as-ice-cars-evs-will-get/</loc>
     <news:news>
       <news:publication>
@@ -765,66 +855,6 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/10/Yamaha-XSR-155.jpg</image:loc>
       <image:title>Yamaha Oct 2026 Sales Analysis - FZ, XSR, Fascino, Aerox, R15, MT15, RayZR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/amitabh-bachchan-takes-a-spin-on-land-rover-defender-octa-that-so/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T04:45:00+00:00</news:publication_date>
-      <news:title>Amitabh Bachchan Takes A Spin On Land Rover Defender Octa That Son Abhishek Just Bought [Video]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/amitabh_bachchan_land_rover_defender_octa_featured_698b869847.webp</image:loc>
-      <image:title>Amitabh Bachchan Takes A Spin On Land Rover Defender Octa That Son Abhishek Just Bought [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/triumph-bonneville-t40-ride-review-timeless-but-is-it-classic/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T04:30:16+00:00</news:publication_date>
-      <news:title>Triumph Bonneville T40 Ride Review - Timeless But Is It Classic?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Triumph-Bonneville-T40-First-Ride-Review.jpeg</image:loc>
-      <image:title>Triumph Bonneville T40 Ride Review - Timeless But Is It Classic?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-5-safest-suvs-in-india-in-2026-based-on-bncap-ratings/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T04:00:49+00:00</news:publication_date>
-      <news:title>Top 5 Safest SUVs In India In 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XEV-9e-BNCAP-Crash-Test-1.jpg</image:loc>
-      <image:title>Top 5 Safest SUVs In India In 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-seltos-owners-accident-reveals-dangers-of-aftermarket-seat-co/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T02:42:00+00:00</news:publication_date>
-      <news:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/seat_cover_on_6_airbags_car_bad_idea_featured_93f7213944.webp</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
     </image:image>
   </url>
 </urlset>
