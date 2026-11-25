@@ -3,39 +3,319 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-25T05:02:40Z</lastmod>
+    <lastmod>2026-11-25T11:30:30Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-25T05:02:40Z</lastmod>
+    <lastmod>2026-11-25T11:30:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-25T05:02:40Z</lastmod>
+    <lastmod>2026-11-25T11:30:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-25T05:02:40Z</lastmod>
+    <lastmod>2026-11-25T11:30:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-25T05:02:40Z</lastmod>
+    <lastmod>2026-11-25T11:30:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-25T05:02:40Z</lastmod>
+    <lastmod>2026-11-25T11:30:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/suzuki-ignis-returns-as-small-electric-car-26-kwh-90-hp-36m-1080-/</loc>
+    <lastmod>2026-11-25T10:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-suzuki-ignis-electric-ev-debuts-2.jpg</image:loc>
+      <image:title>Suzuki Ignis Returns As Small Electric Car - 26 kWh, 90 hp, 3.6m, 1080 Kg</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/suzuki-ignis-returns-as-small-electric-car-26-kwh-90-hp-36m-1080-/</loc>
+    <lastmod>2026-11-25T10:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-suzuki-ignis-electric-ev-debuts-2.jpg</image:loc>
+      <image:title>Suzuki Ignis Returns As Small Electric Car - 26 kWh, 90 hp, 3.6m, 1080 Kg</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mahindra-sales-breakup-oct-2026-scorpio-bolero-xuv3xo-7xo-thar-ro/</loc>
+    <lastmod>2026-11-25T09:14:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/02/mahindra-ramped-up-production-waiting-period-reduced.jpg</image:loc>
+      <image:title>Mahindra Sales Breakup Oct 2026 - Scorpio, Bolero, XUV3XO, 7XO, Thar ROXX, OG, XEV 9S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mahindra-sales-breakup-oct-2026-scorpio-bolero-xuv3xo-7xo-thar-ro/</loc>
+    <lastmod>2026-11-25T09:14:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/02/mahindra-ramped-up-production-waiting-period-reduced.jpg</image:loc>
+      <image:title>Mahindra Sales Breakup Oct 2026 - Scorpio, Bolero, XUV3XO, 7XO, Thar ROXX, OG, XEV 9S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-alpha-official-design-sketches-released-ahead-of-launch/</loc>
+    <lastmod>2026-11-25T08:54:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_featured_e1909ceabc.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-alpha-official-design-sketches-released-ahead-of-launch/</loc>
+    <lastmod>2026-11-25T08:54:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_featured_e1909ceabc.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/production-spec-honda-alpha-e-suv-sketches-revealed-ahead-of-debu/</loc>
+    <lastmod>2026-11-25T08:51:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/honda-alpha-design-sketch-interior.jpg</image:loc>
+      <image:title>Production-Spec Honda Alpha e-SUV Sketches Revealed Ahead Of Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/production-spec-honda-alpha-e-suv-sketches-revealed-ahead-of-debu/</loc>
+    <lastmod>2026-11-25T08:51:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/honda-alpha-design-sketch-interior.jpg</image:loc>
+      <image:title>Production-Spec Honda Alpha e-SUV Sketches Revealed Ahead Of Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-toyota-innova-hycross-facelift-launching-today-what-it-will-l/</loc>
+    <lastmod>2026-11-25T08:39:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/toyota_hycross_facelift_featured_f60648508e.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-toyota-innova-hycross-facelift-launching-today-what-it-will-l/</loc>
+    <lastmod>2026-11-25T08:39:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/toyota_hycross_facelift_featured_f60648508e.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/royal-enfield-flying-flea-enters-goa-opens-3-stores/</loc>
+    <lastmod>2026-11-25T07:13:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/flying_flea_goa_7539161bdd.webp</image:loc>
+      <image:title>Royal Enfield Flying Flea Enters Goa: Opens 3 Stores</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/royal-enfield-flying-flea-enters-goa-opens-3-stores/</loc>
+    <lastmod>2026-11-25T07:13:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/flying_flea_goa_7539161bdd.webp</image:loc>
+      <image:title>Royal Enfield Flying Flea Enters Goa: Opens 3 Stores</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-maruti-suzuki-fronx-facelift-caught-testing-again-with-notab/</loc>
+    <lastmod>2026-11-25T07:00:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Maruti-Suzuki-Fronx-Facelift-Spied.jpg</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-maruti-suzuki-fronx-facelift-caught-testing-again-with-notab/</loc>
+    <lastmod>2026-11-25T07:00:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Maruti-Suzuki-Fronx-Facelift-Spied.jpg</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-motors-unveils-official-logo-first-suv-to-debut-next-week/</loc>
+    <lastmod>2026-11-25T06:45:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/JSW-Motors-New-Logo-India-1.jpg</image:loc>
+      <image:title>JSW Motors Unveils Official Logo, First SUV To Debut Next Week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-motors-unveils-official-logo-first-suv-to-debut-next-week/</loc>
+    <lastmod>2026-11-25T06:45:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/JSW-Motors-New-Logo-India-1.jpg</image:loc>
+      <image:title>JSW Motors Unveils Official Logo, First SUV To Debut Next Week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/670hp-ferrari-296-challenge-stradale-revealed/</loc>
+    <lastmod>2026-11-25T06:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/ferrari_296_challenge_stradale_revealed_62e9f255e8.webp</image:loc>
+      <image:title>Inside Look: 670Hp Ferrari 296 Challenge Stradale Revealed! - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/670hp-ferrari-296-challenge-stradale-revealed/</loc>
+    <lastmod>2026-11-25T06:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/ferrari_296_challenge_stradale_revealed_62e9f255e8.webp</image:loc>
+      <image:title>Inside Look: 670Hp Ferrari 296 Challenge Stradale Revealed! - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-alpha-electric-suv-exterior-interiors-official-sketches-rev/</loc>
+    <lastmod>2026-11-25T06:38:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/honda-alpha-electric-suv-india-exterior-interior-4.jpg</image:loc>
+      <image:title>Inside Look: Honda Alpha Electric SUV Exterior, Interiors - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-alpha-electric-suv-exterior-interiors-official-sketches-rev/</loc>
+    <lastmod>2026-11-25T06:38:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/honda-alpha-electric-suv-india-exterior-interior-4.jpg</image:loc>
+      <image:title>Inside Look: Honda Alpha Electric SUV Exterior, Interiors - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/ola-electric-runs-into-battery-problems-too-many-cells-failing-qu/</loc>
+    <lastmod>2026-11-25T06:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/ola_electric_battery_business_in_trouble_09f017cb9e.webp</image:loc>
+      <image:title>Ola Electric Runs Into Battery Problems: Too Many Cells Failing Quality Checks!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/ola-electric-runs-into-battery-problems-too-many-cells-failing-qu/</loc>
+    <lastmod>2026-11-25T06:05:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/ola_electric_battery_business_in_trouble_09f017cb9e.webp</image:loc>
+      <image:title>Ola Electric Runs Into Battery Problems: Too Many Cells Failing Quality Checks!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2027-maruti-fronx-facelift-interiors-spied-more-features-confirme/</loc>
+    <lastmod>2026-11-25T05:39:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-maruti-fronx-facelift-interiors-spied-cover.jpg</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2027-maruti-fronx-facelift-interiors-spied-more-features-confirme/</loc>
+    <lastmod>2026-11-25T05:39:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-maruti-fronx-facelift-interiors-spied-cover.jpg</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/renault-duster-hybrid-owner-getting-20-22-kmpl-mileage-in-real-wo/</loc>
+    <lastmod>2026-11-25T05:33:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/renault_duster_hybrid_mileage_416113ff04.webp</image:loc>
+      <image:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/renault-duster-hybrid-owner-getting-20-22-kmpl-mileage-in-real-wo/</loc>
+    <lastmod>2026-11-25T05:33:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/renault_duster_hybrid_mileage_416113ff04.webp</image:loc>
+      <image:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/40-air-pollution-caused-by-fossil-fuels-need-to-move-to-biofuels-/</loc>
+    <lastmod>2026-11-25T05:10:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/gadkari_about_fossil_fuels_pollution_ee41fc632c.webp</image:loc>
+      <image:title>40% Air Pollution Caused By Fossil Fuels, Need To Move To BioFuels: Gadkari</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/40-air-pollution-caused-by-fossil-fuels-need-to-move-to-biofuels-/</loc>
+    <lastmod>2026-11-25T05:10:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/gadkari_about_fossil_fuels_pollution_ee41fc632c.webp</image:loc>
+      <image:title>40% Air Pollution Caused By Fossil Fuels, Need To Move To BioFuels: Gadkari</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/skoda-peaq-scores-5-stars-in-euro-ncap-crash-tests/</loc>
@@ -2755,286 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/creta_ev_owners_lifetime_warranty_0d9ea81435.webp</image:loc>
       <image:title>Hyundai Creta Electric Owners Demand Lifetime Battery Warranty- 150 Owners Sign Petition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-combat-fully-leaked-new-video-shows-the-plug-in-hybrid-suv-fr/</loc>
-    <lastmod>2026-11-20T06:08:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_featured_287e319db1.webp</image:loc>
-      <image:title>JSW Combat Fully Leaked: New Video Shows The Plug-In Hybrid SUV From All Angles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jsw-combat-fully-leaked-new-video-shows-the-plug-in-hybrid-suv-fr/</loc>
-    <lastmod>2026-11-20T06:08:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_featured_287e319db1.webp</image:loc>
-      <image:title>JSW Combat Fully Leaked: New Video Shows The Plug-In Hybrid SUV From All Angles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/royal-enfield-oct-2026-sales-analysis-classic-bullet-hunter-himal/</loc>
-    <lastmod>2026-11-20T05:30:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/03/royal-enfield-meteor-350-2026.jpg</image:loc>
-      <image:title>Royal Enfield Oct 2026 Sales Analysis - Classic, Bullet, Hunter, Himalayan, 650s</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/royal-enfield-oct-2026-sales-analysis-classic-bullet-hunter-himal/</loc>
-    <lastmod>2026-11-20T05:30:39+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/03/royal-enfield-meteor-350-2026.jpg</image:loc>
-      <image:title>Royal Enfield Oct 2026 Sales Analysis - Classic, Bullet, Hunter, Himalayan, 650s</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-avancier-officially-revealed-toyota-fortuner-challenger-is-/</loc>
-    <lastmod>2026-11-20T04:52:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/honda_avancier_revealed_9aeac296c2.webp</image:loc>
-      <image:title>Honda Avancier Officially Revealed: Toyota Fortuner Challenger Is Finally Here!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-avancier-officially-revealed-toyota-fortuner-challenger-is-/</loc>
-    <lastmod>2026-11-20T04:52:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/honda_avancier_revealed_9aeac296c2.webp</image:loc>
-      <image:title>Honda Avancier Officially Revealed: Toyota Fortuner Challenger Is Finally Here!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-honda-avancier-suv-debuts-next-gen-hybrid-electric-awd-7-seat/</loc>
-    <lastmod>2026-11-20T04:51:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/New-Honda-Avancier-SUV-Debuts-2.jpg</image:loc>
-      <image:title>New Honda Avancier SUV Debuts - Next Gen Hybrid, Electric AWD, 7 Seater For Asian Market</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-honda-avancier-suv-debuts-next-gen-hybrid-electric-awd-7-seat/</loc>
-    <lastmod>2026-11-20T04:51:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/New-Honda-Avancier-SUV-Debuts-2.jpg</image:loc>
-      <image:title>New Honda Avancier SUV Debuts - Next Gen Hybrid, Electric AWD, 7 Seater For Asian Market</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/ghost-cars-are-fooling-barrierless-toll-plazas-260-lakh-cars-evad/</loc>
-    <lastmod>2026-11-20T04:46:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/ghost_cars_fooling_barrierless_toll_plazas_ce23389bc1.webp</image:loc>
-      <image:title>Ghost Cars Are Fooling Barrierless Toll Plazas: 2.60 Lakh Cars Evade Toll At A Single Toll In 3 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/ghost-cars-are-fooling-barrierless-toll-plazas-260-lakh-cars-evad/</loc>
-    <lastmod>2026-11-20T04:46:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/ghost_cars_fooling_barrierless_toll_plazas_ce23389bc1.webp</image:loc>
-      <image:title>Ghost Cars Are Fooling Barrierless Toll Plazas: 2.60 Lakh Cars Evade Toll At A Single Toll In 3 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-volkswagen-sub-4m-suv-production-starts-in-s-africa/</loc>
-    <lastmod>2026-11-20T04:40:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-vw-tengo-production-started-in-south-africa-4.jpg</image:loc>
-      <image:title>New Volkswagen Sub 4m SUV Production Starts In S Africa</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-volkswagen-sub-4m-suv-production-starts-in-s-africa/</loc>
-    <lastmod>2026-11-20T04:40:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-vw-tengo-production-started-in-south-africa-4.jpg</image:loc>
-      <image:title>New Volkswagen Sub 4m SUV Production Starts In S Africa</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-new-hyundai-suvs-launching-in-2027-ioniq-p-to-hyundai-creta/</loc>
-    <lastmod>2026-11-20T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_new_hyundai_suvs_in_2027_8c2b944962.webp</image:loc>
-      <image:title>4 New Hyundai SUVs Launching In 2027: Ioniq P To Hyundai Creta</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/4-new-hyundai-suvs-launching-in-2027-ioniq-p-to-hyundai-creta/</loc>
-    <lastmod>2026-11-20T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_new_hyundai_suvs_in_2027_8c2b944962.webp</image:loc>
-      <image:title>4 New Hyundai SUVs Launching In 2027: Ioniq P To Hyundai Creta</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2-new-toyota-7-seaters-in-2-weeks-all-you-need-to-know/</loc>
-    <lastmod>2026-11-20T02:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/2_new_toyota_7_seater_in_2_weeks_0ae87267fd.webp</image:loc>
-      <image:title>2 New Toyota 7 Seaters In 2 Weeks: All You Need To Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2-new-toyota-7-seaters-in-2-weeks-all-you-need-to-know/</loc>
-    <lastmod>2026-11-20T02:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/2_new_toyota_7_seater_in_2_weeks_0ae87267fd.webp</image:loc>
-      <image:title>2 New Toyota 7 Seaters In 2 Weeks: All You Need To Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-mont/</loc>
-    <lastmod>2026-11-20T02:30:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Kia-Carens-CNG-amp-Carens-Clavis-CNG-Launched-From-Rs.-12.11-Lakh.jpg</image:loc>
-      <image:title>Kia Carens CNG &amp; Clavis CNG Sales Get Past 6,200 Units Within 2 Months In India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/kia-carens-cng-clavis-cng-sales-get-past-6200-units-within-2-mont/</loc>
-    <lastmod>2026-11-20T02:30:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/Kia-Carens-CNG-amp-Carens-Clavis-CNG-Launched-From-Rs.-12.11-Lakh.jpg</image:loc>
-      <image:title>Kia Carens CNG &amp; Clavis CNG Sales Get Past 6,200 Units Within 2 Months In India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/four-new-jsw-suvs-launching-in-12-months-we-tell-you-what-they-ar/</loc>
-    <lastmod>2026-11-20T02:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_new_jses_in_12_months_6c1e85bb00.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/four-new-jsw-suvs-launching-in-12-months-we-tell-you-what-they-ar/</loc>
-    <lastmod>2026-11-20T02:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_new_jses_in_12_months_6c1e85bb00.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-sorento-hybrid-outsells-diesel-again/</loc>
-    <lastmod>2026-11-20T01:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/kia_sorento_hybrid_outsells_diesel_5dd00bba41.webp</image:loc>
-      <image:title>Inside Look: Kia Sorento Hybrid Outsells Diesel, Again! - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/kia-sorento-hybrid-outsells-diesel-again/</loc>
-    <lastmod>2026-11-20T01:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/kia_sorento_hybrid_outsells_diesel_5dd00bba41.webp</image:loc>
-      <image:title>Inside Look: Kia Sorento Hybrid Outsells Diesel, Again! - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-r-12-gs-launched-in-india-at-rs-2540-lakh/</loc>
-    <lastmod>2026-11-20T01:30:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/02_BMW_R12_GS_parked_three_quarter.jpg</image:loc>
-      <image:title>BMW R 12 G/S Launched In India At Rs. 25.40 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-r-12-gs-launched-in-india-at-rs-2540-lakh/</loc>
-    <lastmod>2026-11-20T01:30:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/02_BMW_R12_GS_parked_three_quarter.jpg</image:loc>
-      <image:title>BMW R 12 G/S Launched In India At Rs. 25.40 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/2-new-7-seat-electric-suvs-from-tata-and-mahindra-launching-soon-/</loc>
-    <lastmod>2026-11-20T01:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/2_7_seater_electric_suvs_from_tata_mahindra_1_a40170cc5f.webp</image:loc>
-      <image:title>2 New 7-Seat Electric SUVs From Tata And Mahindra Launching Soon: All You Need To Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/2-new-7-seat-electric-suvs-from-tata-and-mahindra-launching-soon-/</loc>
-    <lastmod>2026-11-20T01:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/2_7_seater_electric_suvs_from_tata_mahindra_1_a40170cc5f.webp</image:loc>
-      <image:title>2 New 7-Seat Electric SUVs From Tata And Mahindra Launching Soon: All You Need To Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/signify-extends-lighting-partnership-with-mercedes-amg-petronas-f/</loc>
-    <lastmod>2026-11-19T16:42:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/signify_mercedes_amg_petronas_partnership_20e477174d.webp</image:loc>
-      <image:title>Signify Extends Lighting Partnership With Mercedes-AMG PETRONAS Formula One Team</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/signify-extends-lighting-partnership-with-mercedes-amg-petronas-f/</loc>
-    <lastmod>2026-11-19T16:42:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/signify_mercedes_amg_petronas_partnership_20e477174d.webp</image:loc>
-      <image:title>Signify Extends Lighting Partnership With Mercedes-AMG PETRONAS Formula One Team</image:title>
     </image:image>
   </url>
 </urlset>
