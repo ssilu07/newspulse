@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/next-generation-hyundai-creta-n-line-spied-testing/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T01:45:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/next_gen_creta_n_line_spied_7be0f376b1.webp</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/3-new-4x4-mahindras-launching-soon-scorpio-n-facelift-to-lifestyl/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T01:15:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Scorpio Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_4x4_mahindra_suvs_8a228c1f30.webp</image:loc>
+      <image:title>First Clear Look: Scorpio Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/royal-enfield-offers-free-10-year-warranty-in-uk-why-india-could-/</loc>
     <news:news>
       <news:publication>

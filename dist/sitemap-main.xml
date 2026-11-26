@@ -3,39 +3,79 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-25T22:50:03Z</lastmod>
+    <lastmod>2026-11-26T01:51:41Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-25T22:50:03Z</lastmod>
+    <lastmod>2026-11-26T01:51:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-25T22:50:03Z</lastmod>
+    <lastmod>2026-11-26T01:51:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-25T22:50:03Z</lastmod>
+    <lastmod>2026-11-26T01:51:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-25T22:50:03Z</lastmod>
+    <lastmod>2026-11-26T01:51:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-25T22:50:03Z</lastmod>
+    <lastmod>2026-11-26T01:51:41Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/next-generation-hyundai-creta-n-line-spied-testing/</loc>
+    <lastmod>2026-11-26T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/next_gen_creta_n_line_spied_7be0f376b1.webp</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/next-generation-hyundai-creta-n-line-spied-testing/</loc>
+    <lastmod>2026-11-26T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/next_gen_creta_n_line_spied_7be0f376b1.webp</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/3-new-4x4-mahindras-launching-soon-scorpio-n-facelift-to-lifestyl/</loc>
+    <lastmod>2026-11-26T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_4x4_mahindra_suvs_8a228c1f30.webp</image:loc>
+      <image:title>First Clear Look: Scorpio Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/3-new-4x4-mahindras-launching-soon-scorpio-n-facelift-to-lifestyl/</loc>
+    <lastmod>2026-11-26T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_4x4_mahindra_suvs_8a228c1f30.webp</image:loc>
+      <image:title>First Clear Look: Scorpio Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/royal-enfield-offers-free-10-year-warranty-in-uk-why-india-could-/</loc>
@@ -2995,46 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/gurgaon_police_sunfilm_fine_81654cdfba.webp</image:loc>
       <image:title>RTO Alert: Cops Deploying Light Meters To Bust Tinted Glass &amp; Sunfilm - Huge Fines Explained</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rto-suspends-ferrari-dealers-trade-certificate-heres-why/</loc>
-    <lastmod>2026-11-20T12:29:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/rto_suspends_ferrari_dealer_trade_certificate_6dee452896.webp</image:loc>
-      <image:title>RTO Suspends Ferrari Dealer&#x27;s Trade Certificate: Here&#x27;s Why</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rto-suspends-ferrari-dealers-trade-certificate-heres-why/</loc>
-    <lastmod>2026-11-20T12:29:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/rto_suspends_ferrari_dealer_trade_certificate_6dee452896.webp</image:loc>
-      <image:title>RTO Suspends Ferrari Dealer&#x27;s Trade Certificate: Here&#x27;s Why</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-bajaj-pulsar-rs200-launch-price-rs-198-lakh-usd-forks-tft-rid/</loc>
-    <lastmod>2026-11-20T12:16:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-bajaj-pulsar-rs-200-launch-price-usd-forks-tft-display-29.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/new-bajaj-pulsar-rs200-launch-price-rs-198-lakh-usd-forks-tft-rid/</loc>
-    <lastmod>2026-11-20T12:16:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-bajaj-pulsar-rs-200-launch-price-usd-forks-tft-display-29.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
 </urlset>
