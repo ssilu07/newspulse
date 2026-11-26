@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/tvs-norton-atlas-adv-spied-testing-with-accessories/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T03:41:35+00:00</news:publication_date>
+      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-norton-atlas-gt-spied-testing-with-accessories-cover-new.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-maruti-mpvs-launching-soon-invicto-facelift-to-ymc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T03:15:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_mpvs_bb81480deb.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-honda-avancier-suv-production-starts-in-thailand/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T03:02:33+00:00</news:publication_date>
+      <news:title>New Honda Avancier SUV Production Starts In Thailand</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-honda-avancier-production-starts-in-thailand-2-1.jpg</image:loc>
+      <image:title>New Honda Avancier SUV Production Starts In Thailand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/delhi-ncr-has-1294-lakh-evs-but-just-16785-charging-points-most-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T02:45:01+00:00</news:publication_date>
+      <news:title>Delhi-NCR Has 12.94 Lakh EVs But Just 16,785 Charging Points: Most Are In Delhi</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/delhi_ncr_chargers_2fe2bb18b2.webp</image:loc>
+      <image:title>Delhi-NCR Has 12.94 Lakh EVs But Just 16,785 Charging Points: Most Are In Delhi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/3-days-3-big-unveils-of-december-2026-toyota-fortuner-to-jsw-comb/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T02:15:00+00:00</news:publication_date>
+      <news:title>3 Days, 3 Big Unveils Of December 2026: Toyota Fortuner To JSW Combat</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_december_unveils_2026_a9fc69b318.webp</image:loc>
+      <image:title>3 Days, 3 Big Unveils Of December 2026: Toyota Fortuner To JSW Combat</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/next-generation-hyundai-creta-n-line-spied-testing/</loc>
     <news:news>
       <news:publication>
@@ -870,141 +945,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/jsw_combat_suv_details_f3670e105e.webp</image:loc>
       <image:title>JSW Combat PHEV Launching Next Week: What We Know So Far</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/maruti-suzuki-4th-price-hike-for-2026-announced-details/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T04:08:47+00:00</news:publication_date>
-      <news:title>Price Hike Alert: Maruti Suzuki 4th Becomes More Expensive Starting This Month</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/10/all-maruti-suzuki-cars-mileage-ranked-swift.jpg</image:loc>
-      <image:title>Price Hike Alert: Maruti Suzuki 4th Becomes More Expensive Starting This Month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-to-launch-tomorrow-top-5-highlight/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T04:00:23+00:00</news:publication_date>
-      <news:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-cb500-specs-fully-revealed-28-ps-433-nm-tbt-nav/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T03:58:18+00:00</news:publication_date>
-      <news:title>Honda CB500 Specs Fully Revealed - 28 PS, 43.3 Nm, TBT Nav</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-honda-cb500-launch-price-bookings-16.jpeg</image:loc>
-      <image:title>Honda CB500 Specs Fully Revealed - 28 PS, 43.3 Nm, TBT Nav</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hiding-your-number-plate-to-avoid-barrierless-toll-pay-8-times-to/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T03:35:47+00:00</news:publication_date>
-      <news:title>Number Plate Alert: Massive Fine For Non-HSRP Plates &amp; How To Avoid Impoundment</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/barrierfree_toll_penalty_hiding_number_plate_8_X_toll_featured_7373395af2.webp</image:loc>
-      <image:title>Number Plate Alert: Massive Fine For Non-HSRP Plates &amp; How To Avoid Impoundment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/nhai-to-bust-bad-contractors-using-dashcams-50000-kms-of-highways/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T03:08:50+00:00</news:publication_date>
-      <news:title>NHAI To Bust Bad Contractors Using Dashcams: 50,000 Kms Of Highways Under Watch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/Dashcam_Pothole_Detection_On_Highways_Featured_4d780d82ac.webp</image:loc>
-      <image:title>NHAI To Bust Bad Contractors Using Dashcams: 50,000 Kms Of Highways Under Watch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-cb500-launched-at-rs-275-lakh-the-only-long-stroke-air-cool/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T02:47:19+00:00</news:publication_date>
-      <news:title>Honda CB500 Launched At Rs. 2.75 Lakh: The Only Long-Stroke Air-Cooled Thumper You Can Buy Today!</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/honda_cb500_launched_india_featured_f16a04b95a.webp</image:loc>
-      <image:title>Honda CB500 Launched At Rs. 2.75 Lakh: The Only Long-Stroke Air-Cooled Thumper You Can Buy Today!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-alpha-midsize-e-suv-to-debut-next-week-what-we-know-so-far/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T02:30:50+00:00</news:publication_date>
-      <news:title>Honda Alpha Midsize e-SUV To Debut Next Week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/10/Honda-0-α-Alpha-EV-India-2.jpg</image:loc>
-      <image:title>Honda Alpha Midsize e-SUV To Debut Next Week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-new-7-seat-suvs-from-tata-and-mahindra-safariev-to-be07/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T02:30:22+00:00</news:publication_date>
-      <news:title>5 New 7 Seat SUVs From Tata And Mahindra: Safari.EV To BE07</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_new_7_seat_tata_and_mahindra_suvs_featured_d86ccbc17a.webp</image:loc>
-      <image:title>5 New 7 Seat SUVs From Tata And Mahindra: Safari.EV To BE07</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-new-mahindra-suvs-confirmed-for-launch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T02:08:14+00:00</news:publication_date>
-      <news:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_new_mahindra_suvs_confirmed_for_launch_featured_c85919f60c.webp</image:loc>
-      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
 </urlset>

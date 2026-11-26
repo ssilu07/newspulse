@@ -3,39 +3,139 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-26T01:51:41Z</lastmod>
+    <lastmod>2026-11-26T04:24:38Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-26T01:51:41Z</lastmod>
+    <lastmod>2026-11-26T04:24:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-26T01:51:41Z</lastmod>
+    <lastmod>2026-11-26T04:24:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-26T01:51:41Z</lastmod>
+    <lastmod>2026-11-26T04:24:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-26T01:51:41Z</lastmod>
+    <lastmod>2026-11-26T04:24:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-26T01:51:41Z</lastmod>
+    <lastmod>2026-11-26T04:24:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tvs-norton-atlas-adv-spied-testing-with-accessories/</loc>
+    <lastmod>2026-11-26T03:41:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-norton-atlas-gt-spied-testing-with-accessories-cover-new.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tvs-norton-atlas-adv-spied-testing-with-accessories/</loc>
+    <lastmod>2026-11-26T03:41:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-norton-atlas-gt-spied-testing-with-accessories-cover-new.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-maruti-mpvs-launching-soon-invicto-facelift-to-ymc/</loc>
+    <lastmod>2026-11-26T03:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_mpvs_bb81480deb.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-new-maruti-mpvs-launching-soon-invicto-facelift-to-ymc/</loc>
+    <lastmod>2026-11-26T03:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_mpvs_bb81480deb.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-honda-avancier-suv-production-starts-in-thailand/</loc>
+    <lastmod>2026-11-26T03:02:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-honda-avancier-production-starts-in-thailand-2-1.jpg</image:loc>
+      <image:title>New Honda Avancier SUV Production Starts In Thailand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-honda-avancier-suv-production-starts-in-thailand/</loc>
+    <lastmod>2026-11-26T03:02:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-honda-avancier-production-starts-in-thailand-2-1.jpg</image:loc>
+      <image:title>New Honda Avancier SUV Production Starts In Thailand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/delhi-ncr-has-1294-lakh-evs-but-just-16785-charging-points-most-a/</loc>
+    <lastmod>2026-11-26T02:45:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/delhi_ncr_chargers_2fe2bb18b2.webp</image:loc>
+      <image:title>Delhi-NCR Has 12.94 Lakh EVs But Just 16,785 Charging Points: Most Are In Delhi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/delhi-ncr-has-1294-lakh-evs-but-just-16785-charging-points-most-a/</loc>
+    <lastmod>2026-11-26T02:45:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/delhi_ncr_chargers_2fe2bb18b2.webp</image:loc>
+      <image:title>Delhi-NCR Has 12.94 Lakh EVs But Just 16,785 Charging Points: Most Are In Delhi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/3-days-3-big-unveils-of-december-2026-toyota-fortuner-to-jsw-comb/</loc>
+    <lastmod>2026-11-26T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_december_unveils_2026_a9fc69b318.webp</image:loc>
+      <image:title>3 Days, 3 Big Unveils Of December 2026: Toyota Fortuner To JSW Combat</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/3-days-3-big-unveils-of-december-2026-toyota-fortuner-to-jsw-comb/</loc>
+    <lastmod>2026-11-26T02:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3_december_unveils_2026_a9fc69b318.webp</image:loc>
+      <image:title>3 Days, 3 Big Unveils Of December 2026: Toyota Fortuner To JSW Combat</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/next-generation-hyundai-creta-n-line-spied-testing/</loc>
@@ -2935,106 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/bmw_alpina_coming_to_india_68a34545a3.webp</image:loc>
       <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bmw-r-12-gs-off-roader-launched-in-india-at-rs-2540-lakh/</loc>
-    <lastmod>2026-11-20T15:42:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/bme_r12_gs_launched_in_india_7ad20645aa.webp</image:loc>
-      <image:title>BMW R 12 G/S Off-Roader Launched In India At Rs 25.40 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bmw-r-12-gs-off-roader-launched-in-india-at-rs-2540-lakh/</loc>
-    <lastmod>2026-11-20T15:42:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/bme_r12_gs_launched_in_india_7ad20645aa.webp</image:loc>
-      <image:title>BMW R 12 G/S Off-Roader Launched In India At Rs 25.40 Lakh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byds-fang-cheng-bao-launches-ti-9-with-folding-steering-wheel/</loc>
-    <lastmod>2026-11-20T14:17:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BYDs-Fang-Cheng-Bao-Ti-9.jpg</image:loc>
-      <image:title>BYD&#x27;s Fang Cheng Bao Launches Ti 9 With Folding Steering Wheel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byds-fang-cheng-bao-launches-ti-9-with-folding-steering-wheel/</loc>
-    <lastmod>2026-11-20T14:17:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BYDs-Fang-Cheng-Bao-Ti-9.jpg</image:loc>
-      <image:title>BYD&#x27;s Fang Cheng Bao Launches Ti 9 With Folding Steering Wheel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/yamaha-sales-breakup-oct-2026-rayzr-fz-mt15-r15-fascino-xsr-aerox/</loc>
-    <lastmod>2026-11-20T13:51:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/03/yamaha-r15-sales-new.jpeg</image:loc>
-      <image:title>Yamaha Sales Breakup Oct 2026 - RayZR, FZ, MT15, R15, Fascino, XSR, Aerox, EC06</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/yamaha-sales-breakup-oct-2026-rayzr-fz-mt15-r15-fascino-xsr-aerox/</loc>
-    <lastmod>2026-11-20T13:51:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/03/yamaha-r15-sales-new.jpeg</image:loc>
-      <image:title>Yamaha Sales Breakup Oct 2026 - RayZR, FZ, MT15, R15, Fascino, XSR, Aerox, EC06</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bajaj-pulsar-rs200-gets-more-power-ride-modes-and-a-new-tft-displ/</loc>
-    <lastmod>2026-11-20T13:38:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Bajaj-Pulsar-RS200-2.jpg</image:loc>
-      <image:title>Bajaj Pulsar RS200 Gets More Power, Ride Modes And A New TFT Display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bajaj-pulsar-rs200-gets-more-power-ride-modes-and-a-new-tft-displ/</loc>
-    <lastmod>2026-11-20T13:38:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Bajaj-Pulsar-RS200-2.jpg</image:loc>
-      <image:title>Bajaj Pulsar RS200 Gets More Power, Ride Modes And A New TFT Display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/rs-10000-fine-for-sunfilm-on-car-windows-cops-fine-298-cars-colle/</loc>
-    <lastmod>2026-11-20T13:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/gurgaon_police_sunfilm_fine_81654cdfba.webp</image:loc>
-      <image:title>RTO Alert: Cops Deploying Light Meters To Bust Tinted Glass &amp; Sunfilm - Huge Fines Explained</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/rs-10000-fine-for-sunfilm-on-car-windows-cops-fine-298-cars-colle/</loc>
-    <lastmod>2026-11-20T13:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/gurgaon_police_sunfilm_fine_81654cdfba.webp</image:loc>
-      <image:title>RTO Alert: Cops Deploying Light Meters To Bust Tinted Glass &amp; Sunfilm - Huge Fines Explained</image:title>
     </image:image>
   </url>
 </urlset>
