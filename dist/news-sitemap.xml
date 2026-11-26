@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/spinny-partners-with-kia-india-what-this-means-for-buyers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:42:00+00:00</news:publication_date>
+      <news:title>Spinny Partners With Kia India: What This Means For Buyers!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/spinny_kia_partnership_featured_46e309bd82.webp</image:loc>
+      <image:title>Spinny Partners With Kia India: What This Means For Buyers!</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/jsw-jaecoo-j5-hybrid-suv-spied-undisguised-debut-with-combat-on-d/</loc>
     <news:news>
       <news:publication>
@@ -693,6 +708,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/tata-motors-price-hike-december-2026-prices-to-rise-by-05/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T10:08:46+00:00</news:publication_date>
+      <news:title>Price Hike Alert: Tata Motors Becomes More Expensive Starting This Month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/Tata-Sierra-DARK-1.jpg</image:loc>
+      <image:title>Price Hike Alert: Tata Motors Becomes More Expensive Starting This Month</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/mahindra-sales-breakup-oct-2026-scorpio-bolero-xuv3xo-7xo-thar-ro/</loc>
     <news:news>
       <news:publication>
@@ -750,6 +780,36 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/toyota_hycross_facelift_featured_f60648508e.webp</image:loc>
       <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-motors-logo-revealed-ahead-of-december-3-brand-debut/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T08:19:20+00:00</news:publication_date>
+      <news:title>JSW Motors Logo Revealed Ahead Of December 3 Brand Debut</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/JSW-Motors-Logo.jpg</image:loc>
+      <image:title>JSW Motors Logo Revealed Ahead Of December 3 Brand Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/audi-car-prices-to-increase-by-up-to-2-from-january-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T07:50:43+00:00</news:publication_date>
+      <news:title>Audi Car Prices To Increase By Up To 2% From January 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/Audi-Q3-Booking-Open-1.jpeg</image:loc>
+      <image:title>Audi Car Prices To Increase By Up To 2% From January 2027</image:title>
     </image:image>
   </url>
   <url>
@@ -1080,21 +1140,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/6_upcoming_renault_nissan_1_8433feaec5.webp</image:loc>
       <image:title>6 New SUVs From Renault And Nissan: Renault Bridger To Nissan Patrol</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bentleys-first-electric-suv-coming-to-india-in-2027-why-it-wont-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T17:08:43+00:00</news:publication_date>
-      <news:title>Bentley&#x27;s First Electric SUV Coming To India In 2027: Why It Won&#x27;t Be Built Here</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/bentley_torcal_electric_suv_india_launch_2027_featured_21e5b02f76.webp</image:loc>
-      <image:title>Bentley&#x27;s First Electric SUV Coming To India In 2027: Why It Won&#x27;t Be Built Here</image:title>
     </image:image>
   </url>
 </urlset>

@@ -3,39 +3,59 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-26T16:27:09Z</lastmod>
+    <lastmod>2026-11-26T19:13:47Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-26T16:27:09Z</lastmod>
+    <lastmod>2026-11-26T19:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-26T16:27:09Z</lastmod>
+    <lastmod>2026-11-26T19:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-26T16:27:09Z</lastmod>
+    <lastmod>2026-11-26T19:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-26T16:27:09Z</lastmod>
+    <lastmod>2026-11-26T19:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-26T16:27:09Z</lastmod>
+    <lastmod>2026-11-26T19:13:47Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/spinny-partners-with-kia-india-what-this-means-for-buyers/</loc>
+    <lastmod>2026-11-26T16:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/spinny_kia_partnership_featured_46e309bd82.webp</image:loc>
+      <image:title>Spinny Partners With Kia India: What This Means For Buyers!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/spinny-partners-with-kia-india-what-this-means-for-buyers/</loc>
+    <lastmod>2026-11-26T16:42:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/spinny_kia_partnership_featured_46e309bd82.webp</image:loc>
+      <image:title>Spinny Partners With Kia India: What This Means For Buyers!</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/jsw-jaecoo-j5-hybrid-suv-spied-undisguised-debut-with-combat-on-d/</loc>
@@ -958,6 +978,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/tata-motors-price-hike-december-2026-prices-to-rise-by-05/</loc>
+    <lastmod>2026-11-25T10:08:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/Tata-Sierra-DARK-1.jpg</image:loc>
+      <image:title>Price Hike Alert: Tata Motors Becomes More Expensive Starting This Month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tata-motors-price-hike-december-2026-prices-to-rise-by-05/</loc>
+    <lastmod>2026-11-25T10:08:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/Tata-Sierra-DARK-1.jpg</image:loc>
+      <image:title>Price Hike Alert: Tata Motors Becomes More Expensive Starting This Month</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/mahindra-sales-breakup-oct-2026-scorpio-bolero-xuv3xo-7xo-thar-ro/</loc>
     <lastmod>2026-11-25T09:14:30+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1035,6 +1075,46 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/toyota_hycross_facelift_featured_f60648508e.webp</image:loc>
       <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-motors-logo-revealed-ahead-of-december-3-brand-debut/</loc>
+    <lastmod>2026-11-25T08:19:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/JSW-Motors-Logo.jpg</image:loc>
+      <image:title>JSW Motors Logo Revealed Ahead Of December 3 Brand Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-motors-logo-revealed-ahead-of-december-3-brand-debut/</loc>
+    <lastmod>2026-11-25T08:19:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/JSW-Motors-Logo.jpg</image:loc>
+      <image:title>JSW Motors Logo Revealed Ahead Of December 3 Brand Debut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/audi-car-prices-to-increase-by-up-to-2-from-january-2027/</loc>
+    <lastmod>2026-11-25T07:50:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/Audi-Q3-Booking-Open-1.jpeg</image:loc>
+      <image:title>Audi Car Prices To Increase By Up To 2% From January 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/audi-car-prices-to-increase-by-up-to-2-from-january-2027/</loc>
+    <lastmod>2026-11-25T07:50:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/Audi-Q3-Booking-Open-1.jpeg</image:loc>
+      <image:title>Audi Car Prices To Increase By Up To 2% From January 2027</image:title>
     </image:image>
   </url>
   <url>
@@ -2955,86 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_0128ad8c77.webp</image:loc>
       <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-ti7-faces-eu-ban-over-defender-design-tata-owned-jlr-secures-/</loc>
-    <lastmod>2026-11-21T14:19:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-jlr-defender-court-case-ti7-2.jpg</image:loc>
-      <image:title>BYD Ti7 Faces EU Ban Over Defender Design</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-ti7-faces-eu-ban-over-defender-design-tata-owned-jlr-secures-/</loc>
-    <lastmod>2026-11-21T14:19:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/byd-jlr-defender-court-case-ti7-2.jpg</image:loc>
-      <image:title>BYD Ti7 Faces EU Ban Over Defender Design</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundais-mahindra-xuv-7x0-rival-what-itll-offer/</loc>
-    <lastmod>2026-11-21T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/hyundai_mahindra_xuv_7xo_rival_a18d005243.webp</image:loc>
-      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Xuv - Variant-Wise Offers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundais-mahindra-xuv-7x0-rival-what-itll-offer/</loc>
-    <lastmod>2026-11-21T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/hyundai_mahindra_xuv_7xo_rival_a18d005243.webp</image:loc>
-      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Xuv - Variant-Wise Offers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mg-windsor-facelift-to-get-61-kwh-battery-pack-next-year/</loc>
-    <lastmod>2026-11-21T12:17:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/mg_windsor_ev_61_kwh_battery_a12412eb7c.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mg-windsor-facelift-to-get-61-kwh-battery-pack-next-year/</loc>
-    <lastmod>2026-11-21T12:17:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/mg_windsor_ev_61_kwh_battery_a12412eb7c.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mahindra-to-launch-xev-9e-sporteq-series-next-month-in-india/</loc>
-    <lastmod>2026-11-21T12:08:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/be6-side-detail.jpg</image:loc>
-      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mahindra-to-launch-xev-9e-sporteq-series-next-month-in-india/</loc>
-    <lastmod>2026-11-21T12:08:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/be6-side-detail.jpg</image:loc>
-      <image:title>First Clear Look: Mahindra Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
 </urlset>
