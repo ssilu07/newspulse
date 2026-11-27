@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/hyundai-ioniq-p-electric-suv-launching-on-january-16th-to-challen/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T04:13:22+00:00</news:publication_date>
+      <news:title>Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_ioniqp_electric_suv_launch_date_revealed_16th_january_2027_featured_d3ee9cf42f.webp</image:loc>
+      <image:title>Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/upcoming-nissan-terrano-suv-first-photos-leak-before-launch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T03:37:01+00:00</news:publication_date>
+      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-nissan-terrano-leaked-from-china-3-1.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-maruti-mpvs-launching-next-year-ymc-ev-to-ertiga-facelift/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T02:49:04+00:00</news:publication_date>
+      <news:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_mpvs_2027_featured_e0a5f937df.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2-new-vinfast-cars-launching-in-the-next-6-months-details/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T02:42:04+00:00</news:publication_date>
+      <news:title>2 New VinFast Cars Launching In The Next 6 Months: Details</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/2_new_vinfasts_in_6_months_5195b7ba6b.webp</image:loc>
+      <image:title>2 New VinFast Cars Launching In The Next 6 Months: Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-hyundai-compact-ev-launch-nears-range-features-expected-price/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T02:30:05+00:00</news:publication_date>
+      <news:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Hyundai-Inster-2.jpg</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/hondas-next-gen-hybrid-system-coming-to-indian-suvs-tech-explaine/</loc>
     <news:news>
       <news:publication>
@@ -1020,126 +1095,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/gadkari_about_fossil_fuels_pollution_ee41fc632c.webp</image:loc>
       <image:title>40% Air Pollution Caused By Fossil Fuels, Need To Move To BioFuels: Gadkari</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/skoda-peaq-scores-5-stars-in-euro-ncap-crash-tests/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T04:30:47+00:00</news:publication_date>
-      <news:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/skoda_peaq_euro_ncap_rating_362daf02c6.webp</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/next-gen-rexton-suv-teased-with-jeep-range-rover-design-cues/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T04:00:28+00:00</news:publication_date>
-      <news:title>Next Gen Rexton SUV Teased With Jeep &amp; Range Rover Design Cues</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Next-Gen-KGM-Rexton.jpg</image:loc>
-      <image:title>Next Gen Rexton SUV Teased With Jeep &amp; Range Rover Design Cues</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/suzuki-access-rejigged-1-variant-1-colour-discontinued-1-new-colo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T03:47:29+00:00</news:publication_date>
-      <news:title>Suzuki Access Rejigged - 1 Variant, 1 Colour Discontinued; 1 New Colour</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/03/new-suzuki-access-blue-abs-2.jpeg</image:loc>
-      <image:title>Suzuki Access Rejigged - 1 Variant, 1 Colour Discontinued; 1 New Colour</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/new-hyundai-creta-n-line-spied-testing-for-the-first-time-details/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T03:36:33+00:00</news:publication_date>
-      <news:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-creta-n-line-spied-for-the-first-time-4.jpg</image:loc>
-      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-honda-and-nissan-to-join-hands-to-fight-chinese-threat-det/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T03:15:00+00:00</news:publication_date>
-      <news:title>Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/Toyota_Honda_and_Nissan_Join_Hands_Featured_33692706c1.webp</image:loc>
-      <image:title>Toyota, Honda And Nissan To Join Hands To Fight Chinese Threat: Details</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-new-cars-getting-launchedunveiled-in-10-days-toyota-innova-hycr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T02:45:00+00:00</news:publication_date>
-      <news:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_new_car_unveils_in_10_days_featured_5f7b3ecc6a.webp</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tata-motors-to-hike-prices-from-dec-2026-as-ice-cars-evs-will-get/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T02:30:01+00:00</news:publication_date>
-      <news:title>Tata Motors To Hike Prices From Dec 2026 As ICE Cars &amp; EVs Will Get Costlier</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/08/Tata-Nexon-Camo-3.jpg</image:loc>
-      <image:title>Tata Motors To Hike Prices From Dec 2026 As ICE Cars &amp; EVs Will Get Costlier</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-upcoming-new-adventure-bikes-royal-enfield-himalayan-750-to-nor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T02:15:00+00:00</news:publication_date>
-      <news:title>5 Upcoming New Adventure Bikes: Royal Enfield Himalayan 750 To Norton Atlas</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_adv_motorcycles_0d9d004daa.webp</image:loc>
-      <image:title>5 Upcoming New Adventure Bikes: Royal Enfield Himalayan 750 To Norton Atlas</image:title>
     </image:image>
   </url>
 </urlset>

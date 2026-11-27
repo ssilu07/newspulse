@@ -3,39 +3,139 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-27T01:49:46Z</lastmod>
+    <lastmod>2026-11-27T04:33:38Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-27T01:49:46Z</lastmod>
+    <lastmod>2026-11-27T04:33:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-27T01:49:46Z</lastmod>
+    <lastmod>2026-11-27T04:33:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-27T01:49:46Z</lastmod>
+    <lastmod>2026-11-27T04:33:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-27T01:49:46Z</lastmod>
+    <lastmod>2026-11-27T04:33:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-27T01:49:46Z</lastmod>
+    <lastmod>2026-11-27T04:33:38Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-ioniq-p-electric-suv-launching-on-january-16th-to-challen/</loc>
+    <lastmod>2026-11-27T04:13:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_ioniqp_electric_suv_launch_date_revealed_16th_january_2027_featured_d3ee9cf42f.webp</image:loc>
+      <image:title>Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-ioniq-p-electric-suv-launching-on-january-16th-to-challen/</loc>
+    <lastmod>2026-11-27T04:13:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hyundai_ioniqp_electric_suv_launch_date_revealed_16th_january_2027_featured_d3ee9cf42f.webp</image:loc>
+      <image:title>Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/upcoming-nissan-terrano-suv-first-photos-leak-before-launch/</loc>
+    <lastmod>2026-11-27T03:37:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-nissan-terrano-leaked-from-china-3-1.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/upcoming-nissan-terrano-suv-first-photos-leak-before-launch/</loc>
+    <lastmod>2026-11-27T03:37:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-nissan-terrano-leaked-from-china-3-1.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/4-new-maruti-mpvs-launching-next-year-ymc-ev-to-ertiga-facelift/</loc>
+    <lastmod>2026-11-27T02:49:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_mpvs_2027_featured_e0a5f937df.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/4-new-maruti-mpvs-launching-next-year-ymc-ev-to-ertiga-facelift/</loc>
+    <lastmod>2026-11-27T02:49:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_mpvs_2027_featured_e0a5f937df.webp</image:loc>
+      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2-new-vinfast-cars-launching-in-the-next-6-months-details/</loc>
+    <lastmod>2026-11-27T02:42:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/2_new_vinfasts_in_6_months_5195b7ba6b.webp</image:loc>
+      <image:title>2 New VinFast Cars Launching In The Next 6 Months: Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2-new-vinfast-cars-launching-in-the-next-6-months-details/</loc>
+    <lastmod>2026-11-27T02:42:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/2_new_vinfasts_in_6_months_5195b7ba6b.webp</image:loc>
+      <image:title>2 New VinFast Cars Launching In The Next 6 Months: Details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-hyundai-compact-ev-launch-nears-range-features-expected-price/</loc>
+    <lastmod>2026-11-27T02:30:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Hyundai-Inster-2.jpg</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-hyundai-compact-ev-launch-nears-range-features-expected-price/</loc>
+    <lastmod>2026-11-27T02:30:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/09/Hyundai-Inster-2.jpg</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/hondas-next-gen-hybrid-system-coming-to-indian-suvs-tech-explaine/</loc>
@@ -2935,106 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/kia_carens_clavis_cng_sales_d9b086bbcb.webp</image:loc>
       <image:title>Kia Carens CNG And Carens Clavis CNG Sell 6,200 Units In 2 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/upcoming-tata-cars-in-india-4-new-models-to-look-forward-in-2027/</loc>
-    <lastmod>2026-11-22T04:00:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Tata-Nexon-5.jpg</image:loc>
-      <image:title>Upcoming Tata Cars In India: 4 New Models To Look Forward In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/upcoming-tata-cars-in-india-4-new-models-to-look-forward-in-2027/</loc>
-    <lastmod>2026-11-22T04:00:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Tata-Nexon-5.jpg</image:loc>
-      <image:title>Upcoming Tata Cars In India: 4 New Models To Look Forward In 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/3-upcoming-electric-mpvs-hyundai-neira-to-maruti-ymc/</loc>
-    <lastmod>2026-11-22T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_electric_mpvs_e6a1e55ad6.webp</image:loc>
-      <image:title>3 Upcoming Electric MPVs: Hyundai Neira To Maruti YMC</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/3-upcoming-electric-mpvs-hyundai-neira-to-maruti-ymc/</loc>
-    <lastmod>2026-11-22T03:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_electric_mpvs_e6a1e55ad6.webp</image:loc>
-      <image:title>3 Upcoming Electric MPVs: Hyundai Neira To Maruti YMC</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/upcoming-hyundai-neira-first-time-on-video/</loc>
-    <lastmod>2026-11-22T02:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/hyundai_neira_video_walkaround_3621b20b62.webp</image:loc>
-      <image:title>Upcoming Hyundai Neira: First Time On Video</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/upcoming-hyundai-neira-first-time-on-video/</loc>
-    <lastmod>2026-11-22T02:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/hyundai_neira_video_walkaround_3621b20b62.webp</image:loc>
-      <image:title>Upcoming Hyundai Neira: First Time On Video</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-motors-to-launch-j5-and-v23-electric-suvs-next-year/</loc>
-    <lastmod>2026-11-22T02:30:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/02/chery-icar-v23-india-mg.-1.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jsw-motors-to-launch-j5-and-v23-electric-suvs-next-year/</loc>
-    <lastmod>2026-11-22T02:30:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/02/chery-icar-v23-india-mg.-1.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/karnataka-plans-new-bike-taxi-rules-after-supreme-court-verdict-d/</loc>
-    <lastmod>2026-11-22T02:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/new_rules_coming_for_karnataka_bike_taxi_187905a7de.webp</image:loc>
-      <image:title>Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/karnataka-plans-new-bike-taxi-rules-after-supreme-court-verdict-d/</loc>
-    <lastmod>2026-11-22T02:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/new_rules_coming_for_karnataka_bike_taxi_187905a7de.webp</image:loc>
-      <image:title>Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details</image:title>
     </image:image>
   </url>
 </urlset>

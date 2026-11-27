@@ -1,5 +1,535 @@
 [
   {
+    "id": "art_1795753997_1",
+    "slug": "hyundai-ioniq-p-electric-suv-launching-on-january-16th-to-challen",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV",
+    "title": "Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV",
+    "raw_summary": "Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV",
+    "summary": "Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV",
+    "image_url": "https://cdn.cartoq.com/photos/hyundai_ioniqp_electric_suv_launch_date_revealed_16th_january_2027_featured_d3ee9cf42f.webp",
+    "original_url": "https://www.cartoq.com/car-news/hyundai-ioniq-p-electric-suv-launch-january-2027/",
+    "published_at": "2026-11-27T04:13:22+00:00",
+    "time_ago": "19m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Nexon, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
+      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
+      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
+      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
+      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
+    ],
+    "specs_table": [
+      {
+        "label": "Vehicle Contender",
+        "val": "Nexon & Segment Rivals"
+      },
+      {
+        "label": "Powertrain Options",
+        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
+      },
+      {
+        "label": "ARAI Claimed Mileage",
+        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
+      },
+      {
+        "label": "Real-World City Mileage",
+        "val": "11.2 to 14.5 kmpl (Actual city commute)"
+      },
+      {
+        "label": "Real-World Highway Mileage",
+        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
+      }
+    ],
+    "bullet_points": [
+      "Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "Hyundai Ioniq P Electric SUV Launching On January 16th: To Challe",
+        "badge": "🚨 BREAKING",
+        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
+        "image": "https://cdn.cartoq.com/photos/hyundai_ioniqp_electric_suv_launch_date_revealed_16th_january_2027_featured_d3ee9cf42f.webp",
+        "alt": "Hyundai Ioniq P Electric SUV Launching On January 16th: To Challenge Tata Nexon EV cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 287
+  },
+  {
+    "id": "art_1795753997_4",
+    "slug": "upcoming-nissan-terrano-suv-first-photos-leak-before-launch",
+    "category": "suvs-comparisons",
+    "category_name": "SUV Wars & Real Mileage",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Rushlane.com",
+    "raw_title": "Upcoming Nissan Terrano SUV First Photos Leak Before Launch",
+    "title": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside & Out",
+    "raw_summary": "Nissan had showcased the Terrano concept earlier this year in April at the Beijing Auto Show. The ladder-frame SUV will be manufactured in China by Zhengzhou Nissan joint venture. In addition to China, Nissan Terrano will also be available in markets like Latin America, ASEAN and the Middle East. Launch in India is also possible, as part of Nissan’s broader India revival strategy. In the latest development, new details about the Terrano SUV have emerged from regulatory filings in China. As per information published on China’s Ministry of Industry and Information Technology (MIIT) website, Nissan Terrano is 5,098 mm long and has a wheelbase of 2,850 mm. This makes the Terrano larger than the Fortuner, which is 4,795 mm long and has a wheelbase of 2,745 mm. The larger dimensions will unlock a more commanding presence and also ensure roomier interiors.",
+    "summary": "Nissan had showcased the Terrano concept earlier this year in April at the Beijing Auto Show. The ladder-frame SUV will be manufactured in China by Zhengzhou Nissan joint venture. In addition to China, Nissan Terrano will also be available in markets like Latin America, ASEAN and the Middle East. Launch in India is also possible, as part of Nissan’s broader India revival strategy.",
+    "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/new-nissan-terrano-leaked-from-china-3-1.jpg",
+    "original_url": "https://www.rushlane.com/upcoming-nissan-terrano-suv-first-photos-leak-before-launch-12562146.html",
+    "published_at": "2026-11-27T03:37:01+00:00",
+    "time_ago": "56m ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Rushlane.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
+      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
+      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
+      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
+      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
+    ],
+    "specs_table": [
+      {
+        "label": "Offense / Violation",
+        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
+      },
+      {
+        "label": "Governing Section",
+        "val": "Section 177 / 190(2) & Rule 100 CMVR"
+      },
+      {
+        "label": "Fine Amount (First)",
+        "val": "Rs 1,000 + Removal on spot"
+      },
+      {
+        "label": "Fine Amount (Repeat)",
+        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
+      },
+      {
+        "label": "Dispute Portal",
+        "val": "echallan.parivahan.gov.in (Virtual Courts)"
+      }
+    ],
+    "bullet_points": [
+      "Nissan had showcased the Terrano concept earlier this year in April at the Beijing Auto Show.",
+      "The ladder-frame SUV will be manufactured in China by Zhengzhou Nissan joint venture.",
+      "In addition to China, Nissan Terrano will also be available in markets like Latin America, ASEAN and the Middle East.",
+      "Launch in India is also possible, as part of Nissan’s broader India revival strategy."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades ",
+        "badge": "🚨 BREAKING",
+        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/11/new-nissan-terrano-leaked-from-china-3-1.jpg",
+        "alt": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside & Out cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 406
+  },
+  {
+    "id": "art_1795753997_2",
+    "slug": "4-new-maruti-mpvs-launching-next-year-ymc-ev-to-ertiga-facelift",
+    "category": "rules-challan",
+    "category_name": "Challan & RTO Alerts",
+    "category_color": "#dc2626",
+    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
+    "category_icon": "🚨",
+    "source": "Cartoq.com",
+    "raw_title": "4 New Maruti MPVs Launching Next Year: YMC EV To Ertiga Facelift",
+    "title": "First Clear Look: Maruti Leaked With Major Design Upgrades Inside & Out",
+    "raw_summary": "4 New Maruti MPVs Launching Next Year: YMC EV To Ertiga Facelift",
+    "summary": "4 New Maruti MPVs Launching Next Year: YMC EV To Ertiga Facelift",
+    "image_url": "https://cdn.cartoq.com/photos/4_upcoming_maruti_mpvs_2027_featured_e0a5f937df.webp",
+    "original_url": "https://www.cartoq.com/car-news/upcoming-maruti-suzuki-mpvs-2027/",
+    "published_at": "2026-11-27T02:49:04+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "First Clear Look: Maruti Leaked With Major Design Upgrades Inside & Out",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "First Clear Look: Maruti Leaked With Major Design Upgrades Inside",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/4_upcoming_maruti_mpvs_2027_featured_e0a5f937df.webp",
+        "alt": "First Clear Look: Maruti Leaked With Major Design Upgrades Inside & Out cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 292
+  },
+  {
+    "id": "art_1795753997_3",
+    "slug": "2-new-vinfast-cars-launching-in-the-next-6-months-details",
+    "category": "car-hacks",
+    "category_name": "Car Hacks & Secrets",
+    "category_color": "#8b5cf6",
+    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
+    "category_icon": "💡",
+    "source": "Cartoq.com",
+    "raw_title": "2 New VinFast Cars Launching In The Next 6 Months: Details",
+    "title": "2 New VinFast Cars Launching In The Next 6 Months: Details",
+    "raw_summary": "VinFast plans to launch the facelifted VF5 electric SUV and its Green SM commercial version in India within the next six months, expected in the first half of 2027.",
+    "summary": "VinFast plans to launch the facelifted VF5 electric SUV and its Green SM commercial version in India within the next six months, expected in the first half of 2027.",
+    "image_url": "https://cdn.cartoq.com/photos/2_new_vinfasts_in_6_months_5195b7ba6b.webp",
+    "original_url": "https://www.cartoq.com/car-news/vinfast-vf5-green-sm-india-launch/",
+    "published_at": "2026-11-27T02:42:04+00:00",
+    "time_ago": "1h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Cartoq.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
+      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
+      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
+      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
+      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
+    ],
+    "specs_table": [
+      {
+        "label": "Maintenance Focus",
+        "val": "Windshield Defogging & Cabin Moisture Prevention"
+      },
+      {
+        "label": "The 10-Second Fix",
+        "val": "AC ON + Fresh Air Mode + Windshield Vents"
+      },
+      {
+        "label": "Common Mistake",
+        "val": "Recirculation Mode ON with high heater"
+      },
+      {
+        "label": "DIY Cost",
+        "val": "Rs 0 (Newspaper / AC setting adjustment)"
+      },
+      {
+        "label": "Dealership Upsell Saved",
+        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
+      }
+    ],
+    "bullet_points": [
+      "2 New VinFast Cars Launching In The Next 6 Months: Details",
+      "Key ground developments tracked across Indian automotive networks.",
+      "Primary dispatches and data confirmed by Cartoq.com.",
+      "Consumer advisory and regulatory implications active."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "2 New VinFast Cars Launching In The Next 6 Months: Details",
+        "badge": "🚨 BREAKING",
+        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
+        "image": "https://cdn.cartoq.com/photos/2_new_vinfasts_in_6_months_5195b7ba6b.webp",
+        "alt": "2 New VinFast Cars Launching In The Next 6 Months: Details cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 309
+  },
+  {
+    "id": "art_1795753997_5",
+    "slug": "new-hyundai-compact-ev-launch-nears-range-features-expected-price",
+    "category": "suvs-comparisons",
+    "category_name": "SUV Wars & Real Mileage",
+    "category_color": "#ea580c",
+    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
+    "category_icon": "🚙",
+    "source": "Gaadiwaadi.com",
+    "raw_title": "New Hyundai Compact EV Launch Nears – Range, Features & Expected Price",
+    "title": "First Clear Look: Hyundai Leaked With Major Design Upgrades Inside & Out",
+    "raw_summary": "GaadiWaadi - Hyundai’s new compact electric SUV could debut in the coming weeks and is expected to cost around Rs. 10 lakh in base guise and offer Level 2 ADAS The Creta Electric currently costs from Rs. 18.03 lakh (ex-showroom) in India if purchased outright. Even under the battery subscription scheme introduced in July, the initial cost stands at Rs. 10.99 lakh and separate battery charges start at Rs. 3.90 per km. We expect that the base price of Hyundai’s new compact EV will start at around Rs. 10 lakh (ex-showroom). Judging by photographs taken in Chennai in October, the new SUV will look distinctly different from the Venue. The roof sits fairly high relative to the bonnet and the rear doors have large glass areas. Test vehicles have sported alloy wheels in contrasting shades, roof rails and prominent wheel arches. Interestingly, the lamp configurations seen on different prototypes suggest that Hyundai could distinguish the variants visually. The cabin could house the Pleos Connect infotainment system from Hyundai Motor Group. Hyundai has confirmed a new multimedia interface and Level 2 ADAS for the model. The equipment list of the related Inster sold overseas offers some clues: it has a pair of 10.25-inch displays and gets a 360-degree camera on select variants. Hyundai Inster Hyundai has not based the HE1i on an existing petrol or diesel model. The project will utilise an architecture developed specifically for electric propulsion. The E-GMP (K) platform also serves as the basis of the Inster. Hyundai intends to manufacture the new SUV at its Sriperumbudur factory in Tamil Nadu. The battery capacities of the HE1i are yet to be disclosed but Hyundai has planned two versions for different range requirements. The European Inster provides a useful reference here. Riding on 15-inch wheels, the 42 kWh derivative has a rated WLTP range of 327 km while the 49 kWh version is rated at 370 km. Their respective motor outputs stand at 95 hp and 113 hp. Initially, the cells for the compact SUV will reportedly come from Svolt. Hyundai subsequently intends to procure them from Exide once local cell production is ready. The less expensive variants could rival the Tata Punch EV while the higher specification versions could compete against the Tata Nexon EV, Mahindra XUV 3XO EV and Kia Syros EV. Meanwhile, Hyundai has filed a trademark application in India for Ioniq P. The same name cropped up in the company’s October 2026 earnings discussion but its use on the production car has yet to receive formal confirmation. The SUV could make its domestic debut in the coming weeks ahead of price announcement subsequently.",
+    "summary": "GaadiWaadi - Hyundai’s new compact electric SUV could debut in the coming weeks and is expected to cost around Rs. 10 lakh in base guise and offer Level 2 ADAS The Creta Electric currently costs from Rs. 18.03 lakh (ex-showroom) in India if purchased outright. Even under the battery subscription scheme introduced in July, the initial cost stands at Rs.",
+    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2025/09/Hyundai-Inster-2.jpg",
+    "original_url": "https://gaadiwaadi.com/new-hyundai-compact-ev-launch-nears-range-features-expected-price/",
+    "published_at": "2026-11-27T02:30:05+00:00",
+    "time_ago": "2h ago",
+    "reading_time": "3 min read",
+    "article_paragraphs": [
+      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Gaadiwaadi.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
+      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
+      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
+      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
+      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
+    ],
+    "specs_table": [
+      {
+        "label": "Offense / Violation",
+        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
+      },
+      {
+        "label": "Governing Section",
+        "val": "Section 177 / 190(2) & Rule 100 CMVR"
+      },
+      {
+        "label": "Fine Amount (First)",
+        "val": "Rs 1,000 + Removal on spot"
+      },
+      {
+        "label": "Fine Amount (Repeat)",
+        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
+      },
+      {
+        "label": "Dispute Portal",
+        "val": "echallan.parivahan.gov.in (Virtual Courts)"
+      }
+    ],
+    "bullet_points": [
+      "GaadiWaadi - Hyundai’s new compact electric SUV could debut in the coming weeks and is expected to cost around Rs.",
+      "10 lakh in base guise and offer Level 2 ADAS The Creta Electric currently costs from Rs.",
+      "18.03 lakh (ex-showroom) in India if purchased outright.",
+      "Even under the battery subscription scheme introduced in July, the initial cost stands at Rs."
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "heading": "First Clear Look: Hyundai Leaked With Major Design Upgrades Insid",
+        "badge": "🚨 BREAKING",
+        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
+        "image": "https://gaadiwaadi.com/wp-content/uploads/2025/09/Hyundai-Inster-2.jpg",
+        "alt": "First Clear Look: Hyundai Leaked With Major Design Upgrades Inside & Out cover slide"
+      },
+      {
+        "slide_number": 2,
+        "heading": "The Core Reality",
+        "badge": "⚡ GROUND REPORT",
+        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
+        "alt": "Core development visual"
+      },
+      {
+        "slide_number": 3,
+        "heading": "Numbers & Benchmarks",
+        "badge": "📊 REAL STATS",
+        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
+        "alt": "Key facts visual"
+      },
+      {
+        "slide_number": 4,
+        "heading": "What Dealerships Hide",
+        "badge": "💡 INSIDER TRUTH",
+        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
+        "alt": "Insider truth visual"
+      },
+      {
+        "slide_number": 5,
+        "heading": "Segment Showdown",
+        "badge": "🚙 RIVAL MATRIX",
+        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
+        "alt": "Comparison visual"
+      },
+      {
+        "slide_number": 6,
+        "heading": "Buyer / Driver Verdict",
+        "badge": "🎯 EXPERT ADVICE",
+        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
+        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
+        "alt": "Verdict visual"
+      }
+    ],
+    "ai_generated": false,
+    "word_count": 403
+  },
+  {
     "id": "art_1795744166_1",
     "slug": "hondas-next-gen-hybrid-system-coming-to-indian-suvs-tech-explaine",
     "category": "rules-challan",
@@ -15368,535 +15898,5 @@
     ],
     "ai_generated": false,
     "word_count": 286
-  },
-  {
-    "id": "art_1795341500_8",
-    "slug": "upcoming-tata-cars-in-india-4-new-models-to-look-forward-in-2027",
-    "category": "discounts-offers",
-    "category_name": "Discounts & Waiting Periods",
-    "category_color": "#10b981",
-    "category_gradient": "linear-gradient(135deg, #10b981, #06b6d4)",
-    "category_icon": "🏷️",
-    "source": "Gaadiwaadi.com",
-    "raw_title": "Upcoming Tata Cars In India: 4 New Models To Look Forward In 2027",
-    "title": "Upcoming Tata Cars In India: 4 New Models To Look Forward In 2027",
-    "raw_summary": "GaadiWaadi - From the three-row Safari EV to the premium Avinya range and next-generation Nexon, Tata Motors has several important products lined up Tata Motors is preparing for a busy product cycle, with a mix of new SUVs, electric vehicles and updates to existing models. The company has already expanded its portfolio with the return of the Sierra, but there is plenty more in the pipeline. While electric SUVs will account for a significant part of this expansion, Tata isn’t overlooking its volume sellers either. The upcoming line-up will cover several price points, from affordable hatchbacks to premium electric SUVs. Here are four Tata models worth keeping an eye on. 1. Tata Safari EV The Safari EV will take Tata’s electric SUV range into three-row territory. It is expected to share its underpinnings and battery technology with the Harrier EV, potentially using 65kWh and 75 kWh battery packs. A dual-motor AWD configuration is also expected on higher variants. The biggest challenge will be packaging the battery without compromising the cabin space and practicality that Safari buyers expect. Tata Safari EV Rendering It will be Tata’s first three-row electric SUV and is likely to sit at the top of the brand’s mainstream EV portfolio. The Safari EV is expected to compete with the Mahindra XEV 9S, offering buyers a fully electric alternative to large family SUVs. A festive-season launch was part of Tata’s earlier product roadmap, although the final launch schedule and specifications remain subject to confirmation. Also Read: Honda Explores Rebadged Tata Cars & Access To Its EV Platforms; Report 2. Tata Avinya Avinya represents a different direction for Tata Motors. Rather than being another electric version of an existing ICE model, it is intended to establish a more premium identity for the company. The first production model is expected to be a large electric SUV, drawing inspiration from the Avinya X concept showcased earlier. It will use a dedicated born-electric architecture, although recent reports indicate that Tata is also working with Chery’s Freelander platform for its premium EV programme. The production vehicle is expected to offer a more sophisticated cabin, advanced technology and faster charging than Tata’s current mainstream EVs. Avinya will also involve a more premium ownership experience, potentially with a separate sales and service approach. Its arrival is expected around 2027, with the first production model likely to be the starting point for a wider premium EV range. 3. Next-generation Tata Nexon The Nexon is due for a more comprehensive overhaul, with the next-generation model expected to arrive in 2027. Test vehicles have already been spotted, revealing a revised design with a more upright stance and changes to the exterior proportions. The cabin is also expected to receive a substantial update, including a redesigned dashboard, larger digital displays and more technology. The new Nexon is expected to move to Tata’s newer modular architecture, which is designed to accommodate different powertrain options. Petrol, diesel and CNG versions are likely to continue, while the electric version should receive its own set of updates. Tata has not revealed the engine specifications or battery details yet, but the next-generation Nexon will be an important launch given how much the current model contributes to the company’s sales. Also Read: Tata Sierra EV Garners 5 Stars In Latest Round Of Bharat NCAP Crash Tests 4. Next-generation Tata Nexon EV The electric Nexon is expected to evolve alongside the ICE model, rather than simply receive another cosmetic update. The next-generation version is likely to bring a redesigned exterior, a more modern cabin and improvements to its electric powertrain. Battery capacity, motor output and range figures have not been announced, but better efficiency and improved real-world range will be important areas for Tata to address. Pic Source: trakinauto The current Nexon EV has helped establish Tata as a major player in India’s electric car market, but competition has become considerably stronger, with newer offerings from Mahindra, MG and other manufacturers. The next model will therefore need to offer more than a styling refresh. Better charging performance, improved software and a more polished ownership experience could be just as important as the headline range figure.",
-    "summary": "GaadiWaadi - From the three-row Safari EV to the premium Avinya range and next-generation Nexon, Tata Motors has several important products lined up Tata Motors is preparing for a busy product cycle, with a mix of new SUVs, electric vehicles and updates to existing models. The company has already expanded its portfolio with the return of the Sierra, but there is plenty more in the pipeline.",
-    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Tata-Nexon-5.jpg",
-    "original_url": "https://gaadiwaadi.com/upcoming-tata-cars-in-india-4-new-models-to-look-forward-in-2027/",
-    "published_at": "2026-11-22T04:00:18+00:00",
-    "time_ago": "5h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, Bengaluru, and Hyderabad—have intensified automated enforcement targeting vehicle modifications and road compliance. According to verified dispatches reported by Gaadiwaadi.com, surveillance grids powered by AI-enabled high-resolution cameras and handheld testing meters are actively issuing instant e-challans to motorists.",
-      "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, and mandatory digital documentation. Central Motor Vehicles Rules (CMVR) Rule 100 mandates a minimum of 70% light transmission for front and rear windshields and 50% for side door glasses. Violations regarding unauthorized sunfilm or dark glazing attract penalties starting at Rs 1,000 for the first offense, with repeat infractions escalating to Rs 2,000 to Rs 5,000 alongside potential driver's license endorsement.",
-      "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police no longer require physical traffic stops; ANPR (Automated Number Plate Recognition) gantries read registration marks and automatically push SMS notifications to the registered mobile number on the Vahan database. If a challan is disputed, motorists have 60 days to either pay online or contest the notice through the Virtual Court portal before the matter gets referred to a regular magistrate court.",
-      "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicle windows to measure light transmission percentages on the spot. Legal precedents established by the Supreme Court of India strictly prohibit any aftermarket film—regardless of whether sellers claim it is '70% transparent' or 'RTO approved'—making aftermarket film application an instant target for legal action.",
-      "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificates digitally verified on official DigiLocker or mParivahan apps, which hold 100% legal validity under Section 9A of the Information Technology Act. If you receive an erroneous e-challan, immediately log onto the official echallan.parivahan.gov.in portal, download the photographic evidence, and submit an online grievance before the 60-day limitation period expires."
-    ],
-    "specs_table": [
-      {
-        "label": "Offense / Violation",
-        "val": "Unauthorized Tint / Sunfilm & VLT Infraction"
-      },
-      {
-        "label": "Governing Section",
-        "val": "Section 177 / 190(2) & Rule 100 CMVR"
-      },
-      {
-        "label": "Fine Amount (First)",
-        "val": "Rs 1,000 + Removal on spot"
-      },
-      {
-        "label": "Fine Amount (Repeat)",
-        "val": "Rs 2,000 to Rs 5,000 + Possible RC suspension"
-      },
-      {
-        "label": "Dispute Portal",
-        "val": "echallan.parivahan.gov.in (Virtual Courts)"
-      }
-    ],
-    "bullet_points": [
-      "GaadiWaadi - From the three-row Safari EV to the premium Avinya range and next-generation Nexon, Tata Motors has several important products lined up Tata Motors is preparing for a busy product cycle, with a mix of new SUVs, electric vehicles and updates to existing models.",
-      "The company has already expanded its portfolio with the return of the Sierra, but there is plenty more in the pipeline.",
-      "Official reporting verified via Gaadiwaadi.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Upcoming Tata Cars In India: 4 New Models To Look Forward In 2027",
-        "badge": "🚨 BREAKING",
-        "text": "Traffic police authorities and Regional Transport Offices (RTOs) across major metropolitan corridors—including Delhi-NCR, Mumbai, ",
-        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/11/2027-Tata-Nexon-5.jpg",
-        "alt": "Upcoming Tata Cars In India: 4 New Models To Look Forward In 2027 cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under the amended Motor Vehicles Act, enforcement covers visual light transmission (VLT) standards, unauthorized number plates, speeding, an",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "What many car owners and daily commuters fail to realize is how digital virtual courts process these automated infractions. Traffic police n",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "In comparison to previous manual checkpoints, modern sensor-equipped police squads are utilizing digital Lux light meters directly on vehicl",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "To protect yourself from hefty fines and vehicle impoundment, motorists are strongly advised to keep their RC, Insurance, and PUC certificat",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 409
-  },
-  {
-    "id": "art_1795341500_4",
-    "slug": "3-upcoming-electric-mpvs-hyundai-neira-to-maruti-ymc",
-    "category": "car-hacks",
-    "category_name": "Car Hacks & Secrets",
-    "category_color": "#8b5cf6",
-    "category_gradient": "linear-gradient(135deg, #8b5cf6, #3b82f6)",
-    "category_icon": "💡",
-    "source": "Cartoq.com",
-    "raw_title": "3 Upcoming Electric MPVs: Hyundai Neira To Maruti YMC",
-    "title": "3 Upcoming Electric MPVs: Hyundai Neira To Maruti YMC",
-    "raw_summary": "The Hyundai Neira, Maruti Suzuki YMC and Toyota's YMC-based electric MPV are three upcoming 7-seater EV MPVs expected to launch in India by 2027–2028.",
-    "summary": "The Hyundai Neira, Maruti Suzuki YMC and Toyota's YMC-based electric MPV are three upcoming 7-seater EV MPVs expected to launch in India by 2027–2028.",
-    "image_url": "https://cdn.cartoq.com/photos/3_upcoming_electric_mpvs_e6a1e55ad6.webp",
-    "original_url": "https://www.cartoq.com/car-news/upcoming-electric-7-seater-mpvs-india/",
-    "published_at": "2026-11-22T03:15:00+00:00",
-    "time_ago": "6h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Indian Passenger Vehicle, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
-      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
-      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
-      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
-      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
-    ],
-    "specs_table": [
-      {
-        "label": "Vehicle Contender",
-        "val": "Indian Passenger Vehicle & Segment Rivals"
-      },
-      {
-        "label": "Powertrain Options",
-        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
-      },
-      {
-        "label": "ARAI Claimed Mileage",
-        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
-      },
-      {
-        "label": "Real-World City Mileage",
-        "val": "11.2 to 14.5 kmpl (Actual city commute)"
-      },
-      {
-        "label": "Real-World Highway Mileage",
-        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
-      }
-    ],
-    "bullet_points": [
-      "3 Upcoming Electric MPVs: Hyundai Neira To Maruti YMC",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "3 Upcoming Electric MPVs: Hyundai Neira To Maruti YMC",
-        "badge": "🚨 BREAKING",
-        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
-        "image": "https://cdn.cartoq.com/photos/3_upcoming_electric_mpvs_e6a1e55ad6.webp",
-        "alt": "3 Upcoming Electric MPVs: Hyundai Neira To Maruti YMC cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 299
-  },
-  {
-    "id": "art_1795341500_9",
-    "slug": "upcoming-hyundai-neira-first-time-on-video",
-    "category": "safety-crashes",
-    "category_name": "Crash Safety & Build Quality",
-    "category_color": "#f59e0b",
-    "category_gradient": "linear-gradient(135deg, #f59e0b, #ef4444)",
-    "category_icon": "🛡️",
-    "source": "Cartoq.com",
-    "raw_title": "Upcoming Hyundai Neira: First Time On Video",
-    "title": "Upcoming Hyundai Neira: First Time On Video",
-    "raw_summary": "A detailed walkaround of the Hyundai Neira electric MPV reveals its 51.4 kWh battery, 490 km claimed range, panoramic sunroof and seven-seater cabin. India launch expected in 2027.",
-    "summary": "A detailed walkaround of the Hyundai Neira electric MPV reveals its 51.4 kWh battery, 490 km claimed range, panoramic sunroof and seven-seater cabin. India launch expected in 2027.",
-    "image_url": "https://cdn.cartoq.com/photos/hyundai_neira_video_walkaround_3621b20b62.webp",
-    "original_url": "https://www.cartoq.com/car-news/hyundai-neira-electric-mpv-walkaround-features-range/",
-    "published_at": "2026-11-22T02:45:00+00:00",
-    "time_ago": "7h ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for market dominance. Dispatches and field testing reports from Cartoq.com highlight pivotal updates regarding Indian Passenger Vehicle, bringing crucial technical, pricing, and real-world ownership data to prospective buyers.",
-      "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. While factory lab tests routinely claim 17 to 20 kmpl, bumper-to-bumper city traffic with active air conditioning typically yields between 10.5 and 13.2 kmpl for turbo-petrol powertrains, and 14.5 to 16.8 kmpl for refined diesel iterations. Highway cruising at steady speeds of 90 kmph allows these engines to settle into their peak thermal efficiency band.",
-      "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear-seat legroom, under-thigh seat cushion support for long family road trips, suspension dampening over sharp potholed roads, and actual boot space with a full-size spare wheel determine long-term owner satisfaction far more than high-tech dashboard gadgetry.",
-      "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—each platform offers distinct mechanical trade-offs. Ladder-frame SUVs deliver bulletproof rough-road durability at the expense of city ride suppleness, whereas monocoque crossovers excel in agile highway manners and effortless urban parking maneuverability.",
-      "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilometers with extensive highway travel, modern BS6.2-compliant diesels and strong hybrid powertrains offer unbeatable operating economics. For city commutes under 30 kilometers daily, a refined turbo-petrol or pure electric derivative delivers the smoothest driving experience."
-    ],
-    "specs_table": [
-      {
-        "label": "Vehicle Contender",
-        "val": "Indian Passenger Vehicle & Segment Rivals"
-      },
-      {
-        "label": "Powertrain Options",
-        "val": "Turbo-Petrol / mHawk Diesel / Strong Hybrid"
-      },
-      {
-        "label": "ARAI Claimed Mileage",
-        "val": "17.4 to 21.2 kmpl (Lab test conditions)"
-      },
-      {
-        "label": "Real-World City Mileage",
-        "val": "11.2 to 14.5 kmpl (Actual city commute)"
-      },
-      {
-        "label": "Real-World Highway Mileage",
-        "val": "16.0 to 19.5 kmpl (Cruise speed 90 kmph)"
-      }
-    ],
-    "bullet_points": [
-      "A detailed walkaround of the Hyundai Neira electric MPV reveals its 51.4 kWh battery, 490 km claimed range, panoramic sunroof and seven-seater cabin.",
-      "India launch expected in 2027.",
-      "Official reporting verified via Cartoq.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Upcoming Hyundai Neira: First Time On Video",
-        "badge": "🚨 BREAKING",
-        "text": "The Indian automotive landscape continues its fierce rivalry in the compact and mid-size SUV segments as manufacturers battle for ",
-        "image": "https://cdn.cartoq.com/photos/hyundai_neira_video_walkaround_3621b20b62.webp",
-        "alt": "Upcoming Hyundai Neira: First Time On Video cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under real-world Indian driving conditions, certified ARAI fuel economy claims often diverge significantly from day-to-day driving numbers. ",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "Beyond raw horsepower and torque metrics, daily usability reveals subtle compromises that glossy dealership brochures rarely highlight. Rear",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "When evaluated against primary segment contenders—including the Tata Nexon, Mahindra Thar Roxx, Scorpio-N, Hyundai Creta, and Maruti Brezza—",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "Our definitive buyer guidance: identify your primary driving pattern before signing a booking form. If your monthly usage exceeds 1,500 kilo",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 303
-  },
-  {
-    "id": "art_1795315172_4",
-    "slug": "jsw-motors-to-launch-j5-and-v23-electric-suvs-next-year",
-    "category": "suvs-comparisons",
-    "category_name": "SUV Wars & Real Mileage",
-    "category_color": "#ea580c",
-    "category_gradient": "linear-gradient(135deg, #ea580c, #f59e0b)",
-    "category_icon": "🚙",
-    "source": "Gaadiwaadi.com",
-    "raw_title": "JSW Motors To Launch J5 And V23 Electric SUVs Next Year",
-    "title": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside & Out",
-    "raw_summary": "GaadiWaadi - Both new electric SUVs will likely be imported in CKD kits from China, with final assembly taking place in Chhatrapati Sambhajinagar, Maharashtra JSW Motors’ first model, the Combat, will be a plug-in hybrid SUV challenging the likes of the Toyota Fortuner, MG Majestor, Skoda Kodiaq, VW Tayron, and Kia Sorento. However, following that plug-in hybrid model, the company plans to bring two fully electric SUVs to its showrooms, both in 2027. JSW Motors plans to launch its first electric car in early 2027, and that will be a rebadged version of Chery Group brand Jaecoo’s J5 EV, also marketed as 5 EV and E5 in some markets. The company plans to launch it with a different name and minor design revisions, which we expect on the grille, bumpers, and wheels. The Jaecoo J5 EV will compete with models like the VinFast VF 6, Maruti e Vitara/Toyota Urban Cruiser Ebella, Tata Sierra.ev, Hyundai Creta Electric, Mahindra BE 6, and Honda Alpha. It measures 4,380 mm in length, 1,860 mm in width, and 1,650 mm in height and has a 2,620-mm wheelbase. It has a front-mounted permanent magnet synchronous motor that develops 155 kW (208 hp) and 288 Nm of torque. Also Read: JSW Motors Set To Enter India With Combat SUV Pic Source: Powerdrft Depending on the market, Jaecoo uses a 50.6 kWh, 58.9 kWh, or 60.93 kWh CATL-made LFP battery pack, which gives the J5 EV an NEDC range of 405 kilometres, 461 kilometres, or 480 kilometres. Which configuration JSW Motors has planned for its rebadged version remains to be seen. We expect JSW Motors to equip its rebadged Jaecoo J5 EV with features such as 18-inch alloy wheels, a powered tailgate, a panoramic fixed glass roof, a 13.2-inch touchscreen infotainment system, ventilated front seats, an 8-inch digital instrument cluster, a 50-watt wireless smartphone charger, and a host of advanced driver assistance systems. The company plans to launch this model in the Rs. 15-20 lakh (ex-showroom) range. Also Read: Volkswagen Plans Two New Electric Cars For India With JSW Partnership The second electric car will be a rebadged version of Chery Group brand iCar’s V23, a retro-style boxy SUV that measures 4,220 mm in length, 1,915 mm in width, and 1,845 mm in height and has a 2,735-mm wheelbase. It will likely also carry a different name and have minor design changes. We expect it to be slightly pricier than the rebadged Jaecoo J5 EV. iCar, also known as iCaur in some markets, offers the V23 in a host of power-electric configurations, with power ranging from 100 kW (134 hp) to 335 kW (449 hp) and torque ranging from 180 Nm to 490 Nm. Depending on the configuration, the drivetrain layout is either RWD or AWD. Similarly, the battery pack can be a 59.53 kWh LFP unit from Gotion High-tech or a CATL-made 59.93 kWh LFP, 80.16 kWh LFP, or 81.76 kWh NMC unit. The NEDC range of the CATL-made battery packs offered in overseas markets ranges from 360 to 430 kilometres. JSW Motors may launch the rebadged iCar V23 in both RWD and AWD configurations. We expect it to offer features like 21-inch alloy wheels, a side-hinged tailgate with a squarish storage box, a 15.4-inch touchscreen infotainment system, ventilated front seats, and an array of advanced driver assistance systems.",
-    "summary": "GaadiWaadi - Both new electric SUVs will likely be imported in CKD kits from China, with final assembly taking place in Chhatrapati Sambhajinagar, Maharashtra JSW Motors’ first model, the Combat, will be a plug-in hybrid SUV challenging the likes of the Toyota Fortuner, MG Majestor, Skoda Kodiaq, VW Tayron, and Kia Sorento. However, following that plug-in hybrid model, the company plans to bring two fully electric SUVs to its showrooms, both in 2027.",
-    "image_url": "https://gaadiwaadi.com/wp-content/uploads/2026/02/chery-icar-v23-india-mg.-1.jpg",
-    "original_url": "https://gaadiwaadi.com/jsw-motors-to-launch-j5-and-v23-electric-suvs-next-year/",
-    "published_at": "2026-11-22T02:30:16+00:00",
-    "time_ago": "9m ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling winter fog. As highlighted in recent automotive maintenance findings published via Gaadiwaadi.com, simple preventative maintenance hacks can save car owners thousands of rupees in avoidable dealership detailing and workshop service bills.",
-      "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the cabin hits cold windshield glass, water vapor instantly condenses into a blinding layer of fog. Most drivers make the critical mistake of turning on the heater with air recirculation enabled, which merely traps humid cabin air and worsens visibility within seconds.",
-      "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and switch the air intake selector from 'Recirculation' to 'Fresh Air' mode while pointing the airflow louvers toward the windshield defogger vents. The air conditioning compressor acts as a powerful dehumidifier, stripping moisture from incoming ambient air and clearing the glass almost immediately.",
-      "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet shoes tracking mud and water into the footwell inevitably saturate the factory floor carpet, leading to foul mildew smells, mold growth, and underbody floorboard corrosion. The porous newspaper pulp absorbs standing moisture before it seeps into the acoustic insulation foam.",
-      "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector moisture faults, and maintain factory-fresh interior air quality without spending Rs 2,500 to Rs 5,000 on unnecessary dealership AC foam treatments or interior dry-cleaning packages."
-    ],
-    "specs_table": [
-      {
-        "label": "Maintenance Focus",
-        "val": "Windshield Defogging & Cabin Moisture Prevention"
-      },
-      {
-        "label": "The 10-Second Fix",
-        "val": "AC ON + Fresh Air Mode + Windshield Vents"
-      },
-      {
-        "label": "Common Mistake",
-        "val": "Recirculation Mode ON with high heater"
-      },
-      {
-        "label": "DIY Cost",
-        "val": "Rs 0 (Newspaper / AC setting adjustment)"
-      },
-      {
-        "label": "Dealership Upsell Saved",
-        "val": "Rs 2,500 to Rs 4,500 (AC Disinfection)"
-      }
-    ],
-    "bullet_points": [
-      "GaadiWaadi - Both new electric SUVs will likely be imported in CKD kits from China, with final assembly taking place in Chhatrapati Sambhajinagar, Maharashtra JSW Motors’ first model, the Combat, will be a plug-in hybrid SUV challenging the likes of the Toyota Fortuner, MG Majestor, Skoda Kodiaq, VW Tayron, and Kia Sorento.",
-      "However, following that plug-in hybrid model, the company plans to bring two fully electric SUVs to its showrooms, both in 2027.",
-      "Official reporting verified via Gaadiwaadi.com automotive desk.",
-      "Actionable driver advisory and ownership benchmarks outlined below."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades ",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle ownership in India comes with unique weather extremes—from heavy monsoon moisture and intense summer heat to bone-chilling",
-        "image": "https://gaadiwaadi.com/wp-content/uploads/2026/02/chery-icar-v23-india-mg.-1.jpg",
-        "alt": "First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside & Out cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Take the widespread problem of foggy windshields during humid monsoon drives and winter mornings. When warm, moisture-laden air inside the c",
-        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "The proven 10-second fix is straightforward: turn on your vehicle's air conditioner (AC), adjust temperature to neutral or mild warm, and sw",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "Similarly, keeping dry newspaper sheets beneath your car's rubber or 7D floor mats during damp weather acts as an organic desiccant. Wet sho",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "By executing these simple, practical DIY techniques, motorists can prolong the life of their cabin air filters, prevent electrical connector",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 353
-  },
-  {
-    "id": "art_1795315172_1",
-    "slug": "karnataka-plans-new-bike-taxi-rules-after-supreme-court-verdict-d",
-    "category": "rules-challan",
-    "category_name": "Challan & RTO Alerts",
-    "category_color": "#dc2626",
-    "category_gradient": "linear-gradient(135deg, #dc2626, #f97316)",
-    "category_icon": "🚨",
-    "source": "Cartoq.com",
-    "raw_title": "Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details",
-    "title": "Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details",
-    "raw_summary": "Karnataka government plans new rules for bike taxis covering rider documents,GPS,insurance and safety after Supreme Court upheld High Court's decision allowing operations.",
-    "summary": "Karnataka government plans new rules for bike taxis covering rider documents,GPS,insurance and safety after Supreme Court upheld High Court's decision allowing operations.",
-    "image_url": "https://cdn.cartoq.com/photos/new_rules_coming_for_karnataka_bike_taxi_187905a7de.webp",
-    "original_url": "https://www.cartoq.com/bike-news/karnataka-bike-taxi-regulation-supreme-court/",
-    "published_at": "2026-11-22T02:15:00+00:00",
-    "time_ago": "24m ago",
-    "reading_time": "3 min read",
-    "article_paragraphs": [
-      "Vehicle safety consciousness among Indian automobile buyers has reached unprecedented heights, driven by transparent crash test evaluations under the Bharat New Car Assessment Programme (Bharat NCAP). Verified technical telemetry reported by Cartoq.com provides a detailed examination of structural crashworthiness and passenger protection ratings for Indian Passenger Vehicle.",
-      "Under Bharat NCAP protocols, vehicles undergo rigorous offset frontal crash tests at 64 kmph, side mobile deformable barrier impacts at 50 kmph, and stringent pole side-impact evaluations. To secure a coveted 5-star safety rating, a vehicle must achieve high numerical scores in Adult Occupant Protection (AOP) and Child Occupant Protection (COP), while critically demonstrating that the passenger bodyshell remains 'Stable and capable of withstanding further loadings'.",
-      "What separates truly crash-resilient vehicles from mere marketing claims is the extensive deployment of advanced high-strength steel (AHSS) and ultra-high-strength hot-stamped steel along the A-pillars, B-pillars, and door sills. Standard fitment of 6 airbags, Electronic Stability Control (ESC), ISOFIX child seat anchorages, and 3-point seatbelts with pre-tensioners across all seating positions has now become the fundamental benchmark for modern Indian buyers.",
-      "In real-world highway collisions, vehicles with unstable cabin architectures risk severe footwell intrusion, steering column collapse, and door jamming that traps occupants inside. Indian carmakers like Tata Motors and Mahindra & Mahindra have raised the bar by engineering 5-star crash resilience into their entry and mid-size platforms, compelling global competitors to rapidly upgrade their structural standards.",
-      "Our consumer verdict: never compromise on core structural integrity for cosmetic add-ons like ambient lighting or fancy touchscreens. Prioritize vehicles with certified 5-star Bharat NCAP or Global NCAP ratings, verified stable bodyshell integrity, and standard Electronic Stability Program (ESP) to ensure maximum survivability on unpredictable Indian roads."
-    ],
-    "specs_table": [
-      {
-        "label": "Testing Authority",
-        "val": "Bharat NCAP / Global NCAP Standards"
-      },
-      {
-        "label": "Target Benchmark",
-        "val": "5-Star Adult & Child Occupant Protection"
-      },
-      {
-        "label": "Bodyshell Integrity",
-        "val": "Must be rated 'Stable' under 64 kmph impact"
-      },
-      {
-        "label": "Essential Standard Tech",
-        "val": "6 Airbags, ESC, ISOFIX, Hill-Hold Assist"
-      },
-      {
-        "label": "Real-World Recommendation",
-        "val": "Prioritize crash structure over cosmetic features"
-      }
-    ],
-    "bullet_points": [
-      "Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details",
-      "Key ground developments tracked across Indian automotive networks.",
-      "Primary dispatches and data confirmed by Cartoq.com.",
-      "Consumer advisory and regulatory implications active."
-    ],
-    "slides": [
-      {
-        "slide_number": 1,
-        "heading": "Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: ",
-        "badge": "🚨 BREAKING",
-        "text": "Vehicle safety consciousness among Indian automobile buyers has reached unprecedented heights, driven by transparent crash test ev",
-        "image": "https://cdn.cartoq.com/photos/new_rules_coming_for_karnataka_bike_taxi_187905a7de.webp",
-        "alt": "Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details cover slide"
-      },
-      {
-        "slide_number": 2,
-        "heading": "The Core Reality",
-        "badge": "⚡ GROUND REPORT",
-        "text": "Under Bharat NCAP protocols, vehicles undergo rigorous offset frontal crash tests at 64 kmph, side mobile deformable barrier impacts at 50 k",
-        "image": "https://images.unsplash.com/photo-1508974239320-0a029497e820?w=1080&h=1920&fit=crop",
-        "alt": "Core development visual"
-      },
-      {
-        "slide_number": 3,
-        "heading": "Numbers & Benchmarks",
-        "badge": "📊 REAL STATS",
-        "text": "What separates truly crash-resilient vehicles from mere marketing claims is the extensive deployment of advanced high-strength steel (AHSS) ",
-        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1080&h=1920&fit=crop",
-        "alt": "Key facts visual"
-      },
-      {
-        "slide_number": 4,
-        "heading": "What Dealerships Hide",
-        "badge": "💡 INSIDER TRUTH",
-        "text": "In real-world highway collisions, vehicles with unstable cabin architectures risk severe footwell intrusion, steering column collapse, and d",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1080&h=1920&fit=crop",
-        "alt": "Insider truth visual"
-      },
-      {
-        "slide_number": 5,
-        "heading": "Segment Showdown",
-        "badge": "🚙 RIVAL MATRIX",
-        "text": "Comparing primary competitors in India: how this matches up against segment kings.",
-        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1080&h=1920&fit=crop",
-        "alt": "Comparison visual"
-      },
-      {
-        "slide_number": 6,
-        "heading": "Buyer / Driver Verdict",
-        "badge": "🎯 EXPERT ADVICE",
-        "text": "Our consumer verdict: never compromise on core structural integrity for cosmetic add-ons like ambient lighting or fancy touchscreens. Priori",
-        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1080&h=1920&fit=crop",
-        "alt": "Verdict visual"
-      }
-    ],
-    "ai_generated": false,
-    "word_count": 299
   }
 ]
