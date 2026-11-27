@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://newsseconds.com/news/hondas-next-gen-hybrid-system-coming-to-indian-suvs-tech-explaine/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T01:45:00+00:00</news:publication_date>
+      <news:title>Honda&#x27;s Next-Gen Hybrid System Coming To Indian SUVs: Tech Explained [Video]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_new_generation_hybrid_explained_d594e00e20.webp</image:loc>
+      <image:title>Honda&#x27;s Next-Gen Hybrid System Coming To Indian SUVs: Tech Explained [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-jaecoo-j5-hybrid-suv-spotted-undisguised-ahead-of-india-launc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>News Seconds</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T01:15:00+00:00</news:publication_date>
+      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_jaecoo_j5_spied_d2ce0a67f8.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/spinny-partners-with-kia-india-what-this-means-for-buyers/</loc>
     <news:news>
       <news:publication>
@@ -1110,36 +1140,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/5_upcoming_adv_motorcycles_0d9d004daa.webp</image:loc>
       <image:title>5 Upcoming New Adventure Bikes: Royal Enfield Himalayan 750 To Norton Atlas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-motors-unveils-logo-ahead-of-combat-phev-launch-on-december-3/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T01:39:55+00:00</news:publication_date>
-      <news:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_motors_brand_logo_reveal_featured_94e826c6dc.webp</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/6-new-suvs-from-renault-and-nissan-renault-bridger-to-nissan-patr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>News Seconds</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T01:15:00+00:00</news:publication_date>
-      <news:title>6 New SUVs From Renault And Nissan: Renault Bridger To Nissan Patrol</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/6_upcoming_renault_nissan_1_8433feaec5.webp</image:loc>
-      <image:title>6 New SUVs From Renault And Nissan: Renault Bridger To Nissan Patrol</image:title>
     </image:image>
   </url>
 </urlset>

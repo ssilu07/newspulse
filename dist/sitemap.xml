@@ -3,39 +3,79 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-26T22:37:47Z</lastmod>
+    <lastmod>2026-11-27T01:49:46Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-26T22:37:47Z</lastmod>
+    <lastmod>2026-11-27T01:49:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-26T22:37:47Z</lastmod>
+    <lastmod>2026-11-27T01:49:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-26T22:37:47Z</lastmod>
+    <lastmod>2026-11-27T01:49:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-26T22:37:47Z</lastmod>
+    <lastmod>2026-11-27T01:49:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-26T22:37:47Z</lastmod>
+    <lastmod>2026-11-27T01:49:46Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hondas-next-gen-hybrid-system-coming-to-indian-suvs-tech-explaine/</loc>
+    <lastmod>2026-11-27T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_new_generation_hybrid_explained_d594e00e20.webp</image:loc>
+      <image:title>Honda&#x27;s Next-Gen Hybrid System Coming To Indian SUVs: Tech Explained [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hondas-next-gen-hybrid-system-coming-to-indian-suvs-tech-explaine/</loc>
+    <lastmod>2026-11-27T01:45:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_new_generation_hybrid_explained_d594e00e20.webp</image:loc>
+      <image:title>Honda&#x27;s Next-Gen Hybrid System Coming To Indian SUVs: Tech Explained [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-jaecoo-j5-hybrid-suv-spotted-undisguised-ahead-of-india-launc/</loc>
+    <lastmod>2026-11-27T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_jaecoo_j5_spied_d2ce0a67f8.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-jaecoo-j5-hybrid-suv-spotted-undisguised-ahead-of-india-launc/</loc>
+    <lastmod>2026-11-27T01:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/jsw_jaecoo_j5_spied_d2ce0a67f8.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/spinny-partners-with-kia-india-what-this-means-for-buyers/</loc>
@@ -2995,46 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/new_rules_coming_for_karnataka_bike_taxi_187905a7de.webp</image:loc>
       <image:title>Karnataka Plans New Bike Taxi Rules After Supreme Court Verdict: Details</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/cng-is-costlier-or-almost-equal-to-petrol-price-in-hyderabad-ahme/</loc>
-    <lastmod>2026-11-22T01:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/cng_price_petrol_price_indian_cities_99b0cc0786.webp</image:loc>
-      <image:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/cng-is-costlier-or-almost-equal-to-petrol-price-in-hyderabad-ahme/</loc>
-    <lastmod>2026-11-22T01:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/cng_price_petrol_price_indian_cities_99b0cc0786.webp</image:loc>
-      <image:title>Real-World Mileage Shocker: Popular Cars ARAI Claimed Numbers vs True City Fuel Economy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-maruti-suzuki-suvs-launching-soon-in-india-y43-to-grand-vitara-/</loc>
-    <lastmod>2026-11-22T01:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_0128ad8c77.webp</image:loc>
-      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/4-maruti-suzuki-suvs-launching-soon-in-india-y43-to-grand-vitara-/</loc>
-    <lastmod>2026-11-22T01:15:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_0128ad8c77.webp</image:loc>
-      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
 </urlset>
