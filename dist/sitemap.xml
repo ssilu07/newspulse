@@ -3,39 +3,279 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-27T04:33:38Z</lastmod>
+    <lastmod>2026-11-27T11:03:30Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-27T04:33:38Z</lastmod>
+    <lastmod>2026-11-27T11:03:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-27T04:33:38Z</lastmod>
+    <lastmod>2026-11-27T11:03:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-27T04:33:38Z</lastmod>
+    <lastmod>2026-11-27T11:03:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-27T04:33:38Z</lastmod>
+    <lastmod>2026-11-27T11:03:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-27T04:33:38Z</lastmod>
+    <lastmod>2026-11-27T11:03:30Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-gen-mini-cooper-se-launched-in-india-at-rs-539-lakh/</loc>
+    <lastmod>2026-11-27T10:42:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mini-Cooper-SE-Electric-3.jpg</image:loc>
+      <image:title>New Gen Mini Cooper SE Launched In India At Rs. 53.9 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-gen-mini-cooper-se-launched-in-india-at-rs-539-lakh/</loc>
+    <lastmod>2026-11-27T10:42:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mini-Cooper-SE-Electric-3.jpg</image:loc>
+      <image:title>New Gen Mini Cooper SE Launched In India At Rs. 53.9 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/karnataka-govt-finds-evidence-of-excess-ethanol-being-dispensed-a/</loc>
+    <lastmod>2026-11-27T10:23:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/karnataka_govt_issues_IOC_showcase_notice_excess_ethanol_dispensed_featured_c1e8cb86d9.webp</image:loc>
+      <image:title>Karnataka Govt Finds Evidence Of Excess Ethanol Being Dispensed At Blending Terminal: Issues Showcause Notice To IOC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/karnataka-govt-finds-evidence-of-excess-ethanol-being-dispensed-a/</loc>
+    <lastmod>2026-11-27T10:23:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/karnataka_govt_issues_IOC_showcase_notice_excess_ethanol_dispensed_featured_c1e8cb86d9.webp</image:loc>
+      <image:title>Karnataka Govt Finds Evidence Of Excess Ethanol Being Dispensed At Blending Terminal: Issues Showcause Notice To IOC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/festive-2026-tractor-sales-cross-1-lakh-units-as-mahindra-dominat/</loc>
+    <lastmod>2026-11-27T10:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-tractors.jpg</image:loc>
+      <image:title>Festive 2026: Tractor Sales Cross 1 Lakh Units As Mahindra Dominates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/festive-2026-tractor-sales-cross-1-lakh-units-as-mahindra-dominat/</loc>
+    <lastmod>2026-11-27T10:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-tractors.jpg</image:loc>
+      <image:title>Festive 2026: Tractor Sales Cross 1 Lakh Units As Mahindra Dominates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/indian-govts-stupid-new-rule-is-making-highway-travel-risky/</loc>
+    <lastmod>2026-11-27T09:52:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/govt_rule_making_highway_travel_risky_dcd92cb999.webp</image:loc>
+      <image:title>Indian Govt&#x27;s Stupid New Rule Is Making Highway Travel Risky</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/indian-govts-stupid-new-rule-is-making-highway-travel-risky/</loc>
+    <lastmod>2026-11-27T09:52:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/govt_rule_making_highway_travel_risky_dcd92cb999.webp</image:loc>
+      <image:title>Indian Govt&#x27;s Stupid New Rule Is Making Highway Travel Risky</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/how-hyundai-plans-to-steal-tatas-electric-car-market-share/</loc>
+    <lastmod>2026-11-27T07:48:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/how_hyundai_plans_to_steal_tata_ev_mmarket_share_16add49d5e.webp</image:loc>
+      <image:title>The Truth Revealed: How Hyundai Plans To Steal Tata&#x27;s Electric Car Market Share</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/how-hyundai-plans-to-steal-tatas-electric-car-market-share/</loc>
+    <lastmod>2026-11-27T07:48:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/how_hyundai_plans_to_steal_tata_ev_mmarket_share_16add49d5e.webp</image:loc>
+      <image:title>The Truth Revealed: How Hyundai Plans To Steal Tata&#x27;s Electric Car Market Share</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/3-big-january-2027-launches-from-tata-mahindra-and-hyundai/</loc>
+    <lastmod>2026-11-27T07:12:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/upcoming_jan_launches_d980128b0c.webp</image:loc>
+      <image:title>3 Big January 2027 Launches From Tata, Mahindra And Hyundai</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/3-big-january-2027-launches-from-tata-mahindra-and-hyundai/</loc>
+    <lastmod>2026-11-27T07:12:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/upcoming_jan_launches_d980128b0c.webp</image:loc>
+      <image:title>3 Big January 2027 Launches From Tata, Mahindra And Hyundai</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-vs-kia-sorento-who-should-buy-what/</loc>
+    <lastmod>2026-11-27T07:08:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/Toyota_Innova_Hy_Cross_Hybrid_Facelift_vs_Kia_Sorento_Hybrid_Featured_63bd38ccb3.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-innova-hycross-facelift-vs-kia-sorento-who-should-buy-what/</loc>
+    <lastmod>2026-11-27T07:08:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/Toyota_Innova_Hy_Cross_Hybrid_Facelift_vs_Kia_Sorento_Hybrid_Featured_63bd38ccb3.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/2026-festive-sales-car-volumes-decline-716-to-748-lakh-units/</loc>
+    <lastmod>2026-11-27T07:00:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/MAHINDRA-THAR-OG-2.jpg</image:loc>
+      <image:title>2026 Festive Sales: Car Volumes Decline 7.16% To 7.48 Lakh Units</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/2026-festive-sales-car-volumes-decline-716-to-748-lakh-units/</loc>
+    <lastmod>2026-11-27T07:00:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/10/MAHINDRA-THAR-OG-2.jpg</image:loc>
+      <image:title>2026 Festive Sales: Car Volumes Decline 7.16% To 7.48 Lakh Units</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-vs-mg-hector-tomahawk-phev-who-sho/</loc>
+    <lastmod>2026-11-27T06:18:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/MG_Hector_Tomahawk_PHEV_vs_Toyota_Innova_Hybrid_Flex_Fuel_Facelift_Featured_c631ee71d9.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-innova-hycross-facelift-vs-mg-hector-tomahawk-phev-who-sho/</loc>
+    <lastmod>2026-11-27T06:18:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/MG_Hector_Tomahawk_PHEV_vs_Toyota_Innova_Hybrid_Flex_Fuel_Facelift_Featured_c631ee71d9.webp</image:loc>
+      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/tata-punch-ev-has-done-what-no-other-electric-car-has-5000-cars-s/</loc>
+    <lastmod>2026-11-27T06:11:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/tata_punch_ev_makes_history_5_000_monthly_dispatches_featured_eadecc2b6b.webp</image:loc>
+      <image:title>Tata Punch EV Has Done What No Other Electric Car Has: 5,000 Cars Sold In A Single Month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/tata-punch-ev-has-done-what-no-other-electric-car-has-5000-cars-s/</loc>
+    <lastmod>2026-11-27T06:11:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/tata_punch_ev_makes_history_5_000_monthly_dispatches_featured_eadecc2b6b.webp</image:loc>
+      <image:title>Tata Punch EV Has Done What No Other Electric Car Has: 5,000 Cars Sold In A Single Month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/jsw-motors-inches-closer-to-solo-debut-with-combat-phev-key-detai/</loc>
+    <lastmod>2026-11-27T05:30:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/Jetour-T2-3.jpg</image:loc>
+      <image:title>JSW Motors Inches Closer To Solo Debut With Combat PHEV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/jsw-motors-inches-closer-to-solo-debut-with-combat-phev-key-detai/</loc>
+    <lastmod>2026-11-27T05:30:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/Jetour-T2-3.jpg</image:loc>
+      <image:title>JSW Motors Inches Closer To Solo Debut With Combat PHEV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/xuv-3xo-cng-myths-busted-who-says-saving-fuel-means-sacrificing-y/</loc>
+    <lastmod>2026-11-27T04:37:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3xo_cng_featured_8d12a632be.webp</image:loc>
+      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Xuv - Variant-Wise Offers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/xuv-3xo-cng-myths-busted-who-says-saving-fuel-means-sacrificing-y/</loc>
+    <lastmod>2026-11-27T04:37:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/3xo_cng_featured_8d12a632be.webp</image:loc>
+      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Xuv - Variant-Wise Offers</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/hyundai-ioniq-p-electric-suv-launching-on-january-16th-to-challen/</loc>
@@ -2795,246 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/pm_advisor_about_power_companies_and_ev_b6d01aa05f.webp</image:loc>
       <image:title>PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/4-new-maruti-suvs-fronx-facelift-to-y43/</loc>
-    <lastmod>2026-11-22T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_eb72ceb848.webp</image:loc>
-      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/4-new-maruti-suvs-fronx-facelift-to-y43/</loc>
-    <lastmod>2026-11-22T14:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/4_upcoming_maruti_suvs_eb72ceb848.webp</image:loc>
-      <image:title>First Clear Look: Maruti Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/suzuki-access-new-colours-royal-bronze-and-mat-bordeaux-red-in-me/</loc>
-    <lastmod>2026-11-22T13:11:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Metallic-Mat-Bordeaux-Red-colour-Suzuki-Access.jpeg</image:loc>
-      <image:title>Suzuki Access new colours -  Royal Bronze, and Mat Bordeaux Red in Metallic</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/suzuki-access-new-colours-royal-bronze-and-mat-bordeaux-red-in-me/</loc>
-    <lastmod>2026-11-22T13:11:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/Metallic-Mat-Bordeaux-Red-colour-Suzuki-Access.jpeg</image:loc>
-      <image:title>Suzuki Access new colours -  Royal Bronze, and Mat Bordeaux Red in Metallic</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/17500-vehicles-seized-in-delhi-to-prevent-air-pollution/</loc>
-    <lastmod>2026-11-22T13:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/1750_vehicles_seized_in_delhi_pollution_afd0ca4b77.webp</image:loc>
-      <image:title>17500+ Vehicles Seized In Delhi To Prevent Air Pollution</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/17500-vehicles-seized-in-delhi-to-prevent-air-pollution/</loc>
-    <lastmod>2026-11-22T13:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/1750_vehicles_seized_in_delhi_pollution_afd0ca4b77.webp</image:loc>
-      <image:title>17500+ Vehicles Seized In Delhi To Prevent Air Pollution</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/3-new-toyota-suvs-launching-next-year-new-generation-fortuner-to-/</loc>
-    <lastmod>2026-11-22T12:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_toypta_suvs_ab1807a13c.webp</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/3-new-toyota-suvs-launching-next-year-new-generation-fortuner-to-/</loc>
-    <lastmod>2026-11-22T12:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_toypta_suvs_ab1807a13c.webp</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/gujarat-govt-no-more-caste-names-or-symbols-on-vehicles/</loc>
-    <lastmod>2026-11-22T11:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/gujarat_caste_names_symbols_ban_on_vehicles_02bea64fee.webp</image:loc>
-      <image:title>Gujarat Govt: No More Caste Names Or Symbols On Vehicles!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/gujarat-govt-no-more-caste-names-or-symbols-on-vehicles/</loc>
-    <lastmod>2026-11-22T11:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/gujarat_caste_names_symbols_ban_on_vehicles_02bea64fee.webp</image:loc>
-      <image:title>Gujarat Govt: No More Caste Names Or Symbols On Vehicles!</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hyundais-two-upcoming-7-seater-cars-for-india-explained/</loc>
-    <lastmod>2026-11-22T10:00:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Hyundai-Neira.jpg</image:loc>
-      <image:title>Hyundai&#x27;s Two Upcoming 7-Seater Cars For India Explained</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hyundais-two-upcoming-7-seater-cars-for-india-explained/</loc>
-    <lastmod>2026-11-22T10:00:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Hyundai-Neira.jpg</image:loc>
-      <image:title>Hyundai&#x27;s Two Upcoming 7-Seater Cars For India Explained</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/byd-ti7-suv-banned-across-europe-for-copying-land-rover-defender/</loc>
-    <lastmod>2026-11-22T09:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/byd_ti7_banned_in_europe_72f4020a3f.webp</image:loc>
-      <image:title>BYD Ti7 SUV Banned Across Europe For Copying Land Rover Defender</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/byd-ti7-suv-banned-across-europe-for-copying-land-rover-defender/</loc>
-    <lastmod>2026-11-22T09:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/byd_ti7_banned_in_europe_72f4020a3f.webp</image:loc>
-      <image:title>BYD Ti7 SUV Banned Across Europe For Copying Land Rover Defender</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/bajaj-pulsar-125-neon-makes-a-comeback-spotted-at-dealership/</loc>
-    <lastmod>2026-11-22T07:45:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Bajaj-Pulsar-125-Neon.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/bajaj-pulsar-125-neon-makes-a-comeback-spotted-at-dealership/</loc>
-    <lastmod>2026-11-22T07:45:08+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Bajaj-Pulsar-125-Neon.jpg</image:loc>
-      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-combat-early-buyer-programme-announced/</loc>
-    <lastmod>2026-11-22T07:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_early_buyer_program_announced_dae0793caa.webp</image:loc>
-      <image:title>Inside Look: JSW Combat: Early-Buyer Programme Announced! - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jsw-combat-early-buyer-programme-announced/</loc>
-    <lastmod>2026-11-22T07:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_early_buyer_program_announced_dae0793caa.webp</image:loc>
-      <image:title>Inside Look: JSW Combat: Early-Buyer Programme Announced! - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/royal-enfield-plans-affordable-250-cc-motorcycles-targeting-first/</loc>
-    <lastmod>2026-11-22T07:00:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/2026-Hunter-350-3.jpg</image:loc>
-      <image:title>Royal Enfield Plans Affordable 250 cc Motorcycles, Targeting First-Time Buyers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/royal-enfield-plans-affordable-250-cc-motorcycles-targeting-first/</loc>
-    <lastmod>2026-11-22T07:00:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/04/2026-Hunter-350-3.jpg</image:loc>
-      <image:title>Royal Enfield Plans Affordable 250 cc Motorcycles, Targeting First-Time Buyers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/mg-windsor-facelift-to-offer-higher-range-and-new-features-in-202/</loc>
-    <lastmod>2026-11-22T05:30:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/10/MG-Windsor-Inspire-Edition-1.jpg</image:loc>
-      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Top SUVs - Variant-Wise Offers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/mg-windsor-facelift-to-offer-higher-range-and-new-features-in-202/</loc>
-    <lastmod>2026-11-22T05:30:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/10/MG-Windsor-Inspire-Edition-1.jpg</image:loc>
-      <image:title>Year-End Mega Clearance: Up To Rs 2 Lakh Off On Top SUVs - Variant-Wise Offers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-carens-cng-and-carens-clavis-cng-sell-6200-units-in-2-months/</loc>
-    <lastmod>2026-11-22T05:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/kia_carens_clavis_cng_sales_d9b086bbcb.webp</image:loc>
-      <image:title>Kia Carens CNG And Carens Clavis CNG Sell 6,200 Units In 2 Months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/kia-carens-cng-and-carens-clavis-cng-sell-6200-units-in-2-months/</loc>
-    <lastmod>2026-11-22T05:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/kia_carens_clavis_cng_sales_d9b086bbcb.webp</image:loc>
-      <image:title>Kia Carens CNG And Carens Clavis CNG Sell 6,200 Units In 2 Months</image:title>
     </image:image>
   </url>
 </urlset>
