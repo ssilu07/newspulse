@@ -3,39 +3,219 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-27T11:03:30Z</lastmod>
+    <lastmod>2026-11-27T16:12:10Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-27T11:03:30Z</lastmod>
+    <lastmod>2026-11-27T16:12:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-27T11:03:30Z</lastmod>
+    <lastmod>2026-11-27T16:12:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-27T11:03:30Z</lastmod>
+    <lastmod>2026-11-27T16:12:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-27T11:03:30Z</lastmod>
+    <lastmod>2026-11-27T16:12:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-27T11:03:30Z</lastmod>
+    <lastmod>2026-11-27T16:12:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-alpha-electric-suv-for-india-revealed-from-teaser-video-ahe/</loc>
+    <lastmod>2026-11-27T15:35:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/alpha_ev_revealed_featured_75af080e69.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-alpha-electric-suv-for-india-revealed-from-teaser-video-ahe/</loc>
+    <lastmod>2026-11-27T15:35:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/alpha_ev_revealed_featured_75af080e69.webp</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/royal-enfield-himalayan-750-adventure-touring-motorcycle-launched/</loc>
+    <lastmod>2026-11-27T15:32:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/royal_enfield_himalayan_750_launched_india_motoverse_featured_a8f9108b95.webp</image:loc>
+      <image:title>Royal Enfield Himalayan 750 Adventure Touring Motorcycle Launched In India At Rs. 4.89 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/royal-enfield-himalayan-750-adventure-touring-motorcycle-launched/</loc>
+    <lastmod>2026-11-27T15:32:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/royal_enfield_himalayan_750_launched_india_motoverse_featured_a8f9108b95.webp</image:loc>
+      <image:title>Royal Enfield Himalayan 750 Adventure Touring Motorcycle Launched In India At Rs. 4.89 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/royal-enfield-himalayan-750-launched-in-india-at-rs-489-lakh/</loc>
+    <lastmod>2026-11-27T15:05:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/RE-Himalayan-750-3.jpg</image:loc>
+      <image:title>Royal Enfield Himalayan 750 Launched In India At Rs. 4.89 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/royal-enfield-himalayan-750-launched-in-india-at-rs-489-lakh/</loc>
+    <lastmod>2026-11-27T15:05:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/RE-Himalayan-750-3.jpg</image:loc>
+      <image:title>Royal Enfield Himalayan 750 Launched In India At Rs. 4.89 Lakh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/nissan-terrano-phevs-production-version-leaked/</loc>
+    <lastmod>2026-11-27T13:51:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/nissan_terrano_leaked_featured_1446315417.webp</image:loc>
+      <image:title>Inside Look: Nissan Terrano PHEV&#x27;s Production Version Leaked - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/nissan-terrano-phevs-production-version-leaked/</loc>
+    <lastmod>2026-11-27T13:51:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/nissan_terrano_leaked_featured_1446315417.webp</image:loc>
+      <image:title>Inside Look: Nissan Terrano PHEV&#x27;s Production Version Leaked - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/volkswagen-to-court-during-import-duty-evasion-case-mercedes-kia-/</loc>
+    <lastmod>2026-11-27T12:28:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/volkswagen_tax_evasion_case_merc_bmw_9d1e8dbdf0.webp</image:loc>
+      <image:title>Volkswagen To Court During Import Duty Evasion Case: Mercedes, Kia &amp; BMW Doing The Same</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/volkswagen-to-court-during-import-duty-evasion-case-mercedes-kia-/</loc>
+    <lastmod>2026-11-27T12:28:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/volkswagen_tax_evasion_case_merc_bmw_9d1e8dbdf0.webp</image:loc>
+      <image:title>Volkswagen To Court During Import Duty Evasion Case: Mercedes, Kia &amp; BMW Doing The Same</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/mini-cooper-electric-launched-in-india-at-rs-539-lakhs/</loc>
+    <lastmod>2026-11-27T12:10:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/MINI-Cooper-Electric-Price.jpg</image:loc>
+      <image:title>MINI Cooper Electric Launched In India At Rs. 53.9 Lakhs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/mini-cooper-electric-launched-in-india-at-rs-539-lakhs/</loc>
+    <lastmod>2026-11-27T12:10:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/MINI-Cooper-Electric-Price.jpg</image:loc>
+      <image:title>MINI Cooper Electric Launched In India At Rs. 53.9 Lakhs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-nissan-terrano-leaked-design-engines-india-launch-details/</loc>
+    <lastmod>2026-11-27T11:59:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/Nissan-Terrano-Production-Spec.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-nissan-terrano-leaked-design-engines-india-launch-details/</loc>
+    <lastmod>2026-11-27T11:59:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://dvps8uz7lyvra.cloudfront.net/wp-content/uploads/Nissan-Terrano-Production-Spec.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-bmw-m-1000-rr-launched-in-india-at-rs-5990-lakh-gets-218-hp/</loc>
+    <lastmod>2026-11-27T11:57:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BMW-M-1000-RR.jpg</image:loc>
+      <image:title>New BMW M 1000 RR Launched In India At Rs. 59.90 Lakh, Gets 218 HP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-bmw-m-1000-rr-launched-in-india-at-rs-5990-lakh-gets-218-hp/</loc>
+    <lastmod>2026-11-27T11:57:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/BMW-M-1000-RR.jpg</image:loc>
+      <image:title>New BMW M 1000 RR Launched In India At Rs. 59.90 Lakh, Gets 218 HP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/honda-alpha-new-teaser-video-shows-front-end-of-the-upcoming-elec/</loc>
+    <lastmod>2026-11-27T11:09:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_electric_suv_new_teaser_featured_7e59c34c9f.webp</image:loc>
+      <image:title>Honda ALPHA New Teaser Video Shows Front-End Of The Upcoming Electric SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/honda-alpha-new-teaser-video-shows-front-end-of-the-upcoming-elec/</loc>
+    <lastmod>2026-11-27T11:09:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_electric_suv_new_teaser_featured_7e59c34c9f.webp</image:loc>
+      <image:title>Honda ALPHA New Teaser Video Shows Front-End Of The Upcoming Electric SUV</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/new-gen-mini-cooper-se-launched-in-india-at-rs-539-lakh/</loc>
@@ -2855,186 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-hyundai-bayon-16.jpg</image:loc>
       <image:title>Five Reasons Hyundai Bayon Stands Out In Its Segment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/yamaha-oct-2026-sales-analysis-fz-xsr-fascino-aerox-r15-mt15-rayz/</loc>
-    <lastmod>2026-11-23T05:30:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/10/Yamaha-XSR-155.jpg</image:loc>
-      <image:title>Yamaha Oct 2026 Sales Analysis - FZ, XSR, Fascino, Aerox, R15, MT15, RayZR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/yamaha-oct-2026-sales-analysis-fz-xsr-fascino-aerox-r15-mt15-rayz/</loc>
-    <lastmod>2026-11-23T05:30:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2025/10/Yamaha-XSR-155.jpg</image:loc>
-      <image:title>Yamaha Oct 2026 Sales Analysis - FZ, XSR, Fascino, Aerox, R15, MT15, RayZR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/amitabh-bachchan-takes-a-spin-on-land-rover-defender-octa-that-so/</loc>
-    <lastmod>2026-11-23T04:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/amitabh_bachchan_land_rover_defender_octa_featured_698b869847.webp</image:loc>
-      <image:title>Amitabh Bachchan Takes A Spin On Land Rover Defender Octa That Son Abhishek Just Bought [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/amitabh-bachchan-takes-a-spin-on-land-rover-defender-octa-that-so/</loc>
-    <lastmod>2026-11-23T04:45:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/amitabh_bachchan_land_rover_defender_octa_featured_698b869847.webp</image:loc>
-      <image:title>Amitabh Bachchan Takes A Spin On Land Rover Defender Octa That Son Abhishek Just Bought [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/triumph-bonneville-t40-ride-review-timeless-but-is-it-classic/</loc>
-    <lastmod>2026-11-23T04:30:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Triumph-Bonneville-T40-First-Ride-Review.jpeg</image:loc>
-      <image:title>Triumph Bonneville T40 Ride Review - Timeless But Is It Classic?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/triumph-bonneville-t40-ride-review-timeless-but-is-it-classic/</loc>
-    <lastmod>2026-11-23T04:30:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Triumph-Bonneville-T40-First-Ride-Review.jpeg</image:loc>
-      <image:title>Triumph Bonneville T40 Ride Review - Timeless But Is It Classic?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/top-5-safest-suvs-in-india-in-2026-based-on-bncap-ratings/</loc>
-    <lastmod>2026-11-23T04:00:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XEV-9e-BNCAP-Crash-Test-1.jpg</image:loc>
-      <image:title>Top 5 Safest SUVs In India In 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/top-5-safest-suvs-in-india-in-2026-based-on-bncap-ratings/</loc>
-    <lastmod>2026-11-23T04:00:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Mahindra-XEV-9e-BNCAP-Crash-Test-1.jpg</image:loc>
-      <image:title>Top 5 Safest SUVs In India In 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/kia-seltos-owners-accident-reveals-dangers-of-aftermarket-seat-co/</loc>
-    <lastmod>2026-11-23T02:42:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/seat_cover_on_6_airbags_car_bad_idea_featured_93f7213944.webp</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/kia-seltos-owners-accident-reveals-dangers-of-aftermarket-seat-co/</loc>
-    <lastmod>2026-11-23T02:42:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/seat_cover_on_6_airbags_car_bad_idea_featured_93f7213944.webp</image:loc>
-      <image:title>Bharat NCAP Safety Drama: Inside The Shocking Real-World Crash Test Of Indian Car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/5-new-compact-suvs-launching-soon-honda-alpha-to-vinfast-vf5/</loc>
-    <lastmod>2026-11-23T02:22:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/Launching_Soon_5_New_Compact_SU_Vs_Featured_8255fba227.webp</image:loc>
-      <image:title>5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/5-new-compact-suvs-launching-soon-honda-alpha-to-vinfast-vf5/</loc>
-    <lastmod>2026-11-23T02:22:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/Launching_Soon_5_New_Compact_SU_Vs_Featured_8255fba227.webp</image:loc>
-      <image:title>5 New Compact SUVs Launching Soon: Honda ALPHA To Vinfast VF5</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/why-is-honda-revealing-alpha-in-india-first/</loc>
-    <lastmod>2026-11-23T02:16:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_ev_india_reveal_first_featured_f875a1714d.webp</image:loc>
-      <image:title>The Hidden Reason Why Is Honda Revealing ALPHA In India First?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/why-is-honda-revealing-alpha-in-india-first/</loc>
-    <lastmod>2026-11-23T02:16:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/honda_alpha_ev_india_reveal_first_featured_f875a1714d.webp</image:loc>
-      <image:title>The Hidden Reason Why Is Honda Revealing ALPHA In India First?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/3-confirmed-car-launches-of-december/</loc>
-    <lastmod>2026-11-23T02:04:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_confirmed_december_2026_car_launches_featured_5292a5d482.webp</image:loc>
-      <image:title>Inside Look: 3 Confirmed Car Launches Of December - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/3-confirmed-car-launches-of-december/</loc>
-    <lastmod>2026-11-23T02:04:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_confirmed_december_2026_car_launches_featured_5292a5d482.webp</image:loc>
-      <image:title>Inside Look: 3 Confirmed Car Launches Of December - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/pm-advisor-evs-to-become-major-electricity-consumers-power-compan/</loc>
-    <lastmod>2026-11-22T15:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/pm_advisor_about_power_companies_and_ev_b6d01aa05f.webp</image:loc>
-      <image:title>PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/pm-advisor-evs-to-become-major-electricity-consumers-power-compan/</loc>
-    <lastmod>2026-11-22T15:05:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/pm_advisor_about_power_companies_and_ev_b6d01aa05f.webp</image:loc>
-      <image:title>PM Advisor: EVs To Become Major Electricity Consumers, Power Companies Must Get Ready</image:title>
     </image:image>
   </url>
 </urlset>
