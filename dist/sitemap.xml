@@ -3,37 +3,37 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-28T15:05:03Z</lastmod>
+    <lastmod>2026-11-28T17:43:07Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-28T15:05:03Z</lastmod>
+    <lastmod>2026-11-28T17:43:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-28T15:05:03Z</lastmod>
+    <lastmod>2026-11-28T17:43:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-28T15:05:03Z</lastmod>
+    <lastmod>2026-11-28T17:43:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-28T15:05:03Z</lastmod>
+    <lastmod>2026-11-28T17:43:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-28T15:05:03Z</lastmod>
+    <lastmod>2026-11-28T17:43:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -435,6 +435,26 @@
     <image:image>
       <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/New-Toyota-Innova-Hycross-vs-old-comparison.jpg</image:loc>
       <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hyundai-ioniq-p-sub-4m-electric-suv-will-debut-on-jan-16/</loc>
+    <lastmod>2026-11-28T03:35:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/04/new-hyundai-electric-suv-india-render-6.jpeg</image:loc>
+      <image:title>Hyundai Ioniq P Sub 4m Electric SUV Will Debut On Jan 16</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hyundai-ioniq-p-sub-4m-electric-suv-will-debut-on-jan-16/</loc>
+    <lastmod>2026-11-28T03:35:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/04/new-hyundai-electric-suv-india-render-6.jpeg</image:loc>
+      <image:title>Hyundai Ioniq P Sub 4m Electric SUV Will Debut On Jan 16</image:title>
     </image:image>
   </url>
   <url>
@@ -3015,26 +3035,6 @@
     <image:image>
       <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/honda-cb500-vs-rivals-compared-cover.jpg</image:loc>
       <image:title>Honda CB500 vs Rivals Compared - Bonnie 400, Classic 350, INT 650</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/3-new-toyota-mpvs-launching-in-the-next-12-months-hycross-facelif/</loc>
-    <lastmod>2026-11-24T08:05:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_toyota_mpv_c0fa5ce9a1.webp</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/3-new-toyota-mpvs-launching-in-the-next-12-months-hycross-facelif/</loc>
-    <lastmod>2026-11-24T08:05:26+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/3_upcoming_toyota_mpv_c0fa5ce9a1.webp</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
 </urlset>
