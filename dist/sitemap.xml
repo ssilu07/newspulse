@@ -3,39 +3,179 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://newsseconds.com/</loc>
-    <lastmod>2026-11-28T10:40:29Z</lastmod>
+    <lastmod>2026-11-28T15:05:03Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/about/</loc>
-    <lastmod>2026-11-28T10:40:29Z</lastmod>
+    <lastmod>2026-11-28T15:05:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/editorial-policy/</loc>
-    <lastmod>2026-11-28T10:40:29Z</lastmod>
+    <lastmod>2026-11-28T15:05:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/privacy/</loc>
-    <lastmod>2026-11-28T10:40:29Z</lastmod>
+    <lastmod>2026-11-28T15:05:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/terms/</loc>
-    <lastmod>2026-11-28T10:40:29Z</lastmod>
+    <lastmod>2026-11-28T15:05:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://newsseconds.com/contact/</loc>
-    <lastmod>2026-11-28T10:40:29Z</lastmod>
+    <lastmod>2026-11-28T15:05:03Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/top-10-electric-cars-oct-2026-punch-xev-9s-windsor-nexon-harrier-/</loc>
+    <lastmod>2026-11-28T14:25:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/03/new-tata-punch-ev-waiting-period-1.jpeg</image:loc>
+      <image:title>Top 10 Electric Cars Oct 2026 - Punch, XEV 9S, Windsor, Nexon, Harrier, eVitara, Sierra, BE 6</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/top-10-electric-cars-oct-2026-punch-xev-9s-windsor-nexon-harrier-/</loc>
+    <lastmod>2026-11-28T14:25:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/03/new-tata-punch-ev-waiting-period-1.jpeg</image:loc>
+      <image:title>Top 10 Electric Cars Oct 2026 - Punch, XEV 9S, Windsor, Nexon, Harrier, eVitara, Sierra, BE 6</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/5-new-hyundai-7-seaters-for-india-ki1i-to-palisade/</loc>
+    <lastmod>2026-11-28T14:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_7_seat_hyundai_launches_9634ac8e12.webp</image:loc>
+      <image:title>5 New Hyundai 7-Seaters For India: Ki1i To Palisade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/5-new-hyundai-7-seaters-for-india-ki1i-to-palisade/</loc>
+    <lastmod>2026-11-28T14:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/5_upcoming_7_seat_hyundai_launches_9634ac8e12.webp</image:loc>
+      <image:title>5 New Hyundai 7-Seaters For India: Ki1i To Palisade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/new-hyundai-mpv-codenamed-ki1i-likely-to-rival-innova-with-diesel/</loc>
+    <lastmod>2026-11-28T13:17:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/07/Hyundai-Stargazer-Facelift-Teased-4.jpeg</image:loc>
+      <image:title>Inside Look: New Hyundai MPV Codenamed Ki1i - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-hyundai-mpv-codenamed-ki1i-likely-to-rival-innova-with-diesel/</loc>
+    <lastmod>2026-11-28T13:17:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2025/07/Hyundai-Stargazer-Facelift-Teased-4.jpeg</image:loc>
+      <image:title>Inside Look: New Hyundai MPV Codenamed Ki1i - What Every Indian Car Owner Must Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/toyota-innova-hycross-hybrid-can-single-handedly-increase-flex-fu/</loc>
+    <lastmod>2026-11-28T13:11:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/toyota_innova_hycross_flex_fuel_hybrid_car_sales_boost_featured_9703e6e82c.webp</image:loc>
+      <image:title>Toyota Innova Hycross Hybrid Can Single-Handedly Increase Flex Fuel Car Sales In India: Here&#x27;s Why</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/toyota-innova-hycross-hybrid-can-single-handedly-increase-flex-fu/</loc>
+    <lastmod>2026-11-28T13:11:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/toyota_innova_hycross_flex_fuel_hybrid_car_sales_boost_featured_9703e6e82c.webp</image:loc>
+      <image:title>Toyota Innova Hycross Hybrid Can Single-Handedly Increase Flex Fuel Car Sales In India: Here&#x27;s Why</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/cricketer-suryakumar-yadavs-gets-a-custom-1954-dodge-power-wagon-/</loc>
+    <lastmod>2026-11-28T13:02:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/suryakumar_yadav_dodge_powerwagon_8e59d68e9c.webp</image:loc>
+      <image:title>Cricketer Suryakumar Yadav&#x27;s Gets A Custom 1954 Dodge Power Wagon [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/cricketer-suryakumar-yadavs-gets-a-custom-1954-dodge-power-wagon-/</loc>
+    <lastmod>2026-11-28T13:02:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/suryakumar_yadav_dodge_powerwagon_8e59d68e9c.webp</image:loc>
+      <image:title>Cricketer Suryakumar Yadav&#x27;s Gets A Custom 1954 Dodge Power Wagon [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/rs-76000-crores-cost-of-a-total-bs4-vehicle-ban-for-vehicle-owner/</loc>
+    <lastmod>2026-11-28T12:54:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/cost_of_banning_bs4_vehicles_delhi_ncr_76000_crore_rupees_featured_41df0822b9.webp</image:loc>
+      <image:title>Rs. 76,000 Crores: Cost Of A Total BS4 Vehicle Ban For Vehicle Owners In Just Delhi NCR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/rs-76000-crores-cost-of-a-total-bs4-vehicle-ban-for-vehicle-owner/</loc>
+    <lastmod>2026-11-28T12:54:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/cost_of_banning_bs4_vehicles_delhi_ncr_76000_crore_rupees_featured_41df0822b9.webp</image:loc>
+      <image:title>Rs. 76,000 Crores: Cost Of A Total BS4 Vehicle Ban For Vehicle Owners In Just Delhi NCR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/hero-vida-nex-3-electric-car-all-you-need-to-know/</loc>
+    <lastmod>2026-11-28T10:50:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hero_motocorp_s_nex_3_2_seat_electric_car_featured_1f5d4122aa.webp</image:loc>
+      <image:title>Hero VIDA NEX 3 Electric Car: All You Need To Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/hero-vida-nex-3-electric-car-all-you-need-to-know/</loc>
+    <lastmod>2026-11-28T10:50:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.cartoq.com/photos/hero_motocorp_s_nex_3_2_seat_electric_car_featured_1f5d4122aa.webp</image:loc>
+      <image:title>Hero VIDA NEX 3 Electric Car: All You Need To Know</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://newsseconds.com/news/tvs-norton-atlas-adv-for-india-top-10-highlights-you-should-know/</loc>
@@ -98,6 +238,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/new-tvs-jupiter-125-abs-variant-spied-at-dealer-launch-soon/</loc>
+    <lastmod>2026-11-28T08:25:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-tvs-jupiter-125-abs-variant-reach-dealers-2.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-tvs-jupiter-125-abs-variant-spied-at-dealer-launch-soon/</loc>
+    <lastmod>2026-11-28T08:25:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-tvs-jupiter-125-abs-variant-reach-dealers-2.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/ayodhya-baba-buys-8-toyotas-worth-rs-5-crore-on-a-single-day-vide/</loc>
     <lastmod>2026-11-28T07:54:31+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -115,6 +275,26 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/ayodhya_baba_buys_8_toyota_single_day_worth_5_crore_featured_dd38d61d50.webp</image:loc>
       <image:title>Ayodhya Baba Buys 8 Toyotas Worth Rs 5 Crore On A Single Day [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/150cc-to-200cc-motorcycle-sales-oct-2026-pulsar-apache-unicorn-fz/</loc>
+    <lastmod>2026-11-28T07:45:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-bajaj-pulsar-rs-200-launch-price-usd-forks-tft-display-11.jpg</image:loc>
+      <image:title>150cc to 200cc Motorcycle Sales Oct 2026 - Pulsar, Apache, Unicorn, FZ, MT15, R15, XSR, Xpulse, KTM, Xtreme</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/150cc-to-200cc-motorcycle-sales-oct-2026-pulsar-apache-unicorn-fz/</loc>
+    <lastmod>2026-11-28T07:45:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-bajaj-pulsar-rs-200-launch-price-usd-forks-tft-display-11.jpg</image:loc>
+      <image:title>150cc to 200cc Motorcycle Sales Oct 2026 - Pulsar, Apache, Unicorn, FZ, MT15, R15, XSR, Xpulse, KTM, Xtreme</image:title>
     </image:image>
   </url>
   <url>
@@ -158,6 +338,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://newsseconds.com/news/new-bajaj-dominar-400-tft-variant-spied-testing-for-the-first-tim/</loc>
+    <lastmod>2026-11-28T06:35:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-dominar-400-tft-version-spied-3.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/new-bajaj-dominar-400-tft-variant-spied-testing-for-the-first-tim/</loc>
+    <lastmod>2026-11-28T06:35:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/new-dominar-400-tft-version-spied-3.jpg</image:loc>
+      <image:title>First Clear Look: Upcoming SUV Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://newsseconds.com/news/festive-2026-ev-sales-get-past-5-lakh-units-for-the-1st-time-up-5/</loc>
     <lastmod>2026-11-28T05:30:59+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -195,6 +395,26 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/20_confirmed_car_launches_of_2027_featured_5bc21dfa65.webp</image:loc>
       <image:title>20 Confirmed Mass Market SUV Launches Of 2027: Hyundai IONIQ P To Mahindra Vision S</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/news/upcoming-hyundai-7-seater-suv-spied-again-xuv7xo-safari-rival/</loc>
+    <lastmod>2026-11-28T04:06:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/upcoming-hyundai-7-seater-suv-spied.jpg</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://newsseconds.com/stories/upcoming-hyundai-7-seater-suv-spied-again-xuv7xo-safari-rival/</loc>
+    <lastmod>2026-11-28T04:06:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/upcoming-hyundai-7-seater-suv-spied.jpg</image:loc>
+      <image:title>First Clear Look: Hyundai Leaked With Major Design Upgrades Inside &amp; Out</image:title>
     </image:image>
   </url>
   <url>
@@ -2815,226 +3035,6 @@
     <image:image>
       <image:loc>https://cdn.cartoq.com/photos/3_upcoming_toyota_mpv_c0fa5ce9a1.webp</image:loc>
       <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toll-plazas-will-automatically-check-puc-insurance-rc-and-automat/</loc>
-    <lastmod>2026-11-24T07:05:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/no_puc_insurance_rc_toll_plaza_automatic_fine_featured_52c145186c.webp</image:loc>
-      <image:title>New Traffic Rules &amp; Challan Alert: What Indian Drivers Need To Know About Toll Plazas Will Automatically Check PUC, Ins</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toll-plazas-will-automatically-check-puc-insurance-rc-and-automat/</loc>
-    <lastmod>2026-11-24T07:05:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/no_puc_insurance_rc_toll_plaza_automatic_fine_featured_52c145186c.webp</image:loc>
-      <image:title>New Traffic Rules &amp; Challan Alert: What Indian Drivers Need To Know About Toll Plazas Will Automatically Check PUC, Ins</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-motors-signs-mou-with-arai-for-new-energy-vehicle-development/</loc>
-    <lastmod>2026-11-24T07:00:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/jsw-Combat.jpg</image:loc>
-      <image:title>JSW Motors Signs MoU With ARAI For New Energy Vehicle Development</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jsw-motors-signs-mou-with-arai-for-new-energy-vehicle-development/</loc>
-    <lastmod>2026-11-24T07:00:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/jsw-Combat.jpg</image:loc>
-      <image:title>JSW Motors Signs MoU With ARAI For New Energy Vehicle Development</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/tvs-sales-breakup-oct-2026-jupiter-apache-xl-iqube-raider-ntorq-r/</loc>
-    <lastmod>2026-11-24T06:58:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/08/2024-tvs-jupiter-110-new-launch-price-colours-features-specs-mileage-21.jpg</image:loc>
-      <image:title>TVS Sales Breakup Oct 2026 - Jupiter, Apache, XL, iQube, Raider, Ntorq, Radeon, Ronin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/tvs-sales-breakup-oct-2026-jupiter-apache-xl-iqube-raider-ntorq-r/</loc>
-    <lastmod>2026-11-24T06:58:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/08/2024-tvs-jupiter-110-new-launch-price-colours-features-specs-mileage-21.jpg</image:loc>
-      <image:title>TVS Sales Breakup Oct 2026 - Jupiter, Apache, XL, iQube, Raider, Ntorq, Radeon, Ronin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/10-things-every-diesel-car-owner-must-know-about-dpf/</loc>
-    <lastmod>2026-11-24T06:46:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/dpf_issue_10_things_diesel_car_suv_owners_must_know_featured_b05088a874.webp</image:loc>
-      <image:title>10 Things Every Diesel Car Owner Must Know About DPF</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/10-things-every-diesel-car-owner-must-know-about-dpf/</loc>
-    <lastmod>2026-11-24T06:46:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/dpf_issue_10_things_diesel_car_suv_owners_must_know_featured_b05088a874.webp</image:loc>
-      <image:title>10 Things Every Diesel Car Owner Must Know About DPF</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-motors-signs-mou-with-arai-ahead-of-combat-suv-debut/</loc>
-    <lastmod>2026-11-24T06:11:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-motors-arai-partner-combat-suv-specs-india.jpg</image:loc>
-      <image:title>JSW Motors Signs MoU With ARAI Ahead Of Combat SUV Debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jsw-motors-signs-mou-with-arai-ahead-of-combat-suv-debut/</loc>
-    <lastmod>2026-11-24T06:11:52+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/11/jsw-motors-arai-partner-combat-suv-specs-india.jpg</image:loc>
-      <image:title>JSW Motors Signs MoU With ARAI Ahead Of Combat SUV Debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-cb500-retro-roadster-all-key-specs-features-revealed/</loc>
-    <lastmod>2026-11-24T05:30:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/honda-cb500-pearl-igneous-black-1400x800-1.jpg</image:loc>
-      <image:title>Inside Look: Honda CB500 Retro Roadster - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-cb500-retro-roadster-all-key-specs-features-revealed/</loc>
-    <lastmod>2026-11-24T05:30:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/09/honda-cb500-pearl-igneous-black-1400x800-1.jpg</image:loc>
-      <image:title>Inside Look: Honda CB500 Retro Roadster - What Every Indian Car Owner Must Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/jsw-combat-phev-launching-next-week-what-we-know-so-far/</loc>
-    <lastmod>2026-11-24T04:57:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_suv_details_f3670e105e.webp</image:loc>
-      <image:title>JSW Combat PHEV Launching Next Week: What We Know So Far</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/jsw-combat-phev-launching-next-week-what-we-know-so-far/</loc>
-    <lastmod>2026-11-24T04:57:45+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/jsw_combat_suv_details_f3670e105e.webp</image:loc>
-      <image:title>JSW Combat PHEV Launching Next Week: What We Know So Far</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/maruti-suzuki-4th-price-hike-for-2026-announced-details/</loc>
-    <lastmod>2026-11-24T04:08:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/10/all-maruti-suzuki-cars-mileage-ranked-swift.jpg</image:loc>
-      <image:title>Price Hike Alert: Maruti Suzuki 4th Becomes More Expensive Starting This Month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/maruti-suzuki-4th-price-hike-for-2026-announced-details/</loc>
-    <lastmod>2026-11-24T04:08:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2024/10/all-maruti-suzuki-cars-mileage-ranked-swift.jpg</image:loc>
-      <image:title>Price Hike Alert: Maruti Suzuki 4th Becomes More Expensive Starting This Month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/toyota-innova-hycross-facelift-to-launch-tomorrow-top-5-highlight/</loc>
-    <lastmod>2026-11-24T04:00:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/toyota-innova-hycross-facelift-to-launch-tomorrow-top-5-highlight/</loc>
-    <lastmod>2026-11-24T04:00:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://gaadiwaadi.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-2.jpg</image:loc>
-      <image:title>First Clear Look: Toyota Leaked With Major Design Upgrades Inside &amp; Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/honda-cb500-specs-fully-revealed-28-ps-433-nm-tbt-nav/</loc>
-    <lastmod>2026-11-24T03:58:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-honda-cb500-launch-price-bookings-16.jpeg</image:loc>
-      <image:title>Honda CB500 Specs Fully Revealed - 28 PS, 43.3 Nm, TBT Nav</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/honda-cb500-specs-fully-revealed-28-ps-433-nm-tbt-nav/</loc>
-    <lastmod>2026-11-24T03:58:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.rushlane.com/wp-content/uploads/2026/07/new-honda-cb500-launch-price-bookings-16.jpeg</image:loc>
-      <image:title>Honda CB500 Specs Fully Revealed - 28 PS, 43.3 Nm, TBT Nav</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/news/hiding-your-number-plate-to-avoid-barrierless-toll-pay-8-times-to/</loc>
-    <lastmod>2026-11-24T03:35:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/barrierfree_toll_penalty_hiding_number_plate_8_X_toll_featured_7373395af2.webp</image:loc>
-      <image:title>Number Plate Alert: Massive Fine For Non-HSRP Plates &amp; How To Avoid Impoundment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://newsseconds.com/stories/hiding-your-number-plate-to-avoid-barrierless-toll-pay-8-times-to/</loc>
-    <lastmod>2026-11-24T03:35:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://cdn.cartoq.com/photos/barrierfree_toll_penalty_hiding_number_plate_8_X_toll_featured_7373395af2.webp</image:loc>
-      <image:title>Number Plate Alert: Massive Fine For Non-HSRP Plates &amp; How To Avoid Impoundment</image:title>
     </image:image>
   </url>
 </urlset>
